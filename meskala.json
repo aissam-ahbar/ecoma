@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MAHMOUD DAROUICH",
+    "NOM_ETABA": "الثانوية الإعدادية محمود درويش",
+    "AdresseL": "MESKALA",
+    "AdresseA": "مسكالة",
+    "COMMUNE": "Meskala",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S MESKALA",
+    "NOM_ETABA": "م م مسكالة",
+    "AdresseL": "DOUAR AIT CHAAIB MESKALA",
+    "AdresseA": "دوار ايت شعيب مسكالة",
+    "COMMUNE": "Meskala",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT BRAHIM OUSAID",
+    "NOM_ETABA": "م م ايت ابراهيم اوسعيد",
+    "AdresseL": "DOUAR AIT BRAHIM OU SAID MESKALA",
+    "AdresseA": "دوار ايت ابراهيم اسعيد جماعة مسكالة",
+    "COMMUNE": "Meskala",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

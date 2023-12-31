@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "الثانوية الإعدادية عمر بن عبد العزيز",
+    "AdresseL": "OULED ABBOU",
+    "AdresseA": "اولاد عبو",
+    "COMMUNE": "Oulad Abbou",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CENTRALE OULED ABBOU",
+    "NOM_ETABA": "المدرسة الابتدائية مركزية اولاد عبو",
+    "AdresseL": "centre oulad abbou  COMMUNE OULAD ABBOU",
+    "AdresseA": "مرلاكزية اولاد عبو جماعة اولاد عبو",
+    "COMMUNE": "Oulad Abbou",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALI BNOU ABI TALEB ",
+    "NOM_ETABA": "المدرسة الابتدائية علي بن ابي طالب",
+    "AdresseL": " centre oulad abbou  COMMUNE OULAD ABBOU",
+    "AdresseA": "اولاد عبو المركز جماعة اولاد عبو",
+    "COMMUNE": "Oulad Abbou",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "PAM CENTRE",
+    "NOM_ETABA": "مركزية بام",
+    "AdresseL": "hay pam commune urbaine oulad abbou province de be",
+    "AdresseA": " حي بام جماعة اولاد عبو البلدية  اقليم برشيد",
+    "COMMUNE": "Oulad Abbou",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT HASSAN BNOU TABIT",
+    "NOM_ETABA": "الثانوية التأهيلية حسان بن تابث",
+    "AdresseL": "cite pam jdid",
+    "AdresseA": "حي بام الجديد",
+    "COMMUNE": "Oulad Abbou",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT KHALID BEN OUALID",
+    "NOM_ETABA": "الثانوية التأهيلية خالد بن الوليد",
+    "AdresseL": "hay khalid ben oualid",
+    "AdresseA": "حي خالد بن الوليد",
+    "COMMUNE": "Oulad Abbou",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AMINE OULED ABBOU",
+    "NOM_ETABA": "أمين أولاد عبو الخصوصية",
+    "AdresseL": "rue de la poste",
+    "AdresseA": "زنقة البريد",
+    "COMMUNE": "Oulad Abbou ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole essUondos",
+    "NOM_ETABA": " مؤسسة السندس الخصوصية",
+    "AdresseL": "60 Ain jamaa oulad abbou",
+    "AdresseA": "60 عين الجمعة أولاد عبو",
+    "COMMUNE": "Oulad Abbou ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "NOM_ETABL": "C SIDI HADJ LHBIB",
+    "NOM_ETABA": "ثإ. سيدي الحاج الحبيب",
+    "AdresseL": "HAY LES CHALETS BIOUGRA MUNICIPALITE BIOUGRA",
+    "AdresseA": "شارع سيدي الحاج الحبيب بيوكرى اشتوكة ايت باها",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C HAMMADI M BAREK",
+    "NOM_ETABA": "ثإ. حمادي مبارك بن بوبكر",
+    "AdresseL": "Av Sidi said chrif  BIOUGRA",
+    "AdresseA": "شارع سيدي سعيد الشريف",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C LARBI CHTOUKI",
+    "NOM_ETABA": "ثإ. العربي الشتوكي",
+    "AdresseL": "HAY TOUAMA  BIOUGRA",
+    "AdresseA": "حي التوامة بيوكرى",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ANASS BNO MALIK",
+    "NOM_ETABA": "ثإ. أنس بن مالك",
+    "AdresseL": "HAY TIN BIOUGRA BIOUGRA",
+    "AdresseA": "حي تين بيوكرى بيوكرى",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E SIDI SAID ECHARIF",
+    "NOM_ETABA": "م. سيدي سعيد الشريف",
+    "AdresseL": "HAY LES CHALETS  RUE CHIKH MALAININ BIOUGRA",
+    "AdresseA": "حي ليشالي شارع الشيخ ماء العينين بيوكرى",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOUKHTAR ESSOUSSI ",
+    "NOM_ETABA": "م المختار السوسي",
+    "AdresseL": "RUE CHIKH MALAININ LES CHALETS BIOUGRA",
+    "AdresseA": "شارع الشيخ ماء العينين",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ESSAFA",
+    "NOM_ETABA": "م. الصفاء",
+    "AdresseL": "BVD HASSAN II Quartier administratif BIOUGRA",
+    "AdresseA": "شارع الحسن الثاني الحي الاداري بيوكرى",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL KADI AYAD",
+    "NOM_ETABA": "م. القاضي عياض",
+    "AdresseL": "HAY TOUAMA  BIOUGRA",
+    "AdresseA": "حي التوامة بيوكرى",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL FALLAH",
+    "NOM_ETABA": "م. الفلاح",
+    "AdresseL": "HAY  MAALA BIOUGRA CENTRE",
+    "AdresseA": "حي ماعلا  درب حماد  بيوكرى",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU TAOUMARTE",
+    "NOM_ETABA": "م. ابن تومرت",
+    "AdresseL": "QUARTIER gnawa BIOUGRA",
+    "AdresseA": "حي كناوة بيوكرى",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN AL BAYTAR",
+    "NOM_ETABA": "م. ابن البيطار",
+    "AdresseL": "Hay Touama Biougra",
+    "AdresseA": "حي التوامة",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL MORABITINE",
+    "NOM_ETABA": "ثأ. المرابطين",
+    "AdresseL": "CITE SIDI SAID",
+    "AdresseA": "حي سيدي سعيد",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ALJOULANE",
+    "NOM_ETABA": "ثأ. الجولان",
+    "AdresseL": "Bvd MOULAY ABDELLAH HAY ALJOULANE",
+    "AdresseA": "شارع مولاي عبد الله الجولان",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L IBN SINA",
+    "NOM_ETABA": "ثأ.ابن سينا",
+    "AdresseL": "ROUTE DE BOUALLAGA BIOUGRA",
+    "AdresseA": "طريق بوعلاكا - بيوكرى",
+    "COMMUNE": "Biougra",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL KALIMAE",
+    "NOM_ETABA": "الكلمة الخاصة",
+    "AdresseL": "N° 18  Bvd Prince My ABDALLAH ",
+    "AdresseA": "رقم 18 شارع مولاي عبد الله ",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BORAK SUD",
+    "NOM_ETABA": "براق الجنوب الخاصة",
+    "AdresseL": "Bvd Bir Inzarran  Biougra",
+    "AdresseA": "شارع بئر إنزران حي الجولان بيو",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FONDATION  ARIHAE",
+    "NOM_ETABA": "مؤسسة أريحا الخاصة",
+    "AdresseL": "Route principale biougra",
+    "AdresseA": "الطريق الرئيسي بيوكرى",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL FASSAIL",
+    "NOM_ETABA": "مؤسسة الفسائل للتعليم الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "حي سيدي سعيد ايت وارغن بيوكرى",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION IBN JUBAIRE",
+    "NOM_ETABA": "مؤسسة ابن جبير للتربية و التعليم الخصوصي",
+    "AdresseL": "hay les chalets ouest en face ",
+    "AdresseA": "حي لشالي الغربيةامام معهد التك",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FONDATION ASSEDKE",
+    "NOM_ETABA": "مؤسسة الصدق للتعليم الخصوصي",
+    "AdresseL": "LOTISSEMENT ANNASSIM N 12",
+    "AdresseA": "رقم 12 تجزئة النسيم بيوكرى",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HIKMA",
+    "NOM_ETABA": "الحكمة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي معلا بيوكرى",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL WIAM PRESCOLAIRE",
+    "NOM_ETABA": "الوئام للتعليم الاولي",
+    "AdresseL": "",
+    "AdresseA": "درب كناوة بيوكرى",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FADA AL WIAME",
+    "NOM_ETABA": "مؤسسة فضاء الوئام للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الوئام طريق ايت اعميرة ب",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM LACHALI PRESCOLAIRE",
+    "NOM_ETABA": "براعم لاشالي للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 48 زنقة 4 بلوك e حي لشالي ",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMANAT ALLAH PRESCOLAIRE",
+    "NOM_ETABA": "أمانة الله للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "درب كناوة زنقة الفداء رقم 166 ",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAJAH SANHAJA",
+    "NOM_ETABA": "نجاح صنهاجة للتعليم الأولي",
+    "AdresseL": "N°5 SENHAJA LES CHALET 2 ",
+    "AdresseA": " زنقة صنهاجة حي لشالي بيوكرى",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MALAK AT TAHER",
+    "NOM_ETABA": "مؤسسة الملاك الطاهر للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي التوامة زنقة الوحدة رقم 17 ",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHOTOUA AL OULA",
+    "NOM_ETABA": "مؤسسة الخطوة الأولى للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي سيدي سعيد الشريف زنقة 3 الر",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETAB. HIBA",
+    "NOM_ETABA": "مؤسسة التعليم الاولي هبة ",
+    "AdresseL": "NULL",
+    "AdresseA": "شار ابو بكر الصديق حي سيدي سعي",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HOROUF",
+    "NOM_ETABA": "مؤسسة الحروف للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الاخلاص رقم 57 بيوكرى",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL MOSTAQBAL",
+    "NOM_ETABA": "مؤسسة براعم المستقبل للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي التوامة زنقة الكتبية بيوكرى",
+    "COMMUNE": "Biougra ",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

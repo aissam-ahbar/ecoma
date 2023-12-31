@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIT MAJDEN",
+    "NOM_ETABA": "ثانوية آيت ماجدن الإعدادية",
+    "AdresseL": "CENTRE COMMUNE AIT MAJDEN",
+    "AdresseA": "مركز ايت ماجدن",
+    "COMMUNE": "Ait Majden",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT MAJDEN",
+    "NOM_ETABA": "مركزية آيت ماجدن",
+    "AdresseL": "KHMISS AIT MAJDEN",
+    "AdresseA": "خميس ايت ماجدن",
+    "COMMUNE": "Ait Majden",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE WARIDE",
+    "NOM_ETABA": "مركزية وريد",
+    "AdresseL": "DOUAR WARID ",
+    "AdresseA": "دوار وريد ",
+    "COMMUNE": "Ait Majden",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IFATTOUCHEN",
+    "NOM_ETABA": "مركزية افطوشن",
+    "AdresseL": "DOUAR TIZGUI KEROUAL ",
+    "AdresseA": "دوار تيزكي كروال",
+    "COMMUNE": "Ait Majden",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AMOUGUEZ",
+    "NOM_ETABA": "مركزية أموكز",
+    "AdresseL": "DOUAR AMOUGUEZ  ",
+    "AdresseA": "دوار اموكز ",
+    "COMMUNE": "Ait Majden",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TALIOUINE",
+    "NOM_ETABA": "مركزية تلوين",
+    "AdresseL": "DOUAR TALIOUINE ",
+    "AdresseA": "دوار تلوين ايت صالج ",
+    "COMMUNE": "Ait Majden",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

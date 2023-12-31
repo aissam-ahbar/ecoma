@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C IMOULASS",
+    "NOM_ETABA": " ثإ.ايمولاس",
+    "AdresseL": "centre de la commune",
+    "AdresseA": "مركز الجماعة",
+    "COMMUNE": "Imoulass",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS IDRISS PREMIER",
+    "NOM_ETABA": "م.م ادريس الاول",
+    "AdresseL": "DOUAR  IMOULASS CIMOULASS",
+    "AdresseA": "دوار ايمولاس جماعة ايمولاس",
+    "COMMUNE": "Imoulass",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AFENSSOU",
+    "NOM_ETABA": "م.م أفنسو",
+    "AdresseL": "DOUAR  AFENSSOU CIMOULASS",
+    "AdresseA": "دوار أفنسو جماعة امولاس",
+    "COMMUNE": "Imoulass",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TANFACHTE",
+    "NOM_ETABA": "م.م تنفاشت",
+    "AdresseL": "DOUAR  TANFACHTE    IMOULASS",
+    "AdresseA": "دوار تنفاشت جماعة ايمولاس",
+    "COMMUNE": "Imoulass",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL ADARISSA",
+    "NOM_ETABA": "م.م الأدارسة",
+    "AdresseL": "DOUAR  AGUERD Commune IMOULASs",
+    "AdresseA": "د. أكرض",
+    "COMMUNE": "Imoulass",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

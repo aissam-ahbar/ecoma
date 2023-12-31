@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDESSAMAD EL KENFAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الصمد الكنفاوي ",
+    "AdresseL": "COMMUNE SAHEL",
+    "AdresseA": "جماعة  الساحل - دائرة وادي المخازن",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM BOUKHARI",
+    "NOM_ETABA": "مدرسة الإمام البخاري",
+    "AdresseL": "SAHEL CENTRE COMMUNE SAHEL",
+    "AdresseA": "مركز الساحل",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELKADI AYAD NGARJA  CENTRE",
+    "NOM_ETABA": "م/م القضي عياض -انكارجة- المركز",
+    "AdresseL": "DOUAR NGARJA COMMUNE SAHEL",
+    "AdresseA": "دوار النكارجة جماعة الساحل",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RIHIYNNE CENTRE",
+    "NOM_ETABA": "م/م الريحيين  المركزية  ",
+    "AdresseL": "DOUAR RIHIYNE COMMUNE SAHEL",
+    "AdresseA": "دوار الريحيين",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU SINAE CENTRE KRIMDA",
+    "NOM_ETABA": "م/م ابن سينا  المركزية ",
+    "AdresseL": "DOUAR KRIMDA COMMUNE SAHEL",
+    "AdresseA": "دوار قريمدة",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN KATTAAE CENTRE",
+    "NOM_ETABA": "م/م عين قطاع المركز ",
+    "AdresseL": "DOUAR AIN KATTAAE COMMUNE SAHEL",
+    "AdresseA": "دوار عين قطاع",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE HASSAN EL ARAICHI",
+    "NOM_ETABA": "مدرسة حسن العرائشي",
+    "AdresseL": "cartier chorfa  centre khmis  sahel",
+    "AdresseA": "حومة الشرفاء \\مركز خميس الساحل",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LIXUS",
+    "NOM_ETABA": "الثانوية التأهيلية ليكسوس",
+    "AdresseL": "SAHEL CENTRE",
+    "AdresseA": "الساحل المركز",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "NULL",
+    "AdresseA": "حومة الحمام،  الساحل",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KHMIS SAHEL",
+    "NOM_ETABA": "مؤسسة خميس الساحل الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حومة الشرفاء",
+    "COMMUNE": "Sahel",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

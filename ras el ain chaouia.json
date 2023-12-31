@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RAS EL AIN",
+    "NOM_ETABA": "الثانوية الإعدادية راس العين",
+    "AdresseL": "centre COMMUNE RAS EL AIN",
+    "AdresseA": "مركز جماعة راس العين",
+    "COMMUNE": "Ras El Ain Chaouia",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE RAS ELAIN",
+    "NOM_ETABA": " مدرسة راس العين",
+    "AdresseL": "CENTRE RAS EL AIN COMMUNE RAS EL AIN CHOUIA  ",
+    "AdresseA": "مركز راس العين جماعة رأس العين الشاوية   ",
+    "COMMUNE": "Ras El Ain Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABHALLA CENTRE",
+    "NOM_ETABA": "مركزية لبهالة",
+    "AdresseL": "DOUAR EL KOUBBA COMMUNE RAS EL AIN",
+    "AdresseA": "دوار القبة جماعة راس العين",
+    "COMMUNE": "Ras El Ain Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " BIR BOUGSAIA CENTRE",
+    "NOM_ETABA": "مركزية بئر بوكصيعة",
+    "AdresseL": " CENTRE BIR BOUGSAIA  COMMUNE RAS EL AIN chaouia",
+    "AdresseA": "مركزية بير بوكصيعة جماعة راس العين",
+    "COMMUNE": "Ras El Ain Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AMMI ALLAL CENTRE",
+    "NOM_ETABA": " مركزية اولاد عمي علال",
+    "AdresseL": "DOUAR OULAD AMMI ALLAL COMMUNE RAS EL AIN",
+    "AdresseA": "اولاد عمي علال راس العين",
+    "COMMUNE": "Ras El Ain Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELAOUNATE CENTRE",
+    "NOM_ETABA": "مركزية العونات",
+    "AdresseL": "DOUAR EL AOUNATE LEQWARCHA COMMUNE RAS EL AIN",
+    "AdresseA": "دوار العونات القوارشة جماعة راس العين",
+    "COMMUNE": "Ras El Ain Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SI ABDELLAH CENTRE",
+    "NOM_ETABA": "مركزية اولاد سي عبد الله",
+    "AdresseL": "DOUAR OULAD SI ABDELLAH COMMUNE RAS EL AIN",
+    "AdresseA": "دوار اولاد  سي عبد الله جماعة راس العين",
+    "COMMUNE": "Ras El Ain Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL FARRABI",
+    "NOM_ETABA": "ثانوية الفارابي التأهيلية",
+    "AdresseL": "commune ras el ain cité  lahmamda",
+    "AdresseA": "جماعة راس العين",
+    "COMMUNE": "Ras El Ain Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

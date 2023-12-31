@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "MATMATA",
+    "NOM_ETABA": "مطماطة",
+    "AdresseL": "MATMATA  COMMUNE MATMATA TAZA",
+    "AdresseA": "مطماطة  جماعة مطماطة تازة",
+    "COMMUNE": "Matmata",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN BOUMASSAY CENTRE",
+    "NOM_ETABA": "عين بومساي المركز",
+    "AdresseL": "AIN BOUMASSAY COMMUNE MATMATA tahala taza",
+    "AdresseA": "عين بومساي جماعة مطماطة تاهلة تازة",
+    "COMMUNE": "Matmata",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN FANDAL CENTRE",
+    "NOM_ETABA": "عين فندل المركز",
+    "AdresseL": "AIN FANDAL COMMUNE MATMATA",
+    "AdresseA": " دوارعين فندل  جماعة مطماطة",
+    "COMMUNE": "Matmata",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT YOUSSEF BNOU TACHAFINE",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين التأهيلية",
+    "AdresseL": "MATMATA CENTRE",
+    "AdresseA": "مطماطة المركز",
+    "COMMUNE": "Matmata",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KODS",
+    "NOM_ETABA": "الثانوية الإعدادية القدس",
+    "AdresseL": "ait harz allah",
+    "AdresseA": "ايت  حرز  الله",
+    "COMMUNE": "Ait Harz Allah",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUYSSEMSSADE",
+    "NOM_ETABA": "الثانوية الإعدادية بويسمساد",
+    "AdresseL": "BOUYSSEMSSADE AIT HARZELLAH",
+    "AdresseA": "بويسمساد أيت حرزالله",
+    "COMMUNE": "Ait Harz Allah",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "FOUARAT",
+    "NOM_ETABA": "الفوارات",
+    "AdresseL": "FOUARAT AIT HARZ ALLAH",
+    "AdresseA": "الفوارات ايت حرز الله",
+    "COMMUNE": "Ait Harz Allah",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUSEMSAD",
+    "NOM_ETABA": "بوسمساد",
+    "AdresseL": "BOUSEMSAD AIT HARZ ALLAH",
+    "AdresseA": "بوسمساد ايت حرز الله",
+    "COMMUNE": "Ait Harz Allah",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TINIZA",
+    "NOM_ETABA": "تنيزة",
+    "AdresseL": "TINIZA AIT HARZ ALLAH",
+    "AdresseA": "تنيزة ايت حرز الله",
+    "COMMUNE": "Ait Harz Allah",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

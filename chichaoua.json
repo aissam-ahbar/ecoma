@@ -1,0 +1,192 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL HAY LHASSANI",
+    "NOM_ETABA": "الثانوية الإعدادية الحي الحسني",
+    "AdresseL": "Hay Lhassani Chichaoua",
+    "AdresseA": "الحي الحسني شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZZARKTOUNI",
+    "NOM_ETABA": "الثانوية الإعدادية الزرقطوني",
+    "AdresseL": "RUE MOHAMMED  V  CHICHAOUA",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ANNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "HAY ANNAHDA  MUNICIPALITE CHICHAOUA",
+    "AdresseA": "حي النهضة، بلدية شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZZAITOUNE",
+    "NOM_ETABA": "الزيتون",
+    "AdresseL": "DOUAR LAKHRIBATE  ",
+    "AdresseA": "دوار لخريبات",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LOUCHAOUCHA",
+    "NOM_ETABA": "لوشاوشا",
+    "AdresseL": "DOUAR LOUCHAOUCHA MUN CHICHAOUA",
+    "AdresseA": "دوار  لوشاوشا بلدية شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL BOUSSAIRI",
+    "NOM_ETABA": "البوصيري",
+    "AdresseL": "CITE AL QODS  MUNICIPALITE CHICHAOUA",
+    "AdresseA": "حي القدس  بلدية شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZZAHRAE",
+    "NOM_ETABA": "الزهراء",
+    "AdresseL": "hay EL mohammadi MUNICIPALITE CHICHAOUA",
+    "AdresseA": "الحي المحمدي  بلدية شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEL MOKADDAM",
+    "NOM_ETABA": "بلمقدم",
+    "AdresseL": "ZAOUIAT BEL MoKADDAM MUNICIPALITE CHICHAOUA",
+    "AdresseA": "زاوية بلمقدم،  بلدية شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED BOUKMAKHE",
+    "NOM_ETABA": "احمد بوكماخ",
+    "AdresseL": "CITE AL FARAH  MUNICIPALITE CHICHAOUA",
+    "AdresseA": "حي الفرح  بلدية شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNAHDA2",
+    "NOM_ETABA": "النهضة 2",
+    "AdresseL": "Hay Annahda Chichaoua",
+    "AdresseA": "حي النهضة شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM ALBOUKHARI",
+    "NOM_ETABA": "الثانوية التأهيلية الإمام البخاري",
+    "AdresseL": "CITE MOHAMMADI  MUNICIPALITE CHICHAOUA",
+    "AdresseA": "الحي المحمدي ، بلدية شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ALARABI",
+    "NOM_ETABA": "الثانوية التأهيلية ابن العربي",
+    "AdresseL": "HAY EL MASSIRA  MUNICIPALITE CHICHAOUA",
+    "AdresseA": "حي المسيرة  ،  بلدية  شيشاوة",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE TECHNIQUE CHICHAOUA",
+    "NOM_ETABA": "الثانوية التقنية شيشاوة",
+    "AdresseL": "Hay Annahda Municipalité de Chichaoua",
+    "AdresseA": "حي النهضة - طريق الصويرة - بلدية شيشاوة ",
+    "COMMUNE": "Chichaoua",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Assindibabde",
+    "NOM_ETABA": "السندباد",
+    "AdresseL": "N° 69, Lot. Annasr 1",
+    "AdresseA": "رقم 69، تجزئة النصر 1",
+    "COMMUNE": "Chichaoua ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ICHRAQ",
+    "NOM_ETABA": "الإشراق",
+    "AdresseL": "589  hay annahda chichaoua",
+    "AdresseA": "589 حي النهضة  شيشاوة",
+    "COMMUNE": "Chichaoua ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Rihab Al Khair",
+    "NOM_ETABA": "رحاب الخير",
+    "AdresseL": "Villa N° 2, Route Principale d",
+    "AdresseA": "فيلا رقم 2، الطريق الرئيسية أك",
+    "COMMUNE": "Chichaoua ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Fath",
+    "NOM_ETABA": "مدرسة الفتح",
+    "AdresseL": "Quartier Al Massira - C.U. Chi",
+    "AdresseA": "حي المسيرة، بلدية شيشاوة",
+    "COMMUNE": "Chichaoua ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "radea",
+    "NOM_ETABA": "راضية للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement azzahrae chichaoua",
+    "AdresseA": "تجزئة الزهراء شيشاوة",
+    "COMMUNE": "Chichaoua ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHAT POUR ENSEIGNEMENT",
+    "NOM_ETABA": "الخط للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement al khair e5",
+    "AdresseA": "تجزئة الخير e5",
+    "COMMUNE": "Chichaoua ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

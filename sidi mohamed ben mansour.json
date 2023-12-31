@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL  AL FATH",
+    "NOM_ETABA": " الثانوية الاعدادية الفتح",
+    "AdresseL": " commune SIDI MOHAMED BENMANSOUR",
+    "AdresseA": " جماعة سيدي محمد بنمنصور",
+    "COMMUNE": "Sidi Mohamed Ben Mansour",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S BENMANSOUR",
+    "NOM_ETABA": "م/م بنمنصور",
+    "AdresseL": "DOUAR OULED HAMMOU COMMUNE sidi mhamed BENMANSOUR",
+    "AdresseA": "دوار اولاد حمو ج سيدي امحمد/بنمنصور",
+    "COMMUNE": "Sidi Mohamed Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S 11 JANVIER",
+    "NOM_ETABA": "م/م 11 يناير ",
+    "AdresseL": "DOUAR OULED ABDELLAH COMMUNEsidi mhamed BENMANSOUR",
+    "AdresseA": "دوار اولاد عبدالله  ج/ سيدي امحمد بنمنصور",
+    "COMMUNE": "Sidi Mohamed Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MOHITE",
+    "NOM_ETABA": "مدرسة المحيط",
+    "AdresseL": "DOUAR ERRIAH LBAHRIA COMMUNE MHAMMED BENMANSOUR",
+    "AdresseA": "دوار الر ياح البحرية جماعة سيدي محمد بنمنصور",
+    "COMMUNE": "Sidi Mohamed Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S,S DKAKLA",
+    "NOM_ETABA": "م.م دكاكلة",
+    "AdresseL": "DOUAR DKAKLA COMMUNE sidi  mehamed BEN MANSOUR",
+    "AdresseA": "دوار الدكاكلة جماعة سيدي محمد بنمنصور",
+    "COMMUNE": "Sidi Mohamed Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

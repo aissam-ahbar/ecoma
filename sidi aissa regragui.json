@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S SIDI AISSA NAAYRAT",
+    "NOM_ETABA": "م.م. سيدي عيسى النعيرات",
+    "AdresseL": "SIDI AISSA NAAYRAT SIDI AISSA REGRAGUI",
+    "AdresseA": "سيدي عيسى النعيرات سيدي عيسى الركراكي",
+    "COMMUNE": "Sidi Aissa Regragui",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AGHISSI",
+    "NOM_ETABA": "م م  اغيسي",
+    "AdresseL": "DOUAR ACHORFA SIDI AISSA REGRAGUI",
+    "AdresseA": "دوار الشرفا",
+    "COMMUNE": "Sidi Aissa Regragui",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

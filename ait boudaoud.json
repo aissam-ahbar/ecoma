@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL  AIT BOUDAOUED",
+    "NOM_ETABA": "الثانوية الإعدادية أيت بوداود ",
+    "AdresseL": "AIT BOUDAOUD ",
+    "AdresseA": "ايت بوداود",
+    "COMMUNE": "Ait Boudaoud",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AIT ALI OUHASSOU ",
+    "NOM_ETABA": "م.م ايت علي أوحسو",
+    "AdresseL": "DOUR AIT ALI OUHASSOU CAIT BOUDAOUED",
+    "AdresseA": "ايت اعلي أوحسو / أيت بوداود",
+    "COMMUNE": "Ait Boudaoud",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMRAD",
+    "NOM_ETABA": "م.م أمراد",
+    "AdresseL": "DOUAR AMRAD commune AIT BOUDAOUD ",
+    "AdresseA": "دوار أمراد جماعة أيت بوداود",
+    "COMMUNE": "Ait Boudaoud",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

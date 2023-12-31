@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  AL ATLAS",
+    "NOM_ETABA": "ثانوية الأطلس الإعدادية ",
+    "AdresseL": "centre ait tamlil",
+    "AdresseA": "مركز جماعة ايت تمليل",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT TAMLIL",
+    "NOM_ETABA": "مركزية آيت تمليل",
+    "AdresseL": "DOUAR AIT TAMLIL COMMUNE AIT TAMLIL ",
+    "AdresseA": "دوار ايت تمليل جماعة ايت تمليل دائرة فطواكة ",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT MGOUN",
+    "NOM_ETABA": "مركزية آيت مكون",
+    "AdresseL": "DOUAR IMI NWAREG AIT MGOUN",
+    "AdresseA": "دوار إيمي نوارك ايت مكون ",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE MEGDAZ",
+    "NOM_ETABA": "مركزية مكداز",
+    "AdresseL": "DOUAR MEGDAZ",
+    "AdresseA": "دوار مكداز",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ASSOUAL ISQEFEN",
+    "NOM_ETABA": "مركزية أسوال اسقيفن",
+    "AdresseL": "DOUAR IMI LARBAA",
+    "AdresseA": "دوار امي لاربع",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IMAZAINE",
+    "NOM_ETABA": " مركزية إمازين",
+    "AdresseL": "DOUAR IMAZAIN",
+    "AdresseA": "دوار إمازين",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TASLENT NOUMDIWAL",
+    "NOM_ETABA": "مركزية تسلنت نومديوال",
+    "AdresseL": "DOUAR TASLENT NOUMDIWAL",
+    "AdresseA": "دوار تسلنت نومديوال ",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TOUFGHINE",
+    "NOM_ETABA": "مركزية توفغين",
+    "AdresseL": "DOUAR TOUFGHINE",
+    "AdresseA": "دوار توفغين ",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TISSLI",
+    "NOM_ETABA": "مركزية تسلي",
+    "AdresseL": "douar TISsli ait mgOune ",
+    "AdresseA": "دوار تسلي أيت مكون ",
+    "COMMUNE": "Ait Tamlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

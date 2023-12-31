@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "EL GAADA EL HAMRA CENTRE",
+    "NOM_ETABA": "الكعدة الحمراء المركز",
+    "AdresseL": "DOUAR ALGAADA ELHAMRA COMMUNE GHIATA AL GHARBIA",
+    "AdresseA": "دوار الكعدة الحمراء جماعة غياثة الغربية",
+    "COMMUNE": "Ghiata Al Gharbia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMLAAB CENTRE",
+    "NOM_ETABA": "لملاعب المركز",
+    "AdresseL": "DOUAR LAMLAAB COMMUNE GHIATA AL GHARBIA",
+    "AdresseA": "دوار الملاعب جماعة غياثة الغربية",
+    "COMMUNE": "Ghiata Al Gharbia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ABDELLAH CENTRE",
+    "NOM_ETABA": "سيدي عبد الله المركز",
+    "AdresseL": "DOUAR SIDI ABDELLAH COMMUNE GHIATA AL GHARBIA",
+    "AdresseA": "دوار سيدي عبد الله جماعة غياثة الغربية",
+    "COMMUNE": "Ghiata Al Gharbia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUBKER CENTRE",
+    "NOM_ETABA": "سيدي بوبكر المركز",
+    "AdresseL": "DOUAR SIDI BOUBKER COMMUNE GHIATA AL GHARBIA",
+    "AdresseA": "دوار سيدي بوبكر جماعة غياثة الغربية",
+    "COMMUNE": "Ghiata Al Gharbia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI MGARA CENTRE",
+    "NOM_ETABA": "بني مكارة المركز",
+    "AdresseL": "DOUAR BNI MGARA COMMUNE GHIATA AL GHARBIA",
+    "AdresseA": "دوار بني مكارة جماعة غياثة الغربية",
+    "COMMUNE": "Ghiata Al Gharbia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

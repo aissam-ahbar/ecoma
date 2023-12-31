@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN TOUFAIL",
+    "NOM_ETABA": "ثاتوية ابن طفيل الاعدادية",
+    "AdresseL": "centre commune haouzia",
+    "AdresseA": " مركزجماعة الحوزية",
+    "COMMUNE": "Haouzia",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE TIKNI",
+    "NOM_ETABA": "مدرسة تكني",
+    "AdresseL": "DOUAR TIKNI ",
+    "AdresseA": " دوارتكني",
+    "COMMUNE": "Haouzia",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL MOUJAHIDINE",
+    "NOM_ETABA": "م/م المجاهدين",
+    "AdresseL": "cite administrative ader ",
+    "AdresseA": "الحي الإداري العدير",
+    "COMMUNE": "Haouzia",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S DHAMNA",
+    "NOM_ETABA": "م/م الدحامنة",
+    "AdresseL": "DOUAR dhamna ",
+    "AdresseA": "دوار الدحامنة",
+    "COMMUNE": "Haouzia",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LABHABHA",
+    "NOM_ETABA": "مدرسة البحابحة",
+    "AdresseL": "DOUAR ElGHARBIA ",
+    "AdresseA": "دوار الغربية ",
+    "COMMUNE": "Haouzia",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAHRABZA",
+    "NOM_ETABA": "م/م لهرابزة",
+    "AdresseL": "DOUAR sraGHNA",
+    "AdresseA": "دوار السراغنة ",
+    "COMMUNE": "Haouzia",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "s s LABHABHA OULAD LHAJ",
+    "NOM_ETABA": " م/م البحابحة أولاد الحاج  ",
+    "AdresseL": "DOUAR LABHABHA ",
+    "AdresseA": "دوار البحابحة",
+    "COMMUNE": "Haouzia",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

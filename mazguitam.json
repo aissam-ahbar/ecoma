@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SIDI BELKASSEM CENTRE",
+    "NOM_ETABA": "سيدي بلقاسم المركز",
+    "AdresseL": "DOUAR HBIRCHET  COMMUNE MEZGUETEM",
+    "AdresseA": "دوار حبيرشات  جماعة مزكيتام",
+    "COMMUNE": "Mazguitam",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN MZIZOU CENTRE",
+    "NOM_ETABA": "عين امزيزو المركز",
+    "AdresseL": "AINMZIZOU  COMMUNE MEZGUETEM",
+    "AdresseA": "عين امزيزو جماعة مزكيتام",
+    "COMMUNE": "Mazguitam",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BOUSSAKOUR",
+    "NOM_ETABA": "الثانوية التأهيلية بوسكور",
+    "AdresseL": "MEZGUITEM CENTRE",
+    "AdresseA": "مزكيتام المركز ",
+    "COMMUNE": "Mazguitam",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ABBAD",
+    "NOM_ETABA": "الثانوية الإعدادية ابن عباد",
+    "AdresseL": "ROUTE YOUSSOUFIA JEMAAT SHAIM",
+    "AdresseA": "طريق اليوسفية جمعة سحيم",
+    "COMMUNE": "Jamaat Shaim",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ESSALAM",
+    "NOM_ETABA": "مدرسة السلام",
+    "AdresseL": " derb ghrab JAMAAT SHAIM",
+    "AdresseA": " درب غراب جمعة سحيم اسفي",
+    "COMMUNE": "Jamaat Shaim",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARIK BEN ZIAD",
+    "NOM_ETABA": "مدرسة طارق بن زياد",
+    "AdresseL": "AVENUE YOUSSOUFIA",
+    "AdresseA": "شارع اليوسفية",
+    "COMMUNE": "Jamaat Shaim",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد",
+    "AdresseL": "ROUTE NATIONALe  N 1 Quartier ADMINISTRATIF ",
+    "AdresseA": "  الطريق الوطنية رقم 1 الحي الاداري",
+    "COMMUNE": "Jamaat Shaim",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU SINA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن سينا",
+    "AdresseL": "QUARTIER YOUSSOUFIA JAMAAT SHAIM",
+    "AdresseA": "شارع اليوسفية جمعة سحيم",
+    "COMMUNE": "Jamaat Shaim",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire jamali LES CHAMPIONS",
+    "NOM_ETABA": "مجموعة مدارس جمالي الأبطال  ",
+    "AdresseL": "Route elyoussofia qu.daaijat j",
+    "AdresseA": "حي الدعيجات طريق اليوسفية جمعة",
+    "COMMUNE": "Jamaat Shaim ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al nazhari ",
+    "NOM_ETABA": "آل نزهري",
+    "AdresseL": "boulevard elyoussofia jemaa sh",
+    "AdresseA": "جمعة سحيم",
+    "COMMUNE": "Jamaat Shaim ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOUKININE",
+    "NOM_ETABA": "م الموقنين",
+    "AdresseL": "q adminisrtatif",
+    "AdresseA": "الحي الإداري جمعة سحيم",
+    "COMMUNE": "Jamaat Shaim ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

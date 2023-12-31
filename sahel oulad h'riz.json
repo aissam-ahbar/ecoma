@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOUMMANE EL FETOUAKI",
+    "NOM_ETABA": "الثانوية الإعدادية حمان الفطواكي",
+    "AdresseL": "laasilat commune sahel ouled hriz cercl berrechid",
+    "AdresseA": "العسيلات جماعة الساحل أولاد حريز دائرة برشيد",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED HRIZ 2 CENTRE",
+    "NOM_ETABA": "مركزية اولاد احريز 2",
+    "AdresseL": "DOUAR SOUK ESSEBT COMMUNE SAHEL OULAD HRIZ",
+    "AdresseA": "سوق السبت جماعة الساحل اولاد احريز ",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHOGUA CENTRE",
+    "NOM_ETABA": "مركزية الشكة",
+    "AdresseL": "DOUAR ECHOUGA COMMUNE sahel oulad hriz",
+    "AdresseA": "دوار الشكة جماعة الساحل اولاد حرىز",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHYAITA CENTRE",
+    "NOM_ETABA": "مركزية الخيايطة",
+    "AdresseL": "DOUAR LAKHYAYTA COMMUNE sahal ouled hriz",
+    "AdresseA": "دوار الخيايطة جماعة الساحل اولاد حريز الغربية",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEKHDARA CENTRE",
+    "NOM_ETABA": "مركزية الخدارة",
+    "AdresseL": "DOUAR LAKHDARA COMMUNE sahel ouled hriz",
+    "AdresseA": "دوار الخدارة جماعة الساحل أولاد احريز",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SELTANA CENTRE",
+    "NOM_ETABA": "مركزية اولاد سلطانة",
+    "AdresseL": "DOUAR OULAD SELTANA COMMUNE OULAD HRIZ",
+    "AdresseA": "دوار اولاد سلطانة جماعة اولاد احريز الساحل",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI KACEM CENTRE",
+    "NOM_ETABA": "مركزية سيدي قاسم الساحل",
+    "AdresseL": "DOUAR EJJEDAT COMMUNE OULAD H RIZ SAHEL",
+    "AdresseA": "دوار المناصرة الساحل جماعة اولاد حريز الساحل",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAAOUNIATE LAAYOUNE CENTRE",
+    "NOM_ETABA": "مركزية تعاونية العيون",
+    "AdresseL": "DOUAR OULAD ALLAL  COMMUNE OULAD H RIZ",
+    "AdresseA": "دوار اولاد علال جماعة الساحل أولاد احريز",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAKHYAITA",
+    "NOM_ETABA": "الثانوية التأهيلية الخيايطة",
+    "AdresseL": "DOUAR LAASSILAT",
+    "AdresseA": "دوار العسيلات",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire deux-villes",
+    "NOM_ETABA": "مجموعة مدارس دوفيل الخصوصية",
+    "AdresseL": "km 22 route eljadidaelkhyaita",
+    "AdresseA": "كلم 22 طريق الجديدة الخيايطة",
+    "COMMUNE": "Sahel Oulad H'Riz",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

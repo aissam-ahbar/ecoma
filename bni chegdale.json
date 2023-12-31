@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OMAR EL KHAYAM",
+    "NOM_ETABA": "ثانوية عمر الخيام الإعدادية",
+    "AdresseL": "BNI CHEGDALE CENTRE",
+    "AdresseA": "مركز جماعة بني شكدال",
+    "COMMUNE": "Bni Chegdale",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED ISSA CENTRE",
+    "NOM_ETABA": "مركزية  اولاد عيسى",
+    "AdresseL": "OULED ISSA COMMUNE BNI CHEGDALE",
+    "AdresseA": "جماعة  بني شكدال",
+    "COMMUNE": "Bni Chegdale",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHMIS CENTRE",
+    "NOM_ETABA": "مركزية الخميس",
+    "AdresseL": "KHMIS COMMUNE BNI CHEGDALE",
+    "AdresseA": "جماعة  بني شكدال",
+    "COMMUNE": "Bni Chegdale",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AHMED CENTRE",
+    "NOM_ETABA": "مركزية اولاد احمد",
+    "AdresseL": "OULED AHMED COMMUNE BNI CHEGDALE",
+    "AdresseA": "جماعة  بني شكدال",
+    "COMMUNE": "Bni Chegdale",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

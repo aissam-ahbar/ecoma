@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL EL KODS",
+    "NOM_ETABA": "ثانوية القدس الإعدادية",
+    "AdresseL": "MUNICIPALITE KARIA BA MOHAMED CENTRE TAOUNATE",
+    "AdresseA": "مركز بلدية قرية با محمد",
+    "COMMUNE": "Karia Ba Mohamed",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉEE COLLÈGIIAL SIDI M HAMED EL MAGHR",
+    "NOM_ETABA": "ثانوية سيدي محمد المغراوي الإعدادية",
+    "AdresseL": "MUNICIPALITE KARIA BA MOHAMED CENTRE  TAOUNATE",
+    "AdresseA": "مركز بلدية قرية با محمد",
+    "COMMUNE": "Karia Ba Mohamed",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL JADIDA",
+    "NOM_ETABA": "المدرسة الجديدة",
+    "AdresseL": "KARIA BA MOHAMED CENTRE",
+    "AdresseA": "قرية با محمد المركز",
+    "COMMUNE": "Karia Ba Mohamed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL GHABA",
+    "NOM_ETABA": "مدرسة الغابة",
+    "AdresseL": "Quartier kharba KARIA BA MOHAMED ",
+    "AdresseA": "حي الخربة قرية أبا محمد ",
+    "COMMUNE": "Karia Ba Mohamed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL FARABI",
+    "NOM_ETABA": "مدرسة الفرابي",
+    "AdresseL": "KARIA BA MOHAMED CENTRE",
+    "AdresseA": "الفارابي قرية با محمد المركز",
+    "COMMUNE": "Karia Ba Mohamed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI MHAMEDED EL MAGHRAOUI",
+    "NOM_ETABA": "م/م  سيدي محمد المغراوي",
+    "AdresseL": "MUNICIPALITE KARIA CENTRE",
+    "AdresseA": "القرية المركز",
+    "COMMUNE": "Karia Ba Mohamed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUN",
+    "NOM_ETABA": "ثانوية ابن خلدون التأهيلة",
+    "AdresseL": "hay oulad kacem karia ba mohamed",
+    "AdresseA": "حي أولاد قاسم  قرية با محمد",
+    "COMMUNE": "Karia Ba Mohamed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ecole amal al moustakbal",
+    "NOM_ETABA": "مؤسسة أمل المستقبل",
+    "AdresseL": "hay hamri jdid",
+    "AdresseA": "قرية با محمد تاونات",
+    "COMMUNE": "Karia Ba Mohamed ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESSANAFIR KARIAT BA MOHAMMED",
+    "NOM_ETABA": "السنافر قرية با محمد",
+    "AdresseL": "KARIAT BA MOHAMMED CENTRE",
+    "AdresseA": "قرية با محمد المركز",
+    "COMMUNE": "Karia Ba Mohamed ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oufok",
+    "NOM_ETABA": "الأفق الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الألفة 1 رقم 133 قرية با مح",
+    "COMMUNE": "Karia Ba Mohamed ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

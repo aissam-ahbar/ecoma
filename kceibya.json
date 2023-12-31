@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "HASSAN II",
+    "NOM_ETABA": "الحسن  الثاني",
+    "AdresseL": "ouled hanoun KCEIBYA",
+    "AdresseA": "مركز اولاد حنون القصيبية   ",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collégial Prince Moulay El Hassan",
+    "NOM_ETABA": "الثانوية الإعدادية الأمير مولاي الحسن",
+    "AdresseL": "DOUAR OULED AADOU RMEL",
+    "AdresseA": "دوار اولاد عدو الرمل",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " ECOLE MERE OULED HANNOUNE ELOUAD",
+    "NOM_ETABA": "المركزية اولاد حنون الواد",
+    "AdresseL": "DOUAR OULED HANNOUNE COMMUNE KCEIBIA",
+    "AdresseA": "دوار اولاد حنون جماعة القصيبية",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE ERMEL",
+    "NOM_ETABA": "المركزية الرمل",
+    "AdresseL": "DOUAR OULAD ADDO RMEL COMMUNE KCEIBIA",
+    "AdresseA": "دوار أولاد عدو الرمل جماعة القصيبية",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE LALA YATTOU",
+    "NOM_ETABA": "المركزية للا يطو",
+    "AdresseL": "DOUAR DOUAGHAR  LALLA YATTOU COMMUNE KCEIBIA",
+    "AdresseA": "دوارالدواغر- للا يطو جماعة القصيبية",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE PAM",
+    "NOM_ETABA": "المركزية بام",
+    "AdresseL": "DOUAR LALA YATTOU COMMUNE KCEIBIA",
+    "AdresseA": "دوار للايطو جماعة القصيية",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE DAIT AICHA",
+    "NOM_ETABA": "المركزية ضاية عائشة",
+    "AdresseL": "DOUAR DAIT AICHA commune KCEIBIA",
+    "AdresseA": "دوار ضاية عائشة جماعة القصيبية",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE CHIBANE",
+    "NOM_ETABA": "المركزية الشيبان",
+    "AdresseL": "DOUAR CHIBANE COMMUNE KCEIBIA",
+    "AdresseA": "دوار الشيبان جماعة القصيبية",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KSAIBIYA",
+    "NOM_ETABA": "القصيبية",
+    "AdresseL": "ksaibia",
+    "AdresseA": "القصيبية",
+    "COMMUNE": "Kceibya",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

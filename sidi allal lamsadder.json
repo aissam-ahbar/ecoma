@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "HOUMMANE LFATOUAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "DOUAR AIT TALHA COMMUNE SIDI ALLAL LAMSADDER",
+    "AdresseA": "دوار ايت طلحة سيدي علال المصدر",
+    "COMMUNE": "Sidi Allal Lamsadder",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HAMMOU KASSOU",
+    "NOM_ETABA": "ايت حمو قسو",
+    "AdresseL": "DOUAR AIT HAMMOU KASSOU COMMUNE SIDI ALLAL LAMSAER",
+    "AdresseA": "دوار ايت حمو قسو جماعة علال المصدر",
+    "COMMUNE": "Sidi Allal Lamsadder",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ALLAL LAMSADDAR",
+    "NOM_ETABA": "سيدي علال لمصدر",
+    "AdresseL": "Sidi Allal Lamsaddar centre",
+    "AdresseA": "سيدي علال لمصدرالمركز",
+    "COMMUNE": "Sidi Allal Lamsadder",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

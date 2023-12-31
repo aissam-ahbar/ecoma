@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL FENNASSA",
+    "NOM_ETABA": "ثانوية فناسة الإعدادية",
+    "AdresseL": "commune RURALE Fennassa Bab El Hit THAR Essouk",
+    "AdresseA": "جماعة فناسة باب الحيط فناسة",
+    "COMMUNE": "Fennassa Bab El Hit",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MOUKHTAR SOUSSI",
+    "NOM_ETABA": "م/م المختار السوسي",
+    "AdresseL": "DOUAR OUED KASBA COMMUNE FENNASSA BABELHIT TAOUNAT",
+    "AdresseA": "دوار واد القصبة جماعة فنلسة  ",
+    "COMMUNE": "Fennassa Bab El Hit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOU LHAYTAME",
+    "NOM_ETABA": "م/م ابن الهيتم ",
+    "AdresseL": "DOUAR BAB EL HIT COMMUNE FENNASSA BAB EL HIT TAOUN",
+    "AdresseA": "دوارباب الحيط جماعة فناسة باب الحيط -تاونات",
+    "COMMUNE": "Fennassa Bab El Hit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZOUAOUA SOUFLA",
+    "NOM_ETABA": "م/م  زواوة السفـلى",
+    "AdresseL": "DOUAR ZOUAOUA SOUFLA COMMUNE FENNASSA BAB ELHIT TA",
+    "AdresseA": "دوارالزواوة جماعة فناسة باب الحيط -تاونات",
+    "COMMUNE": "Fennassa Bab El Hit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS FATIMA FAHRIA",
+    "NOM_ETABA": "م/م  فاطمة الفهرية",
+    "AdresseL": "DOUAR HAMMATA COMMUNE FENNASSA BAB ELHIT TAOUNATE",
+    "AdresseA": "دوار حماطة جماعة فناسة باب الحيط طهر السوق تاونات",
+    "COMMUNE": "Fennassa Bab El Hit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZOUHAYR BNOU ABI SALMA",
+    "NOM_ETABA": "م/م زهير بن ابي سلمى",
+    "AdresseL": "DOUAR EL GOURNA COMMUNE FENNASSA BAB EL HIT TAOUNA",
+    "AdresseA": "دوار الكورنة جماعة فناسة باب الحيط تاونات",
+    "COMMUNE": "Fennassa Bab El Hit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

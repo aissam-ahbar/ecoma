@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": " SS TACHERAFT",
+    "NOM_ETABA": "م/م تاشرافت",
+    "AdresseL": "DOUAR OULED BAHRI COMMUNE TACHRAFT",
+    "AdresseA": "دوار  اولاد  بحري",
+    "COMMUNE": "Tachraft",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BRACHOUA",
+    "NOM_ETABA": "م/م البراشوة",
+    "AdresseL": " COMMUNE TACHRAFT",
+    "AdresseA": "العين الحمراء  جماعة تاشرافت",
+    "COMMUNE": "Tachraft",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT TACHRAFET",
+    "NOM_ETABA": "الثانوية التأهيلية تاشرافت ",
+    "AdresseL": "CENTRE COMMUNE TACHRAFTCERCLE BEJAAD",
+    "AdresseA": "مركز  تاشرافت",
+    "COMMUNE": "Tachraft",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

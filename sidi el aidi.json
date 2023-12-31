@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "SIDI EL AIDI CENTRE",
+    "NOM_ETABA": "مركزية سيدي العايدي",
+    "AdresseL": "CENTRE SIDI EL AIDI COMMUNE SIDI EL AIDI",
+    "AdresseA": "مركز سيدي العايدي",
+    "COMMUNE": "Sidi El Aidi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL MAAROUFI",
+    "NOM_ETABA": "اولاد المعروفي",
+    "AdresseL": "DOUAR OULAD EL MAAROUFI COMMUNE SIDI EL AIDI",
+    "AdresseA": "دوار اولاد المعروفي",
+    "COMMUNE": "Sidi El Aidi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JEDDAT CENTRE",
+    "NOM_ETABA": "مركزية  الجدات",
+    "AdresseL": "nouasser COMMUNE SIDI EL AIDI",
+    "AdresseA": "النواصر سيدي العايدي",
+    "COMMUNE": "Sidi El Aidi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LOURARKA  CENTRE",
+    "NOM_ETABA": "مركزية  لورارقة",
+    "AdresseL": "DOUAR LOURARKA COMMUNE SIDI EL AIDI",
+    "AdresseA": "لورارقة سيدي العايدي",
+    "COMMUNE": "Sidi El Aidi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MSAMER ETARHA",
+    "NOM_ETABA": "مسمر الطرحة",
+    "AdresseL": "DOUAR ouled elhabti COMMUNE SIDI EL AIDI",
+    "AdresseA": "اولاد الهبطي سيدي العايدي",
+    "COMMUNE": "Sidi El Aidi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI EL AIDI",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي العايدي",
+    "AdresseL": "CENTRE SIDI EL AIDI COMMUNE SIDI EL AIDI",
+    "AdresseA": "مركز سيدي العايدي",
+    "COMMUNE": "Sidi El Aidi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

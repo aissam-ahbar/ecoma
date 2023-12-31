@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "AIT ALI DIR",
+    "NOM_ETABA": "ايت علي الدير",
+    "AdresseL": "AIT ALI AIT NAAMANE",
+    "AdresseA": "ايت علي الدير ايت نعمان",
+    "COMMUNE": "Ait Naamane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUHA OUDRISS OUATITI",
+    "NOM_ETABA": "موح اودريس وعتيتي",
+    "AdresseL": "mouha oudriss ouatiti AIT SAID AIT NAAMANE",
+    "AdresseA": "موح اودريس و عتيتي ايت سعيد ايت نعمان",
+    "COMMUNE": "Ait Naamane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI AISSA",
+    "NOM_ETABA": "سيدي عيسى",
+    "AdresseL": "TIZI NBROURI AIT NAAMANE",
+    "AdresseA": "تيزي نبروري ايت نعمان",
+    "COMMUNE": "Ait Naamane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

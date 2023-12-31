@@ -1,0 +1,482 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ZINEB ANNAFZAOUIA",
+    "NOM_ETABA": "الثانوية الإعدادية زينب النفزاوية",
+    "AdresseL": "HAY MIMOUNA IDRISSIA 4",
+    "AdresseA": "حي ميمونة الإدريسية 4",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE IBN MESKAOUAIH",
+    "NOM_ETABA": "الثانوية الإعدادية ابن مسكويه",
+    "AdresseL": "IDRISSIA 2 HAY MIMOUNA",
+    "AdresseA": "حي ميمونة الإدريسية 2",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SMARA",
+    "NOM_ETABA": "الثانوية الإعدادية السمارة",
+    "AdresseL": "IDRISSIA 2 BOULEVARD B",
+    "AdresseA": "الادريسية 2 شارع ب",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MARIAM AL FIHRIA",
+    "NOM_ETABA": "الثانوية الإعدادية مريم الفهرية",
+    "AdresseL": "angle rue SRAGHNA et driss el massfioui",
+    "AdresseA": "زاوية زنقة السراغنة و ادريس المسفيوي",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL JAHID",
+    "NOM_ETABA": "الثانوية الإعدادية الجاحظ",
+    "AdresseL": "68 derb chorfa  tolba",
+    "AdresseA": "درب الشرفاء و الطلبة الزنقة 68",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL IMAM ALI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام علي",
+    "AdresseL": "BD MOUDIBOU KEITA AIN ESSEK",
+    "AdresseA": "شارع موديبوكيتا عين السك",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL GHAZALI",
+    "NOM_ETABA": "الثانوية الإعدادية الغزالي",
+    "AdresseL": "SIDI MAAROUF 3  BD MOUDIBOU KEITA",
+    "AdresseA": "سيدي معروف 3 شارع موديبوكيتا",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL ANDALOUS",
+    "NOM_ETABA": "الثانوية الإعدادية الأندلس",
+    "AdresseL": "HAY EL MASJID RUE H",
+    "AdresseA": "زنقة ه حي المسجد",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE PRINCE MOULAY RACHID",
+    "NOM_ETABA": "الثانوية الإعدادية الأمير مولاي رشيد",
+    "AdresseL": "EL AMAL 2 PROLONGEMENT BD EL FIDA",
+    "AdresseA": "شارع الفداء الممتد",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDERRAHMAN  BEN HICHAM ",
+    "NOM_ETABA": "مدرسة عبد الرحمان بن هشام الابتدائية",
+    "AdresseL": "DERB SADNI ARSAT BEN MSIK HAY AMAL 1",
+    "AdresseA": "درب السادني،عرصة ابن امسيك",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  RAHAL EL MESKINI",
+    "NOM_ETABA": "مدرسة رحال المسكيني الابتدائية",
+    "AdresseL": "AIN CHIFA 2 RUE 40 HAY EL FARAH",
+    "AdresseA": "عين الشفاء 2 ،زنقة 40 ،حي الفرح",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FKIH AL KANOUNI",
+    "NOM_ETABA": "مدرسة الفقيه الكانوني الابتدائية",
+    "AdresseL": "HAY EL FARAH RUE 50 N 40",
+    "AdresseA": "حي الفرح الزنقة 50  رقم 40",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN SINA",
+    "NOM_ETABA": "مدرسة ابن سينا الابتدائية",
+    "AdresseL": "HAY EL FARAH RUE 66 N 128",
+    "AdresseA": "حي الفرح زنقة   66رقم 128",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED EL BAROUDI",
+    "NOM_ETABA": "مدرسة محمد البارودي الابتدائية",
+    "AdresseL": "HAY OMAR BEN EL KHATTAB RUE 24",
+    "AdresseA": "حي عمر بن الخطاب زنقة 24",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALLAL BEN ABDELLAH ",
+    "NOM_ETABA": "مدرسة علال بن عبد الله الابتدائية",
+    "AdresseL": "HAY OMAR BEN EL KHATTAB RUE 24",
+    "AdresseA": "حي عمر بن الخطاب زنقة 24",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AIN CHIFA ",
+    "NOM_ETABA": "مدرسة عين الشفاء الابتدائية",
+    "AdresseL": "BOULEVARD LA GRANDE CEINTURE HAY EL FARAH",
+    "AdresseA": "شارع الحزام الكبير حي الفرح",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MAKDISSI ",
+    "NOM_ETABA": "مدرسة المقديسي الابتدائية",
+    "AdresseL": "BOULEVARD TOURIA CHAOUI EL IDRISSIA 2 ",
+    "AdresseA": "حي الإدريسية 2 شارع ثوريا الشاوي",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUM HANI ",
+    "NOM_ETABA": "مدرسة أم هانئ الابتدائية",
+    "AdresseL": "AL IDRISSIA 2 RUE 26 N 53",
+    "AdresseA": "حي الإدريسية 2 زنقة 26  رقم 53",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IDRISSIA",
+    "NOM_ETABA": "مدرسة الإدريسية الابتدائية",
+    "AdresseL": "IDRISSIA 2 bd a",
+    "AdresseA": "حي الإدريسية 2 شلرع أ",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YATRIB",
+    "NOM_ETABA": "مدرسة يثرب الابتدائية",
+    "AdresseL": "BD LAGRANDE CEINTURE HAY OMAR BEN EL KHATAB",
+    "AdresseA": "شارع الحزام الكبير حي عمر بن الخطاب",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LALA HASNA ",
+    "NOM_ETABA": "مدرسة للا حسناء الابتدائية",
+    "AdresseL": "BD IDRISS MASSFIOUI RUE  SRAGNA",
+    "AdresseA": "شارع ادريس المسفيوي زنقة السراغنة",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KOREA ",
+    "NOM_ETABA": "مدرسة القريعة الابتدائية",
+    "AdresseL": "DERB EL KOREA n 18",
+    "AdresseA": "درب القريعة    الرقم 18",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUAOUIA IBN ABI SOUFIANE",
+    "NOM_ETABA": "مدرسة معاوية بن أبي سفيان الابتدائية",
+    "AdresseL": "DERB KOUREA RUE DRISS MESFIOUI",
+    "AdresseA": "درب القريعة زنقة إدريس المسفيوي",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MANSOUR ADDAHBI ",
+    "NOM_ETABA": "مدرسة المنصور الذهبي الابتدائية",
+    "AdresseL": "RUE SRAGHNA derb korea fida",
+    "AdresseA": "درب القريعة زنقة السراغنة",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL HAJJAJ ",
+    "NOM_ETABA": "مدرسة الحجاج الابتدائية",
+    "AdresseL": "RUE 55 DERB KOUREA",
+    "AdresseA": "زنقة 55  درب القريعة",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZAIDOUNE",
+    "NOM_ETABA": "مدرسة ابن زيدون الابتدائية",
+    "AdresseL": "BD EL FIDA RUE RHAMNA",
+    "AdresseA": "شارع الفداء زنقة الرحامنة",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN KHALDOUNE",
+    "NOM_ETABA": "مدرسة ابن خلدون الابتدائية",
+    "AdresseL": "BD EL FIDA",
+    "AdresseA": "شارع الفداء",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FIDA ",
+    "NOM_ETABA": "مدرسة الفداء الابتدائية",
+    "AdresseL": "BD EL FIDA",
+    "AdresseA": "شارع الفداء",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN BATOUTA ",
+    "NOM_ETABA": "مدرسة إبن بطوطة الابتدائية",
+    "AdresseL": "SIDI MAAROUF 4  RUE 41",
+    "AdresseA": "سيدي معروف 4 زنقة 41",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL KADI AYAD",
+    "NOM_ETABA": "مدرسة القاضي عياض الابتدائية",
+    "AdresseL": "SIDI MAAROUF 5  RUE ERRAHHALI EL FAROUQI",
+    "AdresseA": "سيدي معروف 5 زنقة الرحالي الفاروقي",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BOUJDOUR ",
+    "NOM_ETABA": "مدرسة بوجدور الابتدائية",
+    "AdresseL": "RUE 50 SIDI MAAROUF 4",
+    "AdresseA": "زنقة 50 سيدي معروف 4",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL BAKILLANI",
+    "NOM_ETABA": "الثانوية التأهيلية الباقلاني",
+    "AdresseL": "SIDI MAAROUF 4  RUE 50",
+    "AdresseA": "سيدي معروف 4 زنقة 50",
+    "COMMUNE": "Al-Fida ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOHAMED VI",
+    "NOM_ETABA": " الثانوية التأهيلية محمد السادس",
+    "AdresseL": "HAY TRIPOLI RUE 7",
+    "AdresseA": "حي طرابلس زنقة 7",
+    "COMMUNE": "Al-Fida ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE JAMAL EDDINE ALMAHIAOUI",
+    "NOM_ETABA": "الثانوية التأهيلية جمال الدين المهياوي",
+    "AdresseL": "EL AMAL 2  PROLONGEMENT BD AL FIDA",
+    "AdresseA": "شارع الفداء الممتد حي الامل 2",
+    "COMMUNE": "Al-Fida ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SALAHEDDINE AL AYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الايوبي",
+    "AdresseL": "AMAL 2 PROLONGEMENT BD ALFIDA",
+    "AdresseA": "أمل 2 امتداد شارع الفداء",
+    "COMMUNE": "Al-Fida ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TAHA HOUSSEIN",
+    "NOM_ETABA": "الثانوية التأهيلية طه حسين",
+    "AdresseL": "IDRISSIA 2 avenue b",
+    "AdresseA": "حي الإدريسية 2  شارع ب",
+    "COMMUNE": "Al-Fida ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OUM AL BANINE",
+    "NOM_ETABA": "الثانوية التأهيلية أم البنين",
+    "AdresseL": "HAY EL MASJID RUE iii",
+    "AdresseA": "حي المسجد زنقة 3",
+    "COMMUNE": "Al-Fida ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Institut Ouadi Ennil",
+    "NOM_ETABA": "معهد وادي النيل",
+    "AdresseL": "N° 505, Bd. Mohammed VI (ex. R",
+    "AdresseA": "رقم 505، شارع محمد السادس (طري",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION Ennasr",
+    "NOM_ETABA": "مؤسسة النصر",
+    "AdresseL": "Bd. Grande Ceinture, Rue 17, c",
+    "AdresseA": "شارع الحزام الكبير، زاوية زنقة",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Attawfiq",
+    "NOM_ETABA": "مدرسة التوفيق",
+    "AdresseL": "Cité Omar Ibn El Khattab, Rue ",
+    "AdresseA": "حي عمر بن الخطاب، زنقة 6 رقم 8",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée al Farah ",
+    "NOM_ETABA": "ثانوية الفرح",
+    "AdresseL": "Amal II, Rue 68, N° 3- EL FIDA",
+    "AdresseA": "الأمل 2، زنقة 68، رقم 3- الفدا",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE Anwal ",
+    "NOM_ETABA": "ثانوية أنوال",
+    "AdresseL": "N° 1270, Avenue Al Fida, Ain C",
+    "AdresseA": "رقم 1270، شارع الفداء، عين الش",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Hayat El Islamia",
+    "NOM_ETABA": "مدرسة الحياة الإسلامية",
+    "AdresseL": "Cité Korea, Rue 28, N° 47 - Al",
+    "AdresseA": "حي القريعة، زنقة 28، رقم 47 - ",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Ibnou El AtlaS",
+    "NOM_ETABA": "مدرسة ابن الأطلس",
+    "AdresseL": "Bd. El Fida, Derb Chorfa Et To",
+    "AdresseA": "شارع الفداء، درب الشرفاء و الط",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE Al Wahda Al Arabia",
+    "NOM_ETABA": "مدرسة الوحدة العربية",
+    "AdresseL": "N° 71, Bd. Capitaine Idriss Me",
+    "AdresseA": "رقم 71، شارع القبطان إدريس الم",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT STEVE JOBS",
+    "NOM_ETABA": "مؤسسة ستيف جوبز",
+    "AdresseL": "N° 73, Avenue Nador - Al Fida",
+    "AdresseA": "رقم 73، شارع الناظور - الفداء",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION Le Tremplin",
+    "NOM_ETABA": "مؤسسة القفزة",
+    "AdresseL": "27, RUE 3 , QUARTIER ELOUROUD ",
+    "AdresseA": "رقم 27 ، زنقة 3 ، حي الورود ، ",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LES CRETES",
+    "NOM_ETABA": " مؤسسة لكريط",
+    "AdresseL": "573 BD MODIBO KEITA, LES CRETE",
+    "AdresseA": "شارع موديبو كيتا رقم 573 الفدا",
+    "COMMUNE": "Al-Fida",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

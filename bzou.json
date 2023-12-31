@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMADAHEN",
+    "NOM_ETABA": "ثانوية إمداحن الإعدادية",
+    "AdresseL": "CENTRE IMADAHEN",
+    "AdresseA": "مركز إمداحن ",
+    "COMMUNE": "Bzou",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI SGHIR BEN MENIAR",
+    "NOM_ETABA": "مدرسة سيدي الصغير بن المنيار",
+    "AdresseL": "BZOU CENTRE",
+    "AdresseA": "مركز ابزو",
+    "COMMUNE": "Bzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IMADAHEN",
+    "NOM_ETABA": "مركزية امداحن",
+    "AdresseL": "DOUAR IMADAHEN ",
+    "AdresseA": "دوار امداحن ",
+    "COMMUNE": "Bzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE BAHI",
+    "NOM_ETABA": "مركزية باحي",
+    "AdresseL": "DOUAR BAHI ",
+    "AdresseA": "دوار باحي ",
+    "COMMUNE": "Bzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT OUAGUEN",
+    "NOM_ETABA": "مركزية آيت واكن",
+    "AdresseL": "DOUAR AIT OUAGUEN ",
+    "AdresseA": "دوار ايت واكن ",
+    "COMMUNE": "Bzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AGHBALOU",
+    "NOM_ETABA": "مركزية اغبالو ",
+    "AdresseL": "DOUAR AGHBALOU ",
+    "AdresseA": "دوار اغبالو",
+    "COMMUNE": "Bzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ZALGUEN",
+    "NOM_ETABA": "مركزية زالكن",
+    "AdresseL": "DOUAR ZALGUEN ",
+    "AdresseA": "دوار زالكن ",
+    "COMMUNE": "Bzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TIFARITI",
+    "NOM_ETABA": "ثانوية تيفاريتي التأهيلية",
+    "AdresseL": "BZOU CENTRE",
+    "AdresseA": "ابزو المركز",
+    "COMMUNE": "Bzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "BERKINE CENTRE",
+    "NOM_ETABA": "بركين المركز",
+    "AdresseL": "COMMUNE BERKINE",
+    "AdresseA": "جماعة بركين",
+    "COMMUNE": "Barkine",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUHASSANE CENTRE",
+    "NOM_ETABA": "بوحسان المركز",
+    "AdresseL": "DOUAR BOUHASSANE COMMUNE BERKINE",
+    "AdresseA": "دوار بوحسان جماعة بركين",
+    "COMMUNE": "Barkine",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIGHZA CENTRE",
+    "NOM_ETABA": "تيغزة المركز",
+    "AdresseL": "DOUAR TIGZACOMMUNE BERKINE",
+    "AdresseA": "دوار تيغزة جماعة بركين",
+    "COMMUNE": "Barkine",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMJILT CENTRE",
+    "NOM_ETABA": "تامجيلت المركز",
+    "AdresseL": "TAMJILT COMMUNE BERKINE",
+    "AdresseA": "تامجيلت  جماعة بركين",
+    "COMMUNE": "Barkine",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI MAKBAL",
+    "NOM_ETABA": "بني مقبل",
+    "AdresseL": "DOUAR BNI MAKBAL COMMUNE BERKINE.",
+    "AdresseA": "دوار بني مقبل جماعة بركين",
+    "COMMUNE": "Barkine",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BERKINE",
+    "NOM_ETABA": "ثانوية بركين التأهيلية",
+    "AdresseL": "centre commune Berkine ",
+    "AdresseA": "مركز جماعة بركين",
+    "COMMUNE": "Barkine",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

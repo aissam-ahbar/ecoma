@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "الثانوية الإعدادية يوسف بن تاشفين",
+    "AdresseL": "Centre CR Sidi Lahsen",
+    "AdresseA": "مركز جماعة سيدي لحسن",
+    "COMMUNE": "Sidi Lahsen",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IDARDAR",
+    "NOM_ETABA": "اضرضار",
+    "AdresseL": "DOUAR IDARDAR COMMUNE SIDI LAHCEN",
+    "AdresseA": "دوار اضرضار جماعة سيدي لحسن",
+    "COMMUNE": "Sidi Lahsen",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AOUAM",
+    "NOM_ETABA": "اعوام",
+    "AdresseL": "DOUAR AOUAM COMMUNE SIDI LAHCEN",
+    "AdresseA": "دوار اعوام جماعة سيدي لحسن",
+    "COMMUNE": "Sidi Lahsen",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FADDANE SOLTANE",
+    "NOM_ETABA": "فدان السلطان",
+    "AdresseL": "DOUAR isaiden Faddane Soltane COMMUNE SIDI LAHCEN",
+    "AdresseA": "دوار إسعيدن  فدان السلطان جماعة سيدي لحسن",
+    "COMMUNE": "Sidi Lahsen",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

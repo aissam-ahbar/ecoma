@@ -1,0 +1,232 @@
+[
+  {
+    "NOM_ETABL": "LABRAHMA",
+    "NOM_ETABA": "البراهمة",
+    "AdresseL": " centre commune rurale chellalat mohammadia",
+    "AdresseA": "مركز الجماعة القروية الشلالات - عمالة المحمدية",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MAROUA",
+    "NOM_ETABA": "المروة",
+    "AdresseL": "ECHALLALATE",
+    "AdresseA": "الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "المسيرة الخضراء",
+    "AdresseL": "ouled sidi abdenbi echchelalate",
+    "AdresseA": "أولاد سيدي عبد النبي الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MOUATAMID BNOU ABBAD",
+    "NOM_ETABA": "المعتمد بن عباد",
+    "AdresseL": "ECHCHALLALAT",
+    "AdresseA": "الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "NAZIK ALMALAIKA",
+    "NOM_ETABA": "نازك الملائكة",
+    "AdresseL": "ECHALLALAT CENTRE",
+    "AdresseA": "الشلالات المركز",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL BRAHMA",
+    "NOM_ETABA": "البراهمة",
+    "AdresseL": "DOUAR EL BRAHMA 2 commune echchellalat",
+    "AdresseA": "دوار البراهمة 2 جماعة الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SIDI ABDENNEBI",
+    "NOM_ETABA": "اولاد سيدي عبد النبي",
+    "AdresseL": "DOUAR OULED ABDENNEBI COMMUNE CHELLALATE",
+    "AdresseA": "دوار اولاد عبد النبي جماعة الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECHELLAL",
+    "NOM_ETABA": "الشلال",
+    "AdresseL": "CASCADE COMMUNE CHELLALATE mohammedia",
+    "AdresseA": "الشلال جماعة الشلالات المحمدية",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUARKOU ",
+    "NOM_ETABA": "مجموعة مدارس واركو",
+    "AdresseL": "DOUAR OURKOU COMMUNE CHELLALETE mohammedia",
+    "AdresseA": "دوار واركو جماعة الشلالات المحمدية",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR LAHLOU",
+    "NOM_ETABA": "بئر لحلو",
+    "AdresseL": "DOUAR BRAHMA1 Commune ECHchELLALAT",
+    "AdresseA": "دوار البراهمة 1 جماعة الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED MAAZA",
+    "NOM_ETABA": "اولاد معزة",
+    "AdresseL": "DOUAR OULED MAAZA Commune CHELLALATE",
+    "AdresseA": "دوار اولاد معزة جماعة الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRAZI",
+    "NOM_ETABA": "الرازي",
+    "AdresseL": "DOUAR BRAHMA 2 COMMUNE ECHALLALAT",
+    "AdresseA": "دوار البراهمة 2 جماعة الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL JAZOULI",
+    "NOM_ETABA": "الجزولي",
+    "AdresseL": "DOUAR OULED MAAZA COMMUNE ECHALLALAT",
+    "AdresseA": "دوار أولاد معزة جماعة الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "ECHALLALATE",
+    "AdresseA": "الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSAFA",
+    "NOM_ETABA": "الصفا",
+    "AdresseL": "ECHCHALALATE",
+    "AdresseA": "الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZZARKTOUNI",
+    "NOM_ETABA": "الزرقطوني",
+    "AdresseL": "ECHCHALALATE",
+    "AdresseA": "الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED BNOU ABDELLAH",
+    "NOM_ETABA": "محمد بن عبد الله",
+    "AdresseL": "safa challalat",
+    "AdresseA": "الصفا الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN NAFIS",
+    "NOM_ETABA": "ابن النفيس",
+    "AdresseL": "Echchallalate",
+    "AdresseA": "الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HAZM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "ECH-CHELLALATE",
+    "AdresseA": "الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "TOURIA SEKKAT",
+    "NOM_ETABA": "ثريا السقاط",
+    "AdresseL": "ECHALLALAT",
+    "AdresseA": "الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKR ESSEDIK",
+    "NOM_ETABA": "أبو بكر الصديق",
+    "AdresseL": "COMMUNE ECHLALATE",
+    "AdresseA": "جماعة الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL KHAWARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "Commune EchChellalate",
+    "AdresseA": "جماعة الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "THOMAS JEFFERSON INTERNATIONAL SCHOOL",
+    "NOM_ETABA": "طومس جيفيرسون أنترناسيونال سكول الخصوصية",
+    "AdresseL": "ROUTE NATIONALE N°9 ECHALLALAT",
+    "AdresseA": "الطريق الوطنية رقم 9 الشلالات",
+    "COMMUNE": "Ech-challalate",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

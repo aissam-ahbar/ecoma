@@ -1,0 +1,1382 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED EL MAKHAZINE",
+    "NOM_ETABA": "الثانوية الإعدادية واد المخازن",
+    "AdresseL": "Quartier ijennane safi",
+    "AdresseA": "حي اجنان أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OKBA BNOU NAFEE",
+    "NOM_ETABA": "الثانوية الإعدادية عقبة بن نافع",
+    "AdresseL": "rue ITALIB qu HOPITAL",
+    "AdresseA": "زنقة الطالب حي المستشفى",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED TAIEB BENHIMA",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد الطيب بنهيمة",
+    "AdresseL": "AVENUE MOULAY SOULAIMAN COMMUNE ASFI",
+    "AdresseA": "شارع مولاي سليمان الجريفات جماعة بودهب",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FATIMA EL FIHRIYA",
+    "NOM_ETABA": "الثانوية الإعدادية فاطمة الفهرية",
+    "AdresseL": "RUE DAMAS VILLE NOUVELE COMMUNE ASFI",
+    "AdresseA": "زنقة دمشق المدينة الجديدة جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY YOUSSEF",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي يوسف",
+    "AdresseL": "AVENUE MOULAY YOUSSEF rue ibn badis municipalité  ",
+    "AdresseA": "شارع مولاي يوسف زنقة ابن باديس بلدية اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BIR ANZARANE",
+    "NOM_ETABA": "الثانوية الإعدادية بئر انزران",
+    "AdresseL": "QUARTIER AVIATION ZAOUIA COMMUNE ASFI",
+    "AdresseA": "حي الاداري الزاوية  جماعة الزاوية",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDERRAHMAN CHANAF",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الرحمان شناف",
+    "AdresseL": "ROUTE SIDI OUASSEL COMMUNE ASFI",
+    "AdresseA": "سيدي واصل جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM ALI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام علي",
+    "AdresseL": "QUARTIER KAOUKI COMMUNE safi",
+    "AdresseA": "حي كاوكي جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI ABDELKARIM",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي عبد الكريم",
+    "AdresseL": "ROUTE SIDI ABDELKARIM COMMUNE ASFI",
+    "AdresseA": "حي سيدي عبد الكريم جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED EDDAHAB",
+    "NOM_ETABA": "الثانوية الإعدادية وادي الذهب",
+    "AdresseL": "QUARTIER CHANGUIT COMMUNE ASFI",
+    "AdresseA": "حي شنقيط جماعة اسفي بياضة ",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY IDRISS 2",
+    "NOM_ETABA": "الثانوية الإعدادية المولى ادريس الثاني",
+    "AdresseL": "ROUTE TAKABROTE NAJAH AL AMIR COMMUNE ASFI BIYADA",
+    "AdresseA": "نجاح الأمير- طريق تكابروت- أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ELKHATIB",
+    "NOM_ETABA": "الثانوية الإعدادية ابن الخطيب",
+    "AdresseL": "ROUTE DAR CAID AISSA COMMUNE ASFI",
+    "AdresseA": "طريق دار القائد عيسى  جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKRIM EL KHATTABI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الكريم الخطابي",
+    "AdresseL": "ZAOUIA SIDI OUASSEL SAFI",
+    "AdresseA": "زاوية سيدي واصل اسفى ",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JRIFATE",
+    "NOM_ETABA": "مدرسة الجريفات",
+    "AdresseL": "QUARTIER JRIFATE  ASFI",
+    "AdresseA": "حي الجريفات أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "مدرسة علال بن عبد الله",
+    "AdresseL": "QUARTIER JRIFATE ASFI",
+    "AdresseA": "حي الجريفات أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZIB EDDDARII",
+    "NOM_ETABA": "مدرسة اعزيب الدرعي",
+    "AdresseL": "QUARTIER AZIB EDDARII  ASFI",
+    "AdresseA": "حي اعزيب الدرعي أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IDRISS BENNACER",
+    "NOM_ETABA": "مدرسة ادريس بناصر",
+    "AdresseL": "QUARTIER AZIB EDDARII  ASFI",
+    "AdresseA": "حي اعزيب الدرعي أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH IBRAHIM",
+    "NOM_ETABA": "مدرسة  عبد لله إبراهيم",
+    "AdresseL": "ANCIEN MEDINA  ASFI",
+    "AdresseA": "المدينة القديمة أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHCEN OUAZIZ",
+    "NOM_ETABA": "مدرسة لحسن واعزيز",
+    "AdresseL": "rue almadariss QUARTIER TRAB ESSINI",
+    "AdresseA": "زنقة المدارس حي تراب الصيني",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED ACHOUR",
+    "NOM_ETABA": "مدرسة  أحمد عاشور",
+    "AdresseL": "QUARTIER HOPITAL COMMUNE ASFI",
+    "AdresseA": "حي المستشفى أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANAS IBN MALEK",
+    "NOM_ETABA": "مدرسة أنس بن مالك",
+    "AdresseL": "QUARTIER ANASS ASFI",
+    "AdresseA": "حي أناس أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "QARIAT ECHAMS",
+    "NOM_ETABA": "مدرسة قرية الشمس",
+    "AdresseL": "qariat echams",
+    "AdresseA": "قرية الشمس",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN BATTOUTA",
+    "NOM_ETABA": "مدرسة ابن بطوطة",
+    "AdresseL": "rue tarik ibn zayad ville nouvelle ASFI",
+    "AdresseA": "زنقة طارق بن زياد المدينة الجديدة أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BLAD EL JAD",
+    "NOM_ETABA": "مدرسة بلاد الجد",
+    "AdresseL": "BLAD EL JAD AZIB DERII  ASFI",
+    "AdresseA": "بلاد الجد اعزيب الدرعي أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZINE ABIDINE MIXTE",
+    "NOM_ETABA": "مدرسة زين العابدين المختلطة",
+    "AdresseL": "QUARTIER ZINE EL ABIDINE  ASFI",
+    "AdresseA": "حي زين العابدين أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU MOHAMMED SALEH",
+    "NOM_ETABA": "مدرسة  بو محمد صالح",
+    "AdresseL": "QUARTIER OURIDA 1  ASFI",
+    "AdresseA": "حي اوريدة1 أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RAHAL EL MASQUINI",
+    "NOM_ETABA": "مدرسة رحال المسكيني",
+    "AdresseL": "QUARTIER ZAOUIA  SIDI OUASSEL COMMUNE ASFI",
+    "AdresseA": "حي زاوية سيدي واصل أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI OUASSEL",
+    "NOM_ETABA": "مدرسة سيدي واصل",
+    "AdresseL": "QUARTIER SIDI OUASSEL COMMUNE ASFI",
+    "AdresseA": "زاوية سيدي واصل",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "20 AOUT",
+    "NOM_ETABA": "20 مدرسة  غشت",
+    "AdresseL": "QUARTIER OQBA SIDI OUASSEL ASFI",
+    "AdresseA": "حي عقبة سيدي واصل أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HOUMMANE EL FATOUAQUI",
+    "NOM_ETABA": "مدرسة حمان الفطواكي",
+    "AdresseL": "RUE HASSAN ELOUAZZANI SIDI OUASSEL",
+    "AdresseA": "زنقة حسن الوزاني سيدي واصل",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZARKTOUNI",
+    "NOM_ETABA": "مدرسة الزرقطوني",
+    "AdresseL": "QUARTIER KAOUKI  ASFI",
+    "AdresseA": "حي كاوكي اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "11-janv.",
+    "NOM_ETABA": " مدرسة 11 يناير",
+    "AdresseL": "QUARTIER KAOUKI ASFI",
+    "AdresseA": "حي كاوكي أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BAHIA",
+    "NOM_ETABA": "مدرسة الباهية",
+    "AdresseL": "QUARTIER KAOUKI ASFI",
+    "AdresseA": "حي كاوكي أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "مدرسة يوسف بن تاشفين",
+    "AdresseL": "QUARTIER EL CORSE ASFI",
+    "AdresseA": "حي الكورس أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID IBN EL OUALID",
+    "NOM_ETABA": "مدرسة خالد بن الوليد",
+    "AdresseL": "quartier almatar ASFI",
+    "AdresseA": "حي المطار أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MED LAALAJ BENHIMA",
+    "NOM_ETABA": "مدرسة محمد لعلج بنهيمة",
+    "AdresseL": "RUE JALAL BIYADA SAFI",
+    "AdresseA": "زنقة جلال بياضة آسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MASSIRA",
+    "NOM_ETABA": "مدرسة المسيرة",
+    "AdresseL": "Rue Azibe ZAMMOURI  BIADA",
+    "AdresseA": "زنقة اعزيب الزموري بياضة ",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUGHAFER",
+    "NOM_ETABA": "مدرسة بوغافر",
+    "AdresseL": "QUARTIER SIDI ABDELKRIM  ASFI",
+    "AdresseA": "حي سيدي عبد الكريم أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ABDEKRIM",
+    "NOM_ETABA": "مدرسة سيدي عبد الكريم",
+    "AdresseL": "QUARTIER SIDI ABDELKRIM  ASFI",
+    "AdresseA": "حي سيدي عبد الكريم أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NAJAH AL AMIR",
+    "NOM_ETABA": "مدرسة نجاح الأمير",
+    "AdresseL": "QUARTIER najah elamir CHANGUIT",
+    "AdresseA": "حي نجاح الأمير شنقيط",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUZID",
+    "NOM_ETABA": "مدرسة سيدي بوزيد",
+    "AdresseL": "quartier dabra  SIDI BOUZID SaFI",
+    "AdresseA": "حي الضبرة سيدي بوزيد أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BORJ NADOR",
+    "NOM_ETABA": "م/م برج الناظور",
+    "AdresseL": "BORJ NADOR sidi bouzid ASFI",
+    "AdresseA": "برج الناظور سيدي بوزيد أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDESSALAM ELOUAZZANI",
+    "NOM_ETABA": "مدرسة عبد السلام  الوزاني",
+    "AdresseL": " rue mediona QUARTIER JNANE ILLANE  ASFI",
+    "AdresseA": "زنقة مديونة حي اجنان علان",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FKIH EL HASKOURI",
+    "NOM_ETABA": "مدرسة الفقيه الهسكوري",
+    "AdresseL": "LOTISSEMENT SIDI ABDELKRIM ijennane",
+    "AdresseA": "تجزئة سيدي عبد الكريم اجنان",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUAD BNOU JABAL",
+    "NOM_ETABA": "مدرسة معاد بن جبل",
+    "AdresseL": "KARIAT ECHAMS SOUFLA  SAFI",
+    "AdresseA": " قرية الشمس السفلى  أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNOU MASKAWYH",
+    "NOM_ETABA": "مدرسة ابن مسكويه",
+    "AdresseL": "mzoughan quartier ijennane  ASFI",
+    "AdresseA": "مزوغن حي اجنان أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI DAR AL GHAFFARI",
+    "NOM_ETABA": "مدرسة  أبي  ذر الغفاري",
+    "AdresseL": "quartier almassira safi",
+    "AdresseA": "حي المسيرة أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FKIH SERGHINI",
+    "NOM_ETABA": "مدرسة الفقيه السرغيني",
+    "AdresseL": "ZAOUIA HAY AMOUNI 2",
+    "AdresseA": "الزاوية حي أموني 2",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EZZOHOUR",
+    "NOM_ETABA": "مدرسة الزهور",
+    "AdresseL": "Q EZZOHOUR SAFI",
+    "AdresseA": "تجزئة الزهور أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "AVENUE MOULAY SMAIL VILLE NOUVELLE",
+    "AdresseA": "شارع مولاي اسماعيل المدينة الجديدة",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ACHARIF AL IDRISSI TECHNIQUE",
+    "NOM_ETABA": "الثانوية التأهيلية التقنية الشريف الادريسيى",
+    "AdresseL": "RUE DAMAS COMMUNE  SAFI",
+    "AdresseA": "زنقة دمشق المدينة الجديدة  اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL HIDAYA ISLAMIA",
+    "NOM_ETABA": "الثانوية التأهيلية الهداية الإسلامية",
+    "AdresseL": "SIDI OUASSEL QUARTIER OKBA BNOU NAFII COMMUNE ASFI",
+    "AdresseA": "سيدي واصل حي عقبة بن نافع جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUN",
+    "NOM_ETABA": "الثانوية التأهيلية ابن خلدون",
+    "AdresseL": "ROUTE DAR SI AISSA COMMUNE ASFI",
+    "AdresseA": "طريق دار القائد عيسى جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL KHAOUARIZMI TECHNIQUE",
+    "NOM_ETABA": "الثانوية التأهيلية التفنية الخوارزمي",
+    "AdresseL": "ROUTE DAR SI AISSA COMMUNE ASFI",
+    "AdresseA": "طريق دارالقائد عيسى ص ب 322 جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAFQIH EL KANOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية الفقيه الكانوني",
+    "AdresseL": "QUARTIER SIDI ABDELKRIM COMMUNE ASFI",
+    "AdresseA": "حي سيدي عبد الكريم جماعة اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الايوبي",
+    "AdresseL": "HAY OURIDA 2  SAFI",
+    "AdresseA": "حي اوريدة 2 اسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Moulay Abdellah",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي عبد الله",
+    "AdresseL": "Q SIDI ABDELKRIM SAFi",
+    "AdresseA": "حي سيدي عبد الكريم أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED BELHCEN EL OUAZZANI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد بلحسن الوزاني",
+    "AdresseL": "AVENUE MOHAMED BEN AHMED AL HIANI",
+    "AdresseA": "شارع محمد بن احمد الحياني",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN MOULAY ELHAJ",
+    "NOM_ETABA": "الثانوية التأهيلية ابن مولاي الحاج",
+    "AdresseL": "QU  DERB MOULAY ELHASSAN bp 4125",
+    "AdresseA": "        ص ب 4125..حي درب مولاي الحسن",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT NAJIB MAHFOUD",
+    "NOM_ETABA": "الثانوية التأهيلية نجيب محفوظ",
+    "AdresseL": "COMMUNE SAFI",
+    "AdresseA": "جماعة أسفي",
+    "COMMUNE": "Safi",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire el Hana School Safiot pour l'enseignement pr",
+    "NOM_ETABA": "مجموعة مدارس الهناء سكول سافيو للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lot el hanaa 2",
+    "AdresseA": "تجزئة الهناء 2 ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "safi school 2",
+    "NOM_ETABA": "آسفي سكول 2",
+    "AdresseL": "N° 5 Lot basma labiar",
+    "AdresseA": "رقم 5 تجزئة بسمة البيار",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el khansaa pour l'enseignement",
+    "NOM_ETABA": "الخنساء للتعليم المدرسي الخصوصي",
+    "AdresseL": "bloc 12 qu erriad",
+    "AdresseA": "بلوك 12 حي الرياض",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Edouard Manet Pour L'enseignement",
+    "NOM_ETABA": "إدوارد ماني للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 2 rue chabab ville nouvelle",
+    "AdresseA": "رقم 2 زنقة الشباب المدينة الجد",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALFADILA DU PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الفضيلة للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 38 الزنقة 8 حي كاوكي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ACHBAL MARJANA POUR L'ENSEIGNEMENT",
+    "NOM_ETABA": "مجموعة مدارس أشبال مرجانة للتعليم المدرسي الخصوصي",
+    "AdresseL": "DYAR MARJANE KRYAT CHEMS RUE E",
+    "AdresseA": "ديار المرجان قرية الشمس طريق ا",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire benomar 2 pour l'enseignement",
+    "NOM_ETABA": "مجموعة مدارس بنعمر 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "quartier nafda route mzoughen",
+    "AdresseA": "درب النفضة طريق مزوغن آسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annexe groupe scolaire temry",
+    "NOM_ETABA": "ملحقة مجموعة مدارس التمري",
+    "AdresseL": "N° 06rue ibn zohr ville nouvel",
+    "AdresseA": "رقم 06 زنقة ابن زهر المدينة ال",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement arrissala du prescolaire",
+    "NOM_ETABA": "مؤسسة الرسالة للتعليم الأولي الخصوصي",
+    "AdresseL": "N° 52 RUE 10 LOT 108 KAOUKI",
+    "AdresseA": "رقم 52 زنقة 10 تجزئة 108 كاوكي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ABTAL AL MOSTAKBAL DU PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أبطال المستقبل للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 12 حي عقبة بن نافع سيدي وا",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BASSMA DU PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة بسمة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 58 بلوك 2 حي إجنان",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "safae PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الصفاء للتعليم الأولي",
+    "AdresseL": "Rue 18 n°4 Moulay Rachid IJANN",
+    "AdresseA": "زنقة 18 رقم 4 حي مولاي رشيد اج",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ETTAWFIK",
+    "NOM_ETABA": "مؤسسة التوفيق الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المطار بلوك 3 آسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL BOUCHRA PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة البشرى للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة حي أنس عمارو 13 فيلا 8 آ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IPSE POUR L ENSEIGNEMENTE",
+    "NOM_ETABA": "معهد الترقية الاجتماعية والتعليمية للتعليم المدرسي الخصوصي",
+    "AdresseL": "qurtier azib edarii safi",
+    "AdresseA": "حي اعزيب الدرعي آسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YEMMA POUR L ENSEIGNEMENT PRESCOLAIREE",
+    "NOM_ETABA": "ياما للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الكتبية البقع نادي نسوي ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire abtal al ghad pour l enseignement",
+    "NOM_ETABA": "مجموعة مدارس أبطال الغد للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة شاكنا رقم 178 179 180 18",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BOUARBINE 2 N 66 ET 68 SAFI",
+    "NOM_ETABA": "مجموعة مدارس بوأربعين 2",
+    "AdresseL": "qu sidi wassel lot chagna n°66",
+    "AdresseA": "حي سيدي واصل ،تجزئة الشاكنة رق",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IPSE POUR L ENSEIGNEMENT (ELBILIA)",
+    "NOM_ETABA": "معهد الترقية الاجتماعية والتعليمية للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "اعزيب الدرعي أسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA SAGESSE POUR L ENSEIGNEMENTE",
+    "NOM_ETABA": "الحكمة للتعليم الأولي الخصوصي",
+    "AdresseL": "7 RUE TAIB BENHIMA SAFI",
+    "AdresseA": "رقم 7 زنقة الطيب بنهيمية أسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "yasmina pour l ensegnemente",
+    "NOM_ETABA": "ياسمينة للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة لمياء 204 طريق دار سي عي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "charaf help",
+    "NOM_ETABA": "شرف هلب ",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 10 زنقة الصدافي تجزئة أ-ب-",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SUPTEM",
+    "NOM_ETABA": "مجموعة مدارس سوبتيم",
+    "AdresseL": "AV FKIH HASKOURI ROUTE HAD HRA",
+    "AdresseA": "شارع الفقيه الهسكوري، طريق حد ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BOUHMILA POUR LENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "بوحميلة للتعليم الأولي الخصوصي",
+    "AdresseL": "lot Hicham Bloc 9 N° 34 ",
+    "AdresseA": "تجزئة هشام  بلوك 9  الرقم 34",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NOUR ALFAJR 2",
+    "NOM_ETABA": "مجموعة مدارس نور الفجر 2",
+    "AdresseL": "",
+    "AdresseA": "زنقة مولاي الحسن الجريفات أسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COLLEGE (ipse)",
+    "NOM_ETABA": "الثانوية الإعدادية للتدبير المفوض لمجموعة مدارس الإقامة",
+    "AdresseL": "",
+    "AdresseA": "شارع الحسن الثاني آسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PI SCHOOL POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "بي سكول للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOT  AFFAF ROUTE DAR KAID SSI ",
+    "AdresseA": "تجزئة عفاف طريق دار القائد الس",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAJARRA ",
+    "NOM_ETABA": "المجرة للتعليم المدرسي الخصوصي",
+    "AdresseL": "n 37 rue ibn batouta  aBC",
+    "AdresseA": "abc شارع ابن بطوطة37",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S NOTRE ENFANT",
+    "NOM_ETABA": "مجموعة مدارس طفلنا",
+    "AdresseL": "LOT LAMIA 2",
+    "AdresseA": "تجزئة لمياء 2",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S LA RESIDENCE",
+    "NOM_ETABA": "التدبير مفوض لمجموعة مدارس الإقامة",
+    "AdresseL": "RUE IBN ZOHR Q PLATEAU",
+    "AdresseA": "زنقة ابن زهر البلاطو أسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire Safi School",
+    "NOM_ETABA": "مجموعة مدارس آسفي سكول",
+    "AdresseL": "n 390 bloc 8 q kaouki",
+    "AdresseA": "رقم البقعة 390 بلوك 8 كاوكي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EL MANAR ADDAHABI",
+    "NOM_ETABA": "مجموعة مدارس المنار الذهبي",
+    "AdresseL": "230 RUE BADIA ZAMAN HAMADANI Q",
+    "AdresseA": " 230 زنقة بديع الزمان الهمداني",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIHAME",
+    "NOM_ETABA": "مؤسسة ريهام الخاصة",
+    "AdresseL": "LOT 39 LOTIS DAKHLA",
+    "AdresseA": "تجزئة الداخلة السعادة أسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS LA RESIDENCE PRESCO",
+    "NOM_ETABA": "التدبير مفوض لموجموعة مدارس الإقامة",
+    "AdresseL": "RUE KHEIDER ghilane Q PLATEAU ",
+    "AdresseA": "زنقة الخدير غبلان البلاطو آسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Espace Enfants",
+    "NOM_ETABA": "فضاء الأطفال",
+    "AdresseL": "N° 2, Rue Elyamama qu elmajed-",
+    "AdresseA": "رقم 2، زنقة اليمامة حي المجد- ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Espace Ennajah",
+    "NOM_ETABA": "فضاء النجاح",
+    "AdresseL": "Sidi Abdelkarim 1 - Commune As",
+    "AdresseA": "سيدي عبد الكريم 1 - جماعة أسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ali Squalli",
+    "NOM_ETABA": "علي الصقلي الخصوصية",
+    "AdresseL": " Rue Belle vue  - Commune Asfi",
+    "AdresseA": " زنقة المنظر الجميل  - جماعة أ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTANCHIA",
+    "NOM_ETABA": "التنشئة",
+    "AdresseL": "N° 18, Rue 38, Quartier Anas -",
+    "AdresseA": "الرقم 18 الزنقة 38 حي أنس آسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire la sagesse",
+    "NOM_ETABA": "مجموعة مدارس الحكمة",
+    "AdresseL": "dar hassan 2 bd liberté V.N. -",
+    "AdresseA": "دار حسن 2  شارع الحرية المدينة",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA FONDATION MARIA JOSE POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة ماري جوزي للتعليم المدرسي الخصوصي",
+    "AdresseL": "KM 3.5 ROUTE SIDI BOUZID SAFI",
+    "AdresseA": "كيلومتر 3.5 طريق سيدي بوزيد أس",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HIKMA 3",
+    "NOM_ETABA": "الحكمة 3",
+    "AdresseL": "10 rue toubad coin de paris vi",
+    "AdresseA": "10 زنقة توباد ركن باريس  المدي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Enahda",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "N° 37, Avenue Medyouna Jnane I",
+    "AdresseA": "رقم 37، شارع مديونة جنان علان ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sanaa",
+    "NOM_ETABA": "سناء",
+    "AdresseL": "rue 32,N° 4, Bled El Jad Azib ",
+    "AdresseA": "بلاد الجد عزيب الدرعي 4 الزنقة",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Echaimâa",
+    "NOM_ETABA": "الشيماء",
+    "AdresseL": "Route Sidi Aissa Ville Nouvell",
+    "AdresseA": "طريق سيدي عيسى المدينة الجديدي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annexe Sanâa",
+    "NOM_ETABA": "سناء الملحقة",
+    "AdresseL": "N° 4, RUE 32 , Bled El Jad Azi",
+    "AdresseA": "بلاد الجد عزيب الدرعي 4 الزنقة",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Rihab",
+    "NOM_ETABA": "رحاب",
+    "AdresseL": "N° 22, tankar2, Rue 5 Nouvelle",
+    "AdresseA": "رقم 22،نكر2 ، الزنقة 5 المدينة",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire el azhari les champions",
+    "NOM_ETABA": "مجموعة مدارس الأزهري مدرسة الأبطال",
+    "AdresseL": "N° 15, Avenue Allal illan",
+    "AdresseA": "الرقم 15، شارع علال عيلان المد",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Plateau Bensouda",
+    "NOM_ETABA": "البلاطو بنسودة",
+    "AdresseL": "N° 21, Rue Ibn Zahr Ville Nouv",
+    "AdresseA": "رقم 21، زنقة ابن زهر المدينة ا",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Plateau Annexe",
+    "NOM_ETABA": "بلاطو - ملحقة",
+    "AdresseL": "10 rue la liberte ville nouvel",
+    "AdresseA": "رقم 10، شارع الحرية  المدينة ا",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée-Collège Du Plateau Bensouda",
+    "NOM_ETABA": "الثانوية التأهيلية والإعدادية البلاطو",
+    "AdresseL": "12.RUE BEN ZAIDOUN VILLE NOUVE",
+    "AdresseA": "زنفة ابن زيدون رقم 12 المدينة ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE SECONDAIRE QUALIFIANT AL ABTAL",
+    "NOM_ETABA": "ملحقة الثانوي التأهيلي الأبطال الخصوصية",
+    "AdresseL": "VILLA MARGOT N267 QPLATAU",
+    "AdresseA": "فيلا ماركوط رقم 267  المدينة ا",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMAARIFA PLATEAU",
+    "NOM_ETABA": "مدرسة المعرفة البلاطو",
+    "AdresseL": "91 rue moulay youssef plateau",
+    "AdresseA": " 91اشارع مولاي يوسف البلاطو",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES CHEKKOURIES",
+    "NOM_ETABA": "مدارس الشقوري الخصوصية ",
+    "AdresseL": "18 BD MOULAY SLIMANE AZIB DERA",
+    "AdresseA": "شارع مولاي سليمان اعزيب الدرعي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " GROUPE SCOLAIRE La Sagesse",
+    "NOM_ETABA": "مجموعة مدارس الحكمة",
+    "AdresseL": "Dar Hassan II, Bd la Liberté, ",
+    "AdresseA": "دار حسن 2،  شارع الحرية، المدي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Wiame",
+    "NOM_ETABA": "مدرسة وئام الخصوصية",
+    "AdresseL": "N° 1, Rue 13, Wiam 2, Azib Dar",
+    "AdresseA": "رقم 1، زنقة13، وئام 2، اغريب ا",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANARAT Al IRFANE",
+    "NOM_ETABA": "منارة العرفان",
+    "AdresseL": "N° 2, Rue Yasmine, Quartier Ho",
+    "AdresseA": "رقم 2، زنقة الياسمين، حي المست",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Collège Des Champions (G.S. Azhari)",
+    "NOM_ETABA": "إعدادية الأبطال (مجموعة مدارس الأزهر",
+    "AdresseL": "N° 11.15 rue lamek ville nouve",
+    "AdresseA": "رقم 11،15 زنقة مكة مدينة الجدي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ajial 2",
+    "NOM_ETABA": "أجيال 2",
+    "AdresseL": "20 bis , avenue sidi mohammed ",
+    "AdresseA": "20مكرر شارع محمد بن عبد الله ا",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANAR",
+    "NOM_ETABA": "المنار",
+    "AdresseL": "rue badii zaman elhamadani n°9",
+    "AdresseA": "زنقة بديع الزمان الهمداني رقم ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BOUARBAINE",
+    "NOM_ETABA": "مجموعة مدارس بو الأربعين",
+    "AdresseL": "167 lot soumia avenue almatar",
+    "AdresseA": "167 تجزئة سمية شارع المطار",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GOLDEN DREAM",
+    "NOM_ETABA": "كولدن دريم",
+    "AdresseL": "12 Azib Zemmouri Quartier Biad",
+    "AdresseA": "رقم 12 اعزيب الزموري حي بياضة",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TIGHALINE",
+    "NOM_ETABA": "تيغالين",
+    "AdresseL": "9-10 FEDQN ERKHA SIDI OUASSEL",
+    "AdresseA": "9-10 فدان الرخى سيدي واصل",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire TEMRY",
+    "NOM_ETABA": "مجموعة مدارس التمري للتعليم الخصوصي",
+    "AdresseL": "Villa N° 16, Angle Rue Kindy &",
+    "AdresseA": "فيلا رقم 16، زاوية زنقة كنيدي ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Generations",
+    "NOM_ETABA": "مدرسة اجيال الخصوصية",
+    "AdresseL": "N° 5, Coopérative My Rachid, H",
+    "AdresseA": "رقم 5، تعاونية مولاي رشيد، حي ",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Ouassal",
+    "NOM_ETABA": "مجموعة مدارس وصال للتعليم الخصوصي",
+    "AdresseL": "Lot. Sadafi, Rue B - Ville Nou",
+    "AdresseA": "تجزئة الصدفي، زنقة ب - المدينة",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire el azhari les champions 2",
+    "NOM_ETABA": "مجموعة مدارس لأزهري الأبطال 2",
+    "AdresseL": "1lot abc ville nouvelle",
+    "AdresseA": "رقم1تجزئة أب س المدينة الجديدة",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTANCHIA",
+    "NOM_ETABA": "التنشئة الخصوصية",
+    "AdresseL": "N° 18, Rue 38  , quartier anas",
+    "AdresseA": "الرقم 18 الزنقة 38 حي أنس",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire les premierse",
+    "NOM_ETABA": "مجموعة مدارس الأوائل الخصوصية",
+    "AdresseL": "villa n°32 lotissement samis t",
+    "AdresseA": "فيلا 32 تجزئة شمس التريكي  الم",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire La cité Al Madina",
+    "NOM_ETABA": "مجموعة مدارس المدينة",
+    "AdresseL": "21/15 lOTS SANAA II QURT.NAJAH",
+    "AdresseA": " 21/15 تجزئة سناء 2 حي نجاح ال",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESPACE ALHADI",
+    "NOM_ETABA": "مدرسة فضاء الهادي",
+    "AdresseL": "bloc 2 n42 l aviation",
+    "AdresseA": "مجموعة 2 رقم 42 حي المطار",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "affak ennajah",
+    "NOM_ETABA": "آفاق  النجاح",
+    "AdresseL": "ROUTE MZOUGHEN QARTIER ESSALAM",
+    "AdresseA": "شارع مزوغن حي سلام  1 اسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire achbal azzohour 1",
+    "NOM_ETABA": "مجموعة مدارس أشبال الزهور الخصوصية 1",
+    "AdresseL": "hay al matar imtidad",
+    "AdresseA": "حي المطار امتداد",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sofia school",
+    "NOM_ETABA": "صوفيا سكول",
+    "AdresseL": "22 RUE ELKENDY Ville Nouvelle ",
+    "AdresseA": "زنقة الكندي رقم 22 م.ج اسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire benomar",
+    "NOM_ETABA": "مجموعة مدارس بنعمر للتعليم الخاص",
+    "AdresseL": "Avenue Fquih Haskouri, Route H",
+    "AdresseA": "شارع الفقيه الهسكوري طريق حد ح",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tifawinee",
+    "NOM_ETABA": "مدرسة تيفاوين الخاصة",
+    "AdresseL": "n 3 rue 8 lot kaouki safi",
+    "AdresseA": "رقم 3 الزنقة 8 حي كاوكي اسفي",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ACHBAL AZZOHOUR 2",
+    "NOM_ETABA": "مجموعة مدارس أشبال الزهور الخصوصية 2",
+    "AdresseL": "HAY ARYAD",
+    "AdresseA": "حي الرياض",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EKO ELKHALIL POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "إكو الخليل للتعليم الخصوصي",
+    "AdresseL": "N 1298 quartier amouni kaouki",
+    "AdresseA": "رقم 1298 حي أموني",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIHAB EL OUAZZANI",
+    "NOM_ETABA": "رحاب",
+    "AdresseL": "9 RUE KENIDI VILLE NOUVELLE",
+    "AdresseA": "المدينة الجديدة الرقم 7مكرر زن",
+    "COMMUNE": "Safi ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,622 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MOUJAHID NADEL EL HACHIMI",
+    "NOM_ETABA": "الثانوية الإعدادية المجاهد ناضل الهاشمي",
+    "AdresseL": "HAY ER BIEB",
+    "AdresseA": "حي اربييب",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Province: Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMAGHRIB ALARABI",
+    "NOM_ETABA": "الثانوية الاعدادية المغرب العربي ",
+    "AdresseL": "HAY ESSALAM2",
+    "AdresseA": "2 حي السلام",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Province: Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 11 JANVIER",
+    "NOM_ETABA": "ثانوية 11 يناير الاعدادية",
+    "AdresseL": "quartier erac ",
+    "AdresseA": "حي ليراك",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Province: Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "الثانوية الاعدادية المسيرة الخضراء",
+    "AdresseL": "AL HAY AL IDARI COMMUNE ESSEMARA",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Province: Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY SOUILIKI BOUSAID",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي سويليكي بوسعيد",
+    "AdresseL": "avoued eddahab",
+    "AdresseA": "شارع واد الدهب",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Province: Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAHBIB HABBOUHA",
+    "NOM_ETABA": "الثانوية الإعدادية الحبيب حبوها",
+    "AdresseL": "HAY EL WAHDA",
+    "AdresseA": "حي الوحدة",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Province: Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI EL ALEM  AL IDRISSI",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي العالم الادريسي",
+    "AdresseL": "Essemara",
+    "AdresseA": "مخيم الكايز السمارة",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Province: Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN PREMIER",
+    "NOM_ETABA": "المدرسة الابتدائية الحسن الأول",
+    "AdresseL": "HAY EL HASSANI COMMUNE ESSMARA",
+    "AdresseA": "زنقة الوليدية-الحي الحسني",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire TAHA BELKASSEM",
+    "NOM_ETABA": "مجمموعة مدارس طه بلقاسم ",
+    "AdresseL": "HAY ELMASSIRA ELKHADRA",
+    "AdresseA": "حي المسيرة الخضراء",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FADLI OULD MAATA ALLAH",
+    "NOM_ETABA": "المدرسة الابتدائية فضلي ولد معطى الله",
+    "AdresseL": "HAY  takaddoum COMMUNE ESSMARA",
+    "AdresseA": "حي التقدم",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAHID MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية الشهيد محمد الزرقطوني",
+    "AdresseL": "RUE ESSAOUIRA COMMUNE ESSEMARA",
+    "AdresseA": " شارع الصويرة السمارة",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUKBA BNOU NAFIAA",
+    "NOM_ETABA": "المدرسة الابتدائية عقبة بن نافع",
+    "AdresseL": "HAY EL GUIEZ COMMUNE ESSEMARA",
+    "AdresseA": "حي الفتح 04",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY MOULAY RACHID   ",
+    "NOM_ETABA": "المدرسة الابتدائية حي مولاي رشيد",
+    "AdresseL": "HAY MOULAY RCHID COMMUNE ESSEMARA",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "",
+    "NOM_ETABA": "",
+    "AdresseL": "",
+    "AdresseA": "",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire  EL AMAL",
+    "NOM_ETABA": "مجموعة مدارس الأمل",
+    "AdresseL": "HAY RBIEB COMMUNE ESSMARA",
+    "AdresseA": "حي اربيب جماعة السمارة",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZOHR",
+    "NOM_ETABA": "المدرسة الابتدائية ابن زهر",
+    "AdresseL": "hay el fath",
+    "AdresseA": "حي الفتح",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CENTRALE ENNOUR",
+    "NOM_ETABA": "المدرسة الابتدائية المركزية النور",
+    "AdresseL": "HAY R BIEB COMMUNE ESSMARA",
+    "AdresseA": "حي اربييب",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL WAHA",
+    "NOM_ETABA": "المدرسة الابتدائية الواحة",
+    "AdresseL": "HAY SALAM 03",
+    "AdresseA": "03 حي السلام",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  COM LAGOUIZ",
+    "NOM_ETABA": "المدرسة الابتدائية  كم لكويز ",
+    "AdresseL": "hay lagouiz",
+    "AdresseA": "حي لكويز",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUDY SFA",
+    "NOM_ETABA": "المدرسة الابتدائية ودي الصفا",
+    "AdresseL": " HAY ALWAHDA",
+    "AdresseA": "تجزئة حي الوحدة",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ASSALAM",
+    "NOM_ETABA": "المدرسة الإبتدائية السلام",
+    "AdresseL": "HAY SALAM 1",
+    "AdresseA": "حي السلام 1",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI AHMED RGIBI",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي أحمد الركيبي",
+    "AdresseL": "Rbieb",
+    "AdresseA": "الربيب",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TIQUEL",
+    "NOM_ETABA": "المدرسة الابتدائية تكل",
+    "AdresseL": "HAY SALAM ",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ANASS BEN MALEK",
+    "NOM_ETABA": "الثانوية التأهيلية أنس بن مالك",
+    "AdresseL": "hay essalam 04",
+    "AdresseA": "حي السلام 04",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PRINCE  MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية الأمير مولاي رشيد",
+    "AdresseL": "avenue des far",
+    "AdresseA": "شارع الجيش الملكي",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUADI SAKIA AL HAMRA",
+    "NOM_ETABA": "الثانوية التأهيلية وادي الساقية الحمراء",
+    "AdresseL": "AL HAY AL IDARI COMMUNE ESSEMARA",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAHBIB OUELD LBLAL",
+    "NOM_ETABA": "الثانوية التأهيلية لحبيب ولد البلال",
+    "AdresseL": "HAY EL WAHDA",
+    "AdresseA": "حي الوحدة",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI MOHAMED MAHMOUD BIADILLAH",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي محمد محمود بيد الله",
+    "AdresseL": "Rbibe",
+    "AdresseA": "الربيب",
+    "COMMUNE": "Es-semara",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "NOUVEAU MONDE ",
+    "NOM_ETABA": "مؤسسة العالم الجديد الملحقة",
+    "AdresseL": "N° 38 AVENUE DES FAR ES-SEMARA",
+    "AdresseA": "شارع الجيش الملكي رقم 38 السما",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETB RIFAQ ALALAM",
+    "NOM_ETABA": "مؤسسة رفاق العالم",
+    "AdresseL": "RUE AHMED BN YHIA N/10 ESSMARA",
+    "AdresseA": "الحي الإداري زنقة أحمد بن يحي ",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALHODA",
+    "NOM_ETABA": "مؤسسة الهدى الخصوصية",
+    "AdresseL": "rue marrakech",
+    "AdresseA": "زنقة مراكش - السمارة",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ECHARAF D’ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الشرف للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement alfath acoté de cl",
+    "AdresseA": "تجزئة الفتح قرب إعدادية 11 ينا",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE PEDAGOGIQUE AL ICHRAK",
+    "NOM_ETABA": "المركب التربوي الاشراق للتعليم الخصوصي ",
+    "AdresseL": "avenue des far n 153 es_semara",
+    "AdresseA": "شارع الجيش الملكي رقم 153 السم",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT KADI AYYAD D’ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة القاضي عياض للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement el villat el massi",
+    "AdresseA": "تجزئة الفلات المسيرة الخضراء ح",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BALABIL ASSALAM D’ENSEIGNEMENT PRESCOLAIRE ",
+    "NOM_ETABA": "مؤسسة بلابل السلام للتعليم الأولي ",
+    "AdresseL": "rue abba ali oueld brik n:36",
+    "AdresseA": "رقم 36 زنقة اباعلي ولد ابريك ا",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALFATH D’ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الفتح للتعليم الأولي الخصوصي",
+    "AdresseL": "RUE AL KASBA N 1 ES-SMARA",
+    "AdresseA": "زنقة القصبة رقم 01 السمارة",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALKALAM D’ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة القلم للتعليم الأولي الخصوصي",
+    "AdresseL": "ave sidi ahmed ben moussa, rue",
+    "AdresseA": "شارع سيدي أحمد بن موسى زنقة أز",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANNAJAH D’ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الناجح للتعليم الأولي الخصوصي",
+    "AdresseL": "NOMBR 94 RUE SIDI WLD BRAHIM",
+    "AdresseA": "الرقم 94 زنقة سيدي ولد ابراهيم",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TAFILALT D’ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة تافيلالت للتعليم الأولي الخصوصي",
+    "AdresseL": "essalam, bloc C, n:40",
+    "AdresseA": "الرقم 40 بلوك C السلام 2",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ROWAD AL IBDAA",
+    "NOM_ETABA": "مؤسسة رواد الإبداع للتعليم المدرسي الخصوصي",
+    "AdresseL": "AVENUe marche VERTe nr 83 es-s",
+    "AdresseA": "شارع المسيرة الخضراء رقم 83 ال",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS. ALHIKMA ATTARBAWIYA D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة الحكمة التربوية للتعليم الخصوصي",
+    "AdresseL": "HAY SALAM 2 BLOK F N 21 ES-SMA",
+    "AdresseA": "مجموعة السلام 02 بلوك F رقم 21",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASSAKAI ALHAMRAA D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة الساقية الحمراء للتعليم الخصوصي",
+    "AdresseL": "Hay ALFATH LETTRE D ES-SEMARA",
+    "AdresseA": "حي الفتح شارع حرف د دون رقم ال",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BARAIM AZZOHOR D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة براعم الزهور للتعليم الخصوصي",
+    "AdresseL": "rue safi n:02",
+    "AdresseA": "زنقة أسفي رقم 02 السمارة",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASSADAKA D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة الصداقة للتعليم الخصوصي",
+    "AdresseL": "RUE ESSAOUIRA NR 10 ES SEMARA",
+    "AdresseA": "زنقة الصويرة رقم 10 السمارة",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT aLAALAM ALJADID D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة العالم الجديد للتعليم الخصوصي",
+    "AdresseL": "rue saidia n42 es-smara",
+    "AdresseA": "42 الـسـمـــارة - زنــقـــة ال",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE ETABLISSEMENT MANAR ALMOSTAKBAL D’ENSEIGNEMENT",
+    "NOM_ETABA": "ملحقة مؤسسة منار المستقبل للتعليم المدرسي الخصوصي",
+    "AdresseL": "BOULEVARD Walidia n ° 77 Smara",
+    "AdresseA": "زنقة الواليدية رقم 77 السمارة",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT IBN KHALDOUN",
+    "NOM_ETABA": "مؤسسة ابن خلدون للتعليم الاولي الخصوصي",
+    "AdresseL": "RUE OUKAIMDEN N° 59-58",
+    "AdresseA": "زنقة جبل اوكيمدن رقم 56-58",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RAHBANI",
+    "NOM_ETABA": "مؤسسة الرحباني للتعليم الأولي",
+    "AdresseL": "Bd Hassan 2 . 292 Essmara",
+    "AdresseA": "شارع الحسن الثاني رقم 292",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANNAHDA",
+    "NOM_ETABA": "مؤسسة النهضة للتعليم الأولي",
+    "AdresseL": "quartier elfath rue chella nr ",
+    "AdresseA": "زنقة شالة رقم 4 حي الفتح",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT HAOUZA",
+    "NOM_ETABA": "مؤسسة حوزة للتعليم الأولي",
+    "AdresseL": "HAY ELFATH N°39 RUE HAOUZA",
+    "AdresseA": "حي الفتح رقم 39 زنقة حوزة",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ESSAFAE",
+    "NOM_ETABA": "مؤسسة الصفاء للتعليم الأولي",
+    "AdresseL": "RUE LAHBIB OUELD AHMED BABA NR",
+    "AdresseA": "زنقة الحبيب ولد احمد بابا رقم ",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ARRACHAD",
+    "NOM_ETABA": "مؤسسة الرشاد للتعليم الأولي",
+    "AdresseL": "RUE OUED MIRAN N°7 hAY TAKADDO",
+    "AdresseA": "زنقة واد ميران رقم 7 حي التقدم",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL IMANE ",
+    "NOM_ETABA": "مؤسسة الإيمان للتعليم الأولي",
+    "AdresseL": "RUE MOUSSA OUELD OMAR NR 28 ",
+    "AdresseA": "زنقة موسى ولد عمر رقم 28",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " ANNEXE ETABLISSEMENT  ALIRTIQAE ATTARBAOUI",
+    "NOM_ETABA": "ملحقة مؤسسة الارتقاء التربوي",
+    "AdresseL": "rue far av jbel rguioua n° 19",
+    "AdresseA": "شارع الجيش الملكي زنقة رغيوة ر",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL AMAL ",
+    "NOM_ETABA": "مؤسسسة الامل للتعليم الأولي الخصوصي ",
+    "AdresseL": "n°56 hay salem 2",
+    "AdresseA": "رقم56 حي السلام 2",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COMPLEX ANNAJAH EDUCATIF",
+    "NOM_ETABA": "المركب التربوي النجاح",
+    "AdresseL": "LOT MARCHE N° 63",
+    "AdresseA": "تجزئة المسيرة رقم 63",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAHD POUR L'EXCELLENCE",
+    "NOM_ETABA": "شهد للتميز",
+    "AdresseL": "quartie de lirak district 06 e",
+    "AdresseA": "حي ليراك المقاطعة 06 السمارة",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MANAR ALMOSTAKBAL D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة منار المستقبل للتعليم المدرسي الخصوصي",
+    "AdresseL": "BV ELMASSIRA NR 22",
+    "AdresseA": "شارع المسيرة الخضراء رقم 22",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DAR AL MAARIF D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة دار المعارف للتعليم الخصوصي",
+    "AdresseL": "avenu moulay hfid n 138",
+    "AdresseA": "شارع مولاي حفيظ رقم 138",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ERRAHMA D’ENSEIGNEMENT ",
+    "NOM_ETABA": "مؤسسة الرحمة للتعليم الخصوصي وتنمية القدرات",
+    "AdresseL": "n 3 rue habboha wld soudani",
+    "AdresseA": "رقم 3 زنقة حبوها ولد سوداني",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALIRTIKAA D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة الارتقاء للتعليم الخصوصي",
+    "AdresseL": "N° 255 Près d' ISTA Cité Indus",
+    "AdresseA": "رقم 255 قرب معهد التكنولوجي ال",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ENNAHJ D’ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة النهج للتعليم المدرسي الخصوصي",
+    "AdresseL": "1 rue makness. Bp 149",
+    "AdresseA": "رقم 01 زنقة مكناس ص ب 149 ",
+    "COMMUNE": "Es-semara ",
+    "PROVINCE": "Es-Semara",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  }
+]

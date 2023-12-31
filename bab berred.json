@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIALE IBN SINA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن سينا",
+    "AdresseL": "bab berred",
+    "AdresseA": "باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "مدرسة يوسف بن تاشفين",
+    "AdresseL": "BAB BERRED CHEFCHAOUEN",
+    "AdresseA": "باب برد جماعة باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 11 JANVIER BOUROH",
+    "NOM_ETABA": "م/م 11 يناير _ بورح",
+    "AdresseL": "DOUAR BOUROH COMMUNE BAB BERRET  CHEFCHAOUEN",
+    "AdresseA": "دوار بورح جماعة باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OKBA BEN NAFIA ECOLE LAMDINA",
+    "NOM_ETABA": "م/م عقبة بن نافع مركزية _لمدينة",
+    "AdresseL": "DOUAR LAMDINACBAB BERRED CHEFCHAOUEN",
+    "AdresseA": "دوار لمدينة جماعة باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 20 AOUT  LAANASSER",
+    "NOM_ETABA": "م/م 20غشت _العناصر",
+    "AdresseL": "ECOLE LAANASSER Centre et commune de BAB BERREd pr",
+    "AdresseA": "دوار العناصر جماعة ودائرة باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IZELJAME",
+    "NOM_ETABA": "م/م إزلجام",
+    "AdresseL": "DOUAR IZELJAMECBAB BERRET CHEFCHAOUEN",
+    "AdresseA": "دوار إزلجام جماعة باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS NAHDA BNI CHIA",
+    "NOM_ETABA": "م/م النهضة _بني شيا",
+    "AdresseL": "ECOLE BNI CHIA BAB BERREd CHEFCHAOUEN",
+    "AdresseA": "بني شيا جماعة باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED ERRACHIDI MACHAT",
+    "NOM_ETABA": "م/م احمد الراشدي _مشات",
+    "AdresseL": "ECOLE MECHET C BAB BERREd CHEFCHAOUEN",
+    "AdresseA": "دوار مشات جماعة باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUED AMEZGANE ZAZOU",
+    "NOM_ETABA": "م/م واد امزكان _زازو",
+    "AdresseL": "DOUAR ZAZOU C BAB BARRED CHEFCHAOUEN",
+    "AdresseA": "دوار زازو جماعة باب برد شفشاون",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKARIM AL KHATABI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الكريم الخطابي",
+    "AdresseL": "Commune BAB BERRED CHEFCHAOUEN",
+    "AdresseA": "باب برد المركز جماعة باب برد",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "baraim jaber ibn hayan",
+    "NOM_ETABA": "براعم جابر بن حيان",
+    "AdresseL": "NULL",
+    "AdresseA": "باب برد طريق عنقود شفشاون",
+    "COMMUNE": "Bab Berred",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

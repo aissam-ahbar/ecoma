@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "ABOU BEKR ESSADIQ",
+    "NOM_ETABA": "أبو بكر الصديق",
+    "AdresseL": "COMMUNE DE MECHRAA HAMMADI",
+    "AdresseA": "جماعة مشرع حمادي",
+    "COMMUNE": "Mechraa Hammadi",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MARZOUK",
+    "NOM_ETABA": "اولاد مرزوق",
+    "AdresseL": "DOUAR OULAD MARZOUKcommune MACHRAA HAMMADI",
+    "AdresseA": "دوار اولاد مرزوق جماعة مشرع حمادي",
+    "COMMUNE": "Mechraa Hammadi",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

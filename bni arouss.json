@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE AZIZ BILAL",
+    "NOM_ETABA": "الثانوية الإعدادية عزيز بلال  ",
+    "AdresseL": "commune bni arous",
+    "AdresseA": " جماعة بني عروس",
+    "COMMUNE": "Bni Arouss",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIN HDID CENTRE",
+    "NOM_ETABA": "م/م عين حديد المركزية",
+    "AdresseL": "DOUAR AIN HDID COMMUNE BNI AROUSS",
+    "AdresseA": "دوار عين حديد",
+    "COMMUNE": "Bni Arouss",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGUEZARTE  CENTRE",
+    "NOM_ETABA": "م/م تجــــــــــــزرت المركزية ",
+    "AdresseL": "DOUAR TAJEZART COMMUNE BNI AROUSS",
+    "AdresseA": "دوار تجزرت",
+    "COMMUNE": "Bni Arouss",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARDANE CENTRE",
+    "NOM_ETABA": "م/م طــــــــــــــــردان المركزية ",
+    "AdresseL": "DOUAR TARDANE COMMUNE BNI AROUSS",
+    "AdresseA": "دوار طردان",
+    "COMMUNE": "Bni Arouss",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

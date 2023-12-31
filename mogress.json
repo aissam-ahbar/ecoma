@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR IBN ALKHATTAB",
+    "NOM_ETABA": "الثانوية الإعدادية عمر بن الخطاب",
+    "AdresseL": "Centre Mogress",
+    "AdresseA": "مركز مكرس",
+    "COMMUNE": "Mogress",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SIDI BOUAALAME",
+    "NOM_ETABA": "م/م سيدي بوعلام",
+    "AdresseL": "DOUAR OULED SIDI BOUAALAME ",
+    "AdresseA": "دوار أولاد  سيدي بوعلام",
+    "COMMUNE": "Mogress",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SKAR",
+    "NOM_ETABA": "م/م صقر",
+    "AdresseL": "DOUAR oulad ali ",
+    "AdresseA": "دوار أولاد علي",
+    "COMMUNE": "Mogress",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAMSSAADA",
+    "NOM_ETABA": "م/م المساعدة",
+    "AdresseL": "DOUAR LAMSSAADA ",
+    "AdresseA": "دوار المساعدة ",
+    "COMMUNE": "Mogress",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKYAYLA",
+    "NOM_ETABA": "م/م القيايلة",
+    "AdresseL": "DOUAR LKYAYLA",
+    "AdresseA": "دوار القيايلة ",
+    "COMMUNE": "Mogress",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS TAGHBALTE",
+    "NOM_ETABA": "م.م تغبالت ",
+    "AdresseL": "DOUAR TAGHBALTE CTAGHBALTE",
+    "AdresseA": "تغبالت المركزية",
+    "COMMUNE": "Taghbalte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALMOU",
+    "NOM_ETABA": "م.م ألمو",
+    "AdresseL": "DOUAR ALMOU TAGHBALTE",
+    "AdresseA": "ألمو/تغبالت",
+    "COMMUNE": "Taghbalte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT HADOU",
+    "NOM_ETABA": "م.م أيت حدو",
+    "AdresseL": "DOUAR AIT HADOU CTAGHBALTE",
+    "AdresseA": "أيت حدو",
+    "COMMUNE": "Taghbalte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAGHBALTE",
+    "NOM_ETABA": "الثانوية التأهيلية تغبالت",
+    "AdresseL": "TAGHBALTE CTAGHBALTE",
+    "AdresseA": "تغبالت",
+    "COMMUNE": "Taghbalte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

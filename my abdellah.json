@@ -1,0 +1,272 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM MOUSLIM",
+    "NOM_ETABA": "ثانوية الإمام مسلم الاعدادية",
+    "AdresseL": "centre MOULAY ABDELLAH",
+    "AdresseA": "مركز مولاي عبدالله",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN SINA",
+    "NOM_ETABA": "ثانوية ابن سينا الإعدادية",
+    "AdresseL": "Centre Moulay Abdellah",
+    "AdresseA": "مركز مولاي عبد الله",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL FARAH",
+    "NOM_ETABA": "ثانوية الفرح الإعدادية",
+    "AdresseL": "Centre OULed AL GHADBANE ",
+    "AdresseA": "مركز أولاد الغضبان",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY RACHID",
+    "NOM_ETABA": "ثانوية مولاي رشيد الإعدادية",
+    "AdresseL": "DOUAR OULED SAAD DRAA",
+    "AdresseA": " دوار أولاد سعد دراع",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY ABDELLAH",
+    "NOM_ETABA": "مدرسة مولاي عبد الله",
+    "AdresseL": "CENTRE MOULAY ABDELLAH ",
+    "AdresseA": "مولاي عبد الله",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL KARIA",
+    "NOM_ETABA": "م/م القرية",
+    "AdresseL": "DOUAR OULED GHADBANE ",
+    "AdresseA": "دوار أولاد الغضبان",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL WIFAK",
+    "NOM_ETABA": "مدرسة الوفاق",
+    "AdresseL": "DOUAR LAABABDA ",
+    "AdresseA": "دوار العبابدة",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAMRICHATE",
+    "NOM_ETABA": "م/م المريشات",
+    "AdresseL": "DOUR LAMRICHATE ",
+    "AdresseA": "دوار المريشات ",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED LAMKADEME",
+    "NOM_ETABA": "م/م أولاد المقدم",
+    "AdresseL": "DOUARE OULED LAMKADEMe",
+    "AdresseA": "دوار أولاد المقدم",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAHA HSSINE",
+    "NOM_ETABA": "مدرسة طه حسين",
+    "AdresseL": "DOUAR OULED SAAD LAHOUAOURA ",
+    "AdresseA": "دوار أولاد ساعد الهواورة",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKRAKCHA",
+    "NOM_ETABA": "م/م القراقشة",
+    "AdresseL": "DOUAR LAKRAKCHA ",
+    "AdresseA": "دوار القراقشة",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AHMED ESSARGHINI",
+    "NOM_ETABA": "م/م أحمد السرغيني",
+    "AdresseL": "DOUAR CHKHALBA ",
+    "AdresseA": "دوار الشخالبة",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMOHIT",
+    "NOM_ETABA": "مدرسة المحيط",
+    "AdresseL": "Centre LEMNADLA ",
+    "AdresseA": "مركز المنادلة ",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN TOUFAIL",
+    "NOM_ETABA": "مدرسة إبن طفيل",
+    "AdresseL": "MY ABDELLAH",
+    "AdresseA": "مولاي عبد الله",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ZAIDOUNE",
+    "NOM_ETABA": "مدرسة ابن زيدون",
+    "AdresseL": "Douar Bahara ",
+    "AdresseA": "دوار البحارة ",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL KHDOR",
+    "NOM_ETABA": "مدرسة الخضر",
+    "AdresseL": "Dour El Khdor",
+    "AdresseA": "دوار الخضر",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULED SAAD",
+    "NOM_ETABA": "مدرسة أولاد سعد",
+    "AdresseL": "Douar ouled saad",
+    "AdresseA": "دوار أولاد سعد",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHAOUKI",
+    "NOM_ETABA": "ثانوية شوقي التأهيلية",
+    "AdresseL": "centre my abdellah",
+    "AdresseA": "مركز مولاي عبد الله",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ABDELLAH",
+    "NOM_ETABA": " ثانوية مولاي عبد الله التأهيلية",
+    "AdresseL": "CENTRE MOULAY ABDELLAH",
+    "AdresseA": "مركز مولاي عبد الله",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ecole tomouh",
+    "NOM_ETABA": "مدرسة الطموح ",
+    "AdresseL": "hay dayjat",
+    "AdresseA": "حي الدعيجات",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al malak alharisse",
+    "NOM_ETABA": "الملاك الحارس",
+    "AdresseL": "av maghreb arabi",
+    "AdresseA": "شارع المغرب العربي ",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al omouma",
+    "NOM_ETABA": "الأمومة الخصوصية",
+    "AdresseL": "douar el hafdane",
+    "AdresseA": "دوار الحفظان",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Chaimaa Moulay Abdellah",
+    "NOM_ETABA": "مدرسة شيماء مولاي عبد الله",
+    "AdresseL": "LOT EL KHAIR  1et 4",
+    "AdresseA": "تجزئة الخير 1و4",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement yahya",
+    "NOM_ETABA": "مؤسسة يحي",
+    "AdresseL": "douar el-hafdane",
+    "AdresseA": "دوار الحفضان",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire AL MAHDI",
+    "NOM_ETABA": "مجموعة مدارس المهدي",
+    "AdresseL": "BD mohammed cinq ",
+    "AdresseA": "شارع محمد الخامس ",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL ALIMA",
+    "NOM_ETABA": "مؤسسة العالمة الخصوصية",
+    "AdresseL": "DOUAR TECHNI MOULAY ABDELLAH",
+    "AdresseA": "دوار تكني مولاي عبد الله",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACADEMIE GEORGES CLAUDEE",
+    "NOM_ETABA": "أكاديمي جورج كلود الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز سيدي بوزيد E تقاطع شارع 1",
+    "COMMUNE": "My Abdellah",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

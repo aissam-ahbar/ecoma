@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial MOUSSA BNOU NOUSSAIR",
+    "NOM_ETABA": "ثانوية موسى بن نصير الإعدادية",
+    "AdresseL": " ADREJ",
+    "AdresseA": "العدرج",
+    "COMMUNE": "Adrej",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss EL ADREJ Centre",
+    "NOM_ETABA": "م/م العدرج-المركز",
+    "AdresseL": "COMMUNE EL ADREJ",
+    "AdresseA": "جماعة العدرج",
+    "COMMUNE": "Adrej",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

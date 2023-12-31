@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZZINATE",
+    "NOM_ETABA": "الثانوية الاعدادية الزينات",
+    "AdresseL": "centre commune ezzinate",
+    "AdresseA": "مركز جماعة الزينات",
+    "COMMUNE": "Sebt Azzinate",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AZZINATE",
+    "NOM_ETABA": "المجموعة المدرسية الزينات",
+    "AdresseL": "DOUAR AZZINATE COMMUNE AZZINATE",
+    "AdresseA": "دوار الزينات جماعة الزينات",
+    "COMMUNE": "Sebt Azzinate",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ROUIYEF",
+    "NOM_ETABA": "المجموعة المدرسية الرويف",
+    "AdresseL": "DOUAR ROUIYEF COMMUNE AZZINATE",
+    "AdresseA": "دوار الرويف جماعة الزينات",
+    "COMMUNE": "Sebt Azzinate",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

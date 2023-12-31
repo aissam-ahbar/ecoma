@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS ZAGMOUZEN",
+    "NOM_ETABA": "م.م زاكموزن",
+    "AdresseL": "DOUAR   IGHIL NOUGHOU  C ZAGMOUZEN",
+    "AdresseA": "دوار إغيل نوغو جماعة زكموزن",
+    "COMMUNE": "Zagmouzen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IRZI",
+    "NOM_ETABA": "م.م إرزي",
+    "AdresseL": "DOUAR   IRZI C ZAGMOUZEN",
+    "AdresseA": "دوار ارزي جماعة زاكموزن",
+    "COMMUNE": "Zagmouzen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZREQTOUNI",
+    "NOM_ETABA": "م.م الزرقطوني",
+    "AdresseL": "DOUAR   TIDERF C ZAGMOUZEN",
+    "AdresseA": "دوار تدرف جماعة زكموزن",
+    "COMMUNE": "Zagmouzen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIZI NTOURTITE",
+    "NOM_ETABA": "م.م تزي نتورتيت",
+    "AdresseL": "DOUAR Tahmmoute C.R ZAGMOUZEN",
+    "AdresseA": "دوارتحموت جماعة زاكموزن",
+    "COMMUNE": "Zagmouzen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

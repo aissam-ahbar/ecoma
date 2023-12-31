@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL PRINCE MOULAY RACHID",
+    "NOM_ETABA": "ثانوية الأمير مولاي رشيد الإعداية",
+    "AdresseL": "COMMUNE BNI OULID CENTRE  TAOUNATE",
+    "AdresseA": "مركز بني وليد",
+    "COMMUNE": "Bni Oulid",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BNI OULID",
+    "NOM_ETABA": "م/م  بني ولــــيد",
+    "AdresseL": "COMMUNE BNI OULID CENTRE TAOUNATE",
+    "AdresseA": "جماعة بني وليد-  تاونات",
+    "COMMUNE": "Bni Oulid",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KALAA",
+    "NOM_ETABA": "م/م  القــلعة",
+    "AdresseL": "DOUAR AIN HAMRA COMMUNE BNI OULID TAOUNATE",
+    "AdresseA": "دوار  عين الحمرة جماعة بني وليد-  تاونات",
+    "COMMUNE": "Bni Oulid",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI SOUSSANE",
+    "NOM_ETABA": "م/م  سيدي سوسان ",
+    "AdresseL": "SIDI SOUSSANE COMMUNE BNI OULID TAOUNATE",
+    "AdresseA": "  سيدي سوسان  جماعة بني وليد-  تاونات  ",
+    "COMMUNE": "Bni Oulid",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIMDGHASSE",
+    "NOM_ETABA": "م/م  تمـدغاص",
+    "AdresseL": "DOUAR TIMDGHASSE COMMUNE BNI OULID TAOUNATE",
+    "AdresseA": "دوار تمدغاص جماعة بني وليد-  تاونات",
+    "COMMUNE": "Bni Oulid",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCE QUALIFIANT KHALID IBN ALOUALID ",
+    "NOM_ETABA": "ثانوية خالد بن الوليد التأهيلية",
+    "AdresseL": "COMMUNE BNI OULID province de  TAOUNATE",
+    "AdresseA": "جماعة بني وليد عمالة اقليم تاونات",
+    "COMMUNE": "Bni Oulid",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

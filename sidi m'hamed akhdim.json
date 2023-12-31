@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKHALEQ TORRIS",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الخالق الطريس ",
+    "AdresseL": "Centre Sidi Mhamed Akhdim",
+    "AdresseA": "مركز سيدي امحمد أخديم",
+    "COMMUNE": "Sidi M'Hamed Akhdim",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S LAHMAMNA",
+    "NOM_ETABA": "م/م لحمامنة",
+    "AdresseL": "SIDI M HAMED AKHDIM ",
+    "AdresseA": "سيد ي محمد أخديم",
+    "COMMUNE": "Sidi M'Hamed Akhdim",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAGHNIDRATe",
+    "NOM_ETABA": "م/م الغنيدرات",
+    "AdresseL": "DOUAR LAGHNIDRATE ",
+    "AdresseA": "دوار الغنيدرات",
+    "COMMUNE": "Sidi M'Hamed Akhdim",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI M HAMED AKHDIM",
+    "NOM_ETABA": "م/م سيدي امحمد اخديم",
+    "AdresseL": "DOUAR LAHDARA ",
+    "AdresseA": "دوار الحضارة",
+    "COMMUNE": "Sidi M'Hamed Akhdim",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

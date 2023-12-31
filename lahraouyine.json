@@ -1,0 +1,252 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM AL BOUKHARI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام البخاري",
+    "AdresseL": "LOTISSEMENT BASSATINE AL BAIDA LAHRAOUYINE",
+    "AdresseA": "تجزئة بساتين البيضاء لهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELKADER EL MAZINI",
+    "NOM_ETABA": "عبدالقادر المازني",
+    "AdresseL": " DOUAR OULAD SALEH LAHRAOUYINE",
+    "AdresseA": "دوار ولاد صالح ، الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALI IBN ABI TALEB",
+    "NOM_ETABA": "علي ابن أبي طالب",
+    "AdresseL": "PROJET AL OMRANE TRANCHE II  LAHRAOUYINE",
+    "AdresseA": "مشروع العمران الشطر 2 لهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH IBRAHIM",
+    "NOM_ETABA": " عبد الله ابراهيم",
+    "AdresseL": "PROJET AL OMRANE TRANCHE I  LAHRAOUYINE",
+    "AdresseA": "مشروع العمران الشطر 4 لهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF BNOU TACHFINE",
+    "NOM_ETABA": "يوسف ابن تاشفين",
+    "AdresseL": " PROJET ALOMRANE TRANCHE IV LAHRAOUYINE",
+    "AdresseA": "مشروع العمران الشطر 4 بلدية الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL HALHAL",
+    "NOM_ETABA": "الحلحال",
+    "AdresseL": "DOUAR EL HALHAL   LAHRAOUYINE",
+    "AdresseA": "دوار الحلحال   الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI BAKR ESSADDIK",
+    "NOM_ETABA": "أبي بكر الصديق",
+    "AdresseL": "DOUAR EL MADIOUNI  LAHRAOUYINE",
+    "AdresseA": "دوار المديوني الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ACHAHID AHMED AL HANSALI",
+    "NOM_ETABA": "الشهيد أحمد الحنصالي",
+    "AdresseL": "HAY AL WAHDA 2 ROUTE 1016",
+    "AdresseA": "حي الوحدة 2الطريق 1016",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHIADMA",
+    "NOM_ETABA": "الشياظمة",
+    "AdresseL": "DOUAR  CHIADMA COMMUNE LAHRAOUYINE",
+    "AdresseA": "دوار الشياضمة جماعة  لهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELILAH  AL MOSADDAK",
+    "NOM_ETABA": "عبد الإله المصدق",
+    "AdresseL": "DOUAR HAJ SALEH LAHRAOUYINE",
+    "AdresseA": "دوار الحاج صالح الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR IBN ABDELAZIZ",
+    "NOM_ETABA": "عمر ابن عبد العزيز",
+    "AdresseL": "PROJET AL OMRANE TRANCHE I LAHRAOUYINE",
+    "AdresseA": "مشروع العمران الشطر 1 الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED MEZIANE BELFQIH",
+    "NOM_ETABA": "محمد مزيان بلفقيه",
+    "AdresseL": "PROJET AL OMRANE TRANCHE IV  LAHRAOUYINE",
+    "AdresseA": " مشروع العمران الشطر 4 لهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED AABED AL JABIRI",
+    "NOM_ETABA": " محمد عابد الجابري",
+    "AdresseL": "PROJET AL OMRANE TRANCHE IV  LAHRAOUYINE",
+    "AdresseA": "مشروع العمران الشطر 4 لهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " MOHAMED EL BAROUDI",
+    "NOM_ETABA": "محمد البارودي",
+    "AdresseL": "LOTISSEMENT AL OMRANE TRANCHE 04  LAHRAOUiYINE",
+    "AdresseA": " مشروع العمران الشطر 4 الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED AL OUADII",
+    "NOM_ETABA": " محمد الوديع",
+    "AdresseL": "PROJET AL OMRANE TRANCHE I LAHRAOUYINE",
+    "AdresseA": "مشروع العمران الشطر 1 الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "PRINCESSE LALLA KHADIJA",
+    "NOM_ETABA": "الأميرة للا خديجة",
+    "AdresseL": "LOTISSEMENT AL OMRANE TRANCHE 2 LAHRAOUIYINE",
+    "AdresseA": "تجزئة العمران الشطر 2 الهراويين ",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " AL FARABI",
+    "NOM_ETABA": "الفارابي",
+    "AdresseL": "DOUAR LKHALKA LAHRAOUYINE",
+    "AdresseA": "دوار الخالقة الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOKHTAR ASSOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "PROJET AL OMRANE TRANCHE I  LAHRAOUYINE",
+    "AdresseA": " مشروع العمران الشطر 1 لهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "KHADIJA  OUM AL MOUMININE",
+    "NOM_ETABA": "خديجة أم المؤمنين",
+    "AdresseL": "DOUAR OULAD ZAHRA LAHRAOUYINE",
+    "AdresseA": " دوار اولاد زهرة الهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MAY ZIADA",
+    "NOM_ETABA": "مي زيادة",
+    "AdresseL": "DOUAR LAARISSATE LAHRAOUIYINE",
+    "AdresseA": "دوار لعريسات لهراويين",
+    "COMMUNE": "Lahraouyine",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SADIK ",
+    "NOM_ETABA": "مجموعة مدارس صديق",
+    "AdresseL": " HAY MEDIOUNI 1  N° 116 LAHRAO",
+    "AdresseA": "حي المديوني 1 رقم 116 لهراويين",
+    "COMMUNE": "Lahraouyine ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WAHAT AL MAARIFA",
+    "NOM_ETABA": "واحة المعرفة",
+    "AdresseL": "134 lotissement nadia lahraouy",
+    "AdresseA": "تجزئة نادية رقم 134 لهراويين",
+    "COMMUNE": "Lahraouyine ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAJ EL HIKMA",
+    "NOM_ETABA": "تاج الحكمة",
+    "AdresseL": "bassatin al baida n 95 lahraou",
+    "AdresseA": "تجزئة بساتين البيضاء رقم 95 له",
+    "COMMUNE": "Lahraouyine ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHBAL AL BASSATINE",
+    "NOM_ETABA": "أشبال البساتين",
+    "AdresseL": "LOTISSEMENT BASSATINE AL BAIDA",
+    "AdresseA": "تجزئة بساتين البيضاء لهراويين ",
+    "COMMUNE": "Lahraouyine ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NOUHAILA 2",
+    "NOM_ETABA": "مجموعة مدارس نهيلة 2",
+    "AdresseL": "LOT ELBASATINE N96-97 LAHRAOUI",
+    "AdresseA": "تجزئة بساتين البيضاء رقم 96 97",
+    "COMMUNE": "Lahraouyine ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

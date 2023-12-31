@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY BOUCHTA ZGHIRA",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي بوشتى ازغيرة",
+    "AdresseL": "C ZGHIRA",
+    "AdresseA": "ازغيرة",
+    "COMMUNE": "Zghira",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OKBA IBNOU NAFII ",
+    "NOM_ETABA": "م م عقبة بن نافع الحناتة",
+    "AdresseL": "DOUAR HNATTA COMMUNE ZGHIRA",
+    "AdresseA": "دوار الحناتة",
+    "COMMUNE": "Zghira",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Mohamed Choukri",
+    "NOM_ETABA": "مجموعة مدارس محمد شكري",
+    "AdresseL": "DOUAR AZZABA COMMUNE ZGHIRA",
+    "AdresseA": "دوار العزابة",
+    "COMMUNE": "Zghira",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABD RAHMAN ALDAKHIL",
+    "NOM_ETABA": "م م عبدالرحمان الداخل",
+    "AdresseL": "DOUAR MASTITEF COMMUNE ZGHIRA",
+    "AdresseA": "دوار مستيتف",
+    "COMMUNE": "Zghira",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant AL KHWARIZMI",
+    "NOM_ETABA": "الخوارزمي الثانوية التأهيلية ",
+    "AdresseL": "COMMUNE ZGHIRA",
+    "AdresseA": "جماعة ازغيرة",
+    "COMMUNE": "Zghira",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE LAHOUISSIA",
+    "NOM_ETABA": "مجموعة مدارس لحويسية",
+    "AdresseL": "BNI OUKIL OULAD MHAND NADOR ",
+    "AdresseA": "ص.ب 30",
+    "COMMUNE": "Bni Oukil Oulad M'Hand",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE EDDOUIRYA",
+    "NOM_ETABA": "مجموعة مدارس الدويرية",
+    "AdresseL": "OULAD RAHOU BENAISSA  COMMUNE BNI OUKIL",
+    "AdresseA": "دوار اولاد رحو بنعيسى جماعة بني وكيل",
+    "COMMUNE": "Bni Oukil Oulad M'Hand",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS MHAIST",
+    "NOM_ETABA": "م م امحايست",
+    "AdresseL": " COMMUNE OUARDANA",
+    "AdresseA": "جماعة وردانة",
+    "COMMUNE": "Ouardana",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI ABDESSALAM",
+    "NOM_ETABA": "م.م بني عبدالسلام",
+    "AdresseL": "DOUAR beni abdessalam COMMUNE OUARDANA",
+    "AdresseA": "دوار بني عبدالسلام وردانة",
+    "COMMUNE": "Ouardana",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

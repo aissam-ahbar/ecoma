@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S SAD IDRISS PREMIER",
+    "NOM_ETABA": "م/م  سد إدريس الاول",
+    "AdresseL": "DOUAR ARABATE COMMUNE OUED JEMAA TISSA",
+    "AdresseA": "دواراعرابات جماعة واد الجمعة -تيسة",
+    "COMMUNE": "Oued Jemaa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDELMOUMEN EL MOAHIDI",
+    "NOM_ETABA": "م/م  عبد المومن الموحدي",
+    "AdresseL": "CENTRE COMMUNE OUED JEMAA TISSA",
+    "AdresseA": "مركز جماعة واد الجمعة -تيسة",
+    "COMMUNE": "Oued Jemaa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MAFATIH",
+    "NOM_ETABA": "م/م  المفاتيح",
+    "AdresseL": "DOUAR MAFATIH COMMUNE OUED JEMAA TISSA",
+    "AdresseA": "دوار المفاتيح جماعة واد الجمعة -تيسة",
+    "COMMUNE": "Oued Jemaa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

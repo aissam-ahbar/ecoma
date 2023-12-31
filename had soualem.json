@@ -1,0 +1,302 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SOUALEM",
+    "NOM_ETABA": "الثانوية الاعدادية السوالم",
+    "AdresseL": "lot sahel had soualem",
+    "AdresseA": "تجزئة الساحل حد السوالم    ",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MANSOUR EDDAHABI",
+    "NOM_ETABA": "الثانوية الإعدادية المنصور الذهبي",
+    "AdresseL": "LOTISSEMENT AL OMRANE SAHEL",
+    "AdresseA": "تجزئة العمران الساحل",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DAR ELHADDAD",
+    "NOM_ETABA": "المدرسة الابتدائية دار الحداد",
+    "AdresseL": "ecole dar elhaddad  COMMUNE SOUALEM",
+    "AdresseA": "مدرسة دار الحداد جماعة السوالم",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MASSIRA EL KHADRA",
+    "NOM_ETABA": "المدرسة الابتدائية المسيرة الخضراء",
+    "AdresseL": "zONE INDUSTRIELLE COMMUNE HAD SOUALEM",
+    "AdresseA": " الحي الصناعي بلدية السوالم إقليم برشيد ",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKHALEK TORRES CENTRE",
+    "NOM_ETABA": " مركزية عبد الخالق الطريس",
+    "AdresseL": "DOUAR JOUALA COMMUNE SOUALEM",
+    "AdresseA": "دوار جوالة جماعة السوالم",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAD SOUALEM",
+    "NOM_ETABA": "المدرسة الابتدائية حد السوالم",
+    "AdresseL": "HAD SOUALEM",
+    "AdresseA": "حد السوالم",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNOUR",
+    "NOM_ETABA": "المدرسة الابتدائية النور",
+    "AdresseL": "HAD SOUALEM",
+    "AdresseA": "حد السوالم",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DYAR EL MANSOUR",
+    "NOM_ETABA": "المدرسة الابتدائية ديار المنصور",
+    "AdresseL": "LOTISSEMENT DYAR EL MANSOUR",
+    "AdresseA": "تجزئة ديار المنصور",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL QUDS",
+    "NOM_ETABA": "المدرسة الا بتدائية القدس",
+    "AdresseL": "LOT DAKHAMA 3",
+    "AdresseA": "تجزئة الضخامة 3",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OULED HRIZ AL GHARBIA",
+    "NOM_ETABA": "الثانوية التأهيلية اولاد حريز الغربية",
+    "AdresseL": "lycee ouled hriz ouest bp 100 soualem",
+    "AdresseA": "ثانوية أولاد احريز الغربية ص ب 100 السوالم",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MAGHREB ARABE",
+    "NOM_ETABA": "الثانوية التأهيلية المغرب العربي",
+    "AdresseL": "zone industrielle had soualem ",
+    "AdresseA": "الحي الصناعي حد السوالم  ",
+    "COMMUNE": "Had Soualem",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE LA FRATERNITE",
+    "NOM_ETABA": "مؤسسة لفراترنتي الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "القطب الحضري والصناعي ازدهار ا",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE JOYAU ALIA 2",
+    "NOM_ETABA": "لوجوايو عالية 2",
+    "AdresseL": "LOTISSEMENT ALALIA 2",
+    "AdresseA": "تجزئة عاليا 2",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE JARDIN FLeURI",
+    "NOM_ETABA": "مؤسسة جاردان فلوري الخصوصية",
+    "AdresseL": "513 lotissement le cedre",
+    "AdresseA": "بقعة رقم 513",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIREE HARVARD ACADEMY",
+    "NOM_ETABA": "المجموعة المدرسية هارفارد أكاديمي الخصوصية",
+    "AdresseL": "103 LOTISSEMENT AL BARAKA",
+    "AdresseA": "103 تجزئة البركة",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JOHN NAPIER",
+    "NOM_ETABA": "مجموعة مدارس جون نابيي الخصوصية",
+    "AdresseL": "LOTISSEMENT RYAD SAHEL",
+    "AdresseA": "تجزئة رياض الساحل",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Wijdane",
+    "NOM_ETABA": "الوجدان الخصوصية",
+    "AdresseL": "123 Lot Alwahda",
+    "AdresseA": "123 تجزئة الوحدة",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM ELBANINE",
+    "NOM_ETABA": "أم البنين الخصوصية",
+    "AdresseL": "OUM ALBANINE",
+    "AdresseA": "MAJD 2 N  1 ",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Oussoul",
+    "NOM_ETABA": "الأصول الخصوصية",
+    "AdresseL": "N° 81, Lot. Zineb",
+    "AdresseA": "رقم 81، تجزئة زينب",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Rim",
+    "NOM_ETABA": "مجموعة مدارس ريم الخصوصية",
+    "AdresseL": " 37- Centre Essahal had souale",
+    "AdresseA": "تجزئة الساحل الرقم 37",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution al Manale",
+    "NOM_ETABA": "مؤسسة المنال  الخصوصية",
+    "AdresseL": "N15 & N16 lot soualem  - soual",
+    "AdresseA": "15.16  تجزئة السوالم - السوالم",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HAJ BEN ARABA",
+    "NOM_ETABA": "الحاج بن عربة الخصوصية",
+    "AdresseL": "lotissement azaraa ii",
+    "AdresseA": "تجزئة الزهراء 2",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANAHIJ AL IRFANE",
+    "NOM_ETABA": "مناهج العرفان الخصوصية",
+    "AdresseL": "LOT ALFADL",
+    "AdresseA": "تجزئة الفضل",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "THOMAS HOBbeS",
+    "NOM_ETABA": "طوماس هوبس الخصوصية",
+    "AdresseL": "hay rajaa II N°130",
+    "AdresseA": "حي الرجاء 2 رقم 130",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sahel",
+    "NOM_ETABA": "الساحل الخصوصية",
+    "AdresseL": "LOT POLE URBAIN INDUSTRIEL OMR",
+    "AdresseA": "تجزئة القطب الحضري الصناعي الع",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE PASCAL BLAISE SOUALEM",
+    "NOM_ETABA": "مؤسسة باسكال بليز السوالم الخصوصية",
+    "AdresseL": "LOT RIYAD SAHEL N 521",
+    "AdresseA": "تجزئة رياض الساحل رقم 521",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ICHBILIA",
+    "NOM_ETABA": "اشبيلية الخصوصية",
+    "AdresseL": "lotissement majd essahel lot E",
+    "AdresseA": " EE تجزئة مجد الساحل البقعة ",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MASSAR SAHEL ",
+    "NOM_ETABA": "مسار الساحل الخصوصية",
+    "AdresseL": "Lotissement ksikes",
+    "AdresseA": "تجزئة كسكس",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALBOROUJ LITYOR ALJANA DU PRESCOLAIRE",
+    "NOM_ETABA": "البروج لطيور الجنة للتعليم الأولي الخصوصية",
+    "AdresseL": "N 164 LOT SAHEL OULED HRIZ TF ",
+    "AdresseA": "رقم 164 تجزئة الساحل أولاد حري",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALIA POUR LE PRESCOLAIRE ",
+    "NOM_ETABA": "مدرسة العالية للتعليم الأولي ",
+    "AdresseL": "",
+    "AdresseA": " 2تجزئة العالية ",
+    "COMMUNE": "Had Soualem ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Ss SIDI KHIAR Centre",
+    "NOM_ETABA": "م/م سيدي خيار-المركز",
+    "AdresseL": "KANDAR SIDI KHIAR",
+    "AdresseA": "كندر سيدي خيار",
+    "COMMUNE": "Kandar Sidi Khiar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss SIDI ABDELMALEK RODA Centre",
+    "NOM_ETABA": "م/م سيدي عبدالمالك الروضة-المركز",
+    "AdresseL": "SIDI ABDELMALEK RODA",
+    "AdresseA": "سيدي عبد المالك الروضة",
+    "COMMUNE": "Kandar Sidi Khiar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIT LAHCEN Centre",
+    "NOM_ETABA": "م/م آيت لحسن-المركز",
+    "AdresseL": "DOUAR AIT LAHCEN    EL BOUKAIA",
+    "AdresseA": "دوار أيت لحسن البقعية",
+    "COMMUNE": "Kandar Sidi Khiar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

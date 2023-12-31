@@ -1,0 +1,242 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  KHADIJA OUM EL MOUMININE",
+    "NOM_ETABA": "الثانوية الإعدادية خديجة ام المؤمنين",
+    "AdresseL": "MUNICIPALITE BNI ANSAR",
+    "AdresseA": "بني آنصار المركز",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  BENI ANSAR",
+    "NOM_ETABA": "الثانوية الإعدادية بني انصار",
+    "AdresseL": "BENI ANSAR CENTRE  BENI ANSAR",
+    "AdresseA": "حي الثانوية الجديدة-بني انصار-إقليم الناظور",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED CHOUKRI",
+    "NOM_ETABA": "الثانوية الاعدادية محمد شكري",
+    "AdresseL": "FARKHANA",
+    "AdresseA": "فرخانة",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL KASBA",
+    "NOM_ETABA": "الثانوية الإعدادية القصبة",
+    "AdresseL": "farkhana centre",
+    "AdresseA": "فرخانة المركز",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY BAGHDAD",
+    "NOM_ETABA": "المدرسة الابتدائية مولاي بغداد",
+    "AdresseL": "avenue mohamed5 route nationale n19",
+    "AdresseA": "شارع محمد الخامس الطريق الوطنية رقم 19",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELMOUMENE",
+    "NOM_ETABA": "المدرسة الابتدائية عبد المؤمن",
+    "AdresseL": "HAY AL JADID MUNICIPALITE BENI ANSAR",
+    "AdresseA": "الحي الجديد        بني  انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL BIKRI",
+    "NOM_ETABA": "المدرسة الابتدائية البكري",
+    "AdresseL": "MUNICIPALITE BENI ANSAR CENTRE",
+    "AdresseA": "بني انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RESIDENCE MELILLA",
+    "NOM_ETABA": "مقر الطلبة المغاربة المسلمين",
+    "AdresseL": "4 JUAN DE LA NOZA   MELILLA",
+    "AdresseA": "4ةشارع  خوان دولا نوثا        مليلية",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI MHAMED",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي امحمد",
+    "AdresseL": "HAY hay zarouala ",
+    "AdresseA": "حي زروالة          بني انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI MOHAMED IBN ABDALLAH",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي محمد بن عبد الله",
+    "AdresseL": "COMMUNE FARKHANA CENTRE",
+    "AdresseA": "بني انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHARIF EL IDRISSI",
+    "NOM_ETABA": "المدرسة الابتدائية الشريف الادريسي",
+    "AdresseL": "RUE HASSAN 2 BENI ENSSAR",
+    "AdresseA": "شارع الحسن الثاني بني انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL ANDALOUSSE",
+    "NOM_ETABA": "المدرسة الابتدائية الاندلس",
+    "AdresseL": "hay almostawsaf",
+    "AdresseA": "حي المستوصف",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI MOUSSA",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي موسى",
+    "AdresseL": "DOUAR SIDI MOUSSA MUNICIPALITE BNI ANSAR",
+    "AdresseA": "دوار سيدي موسى           بني انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL IMAM ALGHAZALI",
+    "NOM_ETABA": "مجموعة مدارس الإمام الغزالي",
+    "AdresseL": "OULAD SALEM  COMMUNE FARKHANA",
+    "AdresseA": "اولاد سالم",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE JAMAL EDDINE ELAFGHANI",
+    "NOM_ETABA": "مجموعة مدارس جمال الدين الأفغاني",
+    "AdresseL": "DOUAR TISSAMGHINE  bni ansar",
+    "AdresseA": "دوار مولاي بوشتة ",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALMINAA",
+    "NOM_ETABA": "المدرسة الابتدائية الميناء",
+    "AdresseL": "ECOLE AL MINAA  hay mOULAY BAGHDAD BENI ANSAR",
+    "AdresseA": "مدرسة الميناء حي مولاي بغداد بني انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUHDANA",
+    "NOM_ETABA": "المدرسة الابتدائية وهدانة",
+    "AdresseL": "hay ouAhdana    beniansar",
+    "AdresseA": "حي وهدانة بني انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BOUKANA",
+    "NOM_ETABA": "المدرسة الابتدائية بو قانة",
+    "AdresseL": "quartier  boukana",
+    "AdresseA": "حي بوقانة",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OULED EL ARBI",
+    "NOM_ETABA": "المدرسة الابتدائية اولاد العربي",
+    "AdresseL": "hay ouled el arbi   beni ansar",
+    "AdresseA": "حي اولاد العربي        بني انصار",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  FARKHANA",
+    "NOM_ETABA": "الثانوية التأهيلية فرخانة ",
+    "AdresseL": "FARKHANA CENTRE",
+    "AdresseA": "فرخانة",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OTHMANE IBN AFFANE",
+    "NOM_ETABA": "الثانوية التأهيلية عثمان بن عفان",
+    "AdresseL": "HAY NOUVEAU LYCEE BNI ANSAR",
+    "AdresseA": "حي الثانوية الجديدة ",
+    "COMMUNE": "Bni Ansar",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "etablissement aladkiyae",
+    "NOM_ETABA": "مؤسسة الأذكياء",
+    "AdresseL": " hay oulad salem rue ayada BP ",
+    "AdresseA": "حي اولاد سالم طريق عيادة فرخان",
+    "COMMUNE": "Bni Ansar ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Afaq",
+    "NOM_ETABA": "آفاق",
+    "AdresseL": "Municipalité de Bni Ansar",
+    "AdresseA": "بلدية بني انصار",
+    "COMMUNE": "Bni Ansar ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Mantek",
+    "NOM_ETABA": "المنطق",
+    "AdresseL": "Hay El Jadid, Beni Ansar",
+    "AdresseA": "الحي الجديد، بني انصار",
+    "COMMUNE": "Bni Ansar ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

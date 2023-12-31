@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS TIDILI TIDILI",
+    "NOM_ETABA": "م.م تيـديلـي-تيديلي",
+    "AdresseL": "DOUAR  TIDILI            COMMUNE  IMOUZZER",
+    "AdresseA": "دوار تيديلــي  جماعـة ايموزار",
+    "COMMUNE": "Imouzzer",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAREK IBN ZIAD LODA",
+    "NOM_ETABA": "م.م طارق بن زياد-لــوضـا",
+    "AdresseL": "DOUAR  LODA          COMMUNE  IMOUZZER",
+    "AdresseA": "دوار امسكــر جماعـة ايموزار",
+    "COMMUNE": "Imouzzer",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASKENS ASKENS",
+    "NOM_ETABA": "م.م أسكنـس-أسكنس",
+    "AdresseL": "DOUAR  ASKENS            COMMUNE  IMOUZZER",
+    "AdresseA": "دوار أسكنس جماعة ايموزار",
+    "COMMUNE": "Imouzzer",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

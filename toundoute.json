@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL ACHAHID ELMADANI CHAFIK",
+    "NOM_ETABA": "ثإ الاعدادية الشهيد المدني شفيق",
+    "AdresseL": "TONDOUTE OUARZAZATE",
+    "AdresseA": "مركز توندوت ورزازات ",
+    "COMMUNE": "Toundoute",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TOUNDOUTE",
+    "NOM_ETABA": "م.م تندوت",
+    "AdresseL": "Toundoute",
+    "AdresseA": "توندوت",
+    "COMMUNE": "Toundoute",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIFLITE",
+    "NOM_ETABA": "م.م تفليت",
+    "AdresseL": "TOUNDOUTE",
+    "AdresseA": "توندوت",
+    "COMMUNE": "Toundoute",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMAKCHOUD",
+    "NOM_ETABA": "م.م امكشود",
+    "AdresseL": "TOUNDOUTE",
+    "AdresseA": "توندوت",
+    "COMMUNE": "Toundoute",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT ALI OUAISSA",
+    "NOM_ETABA": "م.م ايت علي او عيسى",
+    "AdresseL": "douar ait ali ouissa TOUNDOUTE",
+    "AdresseA": "دوار آيت علي وعيسى توندوت",
+    "COMMUNE": "Toundoute",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALIGH N TARGA",
+    "NOM_ETABA": "م.م أليغ نتركى",
+    "AdresseL": "douar aligh n targa commune tondoute",
+    "AdresseA": " دوار اليغ نتركى - جماعة تندوت",
+    "COMMUNE": "Toundoute",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  TOUNDOUTE",
+    "NOM_ETABA": "الثانوية التأهيلية تندوت ",
+    "AdresseL": "TOUNDOUTE",
+    "AdresseA": "تندوت",
+    "COMMUNE": "Toundoute",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

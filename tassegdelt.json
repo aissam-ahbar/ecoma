@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C TASSEGDELT",
+    "NOM_ETABA": "ثإ. تسكدلت",
+    "AdresseL": "Centre souk khmiss Lhalat TASSEGDELT",
+    "AdresseA": "مركز سوق خميس الحلات ",
+    "COMMUNE": "Tassegdelt",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TIFRITE",
+    "NOM_ETABA": "م.م تفريت",
+    "AdresseL": "DOUAR TIFRITE ",
+    "AdresseA": "دوار تفريت",
+    "COMMUNE": "Tassegdelt",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TASSEGDELT",
+    "NOM_ETABA": "م.م  تسكدلت",
+    "AdresseL": "DOUAR TAALAT ",
+    "AdresseA": "مركز تعلاط",
+    "COMMUNE": "Tassegdelt",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAOU",
+    "NOM_ETABA": "م.م  الزاو",
+    "AdresseL": "DOUAR ZAw commune tassegdelt  ait baha",
+    "AdresseA": "دوار الزاو جماعة تسكدلت   قيادة ايت باها  ",
+    "COMMUNE": "Tassegdelt",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS FIFRI",
+    "NOM_ETABA": "م.م  فيفري",
+    "AdresseL": "DOUAR FIFRI ",
+    "AdresseA": "دوار فيفري",
+    "COMMUNE": "Tassegdelt",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

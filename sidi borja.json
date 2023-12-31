@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS OUM ELKORA",
+    "NOM_ETABA": "م.م ام القرى",
+    "AdresseL": "DOUAR  OULAD TERNA C SIDI BOURJA",
+    "AdresseA": "دوار اولاد ترنة جماعة سيدي بورجة",
+    "COMMUNE": "Sidi Borja",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KHOUARIZMI",
+    "NOM_ETABA": "م.م الخوارزمي",
+    "AdresseL": "DOUAR AIT MOUSSA CSIDI BOURJA",
+    "AdresseA": "دوار ايت موسى جماعة سيدي بورجى",
+    "COMMUNE": "Sidi Borja",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ARRIDA",
+    "NOM_ETABA": "م.م الرضى",
+    "AdresseL": "COOPERATIVE ARRIDA CSIDI BOURJA",
+    "AdresseA": "تعاونية الرضى",
+    "COMMUNE": "Sidi Borja",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

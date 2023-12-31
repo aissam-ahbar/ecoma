@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL MOHAMED ZAFZAF",
+    "NOM_ETABA": "الثانوية الاعدادية محمد زفزاف",
+    "AdresseL": "commune targante cercle tamanar",
+    "AdresseA": "جماعة تركانت دائرة تمنار",
+    "COMMUNE": "Targante",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SIDI GHANEM",
+    "NOM_ETABA": "م.م. سيدي غانم",
+    "AdresseL": "DOUAR ID LHOCINE COMMUNE TARGANTE TAMANAR",
+    "AdresseA": "دوار اد الحسين جماعة تاركانت تمنار",
+    "COMMUNE": "Targante",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ELMOOUAHIDINE",
+    "NOM_ETABA": "م.م. الموحدين",
+    "AdresseL": "DOUAR ARBAA TARGANT TARGANTE",
+    "AdresseA": "مركز جماعة تركانت",
+    "COMMUNE": "Targante",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " S S TARGANT",
+    "NOM_ETABA": "     م.م.تركانت",
+    "AdresseL": "DOUAR ID ZAYOU TARGANTE",
+    "AdresseA": "دوار اد الزيو تركانت",
+    "COMMUNE": "Targante",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

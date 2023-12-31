@@ -1,0 +1,1752 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OUED EDDAHAB",
+    "NOM_ETABA": "اعدادية وادي الدهب",
+    "AdresseL": "QUARTIER MOULAY RACHID",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE HAY EL JADID",
+    "NOM_ETABA": "اعدادية الحي الجديد",
+    "AdresseL": "quartier errahma",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN II",
+    "NOM_ETABA": "ثانويةالحسن الثاني الإعدادية",
+    "AdresseL": "avenue bahia aini",
+    "AdresseA": "شارع باهيا عيني",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MY RACHID",
+    "NOM_ETABA": "ثانوية مولاي رشيد التأهيلية",
+    "AdresseL": "2 HAY EL AMAL",
+    "AdresseA": "حي الأمل 2",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ENNACER",
+    "NOM_ETABA": "ثانوية النصر الإعدادية",
+    "AdresseL": "quartier ESSALAM",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MANAR",
+    "NOM_ETABA": "ثانوية المنار الإعدادية ",
+    "AdresseL": "HAY ENNAHDA",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRAZI",
+    "NOM_ETABA": "ثانوية الرازي الاعدادية",
+    "AdresseL": "hay hassani ",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ALFARABI",
+    "NOM_ETABA": "ثانوية الفرابي الاعدادية",
+    "AdresseL": "hay ennahda   dakhla",
+    "AdresseA": "الداخلة  حي النهضة  ",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN TOFAIL",
+    "NOM_ETABA": "ابن طفيل",
+    "AdresseL": "HAY ALWAKALA",
+    "AdresseA": "حي الوكالة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Province: Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED V",
+    "NOM_ETABA": "مدرسة محمد الخامس",
+    "AdresseL": "HAY MOULAY RACHID",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH OULD BAHIA",
+    "NOM_ETABA": "مدرسة عبد الله ولد باهيا",
+    "AdresseL": "QUARTIER ELMASSIRA I",
+    "AdresseA": "حي المسيرة 1 زنقة جبل توبقال ",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE YOUSSEF IBN TACHEFFINE",
+    "NOM_ETABA": "مدرسة يوسف بن تاشفين",
+    "AdresseL": "avenue EL KANDIL QUARTIER EL MASJID",
+    "AdresseA": "شارع القنديل حي المسجد",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSALAM",
+    "NOM_ETABA": "مدرسة السلام",
+    "AdresseL": "QUARTIER EL MASJID",
+    "AdresseA": "حي المسجد",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LEGLATE",
+    "NOM_ETABA": "مدرسة لكلات",
+    "AdresseL": "QUARTIER Alkassam",
+    "AdresseA": "  حي القسم",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE DAKHLA",
+    "NOM_ETABA": "مدرسةالداخلة",
+    "AdresseL": "QUARTIER El Qods",
+    "AdresseA": "حي القدس الداخلة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL OUAHDA",
+    "NOM_ETABA": "مدرسةالوحدة",
+    "AdresseL": "quartier errahma",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ECHOUHADA",
+    "NOM_ETABA": "مدرسة الشهداء",
+    "AdresseL": "quartier hay elhassani",
+    "AdresseA": "حي الحسني",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MASSIRA EL KHADRA",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء",
+    "AdresseL": "quartier aLhay al HASSANI",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MEDERSAT.COM",
+    "NOM_ETABA": "مدرسة. كم",
+    "AdresseL": "quartier essalam",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUED CHIAF",
+    "NOM_ETABA": "مدرسة وادي الشياف",
+    "AdresseL": "QUARTIER OUED CHIAF",
+    "AdresseA": "حي وادي الشياف",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM TOUNSI",
+    "NOM_ETABA": "مدرسة أم التونسي",
+    "AdresseL": "HAY ELMASSIRA",
+    "AdresseA": "حي المسيرة 4",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FADILA",
+    "NOM_ETABA": "مدرسة الفضيلة",
+    "AdresseL": "hay alwahda",
+    "AdresseA": "حي الوحدة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ACHARIF ALIDRISSI",
+    "NOM_ETABA": "مدرسة الشريف الادريسي",
+    "AdresseL": "HAY EL WAHDA",
+    "AdresseA": "حي الوحدة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MY ELHASSANE",
+    "NOM_ETABA": "مدرسة مولاي الحسن",
+    "AdresseL": "hay elwakala",
+    "AdresseA": "حي الوكالة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOKHTAR SOUSSI",
+    "NOM_ETABA": " مدرسة المختار السوسي",
+    "AdresseL": "HAY KHALIJ EDDAHAB ",
+    "AdresseA": "حي خليج الذهب",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMAALI",
+    "NOM_ETABA": " مدرسة المعالي",
+    "AdresseL": "HAY ENNAHDA 1",
+    "AdresseA": "حي النهضة 1",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABD ELKARIM ELKHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "hay essalam",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN MANDOUR",
+    "NOM_ETABA": "مدرسة ابن منظور ",
+    "AdresseL": "hay elwakala ",
+    "AdresseA": "حي الوكالة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE IBN ZOHR",
+    "NOM_ETABA": "مدرسة ابن زهر",
+    "AdresseL": "HAY ENNAHDA",
+    "AdresseA": "حي النهظة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNAHDA",
+    "NOM_ETABA": "مدرسة النهضة",
+    "AdresseL": "HAY ANNAHDA",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL FATH",
+    "NOM_ETABA": "ثانوية الفتح التأهيلية",
+    "AdresseL": "avenue mohamed fadel essemlali quartier salam",
+    "AdresseA": "شارع محمد فاضل السملالي ، حي السلام.",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Okba Ibn Nafea",
+    "NOM_ETABA": "الثانوية التأهيلية عقبة بن نافع ",
+    "AdresseL": "HAY ENNAHDA",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OQBA BNOU NAFII",
+    "NOM_ETABA": "عقبة",
+    "AdresseL": "hay nahda",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALKHALIJ",
+    "NOM_ETABA": "ثانوية الخليج التأهيلية",
+    "AdresseL": "HAY ALAMAL",
+    "AdresseA": "حي الامل",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ROCHD",
+    "NOM_ETABA": "ثانوية ابن رشد التأهيلية",
+    "AdresseL": "HAY nahda",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED VI",
+    "NOM_ETABA": "ثانوية محمد السادس التأهيلية",
+    "AdresseL": "QUARTIER EL MASSIRA I",
+    "AdresseA": "حي المسيرة 1",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL IMAM MALEK",
+    "NOM_ETABA": "ثانوية الإمام مالك التأهيلية",
+    "AdresseL": "QUARTIER aL hassani",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Dakhla",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "oum ayoub",
+    "NOM_ETABA": "أم أيوب",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الأطلس وادي الشياف",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EZZAHRAA",
+    "NOM_ETABA": "الزهراء",
+    "AdresseL": "NULL",
+    "AdresseA": "الزنقة 14 رقم 12 القسم 2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALBALABIL ASSIGHAR",
+    "NOM_ETABA": "مؤسسة البلابل الصغار",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام رقم 1735",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NASSIME DE L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة نسيم للتربية و التعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني الرقم 102",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA LIGUE MAROCAINE PUOR LA PROTECTION DE L ENFANCE",
+    "NOM_ETABA": "جمعية العصبة المغربية لحماية الطفولة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الأمل 1 قرب مدرسة ناريمان ا",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JARDIN D OR",
+    "NOM_ETABA": "البستان الذهبي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسجد زنقة 3",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELMANZIL ESSAGHIR",
+    "NOM_ETABA": "المنزل الصغير",
+    "AdresseL": "siti nehda ",
+    "AdresseA": "حي النهضة بلوك 14 رقم 1022",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUN",
+    "NOM_ETABA": "نوون",
+    "AdresseL": "",
+    "AdresseA": "حي النهضة 1",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "attahadi",
+    "NOM_ETABA": "التحدي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الأمل 2 بلوك 24 رقم 8",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almarjiaya",
+    "NOM_ETABA": "المرجعية",
+    "AdresseL": "rue adaoura quartier almassira",
+    "AdresseA": "زنقة الدورة حي المسيرة 2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "toyour lfirdaws",
+    "NOM_ETABA": "طيور الفردوس",
+    "AdresseL": "hay almassira 1 a cote de l ar",
+    "AdresseA": "المسيرة 1 قرب المقاطعة الثالثة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alikhlass",
+    "NOM_ETABA": "الاخلاص",
+    "AdresseL": "AVENUE ELWALAE-VILLA SAAD BOUH",
+    "AdresseA": "شارع الولاء -فيلا سعد بوه",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alfath",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الأمل 02",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement apprenti-sage",
+    "NOM_ETABA": "لابرونتيساج",
+    "AdresseL": "hay salam-a-",
+    "AdresseA": "حي السلام أ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IRCHAD",
+    "NOM_ETABA": "الرشاد",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة 1",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL WIFAQ AL JADIDA",
+    "NOM_ETABA": "الوفاق الجديدة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INCHIRAH ",
+    "NOM_ETABA": "انشراح",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "janat assighar",
+    "NOM_ETABA": "جنات الصغار",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "farachat essalam",
+    "NOM_ETABA": "فراشة السلام",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baraim alimane",
+    "NOM_ETABA": "براعم الايمان",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les poussins",
+    "NOM_ETABA": "الكتاكيت",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hodne alhanae",
+    "NOM_ETABA": "حضن الهناء",
+    "AdresseL": "NULL",
+    "AdresseA": "حي افطيحات",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jannat alolome",
+    "NOM_ETABA": "جنات العلوم",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bodour elghad",
+    "NOM_ETABA": "بذور الغد",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسجد",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELMANAL",
+    "NOM_ETABA": "المنال الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAYAHINE ALJANNA",
+    "NOM_ETABA": "رياحين الجنة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALIKHLASS 2",
+    "NOM_ETABA": "مؤسسة الاخلاص 2",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الولاء",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALBARRAIME2",
+    "NOM_ETABA": "مؤسسة البراعم2",
+    "AdresseL": "",
+    "AdresseA": "حي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arroeaya ",
+    "NOM_ETABA": "الرؤية الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 24 واد الشياف",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IKRAE OUARTAKI ",
+    "NOM_ETABA": "إقرأ وارتق للتعليم الأولي",
+    "AdresseL": "LOT ALMONTAZAH N 2",
+    "AdresseA": "المنتزه 2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALKONOUZ ADDAHABIA",
+    "NOM_ETABA": "الكنوز الذهبية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المنتزه 2 رقم 85",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "wahba",
+    "NOM_ETABA": "وهبة الخصوصية",
+    "AdresseL": "ALAADARESSA Né 8 hay rahma ",
+    "AdresseA": " حي المسيرة، شارع ادريس الأول،",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "myara",
+    "NOM_ETABA": "ميارة الخاصة",
+    "AdresseL": "Hay elmasjid .Rue bahia  aini ",
+    "AdresseA": "حي المسجد،شارع باهيا عنيني رقم",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aljil addahabi préscolaire",
+    "NOM_ETABA": "الجيل الذهبي الخاصة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة، رقم3945 ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAMA NAJAT",
+    "NOM_ETABA": "ماما نجاة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة رقم 3960",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manarat ennahda",
+    "NOM_ETABA": "منارة النهضة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة 01 رقم 711",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JANAE",
+    "NOM_ETABA": "جنى الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام رقم1732",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR ESSALAM",
+    "NOM_ETABA": "نور السلام الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام رقم 1869",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YOUJIL",
+    "NOM_ETABA": "يوجيل الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة رقم 2794",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE ALMORABARA1",
+    "NOM_ETABA": "ملحقة المثابرة1 الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "مدينة الوحدة-حي الوكالة الداخل",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE AL ACHBAL",
+    "NOM_ETABA": "ملحقة الأشبال الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسجد زنقة الكلات رقم81 ال",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MIN AJL GHAD AFDAL",
+    "NOM_ETABA": "من أجل غذ أفضل",
+    "AdresseL": "NULL",
+    "AdresseA": "حي القسم 2 زنقة11 رقم ب10",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour almanara",
+    "NOM_ETABA": "نور المنارة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة رقم 2129",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "majda",
+    "NOM_ETABA": "ماجدة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة  01 رقم 1389",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE MIN AJL GHAD AFDAL",
+    "NOM_ETABA": "ملحقة من أجل غذ أفضل",
+    "AdresseL": "QUARTIER AL kassam-Rue11N°B10",
+    "AdresseA": "حي القسم 2 زنقة11 رقم ب10",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOTABARA EL WAHDAE",
+    "NOM_ETABA": "مؤسسة المثابرة الوحدة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "مدينة الوحدة- حي الوكالة الداخ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al mawahib dahabia",
+    "NOM_ETABA": "المواهب الذهبية",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMADRASSA ANNAMOUDAJYA",
+    "NOM_ETABA": "المدرسة النمودجية ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوكالة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tarouanakh",
+    "NOM_ETABA": "تاروانخ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة 1",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nabaalhorouf",
+    "NOM_ETABA": "نبع الحروف",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المنتزه",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aoualkhotoua",
+    "NOM_ETABA": "أول خطوة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة 3",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BISMI ALLAH",
+    "NOM_ETABA": "بسم الله",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALACHBAL",
+    "NOM_ETABA": "الأشبال الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسجد",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TOYOUR ALJANNA",
+    "NOM_ETABA": "طيور الجنة ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Kids d’excellence ",
+    "NOM_ETABA": "كيدس دكسيلونس",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT L’APPRENTISSAGE ALHASSANI",
+    "NOM_ETABA": "مؤسسة لابرونتيساج الحسني",
+    "AdresseL": "HAY EL HASSANI",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jean paul sarte ",
+    "NOM_ETABA": "جون بول سارتر",
+    "AdresseL": "Hay ennahda 1 ",
+    "AdresseA": "حي النهضة 1 ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EIEANOUR ROOSVELT",
+    "NOM_ETABA": "اليانور روزفلت",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسجد",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIM ANNAMOUDAJIA",
+    "NOM_ETABA": "ريم النموذجية",
+    "AdresseL": "",
+    "AdresseA": "شارع فاضل السملالي",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALBERT EINSTEIN",
+    "NOM_ETABA": " مؤسسة ألبرت اينشتاين الخاصة",
+    "AdresseL": "",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ibn khaldoun",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "dar al manar",
+    "NOM_ETABA": "دار المنار الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة 1",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al amane",
+    "NOM_ETABA": "الامان الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MADESS",
+    "NOM_ETABA": "مؤسسة مادس",
+    "AdresseL": "hey el massira 2",
+    "AdresseA": "حي المسيرة 2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL IKHLASS",
+    "NOM_ETABA": " مؤسسة الاخلاص للتربية والتعليم الاولي",
+    "AdresseL": "AVENUE TIRS, RUE CHEIKH AL WAL",
+    "AdresseA": "شارع التيرس، زنقة الشيخ الوالي",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALLAYMOUNE",
+    "NOM_ETABA": "مؤسسة الليمون",
+    "AdresseL": "Av. 3 Mars",
+    "AdresseA": "شارع 3 مارس",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ajial al khalij",
+    "NOM_ETABA": "أجيال الخليج ",
+    "AdresseL": "QUARTIER  EL MASJID, RUE 4, N°",
+    "AdresseA": "حي المسجد، زنقة 4، رقم 61",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAOUD AL AMAL",
+    "NOM_ETABA": "روض الأمل",
+    "AdresseL": "QUARTIER EL MASSIRA 1, N°33",
+    "AdresseA": "حي المسيرة 1، رقم33",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL FERDAOUS",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "QUARTIER AL MASSIRA 2, N°17",
+    "AdresseA": "حي المسيرة 2، رقم 17",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ESSAFAA",
+    "NOM_ETABA": "مؤسسةالصفاء",
+    "AdresseL": "QUARTIER ESSALAM",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ohoud",
+    "NOM_ETABA": "أحد",
+    "AdresseL": "Hay Moulay Rachid N° 288",
+    "AdresseA": "حي مولاي رشيد، رقم 288",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTAJHIZ",
+    "NOM_ETABA": "التجهيز",
+    "AdresseL": "QUARTIER MOULAY RACHID",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almanahil ",
+    "NOM_ETABA": "المناهل ",
+    "AdresseL": "hay errahma",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL MOUSTAKBAL",
+    "NOM_ETABA": "مؤسسةالمستقبل",
+    "AdresseL": "QUARTIER AL GHOFRANE",
+    "AdresseA": "حي الغفران",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ENNOUR",
+    "NOM_ETABA": "مؤسسةالنور",
+    "AdresseL": "QUARTIER ESSALAM",
+    "AdresseA": " حي السلام",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL BARAEM",
+    "NOM_ETABA": "مؤسسة البراعيم الخاصة ",
+    "AdresseL": "QUARTIER RAHMA 2",
+    "AdresseA": "حي الرحمة2 ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE ETABLISSEMENT AL ARQAM",
+    "NOM_ETABA": "ملحقة مؤسسة الأرقم",
+    "AdresseL": "QUARTIER EL MASSIRA 4",
+    "AdresseA": "حي المسيرة 4",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL AZHAR",
+    "NOM_ETABA": "مؤسسةالأزهر",
+    "AdresseL": "QUARTIER AL HASSANI, N°489",
+    "AdresseA": "الحي الحسني، رقم 489",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AOULADOUNA",
+    "NOM_ETABA": "أولادنا",
+    "AdresseL": "QUARTIER EL GHOFRANE, RUE 2, N",
+    "AdresseA": "حي الغفران، زنقة 2 ، رقم 79",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RAID AL MASSIRA ALKHADRA",
+    "NOM_ETABA": " مؤسسةرائد المسيرة الخضراء",
+    "AdresseL": "QUARTIER AL MASSIRA 2",
+    "AdresseA": " حي المسيرة 2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAOUD AL ASKARI BIR ANZARANE",
+    "NOM_ETABA": "الروض العسكري بئر انزران",
+    "AdresseL": "Rue Badr, Hay Askari",
+    "AdresseA": "زنقة بدر، الحي العسكري",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SIJILMASSA",
+    "NOM_ETABA": "مؤسسة سجلماسة",
+    "AdresseL": "QUARTIER MY RACHID N° 585",
+    "AdresseA": "حي مولاي رشيد، رقم 585",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JIL ALGHAD",
+    "NOM_ETABA": "مؤسسة جيل الغد",
+    "AdresseL": "QUARTIET ESSALAM, N°974",
+    "AdresseA": "حي السلام، رقم 974",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL AKHAWAYNE",
+    "NOM_ETABA": "مؤسسةالأخوين",
+    "AdresseL": "QUARTIER ASSALAM, N°376",
+    "AdresseA": "حي السلام، رقم 376",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT OUKHTLBANINE",
+    "NOM_ETABA": "مؤسسةأخت البنين",
+    "AdresseL": "QUARTIER EL MASSIRA 1",
+    "AdresseA": "حي المسيرة 1",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ABNAONA LA NOUVELLE",
+    "NOM_ETABA": "مؤسسةأبناؤنا الجديدة",
+    "AdresseL": " AVENUE ABDELKHALEK TORIS, N°1",
+    "AdresseA": "شارع عبد الخالق الطريس، رقم 1/",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ENNAKHIL",
+    "NOM_ETABA": "مؤسسةالنخيل",
+    "AdresseL": "AVENUE ABDELKHALEK TORIS, QUAR",
+    "AdresseA": "شارع عبد الخالق الطريس، حي الم",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION NARIMANE 1E",
+    "NOM_ETABA": "مؤسسة ناريمان 1 الخاصة",
+    "AdresseL": "Hay El Amal 1",
+    "AdresseA": "حي الأمل 1",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ELKARAM",
+    "NOM_ETABA": "مؤسسة الكرم",
+    "AdresseL": "QUARTIER ASSALAM, N° 1816",
+    "AdresseA": "حي السلام، رقم 1816",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT KHADIM ERAHHMANE",
+    "NOM_ETABA": "مؤسسةخادم الرحمان",
+    "AdresseL": "QUARTIER ESSALAM, N° 456",
+    "AdresseA": "حي السلام، رقم 456",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ESSAADA",
+    "NOM_ETABA": "مؤسسةالسعادة",
+    "AdresseL": "QUARTIER EL QODS, ALMASSIRA 2",
+    "AdresseA": "حي القدس، المسيرة 2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAOUD COMPLEXE EDUCATIF ET SOCIAL -MJS-",
+    "NOM_ETABA": "روض المركب التربوي الاجتماعي -و.ش.ر-",
+    "AdresseL": "QUARTIER AL MASJID",
+    "AdresseA": "حي المسجد",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSANABIL",
+    "NOM_ETABA": "السنابل",
+    "AdresseL": "QUARTIER  ERRAHMA",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHOUDA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "HAY ELHASSANI",
+    "AdresseA": "ححي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole almotabarae",
+    "NOM_ETABA": "مدرسة المثابرة الخاصة",
+    "AdresseL": "RUE OUED NAFIS,MASSIRA 2",
+    "AdresseA": "زنقة وادي النفيس,المسيرة 2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution el irfane ",
+    "NOM_ETABA": "مؤسسة العرفان الخاصة",
+    "AdresseL": "av , alwahda",
+    "AdresseA": "حي الوحدة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almanar",
+    "NOM_ETABA": "المنار",
+    "AdresseL": "hay el massira 3eme tranche n ",
+    "AdresseA": "حي المسيرة 3 رقم 76 شارع اطوال",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alghofrane",
+    "NOM_ETABA": "الغفران",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الغقران",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMAM MALIK",
+    "NOM_ETABA": "إمام مالك",
+    "AdresseL": "hay elqassam",
+    "AdresseA": "حي القسم",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ADDIA",
+    "NOM_ETABA": "الضياء",
+    "AdresseL": "HAY ESSALAM",
+    "AdresseA": " حي السلام",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AZOUHOR",
+    "NOM_ETABA": "الزهور",
+    "AdresseL": "hay essalam",
+    "AdresseA": "خي السلام",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bissmi lah",
+    "NOM_ETABA": "بسم الله",
+    "AdresseL": "al massira1n 8 dakhla",
+    "AdresseA": "الداخلة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "elhanane",
+    "NOM_ETABA": "الحنان",
+    "AdresseL": "",
+    "AdresseA": "حي كسيكسات",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almaarifa",
+    "NOM_ETABA": "المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة 3",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "errahma",
+    "NOM_ETABA": "الرحمة",
+    "AdresseL": "hay errahma",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "elminbar saghir",
+    "NOM_ETABA": "المنبر الصغير",
+    "AdresseL": "NULL",
+    "AdresseA": "المسيرة 2",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALWAFAE",
+    "NOM_ETABA": "الوفاء",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alisrae",
+    "NOM_ETABA": "آلإسراء",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "takadoum",
+    "NOM_ETABA": "التقدم",
+    "AdresseL": "NULL",
+    "AdresseA": "حي العودة الرقم 84",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMAM ALBOUHKARI",
+    "NOM_ETABA": "الإمام لبخاري ",
+    "AdresseL": "NULL",
+    "AdresseA": " حي    واد الشياف",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TARIK ANNAJAH",
+    "NOM_ETABA": "طريق النجاح",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الغفران",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMANAL",
+    "NOM_ETABA": "المنال",
+    "AdresseL": "NULL",
+    "AdresseA": "حي  العودة   ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSABILA",
+    "NOM_ETABA": "السبيلة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الحسني",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ADNANI'S SCHOOL",
+    "NOM_ETABA": "عدناني سكول للتعليم الأولي",
+    "AdresseL": "HAY ELGHOFRAN AVENUE IBRAHIM A",
+    "AdresseA": "حي الغفران شارع ابراهيم ابيه ب",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHATOUA AL OULA",
+    "NOM_ETABA": "الخطوة الاولى للتعليم الاولي",
+    "AdresseL": "LOTISSEMENT OUDE CHIEFE LOT N°",
+    "AdresseA": "رقم 80 زنقة 07 شارع غرناطة حي ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES PETITES GRENOUILLES",
+    "NOM_ETABA": "لي بتيت كغونوي للتعليم الاولي",
+    "AdresseL": "LOTISSEMENT ENNAHDA 73 N°4059",
+    "AdresseA": "حي الوحدة 03 رقم 4059 ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAPPY STEPS",
+    "NOM_ETABA": "هابي ستيبس للتعليم الأولي",
+    "AdresseL": "HAY EL QUASSAM 1 ",
+    "AdresseA": "حي القسم شارع عقبة بن نافع رقم",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ART & DECOUVERT",
+    "NOM_ETABA": "فن واكتشاف للتعليم الأولي",
+    "AdresseL": "HAY MOULAY ISMAIL",
+    "AdresseA": "حي مولاي رشيد زنقة اسماعيل محم",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PETIT COINE",
+    "NOM_ETABA": "لوبوتي كوان للتعليم الاولي",
+    "AdresseL": "HAY ENNAHDA 01 N°298",
+    "AdresseA": "حي النهضة 01 رقم 298",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE L'APPRENTI-SAGE AL JAZIRAE",
+    "NOM_ETABA": "لابرونتيساج الجزيرة الخاصة",
+    "AdresseL": "AL MANDAR AL JAMIL DAKHLA",
+    "AdresseA": "شارع المنظر الجميل الداخلة",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAJMA SUD",
+    "NOM_ETABA": "نجمة الجنوب للتعليم الأولي",
+    "AdresseL": "HAY EL WAHDA 3 N°4169",
+    "AdresseA": "حي الوحدة 3 رقم 4169",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MASTER MINDSE",
+    "NOM_ETABA": "ماستر مايندز للتعليم الأولي",
+    "AdresseL": "HAY ESSALAM N°1",
+    "AdresseA": "حي السلام رقم 1",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SIGMA DAKHLAE",
+    "NOM_ETABA": "سيكما الداخلة للتعليم الاولي",
+    "AdresseL": "OUED ECHCHEYAF N°208",
+    "AdresseA": "وادي الشياف رقم 208",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KALAMIE",
+    "NOM_ETABA": "قلمي للتعليم الأولي",
+    "AdresseL": "HAY ERRAHMA N°45",
+    "AdresseA": "  حي الرحمة رقم 45 الزنقة 5",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "wissam al-majde",
+    "NOM_ETABA": "وسام المجد الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني رقم 534",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manart alwaad",
+    "NOM_ETABA": "منارة الوعد للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": " حي الوحدة رقم 2600",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MARWADAK",
+    "NOM_ETABA": "مروى داك للتعليم الأولي",
+    "AdresseL": "HAY EL WAHDA  N 859",
+    "AdresseA": "حي الوحدة رقم 859",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "morouj-albahja",
+    "NOM_ETABA": "مروج البهجة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة رقم 714",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS IJOU",
+    "NOM_ETABA": "مؤسسة إجو الخاصة للتعليم الاولي",
+    "AdresseL": "HAY OUED CHYAF NR 47",
+    "AdresseA": " حي وادي الشياف رقم 47 ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement nainaoua",
+    "NOM_ETABA": "مؤسسة نينوى الخاصة للتعليم الاولي",
+    "AdresseL": "HAY EL WAHDA 03 NR 4339",
+    "AdresseA": "حي الوحدة 03 رقم 4339",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tanwir el jadida",
+    "NOM_ETABA": "مؤسسة التنوير الجديدة الخاصة للتعليم الأولي",
+    "AdresseL": "HAY EL WAHDA  NR 288",
+    "AdresseA": "حي الوحدة رقم 288",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS nour alhidaya",
+    "NOM_ETABA": "نور الهداية الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة 03 الرقم 3421 ",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "établissement  al maghreb al aqssa",
+    "NOM_ETABA": "المغرب الاقصى الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "الوحدة رقم 517",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole sijilmassa al jadidae",
+    "NOM_ETABA": "سجلماسة الجديدة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "الوحدة رقم 535",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSAF DAK PRESCOLAIRE",
+    "NOM_ETABA": "إنصاف داك",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النهضة 1 رقم 2547",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ets barae prescolaire",
+    "NOM_ETABA": "براءة للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني شارع الجامعة العرب",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "boustane albaraimee",
+    "NOM_ETABA": "بستان البراعم",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة 3 رقم 3522 شارع الطا",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "okyanos écolee",
+    "NOM_ETABA": "اوقيانوس الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام شارع ابن حنبل رقم 99",
+    "COMMUNE": "Dakhla ",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IBN BAJA",
+    "NOM_ETABA": "إعدادية ابن باجة",
+    "AdresseL": "COMMUNE ZIRARA",
+    "AdresseA": "زيرارة",
+    "COMMUNE": "Zirara",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OTHMANE BNOU AFFANE",
+    "NOM_ETABA": "عثمان ابن عفان",
+    "AdresseL": "DOUAR SLATNA EL OUED  COMMUNE ZIRARA",
+    "AdresseA": "دوار السلاطنة الواد",
+    "COMMUNE": "Zirara",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT YOUSSA",
+    "NOM_ETABA": "ايت يوسى",
+    "AdresseL": "DOUAR AIT YOUSSA COMMUNE ZIRARA",
+    "AdresseA": "دوار ايت يوسى",
+    "COMMUNE": "Zirara",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHALIL",
+    "NOM_ETABA": "الخليل",
+    "AdresseL": "COOPERATIVE AL FAOUZ COMMUNE ZIRARA",
+    "AdresseA": "تعاونية الفوز",
+    "COMMUNE": "Zirara",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY IDRISS 1",
+    "NOM_ETABA": "مولاي ادريس الاول",
+    "AdresseL": "DOUAR SALAH MACHREA SFA COMMUNE ZIRARA",
+    "AdresseA": "دوار صالح",
+    "COMMUNE": "Zirara",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABDELLAH IBRAHIM",
+    "NOM_ETABA": "ثانوية عبد الله إبراهيم",
+    "AdresseL": "ZIRARA",
+    "AdresseA": "زيرارة",
+    "COMMUNE": "Zirara",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

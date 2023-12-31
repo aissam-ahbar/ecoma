@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S LAHSINATE",
+    "NOM_ETABA": " م,م الحسينات",
+    "AdresseL": "DOUAR AIT BELKAYD LAHSINAT ",
+    "AdresseA": "دوار ايت بلقايد الحسينات",
+    "COMMUNE": "Lahsinate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT BOUSDOUK",
+    "NOM_ETABA": "م م أيت بوصدوك",
+    "AdresseL": "DOUAR AIT BOUSDOUK LAHSINAT",
+    "AdresseA": "دوار ايت بوصدوك لحسينات",
+    "COMMUNE": "Lahsinate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

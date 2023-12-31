@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY SMAIL",
+    "NOM_ETABA": "ثانوية مولاي إسماعيل الإعدادية",
+    "AdresseL": "DOUAR ELHAFEDANE ",
+    "AdresseA": "دوار الحفضان جماعة جابرية قيادة امطل اقليم سيدي بن",
+    "COMMUNE": "Jabria",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ESSOUANI",
+    "NOM_ETABA": "السواني",
+    "AdresseL": "DOUAR LAAOUAMIL COMMUNE JABRIA",
+    "AdresseA": "دوار العوامل جماعة الجابرية",
+    "COMMUNE": "Jabria",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SAID",
+    "NOM_ETABA": "اولاد سعيد",
+    "AdresseL": "DOUAR OULED SAID COMMUNE JABRIA",
+    "AdresseA": "دوار اولاد سعيد جماعة الجابرية",
+    "COMMUNE": "Jabria",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKNADRA",
+    "NOM_ETABA": "القنادرة",
+    "AdresseL": "DOUAR LAKNADRA COMMUNE JABRIA",
+    "AdresseA": "دوار القنادرة جماعة الجابرية",
+    "COMMUNE": "Jabria",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

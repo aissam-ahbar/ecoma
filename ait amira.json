@@ -1,0 +1,342 @@
+[
+  {
+    "NOM_ETABL": "C 11 JANVIER",
+    "NOM_ETABA": "ثإ. 11 يناير",
+    "AdresseL": "CENTRE KHMISS AIT AMIRA",
+    "AdresseA": "مركز خميس أيت عمبرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ALMOWAHIDIN",
+    "NOM_ETABA": "ثإ. الموحدين",
+    "AdresseL": "CENTRE AIT AAMIRA",
+    "AdresseA": "مركز ايت اعميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ABOU BAKR ER RAZI",
+    "NOM_ETABA": "ثإ. أبو بكر الرازي",
+    "AdresseL": "DOUAR ALLAL AIT AMIRA",
+    "AdresseA": "دوار علال ايت اعميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C AL ARGANE",
+    "NOM_ETABA": "ثإ. الأركان",
+    "AdresseL": "CENTRE AIT AMIRA",
+    "AdresseA": "مركز جماعةايت اعميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS IMAM MOSLIM",
+    "NOM_ETABA": "م.م الإمام مسلم",
+    "AdresseL": "DOUAR ANOU EL JADID",
+    "AdresseA": "دوار أنو الجديد",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HASSAN BEN IDDER",
+    "NOM_ETABA": "م.م  حسن بن إيدر",
+    "AdresseL": "DOUAR TADOUART IGOURRAMEN",
+    "AdresseA": "دوار تدوارت إكرامن",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ARRJILA",
+    "NOM_ETABA": "م.م  الرجيلة",
+    "AdresseL": "DOUAR ARRJILA",
+    "AdresseA": "دوار الرجيلة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL IZDIHAR",
+    "NOM_ETABA": " م. الازدهار",
+    "AdresseL": "KHMISS AIT AMIRA",
+    "AdresseA": "مركز خميس أيت عمبرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ESSOUALEM",
+    "NOM_ETABA": "م. السوالم",
+    "AdresseL": "DOUAR ESSOUALLEM",
+    "AdresseA": "دوار  السوالم",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GHAZALA",
+    "NOM_ETABA": "م.م غزالة",
+    "AdresseL": "DOUAR GHARALA TIN TAHER",
+    "AdresseA": "دوار  غزالة ",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AGHRAISS",
+    "NOM_ETABA": "م. أغرايس",
+    "AdresseL": "DOUAR AGHRAISS",
+    "AdresseA": "دوار أغرايس",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMAM BOKHARI",
+    "NOM_ETABA": "م.م الامام البخاري",
+    "AdresseL": "DOUAR BAKHIR",
+    "AdresseA": "دوار باخير",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ADOUAR AGOURAM",
+    "NOM_ETABA": "م. دوار أكرام",
+    "AdresseL": "DOUAR ADOUAR AGOURAM",
+    "AdresseA": "دوار أكرام أيت عميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. ALLAL TOUAAMAL",
+    "NOM_ETABA": "م. علال توعمال",
+    "AdresseL": "DOUAR ALLAL TOUAAMAL",
+    "AdresseA": "دوار علال  توعمال",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIN AADI",
+    "NOM_ETABA": "م.م تين عدي",
+    "AdresseL": "DOUAR TIN AADI",
+    "AdresseA": "دوار تين عدي",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL KHARBA SIDI TAYEB",
+    "NOM_ETABA": " م. خربة سيدي طيب",
+    "AdresseL": "DOUAR EL KAHARBA SIDI tayeb",
+    "AdresseA": "دوار الخربة سيدي طيب",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU AL HAYTAM",
+    "NOM_ETABA": "م. إبن الهيثم",
+    "AdresseL": "CENTRE KHMISS AIT AMIRA",
+    "AdresseA": "مركز خميس أيت عمبرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GHAZALA  S GHZALA 2",
+    "NOM_ETABA": "م.م غزالة  ف. غزالة 2  ",
+    "AdresseL": "DOUAR GHZALA AIT AMIRA",
+    "AdresseA": "دوار غزالة أيت عميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AICHA OM EL MOUMININ",
+    "NOM_ETABA": "م. عائشة أم المؤمنين",
+    "AdresseL": "DOUAR AGOURAM ",
+    "AdresseA": "دوار أكرام أيت عميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ENNAKHLA",
+    "NOM_ETABA": "م. النخلة",
+    "AdresseL": "DouAR alaarab  CENTRE KHMISS AIT AMIRA",
+    "AdresseA": "دوار العرب بمركز خميس أيت عميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ANOUAL",
+    "NOM_ETABA": "م. أنوال",
+    "AdresseL": "LOT ISKAN ",
+    "AdresseA": "تجزئة الاسكان",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE E EL KHERBA SIDI TAYEB",
+    "NOM_ETABA": "ملحقة م خربة سيدي الطيب",
+    "AdresseL": "DOUAR CHOUK",
+    "AdresseA": "دوار الشوك",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL OFOQ",
+    "NOM_ETABA": "م. الأفق",
+    "AdresseL": "LOTISSEMENT titrit AIT AMIRA",
+    "AdresseA": "تجزئة تتريت ايت اعميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L OKBA BNO NAFII",
+    "NOM_ETABA": "ثأ. عقبة بن نافع",
+    "AdresseL": "CENTRE AIT AMIRA",
+    "AdresseA": "مركز ايت اعميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L AL KHAWARIZMI",
+    "NOM_ETABA": "ثأ. الخوارزمي",
+    "AdresseL": "CENTRE KHMISS AIT AMIRA",
+    "AdresseA": "مركز خميس أيت عمبرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد الخاصة",
+    "AdresseL": "lot al amal n°73-74 ait amira",
+    "AdresseA": "تجزئة الأمل رقم 73-74 ايت اعمي",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KIBAE",
+    "NOM_ETABA": "كيبا الخاصة",
+    "AdresseL": "LOT.ASRIR N1 AIT AMIRA",
+    "AdresseA": "تجزئة اسرير خميس ايت عميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALMANSSOURI ",
+    "NOM_ETABA": "مؤسسة المنصوري الخاصة",
+    "AdresseL": "",
+    "AdresseA": "A38 مركز ايت اعميرة تجزئة الأم",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RISSALAT AR ROCHD PRESCOLAIRE",
+    "NOM_ETABA": "رسالة الرشد للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز ايت اعميرة قرب المركز الص",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAIMA PRESCOLAIRE",
+    "NOM_ETABA": "نعيمة للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار غزالة تين الطاهر ايت اعمي",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAROUAN",
+    "NOM_ETABA": "مروان للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار الطاوس ايت اعميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TOYOUR AL JANNAH",
+    "NOM_ETABA": "طيور الجنة للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة اسرير ايت اعميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAMA SAIDA",
+    "NOM_ETABA": "مؤسسة ماما سعيدة للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النية ايت اعميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIHANE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة جيهان للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "22 أسرير أيت عميرة",
+    "COMMUNE": "Ait Amira",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

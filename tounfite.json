@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL AHMED AL HANSSALI",
+    "NOM_ETABA": "  الثانوية الاعدادية احمد الحنصالي",
+    "AdresseL": "TOUNFITE CENTRE",
+    "AdresseA": "تونفيت المركز",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ARZ",
+    "NOM_ETABA": "الثانوية الإعدادية الأرز",
+    "AdresseL": "TAOUALTE TOUNFITE ",
+    "AdresseA": "توالت تونفيت ",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUGRIRANE BEN MOHAMED",
+    "NOM_ETABA": " مدرسة اوكريران بن محمد",
+    "AdresseL": "QUARTIER ADMINISTRATIF COMMUNE TOUNFITE",
+    "AdresseA": "الحي الاداري جماعة تونفيت",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHA OUASSOU ARFIK",
+    "NOM_ETABA": "مدرسة موحى وعسو ارفيق",
+    "AdresseL": " Douar Ichamhane  centre TOUNFITE",
+    "AdresseA": "دوار اشمحان مركز تونفيت ",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ISETGHARGHOUR",
+    "NOM_ETABA": "استغرغور",
+    "AdresseL": "DOUAR ISETGHARGHOUR COMMUNE TOUNFITE",
+    "AdresseA": "دوار استغرغور جماعة تونفيت",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BRAHIM",
+    "NOM_ETABA": "ايت ابراهيم",
+    "AdresseL": "DOUAR AIT BRAHIM COMMUNE TOUNFITE",
+    "AdresseA": "دوار ايت ابراهيم جماعة تونفيت",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT LEHRI",
+    "NOM_ETABA": "ايت لهري",
+    "AdresseL": "DOUAR AIT LEHRI COMMUNE TOUNFITE",
+    "AdresseA": "دوار ايت لهري جماعة تونفيت",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT LEHRI",
+    "NOM_ETABA": "ايت لهري",
+    "AdresseL": "Douar Ait Lehri Commune Tounfite",
+    "AdresseA": "دوار ايت لهري جماعة تونفيت",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELMOUMEN",
+    "NOM_ETABA": "الثانوية التأهيلية عبد المومن ",
+    "AdresseL": "TOUNFITE CENTRE COMMUNE TOUNFITE",
+    "AdresseA": "مركز جماعةتونفيت",
+    "COMMUNE": "Tounfite",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

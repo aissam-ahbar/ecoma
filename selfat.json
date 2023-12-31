@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED SABILA ",
+    "NOM_ETABA": "ثانوية محمد سبيلا الإعدادية",
+    "AdresseL": "commune selfat",
+    "AdresseA": "اعدادية سلفات",
+    "COMMUNE": "Selfat",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALMOUTANABI",
+    "NOM_ETABA": "المتنبي",
+    "AdresseL": "DOUAR OULAD FELLAH  COMMUNE SELFAT",
+    "AdresseA": "دوار اولاد فلاح",
+    "COMMUNE": "Selfat",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL GHAZALI ",
+    "NOM_ETABA": "الغزالي",
+    "AdresseL": "DOUAR OULAD HADDAD COMMUNE SELFAT",
+    "AdresseA": "دوار اولاد حداد",
+    "COMMUNE": "Selfat",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNO LKADI",
+    "NOM_ETABA": "ابن القاضي",
+    "AdresseL": "DOUAR KARIAT EL HAFED COMMUNE SELFAT",
+    "AdresseA": "دوار قرية الحافظ جماعة سلفات",
+    "COMMUNE": "Selfat",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

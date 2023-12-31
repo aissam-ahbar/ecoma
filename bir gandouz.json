@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELWAHDA",
+    "NOM_ETABA": "ثانوية الوحدة الإعدادية",
+    "AdresseL": "CENTRE BIR GUENDOUZ",
+    "AdresseA": "مركز بئر كندوز",
+    "COMMUNE": "Bir Gandouz",
+    "PROVINCE": "Province: Aousserd",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE BIR GUENDOUZ",
+    "NOM_ETABA": "مدرسة بئر كندوز",
+    "AdresseL": "CENTRE BIR GUENDOUZ",
+    "AdresseA": "مركز بئر كندوز",
+    "COMMUNE": "Bir Gandouz",
+    "PROVINCE": "Aousserd",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TYRS",
+    "NOM_ETABA": "ثانوية تيرس التأهيلية",
+    "AdresseL": "BIR GUENDOUZ",
+    "AdresseA": "بئر كندوز",
+    "COMMUNE": "Bir Gandouz",
+    "PROVINCE": "Aousserd",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "LYCEE"
+  }
+]

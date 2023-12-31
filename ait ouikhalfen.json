@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "AIT OUKHALFEN",
+    "NOM_ETABA": "ايت وخلفن",
+    "AdresseL": "OUACHKET AIT OUKHALFEN",
+    "AdresseA": "اوشكط ايت وخلفن",
+    "COMMUNE": "Ait Ouikhalfen",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULILI",
+    "NOM_ETABA": "موليلي",
+    "AdresseL": "MOULILI AIT OUIKHALFEN",
+    "AdresseA": "موليلي ايت وخلفن",
+    "COMMUNE": "Ait Ouikhalfen",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

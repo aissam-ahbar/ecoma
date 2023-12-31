@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLEGIAL MOHAMED BEN ABDELKRIM EL KHATTABI",
+    "NOM_ETABA": " الثانوية الإعدادية محمد بن عبد الكريم الخطابي ",
+    "AdresseL": "boulvard mohamed six COMMUNAUTE URBAINE EL OUATIA ",
+    "AdresseA": "شارع محمد السادس الجماعة الحضرية الوطية  ",
+    "COMMUNE": "El Ouatia",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIALE OTHMAN IBN AFFAN",
+    "NOM_ETABA": "الثانوية الإعدادية عثمان بن عفان ",
+    "AdresseL": "EL OUATIA",
+    "AdresseA": "الوطية",
+    "COMMUNE": "El Ouatia",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT EDCHIRA",
+    "NOM_ETABA": "المدرسة الإبتدائية معركة الدشيرة",
+    "AdresseL": "EL OUATIA",
+    "AdresseA": "الوطية",
+    "COMMUNE": "El Ouatia",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HALIMA ESSAADIA",
+    "NOM_ETABA": "المدرسة الإبتدائية حليمة السعدية",
+    "AdresseL": "COMMUNAUTE URBAINE EL OUATIA",
+    "AdresseA": "الجماعة الحضرية الوطية",
+    "COMMUNE": "El Ouatia",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHEIKH MA ELAININ",
+    "NOM_ETABA": "المدرسة الإبتدائية الشيخ ماء العينين",
+    "AdresseL": "LOTISSEMENT ALAMAL",
+    "AdresseA": "تجزئة الأمل ",
+    "COMMUNE": "El Ouatia",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT  MOHAMED VI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس",
+    "AdresseL": " bp 254 TANTAN PLAGE",
+    "AdresseA": " ص .ب  : 254  طانطان الوطية",
+    "COMMUNE": "El Ouatia",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE LALLA KHADIJA",
+    "NOM_ETABA": "الثانوية التقنية للا خديجة",
+    "AdresseL": "EL OUATIA",
+    "AdresseA": "الوطية",
+    "COMMUNE": "El Ouatia",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  IBN KHALDONE DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة ابن خلدون للتعليم المدرسي الخصوصي",
+    "AdresseL": "Tan Tan Plage - C. El Ouatia",
+    "AdresseA": "طانطان الشاطئ - ج. الوطية",
+    "COMMUNE": "El Ouatia ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  AL MISBAH DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة المصباح للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay alamal 1 elouatia",
+    "AdresseA": "حي الأمل 1 الوطية",
+    "COMMUNE": "El Ouatia ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  GROUPE DERB SULTAN DE L ENS SCOLAIRE AN",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس درب السلطان للتعليم المدرسي الخصوصي ملحقة",
+    "AdresseL": "communE EL ouatia",
+    "AdresseA": "حي الأمل 02  الوطية",
+    "COMMUNE": "El Ouatia ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  AL MISBAH DE L ENS PRESCOLAIRE ANNEXE 1",
+    "NOM_ETABA": "مؤسسة المصباح للتعليم الأولي الخصوصي ملحقة 1",
+    "AdresseL": "AVENUE SIDI LGARN HAY ALMOUHIT",
+    "AdresseA": "شارع سيدي الكرن حي المحيط",
+    "COMMUNE": "El Ouatia ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  }
+]

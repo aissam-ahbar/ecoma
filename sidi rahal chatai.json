@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHATII",
+    "NOM_ETABA": "الثانوية الإعدادية الشاطئ",
+    "AdresseL": "LYCEE COLLEGIAL CHATII bp303",
+    "AdresseA": "مركز سيدي رحال الشاطئ صندوق البريد 303",
+    "COMMUNE": "Sidi Rahal Chatai",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " SOUALEM CENTRE",
+    "NOM_ETABA": "مركزية السوالم",
+    "AdresseL": "DOUAR LEHOUAOURA COMMUNE SIDI REHAL CHATII",
+    "AdresseA": "دوار الهواورة جماعة سيدي رحال الشاطئ",
+    "COMMUNE": "Sidi Rahal Chatai",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHORFA CENTRE",
+    "NOM_ETABA": " مركزية الشرفاء",
+    "AdresseL": "hay ECHARAF COMMUNE SIDI RAHAL CHATIE",
+    "AdresseA": "حي الشرف جماعة سيدي رحال الشاطئ",
+    "COMMUNE": "Sidi Rahal Chatai",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "sidi rahal chatii",
+    "AdresseA": "سيدي رحال الشاطئ",
+    "COMMUNE": "Sidi Rahal Chatai",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BAB AL HIKMAE",
+    "NOM_ETABA": "مدرسة باب الحكمة الخصوصية",
+    "AdresseL": "Douar lahouawra 2 Sidi rahal c",
+    "AdresseA": "دوار الهواورة2 سيدي رحال الشاط",
+    "COMMUNE": "Sidi Rahal Chatai ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire AL Michkat",
+    "NOM_ETABA": "مجموعة مدارس المشكاة الخصوصية",
+    "AdresseL": "N° 18, Lotissement Horison",
+    "AdresseA": " تجزئة الأفق، رقم البقعة 18",
+    "COMMUNE": "Sidi Rahal Chatai ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manahij al irfane2",
+    "NOM_ETABA": "مناهج العرفان2 الخصوصية",
+    "AdresseL": "ROUTE REGIONALE LAHOUAWRA2",
+    "AdresseA": "الطريق الجهوية الهواورة2",
+    "COMMUNE": "Sidi Rahal Chatai ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE  LOUJAYN",
+    "NOM_ETABA": "مجموعة مدارس لجين   الخصوصية",
+    "AdresseL": "KM 9 LOT SIDI RAHAL 3EME TRANC",
+    "AdresseA": "تجزئة سيدي رحال الشطر 3 رقم K9",
+    "COMMUNE": "Sidi Rahal Chatai ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RYAD AL FAraH",
+    "NOM_ETABA": "رياض الفرح الخصوصية",
+    "AdresseL": "Lotissement AL FARAH",
+    "AdresseA": "تجزئة الفرح ،سيدي رحال الشاطئ",
+    "COMMUNE": "Sidi Rahal Chatai ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MICHKAT 1E POUR LE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة المشكاة 1 الخصوصية للتعليم الأولي",
+    "AdresseL": "lotissement al oufok 75",
+    "AdresseA": "تجزئة الأفق بقعة 75",
+    "COMMUNE": "Sidi Rahal Chatai ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

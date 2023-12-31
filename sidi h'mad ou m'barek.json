@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SIDI SAID BEN ABDENAIM",
+    "NOM_ETABA": " اعدادية سيدي سعيد بن عبدالنعيم",
+    "AdresseL": "IDA OUTGHOUMA",
+    "AdresseA": "إداوتغما",
+    "COMMUNE": "Sidi H'Mad Ou M'Barek",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S OQUEBA BNO NAFIAA",
+    "NOM_ETABA": "م.م.عقبة بن نافع",
+    "AdresseL": "SOUK ARBIA IDA OUTGHOUMMA SIDI HMAD OU MBAREK",
+    "AdresseA": "سوق اربعاء اداوتغومة سيدي احمد ومبارك ",
+    "COMMUNE": "Sidi H'Mad Ou M'Barek",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OURTOUFELLAH",
+    "NOM_ETABA": "م.م ارتوفلاح",
+    "AdresseL": "DOUAR OURTOUFELLAH SIDI HMAD OU MBAREK",
+    "AdresseA": "دوار اورتوفلاح",
+    "COMMUNE": "Sidi H'Mad Ou M'Barek",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

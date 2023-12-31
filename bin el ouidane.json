@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL BOUHAIRA",
+    "NOM_ETABA": "ثانوية البحيرة الإعدادية",
+    "AdresseL": "COMMUNE BIN ELOUIDANE CENTRE",
+    "AdresseA": "مركز جماعة بين الويدان ",
+    "COMMUNE": "Bin El Ouidane",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE BIN ELOUIDANE",
+    "NOM_ETABA": "مركزية بين الويدان",
+    "AdresseL": "COMMUNE DE BIN ELOUIDANE AZILAL",
+    "AdresseA": " جماعة بين الويدان أزيلال",
+    "COMMUNE": "Bin El Ouidane",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT HELOUANE",
+    "NOM_ETABA": "مركزية آيت حلوان",
+    "AdresseL": "DOUAR AIT HELWANE",
+    "AdresseA": "دوار ايت حلوان  ",
+    "COMMUNE": "Bin El Ouidane",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AGHBALOU NBOUALI",
+    "NOM_ETABA": "مركزية أغبالو نبوعلي ",
+    "AdresseL": "DOUAR INGUERT ",
+    "AdresseA": "دوار انكرت",
+    "COMMUNE": "Bin El Ouidane",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

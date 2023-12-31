@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE IDRISS 2",
+    "NOM_ETABA": "مجموعة مدارس إدريس الثاني",
+    "AdresseL": "DOUAR SABRA COMMUNE OULAD SETTOUT",
+    "AdresseA": " سهل صبرة جماعة أولاد ستوت",
+    "COMMUNE": "Oulad Settout",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULAD MANSOUR",
+    "NOM_ETABA": "مجموعة مدارس أولاد منصور",
+    "AdresseL": "DOUAR OULAD MANSOUR",
+    "AdresseA": "دوار أولاد منصور",
+    "COMMUNE": "Oulad Settout",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE KASSEM AZOHAIR",
+    "NOM_ETABA": "مجموعة مدارس قاسم الزهير",
+    "AdresseL": "DOUAR MASSOUSSAT COMMUNE OULAD SETTOUT",
+    "AdresseA": "دوار مسوسات جماعة أولاد ستوت",
+    "COMMUNE": "Oulad Settout",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ADDAR AL BAYDA",
+    "NOM_ETABA": "مجموعة مدارس الدار البيضاء",
+    "AdresseL": "COMMUNE OULAD SETTOUT CENTRE",
+    "AdresseA": "جماعة أولاد ستوت المركز",
+    "COMMUNE": "Oulad Settout",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ASSAFSSAF",
+    "NOM_ETABA": "مجموعة مدارس الصفصاف",
+    "AdresseL": "DOUAR FARHIA COMMUNE OULAD SETTOUT",
+    "AdresseA": "دوار فرحية جماعة أولاد ستوت",
+    "COMMUNE": "Oulad Settout",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE LEFOUARS",
+    "NOM_ETABA": "مجموعة مدارس الفوارس",
+    "AdresseL": "DOUAR LEFOUARS COMMUNE OULAD SETTOUT",
+    "AdresseA": "دوار الفوارس جماعة أولاد ستوت",
+    "COMMUNE": "Oulad Settout",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OULED SETTOUT ",
+    "NOM_ETABA": "الثانوية التأهيلية اولاد ستوت",
+    "AdresseL": "OULED SETTOUT CENTRE",
+    "AdresseA": "اولاد ستوت المركز",
+    "COMMUNE": "Oulad Settout",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

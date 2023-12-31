@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABOU AL ALAE AL MAARRI",
+    "NOM_ETABA": "الثانوية الإعدادية أبو العلاء المعري",
+    "AdresseL": "RENFE C AL HAMRA",
+    "AdresseA": "جماعة الحمراء . قيادة بني حسان",
+    "COMMUNE": "Al Hamra",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE HAMRA RENFI",
+    "NOM_ETABA": "مدرسة الحمراء - الرينفي",
+    "AdresseL": "CENTRE  ALHAMERA- bni hassan ",
+    "AdresseA": "Err :509",
+    "COMMUNE": "Al Hamra",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BETARA",
+    "NOM_ETABA": "م.م بطارة",
+    "AdresseL": "DOUAR BETARA CR. HAMRA  TETOUAN",
+    "AdresseA": "بطارة جماعة الحمراء قيادة بني حسان",
+    "COMMUNE": "Al Hamra",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI MOUSSA",
+    "NOM_ETABA": "م.م بني موسى",
+    "AdresseL": "DOUAR bni MOUSSA HAMRA  TETOUAN",
+    "AdresseA": "دوار بني موسى الحمراء",
+    "COMMUNE": "Al Hamra",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TARIK BNOU ZIAD",
+    "NOM_ETABA": "الثانوية التأهيلية طارق بن زياد",
+    "AdresseL": "COMMUNE AL HAMRA",
+    "AdresseA": "جماعة الحمراء",
+    "COMMUNE": "Al Hamra",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

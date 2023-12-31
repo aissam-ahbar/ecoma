@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "EL GOUZATE CENTRE",
+    "NOM_ETABA": "الجوزات المركز",
+    "AdresseL": "COMMUNE EL GOUZATE",
+    "AdresseA": "  الجوزات المركز",
+    "COMMUNE": "El Gouzate",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "M ZAOUROU CENTRE",
+    "NOM_ETABA": "امزاورو المركز",
+    "AdresseL": "COMMUNE EL GOUZATE",
+    "AdresseA": "دوار  امزاورو المركز جماعة الجوزات",
+    "COMMUNE": "El Gouzate",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE DAR GUEDDARI",
+    "NOM_ETABA": "إعدادية دار الكداري",
+    "AdresseL": "MUNICIPALITE DAR GUEDDARI",
+    "AdresseA": "دا رالكداري",
+    "COMMUNE": "Dar Gueddari",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HASSAN BNOU THABIT",
+    "NOM_ETABA": "حسان بن ثابت",
+    "AdresseL": "COMMUNE DAR EL GUEDDARI  BP 6",
+    "AdresseA": "بلدية دار الكداري  ص.ب:6",
+    "COMMUNE": "Dar Gueddari",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JABAL CHEIKH",
+    "NOM_ETABA": "جبل الشيخ",
+    "AdresseL": "DAR GUEDDARI CENTRE",
+    "AdresseA": "دار الكداري",
+    "COMMUNE": "Dar Gueddari",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée 20 aout qualifiant",
+    "NOM_ETABA": "ثانوية 20 غشت ",
+    "AdresseL": "MUNICIPALITE DAR GUEDDARI",
+    "AdresseA": "جماعة دار الكداري المركز",
+    "COMMUNE": "Dar Gueddari",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

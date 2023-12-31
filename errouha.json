@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS BOUKHLAL",
+    "NOM_ETABA": "م.م بوخلال",
+    "AdresseL": "DOUAR BOUKHLAL ERROUHA",
+    "AdresseA": "بوخلال",
+    "COMMUNE": "Errouha",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SS OULED EL HADJ",
+    "NOM_ETABA": "م.م اولاد الحاج",
+    "AdresseL": "OULED ELHAJ",
+    "AdresseA": "اولاد الحاج",
+    "COMMUNE": "Errouha",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI KHLIL",
+    "NOM_ETABA": "م.م بني خليل",
+    "AdresseL": "DOUAR BEN KHLIL CERROUHA",
+    "AdresseA": "دوار ابن خليل جماعة الروحا",
+    "COMMUNE": "Errouha",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ERROUHA",
+    "NOM_ETABA": "الثانوية الثأهيلية الروحى ",
+    "AdresseL": "douar boukhlal",
+    "AdresseA": "دوار بوخلال",
+    "COMMUNE": "Errouha",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

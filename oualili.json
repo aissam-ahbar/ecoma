@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "FERTASSA CENTRE",
+    "NOM_ETABA": "فرطاسة المركز",
+    "AdresseL": "DOUAR FERTASSA COMMUNE OUALILI",
+    "AdresseA": "دوار فرطاسة جماعة وليلي مولاي ادريس زرهون",
+    "COMMUNE": "Oualili",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN BZIZ CENTRE",
+    "NOM_ETABA": "عين بزيز المركز",
+    "AdresseL": "DOUAR AIN BZIZ COMMUNE OUALILI",
+    "AdresseA": "دوار عين بزيز جماعة وليلي",
+    "COMMUNE": "Oualili",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUASSEL",
+    "NOM_ETABA": "بوعسل المركز",
+    "AdresseL": "DOUAR BOUASSEL COMMUNE OUALILI",
+    "AdresseA": "دوار بوعسل ج-وليلي",
+    "COMMUNE": "Oualili",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI MARAAZ",
+    "NOM_ETABA": " بني مرعاز",
+    "AdresseL": "DOUAR BNI MARAAZ COMMUNE OUALILI",
+    "AdresseA": "بني مرعاز جماعة وليلي دائرة زرهون",
+    "COMMUNE": "Oualili",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KARMAT",
+    "NOM_ETABA": "كرمت",
+    "AdresseL": "douar karmet ben salem",
+    "AdresseA": "دوار كرمة بن سالم",
+    "COMMUNE": "Oualili",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MADRASSATCOM",
+    "NOM_ETABA": "مدرسة كم",
+    "AdresseL": "COOPERATIVE SIDI AIAD CR OUALILI",
+    "AdresseA": "تعاونية سيدي عياد جماعة وليلي",
+    "COMMUNE": "Oualili",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

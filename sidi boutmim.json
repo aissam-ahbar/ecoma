@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "AIN BENAABOU",
+    "NOM_ETABA": "عين بنعبو",
+    "AdresseL": "DOUAR AIN BENABOU COMMUNE SIDI BOUTMIM",
+    "AdresseA": "دوار  توزلت  جماعة سيدي بوتميم",
+    "COMMUNE": "Sidi Boutmim",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LHAJ ALI",
+    "NOM_ETABA": "الحاج علي",
+    "AdresseL": "DOUAR TAOURIRTCOMMUNE SIDI BOUTMIM",
+    "AdresseA": "دوارتوريرت جماعة سيدي بوتميم",
+    "COMMUNE": "Sidi Boutmim",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TCHAYEF",
+    "NOM_ETABA": "اتشايف",
+    "AdresseL": "DOUAR TCHAYF COMMUNE SIDI BOUTMIM",
+    "AdresseA": "دوار اتشايف جماعة سيدي بوتميم",
+    "COMMUNE": "Sidi Boutmim",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHSAN",
+    "NOM_ETABA": "لحصن",
+    "AdresseL": "DOUAR LAHSAN COMMUNE SIDI BOUTMIM",
+    "AdresseA": "دوار لحصن جماعة سيدي بوتميم",
+    "COMMUNE": "Sidi Boutmim",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 16 NOVEMBRE",
+    "NOM_ETABA": "ثانوية 16 نونبر التأهيلية",
+    "AdresseL": "commune sidi boutmim",
+    "AdresseA": "جماعة سيدي بوتميم",
+    "COMMUNE": "Sidi Boutmim",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

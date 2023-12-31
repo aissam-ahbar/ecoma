@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLEGIALE 16 NOVEMBRE",
+    "NOM_ETABA": "ثانوية 16 نونبر الإعدادية",
+    "AdresseL": "COMMUNE TAFRANT MUNICIPALITE GHAFSSAI  TAOUNATE",
+    "AdresseA": "  جماعة تفرانت -غفساي",
+    "COMMUNE": "Tafrant",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAFRANT ENNASSR",
+    "NOM_ETABA": "م/م  النصر  تفرانت",
+    "AdresseL": "COMMUNE TAFRANT CENTRE GHAFSSAI",
+    "AdresseA": "جماعة تفرانت- غفساي",
+    "COMMUNE": "Tafrant",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDELWARETH OTMANI",
+    "NOM_ETABA": "م/م عبد الوارث العثماني  ",
+    "AdresseL": "DOUAR ZAOUIAT COMMUNE TAFRANTE GHAFSSAI",
+    "AdresseA": "دوار الزاوية  -جماعة تفرانت- غفساي",
+    "COMMUNE": "Tafrant",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAGOURA",
+    "NOM_ETABA": "م/م  زكٌورة",
+    "AdresseL": "zgoura COMMUNE TAFRANTE GHAFSSAI",
+    "AdresseA": "زكورة المركز جماعة تفرانت",
+    "COMMUNE": "Tafrant",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL WAHDA",
+    "NOM_ETABA": "م/م الوحدة ",
+    "AdresseL": "DOUAR RMAL COMMUNE TAFRANTE GHAFSSAI",
+    "AdresseA": "دوار الرمل -جماعة تفرانت- غفساي",
+    "COMMUNE": "Tafrant",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IMAM GHAZALI",
+    "NOM_ETABA": "ثانوية الإمام الغزالي التأهيلية",
+    "AdresseL": "Tafrant centre",
+    "AdresseA": "تافرانت المركز",
+    "COMMUNE": "Tafrant",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

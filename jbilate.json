@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "OULAD MAHMOUD CENTRE",
+    "NOM_ETABA": "اولاد محمود المركزية",
+    "AdresseL": "DOUAR OULED MAHMOUD COMMUNE jbilate",
+    "AdresseA": "جماعة الجبيلات دوار اولاد محمود",
+    "COMMUNE": "Jbilate",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZIOUD CENTRE",
+    "NOM_ETABA": "الزيود المركزية",
+    "AdresseL": "DOUAR ZIOUD COMMUNE jbilate",
+    "AdresseA": "دوار الزيود",
+    "COMMUNE": "Jbilate",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SALEH CENTRE",
+    "NOM_ETABA": "اولاد صالح  المركزية",
+    "AdresseL": "DOUAR OULED SALEH COMMUNE jbilate",
+    "AdresseA": "دوار اولاد صالح",
+    "COMMUNE": "Jbilate",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMHAZIL CENTRE",
+    "NOM_ETABA": "لمهازيل المركزية",
+    "AdresseL": "DOUAR LAMHAZIL ait daoud COMMUNE RURALE jbilate",
+    "AdresseA": "دوار لمهازيل  ايت داود الجماعة القروية الجبيلات",
+    "COMMUNE": "Jbilate",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOUAJI CENTRE",
+    "NOM_ETABA": "النواجي المركزية",
+    "AdresseL": "DOUAR NOUAJI jbilate",
+    "AdresseA": "دوار النواجي سيدي بوعثمان",
+    "COMMUNE": "Jbilate",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

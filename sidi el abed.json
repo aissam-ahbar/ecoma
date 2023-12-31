@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS EL KORAICHINE",
+    "NOM_ETABA": "م/م  القريشيين",
+    "AdresseL": "DOUAR EL KORAICHINE SIDI EL ABED KARIA",
+    "AdresseA": "ددوار الكرياشين سيدي العبد القرية",
+    "COMMUNE": "Sidi El Abed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI OTMANE",
+    "NOM_ETABA": "م/م  سيدي عثمان",
+    "AdresseL": "DOUAR SIDI OUTMAN COMMUNE SIDI ABED MUNICI KARIA",
+    "AdresseA": "دوار سيدي عثمان  جماعة سيدي العابد - القرية",
+    "COMMUNE": "Sidi El Abed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI MTARREF",
+    "NOM_ETABA": "م/م بني مطرف",
+    "AdresseL": "DOUAR BNI MTeREF COMMUNE SIDI EL ABED KARIA",
+    "AdresseA": "دوار بني مطرف  جماعة سيدي العابد القرية",
+    "COMMUNE": "Sidi El Abed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HOUARA",
+    "NOM_ETABA": "م/م  هوارة",
+    "AdresseL": "DOUAR HOUARA COMMUNE SIDI EL ABED KARIA BA MOHAME",
+    "AdresseA": "دوار هوارة - جماعة سيدي العابد-قرية با محمد",
+    "COMMUNE": "Sidi El Abed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

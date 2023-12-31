@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AL IMAM AL BOUKHARI",
+    "NOM_ETABA": "إعدادية الإمام البخاري",
+    "AdresseL": "AIN DFALI CENTRE COMMUNE AIN DFALI",
+    "AdresseA": "عين الدفالي",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LALLA MERIYEME",
+    "NOM_ETABA": "للا مريم",
+    "AdresseL": "AIN DFALI CENTRE COMMUNE AIN DFALI",
+    "AdresseA": "عين الدفالي",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "عبد الله الشفشاوني",
+    "AdresseL": " cr ain dfali centre",
+    "AdresseA": "الجماعة القروية لعين الدفالي المركز",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KACEM AMINE",
+    "NOM_ETABA": "قاسم أمين",
+    "AdresseL": "DOUAR SOUISSATE   COMMUNE AIN DFALI",
+    "AdresseA": "دوار السويسات",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AICHA OUM ALMOUEMININ",
+    "NOM_ETABA": "عائشة أم المؤمنين",
+    "AdresseL": "DOUAR LAHJAFNA  COMMUNE AIN DFALI",
+    "AdresseA": " ¨جماعة عين الدفالي دوار الهجافنة",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD KTIR",
+    "NOM_ETABA": "اولاد كثير",
+    "AdresseL": "DOUAR OULAD KTIR  COMMUNE AIN DFALI",
+    "AdresseA": " دوار أولاد كثير جماعة عين الدفالي",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAAOUNIA  AL FADILIA",
+    "NOM_ETABA": "التعاونية الفاضلية",
+    "AdresseL": "TAAOUNIA  AL FADILIA COMMUNE AIN DFALI",
+    "AdresseA": "التعاونية الفاضلية جماعة عين الدفالي",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN CHAMIA",
+    "NOM_ETABA": "عين الشامية",
+    "AdresseL": "DOUAR AIN CHAMIA COMMUNE AIN DFALI",
+    "AdresseA": "دوار عين الشامية جماعة عين الدفالي",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL MOUTANABI",
+    "NOM_ETABA": "ثانوية المتنبي",
+    "AdresseL": "CENTRE AIN DOUFALI",
+    "AdresseA": "عين الدفالي",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JAMILA",
+    "NOM_ETABA": "مجموعة مدارس جميلة",
+    "AdresseL": "n 8 quaria namoudajia",
+    "AdresseA": "الرقم 8 القرية النموذجية",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DOHALFA",
+    "NOM_ETABA": "مجموعة مدارس الضحالفة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 44 ، تجزئة الزيتزنة عين ال",
+    "COMMUNE": "Ain Dfali",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

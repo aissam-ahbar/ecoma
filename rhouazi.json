@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL RHOUAZI",
+    "NOM_ETABA": " ثانوية الغوازي الإعدادية",
+    "AdresseL": "COMMUNE GHOUAZI CENTRE",
+    "AdresseA": "مركز الغوازي",
+    "COMMUNE": "Rhouazi",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS GHOUAZI",
+    "NOM_ETABA": "م/م الغوازي",
+    "AdresseL": "COMMUNE GHOUAZI CENTRE KARIA BA MOHAEMED",
+    "AdresseA": " جماعة الغوازي  - القرية",
+    "COMMUNE": "Rhouazi",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S KHOLT",
+    "NOM_ETABA": "م /م الخلط",
+    "AdresseL": "DOUAR KHOLT COMMUNE  RHOUAZI KARIA",
+    "AdresseA": "دوار الخلط جماعة الغوازي  - القرية",
+    "COMMUNE": "Rhouazi",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DBICHATE",
+    "NOM_ETABA": "م/م  الدبيشات",
+    "AdresseL": "DOUAR DBICHATE COMMUNE RHOUAZI KARIA BA MOHAMED",
+    "AdresseA": "دوار الدبيشات جماعة الغوازي  - القرية",
+    "COMMUNE": "Rhouazi",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHL EL KADI",
+    "NOM_ETABA": "م/م  أهل القاضي ",
+    "AdresseL": "DOUAR AHL KADI COMMUNE  RHOUAZI KARIA BA MOHAMED",
+    "AdresseA": "دوار أهل القاضي جماعة الغوازي  - القرية",
+    "COMMUNE": "Rhouazi",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ERRASMA",
+    "NOM_ETABA": "م/م  الرصمة",
+    "AdresseL": "DOUAR ERRASMA COMMUNE  RHOUAZI KARIA BA MOHAMED",
+    "AdresseA": "دوار الرصمة جماعة الغوازي  - القرية",
+    "COMMUNE": "Rhouazi",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

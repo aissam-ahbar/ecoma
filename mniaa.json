@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "OULAD CHAOUI CENTRE",
+    "NOM_ETABA": "مركزية اولاد الشاوي",
+    "AdresseL": "DOUAR OULAD SLIMAN COMMUNE MNIAA",
+    "AdresseA": "دوار اولاد سليمان جماعة امنييع",
+    "COMMUNE": "Mniaa",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOUALEM OULED MRAH CENTRE",
+    "NOM_ETABA": "مركزية السوالم اولاد امراح",
+    "AdresseL": "DOUAR EDRAISS COMMUNE MNIAA",
+    "AdresseA": "دوار الدرايس اولاد امراح جماعة امنيع",
+    "COMMUNE": "Mniaa",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

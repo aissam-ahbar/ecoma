@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "م/م علال بن عبد الله",
+    "AdresseL": "Commune AKHFENNIR",
+    "AdresseA": "جماعة أخفنير",
+    "COMMUNE": "Akhfennir",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SALAH EDDINE ALAYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الايوبي",
+    "AdresseL": "CENTRE AKHFENIR",
+    "AdresseA": "مركز اخفنير",
+    "COMMUNE": "Akhfennir",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  }
+]

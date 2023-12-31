@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCéE COLLéGIAL  BEN EL MEHDI EL JIRARI",
+    "NOM_ETABA": "بن مهدي الجراري",
+    "AdresseL": "BNIZOLI ZAGOURA",
+    "AdresseA": "بني زولي زاكورة",
+    "COMMUNE": "Bni Zoli",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCE COLLGIAL  TANAGAMET",
+    "NOM_ETABA": "الثانوية الإعدادية تنكامت",
+    "AdresseL": "TANAGAMETE    BNI ZOLI",
+    "AdresseA": "تنكامت- بني زولي",
+    "COMMUNE": "Bni Zoli",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BENI ZOULI",
+    "NOM_ETABA": "م.م بني زولي",
+    "AdresseL": "BNI ZOULI CENTRE CBNI ZOLI",
+    "AdresseA": "بني زولي",
+    "COMMUNE": "Bni Zoli",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIDSSI",
+    "NOM_ETABA": "م.م تدسي",
+    "AdresseL": "DOUAR bouzergane",
+    "AdresseA": "دوار بوزركان",
+    "COMMUNE": "Bni Zoli",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TANAGUAMT ",
+    "NOM_ETABA": "م.م تنكامت ",
+    "AdresseL": "DOUAR TANAGUAMT EL BARRANIA CBNI ZOLI",
+    "AdresseA": "تنكامت البرانية",
+    "COMMUNE": "Bni Zoli",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGHLAL",
+    "NOM_ETABA": "م.م اغلال",
+    "AdresseL": "DOUAR AGHLAL LFOUKANI CBNI ZOLI",
+    "AdresseA": "دوار اغلال  الفوقاني جماعة بني زولي ",
+    "COMMUNE": "Bni Zoli",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM ALI",
+    "NOM_ETABA": "الثانوية التأهيلية الإمام علي",
+    "AdresseL": "BNI  ZOLI",
+    "AdresseA": "بني زولي",
+    "COMMUNE": "Bni Zoli",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

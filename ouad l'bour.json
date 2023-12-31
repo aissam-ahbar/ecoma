@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "IMINE LAAINE",
+    "NOM_ETABA": "امين العين",
+    "AdresseL": "DOUAR IMINE LAAINE COMMUNE OUAD LBOUR",
+    "AdresseA": " دوار امين العين جماعة واد البور",
+    "COMMUNE": "Ouad L'bour",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIBET",
+    "NOM_ETABA": "تبت",
+    "AdresseL": "DOUAR TIBET COMMUNE OUAD L BOUR",
+    "AdresseA": "دوار تبت جماعة واد البور قيادة انفيفة امنتانوث",
+    "COMMUNE": "Ouad L'bour",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMIZEN",
+    "NOM_ETABA": "اميزن",
+    "AdresseL": "DOUAR IMIZEN ",
+    "AdresseA": "دوار اميزن",
+    "COMMUNE": "Ouad L'bour",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALMEST CENTRE",
+    "NOM_ETABA": "تالمست المركزية",
+    "AdresseL": "Douar Talmest, Ouad Lbour, Chichaoua",
+    "AdresseA": "دوار تالمست، واد البور، شيشاوة",
+    "COMMUNE": "Ouad L'bour",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMINE IGHEZ",
+    "NOM_ETABA": "امين آغز",
+    "AdresseL": "DOUAR IMINE IGHEZ COMMUNE OUAD LBOUR",
+    "AdresseA": "دوار امين آغز",
+    "COMMUNE": "Ouad L'bour",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

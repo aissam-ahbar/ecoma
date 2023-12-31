@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN SINA",
+    "NOM_ETABA": "ثانوية ابن سينا الاعدادية",
+    "AdresseL": " CENTRE SIDI ADDI COMMUNE SIDI EL MAKHFI",
+    "AdresseA": "مركز سيدي عدي  جماعة سيدي المخفي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "مدرسة صلاح الدين الأيوبي الابتدائية",
+    "AdresseL": "SIDI ADDI COMMUNE SIDI EL MAKHFI",
+    "AdresseA": "سيدي عدي جماعة سيدي المخفي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT ATMANE centre",
+    "NOM_ETABA": "م م أيت عثمان المركزية",
+    "AdresseL": "AIT ATMANE COMMUNE SIDI EL MAKHFI",
+    "AdresseA": "أيت عثمان جماعة سيدي النخفي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUCHAHDA CENTRE",
+    "NOM_ETABA": "م م بوشهدة المركزية",
+    "AdresseL": "BOUCHAHDA COMMUNE SIDI EL MAKHFI",
+    "AdresseA": "بوشهدة جماعة سيدي المخفي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT OUAHI CENTRE",
+    "NOM_ETABA": "م م أيت واحي المركزية",
+    "AdresseL": "AIT HADDOU OU SAID   COMMUNE SIDI EL MAKHFI",
+    "AdresseA": "أيت حدو أوسعيد جماعة سيدي المخفي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BNOU BATTOUTA",
+    "NOM_ETABA": "مدرسة ابن بطوطة الابتدائية",
+    "AdresseL": "SIDI ADDI COMMUNE SIDI EL MAKHFI",
+    "AdresseA": "سيدي عدي جماعة سيدي المخفي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALBAKRIT CENTRE",
+    "NOM_ETABA": "م م البقريت المركزية",
+    "AdresseL": "albakrit sidi lmakhfi",
+    "AdresseA": "البقريت سيدي المخفي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TASMAKT CENTRE",
+    "NOM_ETABA": "م م تاسماكت المركزية",
+    "AdresseL": "DOUAR TASMAKT COMMUNE SID EL MAKHFI",
+    "AdresseA": "تاسماكت جماعة سيدي المخفي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI LMAKHFI",
+    "NOM_ETABA": "ثانوية سيدي المخفي التأهيلية",
+    "AdresseL": "Sidi addi Centre",
+    "AdresseA": " سيدي عدي المركز",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "oumnia school",
+    "NOM_ETABA": "أمنية سكول",
+    "AdresseL": "229 Rue omar b.elkhttab sidi a",
+    "AdresseA": "رقم229 زنقة عمر بن الخطاب سيدي",
+    "COMMUNE": "Sidi El Makhfi",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

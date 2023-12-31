@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARIK BNOU ZIYAD",
+    "NOM_ETABA": "الثانوية الاعدادية طارق بن زياد",
+    "AdresseL": "Commune Beni Derkoul",
+    "AdresseA": "جماعة بني دركول",
+    "COMMUNE": "Bni Darkoul",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MOUSSA BEN NOUSSAIR BANI DARKOUL",
+    "NOM_ETABA": "م/م موسى بن نصير _بني دركول",
+    "AdresseL": "BNI DARKOULCBNI DARKOULCHEFCHAOUEN",
+    "AdresseA": "بني دركول  جماعة بني دركول",
+    "COMMUNE": "Bni Darkoul",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL KOB",
+    "NOM_ETABA": "م/م القوب",
+    "AdresseL": "DOUAR AL KOB C BNI DARKOUL CHEFCHAOUEN",
+    "AdresseA": "دوار القوب جماعة بني دركول",
+    "COMMUNE": "Bni Darkoul",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHRAFAT",
+    "NOM_ETABA": "م/م الشرافات",
+    "AdresseL": "DOUAR CHRAFATCBNI DARKOULCHEFCHAOUEN",
+    "AdresseA": "دوار الشرافات جماعة بني دركول",
+    "COMMUNE": "Bni Darkoul",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMRD EL AALEM EL MATEN",
+    "NOM_ETABA": "م/م احمد العالم _الماتن",
+    "AdresseL": "DOUAR AL MATEN BNI DARKOUL CHEFCHAOUEN",
+    "AdresseA": "دوار الماتن جماعة بني دركول",
+    "COMMUNE": "Bni Darkoul",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI REGURAGUI AMETRAS",
+    "NOM_ETABA": "م/م سيدي الركراكي _أمطراس",
+    "AdresseL": "DOUAR AMETRAS  C  BNi darkoul CHEFCHAOUEN",
+    "AdresseA": "   دوار أمطراس جماعة بني دركول",
+    "COMMUNE": "Bni Darkoul",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

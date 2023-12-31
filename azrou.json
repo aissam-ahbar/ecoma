@@ -1,0 +1,462 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  AL OUAHDA",
+    "NOM_ETABA": "ثانوية الوحدة الاعدادية",
+    "AdresseL": "ATLAS II AHADAF  MUNICIPALITE AZROU",
+    "AdresseA": "أطلس 2 أحداف  بلدية ازرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDRISS PREMIER",
+    "NOM_ETABA": "ثانوية ادريس الأول الاعدادية",
+    "AdresseL": "QUARTIER ADMINISTRATIVE AVENUE MOHAMED VI AZROU",
+    "AdresseA": "الحي الاداري. شارع محمد السادس. أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE  COLLEGIAL AL ATLAS ",
+    "NOM_ETABA": "  ثانوية الاطلس الاعدادية",
+    "AdresseL": " quartierTIZI MOULAY EL HASSAN AZROU",
+    "AdresseA": "حي تيزي مولاي الحسن أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SAKHR",
+    "NOM_ETABA": "ثانوية صخر الاعدادية",
+    "AdresseL": "AHADAF ROUTE DE MEKNES AZROU",
+    "AdresseA": " حي احداف طريق مكناس أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUSSA BNOU NOUSSAYRE",
+    "NOM_ETABA": "مدرسة موسى بن نصير الابتدائية",
+    "AdresseL": "RUE EL KAID SAID AZROU",
+    "AdresseA": "زنقة القائد سعيد أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FATIMA AL FIHRIA",
+    "NOM_ETABA": "مدرسة فاطمة الفهرية الابتدائية",
+    "AdresseL": "BD EL AMIR ABDELLAH AZROU",
+    "AdresseA": "شارع الأميرم عبد الله أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY AL HASSAN PREMIER",
+    "NOM_ETABA": "مدرسة مولاي الحسن الأول الابتدائية",
+    "AdresseL": "RUE TAFILALT  SIDI ASSOU AZROU",
+    "AdresseA": "زنقة تافيلالت حي سيدي عسو  ازرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TIZI MOULAY AL HASSAN",
+    "NOM_ETABA": "مدرسة تيزي مولاي الحسن الابتدائية",
+    "AdresseL": "RUE TAFILALET QUARTIER TIZI MOULAY ELHASSAN AZROU",
+    "AdresseA": "زنقة تافيلالت حي تيزي مولاي الحسن أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء الابتدائية",
+    "AdresseL": "Quartier Mimouza Ahadaf BP 38 AZROU",
+    "AdresseA": "حي ميموزة أحداف ص ب 38 أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL IMAM ALI BNOU ABI TALIB",
+    "NOM_ETABA": "مدرسة الإمام علي بن أبي طالب الابتدائية",
+    "AdresseL": "BOUYAKOUR  AHADAF AZROU",
+    "AdresseA": "بويقور أحداف أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL KHANSSA",
+    "NOM_ETABA": " مدرسة الخنساء الابتدائية",
+    "AdresseL": "RUE DU QAIR HAY ENNAJAH AZROU",
+    "AdresseA": "زنقة القاهرة حي النجاح أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN KHALDOUNE",
+    "NOM_ETABA": "مدرسة ابن خلدون الابتدائية",
+    "AdresseL": " QUARTIER AL ARZ 3 AZROU",
+    "AdresseA": "حي الأرز 3 أحداف أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABD  EL KARIM AL KHATTABI",
+    "NOM_ETABA": " مدرسة عبد الكريم الخطابي الابتدائية ",
+    "AdresseL": "HAY TIBOUKALLALINE AZROU",
+    "AdresseA": "حي تيبوقلالين أحداف أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL KADI AYAD",
+    "NOM_ETABA": "مدرسة القاضي عياض الابتدائية",
+    "AdresseL": "HAY AJALLAB AZROU",
+    "AdresseA": "حي امشرمو أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ERRATAHA",
+    "NOM_ETABA": "مدرسة الرتاحة الابتدائية",
+    "AdresseL": "Quartier Ennakhil Azrou",
+    "AdresseA": "حي الاطلس 2 ، أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED 5",
+    "NOM_ETABA": "ثانوية محمد الخامس التأهيلية",
+    "AdresseL": "ROUTE AIN AGHBAL AZROU",
+    "AdresseA": "طريق عين اغبال أزرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TARIK BNOU ZIAD",
+    "NOM_ETABA": "ثانوية طارق بن زياد التأهيلية",
+    "AdresseL": "QUARTIER ADMINISTRATIF AZROU",
+    "AdresseA": "الحى الاداري ازرو",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MICHLIFEN",
+    "NOM_ETABA": "ثانوية ميشليفن التاهيلية",
+    "AdresseL": "Cité ATLAS 2  AZROU",
+    "AdresseA": "حي الأطلس 2",
+    "COMMUNE": "Azrou",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "institut michlifen",
+    "NOM_ETABA": "مؤسسة ميشليفن الخصوصية",
+    "AdresseL": "107-103 lotissement Michlifen ",
+    "AdresseA": "تجزئة ميشليفن رقم 107-103 أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achbal tarik ben ziade",
+    "NOM_ETABA": "أشبال طارق بن زياد الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 554 الأرز 4",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut el fahd d enseignement prescolaire",
+    "NOM_ETABA": "مؤسسة الفهد الخصوصية للتعليم الأولي ",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 124 الزنقة 8 حي تبادليت ال",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAJD LISSIRARE",
+    "NOM_ETABA": "المجد للصغار",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 208 تجزئة النخيل03،أحداف، ",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUJOUM AL GHADE",
+    "NOM_ETABA": "نجوم الغد الخصوصية",
+    "AdresseL": "N°155,lotissement Ain Aghbal,A",
+    "AdresseA": "رقم 155، تجزئة عين أغبال أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IQRAE LILMARIFAE",
+    "NOM_ETABA": "إقرأ للمعرفة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 759، تجزئة عين أغبال، أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "waladi",
+    "NOM_ETABA": "مؤسسة ولدي الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 240 الزنقة 8 حي النجاح",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "imnayen el atlas",
+    "NOM_ETABA": "إيمناين الأطلس",
+    "AdresseL": "81LOT NAKHIL 1 AHADAF AZROU",
+    "AdresseA": "رقم 83 النخيل 1 أحداف أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al amal",
+    "NOM_ETABA": "الامل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 15 زنقة بويقور",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "orchid",
+    "NOM_ETABA": "اوركيد",
+    "AdresseL": "77/78 hay salam ahadaf ",
+    "AdresseA": "رقم 77-78 حي السلام أحداف أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MASSAR AL ATLAS I",
+    "NOM_ETABA": "مسار الأطلس  1",
+    "AdresseL": "125 atlas 2 ahadaf Azrou Ifran",
+    "AdresseA": "أطلس 2 رقم 125 أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arz almaarif",
+    "NOM_ETABA": "ارز المعاريف",
+    "AdresseL": "N 87 arz1 ahadaf azrou",
+    "AdresseA": "87 الأرز1 أحداف أزرو.",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al hassan i",
+    "NOM_ETABA": "الحسن الاول",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة عين أغبال القشلة أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "massar atlas II",
+    "NOM_ETABA": "مسار اطلس 2 ",
+    "AdresseL": "125, Atlas 1AZROU AHDAF ",
+    "AdresseA": "فيلا 21  اطلس 1 احداف ازرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alkawtar",
+    "NOM_ETABA": "الكوثر",
+    "AdresseL": "",
+    "AdresseA": "شارع الامير مولاي عبد الله أزر",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Friends School",
+    "NOM_ETABA": "فراندز سكول",
+    "AdresseL": "lot n° 4 ahadaf ",
+    "AdresseA": "تجزئة ميموزة رقم 4 أحداف",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANABIE  II",
+    "NOM_ETABA": "المنابع  2",
+    "AdresseL": "11, hay Taj, Ahadaf, AZROU",
+    "AdresseA": "حي الطاج 11 أحداف أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SAFAE  ",
+    "NOM_ETABA": "الصفاء    ",
+    "AdresseL": "rue alger ahadaf azrou",
+    "AdresseA": "زتقة الجزائر أحداف  أزرو",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESSALAM  STAR",
+    "NOM_ETABA": "السلام ستار",
+    "AdresseL": "Lot Ain Aghbal , N° 1085",
+    "AdresseA": "تجزئة عين أغبال ، رقم 1085   ",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT CHAIMAE DE L ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة الشيماء للتعليم الخصوصية",
+    "AdresseL": "21-23 Route de Meknès Ahadaf",
+    "AdresseA": "21-23 طريق مكناس أحداف",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Manabie I",
+    "NOM_ETABA": "   I المنابع    ",
+    "AdresseL": "Rue 5, N° 20 Hay Taj Ahadaf",
+    "AdresseA": "زنقة 5، رقم 20 حي الطاج أحداف ",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Donald s School Azrou ",
+    "NOM_ETABA": "دونالد سكول أزرو",
+    "AdresseL": "N° 386, Rue 2 Hay Taj Avennue ",
+    "AdresseA": "رقم 386، زنقة 2 حي التاج شارع ",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Oum Nour",
+    "NOM_ETABA": "مؤسسة أم نور الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 335، زنقة 4، حي النجاح، أح",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION MONTESSORI PARADISE",
+    "NOM_ETABA": "مؤسسة مونتيسوري بارادايس الخصوصية ",
+    "AdresseL": "n° 131 rue 10 quartier pam aha",
+    "AdresseA": "رقم 131 زنقة 10 حي بام أحداف آ",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EXCEL IN EXCELLENCE",
+    "NOM_ETABA": "إكسيل إن إكسيلانس الخصوصية",
+    "AdresseL": "Villa n°5,lotissement Adam,Azr",
+    "AdresseA": "فيلا رقم 5، تجزئة آدم، أزرو ، ",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ITHEBiR SCHOOL",
+    "NOM_ETABA": "إثبير سكول الخصوصية",
+    "AdresseL": "N490 LOTISSEMENT AIN AGHBAL2 A",
+    "AdresseA": "رقم 490 تجزئة عين أغبال 2 احدا",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL MOSTAKBAL ",
+    "NOM_ETABA": "براعم المستقبل الخصوصية",
+    "AdresseL": "N°305, LOTISSEMENT ATLAS, AHAD",
+    "AdresseA": "رقم 305، تجزئة الأطلس2، أحذاف،",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AJIAL AL ATLASE",
+    "NOM_ETABA": "مدرسة أجيال الأطلس الخصوصية",
+    "AdresseL": "N° 632 Lotissement Assanaoibar",
+    "AdresseA": "رقم 632 تجزئة الصنوبر أحداف أز",
+    "COMMUNE": "Azrou ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

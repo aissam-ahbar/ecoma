@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUKAIMDEN",
+    "NOM_ETABA": "الثانوية الاعدادية اوكايمدن",
+    "AdresseL": "CENTRE COMMUNE OUKAIMDEN",
+    "AdresseA": "مركز جماعة اوكايمدن",
+    "COMMUNE": "Oukaimden",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUKAIMEDENE",
+    "NOM_ETABA": "اوكايمدن",
+    "AdresseL": "DOUAR IGUNANE COMMUNE OUKAIMDEN",
+    "AdresseA": "دوار اكنان جماعة اوكايمدن",
+    "COMMUNE": "Oukaimden",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIKHFISTE",
+    "NOM_ETABA": "تيخفست",
+    "AdresseL": "DOUAR TIKHFIST COMMUNE OUKAIMDEN",
+    "AdresseA": "دوار تيخفست جماعة اوكايمدن",
+    "COMMUNE": "Oukaimden",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

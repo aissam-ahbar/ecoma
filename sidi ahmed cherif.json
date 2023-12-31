@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS IBN ZAYDOUNE",
+    "NOM_ETABA": "م م ابن زيدون",
+    "AdresseL": "DOUAR KHIR BENNAINE COMMUNE SIDI AHMED CHERIF",
+    "AdresseA": "دوار خربناين جماعة سيدي احمد الشريف",
+    "COMMUNE": "Sidi Ahmed Cherif",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAHA HOUSEINE",
+    "NOM_ETABA": "م م طه حسين",
+    "AdresseL": "DOUAR SEDERYENE  COMMUNE SIDI AHMED CHERIF",
+    "AdresseA": "دوارالسدريين جماعة سيدي احمد الشريف ",
+    "COMMUNE": "Sidi Ahmed Cherif",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI BOUZITOUNE",
+    "NOM_ETABA": "م م سيدي بوزيتون",
+    "AdresseL": "DOUAR SIDI BOUZITOUNE COMMUNE SIDI AHMED CHERIF",
+    "AdresseA": "دوار سيدي بوزيتون",
+    "COMMUNE": "Sidi Ahmed Cherif",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN SINA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن سينا",
+    "AdresseL": "C SIDI AHMED CHERIF",
+    "AdresseA": "سيدي أحمد الشريف",
+    "COMMUNE": "Sidi Ahmed Cherif",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

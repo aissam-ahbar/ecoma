@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YACOUB EL MANSOUR",
+    "NOM_ETABA": "الثانوية الإعدادية يعقوب المنصور",
+    "AdresseL": "AGOURAI CENTRE",
+    "AdresseA": "اكوراي المركز",
+    "COMMUNE": "Agourai",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY ISMAIL",
+    "NOM_ETABA": "مولاي اسماعيل",
+    "AdresseL": " quartier administratif    agourai",
+    "AdresseA": "الحي الاداري اكوراي",
+    "COMMUNE": "Agourai",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SALAH EDDINE EL AYOUBI",
+    "NOM_ETABA": "صلاح الدين الايوبي",
+    "AdresseL": "AGOURAI CENTRE",
+    "AdresseA": "اكوراي المركز",
+    "COMMUNE": "Agourai",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال ابن عبد الله",
+    "AdresseL": "AGOURAI CENTRE",
+    "AdresseA": "اكوراي المركز",
+    "COMMUNE": "Agourai",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "ثانوية عمر بن عبد العزيز التأهيلية",
+    "AdresseL": "AGOURAI",
+    "AdresseA": "اكوراي",
+    "COMMUNE": "Agourai",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION   ATFALOUNA",
+    "NOM_ETABA": "مؤسسة أطفالنا",
+    "AdresseL": "QUARTIER  HMIMID  AGOURAI",
+    "AdresseA": "حي احميميد  أكوراي",
+    "COMMUNE": "Agourai ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR AL AMANA",
+    "NOM_ETABA": "دار الأمانة",
+    "AdresseL": "AVENUE AL MASSIRA AL KHADRA",
+    "AdresseA": "شارع المسيرة الخضراء ",
+    "COMMUNE": "Agourai ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

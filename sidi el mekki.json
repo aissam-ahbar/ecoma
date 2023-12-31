@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "ELKASBA CENTRE",
+    "NOM_ETABA": "مركزية القصبة",
+    "AdresseL": "DOUAR OULAD ALLAL COMMUNE SIDI ELMEKKI",
+    "AdresseA": "دوار اولاد علال جماعة سيدي المكي",
+    "COMMUNE": "Sidi El Mekki",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GRIGUIH CENTRE",
+    "NOM_ETABA": "مركزية كريكيح",
+    "AdresseL": "DOUAR GRIGUIH COMMUNE SIDI ELMEKKI",
+    "AdresseA": "دوار كريكيح جماعة سيدي المكي",
+    "COMMUNE": "Sidi El Mekki",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ELMEKKI CENTRE",
+    "NOM_ETABA": "مركزية سيدي المكي",
+    "AdresseL": "DOUAR ZAOUIAT sidi el mekki COMMUNE SIDI EL MEKKI",
+    "AdresseA": "دوارزاوية سيدي المكي  الجماعة سيدي المكي",
+    "COMMUNE": "Sidi El Mekki",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS FATIMA ZAHRA AIT MEJJOT",
+    "NOM_ETABA": "م.م فاطمة الزهراء- أيـت مجــوط",
+    "AdresseL": "DOUAR  AIT MEJJOT          COMMUNE  AZIAR",
+    "AdresseA": "دوار أيـت مجوط  جماعـة أزيـار",
+    "COMMUNE": "Aziar",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI SAID ATANANE AZIAR",
+    "NOM_ETABA": "م.م سيدي سعيد أتنان-أزيــار",
+    "AdresseL": "DOUAR  AZIAR            COMMUNE  AZIAR",
+    "AdresseA": "دوار أزيار المركز  جماعة أزيـار",
+    "COMMUNE": "Aziar",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANSRI ISDRAM",
+    "NOM_ETABA": "م.م أنسري - اسدرام ",
+    "AdresseL": "DOUAR  ISDRAM             COMMUNE  AZIAR",
+    "AdresseA": "دوار إسدرام  جماعة أزيـار",
+    "COMMUNE": "Aziar",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

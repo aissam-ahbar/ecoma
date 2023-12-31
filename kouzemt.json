@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "ADDHER CENTRE",
+    "NOM_ETABA": "الظهر المركزية",
+    "AdresseL": "DOUAR ADDHER COMMUNE KOUZEMT",
+    "AdresseA": "دوار  الظهر",
+    "COMMUNE": "Kouzemt",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KOUZEMT",
+    "NOM_ETABA": "كوزمت",
+    "AdresseL": "DOUAR KOUZEMT COMMUNE KOUZEMT",
+    "AdresseA": "دوار  كوزمت",
+    "COMMUNE": "Kouzemt",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "INMIREN CENTRE",
+    "NOM_ETABA": "انمرن المركزية",
+    "AdresseL": "DOUAR INMIREN  KOUZEMT",
+    "AdresseA": "دوار  انمرن جماعة كوزمت",
+    "COMMUNE": "Kouzemt",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

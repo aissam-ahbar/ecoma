@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL OUTABOUABANE ",
+    "NOM_ETABA": "ثانوية اوطابوعبان الإعدادية",
+    "AdresseL": "Commune OUTABOUABANE TISSA",
+    "AdresseA": "جماعة اوطابوعبان تيسة",
+    "COMMUNE": "Outabouabane",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OUTABOUAABANE",
+    "NOM_ETABA": "م/م  اوطا بوعبان",
+    "AdresseL": "RASS AL ABIAD COMMUNE OUTA BOUAABANE TISSA",
+    "AdresseA": "دوار الرأس الأبيض   ـ جماعة أوطابوعبان  تيسة",
+    "COMMUNE": "Outabouabane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUAARRAM",
+    "NOM_ETABA": "م/م  بوعرام",
+    "AdresseL": "DOUAR BOUARRAM COMMUNE OUTABOUABANE TISSA",
+    "AdresseA": "دوار بوعرام -جماعة أوطا بوعبان-  تيسة",
+    "COMMUNE": "Outabouabane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD ABDELKRIM",
+    "NOM_ETABA": "م/م  اولاد عبد الكريم",
+    "AdresseL": "DOUAR OULAD ABDELKRIM COMMUNE OUTA BOUABANE TISSA",
+    "AdresseA": "دوار اولاد عبد الكريم   -جماعة أوطا بوعبان-  تيسة",
+    "COMMUNE": "Outabouabane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUTABOUABANE",
+    "NOM_ETABA": "ثانوية أوطابوعبان التأهيلية",
+    "AdresseL": "COMMUNE OUTABOUABANE",
+    "AdresseA": "جماعة أوطابوعبان",
+    "COMMUNE": "Outabouabane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

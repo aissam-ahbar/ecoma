@@ -1,0 +1,502 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULED ZYANE",
+    "NOM_ETABA": "الثانوية الإعدادية اولاد زيان",
+    "AdresseL": "CENTRE DEROUA",
+    "AdresseA": "مركز الدروة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLÈGIAL JNANE DEROUA",
+    "NOM_ETABA": "الثانوية الإعدادية جنان الدروة",
+    "AdresseL": "Groupement Saada Deroua",
+    "AdresseA": "مجمع السعادة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL DEROUA",
+    "NOM_ETABA": "الثانوية الإعدادية الدروة",
+    "AdresseL": "HAY EL MASSIRA",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DEROUA NOUACEUR ",
+    "NOM_ETABA": "المدرسة الابتدائية الدروة النواصر",
+    "AdresseL": "Hay Elwahda École Déroua Nouaceur",
+    "AdresseA": "شارع المقاومة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOUTANABBI",
+    "NOM_ETABA": "المدرسة الابتدائية المتنبي",
+    "AdresseL": "DOUAR LEGRARSA COMMUNE DEROUA",
+    "AdresseA": " تجزئة سفيان  الدروة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALIMAM CHAFII",
+    "NOM_ETABA": "المدرسة الابتدائية الإمام الشافعي",
+    "AdresseL": "CENTRE DEROUA",
+    "AdresseA": "مركز الدروة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  NAJMA ALBAYDA",
+    "NOM_ETABA": "المدرسة الابتدائية النجمة البيضاء",
+    "AdresseL": "Groupement Saada",
+    "AdresseA": "مجموعة السعادة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DEROUA JADIDA",
+    "NOM_ETABA": "المدرسة الابتدائية الدروة الجديدة",
+    "AdresseL": "Hay Al Massira",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JAOUHARAT DEROUA",
+    "NOM_ETABA": " المدرسة الابتدائية جوهرة الدروة",
+    "AdresseL": "LOT JAOUHARAT",
+    "AdresseA": "تجزئة جوهرة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU HOURAIRA",
+    "NOM_ETABA": "المدرسة الابتدائية أبو هريرة",
+    "AdresseL": "Lot nayet",
+    "AdresseA": "تجزئة نايت",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الأيوبي",
+    "AdresseL": "deroua",
+    "AdresseA": "الدروة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAREK IBN ZIYAD",
+    "NOM_ETABA": "الثانوية التأهيلية طارق بن زياد",
+    "AdresseL": "LOTISSEMENT CHAMS",
+    "AdresseA": "تجزئة شمس",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT HASSAN DEUX",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "HAY ESSALAM DEROUA  bp 214 ou 176",
+    "AdresseA": "حي السلام الدروة",
+    "COMMUNE": "Deroua",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE ETOILE CANADIENNE POUR LE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة إتوال كنديان الخصوصية للتعليم الأولي",
+    "AdresseL": "",
+    "AdresseA": "رقم 59 تجزئة النسيم",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE NOUR AL HARAMAYN",
+    "NOM_ETABA": "مؤسسة نور الحرمين الخصوصية ",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 267 تجزئة 3مارس",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE FLORENCE",
+    "NOM_ETABA": "مؤسسة فلورانس الخصوصية",
+    "AdresseL": "lotissement miftah bayti",
+    "AdresseA": "تجزئة مفتاح بيتي",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR AL IKHLASSE",
+    "NOM_ETABA": "نور الإخلاص الخصوصية",
+    "AdresseL": "lotissement nait hadana",
+    "AdresseA": "تجزئة نايت حضانة",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS FRANCOIS VIETE ",
+    "NOM_ETABA": "فرانسوا فييت الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة شمس 2 البقعة رقم 10",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE LEEN",
+    "NOM_ETABA": "مؤسسة لين الخصوصية",
+    "AdresseL": "AL WAHDA 2",
+    "AdresseA": "تجزئة الوحدة",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE JEAN JAURES 3 ",
+    "NOM_ETABA": "مؤسسة جان جوريس 3 الخصوصية",
+    "AdresseL": "LOUNA QUARTIER DES VILLAS ",
+    "AdresseA": "لونا حي الفيلات",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE jnan zahra",
+    "NOM_ETABA": "مدرسة جنان الزهراء الخصوصية",
+    "AdresseL": "lottissement el madina 1 derou",
+    "AdresseA": "تجزئة المدينة 1 الدروة  اقليم ",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BERRA",
+    "NOM_ETABA": "مجموعة مدارس برة الخصوصية",
+    "AdresseL": "klm 25 ROUTE DE MARRAKECH DERO",
+    "AdresseA": "كلم 25 طريق مراكش بلدية  الدرو",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Ibn  ZaraE",
+    "NOM_ETABA": "مجموعة مدارس ابن زرع الخصوصية",
+    "AdresseL": "N° 308, Lot. Al Wahda 2",
+    "AdresseA": "رقم 308، تجزئة الوحدة 2",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Anwar",
+    "NOM_ETABA": "الأنوار الخصوصية",
+    "AdresseL": "N° 9, Lot. Al Wahda 1, Rue 12",
+    "AdresseA": "رقم 9، تجزئة الوحدة 1، الزنقة ",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Basma ",
+    "NOM_ETABA": "بسمة الخصوصية",
+    "AdresseL": "N° 283 H   Lot. El Wafae",
+    "AdresseA": "الرقم 283  H تجزئة الوفاء",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al jil al jadid",
+    "NOM_ETABA": "الجيل الجديد الخصوصية",
+    "AdresseL": "LOT khadija    ",
+    "AdresseA": "تجزئة خديجة    ",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Ouafa",
+    "NOM_ETABA": " الوفاء الخصوصية",
+    "AdresseL": "N° 526 Lot. El Wafaa - Deroua ",
+    "AdresseA": "رقم 526، تجزئة الوفاء - الدروة",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Hidaya",
+    "NOM_ETABA": " الهداية الخصوصية",
+    "AdresseL": "N° H 269, Lot. El Wafa - Derou",
+    "AdresseA": " رقم 269، تجزئة الوفاء - الدرو",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hikma",
+    "NOM_ETABA": " الحكمة الخصوصية",
+    "AdresseL": "lot khadija",
+    "AdresseA": "تجزئة خديجة زنقة 1 رقم 24",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL HAKIM",
+    "NOM_ETABA": "مؤسسة الحكيم الخصوصية",
+    "AdresseL": "LOT JAWHARAT DERWA",
+    "AdresseA": "تجزئة جوهرة الدروة  رسم العقار",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PIONNIER SCIENTIFIQUE 1 DU PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة لوبيونيي العلمية 1 للتعليم الأولي الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "الميدنة 2 رسم العقار 53/111660",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NEW WORLD",
+    "NOM_ETABA": "مؤسسة نيووورلد الخصوصية",
+    "AdresseL": "LOT BADER ROUTE PRICIPALE",
+    "AdresseA": "تجزئة بدر الطريق الرئسية",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE ABOU AL KACeM",
+    "NOM_ETABA": "المدرسة الخصوصية أبو القاسم",
+    "AdresseL": "LOT KOUTAIR TERRAIN ECOLE DERO",
+    "AdresseA": "                    تجزئة كثير",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE CHADARAT EDAHABE",
+    "NOM_ETABA": "مجموعة مدارس شذرات الذهب الخصوصية ",
+    "AdresseL": "chadarateddahab@gmail.com",
+    "AdresseA": "رقم 49 تجزئة سرحان رسم العقار ",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE VALERIANE ",
+    "NOM_ETABA": "مجموعة مدارس فالريان الخصوصية",
+    "AdresseL": "LOT MANAZEL DEROUA",
+    "AdresseA": "تجزئة منازل الدروة",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE RIAD AL ABRAR",
+    "NOM_ETABA": "مجموعة مدارس رياض الأبرار الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة المسيرة البقعة 144 و 120",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MAJDOULINE",
+    "NOM_ETABA": "مجموعة مدارس ماجدولين الخصوصية",
+    "AdresseL": "Manazil deroua 2 3eme tranche ",
+    "AdresseA": "منازل الدروة 2 الشطر 3",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE AL ANOUAR",
+    "NOM_ETABA": "ملحقة الانوار الخصوصية",
+    "AdresseL": "Lotissement al wahda 1 c39",
+    "AdresseA": "C 39 تجزئة الوحدة 1 ",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HENRIE TRANCHARTE",
+    "NOM_ETABA": "مؤسسة هنري ترانشار الخصوصية",
+    "AdresseL": "Manazil DEROUA 2",
+    "AdresseA": "منازل الدروة2",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MAALIM ARRIADA",
+    "NOM_ETABA": "مجموعة مدارس معالم الريادة الخصوصية",
+    "AdresseL": "lot elwafa n° 80",
+    "AdresseA": "تجزئة الوفا الرقم 80",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OWAYSE",
+    "NOM_ETABA": "مؤسسة أويس الخصوصية",
+    "AdresseL": "N° GH4 LOT BAB ESSAAD ",
+    "AdresseA": "تجزئة باب السعد رقم GH4",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE AL WAFAA",
+    "NOM_ETABA": "ملحقة الوفاء الخصوصية",
+    "AdresseL": "lot haj taher no 21 ",
+    "AdresseA": "تجزئة الحاج الطاهر رقم 21",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE CARRE VERT",
+    "NOM_ETABA": "كاري فير الخصوصية",
+    "AdresseL": "LOT ALHASSANIA 2 RESIDENCE 33",
+    "AdresseA": "تجزئة الحسنية 2، إقلمة 33",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL AZZAITOUNA",
+    "NOM_ETABA": "أجيال الزيتونة الخصوصية",
+    "AdresseL": "LOT ENNOUR",
+    "AdresseA": "تجزئة النور",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire le pionnier",
+    "NOM_ETABA": "مجموعة مدارس لو بيونيي الخصوصية",
+    "AdresseL": "lot médina3",
+    "AdresseA": "تجزئة المدينة3",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN JAURES",
+    "NOM_ETABA": "جان جوريس الخصوصية",
+    "AdresseL": "lotissement yassine 5",
+    "AdresseA": "5 تجزئة ياسين",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HORIZONS SCIENTIFIQUES",
+    "NOM_ETABA": "أوريزون سيونتيفيك الخصوصية",
+    "AdresseL": "lot nora",
+    "AdresseA": "تجزئة نورة",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al wardataine",
+    "NOM_ETABA": "الوردتين الخصوصية",
+    "AdresseL": "LOT CHABAB AL MAQDISsi N° 97 ",
+    "AdresseA": "تجزئة شباب المقدسي رقم97 الدرو",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "basma prescolaire",
+    "NOM_ETABA": "بسمة للتعليم الأولي الخصوصية",
+    "AdresseL": "lot wafaa n°317 ",
+    "AdresseA": "تجزئة الوفاء الرقم 317 الدروة",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "elysee",
+    "NOM_ETABA": "إيليزي الخصوصية",
+    "AdresseL": "N 105 H3 LOT ALMASSIRA",
+    "AdresseA": "تجزئة المسيرة h3 رقم 105",
+    "COMMUNE": "Deroua ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

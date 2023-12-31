@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS AL HOUZALI",
+    "NOM_ETABA": "م.م الهوزالي",
+    "AdresseL": "MUNICIPALITE IGHREM",
+    "AdresseA": "بلدية إغرم",
+    "COMMUNE": "Irherm",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL ARAK",
+    "NOM_ETABA": "ثأ.الأرك",
+    "AdresseL": "CENTRE IGHRM MINICIPALITE IGHREM",
+    "AdresseA": "مركز إغرم",
+    "COMMUNE": "Irherm",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "NOM_ETABL": "MOUAD BNOU JABAL",
+    "NOM_ETABA": "معاذ بن جبل",
+    "AdresseL": "AIN ATIG CENTRE",
+    "AdresseA": "مركز عين عتيق",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL IMAM MALEK",
+    "NOM_ETABA": "الإمام مالك",
+    "AdresseL": "AIN ATIG CENTRE",
+    "AdresseA": "عين عتيق المركز",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HOMMANE EL FATWAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "DOUAR GHBOULA  AIN ATIG  TEMARA",
+    "AdresseA": "دوار غبولة عين عتيق تمارة   ",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN ATTIG",
+    "NOM_ETABA": "عين اعتيق",
+    "AdresseL": "AIN ATIG CENTRE",
+    "AdresseA": "عين اعتيق المركز",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SLAMA",
+    "NOM_ETABA": "اولاد سلامة",
+    "AdresseL": "DOUAR OULAD SLAMA RP1  AIN ATIG",
+    "AdresseA": "اولاد سلامة  الطريق الرئيسية رقم 1",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOUIFAT",
+    "NOM_ETABA": "النويفات",
+    "AdresseL": "DOUAR NOUIFAT  AIN ATTIG ",
+    "AdresseA": "دوار النويفات جماعة عين عتيق",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL INTILAK",
+    "NOM_ETABA": "الانطلاق",
+    "AdresseL": "HAY AL INTILAK  AIN ATTIG",
+    "AdresseA": "حي الانطلاق عين اعتيق",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALWAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "AIN ATIQ CENTRE",
+    "AdresseA": "عين عتيق المركز",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE DOUAR SI KACEM",
+    "NOM_ETABA": "مدرسة دوار سي  قاسم",
+    "AdresseL": "douar si kacem",
+    "AdresseA": "دوار سي قاسم",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MEHDI EL MANDJRA",
+    "NOM_ETABA": "المهدي المنجرة",
+    "AdresseL": "Lot Alhamd ",
+    "AdresseA": "تجزئة الحمد",
+    "COMMUNE": "Ain Attig",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire amine annamoudajia",
+    "NOM_ETABA": "مجموة مدارس أمين النموذجية الخصوصية ",
+    "AdresseL": "rue N°1 LOT CHERKAOUI AIN ATIK",
+    "AdresseA": "تجزئة الشرقاوي رقم 1 عين عتيق",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "talaie almostakbal",
+    "NOM_ETABA": "طلائع المستقبل",
+    "AdresseL": "3,residence annasr, imm d",
+    "AdresseA": "3.عمارة د. اقامة النصر",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole manzah emile",
+    "NOM_ETABA": "مؤسسة منزه إميل الخصوصية",
+    "AdresseL": "9,lotissement chanane",
+    "AdresseA": "تجزئة شنان رقم 9 عين عتيق",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution ain atiq",
+    "NOM_ETABA": "institution ain atiq",
+    "AdresseL": "143,lotissement mabrouka",
+    "AdresseA": "تجزئة مبروكة رقم 43 عين عتيق",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire chkail",
+    "NOM_ETABA": "مجموعة مدارس شكيل",
+    "AdresseL": "Lotissement Essaada Ain Attiq",
+    "AdresseA": "تجزئة السعادة، عين اعتيق",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement ibn al bannae",
+    "NOM_ETABA": "مؤسسة ابن البناء الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "الرسم العقاري 78/64691 تجزئة خ",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MARASSIL",
+    "NOM_ETABA": "مجموعة مدارس مراسيل الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "بلاد عبدالعزيز الرسم العقاري 3",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire le bougeoire",
+    "NOM_ETABA": "مجموعة مدارس لوبجوار الخصوصية",
+    "AdresseL": "ALBADIL LILIIMAR TRANCHE4 AIN ",
+    "AdresseA": "البديل الاعمار الشطر 4,الرسم ا",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire nour al mostakbal",
+    "NOM_ETABA": "مجموعة مدارس نور المستقبل الخصوصية",
+    "AdresseL": "lotissement Ennour 1 ibnn khal",
+    "AdresseA": "الرسم العقاري عدد 78/42093 تجز",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S henri matisse ain atik",
+    "NOM_ETABA": "مجموعة مدارس هنري ماتيس عين عتيق",
+    "AdresseL": "lotissement al hamd, N°99-100-",
+    "AdresseA": "تجزئة الحمد 2 رقم 99-100-101 ع",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "diwane al maarifa",
+    "NOM_ETABA": "  ديوان المعرفة خصوصي",
+    "AdresseL": "42,lotissement saada",
+    "AdresseA": "تجزئة السعادة  42 عين عتيق",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZENITH SCHOOL",
+    "NOM_ETABA": "زينيت سكول الخصوصية",
+    "AdresseL": "AVENUE HASSAN 2 NUIFAT",
+    "AdresseA": "شارع حسن الثاني النويفات",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ILHAM ET SARA",
+    "NOM_ETABA": "مؤسسة إلهام و صارا الخصوصية",
+    "AdresseL": "patrimoine nommé ECOLE titre f",
+    "AdresseA": " ذي الرسم العقاري عدد 78/63339",
+    "COMMUNE": "Ain Attig ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C ABDERRAHIM BOUABID",
+    "NOM_ETABA": "إع. عبدالرحيم بوعبيد",
+    "AdresseL": "ROUTE DE JERRADA KM 5 bni oukil",
+    "AdresseA": " طريق جرادة، كلم 5 بني وكيل",
+    "COMMUNE": "Isly",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ELYARMOUK CENTRE",
+    "NOM_ETABA": "م/م اليرموك - المركز",
+    "AdresseL": "DOUAR ESSNAINA  COMMUNE ISLY",
+    "AdresseA": "دوار اسناينة جماعة إسلي",
+    "COMMUNE": "Isly",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI OUKIL  CENTRE",
+    "NOM_ETABA": "م/م بني وكيل - المركز",
+    "AdresseL": "ROUTE AIN BENI MATHAR ROUTE PRINCIPALE 19 KM5",
+    "AdresseA": "طريق عين بني مطهر  الطريق الرئيسية 19 كتم 5",
+    "COMMUNE": "Isly",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E KHAWARIZMI ",
+    "NOM_ETABA": "م. الخوارزمي ",
+    "AdresseL": "CASERNE DES FORCES AUXILIAIRE MOBIL 30",
+    "AdresseA": "الثكنة المخزنية المتنقلة 30",
+    "COMMUNE": "Isly",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MAHMOUD DEROUICH  CENTRE",
+    "NOM_ETABA": "م/م. محمود درويش - المركز",
+    "AdresseL": "DOUAR ESSABRA COMMUNE ISLY",
+    "AdresseA": "دوار الصابرة جماعة إسلي",
+    "COMMUNE": "Isly",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

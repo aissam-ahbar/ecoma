@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AIT MHAMED",
+    "NOM_ETABA": "ثانوية أيت امحمد الإعادية ",
+    "AdresseL": "CENTRE COMMUNE AIT MHAMED",
+    "AdresseA": " مركزجماعة أيت امحمد",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT MHAMMED",
+    "NOM_ETABA": "مركزية آيت امحمد",
+    "AdresseL": "CENTRE AIT MHAMED",
+    "AdresseA": "مركز ايت امحمد",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIGHBOULA",
+    "NOM_ETABA": "مركزية تغبولا",
+    "AdresseL": "DOUAR TIGHBOULA",
+    "AdresseA": "دوار تغبولا",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAGHBALOUT NOUTHMAN",
+    "NOM_ETABA": "مركزية تغبالوت نعثمان",
+    "AdresseL": "DOUAR TAGHBALOUT NOUATHMAN ",
+    "AdresseA": "دوار تغبالوت نعثمان",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIGHZA",
+    "NOM_ETABA": "مركزية تغزى",
+    "AdresseL": "DOUAR TIGHZA",
+    "AdresseA": "دوار تغزى ",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE BERNAT",
+    "NOM_ETABA": "مركزية برنات",
+    "AdresseL": "DOUAR BERNAT",
+    "AdresseA": "دوار برنات ",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ZAMT",
+    "NOM_ETABA": "مركزية زمط",
+    "AdresseL": "DOUAR ZAMT",
+    "AdresseA": "دوار زمط ",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SOUIT AIT OUNIR",
+    "NOM_ETABA": "مركزية سويت ايت اونير",
+    "AdresseL": "DOUAR SOUIT AIT OUNIR",
+    "AdresseA": "دوار سويت ايت اونير ",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE OUCHKOUL",
+    "NOM_ETABA": "مركزية أشكول ",
+    "AdresseL": "DOUAR OUCHKOUL",
+    "AdresseA": "دوار اشكول ",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAKOUST",
+    "NOM_ETABA": "مركزية تاكست",
+    "AdresseL": "DOUAR TAKOUST",
+    "AdresseA": "دوار تاكست ",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIT MHAMED",
+    "NOM_ETABA": "ثانوية آيت امحمد التأهيلية",
+    "AdresseL": "CENTRE AIT MHAMED",
+    "AdresseA": "أيت امحمد المركز",
+    "COMMUNE": "Ait M'Hamed",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

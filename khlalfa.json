@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHLALFA",
+    "NOM_ETABA": "ثانوية خلالفة الإعدادية",
+    "AdresseL": "COMMUNE KHLALFA CENTRE TAOUNATE",
+    "AdresseA": "مركز جماعة الخلالفة",
+    "COMMUNE": "Khlalfa",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS KHLALFA",
+    "NOM_ETABA": "م/م ا خلالفة",
+    "AdresseL": "COMMUNE KHLALFA CENTRE TAOUNATE",
+    "AdresseA": "جماعة اخلالفة المركز تاونات",
+    "COMMUNE": "Khlalfa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAOUNATE EL KCHOUR",
+    "NOM_ETABA": "م/م  تاونات القشور",
+    "AdresseL": "DOUAR TAOUNATE LAKCHOUR  COMMUNE KHLALFA TAOUNATE",
+    "AdresseA": "دوار تاونات القشور جماعة الخلالفة - تاونات",
+    "COMMUNE": "Khlalfa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MECHKOUR",
+    "NOM_ETABA": "م/م  مشكور",
+    "AdresseL": "DOUAR MECHKOUR COMMUNE KHLALFA  TAOUNATE",
+    "AdresseA": "دوار مشكور جماعة خلالفة تاونات",
+    "COMMUNE": "Khlalfa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KHLALFA",
+    "NOM_ETABA": "الثانوية التأهيلية اخلالفة",
+    "AdresseL": "COMMUNE KHLALFA",
+    "AdresseA": "جماعة خلالفة",
+    "COMMUNE": "Khlalfa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHELALFA SCHOOL",
+    "NOM_ETABA": "اخلالفة سكول الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "اخلالفة المركز -تاونات",
+    "COMMUNE": "Khlalfa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

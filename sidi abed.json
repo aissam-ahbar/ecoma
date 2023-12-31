@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI  AABED",
+    "NOM_ETABA": "ثانوية سيدي عابد الاعدادية",
+    "AdresseL": "CENTRE SIDI ABED ",
+    "AdresseA": "مركز سيدي عابد ",
+    "COMMUNE": "Sidi Abed",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SIDI MHAMED BEN DAOUD",
+    "NOM_ETABA": "م/م سيدي امحمد بن داود",
+    "AdresseL": "DOUAR LAHYAYNA ",
+    "AdresseA": "دوار الحياينة",
+    "COMMUNE": "Sidi Abed",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S KASSEM EZZOUHAIRI",
+    "NOM_ETABA": "م/م قاسم الزهيري",
+    "AdresseL": "DOUAR SKOURA ",
+    "AdresseA": "دوار السقورة",
+    "COMMUNE": "Sidi Abed",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKHRACHFA",
+    "NOM_ETABA": "م/م الخراشفة",
+    "AdresseL": "DOUAR LAKHRACHFA ",
+    "AdresseA": "دوار الخراشفة",
+    "COMMUNE": "Sidi Abed",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED BEN HAMMOU ",
+    "NOM_ETABA": " م/م أولاد بن حمو",
+    "AdresseL": "DOUAR OULED BEN HAMMOU ",
+    "AdresseA": " دوار أولاد بن حمو",
+    "COMMUNE": "Sidi Abed",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ROUAHLA",
+    "NOM_ETABA": "م/م الرواحلة",
+    "AdresseL": "DOUAR ROUAHLA",
+    "AdresseA": "دوار الرواحلة",
+    "COMMUNE": "Sidi Abed",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

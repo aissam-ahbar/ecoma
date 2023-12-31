@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MOURABITINE",
+    "NOM_ETABA": "الثانوية الإعدادية المرابطين",
+    "AdresseL": "COMMUNE EL GOURAANI",
+    "AdresseA": "جماعة الكرعاني",
+    "COMMUNE": "El Gouraani",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD ABDELLAH",
+    "NOM_ETABA": "م/م اولاد عبد الله",
+    "AdresseL": "DOUAR OULAD ABDELLAH COMMUNE GOURANI",
+    "AdresseA": "دوار اولاد عبد الله  جماعة الكرعاني",
+    "COMMUNE": "El Gouraani",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AMER",
+    "NOM_ETABA": "م/م اولاد عامر",
+    "AdresseL": "DOUAR OULAD AMER  COMMUNE GOURANI",
+    "AdresseA": "دوار أولاد عامر جماعة الكرعاني",
+    "COMMUNE": "El Gouraani",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ZAKRI",
+    "NOM_ETABA": "م/م اولاد زكري",
+    "AdresseL": "DOUAR OULAD ZAKRICOMMUNE GOURANI",
+    "AdresseA": "دوار اولاد زكري جماعة الكرعاني",
+    "COMMUNE": "El Gouraani",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

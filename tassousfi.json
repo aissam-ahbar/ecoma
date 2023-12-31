@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS MHANNED WISSAADANE",
+    "NOM_ETABA": "م.م محند وسعدان",
+    "AdresseL": "DOUAR   IMGOUNE C TASSOUSFI",
+    "AdresseA": "دوار امكون جماعة تاسوسفي",
+    "COMMUNE": "Tassousfi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TARIKTE",
+    "NOM_ETABA": "م.م تاركت",
+    "AdresseL": "DOUAR   TARIKTE C TASSOUSFI",
+    "AdresseA": "دوار تاركت جماعة تاسوسفي",
+    "COMMUNE": "Tassousfi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALHA IBN EZZOBAIR",
+    "NOM_ETABA": "م.م طلحة بن الزبير",
+    "AdresseL": "DOUAR   TILIOUA C TASSOUSFI",
+    "AdresseA": "دوارتلوا جماعة تاسوسفي",
+    "COMMUNE": "Tassousfi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

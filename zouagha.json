@@ -1,0 +1,1262 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH BNOU YASSINE",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله بن ياسين",
+    "AdresseL": "BEN SOUDA FES",
+    "AdresseA": "بنسودة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM AL BOUKHARI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام البخاري",
+    "AdresseL": "lot dalila Doha ZOUAGHA 30020",
+    "AdresseA": "تجزئة دليلة - الضحى - زواغة - 30020",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY IDRISS PREMIER",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي ادريس الأول",
+    "AdresseL": "ROUTE BEN SOUDA ZOUAGHA HAUT FES",
+    "AdresseA": "طريق بنسودة زواغة العليا",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOUMANE AL FATOUAKI",
+    "NOM_ETABA": "الثانوية الإعدادية حمان الفطواكي",
+    "AdresseL": "hay mikou ZOUAGHA BAS ALMARJA FES",
+    "AdresseA": "حي ميكو زواغة السفلى المرجة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL WIFAQ",
+    "NOM_ETABA": "الثانوية الإعدادية الوفاق",
+    "AdresseL": "HAY LALA SOUKAINA ZOUAGHA",
+    "AdresseA": "حي للا سكينة زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BNOU EL KHATTAB",
+    "NOM_ETABA": "الثانوية الإعدادية عمر بن الخطاب",
+    "AdresseL": "EL AMBRA 1 ROUTE AYNE SMEN ZOUAGHA FES",
+    "AdresseA": "حي العنبرة 1 طريق عين السمن زواغة العليا فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNOU ACHIR",
+    "NOM_ETABA": "الثانوية الإعدادية ابن عشير",
+    "AdresseL": "hay mekou merja fes",
+    "AdresseA": "حي ميكو المرجة  فاس ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABOU OUBEYDA BNOU EL JERRAH",
+    "NOM_ETABA": "الثانوية الإعدادية أبو عبيدة بن الجراح",
+    "AdresseL": "HAY EL AMAN EL MASSIRA BEN SOUDA",
+    "AdresseA": "حي الأمان المسيرة بن سودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BADR",
+    "NOM_ETABA": "الثانوية الإعدادية بدر",
+    "AdresseL": "ZOUAGHA BAS FES",
+    "AdresseA": "زواغة السفلى فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL Mohammed zafzaf",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الزفزاف",
+    "AdresseL": "zahrat al madaine 1 route ain chkef  Fes",
+    "AdresseA": "  زهـرة المدائن 1 طريق عين الشقف فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL FARAH",
+    "NOM_ETABA": "الثانوية الإعدادية الفرح",
+    "AdresseL": "zouagha",
+    "AdresseA": "زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL HOUDA",
+    "NOM_ETABA": "الثانوية الإعدادية الهدى",
+    "AdresseL": "lot yassmine almassira zouagha ",
+    "AdresseA": "تجزئة ياسمين المسيرة زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ADARISSA",
+    "NOM_ETABA": "الثانوية الإعدادية الأدارسة",
+    "AdresseL": "rue mohamed  lfassi  route ain chkaf zouagha ",
+    "AdresseA": "شارع محمد الفاسي  طريق عين الشقف   زواغة  ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL NASSIM",
+    "NOM_ETABA": "الثانوية الإعدادية النسيم",
+    "AdresseL": "lotissement basma hay elmasira bensouda",
+    "AdresseA": "تجزئة البسمة حي المسيرة بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL JAWAHIR",
+    "NOM_ETABA": "الثانوية الإعدادية الجواهر",
+    "AdresseL": "zouagha",
+    "AdresseA": "زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MASSIRA",
+    "NOM_ETABA": "المدرسة الابتدائية المسيرة",
+    "AdresseL": "HAY ArrachidiA ROUTE AINE CHKAF FES",
+    "AdresseA": "حي االراشيدية  طريق عين الشقف",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAMZA BNO ABDELMOTTALIB",
+    "NOM_ETABA": "المدرسة الابتدائية حمزة بن عبد المطلب",
+    "AdresseL": "KM3 ZOUAGHA HAUT FES",
+    "AdresseA": "كلم 3 زواغة العليا",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN BNO TABIT",
+    "NOM_ETABA": "المدرسة الابتدائية حسان بن ثابت",
+    "AdresseL": "KM3 ZOUAGHA HAUT ROUTE BEN SOUDA FES",
+    "AdresseA": "كلم 3 زواغة العليا بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAME MOUSLIME",
+    "NOM_ETABA": "المدرسة الابتدائية إمام مسلم",
+    "AdresseL": "HAY AL WIFAK ZOUAGHA HAUT ROUTE AINE SMANE FES",
+    "AdresseA": "حي الوفاق زواغة العليا طريق عين السمن",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JAMAL EDDINE AL AFGHANI",
+    "NOM_ETABA": "المدرسة الابتدائية جمال الدين الأفغاني",
+    "AdresseL": "KM3 ZOUAGHA HAUT BEN SOUDA FES",
+    "AdresseA": "كلم 3 زواغة العليا بنسودة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BNOU SINAE",
+    "NOM_ETABA": "المدرسة الابتدائية ابن سينا",
+    "AdresseL": "ZOUAGHA BAS ALMARJA ROUTE BEN SOUDA FES",
+    "AdresseA": "زواغة السفلى المرجة حي بنسودة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAHID MOHAMED BEN AHMED EL HAYANI",
+    "NOM_ETABA": "المدرسة الابتدائية الشهيد محمد بن احمد الحياني",
+    "AdresseL": "ZOUAGHA BAS AL MARJA ROUTE BEN SOUDA FES",
+    "AdresseA": "زواغة السفلى المرجة طريق بنسودة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN TAYMIYA",
+    "NOM_ETABA": "المدرسة الابتدائية ابن تيمية",
+    "AdresseL": "BEN SOUDA FES",
+    "AdresseA": "بنسودة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FARABI",
+    "NOM_ETABA": "المدرسة الابتدائية الفرابي",
+    "AdresseL": "HAY PAM BEN SOUDA FES",
+    "AdresseA": "حي بام بنسودة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL HOUCINE EL FILALI",
+    "NOM_ETABA": "المدرسة الابتدائية الحسين الفيلالي",
+    "AdresseL": "HAY ELWAHDA  BENSOUDA  FES",
+    "AdresseA": "حي الوحدة بنسودة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAMS EDDINE MAQDISSI",
+    "NOM_ETABA": "المدرسة الابتدائية شمس الدين المقدسي",
+    "AdresseL": "BEN SOUDA FES",
+    "AdresseA": "بنسودة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED ABED JABRI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد عابد الجابري",
+    "AdresseL": "HAY AL MASSIRA BEN SOUDA FES",
+    "AdresseA": "حي المسيرة بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FAKHRDINE ARRAZI",
+    "NOM_ETABA": "المدرسة الابتدائية فخر الدين الرازي",
+    "AdresseL": "HAY AL WIFAK ZOUAGHA HAUT ROUTE AINE SMANE FES",
+    "AdresseA": "حي الوفاق زواغة العليا طريق عين السمن",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MHAMMED BOUSSAID ATTILMSANI",
+    "NOM_ETABA": "المدرسة الابتدائية امحمد بوسعيد التلمساني",
+    "AdresseL": "HAY AL WIFAK ZOUAGHA HAUT ROUTE AIN SMAN FES",
+    "AdresseA": "حي الوفاق زواغة العليا طريق عين السمن",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNE BATOUTA",
+    "NOM_ETABA": " المدرسة الابتدائية ابن بطوطة",
+    "AdresseL": "ROUTE RAS ALMAE  km 7 BEN SOUDA FES",
+    "AdresseA": "كلم 7 طريق رأس الماء بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL ARAK",
+    "NOM_ETABA": "المدرسة الابتدائية الأرك",
+    "AdresseL": "hay mikou zouagha bas",
+    "AdresseA": "حي ميكو زواغة السفلى",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL WYAM",
+    "NOM_ETABA": "المدرسة الابتدائية الوئام",
+    "AdresseL": "HAY ENNASSIM MASSIRA BEN SOUDA",
+    "AdresseA": "حي النسيم المسيرة بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MANSOUR DAHBI",
+    "NOM_ETABA": "المدرسة الابتدائية المنصور الذهبي",
+    "AdresseL": "POLE DE DEVELOPPEMENT nassim BEN SOUDA",
+    "AdresseA": "قطب التنمية النسيم بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU BAKRE SEDDIK",
+    "NOM_ETABA": "المدرسة الابتدائية أبو بكر الصديق",
+    "AdresseL": "HAY MASSIRA BEN SOUDA  FES",
+    "AdresseA": "قطب التنمية بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL KHAWARIZMI",
+    "NOM_ETABA": "المدرسة الابتدائية الخوارزمي",
+    "AdresseL": "HAY PAM BEN SOUDA COMMUNE ZOUAGHA",
+    "AdresseA": "حي بام بنسودة جماعة زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOATAMID BNOU ABBAD",
+    "NOM_ETABA": "المدرسة الابتدائية المعتمد بن عباد",
+    "AdresseL": "Quartier NaSSIM R BASMA massira FES",
+    "AdresseA": "حي النسيم تجزئة البسمة المسيرة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALI BNOU ABI TALEB",
+    "NOM_ETABA": "المدرسة الابتدائية علي ابن أبي طالب",
+    "AdresseL": "zouagha",
+    "AdresseA": "زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI CHOUAYBE ADOUKKALI",
+    "NOM_ETABA": "المدرسة الابتدائية ابي شعيب الدكالي ",
+    "AdresseL": "zouagha haute acote de la mosquee salah eddine ayy",
+    "AdresseA": "زواغة العليا قرب مسجد صلاح الدين الايوبي",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  GHOSN ALZAITOUN",
+    "NOM_ETABA": "المدرسة الابتدائية غصن الزيتون",
+    "AdresseL": "ROUTE AIN CHKEF ZOUAGHA FES",
+    "AdresseA": "طريق عين الشقف زواغة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KAAB BNOU ZOUHAYR",
+    "NOM_ETABA": "المدرسة الابتدائية كعب بن زهير",
+    "AdresseL": "hay jdid zouagha",
+    "AdresseA": "حي الجديد زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LHAJ ELHADI TAJMOUATI ",
+    "NOM_ETABA": "الحاج الهادي التاجموعتي الابتدائية",
+    "AdresseL": "Zougha",
+    "AdresseA": "زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LALLA SALMA",
+    "NOM_ETABA": "المدرسة الابتدائية للا سلمى",
+    "AdresseL": "doha zouagha",
+    "AdresseA": "الضحى مقاطعة زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALKADISSIYA",
+    "NOM_ETABA": "المدرسة الابتدائية القادسية",
+    "AdresseL": "LOTISSEMENT dalila groupe DOHA zouagha SUPERIEUR F",
+    "AdresseA": "تجزئة دليلة مجموعة الضحى زواغة العليا فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FARAH ",
+    "NOM_ETABA": "المدرسة الابتدائية الفرح",
+    "AdresseL": "hay enassim",
+    "AdresseA": "حي النسيم",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ASSOUMOU",
+    "NOM_ETABA": "المدرسة الابتدائية السمو",
+    "AdresseL": "Route benssouda lotissement BARDI Lot 259B FES",
+    "AdresseA": "طريق بنسودة تجزئة بردي ، 259ب فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED EL HALOUI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الحلوي",
+    "AdresseL": "hay almassira lot alamal bensouda",
+    "AdresseA": "حي المسيرة، تجزئة الأمل، بنسودة، فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TARIK BNOU ZYAD",
+    "NOM_ETABA": "الثانوية التأهيلية طارق بن زياد",
+    "AdresseL": "Zougha",
+    "AdresseA": "شارع النصر حي الوفاق  زواغة العليا فاس",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU ALKASSIM CHABBI",
+    "NOM_ETABA": "الثانوية التأهيلية أبو القاسم الشابي",
+    "AdresseL": "zouagha",
+    "AdresseA": "زواغة",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELHACHMI FILALI",
+    "NOM_ETABA": "الثانوية التأهيلية الهاشمي الفيلالي",
+    "AdresseL": "zouagha",
+    "AdresseA": "زواغة",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BEN SOUDA ",
+    "NOM_ETABA": "الثانوية التأهيلية بنسودة",
+    "AdresseL": "lycée BEN SOUDA zouagha FES",
+    "AdresseA": "مقاطعة زواغة الدائرة 4 حي بنسودة فاس",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL HAJ EL HADI TAJMOUATI",
+    "NOM_ETABA": "الثانوية التأهيلية الحاج الهادي التجموعتي",
+    "AdresseL": "KM7 ROUTE BEN SOUDA FES",
+    "AdresseA": "كلم7 طريق بنسودة  فاس  ",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL ADARISSA",
+    "NOM_ETABA": "الثانوية التأهيلية الأدارسة",
+    "AdresseL": "Avenue Mohammed Elfassi HAY AL rrachidia ROUTE AIN",
+    "AdresseA": "شارع محمد الفاسي حي االرشيدية طريق عين الشقف فاس",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKRIM DAOUDI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الكريم الداودي",
+    "AdresseL": "HAY AL MASSIRA BEN SOUDA",
+    "AdresseA": "حي المسيرة بنسودة",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ARABI",
+    "NOM_ETABA": "الثانوية التأهيلية ابن عربي ",
+    "AdresseL": "lot my driss marja zouagha",
+    "AdresseA": "تجزئة مولاي ادريس المرجة زواغة",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKHALEK TORRES",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الخالق الطريس",
+    "AdresseL": "lalla soukaina zouagha haut",
+    "AdresseA": "للا سكينة زواغة العليا",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH LAAROUI",
+    "NOM_ETABA": "الثانوية التأهيلية عبدالله العروي",
+    "AdresseL": "lotissement el karaouyine",
+    "AdresseA": "تجزئة القرويين زواغة",
+    "COMMUNE": "Zouagha ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Zoubida",
+    "NOM_ETABA": "زبيدة",
+    "AdresseL": "LOT ENNOUZHA Route Ain Chkef",
+    "AdresseA": " تجزئة النزهة طريق عين الشقف",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oissin",
+    "NOM_ETABA": "واسين",
+    "AdresseL": "Lot N° 317 Lotissement Lalla S",
+    "AdresseA": "القطعة رقم 317 تجزئة للاسكينة ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Ahd Aljadid",
+    "NOM_ETABA": "العهد الجديد",
+    "AdresseL": "Rue 3 N° 16 Hay Rachidia Zouag",
+    "AdresseA": "زنقة 3 رقم 16 حي الراشيدية ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AZZAHRAA SOUKAYNA D'ENSEIGNEMENT",
+    "NOM_ETABA": "مجموعة مدارس الزهراء سكينة للتعليم الخصوصي",
+    "AdresseL": "N° 400 Hay Lalla Soukaina",
+    "AdresseA": "رقم 400 حي للاسكينة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZALAGH FES",
+    "NOM_ETABA": "زلاغ فاس",
+    "AdresseL": "lotis nada yasmine bensouda fe",
+    "AdresseA": "رقم 9 و 10 تجزئة ياسمين و ندى ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANOUAR AL MOUSTAKBAL",
+    "NOM_ETABA": "أنــوار الـمـسـتـقـبـل",
+    "AdresseL": "RUE  9 N° 8 Bensouda ",
+    "AdresseA": "رقــم 8 زنـقـة 9 بـنـسـودة فــ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut polyvalent hexagone",
+    "NOM_ETABA": "المعهد التربوي ايكزاكون",
+    "AdresseL": "399 HAY LALLA SOUKAYNA LOT RAD",
+    "AdresseA": "399 حي للا سكينة شارع محمد6 - ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AZHAR ESSAOUSSAn",
+    "NOM_ETABA": "ازهار  السوسن",
+    "AdresseL": "91-93bloc2hay nassim",
+    "AdresseA": "93-91حي النسيم بلوك 2  بنسودة ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ENNAJAH - BENSOUDA",
+    "NOM_ETABA": "مؤسسة النجاح -بنسودة خصوصي",
+    "AdresseL": "15 hay pam bensouda fes",
+    "AdresseA": "15 حي بام بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "abdellah Al Khayat",
+    "NOM_ETABA": "عبدالله الخياط",
+    "AdresseL": "62 BLOC C ZOUAGHA HAUT",
+    "AdresseA": "62 بلوك ج زواغة العليا",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HILILI",
+    "NOM_ETABA": "حليلي",
+    "AdresseL": "Lot. Al KARAUIEN rte aïn chkef",
+    "AdresseA": "تجزئة القرويين ،طريق عين الشقف",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kari inchtayn galili",
+    "NOM_ETABA": "كاري إنشتاين كليلي",
+    "AdresseL": "Quartier Nouzha  RTe AIN CHKEF",
+    "AdresseA": "حي النزهة طريق عين الشقف ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SIJILMASSA ALOUAHA",
+    "NOM_ETABA": "سجلماسة الواحة",
+    "AdresseL": "23A LOT COMMUNAL RUE 10 BENSOU",
+    "AdresseA": "23a التحزئة الجماعية بنسودة فا",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al mawahib",
+    "NOM_ETABA": "المواهب",
+    "AdresseL": "N° 11 Lot Bab atlas 2 Merja",
+    "AdresseA": "رقم 11 تجزئة باب الأطلس 2 المر",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almouadaba",
+    "NOM_ETABA": "المواظبة",
+    "AdresseL": "RCE Riad Al yasmine lot my dri",
+    "AdresseA": "إقامة رياض الياسمين   تجزئة مو",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "campus educatif lavoisier",
+    "NOM_ETABA": "المركب التربوي لافوازيي",
+    "AdresseL": "E 85 Lotissement al karawiyine",
+    "AdresseA": "تجزئة القرويين، طريق عين الشقف",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les amandiers",
+    "NOM_ETABA": "ليزامنديي",
+    "AdresseL": "",
+    "AdresseA": "شارع محمد السادس تجزئة المحمدي",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "dalila",
+    "NOM_ETABA": "دليلة ",
+    "AdresseL": "38 hay Alfath Zouagha",
+    "AdresseA": "38 حي الفتح ازواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "galaxie des sciences",
+    "NOM_ETABA": "كلاكسي دي سيانس",
+    "AdresseL": "81 lot massara berdrlla route ",
+    "AdresseA": "     رقم 81 تجزئة مسرى بردلة ط",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GOLDEN PEN SCHOOL",
+    "NOM_ETABA": "كولدن بين سكول",
+    "AdresseL": "lot radeef lalla soukaina n 37",
+    "AdresseA": "رقم 375 تجزئة radeefللاسكينة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lamiae",
+    "NOM_ETABA": "لمياء",
+    "AdresseL": "n 48 et 50 lot riad zaytoun ro",
+    "AdresseA": "رقم 48 و50 تجزئة رياض الزيتون ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FARAH",
+    "NOM_ETABA": "فرح",
+    "AdresseL": "lot farah n 11 zouagha bensoud",
+    "AdresseA": "تجزئة الفرح رقم 11 زواغة بنسود",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNACHE AUSSALEH",
+    "NOM_ETABA": "النشئ الصالح",
+    "AdresseL": "I 59 Lot bassma / annassime , ",
+    "AdresseA": "إ 59 تجزئة بسمة النسيم القطب ا",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAJAR",
+    "NOM_ETABA": "هاجر",
+    "AdresseL": "114lot karaouyen route ain chk",
+    "AdresseA": "114,تجزئة القرويين طريق عين ال",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hamilton",
+    "NOM_ETABA": "هاملتون",
+    "AdresseL": "lot ader n115KARAOUIN route ai",
+    "AdresseA": "تجزئة لادير القرويين قطعة 115 ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROUSSEAU",
+    "NOM_ETABA": "روسو",
+    "AdresseL": "lot. nassr n 8 hay griou zouag",
+    "AdresseA": "رقم  8 تجزئة النصر حي كريو زوا",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BASSATINE",
+    "NOM_ETABA": "البساتين",
+    "AdresseL": "lot moulay idress zouagha souf",
+    "AdresseA": "تجزئة مولاي ادريس زواغة السفلى",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement moussa d enseignement emep",
+    "NOM_ETABA": "مؤسسة موسى للتعليم الخصوصي",
+    "AdresseL": "BOULEVARD mohammed 6 lot taiba",
+    "AdresseA": "شارع محمد السادس تجزئة طيبة قط",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole lachhabe",
+    "NOM_ETABA": "مؤسسة لشهب الخصوصية",
+    "AdresseL": "N 52 LOT lamiae BENSOUDA",
+    "AdresseA": "رقم 52 تجزئة لمياء بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire les saisons",
+    "NOM_ETABA": "مجموعة مدارس ليسيزون الخصوصية",
+    "AdresseL": "n 7 lot farah bensouda fes",
+    "AdresseA": "رقم 7 حي الفرح المسيرة بن سودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement scolaire al faouz",
+    "NOM_ETABA": "مؤسسة الفوز الخصوصية",
+    "AdresseL": "Lotissement al anbra (s3 -24c)",
+    "AdresseA": "تجزئة العنبرة رقم س 3، س24",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DIAMANT BLANC",
+    "NOM_ETABA": "مجموعة مدارس الجوهرة البيضاء الخصوصية",
+    "AdresseL": "lot janat zaytoun bensouda",
+    "AdresseA": "تجزئة جنة الزيتون رقم 33 بنسود",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FAJER EL AMANI",
+    "NOM_ETABA": "فجر الأماني",
+    "AdresseL": "16 lot el wifak rue ain smen f",
+    "AdresseA": "تجزئة الوفاق طريق عين السمن رق",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BAMBOU",
+    "NOM_ETABA": "إيكول بامبو الخصوصية",
+    "AdresseL": "n 78,rOUTE AINCHKEF.FES",
+    "AdresseA": "طريق عين الشقف تجزئة الرياض رق",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire markaz al Maarifa",
+    "NOM_ETABA": "مجموعة مدارس مركز المعرفة",
+    "AdresseL": "quARTIER SIDi EL HADI RESIDENC",
+    "AdresseA": "حي سيد الهادي إقامة النور 3 زو",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "best school",
+    "NOM_ETABA": "بيست سكول",
+    "AdresseL": "227LOTISSEMENT SAID BENCHAKERO",
+    "AdresseA": "تجزئة سعيد بن شقرون رقم 27 بنس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la victoire",
+    "NOM_ETABA": "لافيكتوار",
+    "AdresseL": "n 85-86-87-88 lot messra rue a",
+    "AdresseA": "رقم 85-88 تجزئة مسرى طريق عين ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alabawayn",
+    "NOM_ETABA": "الأبوين",
+    "AdresseL": "EC2 Quartier almostakbal hay a",
+    "AdresseA": "تجزئة المستقبل حي المسيرة القط",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lamartine",
+    "NOM_ETABA": "لامارتين الخصوصية",
+    "AdresseL": " n°28 lot karima ZOUAGHA benso",
+    "AdresseA": "القطعة رقم 28 تجزئة كريمة زواغ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "mohamEd ali m sassi",
+    "NOM_ETABA": "مؤسسة محمد علي مساسي",
+    "AdresseL": "N° 176-177-178 Lotissement Al ",
+    "AdresseA": "رقم القطع 176-177-178 تجزئة ال",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "best schol college",
+    "NOM_ETABA": "بيست سكول كوليج",
+    "AdresseL": "imm 15 Residance jad lot said2",
+    "AdresseA": "عمارة 15 إقامة جاد تجزئة سعيد ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SMART SCHOOL AL KAWTAR PRIVATE",
+    "NOM_ETABA": "سمارت سكول الكوثر خصوصي",
+    "AdresseL": " lotissement Californie route ",
+    "AdresseA": "تجزئة كاليفورنيا طريق عين الشق",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al qods",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "N 132 lots el ghali bensouda f",
+    "AdresseA": "القطعة 132 تجزئة الغالي بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole les hirondelles",
+    "NOM_ETABA": "لزيغونديل",
+    "AdresseL": "142 Lot basma hay el massira, ",
+    "AdresseA": "142 تجزئة بسمة بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gs rihab",
+    "NOM_ETABA": "مجموعة مدارس رحاب فاس خصوصي",
+    "AdresseL": "N a 44, a 45 lot ambra rte ain",
+    "AdresseA": "رقم أ 44 و أ45 تجزئة العنبرة ط",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BEAUTIFUL MIND",
+    "NOM_ETABA": "بيوتيفول مايند",
+    "AdresseL": "LOT MHAMDIA 60-61 ZOUAGHA FES",
+    "AdresseA": "القطع 60 و 61 تجزئة المحمدية  ",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DIAMANT BLEU",
+    "NOM_ETABA": "ديامون بلو الخصوصية",
+    "AdresseL": "N264 LOTISSEMENT TAWFIQ ZWAGHA",
+    "AdresseA": "رقم 264 تجزئة توفيق زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS NAOURAS",
+    "NOM_ETABA": "مجموعة مدارس النورس",
+    "AdresseL": "LOT MOULAY DRISS B64 marja",
+    "AdresseA": "رقم ب 64 تجزئة مولاي ادريس الم",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "adam smith",
+    "NOM_ETABA": "أدم سميث خصوصي",
+    "AdresseL": "",
+    "AdresseA": "رقم ب72 تجزئة البردعي مقاطعة ز",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement scolaire ritaj",
+    "NOM_ETABA": "مؤسسة رتاج الخصوصية",
+    "AdresseL": "lotissement anakhla hay tazi m",
+    "AdresseA": "رقم 27 تجزئة نخلة حي التازي ال",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al moustakbal",
+    "NOM_ETABA": "المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "59 تجزئة العنبرة عين السمن",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "konouz almostakbal",
+    "NOM_ETABA": "كنوز المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 103 تجزئة العنبرة 1 طريق ع",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "fettah school",
+    "NOM_ETABA": "فتاح سكول الخصوصية",
+    "AdresseL": "Lotissement chams  ZOUAGHA 68 ",
+    "AdresseA": "68 تجزئة شمس 4 زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nakhla dahabia",
+    "NOM_ETABA": "النخلة الذهبية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة البردعي رقم 58 بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES BOURGENS AL FARAH",
+    "NOM_ETABA": "بورجون الفرح",
+    "AdresseL": "NULL",
+    "AdresseA": " فاسرقم 86  إقامة الفرح بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAAYAT ETTEFLE",
+    "NOM_ETABA": "رعاية الطفل",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 1418 حي جديد زواغة فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADAE AL ILME",
+    "NOM_ETABA": "فضاء العلم",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 566 زنقة 23 الحي الجديد زو",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE SHAMS",
+    "NOM_ETABA": "شمس للتعليم الخصوصي",
+    "AdresseL": "N 21 LOT BAB ATALS BLOC C ZOUA",
+    "AdresseA": "رقم 21 تجزئة باب الأطلس 1 بلوك",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TOUYOUR ALMAGHRIB",
+    "NOM_ETABA": "طيور المغرب",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم5 زنقة 26 حي بوظهر المرجة ف",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NINOS SCHOOL ",
+    "NOM_ETABA": "نينوس سكول",
+    "AdresseL": "N 81 LOT LANIAE BENCHAKROUN BE",
+    "AdresseA": "رقم 81 تجزئة لمياء بنشقرون بنس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM ARSAT ZAYTOUN",
+    "NOM_ETABA": "براعم عرصة الزيتون",
+    "AdresseL": "IM 37 APP 1 ET 2 ARSAT ZAYTOUN",
+    "AdresseA": "العمارة 37 الشقة 1 والشقة 2 عر",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA CENTRALE D'EDUCATION",
+    "NOM_ETABA": "لسنترال",
+    "AdresseL": "LOT F6 HAY ZOHOUR3 ZOUAGHA",
+    "AdresseA": "قطعة ف6 تجزئة حي الزهور3 زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ECOLES SCIENTIFIQUES DE FESES",
+    "NOM_ETABA": "المدارس العلمية لفاس",
+    "AdresseL": "1-3 LOTIS AL WAFA RTE AIN SMEI",
+    "AdresseA": "تجزئة الوفاء طريق عين السمن",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Erasmus International School",
+    "NOM_ETABA": "مدرسة إراسموس الدولية للتعليم الخصوصي",
+    "AdresseL": "N 15-738 lot aziza zouagha",
+    "AdresseA": "رقم 15-738 تجزئة عزيزة زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire L'Initiale",
+    "NOM_ETABA": "مجموعة مدارس لينسيال الخصوصية",
+    "AdresseL": "Lot Marsa Route Ain Smen Fès",
+    "AdresseA": "تجزئة مرسا طريق عين السمن فاس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OPEN MIND",
+    "NOM_ETABA": " مؤسسة أوبن مايند",
+    "AdresseL": "",
+    "AdresseA": "رقم 92 تجزئة رابحة، مرجة زواغة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SPARTEE",
+    "NOM_ETABA": "مؤسسة اسبارطة للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 180 زنقة 11 الحي الجديد زو",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Mixte Scool",
+    "NOM_ETABA": "ميكست سكول",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 53 تجزئة محمد1 بنسودة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MATERNELLE LILYA ROSE",
+    "NOM_ETABA": "ليليا روز",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 12 تجزئة مبروكة1 عين الس",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MODERNE D ENSEIGNEMENT LE FLUX",
+    "NOM_ETABA": "مؤسسة لوفلي للتعليم الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "تجزئة أناس حي ميكو المرجة",
+    "COMMUNE": "Zouagha",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

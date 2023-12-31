@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S LAMEKHALIF",
+    "NOM_ETABA": "م.م. المخاليف",
+    "AdresseL": "DOUAR LAKHILAT LAMKHALIF",
+    "AdresseA": "دوار لكحيلات المخاليف",
+    "COMMUNE": "M'Khalif",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAMMIRAT",
+    "NOM_ETABA": "م م الميرات",
+    "AdresseL": "DOUAR LAMMIRAT LAMKHALIF",
+    "AdresseA": "دوار الميرات المخاليف",
+    "COMMUNE": "M'Khalif",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

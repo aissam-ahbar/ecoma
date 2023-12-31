@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS FOUZAR CENTRE",
+    "NOM_ETABA": "م/م فوزار المركزية",
+    "AdresseL": "FOUZAR COMMUNE SIDI BETTACHE",
+    "AdresseA": "فوزار جماعة سيدي بطاش",
+    "COMMUNE": "Sidi Bettache",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU BAJA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن باجة",
+    "AdresseL": "CENTRE SIDI BETTACHE COMMUNE SIDI BETTACHE",
+    "AdresseA": "مركز سيدي بطاش جماعة سيدي بطاش",
+    "COMMUNE": "Sidi Bettache",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

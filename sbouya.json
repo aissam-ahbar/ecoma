@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "secteur scolaire AL CHOUHADA CENTRE SBOUYA",
+    "NOM_ETABA": "مجموعة مدارس الشهداء مركزية اصبويا",
+    "AdresseL": "CENTRE COMMUNE SBOuYA",
+    "AdresseA": "مركز جماعة اسبويا",
+    "COMMUNE": "Sbouya",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire OKBA BNOU NAFIAA CENTRE TAHRMOUCH",
+    "NOM_ETABA": "مجموعة مدارس عقبة بن نافع مركزية تهرموشت",
+    "AdresseL": "DOUAR TAHRMOUCHT",
+    "AdresseA": "دوار تهرموشت",
+    "COMMUNE": "Sbouya",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire IBNOU ZAYDOUNE CENTRE ANAMER ",
+    "NOM_ETABA": "مجموعة مدارس ابن زيدون مركزية انامر",
+    "AdresseL": "DOUAR ANAMER",
+    "AdresseA": "دوار انامر",
+    "COMMUNE": "Sbouya",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire 21 AOUT CENTRE ADAY",
+    "NOM_ETABA": "مجموعة مدارس 21 غشت مركزية اداي",
+    "AdresseL": "DOUAR ADAY",
+    "AdresseA": "دوار اداي",
+    "COMMUNE": "Sbouya",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

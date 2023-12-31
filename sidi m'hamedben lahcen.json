@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SAAD IBN ABI OUAQASS",
+    "NOM_ETABA": "الثانوية الإعدادية سعد بن أبي وقاص",
+    "AdresseL": "COMMUNE SIDI MHAMED BEN LAHCEN",
+    "AdresseA": "جماعة سيدي امحمد بن لحسن",
+    "COMMUNE": "Sidi M'HamedBen Lahcen",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS GAADA",
+    "NOM_ETABA": "م/م  الكعدة",
+    "AdresseL": "GAADAROUICHIENE COMMUNE SIDIMHAMED BEN LAHCEN TISS",
+    "AdresseA": "دوار كعدة الرويشيين -جماعة سيدي محمد بن لحسن -تيسة",
+    "COMMUNE": "Sidi M'HamedBen Lahcen",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S MRIHLA",
+    "NOM_ETABA": "م/م  مر يـحلة",
+    "AdresseL": "DOUAR MRIHLA COMMUNE SIDI M HAMED BEN LAHCEN  TISS",
+    "AdresseA": "دوارامريحلة جماعة سيدي امحمد بن لحسن -تيسة",
+    "COMMUNE": "Sidi M'HamedBen Lahcen",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S BOUCHAMATE",
+    "NOM_ETABA": "م/م  بوشمات",
+    "AdresseL": "DOUAR BOUCHAMMATE COMMUNE SIDI MHAMED BEN LAHCEN",
+    "AdresseA": "دوار بوشامات -جماعة سيدي محمد بن لحسن -تيسة",
+    "COMMUNE": "Sidi M'HamedBen Lahcen",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BAB GRAOUA",
+    "NOM_ETABA": "م/م  باب كراوة",
+    "AdresseL": "DOUAR BAB GUERRAOUA COMMUNE SIDI MHAMED BEN LAHCEN",
+    "AdresseA": "دوار باب كراوة -جماعة سيدي محمد بن لحسن -تيسة",
+    "COMMUNE": "Sidi M'HamedBen Lahcen",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

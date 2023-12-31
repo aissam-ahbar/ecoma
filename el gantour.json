@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABOU BAKR ESSEDIK",
+    "NOM_ETABA": " الثانوية الإعدادية ابو بكر الصديق",
+    "AdresseL": "SIDI AHMED COMMUNE EL GANTOUR",
+    "AdresseA": "سيدي احمد- جماعة الكنتور",
+    "COMMUNE": "El Gantour",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI AHMED MIXTE",
+    "NOM_ETABA": "مدرسة سيدي احمد المختلطة",
+    "AdresseL": "VILLAGE SIDI AHMED COMMUNE EL GANTOUR",
+    "AdresseA": "سيدي احمد  جماعة الكنتور",
+    "COMMUNE": "El Gantour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL INBIAAT",
+    "NOM_ETABA": "مدرسة الانبعات",
+    "AdresseL": "SIDI AHMED COMMUNE EL GANTOUR",
+    "AdresseA": "سيدي أحمد جماعة الكنتور",
+    "COMMUNE": "El Gantour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ZAOUIAT HORMAT ALLAH",
+    "NOM_ETABA": "مركزية زاوية حرمة الله",
+    "AdresseL": "ZAOUIAT HORMAT ALLAH COMMUNE EL GANTOUR",
+    "AdresseA": "زاوية حرمة الله جماعة الكنتور",
+    "COMMUNE": "El Gantour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE OULED EL BAKRI",
+    "NOM_ETABA": "مركزية اولاد البكري",
+    "AdresseL": "DOUAR OULED EL BAKRI COMMUNE EL GANTOUR",
+    "AdresseA": "دوار اولاد البكري جماعة الكنتور",
+    "COMMUNE": "El Gantour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL ANDALOUSS",
+    "NOM_ETABA": "الثانوية التأهيلية الاندلس ",
+    "AdresseL": "SIDI AHMED CENTRE COMMUNE GUENTOUR",
+    "AdresseA": "سيدي احمد جماعة الكنتور",
+    "COMMUNE": "El Gantour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

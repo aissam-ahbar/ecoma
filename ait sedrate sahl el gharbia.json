@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Imam Mouslim",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مسلم",
+    "AdresseL": "COMMUNE AIT SEDRAT SAHL GHARBIA",
+    "AdresseA": "جماعة ايت سدرات السهل الغربية",
+    "COMMUNE": "Ait Sedrate Sahl El Gharbia",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUITE MOULAY ABDELMALEK",
+    "NOM_ETABA": "م م زاوية مولاي عبد المالك",
+    "AdresseL": "DOUAR AIT RIDI AIT SEDRAT SAHL GHARBIYA KALAA MGOU",
+    "AdresseA": "زاوية مولاي عبد المالك قلعة مكونة",
+    "COMMUNE": "Ait Sedrate Sahl El Gharbia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT GUMAT",
+    "NOM_ETABA": "م.م ايت كمات",
+    "AdresseL": "AIT GUMAT KALAAT MGOUNA tinghir",
+    "AdresseA": "ايت كمات قلعة مكونة تنغير",
+    "COMMUNE": "Ait Sedrate Sahl El Gharbia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT OUADAR",
+    "NOM_ETABA": "م.م ايت ودار",
+    "AdresseL": "AIT OUADAR KALAAT MGOUNA TINGHIR",
+    "AdresseA": "ايت ودار",
+    "COMMUNE": "Ait Sedrate Sahl El Gharbia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELKENTRA",
+    "NOM_ETABA": "م م القنطرة",
+    "AdresseL": "DOUAR ELKENTRA KALAAT MGOUNA",
+    "AdresseA": "دوار القنطرة قلعة مكونة",
+    "COMMUNE": "Ait Sedrate Sahl El Gharbia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL BOUR",
+    "NOM_ETABA": "م م البور",
+    "AdresseL": "DOUAR ELBOUR KALAAT MGOUNA",
+    "AdresseA": "دوار البور قلعة مكونة",
+    "COMMUNE": "Ait Sedrate Sahl El Gharbia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  TARIK IBN ZIAD",
+    "NOM_ETABA": "الثانوية التأهيلية طارق إبن زياد",
+    "AdresseL": "Ait sedrat SahL Elgharbia",
+    "AdresseA": "أيت سدرات السهل الغربية",
+    "COMMUNE": "Ait Sedrate Sahl El Gharbia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

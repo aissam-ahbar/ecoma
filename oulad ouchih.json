@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "OMAR IBN ELKHATTAB  OULED AMRANE CENTRE ",
+    "NOM_ETABA": "م/م عمر بن الخطاب  أولاد عمران المركزية  ",
+    "AdresseL": "DOUAR OULED OMRANE COMMUNE OULED OUCHIH",
+    "AdresseA": "دوار أولاد عمران جماعة أولاد وشيح",
+    "COMMUNE": "Oulad Ouchih",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHLIHATE CENTRE",
+    "NOM_ETABA": "م/م الشليحات  المركزية",
+    "AdresseL": "DOUAR CHLIHATE COMMUNE OULED OUCHIH",
+    "AdresseA": "دوار الشليحات جماعة أولاد أوشيح",
+    "COMMUNE": "Oulad Ouchih",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOICHTA CENTRE ",
+    "NOM_ETABA": "م/م البواشتة  المركزية",
+    "AdresseL": "DOUAR BOICHTA COMMUNE OULED OUCHIH",
+    "AdresseA": "دوار البواشتة جماعة أولاد وشيح",
+    "COMMUNE": "Oulad Ouchih",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELMALEK ESSAADI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد المالك السعدي ",
+    "AdresseL": "commune rurale oulad ouchih",
+    "AdresseA": "جماعة اولاد أوشيح",
+    "COMMUNE": "Oulad Ouchih",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

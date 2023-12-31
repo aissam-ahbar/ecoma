@@ -1,0 +1,202 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL KINDI",
+    "NOM_ETABA": "الثانوية الإعدادية الكندي",
+    "AdresseL": "rue massin hay nakhla",
+    "AdresseA": "طريق ماسين حي النخلة",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI MAKHOUKH AL JADIDA",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي مخوخ الجديدة",
+    "AdresseL": "LOT DARFOUFI EL AIOUN",
+    "AdresseA": "تجزئة الدرفوفي العيون الشرقية",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDRISS 1ER",
+    "NOM_ETABA": "الثانوية الإعدادية إدريس الأول",
+    "AdresseL": "BOULEVARDCASA BLANCA",
+    "AdresseA": "شارع الدار البيضاء",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZZARKTOUNI",
+    "NOM_ETABA": "الثانوية الإعدادية الزرقطوني",
+    "AdresseL": "rue 38 hay mohammadi",
+    "AdresseA": "زنقة 38 الحي المحمدي",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN ZOHR",
+    "NOM_ETABA": "ابن زهر",
+    "AdresseL": "13 AVENUE ALLAL BEN ABDELLAH",
+    "AdresseA": "13 شارع علال بن عبد الله",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HASSANE ALBASRI",
+    "NOM_ETABA": "الحسن البصري",
+    "AdresseL": "ROUTE DE CASABLANCA",
+    "AdresseA": "طريق الدار البيضاء",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIBAWAYH",
+    "NOM_ETABA": "سيبويه",
+    "AdresseL": "ECOLE SIBAWAIH EL AIOUN",
+    "AdresseA": "مدرسة سيبويه العيون",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNAKHIL",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "HAY ANNAKHla",
+    "AdresseA": "حي النخلة",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MATAR",
+    "NOM_ETABA": "المطار",
+    "AdresseL": "HAY HARCHA MOUMNA EL AIOUN",
+    "AdresseA": "حي حرشة مومنة العيون الشرقية",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TRIK JERADA",
+    "NOM_ETABA": "طريق جرادة",
+    "AdresseL": "ECOLE  TRIK JERADA ELAIOUN",
+    "AdresseA": "مدرسة  طريق جرادة العيون سيدي ملوك",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED BELKHIAT",
+    "NOM_ETABA": "محمد بلخياط",
+    "AdresseL": "CITE HOLCIM BP 68",
+    "AdresseA": "حي هولسيم ص. ب 68",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALI IBN ABI TALEB",
+    "NOM_ETABA": "علي بن ابي طالب",
+    "AdresseL": " HAY ASSALAM",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 18 NOVEMBRE",
+    "NOM_ETABA": "مدرسة 18 نونبر",
+    "AdresseL": "Municipalité El Aioun Sidi Mellouk",
+    "AdresseA": "بلدية العيون سيدي ملوك",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EZZAITOUNE",
+    "NOM_ETABA": "الثانوية التأهيلية الزيتون",
+    "AdresseL": "HAY ELKARIANE",
+    "AdresseA": "حي الكريان",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "route maghrib el arabi hay lakdim el aioun",
+    "AdresseA": "طريق المغرب العربي الحي القديم العيون 60450",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ESSAADIYINE",
+    "NOM_ETABA": "الثانوية التأهيلية السعديين",
+    "AdresseL": "Hay El Manzoula",
+    "AdresseA": "حي المنزولة",
+    "COMMUNE": "El Aioun Sidi Mellouk",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "EL KAOUTAR SCHOOL",
+    "NOM_ETABA": "الكوثر سكول",
+    "AdresseL": "100 LOT ESSALAM",
+    "AdresseA": "تجزئة السلام رقم 100",
+    "COMMUNE": "El Aioun Sidi Mellouk ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Raoud Najah",
+    "NOM_ETABA": "روض النجاح",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الزيتون رقم 22",
+    "COMMUNE": "El Aioun Sidi Mellouk ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rissalat al houda",
+    "NOM_ETABA": "رسالة الهدى",
+    "AdresseL": "lOT AL QODS N° 279",
+    "AdresseA": "279 تجزئة القدس العيون",
+    "COMMUNE": "El Aioun Sidi Mellouk ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMONTAZAH",
+    "NOM_ETABA": "المنتزه",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الامل  العيون سيدي ملوك",
+    "COMMUNE": "El Aioun Sidi Mellouk ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

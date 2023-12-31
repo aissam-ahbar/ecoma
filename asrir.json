@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM MALIK",
+    "NOM_ETABA": "الثانوية الإعدادية امام مالك",
+    "AdresseL": "COMMUNE ASSIR TIGHMERT CENTRE",
+    "AdresseA": "مركز تغمرت / أسرير",
+    "COMMUNE": "Asrir",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S AMROU EL ASRIRI",
+    "NOM_ETABA": "م م عمرو الاسريري",
+    "AdresseL": "ASRIR CENTRE COMMUNE ASSRIR",
+    "AdresseA": "اسرير المركز جماعة اسرير",
+    "COMMUNE": "Asrir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S CHARIF AL IDRISSI",
+    "NOM_ETABA": "م م الشريف الادريسي",
+    "AdresseL": "DOUAR TIGHMERT COMMUNE ASRIR",
+    "AdresseA": "دوار تغمرت جماعة اسرير",
+    "COMMUNE": "Asrir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S DOUBIANE",
+    "NOM_ETABA": "م م دوبيان",
+    "AdresseL": "DOUBIANE COMMUNE ASRIR",
+    "AdresseA": " دوار آيت بكو جماعة أسرير  ",
+    "COMMUNE": "Asrir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S NOUISRATE",
+    "NOM_ETABA": "م م النويصرات",
+    "AdresseL": "DOUAR NOUISRATE COMMUNE ASRIR",
+    "AdresseA": "دوار النويصرات جماعة اسرير",
+    "COMMUNE": "Asrir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALFADILA",
+    "NOM_ETABA": "الثانوية التأهيلية الفضيلة",
+    "AdresseL": "ASRIR CENTRE ",
+    "AdresseA": " مركز  أسرير",
+    "COMMUNE": "Asrir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABAID ZOHRY",
+    "NOM_ETABA": "ثانوية عبيد  الزهري التأهيلية",
+    "AdresseL": "CENTRE TIGHMERTE/ ASRIR",
+    "AdresseA": "مركزتيغمرت /أسرير ",
+    "COMMUNE": "Asrir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

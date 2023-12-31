@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "إعدادية يوسف ابن تاشفين",
+    "AdresseL": "SEFSAF CENTRE COMMUNE SEFSAF",
+    "AdresseA": "الصفصاف",
+    "COMMUNE": "Sefsaf",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SAFSAF",
+    "NOM_ETABA": "الصفصاف",
+    "AdresseL": "Commune Sefsaf",
+    "AdresseA": "جماعة الصفصاف",
+    "COMMUNE": "Sefsaf",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOUAHIDINE",
+    "NOM_ETABA": "الموحدين",
+    "AdresseL": "DOUAR OULAD YOUSSEF COMMUNE SEFSAF",
+    "AdresseA": "دوار اولاد يوسف",
+    "COMMUNE": "Sefsaf",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AZHAR",
+    "NOM_ETABA": "الأزهار",
+    "AdresseL": "DOUAR OULAD NAKKACH  COMMUNE SEFSAF",
+    "AdresseA": "اولاد النقاش جماعة الصفصاف",
+    "COMMUNE": "Sefsaf",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ALYASSMINE",
+    "NOM_ETABA": "مجموعة مدارس الياسمين",
+    "AdresseL": "DOUAR OULAD NSAR COMMUNE SEFSAF",
+    "AdresseA": "اولاد انصر",
+    "COMMUNE": "Sefsaf",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MGHITENE OUELD SLIMANE",
+    "NOM_ETABA": "امغيطن اولاد سليمان",
+    "AdresseL": "DOUAR MGHITENE OULED SLIMANE SEFSAF",
+    "AdresseA": "دوار امغيطن اولاد سليمان صفصاف",
+    "COMMUNE": "Sefsaf",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

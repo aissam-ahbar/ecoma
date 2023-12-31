@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE NOUIRATE",
+    "NOM_ETABA": "إعدادية النويرات",
+    "AdresseL": "Lycée collégial nouirat  commune nouirat",
+    "AdresseA": "الثانوية الإعدادية النويرات - جماعة النويرات",
+    "COMMUNE": "Nouirate",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL BOUHTOURI",
+    "NOM_ETABA": "البحتري",
+    "AdresseL": "NOUIRATE CENTRE COMMUNE NOUIRATE",
+    "AdresseA": "النويرات",
+    "COMMUNE": "Nouirate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ARROUMI",
+    "NOM_ETABA": "ابن الرومي",
+    "AdresseL": "DOUAR SIDI KACEM HARROUCH COMMUNE NOUIRATE",
+    "AdresseA": "دوار سيدي قاسم حروش",
+    "COMMUNE": "Nouirate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABAABCHA RMAL",
+    "NOM_ETABA": "البعابشة الرمل",
+    "AdresseL": "DOUAR LABAABCHA RMAL  COMMUNE NOUIRATE",
+    "AdresseA": "البعابشة الرمل",
+    "COMMUNE": "Nouirate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZHIR JNANAT",
+    "NOM_ETABA": "ازهير اجنانات",
+    "AdresseL": "DOUAR ZHIR JNANAT  COMMUNE NOUIRATE",
+    "AdresseA": "دوار ازهير اجنانات جماعة انويرات",
+    "COMMUNE": "Nouirate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOUIRAT HASSOUNE",
+    "NOM_ETABA": "النويرات حسون",
+    "AdresseL": "COOPERATIVE NOUIRATE HASSOUNE COMMUNE NOUIRATE",
+    "AdresseA": "تعاونية النويرات حسون جماعة النويرات",
+    "COMMUNE": "Nouirate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

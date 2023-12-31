@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULAD MSABBEL",
+    "NOM_ETABA": "ثانوية اولاد امسبل الإعدادية",
+    "AdresseL": "COMMUNE OULED MSABEL",
+    "AdresseA": "جماعة اولاد امسبل",
+    "COMMUNE": "Oulad Msabbel",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD MSEBEL CENTRE",
+    "NOM_ETABA": "اولاد امسبل المركزية",
+    "AdresseL": "DOUAR OULED MSEBEL COMMUNE OULED MSABBEL",
+    "AdresseA": "دوار اولاد امسبل",
+    "COMMUNE": "Oulad Msabbel",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

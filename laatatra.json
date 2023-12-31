@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "BOUHMAME",
+    "NOM_ETABA": "بوحمام",
+    "AdresseL": "DOUAR CHLOUHA COMMUNE LAATATRA",
+    "AdresseA": "دوار الشلوحة جماعة لعطاطرة",
+    "COMMUNE": "Laatatra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAATATRA",
+    "NOM_ETABA": "العطاطرة",
+    "AdresseL": "DOUAR LAATATRA COMMUNE LAATATRA",
+    "AdresseA": "دوار العطاطرة جماعة العطاطرة",
+    "COMMUNE": "Laatatra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED TALEB",
+    "NOM_ETABA": "اولاد الطالب",
+    "AdresseL": "DOUAR LAAMAMRA COMMUNE LAATATRA",
+    "AdresseA": "دوار العمامرة جماعة العطاطرة",
+    "COMMUNE": "Laatatra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "mbareka",
+    "NOM_ETABA": "مباركة",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار الفيض جماعة العطاطرة",
+    "COMMUNE": "Laatatra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

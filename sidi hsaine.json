@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS ZAAFRAN",
+    "NOM_ETABA": "م.م الزعفران",
+    "AdresseL": "DOUAR   IGHRI  COMMUNE SIDI HSAIN TALIOUINE",
+    "AdresseA": "دوار إغري سيدى احساين",
+    "COMMUNE": "Sidi Hsaine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAREK IBN ZIYAD",
+    "NOM_ETABA": "م.م طارق ابن زياد",
+    "AdresseL": "DOUAR   TASGA C SIDI HSAINE",
+    "AdresseA": "د. تاسكا",
+    "COMMUNE": "Sidi Hsaine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMGHID",
+    "NOM_ETABA": "م.م إمغيض",
+    "AdresseL": "DOUAR   IMGHID  C SIDI HSAINE",
+    "AdresseA": "جماعة سيدى احساين",
+    "COMMUNE": "Sidi Hsaine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUHOUD",
+    "NOM_ETABA": "الثانوية التأهيلية أحد",
+    "AdresseL": "COMMUNE SIDI HSAINE",
+    "AdresseA": "جماعة سيدي احساين",
+    "COMMUNE": "Sidi Hsaine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial AHMED BEN CHEKROUN",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد بن شقرون",
+    "AdresseL": "COMMUNE  OUAD JDIDA",
+    "AdresseA": "وادي الجديدة",
+    "COMMUNE": "Oued Jdida",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUED JDIDA",
+    "NOM_ETABA": "وادي الجديدة",
+    "AdresseL": "COMMUNE OUED JDIDA",
+    "AdresseA": "جماعة واد الجديدة",
+    "COMMUNE": "Oued Jdida",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR LKAID SID CHIKH",
+    "NOM_ETABA": "دار القايد سيدي الشيخ",
+    "AdresseL": "DOUAR OULAD ZIYAN DOUIMNIE  COMMUNE OUED JDIDA",
+    "AdresseA": "دوار أولاد زيان دويمنيع",
+    "COMMUNE": "Oued Jdida",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKDADRA",
+    "NOM_ETABA": "القدارة المركز",
+    "AdresseL": "DOUAR LAKDADRA COMMUNE OUAD JADIDA",
+    "AdresseA": "دوار القدارة جماعة واد الجديدة",
+    "COMMUNE": "Oued Jdida",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NWAJI",
+    "NOM_ETABA": "النواجي المركز",
+    "AdresseL": "DOUAR NWAJI COMMUNE OUED JDIDA",
+    "AdresseA": "دوار النواجي جماعة واد الجديدة",
+    "COMMUNE": "Oued Jdida",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

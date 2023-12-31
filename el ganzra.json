@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "MOHAMED ALQORRI",
+    "NOM_ETABA": "محمد القري",
+    "AdresseL": "COMMUNE EL GANZRA",
+    "AdresseA": "الكنزرة ج الكنزرة",
+    "COMMUNE": "El Ganzra",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SAD GANZRA",
+    "NOM_ETABA": "سد القنصرة",
+    "AdresseL": "QARIAT ALGANZRA COMMUNE GANZRA",
+    "AdresseA": "دوار القنصرة جماعة الكنزرة",
+    "COMMUNE": "El Ganzra",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BERRIMA",
+    "NOM_ETABA": "بريمة",
+    "AdresseL": "DOUAR AIT AACHOUR BNI OUNZAR COMMUNE GANZRA",
+    "AdresseA": "د ايت عاشور بني ونزارج القنصرة",
+    "COMMUNE": "El Ganzra",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RMAL",
+    "NOM_ETABA": "الرمل",
+    "AdresseL": "DOUAR RMAL COMMUNE GANZRA",
+    "AdresseA": "دوار الرمل ج القنصرة",
+    "COMMUNE": "El Ganzra",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRACHIDIA",
+    "NOM_ETABA": "الرشيدية",
+    "AdresseL": "DOUAR AIT KOURANE COMMUNE GANZRA",
+    "AdresseA": "د ايت قوران ج القنصرة",
+    "COMMUNE": "El Ganzra",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

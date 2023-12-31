@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS IMZILENE",
+    "NOM_ETABA": "م.م امزيلن",
+    "AdresseL": "DOUAR ikharchicha  COMMUNE MHAJER",
+    "AdresseA": "دوار اخرشيشا جماعة امهاجر",
+    "COMMUNE": "M'Hajer",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAASSARA",
+    "NOM_ETABA": "م/م لعسارة",
+    "AdresseL": "DOUAR LAASSARA  COMMUNE MHAJER",
+    "AdresseA": "دوار لعسارة جماعة امهاجر",
+    "COMMUNE": "M'Hajer",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SOUK AL AHAD",
+    "NOM_ETABA": "م م سوق الاحد",
+    "AdresseL": "DOUAR BNI OLICHEK COMMUNE  MHAJER",
+    "AdresseA": "دوار بني ويشك جماعة امهاجر",
+    "COMMUNE": "M'Hajer",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

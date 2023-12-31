@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL JEBHA",
+    "NOM_ETABA": "الثانوية الاعدادية الجبهة",
+    "AdresseL": "JEBHA CENTRE CHEFCHAOUEN",
+    "AdresseA": "الجبهة المركز إقليم شفشاون",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALI MTIOUI AL JEBHA",
+    "NOM_ETABA": "مدرسة  علي المتيوي _الجبهة",
+    "AdresseL": "AL JEBHACMTIOUACHEFCHAOUEN",
+    "AdresseA": "الجبهة جماعة متيوة",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL KAWARINE",
+    "NOM_ETABA": "م/م القوارين",
+    "AdresseL": "DOUAR AL KAWARINECMTIOUACHEFCHAOUEN",
+    "AdresseA": "دوار القوارين جماعة متيوة",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HADI AMAGHOUS TAGMOUT",
+    "NOM_ETABA": "م/م الهادي امغوس _تكموت",
+    "AdresseL": "DOUAR TAGMOUT C M TIOUA CHEFCHAOUEN",
+    "AdresseA": "دوار تكموت جماعة متيوة",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  IBNRAHIM ROUDANI BOUHNIN",
+    "NOM_ETABA": "م/م إبراهيم الروداني - بوحنين",
+    "AdresseL": "DOUAR BOUHNINCMTIOUACHEFCHAOUEN",
+    "AdresseA": "دوار بوحنين جماعة متيوة",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUELMSA",
+    "NOM_ETABA": "م/م ولمسة",
+    "AdresseL": "DOUAR OUELMSACMTIOUACHEFCHAOUEN",
+    "AdresseA": "دوار ولمسة جماعة متيوة",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGHERMALEK",
+    "NOM_ETABA": "م/م أغرمالك",
+    "AdresseL": "DOUAR AGHERMALEK  CRMTIOUA",
+    "AdresseA": "دوار أغرمالك جماعة متيوة",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MTIOUA",
+    "NOM_ETABA": "الثانوية التأهيلية امتيوة",
+    "AdresseL": "CENTRE DE LA COMMUNE  MTIOUA",
+    "AdresseA": "مركز الجماعة امتيوة",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KADI AYAD",
+    "NOM_ETABA": "الثانوية التأهيلية القاضي عياض",
+    "AdresseL": " JEBHA C MTIOUA ",
+    "AdresseA": "الجبهة جماعة متيوة",
+    "COMMUNE": "M'tioua",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

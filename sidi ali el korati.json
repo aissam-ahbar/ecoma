@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S SIDI ALI LAKRATI",
+    "NOM_ETABA": " م م سيدي علي الكرلتي",
+    "AdresseL": "TOLATAA SIDI ALI LAKRATI SIDI ALI LAKRATI",
+    "AdresseA": "سيدي علي الكراتي المركز",
+    "COMMUNE": "Sidi Ali El Korati",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULAD ABDELHLIM",
+    "NOM_ETABA": "م م اولاد عبد الحليم",
+    "AdresseL": "DOUAR OULAD ABDELHALIM SIDI ALI LAKRATI",
+    "AdresseA": "دوار اولاد  عبد الحليم سيدي علي الكراتي",
+    "COMMUNE": "Sidi Ali El Korati",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AHL JEMAA",
+    "NOM_ETABA": "م م اهل الجمعة",
+    "AdresseL": "DOUAR AHL JEMAA SIDI ALI el korati",
+    "AdresseA": "دوار اهل الجمعة",
+    "COMMUNE": "Sidi Ali El Korati",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S AMESKARKID",
+    "NOM_ETABA": "م م امسكركيد",
+    "AdresseL": "DOUAR AMESKARKID TAHELOUANTE",
+    "AdresseA": "دوار امسكركيد جماعة تهلوانت",
+    "COMMUNE": "Tahelouante",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ABDERAHMAN DAKHIL",
+    "NOM_ETABA": "م م عبد الرحمان الداخل",
+    "AdresseL": "DOUAR IGUI NTAMA COMMUNE TAHELOUANTE",
+    "AdresseA": "دوار إكي نتما تهلوانت",
+    "COMMUNE": "Tahelouante",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

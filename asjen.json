@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "SS Abdellah Guennoun",
+    "NOM_ETABA": "مجموعة مدارس عبد الله كنون",
+    "AdresseL": "DOUAR BOUALLOUN C ASJENOUEZZANE",
+    "AdresseA": "دوار بوعلون جماعة اسجن",
+    "COMMUNE": "Asjen",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED IBN BATOUTA",
+    "NOM_ETABA": "م/م محمد بن بطوطة",
+    "AdresseL": "DOUAR ZAITOUNA ASJEN OUEZZANE",
+    "AdresseA": "دوار الزيتونة جماعة أسجن",
+    "COMMUNE": "Asjen",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMEZZOU",
+    "NOM_ETABA": "م م أمزو",
+    "AdresseL": " AMEZZOU  ASJEN ouazzane ",
+    "AdresseA": "دوار أمزو جماعةأسجن ",
+    "COMMUNE": "Asjen",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALA",
+    "NOM_ETABA": "م/م تالة",
+    "AdresseL": "DOUAR TALA COMMUNE ASJEN OUEZZANE",
+    "AdresseA": "دوار تالة جماعة أسجن وزان",
+    "COMMUNE": "Asjen",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " Ecole Abdelhadi Boutaleb",
+    "NOM_ETABA": "مدرسة عبد الهادي بوطالب",
+    "AdresseL": "ASJENCASJENOUEZZANE",
+    "AdresseA": "د-أسجن جماعة أسجن -عمالة وزان",
+    "COMMUNE": "Asjen",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Zaynab Nefzaouia",
+    "NOM_ETABA": "مجموعة زينب النفزاوية",
+    "AdresseL": "DOUAR LAGHOUIBA COMMUNE ASJEN   ouezzane",
+    "AdresseA": "الغويبة جماعة أسجن",
+    "COMMUNE": "Asjen",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S Abdellah Guennoun",
+    "NOM_ETABA": "مجموعة مدارس عبد الله كنون",
+    "AdresseL": "DOUAR ALBAAGINE COMMUNE ASJEN OUEZZANE",
+    "AdresseA": "دوار البعلجين جماعة اسجن",
+    "COMMUNE": "Asjen",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT IBN ROUCHD",
+    "NOM_ETABA": "التانوية الثأهيلية ابن رشد",
+    "AdresseL": "centre Asjen province ouezzane",
+    "AdresseA": "مركز أسجن جماعة اسجن",
+    "COMMUNE": "Asjen",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

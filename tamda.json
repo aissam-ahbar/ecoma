@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "TAMDA",
+    "NOM_ETABA": "تامدة",
+    "AdresseL": "DOUAR EL OUADDATE COMMUNE TAMDA",
+    "AdresseA": "دوار الودات تامدة",
+    "COMMUNE": "Tamda",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED JERRARE",
+    "NOM_ETABA": "اولاد جرار",
+    "AdresseL": "DOUAR OULED JERRARE COMMUNE TAMDA",
+    "AdresseA": "دوار الرويس اولادجرار جماعة تامدة",
+    "COMMUNE": "Tamda",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

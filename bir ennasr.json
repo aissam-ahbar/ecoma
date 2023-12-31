@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S/S BIR ENNASRE CENTRE",
+    "NOM_ETABA": "م/م بئر النصر المركزية",
+    "AdresseL": "CENTRE BIR ENNASR COMMUNE BIR ENNASR",
+    "AdresseA": "مركز بئر النصر جماعة بئر النصر",
+    "COMMUNE": "Bir Ennasr",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S SIDI MOUSSA CENTRE",
+    "NOM_ETABA": "م/م سيدي موسى المركزية",
+    "AdresseL": "DOUAR SIDI MOUSSA COMMUNE BIR ENNASR",
+    "AdresseA": "دوار سيدي موسى جماعة بئر النصر",
+    "COMMUNE": "Bir Ennasr",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S BIR EL MEKKI CENTRE",
+    "NOM_ETABA": "م/م  بئر المكي  المركزية",
+    "AdresseL": "DOUAR OULED CHMICHA BIR NASR",
+    "AdresseA": "دوار أولاد اشميشة جماعة بئر النصر",
+    "COMMUNE": "Bir Ennasr",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

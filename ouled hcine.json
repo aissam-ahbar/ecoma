@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL IBN BAJA",
+    "NOM_ETABA": "ثانوية ابن باجة الاعدادية",
+    "AdresseL": "centre OULeD HcINE",
+    "AdresseA": "مركز أولاد احسين",
+    "COMMUNE": "Ouled Hcine",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S OULED HSSINE",
+    "NOM_ETABA": "م/م أولاد احسين",
+    "AdresseL": "DOUAR SEBT DOUIB ",
+    "AdresseA": "دوار سبت الدويب",
+    "COMMUNE": "Ouled Hcine",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S MANFALOUTI",
+    "NOM_ETABA": "م/م المنفلوطي",
+    "AdresseL": "DOUAR LABBITATE",
+    "AdresseA": "دوار البيتات  ",
+    "COMMUNE": "Ouled Hcine",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ETTOUAJNA",
+    "NOM_ETABA": "م/م الطواجنة",
+    "AdresseL": "DOUARE TOUAJNA ",
+    "AdresseA": "دوار الطواجنة",
+    "COMMUNE": "Ouled Hcine",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S DAR BEL GUENDOULIA",
+    "NOM_ETABA": "م/م دار بلكندولية",
+    "AdresseL": "DOUAR OULED SMAIL",
+    "AdresseA": " دوار أولاد اسماعيل ",
+    "COMMUNE": "Ouled Hcine",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ALI ESBAYTI",
+    "NOM_ETABA": "م/م علي السبيطي",
+    "AdresseL": "DOUAR KADI ECHAJRA ",
+    "AdresseA": "دوار قاضي الشجرة",
+    "COMMUNE": "Ouled Hcine",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAMAACHATE",
+    "NOM_ETABA": "م/م المعاشات",
+    "AdresseL": "DOUAR LAMAACHATE ",
+    "AdresseA": "دوار المعاشات",
+    "COMMUNE": "Ouled Hcine",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OMAR MOKHTAR",
+    "NOM_ETABA": "ثانوية عمر المختار التاهيلية",
+    "AdresseL": "Centre Ouled Hcine",
+    "AdresseA": "مركز أولاد احسين",
+    "COMMUNE": "Ouled Hcine",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

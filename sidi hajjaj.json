@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI HAJJAJ",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي حجاج",
+    "AdresseL": "Sidi Hajjaj",
+    "AdresseA": "سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD NACER CENTRE",
+    "NOM_ETABA": "مركزية اولاد ناصر",
+    "AdresseL": "oulad nacer COMMUNE SIDI HEJJAJ",
+    "AdresseA": "اولاد ناصر جماعة سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI HAJJAJ LAQDIM CENTRE",
+    "NOM_ETABA": "مركزية سيدي حجاج القديم",
+    "AdresseL": "SIDI HEJJAJ laqdim",
+    "AdresseA": "سيدي حجاج القديم",
+    "COMMUNE": "Sidi Hajjaj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABIOUD CENTRE",
+    "NOM_ETABA": "مركزية البيوض",
+    "AdresseL": "DOUAR LABIOUD COMMUNE SIDI HEJJAJ",
+    "AdresseA": "دوار البيوض جماعة سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUZID CENTRE",
+    "NOM_ETABA": "مركزية اولاد بوزيد",
+    "AdresseL": "DOUAR OULAD BOUZID COMMUNE SIDI HEJJAJ",
+    "AdresseA": "دوار اولاد بوزيد جماعة سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Nour Oulad Mrahe",
+    "NOM_ETABA": "نور أولاد امراح الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "دوار الحمري جماعة سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

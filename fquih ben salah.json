@@ -1,0 +1,742 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IBNOU KHALDOUNE",
+    "NOM_ETABA": "ثانوية ابن خلدون الإعدادية",
+    "AdresseL": "HAY JAMILA FQUIH BEN SALAH",
+    "AdresseA": "حي جميلة الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE 2 MARS",
+    "NOM_ETABA": "ثانوية 2 مارس الإعدادية",
+    "AdresseL": "HAY EL KAWASSEM FQUIH BEN SALAH",
+    "AdresseA": "حي القواسم الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE IBN ALKHATIB",
+    "NOM_ETABA": "ثانوية ابن الخطيب الإعدادية",
+    "AdresseL": "hay raja FKIH BEN SALAH",
+    "AdresseA": "حي الرجاء الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH RAJII",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله راجع",
+    "AdresseL": "Fquih Ben Salah Mun",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE OTHMAN BNO AFFAN",
+    "NOM_ETABA": "إعدادية عثمان بن عفان",
+    "AdresseL": "Quartier lmamounia FKIH BEN SALAH",
+    "AdresseA": "حي المامونية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL IMAM MALEK",
+    "NOM_ETABA": "م الإمام مالك",
+    "AdresseL": "HAY SAADA FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZERKTOUNI",
+    "NOM_ETABA": "م الزرقطوني",
+    "AdresseL": "RUE MY DRISS FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKOUACEM",
+    "NOM_ETABA": "م القواسم",
+    "AdresseL": "HAY LAKOUCEM FQUIH BEN SALAH",
+    "AdresseA": "حي لقواسم بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "م ابن رشد",
+    "AdresseL": "FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KHANSA",
+    "NOM_ETABA": "م الخنساء",
+    "AdresseL": "AL HAY AL IDARI FQUIH BEN SALAH",
+    "AdresseA": "الحي الاداري الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ZAYDOUNE",
+    "NOM_ETABA": "م ابن زيدون",
+    "AdresseL": "FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRAJA",
+    "NOM_ETABA": "م الرجاء",
+    "AdresseL": "RUE MY DRISS FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "م علال بن ع الله",
+    "AdresseL": "FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM AL BOUKHARI",
+    "NOM_ETABA": "م الإمام البخاري",
+    "AdresseL": "FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA IBNOU NOUSSAYR",
+    "NOM_ETABA": "م موسى بن نصير",
+    "AdresseL": "FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SIDI CHENANE 1",
+    "NOM_ETABA": "م.أولاد سيدي شنان 1",
+    "AdresseL": "OULED CHENNANE FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSAN IBNOU TABET",
+    "NOM_ETABA": "م حسان بن ثابت",
+    "AdresseL": "HAY ZOUHOUR FQUIH BEN SALAH",
+    "AdresseA": "حي الزهور بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LAGRINE",
+    "NOM_ETABA": "مدرسة الكرين",
+    "AdresseL": "LAGRINE COMMUNE FQUIH BEN SALAH",
+    "AdresseA": "الكرين جماعة الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NAZIHA",
+    "NOM_ETABA": "م نزيهة",
+    "AdresseL": "HAY NAZHA1 FQUIH BEN SALAH",
+    "AdresseA": "   حي نزهة1 الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SIDI CHENNANE 2",
+    "NOM_ETABA": "م أولاد سيدي شنان 2",
+    "AdresseL": "OULED sidi CHANNANE FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ُECOLE ASSAADA",
+    "NOM_ETABA": "م السعادة",
+    "AdresseL": "HAY ASSAADA FQUIH BEN SALAH",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHARIF IDRISSI",
+    "NOM_ETABA": "م.الشريف الإدريسي",
+    "AdresseL": "hay el yassamine",
+    "AdresseA": "بلدية الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL KINDI",
+    "NOM_ETABA": "ثانوية الكندي التأهيلية",
+    "AdresseL": "BD DES ALAOUITES FQUIH BEN SALAH",
+    "AdresseA": "شارع العلويين الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE TIGHNARI",
+    "NOM_ETABA": "ثانوية التغناري التقنية",
+    "AdresseL": "ROUTE DE CASA COMMUNE fkih ben salah",
+    "AdresseA": " مدينة الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE BIR ANZARANE",
+    "NOM_ETABA": " ثانوية بئر انزران التأهيلية",
+    "AdresseL": "AVENUE DES ALAOUITES",
+    "AdresseA": "شارع العلويين",
+    "COMMUNE": "Fquih Ben Salah",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Achbal Attawba",
+    "NOM_ETABA": "مجموعة مدارس أشبال التوبة ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الأطلس الرقم 28 الفقيه ب",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES PERLES TARHZOUT",
+    "NOM_ETABA": "مجموعة مدارس ليبرل تغزوت",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الفرح الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOURGEONS DE NOBLE",
+    "NOM_ETABA": "بورجون نوبل ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة خالد رقم 235 الفقيه بن ص",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Mostakbali ",
+    "NOM_ETABA": "مجموعة مدارس مستقبلي ",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع المسيرة رقم 265 الفقيه بن",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAMARTINE SCHOOL",
+    "NOM_ETABA": "لامارتين سكول",
+    "AdresseL": "BD ALLAL BEN ABDELLAH N° 58 FK",
+    "AdresseA": "شارع علال بن عبدالله الرقم 58 ",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ikraa",
+    "NOM_ETABA": "إقرأ",
+    "AdresseL": "Bd. El Massira Al Khadra, N° 3",
+    "AdresseA": "شارع المسيرة الخضراء، رقم 36",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Essanabil",
+    "NOM_ETABA": "السنابل",
+    "AdresseL": "Hay El Kwassem, Rue 4, N° 16",
+    "AdresseA": "حي القواسم، زنقة 4، رقم 16",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "En-naourasse",
+    "NOM_ETABA": "النورس",
+    "AdresseL": "Hay Ziz, Route Khouribga - C.U",
+    "AdresseA": "حي زيز، طريق خريبكة - ج.ح. الف",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire eljahid",
+    "NOM_ETABA": "مجموعة مدارس الجاحظ",
+    "AdresseL": "hay lmasala lot annakhil",
+    "AdresseA": "حي المصلى تجزئة النخيل",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Hassania",
+    "NOM_ETABA": "مؤسسة الحسنية",
+    "AdresseL": "N° 44, Lotissement Zohor, Rue ",
+    "AdresseA": "رقم 44، تجزئة الزهور، زنقة 10",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Houda",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "Rue 69, N° 4, Quartier Al Masa",
+    "AdresseA": "زنقة 69، رقم 4، حي المصلى",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Siham",
+    "NOM_ETABA": "سهام",
+    "AdresseL": "N° 38, Avenue Ibn Sina",
+    "AdresseA": "رقم 38، شارع ابن سينا الفقيه ب",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Abi",
+    "NOM_ETABA": "مؤسسة ابي",
+    "AdresseL": "N° 84, Rue Omar Ibn Abi Rabia",
+    "AdresseA": "رقم 84، زنقة عمر ابن ابي ربيعة",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Yassamin",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "Bloc D, N° 12",
+    "AdresseA": "بلوك د، رقم 12الياسمين",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manfalouti",
+    "NOM_ETABA": "المنفلوطي",
+    "AdresseL": "Quartier Zohor, N° 179",
+    "AdresseA": "حي الزهور، رقم 179",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Aljil Assaid",
+    "NOM_ETABA": "الجيل الصاعد",
+    "AdresseL": "Lotissement El Yasmin",
+    "AdresseA": "تجزئة الياسمين",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bourgeons Essalam",
+    "NOM_ETABA": "براعم السلام",
+    "AdresseL": "N° 4, Rue 7, Bd. Hassan II",
+    "AdresseA": " رقم 4، زنقة 7، شارع الحسن الث",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA FONTAINE",
+    "NOM_ETABA": "لافونتين",
+    "AdresseL": "lotissement anakhil quartier a",
+    "AdresseA": "الحي الإداري تجزئة النخيل",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OMAR AL MOKHTAR",
+    "NOM_ETABA": "عمر المختار",
+    "AdresseL": "",
+    "AdresseA": "",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL JAHID",
+    "NOM_ETABA": "الجاحظ",
+    "AdresseL": "bd la marche verte ",
+    "AdresseA": "شارع المسيرة الخضراء",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL ANJAD",
+    "NOM_ETABA": "الأنجاد",
+    "AdresseL": "FQUIH BEN SALAH",
+    "AdresseA": "الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAWKI",
+    "NOM_ETABA": "شوقي",
+    "AdresseL": "Boulevard  zerkouni n 59",
+    "AdresseA": "                              ",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "boufatma",
+    "NOM_ETABA": "بو فاطمة",
+    "AdresseL": "Lot Nezha 2 bloc A N° 112",
+    "AdresseA": "112 بلوك A تجزئة نزهة 2",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAARIFA",
+    "NOM_ETABA": "المعرفة",
+    "AdresseL": "N° 22 RUE OQBA IBNOU NAFIE FKI",
+    "AdresseA": "الرقم 22 زنقة عقبة ابن نافع ال",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HIKMA",
+    "NOM_ETABA": "الحكمة",
+    "AdresseL": "QUARTIER EL FARAH ",
+    "AdresseA": "حي الفرح الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Assanabil 2 ",
+    "NOM_ETABA": "السنابل 2",
+    "AdresseL": "N° 35 BLOC 11 QUARTIER AZZOHOU",
+    "AdresseA": "حي الزهور بلوك 11 الرقم 35 الف",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " GROUPE SCOLAIRE  PASTEUR ",
+    "NOM_ETABA": "مجموعة مدارس باستور ",
+    "AdresseL": "BD.LA MARCHE VERTE  N°535 FKIH",
+    "AdresseA": "شارع المسيرة الخضراء رقم 535 ا",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " GROUPE SCOLAIRE ABDELOUAHED EL MERRAKCHI  ",
+    "NOM_ETABA": "مجموعة مدارس عبد الواحد المراكشي",
+    "AdresseL": "",
+    "AdresseA": "حي أيت بوكرين، زنقة عمر بن أبي",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE OM ALBANINE 2",
+    "NOM_ETABA": " مجموعة مدارس ام البنين 2",
+    "AdresseL": "",
+    "AdresseA": "ايت الراضي زنقة الاندلس بلوك 2",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IQRAA AL MANAR ",
+    "NOM_ETABA": "إقرأ المنار ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المنار الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " MAJD AL OUMAM ",
+    "NOM_ETABA": " مجد الامم",
+    "AdresseL": "NULL",
+    "AdresseA": "غزلان 1 الرقم 1 الفقيه بن صالح",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BENIAMIR JUNIOR 2E",
+    "NOM_ETABA": "مؤسسة بني عمير جنيور2 الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي ابتسام الزنقة 2 رقم 19 الفق",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE GUENNANI",
+    "NOM_ETABA": "مجموعة مدارس كناني ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة رمضان 2 الرقم 178 الفقيه",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL IZDIHAR ",
+    "NOM_ETABA": "الازدهار ",
+    "AdresseL": "elmajd2 n 93 fkih ben salah",
+    "AdresseA": "تجزئة المجد 2 رقم 93 الفقيه بن",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE OM ALBANINE",
+    "NOM_ETABA": "مجموعة مدارس أم البنين",
+    "AdresseL": "AV ALLAL BEN ABDELLAH N13 OULD",
+    "AdresseA": "شارع علال بن عبد الله رقم 13 أ",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ESSANABIL 3",
+    "NOM_ETABA": "مجموعة مدارس السنابل 3 ",
+    "AdresseL": "LOTISSEMENT  ZOHOUR LOT 18  FK",
+    "AdresseA": "حي الزهور رقم 18 الفقيه بن صال",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MANARAT IKRAA",
+    "NOM_ETABA": "مجموعة مدارس منارة إقرأ ",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع المسيرة الخضراء، رقم 265 ",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DES NATIONS",
+    "NOM_ETABA": "مجموعة مدارس الامم ",
+    "AdresseL": "quartier administratif fquih b",
+    "AdresseA": "الحي الاداري الفقيه بن صالح ",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ABELIA ",
+    "NOM_ETABA": "مجموعة مدارس ابيليا ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المسبح الرقم 4 الفقيه بن",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOBEL",
+    "NOM_ETABA": "نوبل ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة سرجم الزنقة 69 الرقم 13 ",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIYAD ALMOSTAKBAL",
+    "NOM_ETABA": " رياض المستقبل",
+    "AdresseL": "quartier ibtissam 2 bloc 3 rue",
+    "AdresseA": "حي ابتسام 2 بلوك 3 الزنقة 11 ا",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAJAH 1",
+    "NOM_ETABA": "النجاح 1",
+    "AdresseL": "",
+    "AdresseA": "زنقة سوس رقم 04  الفقيه بن صال",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "riyad al mostakbal 2",
+    "NOM_ETABA": "رياض المستقبل 2",
+    "AdresseL": "QUARTIER IBTISSAM 2 BLOC 3 RUE",
+    "AdresseA": "حي ابتسام 2 بلوك 3 الزنقة 11 ا",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g.s nahda",
+    "NOM_ETABA": "مجموعة مدارس النهضة",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 11 شارع الإمام مالك أيت ",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SIBAWAIH ",
+    "NOM_ETABA": "مجموعة مدارس سيبويه ",
+    "AdresseL": "LOT EL YASSAMIN B N 84/86",
+    "AdresseA": "تجزئة الياسمين الرقم 84 B و 86",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAFIDI",
+    "NOM_ETABA": "نفدي",
+    "AdresseL": "quartier lakwassem rue el mout",
+    "AdresseA": "حي القواسم زنقة المتنبي رقم 30",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANWAR ",
+    "NOM_ETABA": "الانوار ",
+    "AdresseL": "bab lekhmiss  n° 17 rue 57   f",
+    "AdresseA": "باب الخميس زنقة 57 رقم 17  الف",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BENI AMIR JUNIORS",
+    "NOM_ETABA": "أشبال بني عمير",
+    "AdresseL": "boulevard allal ben abdellah n",
+    "AdresseA": "شارع علال بن عبد الله الرقم 58",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RABII EL HASSANIA",
+    "NOM_ETABA": "ربيع الحسنية",
+    "AdresseL": "N 96 quartier jamila fquih ben",
+    "AdresseA": "الرقم 96 حي جميلة الفقيه بن صا",
+    "COMMUNE": "Fquih Ben Salah ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

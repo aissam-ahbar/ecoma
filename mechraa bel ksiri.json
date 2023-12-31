@@ -1,0 +1,242 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IBN BASSAL",
+    "NOM_ETABA": "ابن بصال",
+    "AdresseL": "AV TARIK IBNOU ZIAD  COMMUNE BEL KSIRI",
+    "AdresseA": "شارع طارق ابن زياد",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ALLAYMOUNE",
+    "NOM_ETABA": "إعدادية الليمون",
+    "AdresseL": "ROUTE DE HAD KOURT COMMUNE MECHRA BEL KSIRI",
+    "AdresseA": "طريق حد كورت",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GHAZOUAT TABOUK",
+    "NOM_ETABA": "غزوة تبوك",
+    "AdresseL": "av med5 COMMUNE BEL KSIRI",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SEBOU",
+    "NOM_ETABA": "سبو",
+    "AdresseL": "AVENUE PASTEUR COMMUNE MECHRA BEL KSIRI bp132",
+    "AdresseA": "   132شارع باستورص.ب ",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARIK BNOU ZIAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "ECOLE TARIK IBNOU ZIAD COMMUNE MECHRA BEL KSIRI",
+    "AdresseA": "مدرسة طارق بن زياد   بلقصيري",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JAMAL EDDINE AL FGHANI",
+    "NOM_ETABA": "جمال الدين الافغاني",
+    "AdresseL": "ECOLE JAMAL EDDINE AL AFGHANI MECHRA BEL KSIRI",
+    "AdresseA": "حي الليمون  ب مشرع بلقصيري",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BELKSIRI EL JADIDA ",
+    "NOM_ETABA": "   بلقصيري الجديدة",
+    "AdresseL": "HAY AL BITATTE COMMUNE MECHRA BEL KSIRI",
+    "AdresseA": "حي البيطات",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "MECHRA BEL KSIRI",
+    "AdresseA": "حي الفتح",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE BELKSIRI",
+    "NOM_ETABA": "ثانوية بلقصيري",
+    "AdresseL": "BELKSIRI",
+    "AdresseA": "بلقصيري",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RACHID",
+    "NOM_ETABA": "ثانوية مولاي رشيد التأهيلية",
+    "AdresseL": "AV OUEZZANE COMMUNE MECHRA BEL KSIRI",
+    "AdresseA": "شارع وزان",
+    "COMMUNE": "Mechraa Bel Ksiri",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL FORKANE",
+    "NOM_ETABA": " الفرقان",
+    "AdresseL": "Avenue Mohamed V, N° 282",
+    "AdresseA": "شارع محمد الخامس، رقم 282",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OULOUM MANAR",
+    "NOM_ETABA": "العلوم منار",
+    "AdresseL": "avenu alkayad n 78 mansour Mec",
+    "AdresseA": "شارع القائد منصور رقم 78 مشرع ",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MECHRAA",
+    "NOM_ETABA": "المشرع",
+    "AdresseL": "QUARTIER CHAOUI N°49 MECHRAA B",
+    "AdresseA": "حي الشاوي رقم 49 مشرع بلقصيري",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JANNAT ATTOFOULA",
+    "NOM_ETABA": "جنة الطفولة",
+    "AdresseL": "n° 297 Quartier hassani",
+    "AdresseA": "رقم 297 الحي الحسني",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AKKAD",
+    "NOM_ETABA": "العقاد للتعليم الخصوصي",
+    "AdresseL": "n°7 avenue moulay idriss1",
+    "AdresseA": "الرقم 7 شارع مولاي ادريس الأول",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MBK SCHOOL",
+    "NOM_ETABA": "م ب ك للتعليم الخصوصي",
+    "AdresseL": "quartier hassani n1 belksiri",
+    "AdresseA": "حي الحسني رقم 1 - بلقصيري",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBNOU EL HAYTAME",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "CITY EL IDRISSIA N 17 MECHRAA ",
+    "AdresseA": "حي الإدريسية الرقم 17",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIHAB ATTARBIA",
+    "NOM_ETABA": "رحاب التربية",
+    "AdresseL": "quartier bitate 03 n° 8",
+    "AdresseA": "حي البيطات 03 رقم الدار 8",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ESSALEK DE L EDUCATION",
+    "NOM_ETABA": "مؤسسة السالك للتعليم الخصوصي",
+    "AdresseL": "30 cité la marche verte av for",
+    "AdresseA": "الرقم 30 حي المسيرة شارع الجيش",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ESSALEK PRESCOLAIRE",
+    "NOM_ETABA": " مؤسسة السالك للتعليم الأولي",
+    "AdresseL": "n26 quartier massira",
+    "AdresseA": "حي المسيرة رقم 26 بلقصيري",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT HORIZON AL MACHRAA",
+    "NOM_ETABA": "معهد أفق المشرع",
+    "AdresseL": "Quartier abedlkhalk 1 N°56-58",
+    "AdresseA": "حي عبد الخالق1 رقم 56-58 ",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUSTANE HOROUF",
+    "NOM_ETABA": "بستان الحروف الخصوصية",
+    "AdresseL": "200/202/ , Bouittate, Machraa ",
+    "AdresseA": "رقم 200 و 202 ودادية بويطات مش",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe pedagogique horison al gharb",
+    "NOM_ETABA": "المركب التربوي الخصوصي أفق الغرب",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة سونابيل رقم 7-8 الحي الإ",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT SCIENTIFIQUE ESPACE IBNOU NAFISSE",
+    "NOM_ETABA": "المعهد العلمي لفضاء ابن النفيس الخاص",
+    "AdresseL": "HAY ABDELKHALEK 1 ROUTE SOUK A",
+    "AdresseA": "حي عبد الخالق 1، طريق سوق الأر",
+    "COMMUNE": "Mechraa Bel Ksiri ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

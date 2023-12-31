@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LOUTA",
+    "NOM_ETABA": "الثانوية الإعدادية لوطا",
+    "AdresseL": "COMMUNE LOUTA CENTRE",
+    "AdresseA": "جماعة لوطا المركز",
+    "COMMUNE": "Louta",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMRABTEN",
+    "NOM_ETABA": "امرابطن",
+    "AdresseL": "DOUAR AIT BRAHIM COMMUNE LOUTA",
+    "AdresseA": "دوار ايت ابراهيم جماعة لوطا",
+    "COMMUNE": "Louta",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IAKIYNE",
+    "NOM_ETABA": "اعكيين",
+    "AdresseL": "DOUAR IAKIYNE COMMUNE LOUTA",
+    "AdresseA": "دوار اعكيين جماعة لوطا",
+    "COMMUNE": "Louta",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

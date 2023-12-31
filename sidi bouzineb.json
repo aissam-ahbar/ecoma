@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE CHAHID ABD AL SALAM BEN EL HAJ MOHAMMED ",
+    "NOM_ETABA": "تانوية الشهيد عبد السلام بن الحاج محمد الإعدادية ",
+    "AdresseL": "SIDI BOUZINEB CENTRE",
+    "AdresseA": "سيدي بوزينب المركز ",
+    "COMMUNE": "Sidi Bouzineb",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED AHMED",
+    "NOM_ETABA": "اولاد احمد",
+    "AdresseL": "DOUAR OULED AHMED COMMUNE SIDI BOUZINEB",
+    "AdresseA": "دوار اولاد احمد جماعة سيدي بوزينب",
+    "COMMUNE": "Sidi Bouzineb",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZROUT",
+    "NOM_ETABA": "تزروت",
+    "AdresseL": "DOUAR TAZROUT COMMUNE SIDI BOUZINEB",
+    "AdresseA": "دوار تزروت جماعة سيدي بوزينب",
+    "COMMUNE": "Sidi Bouzineb",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

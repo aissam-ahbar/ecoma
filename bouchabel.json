@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUCHABEL",
+    "NOM_ETABA": "الثانوية الإعدادية بوشابل",
+    "AdresseL": "COMMUNE BOUCHABEL",
+    "AdresseA": "جماعة بوشابل",
+    "COMMUNE": "Bouchabel",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S BOUCHABEL",
+    "NOM_ETABA": "م/م  بوشابل",
+    "AdresseL": "DOUAR BOUCHABEL COMMUNE BOUCHABEL KARIA",
+    "AdresseA": "دوار بوشابل جماعة بوشابل القرية",
+    "COMMUNE": "Bouchabel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULAD EL HAJ MOHAMED",
+    "NOM_ETABA": "م/م أولاد الحاج محمد",
+    "AdresseL": "DOUAR OULAD HAJ MOHAMED COMMUNE BOUCHABEL KARIA",
+    "AdresseA": "دوار أولاد الحاج محمد جماعة بوشابل القرية",
+    "COMMUNE": "Bouchabel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S faj nader",
+    "NOM_ETABA": "م/م فج النادر",
+    "AdresseL": "DOUAR FAJ NADER COMMUNE RURALE BOUCHABEL KARIA",
+    "AdresseA": "دوار فج النادر جماعة بوشابل دائرة القرية تاونات",
+    "COMMUNE": "Bouchabel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SMOUNIENE",
+    "NOM_ETABA": "م/م  السمونيين",
+    "AdresseL": "DOUAR SMOUNIYENE COMMUNE BOUCHABEL cercle KARIA",
+    "AdresseA": "دوار السمونيين جماعة بوشابل دائرةالقرية ",
+    "COMMUNE": "Bouchabel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULAD ANIZA",
+    "NOM_ETABA": "م/م اولاد عنيزة",
+    "AdresseL": "DOUAR OULAD ANIZA COMMUNE BOUCHABEL KARIA",
+    "AdresseA": "دوار أولاد عنيزة جماعة بوشابل القرية",
+    "COMMUNE": "Bouchabel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

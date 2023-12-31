@@ -1,0 +1,942 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL DAR BOUAZZA",
+    "NOM_ETABA": "الثانوية الإعدادية دار بوعزة",
+    "AdresseL": "DAR BOUAZZA",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM MOSLIM",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مسلم",
+    "AdresseL": "ben abid",
+    "AdresseA": "ابن عبيد",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHALID IBNO ALWALID",
+    "NOM_ETABA": "الثانوية الإعدادية خالد بن الوليد",
+    "AdresseL": "RIAD ERRAHMA 2 Dar bouazza",
+    "AdresseA": "رياض الرحمة2  دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED JOUDAR",
+    "NOM_ETABA": "الثانوية الإعدادية محمد جودار",
+    "AdresseL": "Errahma dar Bouazza",
+    "AdresseA": "مدينة الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN EASSAKTANI",
+    "NOM_ETABA": "الثانوية الإعدادية حسن السكتاني",
+    "AdresseL": "Errahma dar bouazza",
+    "AdresseA": "مدينة الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU ELBANNAA ELMORRAKECHI",
+    "NOM_ETABA": "الثانوية الإعدادية ابن البناء المراكشي",
+    "AdresseL": "dar bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHADIJA OM AL MOUMININ",
+    "NOM_ETABA": "الثانوية الإعدادية. خديجة أم المؤمنين",
+    "AdresseL": "dar bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED EL MANSOUR DAHBI ",
+    "NOM_ETABA": "الثانوية الإعدادية احمد المنصور الذهبي",
+    "AdresseL": "AL MADINA AL JADIDA ERRAHMA",
+    "AdresseA": "المدينة الجديدة الرحمة ",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHIDA GHADFA BENT MADANI",
+    "NOM_ETABA": "الثانوية الإعدادية الشهيدة الغظفة بنت المدني",
+    "AdresseL": "oulad ahmed commune dar bouazza",
+    "AdresseA": " اولاد احمد جماعة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ASSIA ALOUADII",
+    "NOM_ETABA": "الثانوية الإعدادية آسية الوديع",
+    "AdresseL": "arrahma 1 lot ennakhil  darbouazza",
+    "AdresseA": "الرحمة1 تجزئة النخيل  دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH ELHADAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله الحداوي",
+    "AdresseL": "Errahma",
+    "AdresseA": "الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN ESSGHIR",
+    "NOM_ETABA": "الثانوية الإعدادية حسن الصغير",
+    "AdresseL": "dare bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOMMANE ELFATWAKI",
+    "NOM_ETABA": "الثانوية الإعدادية حمان الفطواكي",
+    "AdresseL": "jawharat errahma",
+    "AdresseA": "جوهرة الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E DAR BOUAZZA",
+    "NOM_ETABA": "م. دار بوعزة",
+    "AdresseL": "rue mauritania COMMUNE DAR BOUAZZA",
+    "AdresseA": "زنقة موريطانيا دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OULED AHMED",
+    "NOM_ETABA": "م. اولاد احمد",
+    "AdresseL": "douar ouled ahmed  ROUTE D EL JADIDA",
+    "AdresseA": "طريق الجديدة  دوار اولاد احمد",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E 6 NOVEMBRE",
+    "NOM_ETABA": "م. 6 نونبر",
+    "AdresseL": "Route azemmour km 12 dar bouazza",
+    "AdresseA": "طريق أزمور كلم 12 دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL MASSIRA EL KHADRA",
+    "NOM_ETABA": " م.م المسيرة الخضراء",
+    "AdresseL": "KM 22 MEKLEA BEN ABID",
+    "AdresseA": "كلم 22 مقلع بنعبيد",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ERRAHMA",
+    "NOM_ETABA": "م. الرحمة",
+    "AdresseL": "ROUTE MOULAY THAMI ERRAHMA1 COMMUNE DAR BOUAZZA",
+    "AdresseA": "طريق مولاي التهامي مدينة الرحمة 1 دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ESSEKKOUM",
+    "NOM_ETABA": "م. السكوم",
+    "AdresseL": "douar fokra",
+    "AdresseA": "دوار الفقرة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ETTADAMOUN",
+    "NOM_ETABA": "م. التضامن",
+    "AdresseL": "douar iraqui",
+    "AdresseA": "دوار العراقي",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TOURIA ECHAOUI",
+    "NOM_ETABA": "م. ثريا الشاوي",
+    "AdresseL": "douar ellouimi",
+    "AdresseA": "دوار اللويمي",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL MOUATANA",
+    "NOM_ETABA": "م. المواطنة",
+    "AdresseL": "DA 16 ROUTE D AL JADIDA",
+    "AdresseA": "دار 16 طريق الجديدة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EDDHOUBA",
+    "NOM_ETABA": "م. الدهوبة",
+    "AdresseL": "douar OULED GUADI  CAIDAT  OULED AHMED   commune D",
+    "AdresseA": "دوار أولاد كضي  قيادة أولاد أحمد   بلدية دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL BGUIRIYINE",
+    "NOM_ETABA": "م. البكيريين",
+    "AdresseL": "douar  EL bguiriyine ouled ahmed",
+    "AdresseA": "البكيريين اولاد احمد",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E FATIMA AL FIHRIYA",
+    "NOM_ETABA": "م. فاطمة الفهرية ",
+    "AdresseL": "madinate ERahma Dar bouAZza",
+    "AdresseA": "مدينة الرحمة دار بوعزة ",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU KHALDOUN",
+    "NOM_ETABA": "م. ابن خلدون",
+    "AdresseL": "KM 16 DAR BOUAZA ROUTE DELJADIDA",
+    "AdresseA": "كلم 16 دار بوعزة طريق الجديدة ",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU TACHFINE",
+    "NOM_ETABA": "م. ابن تاشفين",
+    "AdresseL": "dar bouaaza",
+    "AdresseA": "دار بوعزة ",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OUKBA BNOU NAFII",
+    "NOM_ETABA": "م. عقبة بن نافع",
+    "AdresseL": "hay errahma dar bouazza",
+    "AdresseA": "حي الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMED ELWADII",
+    "NOM_ETABA": "م. محمد الوديع",
+    "AdresseL": "Errahma 2 dar bouaza",
+    "AdresseA": "الرحمة 2 جماعة داربوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E SAID ELMANOUZI",
+    "NOM_ETABA": "م. سعيد المانوزي",
+    "AdresseL": "Errahma",
+    "AdresseA": "مدينة الرحمة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMED ELBAROUDI",
+    "NOM_ETABA": "م. محمد البارودي",
+    "AdresseL": "dar bouazza",
+    "AdresseA": "دا بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E DRISS BENZAKRI",
+    "NOM_ETABA": "م. إدريس بن زكري",
+    "AdresseL": "arrahma dare bouazza",
+    "AdresseA": "الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E RAHMA OUMOU CHOUHADAA",
+    "NOM_ETABA": "م. رحمة أم الشهداء",
+    "AdresseL": "lot jaouharate errahma dare bouazza",
+    "AdresseA": "تجزئة جوهرة الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E 11 JANVIER",
+    "NOM_ETABA": "م. 11 يناير",
+    "AdresseL": "lot badr dare bouazza",
+    "AdresseA": "تجزئة بدر دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AHMED ALHANSSALI",
+    "NOM_ETABA": "م. أحمد الحنصالي",
+    "AdresseL": "lot fadaa errahma dare bouazza",
+    "AdresseA": "مشروع فضاء الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU BATTOUTTA",
+    "NOM_ETABA": "م. ابن بطوطة",
+    "AdresseL": "EL FATH 2   DAR BOUAZZA NOICEUR",
+    "AdresseA": "  الفتح 2، دار بوعزة النواصر",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E REHAL EL MESKINI",
+    "NOM_ETABA": "م. رحال المسكيني",
+    "AdresseL": "dar bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDEL AZIZ MEZYANE BELFAKIH",
+    "NOM_ETABA": "م. عبد العزيز مزيان بالفقيه",
+    "AdresseL": "dar bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HOMMANE EL FETOUAKI",
+    "NOM_ETABA": "م. حمان الفطواكي",
+    "AdresseL": "dar bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDELLAH GUENNOUNE",
+    "NOM_ETABA": "م. عبد الله كنون",
+    "AdresseL": "dar bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMMED MJID",
+    "NOM_ETABA": "م. محمد مجيد",
+    "AdresseL": "dar bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABO BAKR ESSIDIK",
+    "NOM_ETABA": "م. ابوبكر الصديق",
+    "AdresseL": "ERRAHMA2 . ALIANCE DARNA. DAR BOUAZZA",
+    "AdresseA": "الرحمة 2 أليانس دارنا . جماعة دار بوعزة . الدار ال",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OTMAN IBNO AFFANE ",
+    "NOM_ETABA": "م. عثمان بن عفان",
+    "AdresseL": "jnane rahma gh6 dar bouazza",
+    "AdresseA": "جنان الرحمة مج 6 دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU SINA",
+    "NOM_ETABA": "م. ابن سينا",
+    "AdresseL": "Eddoha ElfaTH 4 Dar Bouazza",
+    "AdresseA": "الضحى الفتح 4 دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMED ELHASSANE ELWAZZANI",
+    "NOM_ETABA": "م. محمد الحسن الوزاني",
+    "AdresseL": "Eddoha Ettawhid Dar Bouazza",
+    "AdresseA": "الضحى التوحيد دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ZOLIKHA NASSRI",
+    "NOM_ETABA": "م. زليخة نصري",
+    "AdresseL": "Errahma dar bouazza",
+    "AdresseA": "مدينة الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABOU ELKASSIM EZZIANI",
+    "NOM_ETABA": "م. ابو القاسم الزياني",
+    "AdresseL": "Dar bouazza",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ZAYDOUNE",
+    "NOM_ETABA": "م. ابن زيدون",
+    "AdresseL": "DAR BOUAZZA",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN RACHIK",
+    "NOM_ETABA": "ابن رشيق",
+    "AdresseL": "DAR BOUAZZA",
+    "AdresseA": "دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNO HANBAL",
+    "NOM_ETABA": "م. ابن حنبل",
+    "AdresseL": "LOT ALMOHIT DAR BOUAZZA",
+    "AdresseA": "تجزئة المحيط دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNO AL HAYTAM",
+    "NOM_ETABA": "م. ابن الهيثم",
+    "AdresseL": "LOT DIAR ALANDALOS ERRAHMA DAR BOUAZZA",
+    "AdresseA": "تجزئة ديار الاندلس الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELMOKHTAR ESSOSSI",
+    "NOM_ETABA": "الثانوية التأهيلية المختار السوسي",
+    "AdresseL": "Errahma Dar Bouazza",
+    "AdresseA": "اقامات التوحيد الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOSTAPHA ELMANI",
+    "NOM_ETABA": "الثانوية التأهيلية مصطفى المعاني",
+    "AdresseL": "elfath 3 oulad hmed Dar Bouazza",
+    "AdresseA": "الفتح3 اولاد احمد دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNO ROCHD",
+    "NOM_ETABA": "الثانوية التأهيلية ابن رشد",
+    "AdresseL": "elfajr 4 eddoha dar bouazza",
+    "AdresseA": "الفجر4 الضحى ",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ETTAYEB EL KHAMMAL",
+    "NOM_ETABA": "الثانوية التأهيلية الطيب الخمال",
+    "AdresseL": "Dar Bouazza  centre",
+    "AdresseA": "دار بوعزة المركز ",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED EZZARKTOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الزرقطوني",
+    "AdresseL": "hay errahma dar bouazza",
+    "AdresseA": "حي الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HAJ MOUHAMMED NACIRI",
+    "NOM_ETABA": "الثانوية التأهيلية الحاج محمد الناصري",
+    "AdresseL": "arrahma dare bouazza",
+    "AdresseA": "الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED ALKAGHAT",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الكغاط",
+    "AdresseL": "KM 16 DOUAR LAATIKIYINE DAR BOUAAZA",
+    "AdresseA": "كلم 16 دوار العتقيين جماعة دار بوعزة",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN IBN TABIT",
+    "NOM_ETABA": "الثانوية التأهيلية حسان بن ثابث",
+    "AdresseL": "DAR BOUAZZA CENTRE",
+    "AdresseA": "دار بوعزة المركز",
+    "COMMUNE": "Dar Bouazza",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL WASSLE",
+    "NOM_ETABA": "مجموعة مدارس الوصل الخصوصية",
+    "AdresseL": "DIAR NOUR VILLE ERRAHMA DAR BO",
+    "AdresseA": "ديار النور مدينة الرحمة دار بو",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JULES CESARE",
+    "NOM_ETABA": "جول سيزار الخصوصية",
+    "AdresseL": "LOT EL FATH OULED AHMED",
+    "AdresseA": "تجزئة الفتح اولاد احمد ",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ITTIJAH NAJAH SCHOOL",
+    "NOM_ETABA": "اتجاه النجاح سكول",
+    "AdresseL": "DOUAR AHMED HAMRI LOT EQ72 LOT",
+    "AdresseA": "تجزئة الفتح EQ72 دوار احمد الح",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JACK LONDON",
+    "NOM_ETABA": "مجموعة مدارس جاك لندن الخصوصية",
+    "AdresseL": "LOT ENNAKHIL N 167-170 ERRAHMA",
+    "AdresseA": "تجزئة النخيل رقم 167-170 الرحم",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD RAHMA SCHOOLE",
+    "NOM_ETABA": "رياض رحمة سكول الخصوصية",
+    "AdresseL": "LOT ENNAKHIL N 199 ERRAHMA 1 D",
+    "AdresseA": "تجزئة النخيل رقم 199  الرحمة 1",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PLEIN HORIZON",
+    "NOM_ETABA": "بلان أوريزو",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النخيل رقم 190-191 الرحم",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WEBERMAX SCHOOL",
+    "NOM_ETABA": "ويبرماكس سكول",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المتوكل دار بوعزة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALAM AL BARAA",
+    "NOM_ETABA": "مدرسة عالم البراءة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "إقامة الأمل عمارة 72 رقم 1 الر",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JACQUES MARTIN",
+    "NOM_ETABA": "جاك مارتان",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النخيل رقم 24 الرحمة دار",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE scolaire Diyaa errahma",
+    "NOM_ETABA": "مؤسسة ضياء الرحمة",
+    "AdresseL": "LOTISSEMENT ERRAHMA N°165 DAR ",
+    "AdresseA": "تجزئة الرحمة رقم 165  دار بوعز",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "george wilhelm",
+    "NOM_ETABA": "جورج ويلهام",
+    "AdresseL": "NULL",
+    "AdresseA": "16-17 تجزئة حدائق المحيط ",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jean jaures",
+    "NOM_ETABA": "جان جوريس",
+    "AdresseL": "Lotissement Ennakhil, Commune ",
+    "AdresseA": "تجزئة النخيل 1 رقم 177،178،179",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anniima",
+    "NOM_ETABA": "النعمة",
+    "AdresseL": "226 -229 lotissement ennakhil ",
+    "AdresseA": "226-229 تجزئة النخيل-الرحمة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "george pompidou",
+    "NOM_ETABA": "جورج بومبيدو",
+    "AdresseL": "DOUAR LAHLALFA-DAR BOUAZZA",
+    "AdresseA": "دوار لحلالفة-دار بوعزة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "riad errahma",
+    "NOM_ETABA": "رياض الرحمة",
+    "AdresseL": "196 LOT. ENNAKHIL ERRAHMA",
+    "AdresseA": "رقم 196، تجزئة النخيل-الرحمة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "abnae alfoursane",
+    "NOM_ETABA": "أبناء الفرسان",
+    "AdresseL": "",
+    "AdresseA": "طريق مولاي التهامي، تجزئة النخ",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AYA",
+    "NOM_ETABA": "مجموعة مدارس آية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة 84 الرحمة دار بوعزة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "attarik",
+    "NOM_ETABA": " مؤسسة الطريق الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "37 تجزئة النخيل الرحمة ",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rodaina",
+    "NOM_ETABA": "ردينة",
+    "AdresseL": "LOTISSEMENT ENNAKHIL N°129 ERR",
+    "AdresseA": "تجزئة النخيل رقم 129 حي الرحمة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TOUQAT",
+    "NOM_ETABA": "التقاة",
+    "AdresseL": "LOTISSEMENT ERRAHMA 1 n 52 DAR",
+    "AdresseA": "تجزئة الرحمة 1 رقم 52 دار بوعز",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAPHAELE",
+    "NOM_ETABA": "رفاييل الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "زاوية زنقة اللوز وزنقة الكرز م",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FLORENCE",
+    "NOM_ETABA": "فلورانس",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة ودادية الفتح طريق مولاي ",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rayhana académie schoole",
+    "NOM_ETABA": "ريحانة أكاديمي سكول الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الرحمة 1 رقم 160 دار بوع",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut labiad",
+    "NOM_ETABA": "مؤسسة لبيض",
+    "AdresseL": "66 LITTORAL 1 DAR Bouazza",
+    "AdresseA": "  رقم 66 تجزئة الساحل 1 دار بو",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "college al quarya",
+    "NOM_ETABA": "إعدادية القرية",
+    "AdresseL": "Village Pilote Lot 278 Rue Ess",
+    "AdresseA": "القرية النمودجية رقم 278 زنقة ",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "doha errahma",
+    "NOM_ETABA": "ضحى الرحمة",
+    "AdresseL": "lot rahma n°167-168 errahma da",
+    "AdresseA": "تجزئة الرحمة رقم 167-168 الرحم",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alam al yakada",
+    "NOM_ETABA": "عالم اليقظة",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الفتح مجموعة 4 الحمة دار",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOUMNA",
+    "NOM_ETABA": "مومنة",
+    "AdresseL": "LOT.ERRAHMA .N105 DAR BOUAZA C",
+    "AdresseA": "تجزئة الرحمة رقم 105 دار بوعزة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les emeraudes",
+    "NOM_ETABA": "الزمرد",
+    "AdresseL": "lot ennakhil lot. 103, 106, 10",
+    "AdresseA": "تجزئة النخيل 103/106/107 حى ال",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "toulati erreda",
+    "NOM_ETABA": "ثلاثي الرضى",
+    "AdresseL": "DAR KOUCH LAHLAFA CHARKIA DAR ",
+    "AdresseA": "دار كوش الحلالفة الشرقية دار ب",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALANKAA",
+    "NOM_ETABA": "العنقاء",
+    "AdresseL": "71 centre dar Bouazza  ",
+    "AdresseA": "رقم 71 مركز دار بوعزة ",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le village",
+    "NOM_ETABA": "القرية ",
+    "AdresseL": "village rue essaoudia lotissem",
+    "AdresseA": "القرية النموذجية زنقة السعودية",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAMARIS",
+    "NOM_ETABA": "طماريس",
+    "AdresseL": "tamaris 1 dar bouazza",
+    "AdresseA": "ساحل طماريس 1 دار بوعزة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecoles plotines",
+    "NOM_ETABA": " مؤسسة أفلوطين الخصوصية",
+    "AdresseL": "32-34 village pilote dare boua",
+    "AdresseA": "تجزئة القرية النمودجية، رقم 34",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Académie Jean Cocteau",
+    "NOM_ETABA": "أكاديمي جون كوكطو ",
+    "AdresseL": "DOUAR LAHLALFA   DAR BOUAZZA",
+    "AdresseA": "دوار لحلالفة - ج. دار بوعزة",
+    "COMMUNE": "Dar Bouazza ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

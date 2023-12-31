@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S AIT AISSI IHAHANE",
+    "NOM_ETABA": "م.م  ايت عيسي احاحان ",
+    "AdresseL": "SOUK KHMISS AIT AISSI AIT AISSI IHAHANE",
+    "AdresseA": "دوار سوق الخميس ايت عيسي احاحان",
+    "COMMUNE": "Ait Aissi Ihahane",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AFRA",
+    "NOM_ETABA": "م.م  افرا",
+    "AdresseL": "DOUAR AFRA AIT AISSI IHAHANE",
+    "AdresseA": "دوار افرا",
+    "COMMUNE": "Ait Aissi Ihahane",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

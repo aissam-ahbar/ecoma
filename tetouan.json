@@ -1,0 +1,1642 @@
+[
+  {
+    "NOM_ETABL": "College SIDI TALHA",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي طلحة",
+    "AdresseL": "RUE OKBA IBNOU NAFIH HAY SIDI TALHA  TEOUAN",
+    "AdresseA": "ش عقبة بن نافع",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "college MOHAMED ZARKTOUNI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الزرقطوني",
+    "AdresseL": "avenue kenitra  TETOUAN",
+    "AdresseA": "شارع القنيطرة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "college OMAR IBN ABDELAZIZ",
+    "NOM_ETABA": "الثانوية الإعدادية عمر بن عبد العزيز",
+    "AdresseL": "RUE KABUL  TETOUAN",
+    "AdresseA": "شارع كابول الطوابل السفلى",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "college ALLAL IBN ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية علال بن عبد الله",
+    "AdresseL": "AV LES FAR TETOUAN",
+    "AdresseA": "شارع الجيش الملكي",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "college MOULAY AL HASSAN",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي الحسن",
+    "AdresseL": "HAY MOULAY HASSAN SANIATE RMEL  TETOUAN",
+    "AdresseA": "حي مولاي الحسن",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AHMED RADI SLAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد الراضي السلاوي",
+    "AdresseL": "RUE AHMED AGZOUL",
+    "AdresseA": "شارع أحمد أكزول",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL QODS",
+    "NOM_ETABA": "الثانوية الإعدادية القدس",
+    "AdresseL": "Rue Taza Mhanech  II    TETOUAN",
+    "AdresseA": "شارع تازة المحنش 2 تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE 20 AOUT",
+    "NOM_ETABA": "الثانوية الإعدادية 20 غشت",
+    "AdresseL": "HAY COELMA ROUTE DE OUAD LAOU  TETOUAN",
+    "AdresseA": "حي كويلما طريق ازلا",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE FKHIH AL MOURIR",
+    "NOM_ETABA": "الثانوية الإعدادية الفقيه المرير",
+    "AdresseL": "TOUILA HAOUMAT BOUJARAH  TETOUAN",
+    "AdresseA": "شارع المختار السوسي  الطويلع",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE 6 NOVEMBRE",
+    "NOM_ETABA": "الثانوية الإعدادية سادس  نوفمبر",
+    "AdresseL": "rue moulay al hassan ben al mahdi touibla tetouan",
+    "AdresseA": "شارع مولاي الحسن بن المهدي طويبلة تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL FAKIH AHMED AL HADDAD",
+    "NOM_ETABA": "الثانوية الإعدادية الفقيه أحمد الحداد",
+    "AdresseL": "oued daraa college al fakih ahmed al haddad",
+    "AdresseA": "شارع واد درعة ثانوية الفقيه أحمد الحداد الإعدادية",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ANOUAL",
+    "NOM_ETABA": "الثانوية الإعدادية انوال",
+    "AdresseL": "Rue maoulaye el abasse  CARTIER SCOLAIRE  TETOUAN",
+    "AdresseA": "شارع مولاي العباس _ الحي المدرسي قرب دار الثقافة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE IBN SINA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن سينا",
+    "AdresseL": "SIDI IDRISS AV HASSAN II",
+    "AdresseA": "حي سيدي إدريس شارع الحسن الثاني ",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ABI BAKR RAZI",
+    "NOM_ETABA": "الثانوية الإعدادية ابي بكر الرازي",
+    "AdresseL": "HOPITAL ESPAGNOL  TETOUAN ",
+    "AdresseA": "جامع مزواق",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE FAKIH AHMED IBN TAOUIT",
+    "NOM_ETABA": "الثانوية الإعدادية الفقيه احمد بنتاويت",
+    "AdresseL": "HAY SLAOUI  COMMUNE AL AZHAR  TETOUAN",
+    "AdresseA": "شارع سبو حي السلاوي",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL ANDALOUSS",
+    "NOM_ETABA": "الثانوية الإعدادية الاندلس",
+    "AdresseL": "HAY EL BAHROURI SIDI TALHA C AL AZHAR",
+    "AdresseA": "حي  البهروري",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AHMED RACHIDI",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد الراشدي",
+    "AdresseL": "AV JEBEL TIDHghIN",
+    "AdresseA": "شارع جبل تدغين",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ZOBAIR IBNO LAOUAM",
+    "NOM_ETABA": "الثانوية الإعدادية الزبير بن العوام",
+    "AdresseL": "QUARTIER NAKATA",
+    "AdresseA": "حي النقاطة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "college IBN LBAITAR",
+    "NOM_ETABA": "الثانوية الإعدادية ابن البيطار",
+    "AdresseL": "QUARTIER AIN MELLOUL",
+    "AdresseA": "حي عين ملول",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MOHAMED ABID AL JABIRI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد عابد الجابري",
+    "AdresseL": "HAY TWIBLA",
+    "AdresseA": "حي طويبلة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SAAD IBN ABI OUAKASS",
+    "NOM_ETABA": "الثانوية الإعدادية سعد بن أبي وقاص",
+    "AdresseL": "HAY KOELMA",
+    "AdresseA": "حي كويلمة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE EL FARAHIDI",
+    "NOM_ETABA": "الثانوية الإعدادية الفراهيدي",
+    "AdresseL": "AV RAYHAN.............. JBEL DERSSA ",
+    "AdresseA": "شارع الريحان جبل درسة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AHMED CHAOUQUI",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد شوقي",
+    "AdresseL": "BOUSSEMLAL TETOUAN",
+    "AdresseA": "بوسملال تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ecole SAIDA SOUKAINA  BENT HOUSSEINE",
+    "NOM_ETABA": "مدرسة السيدة سكينة  بنت الحسين",
+    "AdresseL": "RUE CHRICHARE N10 TETOUAN",
+    "AdresseA": "زنقة الشريشار  رقم :  10  تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole THAMI EL OUAZZANI",
+    "NOM_ETABA": "مدرسة التهامي الوزاني",
+    "AdresseL": "av  AHMED AGZOUL HAY ZIANA ",
+    "AdresseA": "شارع أحمد أجزول حي زيانة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole MOULAY AL HASSAN",
+    "NOM_ETABA": "مدرسة مولاي الحسن",
+    "AdresseL": "AV ABOU BAKR RAZI HAY moulay AL HASSAN  TETOUAN",
+    "AdresseA": "شارع ابو بكر الرازي. حي مولاي الحسن . تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole AL IMAM ABOU LHASSAN CHADLI",
+    "NOM_ETABA": "مدرسة الإمام أبو الحسن الشاذلي",
+    "AdresseL": "AV BADR CHAKIR SIAB HAY MOULAY HASSAN TETOUAN",
+    "AdresseA": "شارع بدر شاكر السياب حارة مولاي الحسن",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole LISSAN EDDINE IBN AL KHATIB",
+    "NOM_ETABA": "مدرسة لسان الدين بن الخطيب",
+    "AdresseL": "AV TAHRANE HAY MOULAY HASSAN  TETOUAN",
+    "AdresseA": "شارع طهران حي مولاي الحسن",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole IBNOU ZAYDOUNE",
+    "NOM_ETABA": "مدرسة ابن زيدون",
+    "AdresseL": "RUE TINDOUF TOUABEL 2  TETOUAN",
+    "AdresseA": "شارع تندوف . الطوابل  2. تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole KHALID IBNOU OUALID",
+    "NOM_ETABA": "مدرسة خالد ابن الوليد",
+    "AdresseL": "AV DES FAR  rond point AL MATAR  TETOUAN",
+    "AdresseA": "شارع الجيش الملكي ملتقى الطرق المطار",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole MOHAMMED VI",
+    "NOM_ETABA": "مدرسة محمد السادس",
+    "AdresseL": "RUE MOHAMED HAJJAJ TOUABEL HOULIA  TETOUAN",
+    "AdresseA": "شارع محمد حجاج",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole IBN AL ATIR",
+    "NOM_ETABA": "مدرسة ابن الاثير",
+    "AdresseL": "RUE HAJ MOHAMED BENOUNA TOUILA",
+    "AdresseA": "شارع الحاج محمد بنونة الطويلع",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole FATIMA ZAHRA",
+    "NOM_ETABA": "مدرسة فاطمة الزهراء",
+    "AdresseL": "HAY BOUJARRAH BP641  TETOUAN",
+    "AdresseA": "حي بوجراح",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole OUM AL BANINE",
+    "NOM_ETABA": "مدرسة ام البنين",
+    "AdresseL": "HAY MSALA RUE KENITRA  TETOUAN",
+    "AdresseA": "حي المصلى . شارع القنيطرة . تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole MY ABDESLAM BEN MCHICHE",
+    "NOM_ETABA": "مدرسة مولاي عبد السلام بن مشيش",
+    "AdresseL": "MHANECHE II  TETOUAN",
+    "AdresseA": "شارع ميسور المحنش الثاني  تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole FKIH TANGI ",
+    "NOM_ETABA": "مدرسة الفقيه الطنجي",
+    "AdresseL": "HAY COELMA  TETOUAN",
+    "AdresseA": "كويلما . تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole IBN TOUFAIL",
+    "NOM_ETABA": "مدرسة ابن طفيل",
+    "AdresseL": "HAY TAFALINE  TETOUAN",
+    "AdresseA": "حي الطفالين",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 18 NOVEMBRE",
+    "NOM_ETABA": "مدرسة 18نوفمبر",
+    "AdresseL": "HAY BOUJARRAH   TETOUAN",
+    "AdresseA": "حي بوجراح",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole IBN ROCHD",
+    "NOM_ETABA": "مدرسة ابن رشد",
+    "AdresseL": "AV D ALGER TETOUAN AL AZHAR",
+    "AdresseA": "شارع الجزائر",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole IBN KHALDOUN",
+    "NOM_ETABA": "مدرسة ابن خلدون",
+    "AdresseL": "place iben khaldoun",
+    "AdresseA": "ساحة ابن خلدون",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole SIDI SAIDI",
+    "NOM_ETABA": "مدرسة سيدي الصعيدي",
+    "AdresseL": "AV MOHAMED EL KHATIB N 6  TETOUAN",
+    "AdresseA": "شارع محمد الخطيب رقم 6",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole LALLA MARYEME",
+    "NOM_ETABA": "مدرسة للا مريم",
+    "AdresseL": "RUE OUAD AL MAKHAZINE  TETOUAN",
+    "AdresseA": "شارع واد المخازن",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole ASSAYIDA AMINA",
+    "NOM_ETABA": "مدرسة السيدة آمنة",
+    "AdresseL": "RUE ALLAL IBN ABDELLAH  ",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole SIDI AHMED BAKAL",
+    "NOM_ETABA": "مدرسة سيدي احمد البقال",
+    "AdresseL": "AV ABOU BAKR ESSEDDIQ JBEL DERSA TETOUAN",
+    "AdresseA": "  شارع ابو بكر الصديق - جبل درسة تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole SIDI ALI BARAKA ",
+    "NOM_ETABA": "مدرسة سيدي علي بركة",
+    "AdresseL": "AV ABDELKARIM KHATABI N4  TETOUAN",
+    "AdresseA": "شارع  عبد الكريم الخطابي  رقم: 4   . تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole ASSAYIDA  ZAINAB",
+    "NOM_ETABA": "مدرسة السيدة زينب",
+    "AdresseL": "AV MOHAMED ABDELKARIM AL KHATABI N4  TETOUAN",
+    "AdresseA": "شارع عبد الكريم الخطابي",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MAGHREB ARABI  ",
+    "NOM_ETABA": "مدرسة المغرب العربي ",
+    "AdresseL": "DIOR AL MAKHZEN JBEL DERSSA  TETOUAN",
+    "AdresseA": "ديور المخزن سيدي طلحة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUED AL MAKHAZINE",
+    "NOM_ETABA": "مدرسة واد المخازن",
+    "AdresseL": "AV BILAL BNOU RABAH SIDI TALHA  TETOUAN",
+    "AdresseA": "شارع بلال بن رباح حي سيدي طلحة تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI AHMED ZEOUAK",
+    "NOM_ETABA": "مدرسة سيدي احمد الزواق",
+    "AdresseL": "AV MOUSSA IBN NOUSSAIR  TETOUAN",
+    "AdresseA": "شارع موسى بن نصير",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM MALIK",
+    "NOM_ETABA": "مدرسة الإمام مالك",
+    "AdresseL": "AVENUE ABOU TAMMAM HAOUMAT AL HASSANI  TETOUAN",
+    "AdresseA": "شارع ابوتمام حومة الحساني",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI DRISS",
+    "NOM_ETABA": "مدرسة سيدي ادريس",
+    "AdresseL": "AV MOULAY EL ABASS QUARTIER SCOLAIRE  TETOUAN",
+    "AdresseA": "شارع مولاي العباس. الحي المدرسي . تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED ABDELKARIM AL KHATABI ",
+    "NOM_ETABA": "مدرسة محمد عبد الكريم الخطابي ",
+    "AdresseL": "RUE AL MAMOUNE JAMAA MEZOUAK  TETOUAN",
+    "AdresseA": "شارع المأمون . جامع  مزواق.",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ACHARIF AMEZIANE",
+    "NOM_ETABA": "مدرسة الشريف أمزيان",
+    "AdresseL": "HAY JAMAA MEZOUAK TETOUAN",
+    "AdresseA": "شارع المامون جامع المزواق",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABNAA CHOUHADA",
+    "NOM_ETABA": "مدرسة ابناء الشهداء",
+    "AdresseL": "QUARTIER TABOULA ROUTE DE TANGER  TETOUAN",
+    "AdresseA": "حي طبولة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 9 AVRIL",
+    "NOM_ETABA": "مدرسة 9 أبريل",
+    "AdresseL": "AV ALI IBN ABI TALEB ZANQUAT ALBALSAM  TETOUAN",
+    "AdresseA": "شارع علي ابن طالب زنقة البلسم",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN HAZM",
+    "NOM_ETABA": "مدرسة ابن حزم",
+    "AdresseL": "AV AHMED  EL BAKAL CARTIER EL BARBOURINE  TETOUAN",
+    "AdresseA": "شارع احمد البقال حي البربورين  تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDERAHMANE DAKHIL",
+    "NOM_ETABA": "مدرسة عبد الرحمان الداخل",
+    "AdresseL": "KODIATE SBAA  TETOUAN",
+    "AdresseA": "حي كدية السبع",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED ABOU iNANE",
+    "NOM_ETABA": "مدرسة محمد أبو عنان",
+    "AdresseL": "AV TARIF IBN MALIK BOUANAN",
+    "AdresseA": "شارع طريف بن مالك حي بوعنان ",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAMOUDA",
+    "NOM_ETABA": "مدرسة تمودة",
+    "AdresseL": "av abderrahman dakhil al azhar",
+    "AdresseA": "شارع عبد الرحمان الداخل.الأزهر",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss EL MANFALOUTi",
+    "NOM_ETABA": "م.م المنفلوطي",
+    "AdresseL": "DAR ZKIEK C DE TETOUAN",
+    "AdresseA": "دار الزكيك جماعة تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss IDRISS 2",
+    "NOM_ETABA": "م.م إدريس الثاني",
+    "AdresseL": "HAY LAOUZEYENE  TETOUAN",
+    "AdresseA": "طريق طنجة كلم 5",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole ABDELAZIZ BEN CHAKROUN",
+    "NOM_ETABA": "مدرسة عبد العزيز بنشقرون",
+    "AdresseL": "QUARTIER TUIBLA   TETOUAN",
+    "AdresseA": "حي طويبلة . تطوان                                 ",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole MHAMED AZZIMANE",
+    "NOM_ETABA": "مدرسة امحمد عزيمان",
+    "AdresseL": "AVALI YAATA  N8    AIN  MALLOULE",
+    "AdresseA": "شارع علي  يعتة . رقم : 8 عين ملول",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole TARIK AL WAHDA",
+    "NOM_ETABA": "مدرسة طريق الوحدة",
+    "AdresseL": "hay koelma rue bni hdifa    ",
+    "AdresseA": "حي كويلما  شارع بني حديفة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole MOHAMMED AL HALOUI",
+    "NOM_ETABA": "مدرسة محمد الحلوي",
+    "AdresseL": "AL ICHARA JBEL DERSA COMMUNE TETOUA AL AZHAR",
+    "AdresseA": "كدية الحمد تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole FKIH LARBI LOUH",
+    "NOM_ETABA": "مدرسة الفقيه العربي اللوه",
+    "AdresseL": "MOKLATA TETOUAN KOUELMA",
+    "AdresseA": "موكلاتة كويلما تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole MOHAMMED SEBBAGH",
+    "NOM_ETABA": "مدرسة محمد الصباغ",
+    "AdresseL": "LOTISSEMENT AL OUIKAYA TETOUAN",
+    "AdresseA": "تجزئة الوقاية",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole AHMED BOUKMAKH",
+    "NOM_ETABA": "مدرسة أحمد بوكماخ",
+    "AdresseL": "QUARTIER ANNAKATA ",
+    "AdresseA": "حي النقاطة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole IDRISS PREMIER",
+    "NOM_ETABA": "مدرسة إدريس الأول",
+    "AdresseL": "hay koelma",
+    "AdresseA": "حي كويلما",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole FATIMA AL FIHRIA",
+    "NOM_ETABA": "مدرسة فاطمة الفهرية",
+    "AdresseL": "quartier taboula",
+    "AdresseA": "حي طابولة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU CHOUAIB DOUKKALI",
+    "NOM_ETABA": "المدرسة الابتدائية أبو شعيب الدكالي ",
+    "AdresseL": "TABOULA RUE OMAR EL MOKHTAR QUARTIER ALBORJ",
+    "AdresseA": " حومة البرج طابولة شارع عمر المختار",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZAYNAB NEFZAOUIA",
+    "NOM_ETABA": "مدرسة زينب النفزاوية الابتدائية",
+    "AdresseL": "AV Boussafou",
+    "AdresseA": "حي بوسافو",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELAZIZ MEZIANE BELFKIH",
+    "NOM_ETABA": "مدرسة عبد العزيز مزيان بلفقيه الابتدائية",
+    "AdresseL": "QUARTIER SOUANI",
+    "AdresseA": "حي السواني",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED ERRAMI",
+    "NOM_ETABA": "مدرسة محمد الرامي",
+    "AdresseL": "TETOUAN",
+    "AdresseA": "تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycee CHAIKH MOHAMED EL MEKKI ENNASSIRI",
+    "NOM_ETABA": "الثانوية التأهيلية الشيخ محمد المكي الناصري ",
+    "AdresseL": "AVENUE DJIBOUTI ain melloul tétouan",
+    "AdresseA": "شارع الدجيبوتي عين ملول تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE KASSEM EZHIRI",
+    "NOM_ETABA": "الثانوية التأهيلية قاسم الزهيري",
+    "AdresseL": "HAY KWILMA RUE MIDAR ROUTE MOUKLATA",
+    "AdresseA": "حي كويلما شارع ميضار طريق مكلاتة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL KORTOBI",
+    "NOM_ETABA": "الثانوية التأهيلية القرطبي",
+    "AdresseL": "Dar Morcia",
+    "AdresseA": "دار مورسيا",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE KADI AYAD",
+    "NOM_ETABA": "الثانوية التأهيلية القاضي عياض",
+    "AdresseL": "AV KHALID IBN OUALID  TETOUAN",
+    "AdresseA": "شارع خالد بن الوليد",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE KHADIJA OUM AL MOUMININE",
+    "NOM_ETABA": "الثانوية التأهيلية خديجة أم المؤمنين",
+    "AdresseL": "quARTIER SCOLAIRE AV MOHAMED V  TETOUAN",
+    "AdresseA": "الحي المدرسي, زنقة ابن المقفع شارع محمد الخامس ",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycee EL MEHDI BENNOUNA",
+    "NOM_ETABA": "الثانوية التأهيلية المهدي بنونة",
+    "AdresseL": "AV ABDELKHALAK TORRES  TETOUAN",
+    "AdresseA": "شارع عبد الخلق الطريس تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABOU BAKR ASSEDDIQ",
+    "NOM_ETABA": "الثانوية التأهيلية أبو بكر الصديق",
+    "AdresseL": "AVENU MOULAY ALHASSAN BEN EL MAHDI B P 1130",
+    "AdresseA": "AVENU MOULAY ALHASSAN BEN EL MAHDI B P 1130",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE KADI IBN AL ARABI",
+    "NOM_ETABA": "الثانوية التأهيلية القاضي ابن العربي",
+    "AdresseL": "40 AV MOHAMED V  TETOUAN",
+    "AdresseA": "شارع محمد الخامس رقم 40",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABDEL KHALEK TORRES",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الخالق الطريس",
+    "AdresseL": "HAY ATLAS  mssala 2 rue el jadida TETOUAN",
+    "AdresseA": "حي الأطلس ، المصلى 2 ، شارع الجديدة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IMAM AL GHAZALI",
+    "NOM_ETABA": "الثانوية التأهيلية الامام الغزالي",
+    "AdresseL": "RUE TAHRANE  BP 5184  Qrt Mly ELHASSAN",
+    "AdresseA": "شارع طهران - ص.ب: 5184 - حي مولاي الحسن ",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE CHARIF AL IDRISSI",
+    "NOM_ETABA": "الثانوية التأهيلية الشريف الإدريسي",
+    "AdresseL": "AV AL MASSIRA  TETOUAN",
+    "AdresseA": "شارع المسيرة الخضراء",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE JABER IBN HAYAN",
+    "NOM_ETABA": "الثانوية التأهيلية جابر بن حيان",
+    "AdresseL": "AV HASSAN II  ",
+    "AdresseA": "شارع الحسن الثاني  ",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE HASSAN II",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "Avenue Hassan II Rue Oued Baht  BP 631 Tétouan",
+    "AdresseA": "ki الحسن الثاني , شارع  واد بهت ص ب 631- تطوان",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE FARABI",
+    "NOM_ETABA": "الثانوية التأهيلية الفرابي",
+    "AdresseL": "HJAR LEEROUSSA",
+    "AdresseA": "حجر العروسة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IDRISS BEN ZEKRI",
+    "NOM_ETABA": " الثانوية التأهيلية ادريس بنزكري",
+    "AdresseL": "TABOULA",
+    "AdresseA": "طابولة",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Centre CPGE ",
+    "NOM_ETABA": "مركز الأقسام التحضيرية ",
+    "AdresseL": "Ain Melloul",
+    "AdresseA": "aV. joulan wilaya center tetouan",
+    "COMMUNE": "Tétouan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT le giratoire",
+    "NOM_ETABA": "مؤسسة المحور الخصوصية",
+    "AdresseL": "av. Tantan quartier M'hannech-",
+    "AdresseA": "شارع  طانطان  حي المحنش",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ajial  manahil",
+    "NOM_ETABA": "مؤسسة أجيال المناهل الخصوصية",
+    "AdresseL": "route de cebta kallalyenne Prè",
+    "AdresseA": "طريق سبتة القلاليين قرب فيلا م",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT g.S AL firdaouss",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس الفردوس الخصوصية",
+    "AdresseL": "av. mohamed hajjaj n°17",
+    "AdresseA": "17 شارع محمد حجاج",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT jazirat al oloum",
+    "NOM_ETABA": "مؤسسة جزيرة العلوم الخصوصية",
+    "AdresseL": "N°6, Av cairo",
+    "AdresseA": "شارع القاهرة رقم 6 ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al hamama al baida",
+    "NOM_ETABA": "مؤسسة الحمامة البيضاء الخصوصية",
+    "AdresseL": " avenue al jazira Rue 02 B15",
+    "AdresseA": "شارع الجزيرة درب 02  B 15",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Institut bab saida",
+    "NOM_ETABA": "مؤسسة معهد باب الصعيدة الخصوصية",
+    "AdresseL": "bab sefli tetouan",
+    "AdresseA": "الباب السفلي تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT G.S NAKHIL SALAM",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس نخيل السلام الخصوصية",
+    "AdresseL": "Av Khalid ibn Oualid N° 2",
+    "AdresseA": "شارع خالد بن الوليد رقم 2",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  OULI ANNOUHA",
+    "NOM_ETABA": "مؤسسة أولي النهى الخصوصية",
+    "AdresseL": "av ahmed el messasi taboula te",
+    "AdresseA": "شارع أحمد المساسي حي طبولة",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANAJAH",
+    "NOM_ETABA": "مؤسسة النجاح الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "شارع ابن باجة رقم 40",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL KALAM BARAEM WACHBAL",
+    "NOM_ETABA": "مؤسسة القلم براعم وأشبال الخصوصية",
+    "AdresseL": "AV TUNIS N 32 TOUABEL SOUFLA",
+    "AdresseA": "شارع تونس رقم 32 الطوابل السفل",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AHDANE ARRAYANE",
+    "NOM_ETABA": "مؤسسة أحضان الريان الخصوصية",
+    "AdresseL": "rue mouritania 32",
+    "AdresseA": "شارع موريطانيا رقم 32",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement Complexe educatif haya nabdae",
+    "NOM_ETABA": "مؤسسة المركب التربوي هيا نبدأ تطوان الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع محمد أمزيان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ABNAE ABILKASSEM",
+    "NOM_ETABA": "مؤسسة أبناء أبي القاسم الخصوصية",
+    "AdresseL": "Quartier M hannech 1 - C.U. Te",
+    "AdresseA": "حي المحنش 1 - ج.ح. تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ofok al maarif",
+    "NOM_ETABA": "مؤسسة أفق المعارف الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الولاية قطعة رقم 637 و 6",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT aya al madina",
+    "NOM_ETABA": "مؤسسة آية المدينة الخصوصية",
+    "AdresseL": "Quartier boussafo al qalalin b",
+    "AdresseA": "حي بوسافو القلالين ص ب 5767",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT GS AURORE DE BARBARIE",
+    "NOM_ETABA": "مؤسسة م.م لورور دوبربري الخصوصية",
+    "AdresseL": "AV DES FAR N°194",
+    "AdresseA": "شارع الجيش الملكي رقم 194",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETBLISSEMENT TIJAN AL NOUR",
+    "NOM_ETABA": "مؤسسة تيجان النور الخصوصية",
+    "AdresseL": "AV ABDELLAH CHEFCHAOUINI RUE R",
+    "AdresseA": "شارع عبد الله الشفشاوني زنقة ا",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ITR AZZOHOUR",
+    "NOM_ETABA": "مؤسسة عطر الزهور الخصوصية",
+    "AdresseL": "avenue khalid ibno alwalid rue",
+    "AdresseA": "شارع خال بن الوليد زنقة الوفاء",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LA RUCHE DES SCIENCES",
+    "NOM_ETABA": "مؤسسة لاريش دي سيانس الخصوصية",
+    "AdresseL": "Rue SEBTA, Hjar LAAROUSSA",
+    "AdresseA": "طريق سبتة ، حجر العروسة",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LA SOURCE DE TETOUAN",
+    "NOM_ETABA": "مؤسسة منبع تطوان الخصوصية",
+    "AdresseL": "AV MOHAMED BENNOUNA RUE BOU IB",
+    "AdresseA": "شارع محمد بنونة زنقة بوإبلال ب",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALM SCHOOL",
+    "NOM_ETABA": "مؤسسة أ ل م الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق طوريطا",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT g.s . LE SAPHIR 2",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس السفير2 الخصوصية ",
+    "AdresseL": "Av Mohamed Daoued n/49 RUE ALM",
+    "AdresseA": "شارع محمد داود زنقة الموصل الط",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT annourain",
+    "NOM_ETABA": "مؤسسة النورين الخصوصية",
+    "AdresseL": "av ceuta rue a-b n\"6-8 mhanech",
+    "AdresseA": "شارع سبتة درب أ رقم 6 المحنش 2",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ajial al oumouma 1",
+    "NOM_ETABA": "مؤسسة أجيال الأمومة 1 الخصوصية",
+    "AdresseL": "av . khalid ibn al oualid ",
+    "AdresseA": "شارع خالد بن الوليد",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ahdan al oumouma annexe",
+    "NOM_ETABA": "مؤسسة ملحقة أحضان الأمومة الخصوصية",
+    "AdresseL": "av . mauritania n°32",
+    "AdresseA": "شارع موريطانيا رقم 32",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT moujammaa al maarifa",
+    "NOM_ETABA": "مؤسسة مجمع المعرفة الخصوصية",
+    "AdresseL": "av . sijilmassa touabel soufla",
+    "AdresseA": "شارع سجلماسسة الطوابل السفلى",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole al ahlia",
+    "NOM_ETABA": "المدرسة الأهلية الخصوصية",
+    "AdresseL": "ecole al ahlia",
+    "AdresseA": "شارع المفضل أفيلال باب العقلة",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Ahdan Al Oumouma",
+    "NOM_ETABA": "مؤسسة احضان الأمومة الخصوصية",
+    "AdresseL": "N° 3, Rue Mauritania",
+    "AdresseA": "رقم 3، شارع موريطانيا",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Abrar",
+    "NOM_ETABA": "مؤسسة الأبرار الخصوصية",
+    "AdresseL": "AV oued tansift rue n°14 Quart",
+    "AdresseA": "شارع واد تانسيفت زنقة 14 حي طو",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AMIS DES SCIENCES",
+    "NOM_ETABA": "مؤسسة اصدقاء العلوم الخصوصية",
+    "AdresseL": "Avenue des F.A.R Rue Marbella",
+    "AdresseA": "شارع الجيش الملكي زنقة مربيا ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT manabia al ilm",
+    "NOM_ETABA": "مؤسسة منابع العلم الخصوصية",
+    "AdresseL": "AV AL MANAMA RUE 3 B.P 4120",
+    "AdresseA": "شارع المنامة زنقة 3 ص. ب 4120",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Balsam",
+    "NOM_ETABA": "مؤسسة البلسم الخصوصية",
+    "AdresseL": "Rue Al MANAMA, N° 66 TOUABEL",
+    "AdresseA": "شارع المنامة، رقم 66 الطوابل",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Dar Al Manahil",
+    "NOM_ETABA": "مؤسسة دار المناهل الخصوصية",
+    "AdresseL": "Lotissement Souani, Lot. 24 Ae",
+    "AdresseA": "تجزئة السواني، القطعة 24 المطا",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT batoul zahyani",
+    "NOM_ETABA": "مؤسسة الباتول الزهياني الخصوصية",
+    "AdresseL": "Hjar Laaroussa, Al Kallalyenne",
+    "AdresseA": "احجار العروسة القلاليين",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT kOnouz al irfane",
+    "NOM_ETABA": "مؤسسة كنوز العرفان الخصوصية",
+    "AdresseL": "avenue meknes, route bouanan, ",
+    "AdresseA": "شارع مكناس طريق بوعنان قرب جمع",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Institut taha hossein",
+    "NOM_ETABA": "مؤسسة معهد طه حسين الخصوصية",
+    "AdresseL": "bab sefli tetouan",
+    "AdresseA": "لباب السفلي تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AZZOMORRODA",
+    "NOM_ETABA": "مؤسسة الزمردة الخصوصية",
+    "AdresseL": "av , mohamed daoud rue al khor",
+    "AdresseA": "شارع محمد داود زنقة الخرطوم رق",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MANAHIL AL IRFANE",
+    "NOM_ETABA": "مؤسسة مناهل العرفان الخصوصية",
+    "AdresseL": "Lot Aïn Melloul -1- quartier t",
+    "AdresseA": "تجزئة عين ملول -1- حي الطوابل ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MADARISS AL MOUSTAKBAL",
+    "NOM_ETABA": "مؤسسة مدارس المستقبل الخصوصية",
+    "AdresseL": "Route de Martil",
+    "AdresseA": "طريق مرتيل ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lyceé Mazine",
+    "NOM_ETABA": "ثانوية مازن",
+    "AdresseL": "Avenue Yacoub Al Mansour 2° ét",
+    "AdresseA": "شارع يعقوب المنصور الطابق الثا",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE AL MANSOUR DAHBI",
+    "NOM_ETABA": "ثانوية المنصور الذهبي الخصوصية",
+    "AdresseL": "N° 91, Avnue Hassan II - Tetou",
+    "AdresseA": "رقم 91، شارع الحسن الثاني - تط",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AbdEllah BEn  Omar",
+    "NOM_ETABA": "مؤسسة عبد الله بن عمر الخصوصية",
+    "AdresseL": "Avenue Mauritania, N° 25 - Tet",
+    "AdresseA": "شارع موريطانيا رقم 25 - تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Aghsan Riad Al AndalouS",
+    "NOM_ETABA": "مؤسسة أغصان رياض الأندلس الخصوصية",
+    "AdresseL": "Avenue Abou Bakr Seddik - JBEL",
+    "AdresseA": "شارع أبو بكر الصديق - جبل درسة",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Houda",
+    "NOM_ETABA": "مؤسسة الهدى الخصوصية",
+    "AdresseL": "Avenue Hassan II, N° 11 - Teto",
+    "AdresseA": "شارع الحسن الثاني رقم 11 - تطو",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Oumouma",
+    "NOM_ETABA": "مؤسسة الأمومة الخصوصية",
+    "AdresseL": "Avenue Khalid Ibn Al Oualid, N",
+    "AdresseA": "شارع خالد بن الوليد رقم 10- تط",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " AHDANE ABC AL OUMOUMA",
+    "NOM_ETABA": "أحضان أ ب ص الأمومة  ",
+    "AdresseL": "Avenue Khalid Ibn Al OUalid N°",
+    "AdresseA": "شارع خالد بن الوليدرقم 67 - تط",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT GROUPE SCOLAIRE SANABIL-AL MAARIFA",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس سنابل المعرفة الخصوصية",
+    "AdresseL": "Hay Matar B.P. : 272 - Tetouan",
+    "AdresseA": "حي المطار، ص. ب : 272 - تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Daoud",
+    "NOM_ETABA": "مؤسسة داود الخصوصية",
+    "AdresseL": "Jnan salas MHanech II - Tetoua",
+    "AdresseA": "جنان صلاص المحنش 2 تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Mahad Al Hor",
+    "NOM_ETABA": "مؤسسة المعهد الحر الخصوصية",
+    "AdresseL": "Talâa Sidi Ali Baraka, N° 42 -",
+    "AdresseA": "طالعة سيدي علي بركة، رقم 42 - ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT mENHAJ ALOUIAM",
+    "NOM_ETABA": "مؤسسة منهاج الوئام الخصوصية",
+    "AdresseL": "Hay Boussafou, Al Matar - Teto",
+    "AdresseA": "طريق بوجراح حومة بوسافو تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Abdeslam R`zini",
+    "NOM_ETABA": "مؤسسة عبد السلام الرزيني الخصوصية",
+    "AdresseL": "rue belarbi al alaoui Boujarah",
+    "AdresseA": "شارع بلعربي العلوي بوجراح العل",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Fadila",
+    "NOM_ETABA": "مؤسسة الفضيلة الخصوصية",
+    "AdresseL": "Avenue Mechouar Said - Tetouan",
+    "AdresseA": "شارع المشور السعيد - تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT omO Al Kora 1",
+    "NOM_ETABA": "مؤسسة أم القرى1 الخصوصية",
+    "AdresseL": "Avenue mhand ouryarli - Tetoua",
+    "AdresseA": "شارع امحند الورياغلي قرب معمل ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Manara II",
+    "NOM_ETABA": "مؤسسة المنارة 2 الخصوصية",
+    "AdresseL": "Rue El Farah. Lotissement Avia",
+    "AdresseA": "زنقة الفرح تجزئة المطار - تطوا",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El manbaa",
+    "NOM_ETABA": "مؤسسة المنبع الخصوصية",
+    "AdresseL": "AVENUE MED DAOUED TAOUABEL SOU",
+    "AdresseA": "شارع محمد داود الطوابل السفلى ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Mohamed V",
+    "NOM_ETABA": "مؤسسة محمد الخامس الخصوصية",
+    "AdresseL": "Avenue Al Ouazir Mohamed SEFFA",
+    "AdresseA": "شارع الوزير محمد الصفار رقم 2و",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NABIGHA DOBIANI",
+    "NOM_ETABA": "مؤسسة النابغة الدبياني الخصوصية",
+    "AdresseL": " QUATIER TANGAOUA RUE KANDIL N",
+    "AdresseA": "حومة طنجاوة، شارع القنديل، رقم",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YASSAMIN AL ANDALOUS",
+    "NOM_ETABA": "ياسمين الأندلس",
+    "AdresseL": "Rue Ibn Rochd",
+    "AdresseA": "زنقة ابن رشد",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Abou Al Kacem",
+    "NOM_ETABA": "مؤسسة أبو القاسم الخصوصية",
+    "AdresseL": "Quartier M hannech 1 - C.U. Te",
+    "AdresseA": "حي المحنش 1 - ج.ح. تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Oum Al Kora 2",
+    "NOM_ETABA": "مؤسسة أم القرى 2 الخصوصية",
+    "AdresseL": "Quartier Sidi Talha, Rue Ali B",
+    "AdresseA": "حي سيدي طلحة، شارع علي بن أبي ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Groupe Scolaire LE Saphir 1",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس السفير 1 الخصوصية",
+    "AdresseL": "Rue Mohamed Daoud, Zankat Dima",
+    "AdresseA": "شارع محمد داود، زنقة دمشق رقم ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AzzahraE",
+    "NOM_ETABA": "مؤسسة الزهراء الخصوصية",
+    "AdresseL": "AV ZAYOU ZANKT OULFA N° 24 Kha",
+    "AdresseA": "شارع زايو, زنقة الألفة, رقم 24",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Baraim er-razi",
+    "NOM_ETABA": "مؤسسة براعم الرازي الخصوصية",
+    "AdresseL": "AV ABDELKHALAK TORRES TETOUAN",
+    "AdresseA": "نهج عبد الخالق الطريس  تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Nardine",
+    "NOM_ETABA": "مؤسسة نردين الخصوصية",
+    "AdresseL": "Rue Abdelkhalak Torres, N° 279",
+    "AdresseA": "شارع عبد الخالق الطريس، رقم 27",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT alam al ouiam",
+    "NOM_ETABA": "مؤسسة عالم الوئام الخصوصية",
+    "AdresseL": "Route de Martil, Av. Abdelkhal",
+    "AdresseA": "طريق مرتيل، شارع عبد الخالق ال",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JALINOUS",
+    "NOM_ETABA": "جالينوس",
+    "AdresseL": "AVENUE BNI AROUSS LOTISSEMENT ",
+    "AdresseA": "شارع بني عروس تجزئة ايربن رقم ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHERTI",
+    "NOM_ETABA": "مدرسة الشرتي الخصوصية",
+    "AdresseL": "RUE MIDAR AVENUE COELMA N°96",
+    "AdresseA": "شارع ميضار حي كويلمة رقم 36",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MES PREMIERS PETITS PAS",
+    "NOM_ETABA": "مؤسسة MES PETIS PREMIERS PAS الخصوصية ",
+    "AdresseL": "AV JABAL ZARHOUNE ",
+    "AdresseA": "شارع جبل زرهون",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CALIFORNIA SCHOOL STUDENTS",
+    "NOM_ETABA": "مؤسسة كاليفورنيا",
+    "AdresseL": "NULL",
+    "AdresseA": "عين ملول تجزئة كاليفورنيا 3",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement mimi monde",
+    "NOM_ETABA": "مؤسسة ميمي موند الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع دجيبوتي 38 زنقة 5 تطوان",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALFAKIH ALMOURIR",
+    "NOM_ETABA": "مؤسسة الفقيه المرير الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع محمد الخراز زنقة النغم ال",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA BASE",
+    "NOM_ETABA": "المركب المدرسي لاباز",
+    "AdresseL": "115 avenue m hand el ouariaghl",
+    "AdresseA": "شارع امحند الورياغلي رأس الغار",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAYA NABDAE TETOUAN",
+    "NOM_ETABA": "مؤسسة هيا نبدأ تطوان الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الحاج بنونة زنقة الأزهار ",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DOUNIA AL BARAA",
+    "NOM_ETABA": "مؤسسة دنيا البراءة الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "حي غرابو شارع المختار السوسي ز",
+    "COMMUNE": "Tétouan ",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

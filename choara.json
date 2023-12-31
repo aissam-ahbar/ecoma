@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLEGIAL CHOARA",
+    "NOM_ETABA": "ثانوية الشعراء الاعدادية",
+    "AdresseL": "Commune CHOARA",
+    "AdresseA": "جماعة الشعراء",
+    "COMMUNE": "Choara",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHOUAARA CENTRE",
+    "NOM_ETABA": "الشعراء المركزية",
+    "AdresseL": "DOUAR OULED HDIDA COMMUNE CHOUAARA",
+    "AdresseA": "دوار اولاد حديدة جماعة الشعراء",
+    "COMMUNE": "Choara",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUAHRA CENTRE",
+    "NOM_ETABA": "مركزية الطواهرة",
+    "AdresseL": "DOUAR TOUAHRA COMMUNE CHOUAARA",
+    "AdresseA": "دوار الطواهرة جماعة الشعراء",
+    "COMMUNE": "Choara",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

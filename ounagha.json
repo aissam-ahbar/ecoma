@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE MOHAMED ZERKTOUNI",
+    "NOM_ETABA": " الثانوية الإعدادية محمد الزرقطوني",
+    "AdresseL": "OUNAGHA CENTRE",
+    "AdresseA": "مركز أوناعة",
+    "COMMUNE": "Ounagha",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S ABD LAKRIM ALKHATABI",
+    "NOM_ETABA": "م.م. عبد الكريم الخطابي",
+    "AdresseL": "CENTE COMMUNE OUNAGHA",
+    "AdresseA": "مركز جماعة أناغة",
+    "COMMUNE": "Ounagha",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT LAKHDAR",
+    "NOM_ETABA": "ايت لخضر",
+    "AdresseL": "DOUAR AIT LAKHDAR OUNAGHA",
+    "AdresseA": "دوار ايت لخضر أناغة",
+    "COMMUNE": "Ounagha",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LHARARTA",
+    "NOM_ETABA": "م.م لحرارثا",
+    "AdresseL": "DOUAR AIT SRAIDI OUNAGHA",
+    "AdresseA": " دوار ايت الصريدي اوناغة  ",
+    "COMMUNE": "Ounagha",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OTMAN BNO AAFFAN",
+    "NOM_ETABA": "م.م. عثمان بن عفان",
+    "AdresseL": "DOUAR BIR LAMZOURI OUNAGHA",
+    "AdresseA": "دوار بير لمزوري جماعة اوناغة",
+    "COMMUNE": "Ounagha",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ABAROU",
+    "NOM_ETABA": "م م أبارو",
+    "AdresseL": "DOUAR ABAROU OUNAGHA",
+    "AdresseA": "دوار ابارو اناغة",
+    "COMMUNE": "Ounagha",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MADRASSAT ABIR POUR L'ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مدرسة عبير للتعليم الأولي الخصوصي",
+    "AdresseL": "N° 46 LOT LAAZIZIA OUNAGHA",
+    "AdresseA": "رقم 46 تجزئة العزيزية أوناغة",
+    "COMMUNE": "Ounagha",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

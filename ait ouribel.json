@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SIJILMASSA",
+    "NOM_ETABA": "سجلماسة",
+    "AdresseL": "AIT OURIBEL CENTRE",
+    "AdresseA": "ايت اوريبل",
+    "COMMUNE": "Ait Ouribel",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALLAL RAHMANI",
+    "NOM_ETABA": "علال الرحماني",
+    "AdresseL": "DOUAR KHAMMOUJA COMMUNE AIT OURIBEL",
+    "AdresseA": "دوار خموجة ج ايت اوربيل",
+    "COMMUNE": "Ait Ouribel",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MOUSSA OUBRAHIM",
+    "NOM_ETABA": "ايت موسى وبراهيم",
+    "AdresseL": "DOUAR AIT MOUSSA OUBRAHIM COMMUNE AIT OURIBEL",
+    "AdresseA": "دوالر ايت موسى وبراهيم ج ايت اوربيل",
+    "COMMUNE": "Ait Ouribel",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT SAID LAFRAICH",
+    "NOM_ETABA": "ايتسعيد لفرايش",
+    "AdresseL": "DOUAR AIT  LAFRAICHE COMMUNE AIT OURIBEL",
+    "AdresseA": "د ايت لفرايش ج ايت اوربيل",
+    "COMMUNE": "Ait Ouribel",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

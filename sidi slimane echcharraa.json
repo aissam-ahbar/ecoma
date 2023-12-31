@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "ZEGZEL",
+    "NOM_ETABA": "زكزل",
+    "AdresseL": "COMMUNE DE  sidi slimane",
+    "AdresseA": "بلدية سيدي سليمان شراعة",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU AL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "COMMUNE DE SIDI SLIMANE CHERRAA",
+    "AdresseA": "حي السعادة بلدية سيدي سليمان شراعة",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BEN ABDELLAH OUGGOUTI",
+    "NOM_ETABA": "بن عبد الله وكوتي",
+    "AdresseL": "HAY LAHBIL",
+    "AdresseA": "حي لهبيل",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "BP 32 BERKANE SIDI SLIMANE CHERRAA",
+    "AdresseA": "ص,ب 32",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAADA",
+    "NOM_ETABA": "السعادة",
+    "AdresseL": "MUNICIPALITE SIDI SLIMANECHERRAA",
+    "AdresseA": "بلدية سيدي سليمان شراعة",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MBAREK EL BEKKAY",
+    "NOM_ETABA": "مبارك البكاي لهبيل",
+    "AdresseL": "HAY ALOUIFAQ SIDI SLIMANE CHERRAA",
+    "AdresseA": "حي الوفاق سيدي سليمان شراعة",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الامل",
+    "AdresseL": "hay old alhaj sidi slimane charraa",
+    "AdresseA": "حي أولاد الحاج سيدي سليمان  شراعة ",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMAN BNOU AOUF",
+    "NOM_ETABA": "عبد الرحمان بن عوف",
+    "AdresseL": "BOULEVARD DES FAR",
+    "AdresseA": "شارع الجيش الملكي",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHBIL 3",
+    "NOM_ETABA": "لهبيل 3",
+    "AdresseL": "quartier lahbil sidi slimane charaa berkane",
+    "AdresseA": "pd gifdg ^lhu, sd$d sgdlhk hgqvhu, fvmhk",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID BNOU ELOUALID",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "RUE LAIMOUNE HAY ESSAADA",
+    "AdresseA": "زنقة الليمون حي السعادة",
+    "COMMUNE": "Sidi Slimane Echcharraa",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "El wiam 2",
+    "NOM_ETABA": "الوئام 2",
+    "AdresseL": "N° 4, Rue Oued Eddahab, Quarti",
+    "AdresseA": "رقم 4، زنقة وادي الذهب، حي الس",
+    "COMMUNE": "Sidi Slimane Echcharraa ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "elkaoutar",
+    "NOM_ETABA": "الكوثر",
+    "AdresseL": "",
+    "AdresseA": "زنقة 7 شطر 1 حي السعادة",
+    "COMMUNE": "Sidi Slimane Echcharraa ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

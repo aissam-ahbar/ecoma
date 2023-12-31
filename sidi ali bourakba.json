@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial RIF",
+    "NOM_ETABA": "الثانوية الإعدادية الريف",
+    "AdresseL": "SIDI ALI BOURaKBA CENTRE",
+    "AdresseA": "سيدي علي بورقبة المركز",
+    "COMMUNE": "Sidi Ali Bourakba",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI ALI BOURAKBA CENTRE",
+    "NOM_ETABA": "سيدي علي بورقبة المركز",
+    "AdresseL": "SIDI ALI BOUREKBA COMMUNE SIDI ALI BOURAKBA ",
+    "AdresseA": "دوار سيدي علي بورقبة جماعة سيدي علي بورقبة",
+    "COMMUNE": "Sidi Ali Bourakba",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TASTITE CENTRE",
+    "NOM_ETABA": "تاستيت تامركز",
+    "AdresseL": "DOUAR TASTITE COMMUNE SIDI ALI BOURAKBA",
+    "AdresseA": "دوارتاستيت جماعة سيدي علي بورقبة",
+    "COMMUNE": "Sidi Ali Bourakba",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHABABA CENTRE",
+    "NOM_ETABA": "خبابة المركز",
+    "AdresseL": "DOUAR KHABABA COMMUNE SIDI ALI BOURAKBA  ",
+    "AdresseA": "دوار خبابة جماعة سيدي علي بورقبة",
+    "COMMUNE": "Sidi Ali Bourakba",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI HAZM CENTRE",
+    "NOM_ETABA": "م/م بني حازم المركز",
+    "AdresseL": "DOUAR BNI HAZM COMSIDI ALI BOURAKBA",
+    "AdresseA": "دوار بني حازم جماعة سيدي علي بورقبة",
+    "COMMUNE": "Sidi Ali Bourakba",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

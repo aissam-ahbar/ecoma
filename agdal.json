@@ -1,0 +1,1142 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELHADI TAZI",
+    "NOM_ETABA": " الثانوية الإعدادية عبد الهادي التازي",
+    "AdresseL": "AV SLAOUI RUE ABD ELAZIZ BOUTALEB",
+    "AdresseA": "  شارع السلاوي  طريق عبد العزيز  بوطالب   ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KODS",
+    "NOM_ETABA": "الثانوية الإعدادية القدس",
+    "AdresseL": "RUE IBN EL ATTIR",
+    "AdresseA": "شارع ابن الأثير طريق عين الشقف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKRIM DAOUDI",
+    "NOM_ETABA": "الثانوية الإعدادية عبدالكريم الداودي",
+    "AdresseL": "av LISSANE EDDINE ibn khateb SIDI BRAHIM FES",
+    "AdresseA": "شارع لسان الدين  ابن الخطيب  سيدي ابراهيم",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AJROUM",
+    "NOM_ETABA": "الثانوية الإعدادية إبن أجروم",
+    "AdresseL": "HAY TARIK I",
+    "AdresseA": "حي طارق 1",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR AL KHAYAM",
+    "NOM_ETABA": "الثانوية الإعدادية عمر الخيام",
+    "AdresseL": "BLAD ACH ACH zenkat lala malika",
+    "AdresseA": "زنقة للامليكة اكدال فاس",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM ALI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام علي",
+    "AdresseL": "RUE  AL IMAM ALI bp 2105  VN FES",
+    "AdresseA": "زنقة الإمام علي ص ب 2105",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ATLASS",
+    "NOM_ETABA": "الثانوية الإعدادية الأطلس",
+    "AdresseL": "RUE ibn al mouataz al atlass",
+    "AdresseA": "زنقة ابن المعتز الأطلس",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN TOFAIL",
+    "NOM_ETABA": "المدرسة الابتدائية ابن طفيل",
+    "AdresseL": "RUE AHMED EL HAYANI",
+    "AdresseA": "شارع أحمد أمين",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR ELKHAYAM",
+    "NOM_ETABA": "المدرسة الابتدائية عمر الخيام",
+    "AdresseL": "12 rue LALLA MALIKA AGDAL",
+    "AdresseA": "12    زنقة للامليكة أكدال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLR  PREMIER OCTOBRE",
+    "NOM_ETABA": " المدرسة الابتدائية فاتح أكتوبر ",
+    "AdresseL": "AVENUE SLAOUI RUE ABD ELAZIZBOUTALLEB",
+    "AdresseA": "زنقة عبد العزيز بوطالب",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABNAE AL JAICH",
+    "NOM_ETABA": " المدرسة الابتدائية أبناء الجيش",
+    "AdresseL": "bab al ghol RUE EL HOUSSEIMA ATLAS",
+    "AdresseA": "باب الغول شارع الحسيمة",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI BRAHIM",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي ابراهيم",
+    "AdresseL": "rue kadissia LIDOU DHAR ELMEHRAZ",
+    "AdresseA": "شارع القادسية الليدو ظهر المهراز",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LALA FATIM AZZAHRA",
+    "NOM_ETABA": "المدرسة الابتدائية للا فاطمة الزهراء",
+    "AdresseL": "HAY DokKARAT",
+    "AdresseA": "حي الدكارات",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DOUKKARAT MIXTE",
+    "NOM_ETABA": "المدرسة الابتدائية الدكارات المختلطة",
+    "AdresseL": "QUARTIER DES FONCTIONNAIRE doukkarat",
+    "AdresseA": "حي الموظفين الدكارات",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZOHR",
+    "NOM_ETABA": "المدرسة الابتدائية ابن زهر",
+    "AdresseL": "12 HAY TARIK 1RUE BEN SOUDA",
+    "AdresseA": " حي طارق 1 زنقة 12 طريق بنسودة",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM MALIK ",
+    "NOM_ETABA": "المدرسة الابتدائية الإمام مالك ",
+    "AdresseL": "1 RUE EL HOUSSAIMA ATLAS",
+    "AdresseA": " 1 زنقة الحسيمة  الاطلس     ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED ZERKTOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الزرقطوني",
+    "AdresseL": "HAY NAJAH SIDI BRAHIM",
+    "AdresseA": "حي النجاح سيدي ابراهيم",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDLAZIZ BEN CHAKROUN",
+    "NOM_ETABA": "المدرسة الابتدائية عبد العزيز بنشقرون ",
+    "AdresseL": "RUE DES ORANGERS HAY ZAZA RTE AIN CHKEF",
+    "AdresseA": "زنقة الليمون حي زازا طريق عين الشقف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  11 JANVIER",
+    "NOM_ETABA": "المدرسة الابتدائية 11 يناير",
+    "AdresseL": " HAY BADR",
+    "AdresseA": "شارع زورياب  حي بدر",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ASSALAM",
+    "NOM_ETABA": "المدرسة الابتدائية السلام",
+    "AdresseL": "HAY KARIM AL AMRANI doukkarat",
+    "AdresseA": "حي كريم العمراني الدكارات",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL YASSAMINE",
+    "NOM_ETABA": "المدرسة الابتدائية الياسمين",
+    "AdresseL": "Av IBN ATTIR COMMUNE AGDAL",
+    "AdresseA": "شارع ابن الأثير طريق عين الشقف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKRIM ERRAISS",
+    "NOM_ETABA": "الثانوية التأهيلية عبدالكريم الرايس",
+    "AdresseL": "AV ABDELKABIR AL FASSI ADARISSA",
+    "AdresseA": "شارع عبدالكبير الفاسي الادارسة",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الأيوبي",
+    "AdresseL": "RUE DU SOUDAN AGDAL FES",
+    "AdresseA": " زنقة السودان  السودان م . ج . أكدال فاس",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM IBN HANBAL",
+    "NOM_ETABA": " الثانوية التأهيلية الإمام ابن حنبل",
+    "AdresseL": "QUARTIER PRINCE HERITIER EXBOURAMMANA FES",
+    "AdresseA": "حي ولي العهد بورمانة طريق صفرو",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY SLIMAN",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي سليمان",
+    "AdresseL": "av saint louis ROUTE AIN CHKEF",
+    "AdresseA": "شارع سان لوي الأطلس طريق عين الشقف",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "الثانوية التأهيلية يوسف بن تاشفين",
+    "AdresseL": "RUE ben zakour  ATLAS",
+    "AdresseA": "شارع سان لوي  الأطلس طريق عين الشقف",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDRRAHIM BOUABID",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الرحيم بوعبيد",
+    "AdresseL": "HAY TARIQ 1",
+    "AdresseA": "حي طارق 1",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN HAZM",
+    "NOM_ETABA": "الثانوية التأهيلية إبن حزم",
+    "AdresseL": "AVENUE hamid el hazzaz Ex Avenue DES SPORTS agdal",
+    "AdresseA": "شارع حميد الهزاز (شارع الرياضة سابقا) أكدال",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN AL ATIR",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الأثير",
+    "AdresseL": "rue oued almakhazin narjis a  fes  BP5556",
+    "AdresseA": "زنقة واد المخازن نرجس أ  فاس  ص ب 5556",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ARRAZI",
+    "NOM_ETABA": "الثانوية التأهيلية الرازي",
+    "AdresseL": "route oued el makhazine n54bis NARjis 2 agdal",
+    "AdresseA": "زنقة واد المخازن رقم54مكرر النرجس أ  أكدال",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Institut de Technologie Hôtelière et Touristique  ",
+    "NOM_ETABA": "معهد التكنولوجيا الفندقية والسياحية بفاس",
+    "AdresseL": "Avenue Saint Louis (lycee my slimane)",
+    "AdresseA": "شارع سان لويس الأطلس (قرب ثانوية مولاي اسليمان)",
+    "COMMUNE": "Agdal ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "SAISS EXCELLENCE SCHOOL",
+    "NOM_ETABA": "سايس اكسلانس سكول",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم5 تجزئة بلير2 طريق مكناس",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L'ABC DES ANGES",
+    "NOM_ETABA": "L'ABC DES ANGES",
+    "AdresseL": "VILLA N 243 LOT BADR ROUTE AIN",
+    "AdresseA": " فيلا رقم 243 تجزئة بدر طريق ع",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S FES CITY GOLF SCHOOL",
+    "NOM_ETABA": "فاس سيتي كولف سكول",
+    "AdresseL": "87 E lot city golf ",
+    "AdresseA": "رقم 87 تجزئة سيتي كولف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sunny Hill écolee",
+    "NOM_ETABA": "مدرسة التل المشمس للتعليم الخصوصي ",
+    "AdresseL": "13 lot ryad dahila -  alazhar ",
+    "AdresseA": "رقم 13 رياض دهيلة حي الأزهر أك",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "STM SCHOOL OF FEZ PRIVATE",
+    "NOM_ETABA": "ستيم سكول ",
+    "AdresseL": "5B LOT CITE DES FLEURS2 RTE AI",
+    "AdresseA": "حي الزهور2 ب5 طريق عين الشقف ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BADR UNIVERS PRIVATE SCHOOL",
+    "NOM_ETABA": "بدر يونيفر برايفت سكول",
+    "AdresseL": "RUE 4 AV HOUCEIN SLAOUI BADR",
+    "AdresseA": "زنقة4 شارع حسين السلاوي حي بدر",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L'ILE DES GENIES",
+    "NOM_ETABA": "ليل دي جيني",
+    "AdresseL": "25 HAY EL AZHAR1 RTE AIN CHKEF",
+    "AdresseA": "حي الأزهر1 طريق عين الشقف رقم ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE COLIN",
+    "NOM_ETABA": "مجموعة مدارس كولان الخصوصية",
+    "AdresseL": "N 22  RUE CHRISTIANI  HAY WALY",
+    "AdresseA": "رقم 11 زنقة الكريستياني حي ولي",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MARGUERITE SCHOOL",
+    "NOM_ETABA": "ماركوريت سكول",
+    "AdresseL": "20 AVENUE JOULANE ATLAS FES",
+    "AdresseA": "20 شارع الجولان الأطلس م ج ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire le cartesien",
+    "NOM_ETABA": "مجموعة مدارس لو كارتيزيان",
+    "AdresseL": "n 7 lotissement sinord Agdal ",
+    "AdresseA": "رقم 7 تجزئة سينور أكدال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "paul gauguin",
+    "NOM_ETABA": "بول كوكان",
+    "AdresseL": "n 2 adarissa rte ain chkaf",
+    "AdresseA": "رقم 2 الادارسة 2 طريق عين الشق",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "first schoole",
+    "NOM_ETABA": "فيرست سكول بريفي",
+    "AdresseL": "40 lotissement du parc champs ",
+    "AdresseA": "أكدال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le robert",
+    "NOM_ETABA": "لوروبير",
+    "AdresseL": "Lot.N2 Lotissemrnt abihoraira ",
+    "AdresseA": " رقم إثنان تجزئة أبي هريرة الم",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "berceau dange",
+    "NOM_ETABA": "برصو دنج",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع ميمون الخطابي ايت سقاطو ر",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ADAB WA FOUNOUN",
+    "NOM_ETABA": "آداب وفنون",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الجيش الملكي عمارة39 بلوك",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G. S Espace RITA",
+    "NOM_ETABA": "إسباس غيثة",
+    "AdresseL": "n°9 RUE mOUSAB bEN oUMAIR.bOUR",
+    "AdresseA": "رقم9 زنقة مصعب بن عمير بورمانة",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "creche maternelle pablo picasso",
+    "NOM_ETABA": "بابلو بيكاسو الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع  ابن الخطيب درب الزيتون ف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "azhar riad",
+    "NOM_ETABA": "أزهار الرياض",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة اباحنيني رقم9 إقامة سليمة",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CENTRE DE LA PETITE ENFANCE SAINT LOUIS",
+    "NOM_ETABA": "مركز الطفولة الصغيرة سانت لويس الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "58 شارع سان لوي طريق عين الشقف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alassima",
+    "NOM_ETABA": "العاصمة",
+    "AdresseL": "LOTISSEMENT AL MAMOUNIA LOT B ",
+    "AdresseA": "تجزئة المامونية قطعة ب طريق صف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zina",
+    "NOM_ETABA": "زينة",
+    "AdresseL": "",
+    "AdresseA": "33 زنقة أبي حنيفة",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jules valles",
+    "NOM_ETABA": "جول فالس",
+    "AdresseL": "N7 jnane Moulay elkamel champs",
+    "AdresseA": "رقم7 جنان مولاي الكامل ملعب ال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aissamfes",
+    "NOM_ETABA": "اسام فاس",
+    "AdresseL": "",
+    "AdresseA": "رقم11 زنقة الكرستياني حي الامي",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Emil2 essaada",
+    "NOM_ETABA": "إميل 2 السعادة",
+    "AdresseL": "rte taha hssine essaaada rue 2",
+    "AdresseA": "زنقة 26 رقم 19 شارع طه احسين",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole almonjid",
+    "NOM_ETABA": "مدرسة المنجد",
+    "AdresseL": "",
+    "AdresseA": "17 زنقة احمد امين اكدال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire la relance",
+    "NOM_ETABA": "مجموعة مدارس لارولانس",
+    "AdresseL": "lot alfadila 99 rte ain chkaf",
+    "AdresseA": "تجزئة الفضيلة رقم 99 طريق عين ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fes city college",
+    "NOM_ETABA": "فاس سيتي كوليج",
+    "AdresseL": "lot park,n°45 cHAMPS DE COURSE",
+    "AdresseA": "تجزئة سينور رقم45 ملعب الخيل",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "emille",
+    "NOM_ETABA": "إميل",
+    "AdresseL": "47 Av. ibn Khatib",
+    "AdresseA": "شارع ابن الخطيب رقم 47",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "benjaafar",
+    "NOM_ETABA": "بنجعفر",
+    "AdresseL": "9, Rue le Caire Rte Aïn Chkef,",
+    "AdresseA": "طريق عين الشقف، شارع القاهرة 9",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Malek Bnou Nabi",
+    "NOM_ETABA": "معهد مالك بن نبي",
+    "AdresseL": "7 RUE ABDESSADEK CHAKKARA LOT ",
+    "AdresseA": "7 زنقة عبدالصادق شقارة تجزئة ا",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al ilme",
+    "NOM_ETABA": "العلم",
+    "AdresseL": "8 RUE MOHAMED DIOURI AV CHEFCH",
+    "AdresseA": "8 زنقة محمد الديوري شارع الشفش",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Oum Al Kora",
+    "NOM_ETABA": "أم القرى",
+    "AdresseL": "24 BIS AV MANAMA RTE IMMOUZER",
+    "AdresseA": " 24 مكرر شارع المنامة طريق ايم",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARROUQIE",
+    "NOM_ETABA": "الرقي",
+    "AdresseL": "RUE THAMI MAACHI HAY BADR ROUT",
+    "AdresseA": "زنقة التهامي المعايشي حي بدر ط",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Zouheir bnou Abi Salma",
+    "NOM_ETABA": "زهير بن أبي سلمى",
+    "AdresseL": "17 RUE HOUSSINE DKHISSI ATLAS",
+    "AdresseA": "17 زنقة حسين الدخيسي الأطلس",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LOUIS LE GRAND",
+    "NOM_ETABA": "لويس لوكران",
+    "AdresseL": "N3 AV ABOU DABIE ROUTE D4IMOUZ",
+    "AdresseA": "رقم 3 شارع أبو ظبي طريق إيموزا",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour fes",
+    "NOM_ETABA": "نور فاس",
+    "AdresseL": "N6 RUE IBN KHATIB",
+    "AdresseA": " شارع بن الخطيب رقم6",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KELVIN HIGH SCHOOL",
+    "NOM_ETABA": "كلفين هاي سكول",
+    "AdresseL": "12 ROUTE AIN CHKEF HAY SAADA F",
+    "AdresseA": "12 حي السعادة طريق عين الشقف ف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AXES SCIENTIFIQUES",
+    "NOM_ETABA": "محاور العلوم",
+    "AdresseL": " RUE  imouzzer avenue  IBN KHA",
+    "AdresseA": "46 مكرر شارع ابن الخطيب فاس طر",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rayane",
+    "NOM_ETABA": "الريان",
+    "AdresseL": "508 Av Omar Benabdeljalil alad",
+    "AdresseA": "508 شارع عمر بن عبد الجليل الا",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Alhakim",
+    "NOM_ETABA": "مجموعة مدارس الحكيم",
+    "AdresseL": "1 - 1 lot Yakouta Av des Far",
+    "AdresseA": "1-1 تجزئة ياقوتة الدكارات شارع",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IPEP3",
+    "NOM_ETABA": "التوفيق 3",
+    "AdresseL": "Bd Moulay Hicham Rte d Immouze",
+    "AdresseA": "شارع مولاي هشام طريق ايموزار",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ONE SIGMA",
+    "NOM_ETABA": "وان سيكما",
+    "AdresseL": "32 Av Ibn Al Athir Hay Badr Fè",
+    "AdresseA": "32 شارع ابن الأثير حي بدر",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FES CITY SChOOL",
+    "NOM_ETABA": "فاس سيتي سكول",
+    "AdresseL": "2 av pakistan champs de course",
+    "AdresseA": "2 شارع باكستان ملعب الخيل ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Classes prepa Ibn ghazi El Fassi sarl",
+    "NOM_ETABA": "ابن  غازي  الفاسي  للأقسام  التحضيرية  الخصوصية",
+    "AdresseL": "40 Rue Houssine slaoui, Hay ba",
+    "AdresseA": " 40 زنقة الحسين السلاوي, حي بد",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IKHWA",
+    "NOM_ETABA": "الإخوة",
+    "AdresseL": "kM1 ROUTE AIN CHKEF, fes  ",
+    "AdresseA": "كلم 1 طريق عين الشقف، فاس",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kaws kozah d enseignement",
+    "NOM_ETABA": "قوس قزح للتعليم الخصوصي",
+    "AdresseL": "rue abi dardae route imMouzer ",
+    "AdresseA": "رقم 9، زنقة أبي درداء طريق إيم",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manhal assaada",
+    "NOM_ETABA": " السعادة المنهل",
+    "AdresseL": "route taha hssine hay saada n1",
+    "AdresseA": "رقم 17، شارع طه حسين، حي السعا",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire la residence",
+    "NOM_ETABA": "مجموعة مدارس الإقامة",
+    "AdresseL": "4 Rue ibn zeidan hay saada 1  ",
+    "AdresseA": "رقم 4 زنقة ابن زيدان السعادة 1",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA RUCHE DES MIMOSAS",
+    "NOM_ETABA": "خلية ميموزا",
+    "AdresseL": "35 av abdrahim sekkat hay badr",
+    "AdresseA": "رقم 35 شارع عبد الرحيم السقاط ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BAYANe",
+    "NOM_ETABA": "البيان",
+    "AdresseL": "hay sidi brahim ru laayoune  N",
+    "AdresseA": "زنقة العيون سيدي ابراهيم رقم 8",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Samir Amine",
+    "NOM_ETABA": "سمير أمين",
+    "AdresseL": "boulevard ibn khatib rue mimou",
+    "AdresseA": "شارع ابن الخطيب، زنقة ميموزا -",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Pyramides",
+    "NOM_ETABA": "الأهرام",
+    "AdresseL": " av. Ibn al Khateb rue el Kahi",
+    "AdresseA": " شارع ابن الخطيب زنقة القاهرة ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA CALECHE",
+    "NOM_ETABA": "العربة",
+    "AdresseL": "5 rue ABI HIAN ETTAOUHIDI AGDA",
+    "AdresseA": "رقم 5، زنقة أبي حيان التوحيدي ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Massar",
+    "NOM_ETABA": "المسار",
+    "AdresseL": " hay adarissa N 397 agdal",
+    "AdresseA": "رقم 397، حي الأدارسة - أكدال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "l horizon 2",
+    "NOM_ETABA": "الأفق الثانية",
+    "AdresseL": "rue bjaia route imouzzer N5 ag",
+    "AdresseA": "رقم 5، زنقة بجاية، طريق إيموزا",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHAYYAM",
+    "NOM_ETABA": "الخيام",
+    "AdresseL": "1 RUE 27 AV ETTABARI SAADA 1",
+    "AdresseA": " زنقة 27 رقم 1 شارع الطبري الس",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL CACHY",
+    "NOM_ETABA": "الكاشي",
+    "AdresseL": "2 RUE ABDELLAH BEN OMAR BOUREM",
+    "AdresseA": "2 زنقة عبد الله بن عمر بورمانة",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOLIERE",
+    "NOM_ETABA": "موليير",
+    "AdresseL": "36 AV ABI HORAIRA BOURAMMANA",
+    "AdresseA": "36 شارع ابي هريرة بورمانة",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Kaoutar",
+    "NOM_ETABA": "الكوتر",
+    "AdresseL": "6 rue kartaj route ainchekef",
+    "AdresseA": "6 زنقة قرطاج طريق عين الشقف",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Ichraq",
+    "NOM_ETABA": "الإشراق",
+    "AdresseL": "Hay Al Adarissa I, N° 395 - Ag",
+    "AdresseA": "حي الأدارسة 1 - أكدال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Kortoba",
+    "NOM_ETABA": "قرطبة",
+    "AdresseL": "N° 7, Rue Jordanie, Ville Nouv",
+    "AdresseA": "رقم 7، زنقة الأردن، المدينة ال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lazrak",
+    "NOM_ETABA": "الأزرق",
+    "AdresseL": "Quartier Al Amal, Lotissement ",
+    "AdresseA": "حي الأمل، تجزئة الحجوي الدكارا",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sainte Thérèse",
+    "NOM_ETABA": "سانت طريز",
+    "AdresseL": "N° 90, Rue Omar Drissi - Agdal",
+    "AdresseA": "رقم 90، زنقة عمر الإدريسي - أك",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mohamed VI",
+    "NOM_ETABA": "مؤسسة محمد السادس",
+    "AdresseL": "HAY OUALIE AL AAHD ZENKAT AZZO",
+    "AdresseA": "حي ولي العهد زنقة الزبير بن ال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire Al Moustakbal1",
+    "NOM_ETABA": "مجموعة مدارس المستقبل 1",
+    "AdresseL": "N10 Rue 20 qyartier prince her",
+    "AdresseA": "رقم 10، زنقة 20، حي  ولي العهد",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Firdaous alaouail",
+    "NOM_ETABA": "الفردوس الأوائل",
+    "AdresseL": "hay al adarissa route ain chek",
+    "AdresseA": "رقم 410، حي اللأدارسة، طريق عي",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire claire Fontaine",
+    "NOM_ETABA": "مجموعة مدارس الينبوع الصافي",
+    "AdresseL": "41 Boulevard Ibn El Khatib, Ro",
+    "AdresseA": "شارع ابن الخطيب رقم 41  طريق إ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G. S AL JABR WA AL HANDASSA I",
+    "NOM_ETABA": "مجموعة مدارس الجبر والهندسة 1",
+    "AdresseL": "Avenue Moulay Hicham, Route Im",
+    "AdresseA": "شارع مولاي هشام ، طريق إيموزار",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MOUSTAKBAL 2",
+    "NOM_ETABA": "مجموعة مدارس المستقبل 2",
+    "AdresseL": "N° 5 et 6 Avenue Ibn Al Khatib",
+    "AdresseA": "رقم 5 و 6، شارع ابن الخطيب",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Moulay EL Kamel",
+    "NOM_ETABA": "مولاي الكامل",
+    "AdresseL": "17 Rue Kaab Ibn Zouhaïr Hay Mo",
+    "AdresseA": "رقم 17 زنقة كعب بن زهير حي مول",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Anouar al jadida",
+    "NOM_ETABA": "الأنوار الجديدة",
+    "AdresseL": "N° 11, Rue 27, Hay Saada - C.U",
+    "AdresseA": "رقم 11، زنقة 27، حي السعادة ال",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IPEP",
+    "NOM_ETABA": "التوفيق",
+    "AdresseL": " 601av moulay hicham route imm",
+    "AdresseA": "601 شارع مولاي هشام طريق ايموز",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Des Champs",
+    "NOM_ETABA": "الحقول",
+    "AdresseL": "10 av des champs de course hay",
+    "AdresseA": "10 شارع ملعب الخيل حي الأمل",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CAPITAL",
+    "NOM_ETABA": "كابيتال",
+    "AdresseL": " 56 av khalid ibn al oualid Bo",
+    "AdresseA": " 56  بورمانة  شارع خالد بن الو",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Claire Source",
+    "NOM_ETABA": "المنبع الصافي",
+    "AdresseL": " 477 av mohamed el fassi adari",
+    "AdresseA": " شارع محمد الفاسي رقم 477 الأد",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fadae Attifl",
+    "NOM_ETABA": "فضاء الطفل",
+    "AdresseL": "186 lot hajoui doukkarat - fes",
+    "AdresseA": "186 تجزئة الحجوي الدكارات فاس",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Al Iklil azohour",
+    "NOM_ETABA": "م م إكليل الزهور",
+    "AdresseL": " 21 rue ahmed amine VN ",
+    "AdresseA": " 21 زنقة أحمد أمين",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manal",
+    "NOM_ETABA": " المنال",
+    "AdresseL": " 4 Rue abi hanifa",
+    "AdresseA": "4 زنقة أبي حنيفة  ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement Mekouar",
+    "NOM_ETABA": "مؤسسة مكوار",
+    "AdresseL": "N° 15, Boulevard Khalid Ibn Al",
+    "AdresseA": "رقم 15، شارع خالد بن الوليد - ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Amine",
+    "NOM_ETABA": "مجموعة مدارس أمين ",
+    "AdresseL": "185 lotissement al hajoui deka",
+    "AdresseA": " 185 تجزئة الحجوي الذكارات",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Khalifa  Al Farouk",
+    "NOM_ETABA": "الخليفة الفاروق",
+    "AdresseL": "10 Rue abdselem  el mestaoui A",
+    "AdresseA": " 10 زنقة عبد ةالسلام المستاوي ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "READ SCHOOL",
+    "NOM_ETABA": "ريد سكول",
+    "AdresseL": "41 rue zeriab Hay bedr route a",
+    "AdresseA": "زنقة زرياب رقم 41 حي بدر طريق ",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G/S Malaikat fas",
+    "NOM_ETABA": "م م ملائكة فاس",
+    "AdresseL": "1,Rue ibn atir hay anas",
+    "AdresseA": " 1 شارع ابن الأثير حي أنس1",
+    "COMMUNE": "Agdal",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

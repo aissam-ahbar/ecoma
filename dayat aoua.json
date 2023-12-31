@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "lYCEE COLLEGIAL DAYET AOUA",
+    "NOM_ETABA": "ثانوية ضاية عوا الاعدادية",
+    "AdresseL": "lycee collegial DAYET AOUA ",
+    "AdresseA": "ثانوية ضاية عوا الاعدادية",
+    "COMMUNE": "Dayat Aoua",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS DAYET AOUA CENTRE",
+    "NOM_ETABA": "م م ضاية عوا المركزية ",
+    "AdresseL": "DOUAR DAIT AOUA COMMUNE DAYAT AOUA",
+    "AdresseA": "دوار ضاية عوا جماعة ضاية عوا",
+    "COMMUNE": "Dayat Aoua",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss AIT SIDI MIMOUN centre",
+    "NOM_ETABA": "م م أيت سيدي ميمون المركزية",
+    "AdresseL": "DOUAR AIT SIDI MIMOUN COMMUNE  DAYET AOUA",
+    "AdresseA": "دوار سيدي ميمون جماعة ضاية عوا",
+    "COMMUNE": "Dayat Aoua",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT HAMMOU AL HAJJAJ CENTRE",
+    "NOM_ETABA": "م م أيت حمو الحجاج المركزية",
+    "AdresseL": "DOUAR AIT HAMMOU AL HAJJAJ COMMUNE DAYAT AOUA",
+    "AdresseA": "دوار أيت حمو الحجاج جماعة ضاية عوا",
+    "COMMUNE": "Dayat Aoua",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAYET IFRAH CENTRE",
+    "NOM_ETABA": "م م ضاية إفرح المركزية",
+    "AdresseL": "DAYET IFRAH COMMUNE DAYET AOUA",
+    "AdresseA": "ضاية إفرح جماعة ضاية عوا",
+    "COMMUNE": "Dayat Aoua",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

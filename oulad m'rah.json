@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "BIR ANZARANE",
+    "NOM_ETABA": "الثانوية الإعدادية بئر انزران",
+    "AdresseL": "COMMUNE OULAD MRAH",
+    "AdresseA": "بلدية اولاد امراح",
+    "COMMUNE": "Oulad M'Rah",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE CENTRAL SIDI HAJJAJ",
+    "NOM_ETABA": "مدرسة سيدي حجاج المركزية",
+    "AdresseL": " OULAD M RAH",
+    "AdresseA": "اولاد مراح",
+    "COMMUNE": "Oulad M'Rah",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALHOUSINE BNOU ALI",
+    "NOM_ETABA": "مدرسة الحسين بن علي",
+    "AdresseL": " OULAD M RAH",
+    "AdresseA": "اولاد مراح",
+    "COMMUNE": "Oulad M'Rah",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD M RAH",
+    "NOM_ETABA": "مدرسة اولاد مراح",
+    "AdresseL": "OULAD M RAH",
+    "AdresseA": "اولاد امراح",
+    "COMMUNE": "Oulad M'Rah",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU BAKR ESSIDDIQ",
+    "NOM_ETABA": "مدرسة أبو بكر الصديق",
+    "AdresseL": " OULAD M RAH",
+    "AdresseA": "اولاد مراح",
+    "COMMUNE": "Oulad M'Rah",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SIDI HAJJAJ",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي حجاج",
+    "AdresseL": "centre COMMUNE OULaD MRAH",
+    "AdresseA": "مركز اولاد مراح",
+    "COMMUNE": "Oulad M'Rah",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

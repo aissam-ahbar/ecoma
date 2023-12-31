@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "AKREMA CENTRE",
+    "NOM_ETABA": "عكرمة المركزية",
+    "AdresseL": "DOUAR AKREMA COMMUNE AKERMA",
+    "AdresseA": "دوار عكرمة",
+    "COMMUNE": "Akarma",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAARISSA CENTRE",
+    "NOM_ETABA": "لعريصة المركزية",
+    "AdresseL": "DOUAR LAARISSA COMMUNE AKERMA",
+    "AdresseA": "دوار لعريصة",
+    "COMMUNE": "Akarma",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

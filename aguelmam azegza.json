@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KADI  AYAD",
+    "NOM_ETABA": "الثانوية الإعدادية القاضي عياض",
+    "AdresseL": "ASSOUL  COMMUNE AGUELMAM AZEGZA",
+    "AdresseA": "اسول جماعة اكلمام ازكزا",
+    "COMMUNE": "Aguelmam Azegza",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ASSOUL",
+    "NOM_ETABA": "اسول",
+    "AdresseL": "DOUAR ASSOUL COMMUNE AGUELMAM AZEGZA",
+    "AdresseA": "دوار اسول جماعة اكلمام ازكزا",
+    "COMMUNE": "Aguelmam Azegza",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUGADJIG",
+    "NOM_ETABA": "بوكدجيك",
+    "AdresseL": "DOUAR BOUGADJIG COMMUNE AGUELMAM AZEGZA",
+    "AdresseA": "دوار بوكدجيك جماعة اكلمام ازكزا",
+    "COMMUNE": "Aguelmam Azegza",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JNANE MAS",
+    "NOM_ETABA": "جنان ماس",
+    "AdresseL": "DOUAR AMAHROUK JNANE MAS AGUELMAM AZAGZA",
+    "AdresseA": "دوار امهروق جنان اماس جماعة اكلمام ازكزا",
+    "COMMUNE": "Aguelmam Azegza",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUCHNINE",
+    "NOM_ETABA": "اوشنين",
+    "AdresseL": "DOUAR OUCHNINE COMMUNE AGUELMAN AZEGZA",
+    "AdresseA": "دوار اوشنين جماعة اكلمام ازكزا",
+    "COMMUNE": "Aguelmam Azegza",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

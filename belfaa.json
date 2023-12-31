@@ -1,0 +1,182 @@
+[
+  {
+    "NOM_ETABL": "C BELFAA",
+    "NOM_ETABA": "ثإ. بلفاع",
+    "AdresseL": "DOUaR AIT BOUAMER",
+    "AdresseA": "دوار أيت بوعامر بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ABDEL MALEK ESSAADI",
+    "NOM_ETABA": "م. عبد الماك السعدي",
+    "AdresseL": "douar jdid centre had BELFAA",
+    "AdresseA": "الدوار الجديد مركز حد بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAKASSBITE",
+    "NOM_ETABA": "م.م  تقصبيت",
+    "AdresseL": "DOUAR TAKASBITE COMMUNE BELFAA",
+    "AdresseA": "دوار تقصبيت",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNO AABBAD",
+    "NOM_ETABA": "م.م ابن عباد",
+    "AdresseL": "DOUAR AIT BOUAAMER COMMUNE  BELFAA",
+    "AdresseA": "دوار أيت بوعامر أيت بلا",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIN ALI OUAADI",
+    "NOM_ETABA": "م.م  تين علي اوعدي",
+    "AdresseL": "DOUAR TIN ALI OUAADI COMMUNE BELFAA",
+    "AdresseA": "دوار تفغلال تين علي أعدي",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMMI N TAGUENET",
+    "NOM_ETABA": "م.م امي نتكانت",
+    "AdresseL": "DOUAR AIT SALH ",
+    "AdresseA": "دوار ايت صالح",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMAJAD",
+    "NOM_ETABA": "م.م امجاض",
+    "AdresseL": "DOUAR IMAJAD COMMUNE BELFAA",
+    "AdresseA": "دوار إمجاض",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN BATOTA",
+    "NOM_ETABA": "م. ابن بطوطة",
+    "AdresseL": "douar ISSAHNANE  BELFAA",
+    "AdresseA": "دوار اسحنان بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL ACHBAL",
+    "NOM_ETABA": "م. الأشبال",
+    "AdresseL": "CENTRE COM. BELFAA",
+    "AdresseA": "مركز جماعة بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L IBNOU ZOHR",
+    "NOM_ETABA": "ثأ. إبن زهر",
+    "AdresseL": "HAD BELFAA",
+    "AdresseA": "مركز حد بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ENNAKHIL",
+    "NOM_ETABA": "ثأ. النخيل",
+    "AdresseL": " CENTRE HAD BELFAA",
+    "AdresseA": "المركز حد بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "QALAM AN NOUR",
+    "NOM_ETABA": "مؤسسة قلم النور للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة سيدي اخوان بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MALEKA PRESCOLAIRE",
+    "NOM_ETABA": "الملائكة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSALAM PRESCOLAIRE",
+    "NOM_ETABA": "السلام للتعليم الأولي",
+    "AdresseL": "",
+    "AdresseA": "دوار القسبات منطقة قهوة سالم ب",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAJD PRESCOLAIRE",
+    "NOM_ETABA": "المجد للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار ايت علي بن عبلا بلفاع",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL CHTOUKAE",
+    "NOM_ETABA": "اجيال اشتوكة الخاصة",
+    "AdresseL": "CENTRE  BELFAA PRES KIADA BELF",
+    "AdresseA": "مركز بلفاع ",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUJMIAE",
+    "NOM_ETABA": "بوجميع الخاصة",
+    "AdresseL": "lot. ayour n.61/63 centre belf",
+    "AdresseA": "تجزئة أيور رقم 61/63 مركز بلفا",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AZHAR ALJANNA",
+    "NOM_ETABA": "مؤسسة أزهار الجنة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة بودي الحسين، بلفاع، اشتو",
+    "COMMUNE": "Belfaa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

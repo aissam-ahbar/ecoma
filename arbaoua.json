@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ARAK",
+    "NOM_ETABA": "الثانوية الاعدادية الأرك",
+    "AdresseL": "LYCEE COLLEGIAL AL ARAK DOUAR LAHRARICH ",
+    "AdresseA": " الثانوية الإعددية الأرك ، دوار الحراريش ",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHARIF RADI",
+    "NOM_ETABA": "الثانوية الاعدادية الشريف الرضي",
+    "AdresseL": "ARBAOUA CENTRE",
+    "AdresseA": "مركز عرباوة",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS LAAYAYDA",
+    "NOM_ETABA": "العيايدة",
+    "AdresseL": "DOUAR LAAYAYDA ARBAOUA",
+    "AdresseA": "دوار العيايدة عرباوة",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BAROUDI",
+    "NOM_ETABA": "البارودي",
+    "AdresseL": "ARBAOUA CENTRE",
+    "AdresseA": "جماعة  عرباوة",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RZIGATE",
+    "NOM_ETABA": "ارزيكات",
+    "AdresseL": "DOUAR RZIGATE CERCLE SOUK LARBAA COMMUNE ARBAOUA ",
+    "AdresseA": "دوار ارزيكات جماعة عرباوة دائرة سوق الاربعاء الغرب",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS YOUSSEF BNOU TACHAFINE ",
+    "NOM_ETABA": "م/م يوسف بن تاشفين",
+    "AdresseL": "DOUAR  KRAZZA COMMUNE ARBAOUA",
+    "AdresseA": "دوار   الكرازة جماعة عرباوة ",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " LAKHDADRA",
+    "NOM_ETABA": "لخضاضرة",
+    "AdresseL": "DOUAR LAKHDADRA  COMMUNE ARBAOUA",
+    "AdresseA": "دوار لخضاضرة جماعة عرباوة",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHRIDIYINE",
+    "NOM_ETABA": "الحريضيين",
+    "AdresseL": "DOUAR LAHRIDIYINE COMMUNE ARBAOUA",
+    "AdresseA": "دوار الحريضيين جماعة عرباوة ",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DRESSA",
+    "NOM_ETABA": "الضريسة",
+    "AdresseL": "DOUAR DRESSA COMMUNE ARBAOUA",
+    "AdresseA": "دوار الضريسة جماعة عرباوة",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU AL ATHIR",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الأثير",
+    "AdresseL": "COMMUNE ARBAOUACENTRE",
+    "AdresseA": "عرباوة  المركز",
+    "COMMUNE": "Arbaoua",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

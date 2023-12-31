@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S IBN TOUMERT",
+    "NOM_ETABA": "م م ابن تومرت",
+    "AdresseL": "DOUAR AIT HAITOUF BOUIZAKARNE",
+    "AdresseA": "دوار ايت حيتوف - بويزكارن",
+    "COMMUNE": "Ait Boufoulen",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IFRAD NDLHOUCINE",
+    "NOM_ETABA": "م م افرض ند الحسين",
+    "AdresseL": "DOUAR IFRAD NDLHOUCINE ait boufoulne BoUIZAKARNE",
+    "AdresseA": "دوار افرض ند الحسين  -آيت بوفلن-دائرة بويزكارن",
+    "COMMUNE": "Ait Boufoulen",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

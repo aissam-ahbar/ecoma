@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SOUR ELAAZ CENTRE",
+    "NOM_ETABA": "سور العز المركزية",
+    "AdresseL": "DOUAR SOUR EL AZ SAHRIJ",
+    "AdresseA": "دوار سور العز جماعة سور العز ",
+    "COMMUNE": "Sour El Aaz",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EDDALI CENTRE",
+    "NOM_ETABA": "اولاد الدالي المركزية",
+    "AdresseL": "DOUAR OULED DALI COMMUNE SOUR ELAAZ",
+    "AdresseA": "دوار اولاد دالي جماعة سور العز",
+    "COMMUNE": "Sour El Aaz",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

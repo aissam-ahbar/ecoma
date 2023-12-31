@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS MOKHTAR SOUSSI",
+    "NOM_ETABA": "م.م المختار السوسي",
+    "AdresseL": "DOUAR   EL KASBA CLAMHADI",
+    "AdresseA": "دوار. القصبة",
+    "COMMUNE": "Lamhadi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN ENNAFIS",
+    "NOM_ETABA": "م.م إبن النفيس",
+    "AdresseL": "DOUAR   OULAD RAHOU CLAMHADI",
+    "AdresseA": "  د. اولاد رحو جماعة المهادي",
+    "COMMUNE": "Lamhadi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

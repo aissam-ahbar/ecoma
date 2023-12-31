@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "TACHEFCHAKET",
+    "NOM_ETABA": "تاشفشاقت",
+    "AdresseL": "TRIBUE AIT BOUKHAYOU COMMUNE SEBT AIT RAHOU",
+    "AdresseA": "قبيلة ايت بوخيو جماعة سبت ايت رحو",
+    "COMMUNE": "Sebt Ait Rahou",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOURAGH",
+    "NOM_ETABA": "النوراغ",
+    "AdresseL": "TRIBUE AIT RAHOU COMMUNE SEBT AIT RAHOU",
+    "AdresseA": "قبيلة ايت رحو جماعة سبت ايت رحو",
+    "COMMUNE": "Sebt Ait Rahou",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALHASSN AL AWAL",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الاول",
+    "AdresseL": "CENTRE COMMUNE SEBT AIT RAHOU",
+    "AdresseA": "مركز جماعة سبت ابت رحو",
+    "COMMUNE": "Sebt Ait Rahou",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

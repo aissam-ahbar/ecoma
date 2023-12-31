@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 11 JANVIER",
+    "NOM_ETABA": " الثانوية الإعدادية 11 يناير",
+    "AdresseL": "TIGHZA CENTRE COMMUNE EL HAMMAM",
+    "AdresseA": "تيغزى مركز جماعة الحمام",
+    "COMMUNE": "El Hammam",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIGHZA",
+    "NOM_ETABA": "تيغزى",
+    "AdresseL": "TIGHZA CENTRE COMMUNE EL HAMMAM",
+    "AdresseA": "مركز تيغزى جماعة  الحمام",
+    "COMMUNE": "El Hammam",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HAMMAME",
+    "NOM_ETABA": "الحمام",
+    "AdresseL": "DOUAR EL HAMMAME COMMUNE EL HAMMAM",
+    "AdresseA": "مركز جماعة الحمام",
+    "COMMUNE": "El Hammam",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AAOUAM",
+    "NOM_ETABA": "عوام",
+    "AdresseL": "JBEL AOUAM COMMUNE EL HAMMAM",
+    "AdresseA": "جبل عوام جماعة الحمام",
+    "COMMUNE": "El Hammam",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "M SOUAR",
+    "NOM_ETABA": "امصور",
+    "AdresseL": "DOUAR irchkiken commune el hammam ",
+    "AdresseA": "دوار ارشكيكن جماعة الحمام",
+    "COMMUNE": "El Hammam",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

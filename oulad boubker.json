@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS IBNOU TOUFAIL",
+    "NOM_ETABA": "م م ابن طفيل",
+    "AdresseL": "DOUAR ZRIGA COMMUNE OULAD BOUBKER",
+    "AdresseA": "دوار  ازريقة    جماعة اولاد بوبكر",
+    "COMMUNE": "Oulad Boubker",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD ALI",
+    "NOM_ETABA": "م.م اولاد علي",
+    "AdresseL": "DOUAR OULAD ALI OULAD BOUBKER",
+    "AdresseA": "دوار اولاد علي  ج,اولاد بوبكر",
+    "COMMUNE": "Oulad Boubker",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABI CHOUAIB EDDOUKKALI",
+    "NOM_ETABA": "م م ابي شعيب الدكالي",
+    "AdresseL": "DOUAR HAMMOU MANSOUR C OULAD BOUBKER",
+    "AdresseA": "دوار حمو منصور  جماعة اولاد بوبكر",
+    "COMMUNE": "Oulad Boubker",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

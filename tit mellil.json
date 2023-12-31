@@ -1,0 +1,342 @@
+[
+  {
+    "NOM_ETABL": "TIT MELLIL",
+    "NOM_ETABA": "إعدادية تيط مليل    ",
+    "AdresseL": "LOTISSEMENT AMAL I MUNICIPALITE TIT MELLIL",
+    "AdresseA": "تجزئة الأمل 1 بلدية تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALLAYMOUNE",
+    "NOM_ETABA": "الليمون",
+    "AdresseL": "Lotissement ALLAYMOUNE Tit Mellil",
+    "AdresseA": "تجزئة الليمون تيط مليل ",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUM AL BANINE",
+    "NOM_ETABA": "أم البنين",
+    "AdresseL": "DIAR ALLAM EL ALIA TIT MELLIL",
+    "AdresseA": "ديار العلام العالية تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "LOTISSEMENT BADR TIT MELLIL",
+    "AdresseA": "تجزئة بدر تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU RACHIK",
+    "NOM_ETABA": "ابن رشيق",
+    "AdresseL": "AVENUE ANNAKHIL TIT MELLIL",
+    "AdresseA": "شارع النخيل تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY EL JADID",
+    "NOM_ETABA": "الحي الجديد",
+    "AdresseL": "HAY EL AMAL BOULEVARD TAOUHID TIT MELLIl",
+    "AdresseA": "حي الأمل شارع التوحيد تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ABDOU",
+    "NOM_ETABA": "محمد عبده",
+    "AdresseL": "LOTISSEMENT EL AZIZIA MUNICIPALITE TIT MELLIL",
+    "AdresseA": "تجزئة العزيزية بلدية تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KADI AYAD",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "LOTISSEMENT L ILE VERTE TIT MELLIL",
+    "AdresseA": "تجزئة الجزيرة الخضراء تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKARIM EL KHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "LOTISSEMENT JNANE EL YASSMINE TIT MELLIL",
+    "AdresseA": "تجزئة جنان الياسمين تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "LOTISSEMENT ARSAT SBIT TIT MELLIL",
+    "AdresseA": "تجزئة عرصة السبيت تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED EL HALOUI",
+    "NOM_ETABA": "محمد الحلوي",
+    "AdresseL": "LOTISSEMENT ALLAYMOUNE TIT MELLIL",
+    "AdresseA": "مشروع الليمون تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY YOUSSEF",
+    "NOM_ETABA": "مولاي يوسف",
+    "AdresseL": "HAY EL AMAL TIT MELLIL CASA",
+    "AdresseA": "حي الأمل تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUN",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "LOTISSEMENT JNANE EL YASMINE TIT MELLIL",
+    "AdresseA": "تجزئة جنان الياسمين تيط مليل",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "KHNATA BENT BAKKAR",
+    "NOM_ETABA": "خناتة بنت بكار",
+    "AdresseL": "centre tit mellil",
+    "AdresseA": "تيط مليل المركز",
+    "COMMUNE": "Tit Mellil",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "CHARIF IDRISSI SEBTI",
+    "NOM_ETABA": "الشريف الإدريسي السبتي",
+    "AdresseL": "LOTISSEMENT AMAL I N° 70 TIT M",
+    "AdresseA": "تجزئة الامل 01 رقم 70 تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE  SCOLAIRE AL JAOUDA ",
+    "NOM_ETABA": "مجموعة مدارس الجودة",
+    "AdresseL": "LOTISSEMENT AMAL II- n° 88 TIT",
+    "AdresseA": "تجزئة أمل 2 رقم 88 تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHOUROUK",
+    "NOM_ETABA": "الشروق",
+    "AdresseL": "LOTISSEMNT  AMAL I   N° 283 TI",
+    "AdresseA": "تجزئة الامل 1 رقم 283 تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EL MAKHFI",
+    "NOM_ETABA": "مجموعة مدارس المخفي",
+    "AdresseL": "HAY EL MAKHFI n° 76 TIT MELLIL",
+    "AdresseA": "حي المخفي رقم 76 تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD AL HIKMA",
+    "NOM_ETABA": "رياض الحكمة",
+    "AdresseL": "153 LOTISSEMENT AMAL II TIT ME",
+    "AdresseA": "تجزئة أمل 2 رقم 153 تيط مليل ",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mohamed ZERKTOUNI",
+    "NOM_ETABA": "محمد الزرقطوني",
+    "AdresseL": "158-187 rue ezzohour ,amal1,ti",
+    "AdresseA": "زنقة الزهور الرقم 185-187-أمل ",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SKALLI",
+    "NOM_ETABA": "الصقلي",
+    "AdresseL": "LOTISSEMENT AMAL II N° 90 TIT ",
+    "AdresseA": "أمل 2، 90 تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL AALIA",
+    "NOM_ETABA": "مجموعة مدارس العالية",
+    "AdresseL": "LOTISSEMENT   AL AALIA N°185-1",
+    "AdresseA": "تجزئة العالية رقم 185-186 تيط ",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE  SCOLAIRE EDDAHRAOUI",
+    "NOM_ETABA": "مجموعة مدارس الضهراوي",
+    "AdresseL": "LOTISSEMNT BADR AVENUE AL MORA",
+    "AdresseA": "تجزئة بدر شارع المرابطين رقم 1",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE  SCOLAIRE AL ASSIL",
+    "NOM_ETABA": "مجموعة مدارس الأصيل",
+    "AdresseL": "LOTISSEMENT ZAINAB N°6 TIT MEL",
+    "AdresseA": "تجزئة زينب رقم 6 تيط مليل الدا",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ARABI",
+    "NOM_ETABA": "ابن عربي",
+    "AdresseL": "LOTISSEMENT BADR TIT MELLIL",
+    "AdresseA": "تجزئة بدر  تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MARIE DE FRANCE",
+    "NOM_ETABA": "ماري دو فرانس",
+    "AdresseL": "N°  3-4 LOTISSEMENT ZIN ESSALA",
+    "AdresseA": "تجزئة زين السلام بقعة رقم3-4 ت",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BASMA 2",
+    "NOM_ETABA": "بسمة 2",
+    "AdresseL": "LOTISSEMNT ANNAAIM N° 5 TIT ME",
+    "AdresseA": "تجزئة النعيم رقم 5 تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AAZ EL ARAB",
+    "NOM_ETABA": "عز العرب",
+    "AdresseL": "LOTISSEMENT KHAWLA N° 20TIT ME",
+    "AdresseA": "تجزئة خولة رقم 20  تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL MAKHFI 2",
+    "NOM_ETABA": "المخفي 2",
+    "AdresseL": "DIAR LAALAM N° 55-56 TIT MELLI",
+    "AdresseA": "ديار لعلام رقم 55-56 تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PAUL VERLAINE",
+    "NOM_ETABA": "بول فيرلان",
+    "AdresseL": "LOTISSEMENT DAR EL FADL N° 29-",
+    "AdresseA": "تجزئة الفضل رفم 29-30 تيط مليل",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE VENUS",
+    "NOM_ETABA": "مجموعة مدارس فينيس",
+    "AdresseL": "LOTISSEMENT ALIA RUE IBN KHALD",
+    "AdresseA": "تجزئة العالية زنقة ابن خلدون ر",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MARIE CURIE",
+    "NOM_ETABA": "ماري كوري",
+    "AdresseL": " GROUPE SCOLAIRE MARIE CURIE C",
+    "AdresseA": "مجموعة مدارس ماري كوري 1 مركز ",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARENA SCHOOL",
+    "NOM_ETABA": "أرينا سكول",
+    "AdresseL": "LOTISSEMENT AL FIRDAOUS N° FB3",
+    "AdresseA": "تجزئة الفردوس رقم البقعة FB3  ",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DENNIS RITCHIE 2",
+    "NOM_ETABA": "دونيس ريتشي 2",
+    "AdresseL": "LOTISSEMENT COMMUNAL N° 33 TIT",
+    "AdresseA": "تجزئة كومينال الرقم 33 تيط ملي",
+    "COMMUNE": "Tit Mellil ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AIT KAMRA",
+    "NOM_ETABA": "اع. ايت قمرة",
+    "AdresseL": "CENTRE AIT KAMRA",
+    "AdresseA": "مركز ايت قمرة جماعة ايت قمرة",
+    "COMMUNE": "Ait Kamra",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AIT KAMRA ",
+    "NOM_ETABA": "م/م ايت قمرة الابتدائية",
+    "AdresseL": "DOUAR AIT KAMRA COMMUNE AIT KAMRA",
+    "AdresseA": "دوار ايت قمرة جماعة ايت قمرة",
+    "COMMUNE": "Ait Kamra",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AL AAHD ALJADID",
+    "NOM_ETABA": "مجموعة مدارس العهد الجديد",
+    "AdresseL": "DOUAR IZAFZAFEN COMMUNE AIT KAMRA",
+    "AdresseA": "دوار ازفزافن جماعة ايت قمرة",
+    "COMMUNE": "Ait Kamra",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZAGHINE",
+    "NOM_ETABA": "تزغين",
+    "AdresseL": "DOUAR TAZAGHINE COMMUNE AIT KAMRA",
+    "AdresseA": "دوار تزاغين جماعة ايت قمرة",
+    "COMMUNE": "Ait Kamra",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FATIMA AL FIHRIYA",
+    "NOM_ETABA": "ثانوية فاطمة الفهرية التأهيلية",
+    "AdresseL": "commune Ait kamra",
+    "AdresseA": "جماعة ايت  قمرة",
+    "COMMUNE": "Ait Kamra",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

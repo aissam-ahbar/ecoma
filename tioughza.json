@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TIOUGHZA",
+    "NOM_ETABA": "الثانوية الإعدادية تيوغزة",
+    "AdresseL": " centre COMMUNE TIOUGHZA",
+    "AdresseA": "مركز جماعة تيوغزة",
+    "COMMUNE": "Tioughza",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL NACHIA CENTRE IMI OUGNI",
+    "NOM_ETABA": "م.م الناشئة مركزية امي اوكني",
+    "AdresseL": "DOUAR ALOUZADE",
+    "AdresseA": "دوار الوزاض",
+    "COMMUNE": "Tioughza",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALMOATAMID BN ABBAD CENTRE AIT IAZZA",
+    "NOM_ETABA": "م.م المعتمد بن عباد مركزية ايت اعزا",
+    "AdresseL": "DOUAR AIT IAZZA",
+    "AdresseA": "دوار ايت اعزا",
+    "COMMUNE": "Tioughza",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL ZARKTOUNI CENTRE BIFOURNA",
+    "NOM_ETABA": "م.م الزرقطوني مركزية بيفورنا",
+    "AdresseL": "DOUAR BIFOURNA",
+    "AdresseA": "دوار بيفورنا",
+    "COMMUNE": "Tioughza",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL DIAA CENTRE SIDI ALI BOUZID",
+    "NOM_ETABA": "م.م الضياء مركزية سيدي علي بوزيد",
+    "AdresseL": "DOUAR SIDI ALI BOUZID tioughza",
+    "AdresseA": "دوار  سيدي علي بوزيد تيوغزة",
+    "COMMUNE": "Tioughza",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Mohamed BEN LAHOUCINE CENTRE ISSGUE",
+    "NOM_ETABA": "م.م  محمد بن الحسين مركزية اسك",
+    "AdresseL": "DOUAR ISSGUE",
+    "AdresseA": "دوار اسك",
+    "COMMUNE": "Tioughza",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

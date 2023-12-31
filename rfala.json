@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RFALA",
+    "NOM_ETABA": "ثانوية ارفالة الاعدادية",
+    "AdresseL": "CENTRE COMMUNE RFALA",
+    "AdresseA": "مركز جماعة ارفالة",
+    "COMMUNE": "Rfala",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE ARFALA",
+    "NOM_ETABA": "مركزية ارفالة",
+    "AdresseL": "DOUAR AIT ASSOU",
+    "AdresseA": " دوار ايت عصو",
+    "COMMUNE": "Rfala",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AMASSINE",
+    "NOM_ETABA": "مركزية اماسين",
+    "AdresseL": "DOUAR AMASSINE ",
+    "AdresseA": "دوار اماسين",
+    "COMMUNE": "Rfala",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AHL ELWAD",
+    "NOM_ETABA": "مركزية أهل الواد",
+    "AdresseL": "DOUAR AHL ELOUAD",
+    "AdresseA": "دوار اهل الواد ",
+    "COMMUNE": "Rfala",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S SIDI MHAMMED MARZOUQ",
+    "NOM_ETABA": "م.م. سيدي محمد مرزوق",
+    "AdresseL": "DOUAR DIKHA SIDI MHAMMED MARZOUQ",
+    "AdresseA": "دوار الديخة سيدي محمد مرزوق",
+    "COMMUNE": "Sidi M'Hamed Ou Marzouq",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LABDARNA",
+    "NOM_ETABA": "م.م. لبدارنا",
+    "AdresseL": "DOUAR SWALHA SIDI MHAMED  OUMARZOUK",
+    "AdresseA": "دوارالصوالحة جماعة سيدي امحمد اومرزوق",
+    "COMMUNE": "Sidi M'Hamed Ou Marzouq",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BLILAT",
+    "NOM_ETABA": "البليلات",
+    "AdresseL": "douar blilat sidi mhamed ou marzouq",
+    "AdresseA": "دوار البليلات - سيدي امحمد المرزوق",
+    "COMMUNE": "Sidi M'Hamed Ou Marzouq",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

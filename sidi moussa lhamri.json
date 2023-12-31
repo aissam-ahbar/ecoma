@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANASS IBN MALIK",
+    "NOM_ETABA": "الثانوية الإعدادية أنس ابن مالك",
+    "AdresseL": "COMMUNE SIDI MOUSSA LHAMRI",
+    "AdresseA": "جماعة سيدي موسى الحمري",
+    "COMMUNE": "Sidi Moussa Lhamri",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OUED SOUSS ",
+    "NOM_ETABA": "م.م وادي سوس",
+    "AdresseL": "DOUAR  SIDI MOUSSA COMMUNE SIDI MOUSSA",
+    "AdresseA": "دوار سيدي موسى الحمري",
+    "COMMUNE": "Sidi Moussa Lhamri",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABI DAR GHIFARI",
+    "NOM_ETABA": "م.م ابي در الغفاري",
+    "AdresseL": "DOUAR   AIT AISSA COMMUNE SIDI MOUSSA LHAMRI",
+    "AdresseA": "دوار عيسى جماعة سيدي موسى الحمري",
+    "COMMUNE": "Sidi Moussa Lhamri",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole al falah",
+    "NOM_ETABA": "مدرسة الفلاح",
+    "AdresseL": "douar el jadid",
+    "AdresseA": "الدوار الجديد",
+    "COMMUNE": "Sidi Moussa Lhamri",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L SIDI MOUSSA",
+    "NOM_ETABA": "ثأ.سيدي موسى",
+    "AdresseL": "COMMUNE SIDI MOUSSA LHAMRI CERCLE SIDI MOUSSA LHAM",
+    "AdresseA": "جماعة سيدي موسى",
+    "COMMUNE": "Sidi Moussa Lhamri",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

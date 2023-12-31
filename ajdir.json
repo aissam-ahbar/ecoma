@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGEALE AIT YOUSSEF OUALI",
+    "NOM_ETABA": "الثانوية الإعدادية آيت يوسف وعلي",
+    "AdresseL": "municipalité ajdir",
+    "AdresseA": "بلـدية أجدبر",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DAR SALLOUM",
+    "NOM_ETABA": "دار السلوم",
+    "AdresseL": "DOUAR DHAR SALLOUM municipale D ajdir",
+    "AdresseA": "دواردار السلوم بلدية اجدير",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AJDIR",
+    "NOM_ETABA": "اجدير",
+    "AdresseL": "COMMUNE URBAINE   AJDIR",
+    "AdresseA": "الجماعة الحضرية  أجدير",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AJDIR MIXTE",
+    "NOM_ETABA": "اجدير المختلطة",
+    "AdresseL": "Quartier Al Mazamma Ajdir",
+    "AdresseA": "حي المزمة  بلدية أجدير",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHOUHADA CENTRE",
+    "NOM_ETABA": "الشهداء المركز",
+    "AdresseL": "AJDIR CENTRE COMMUNE AJDIR",
+    "AdresseA": "دوار الشهداء المركز جماعة  أجدير",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "INAHNAHAN CENTRE",
+    "NOM_ETABA": "إنحناحن المركز",
+    "AdresseL": "DOUAR INAHNAHAN COMMUNE AJDIR",
+    "AdresseA": "دوار إنحناحن المركزجماعة  أجدير",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIR OUAHDOUD CENTRE",
+    "NOM_ETABA": "إيار أحدود المركز",
+    "AdresseL": "DOUAR AIR OUAHDOUD COMMUNE AJDIR",
+    "AdresseA": "دوار إيار أحدود  جماعة  أجدير",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIZI BOUDRISS CENTRE",
+    "NOM_ETABA": "تيزي بودريس المركز",
+    "AdresseL": "DOUAR TIZI BOUDRISS COMMUNE AJDIR",
+    "AdresseA": "دوار تيزي بودريس المركز جماعة  أجدير",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT RIF",
+    "NOM_ETABA": "ثانوية الريف ",
+    "AdresseL": "COMMUNE AJDIR",
+    "AdresseA": "بلدية أجدير",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant AJDIR",
+    "NOM_ETABA": "الثانوية التأهيلية أجدير",
+    "AdresseL": "AJDIR CENTRE",
+    "AdresseA": "أجدير المركز",
+    "COMMUNE": "Ajdir",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MALAIKATE CHAM",
+    "NOM_ETABA": "ملائكة الشام",
+    "AdresseL": "malaikate cham",
+    "AdresseA": "دار السلوم أجدير",
+    "COMMUNE": "Ajdir ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRISSALA ALBALAICHI",
+    "NOM_ETABA": "الرسالة البلعيشي",
+    "AdresseL": "commune  ajdir",
+    "AdresseA": "بلدية أجدير",
+    "COMMUNE": "Ajdir ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

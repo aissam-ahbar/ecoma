@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUANNANA",
+    "NOM_ETABA": "الثانوية الاعدادية ونانة",
+    "AdresseL": "ouannana",
+    "AdresseA": "ونانة",
+    "COMMUNE": "Ounnana",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S MOHAMED ABDOU",
+    "NOM_ETABA": "م م محمد عبده",
+    "AdresseL": "DOUAR LABGHALE COMMUNE OUENNANA",
+    "AdresseA": "دوار البغال جماعة ونانة",
+    "COMMUNE": "Ounnana",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Abdelmalek Essaâdi ",
+    "NOM_ETABA": "مجموعة مدارس عبد المالك السعدي",
+    "AdresseL": "DOUAR LHERRICHA COMMUNE OUNNANA",
+    "AdresseA": "دوار الحريشة جماعة ونانة",
+    "COMMUNE": "Ounnana",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MAEROUF ALROUSAFI",
+    "NOM_ETABA": "م م معروف الروصافي",
+    "AdresseL": "DOUAR  LAKTOT  COMMUNE OUNNANA OUAZZANE",
+    "AdresseA": "دوار القطوط جماعة وناتة دائرة وزان",
+    "COMMUNE": "Ounnana",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  Ibn Baja",
+    "NOM_ETABA": "مجموعة مدارس ابن باجة",
+    "AdresseL": "DOUAR FRAWA COMMUNE OUNNANA",
+    "AdresseA": "دوار افراوة جماعة ونانة",
+    "COMMUNE": "Ounnana",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

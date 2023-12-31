@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL OUED EL HIMER",
+    "NOM_ETABA": "ثانوية  وادي الحيمر الإعدادية",
+    "AdresseL": "oued elhimer  commune tiouli ",
+    "AdresseA": "مركز واد الحيمر ــ جماعة تيولي ــ",
+    "COMMUNE": "Tiouli",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S AL ASMAI CENTRE",
+    "NOM_ETABA": "م/م الأصمعي المركز",
+    "AdresseL": "DOUAR OUED EL HIMER CENTRE COMMUNE TIOULI",
+    "AdresseA": "واد الحيمر",
+    "COMMUNE": "Tiouli",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S OULED MAAMAR CENTRE",
+    "NOM_ETABA": "م/م اولاد معمر المركز",
+    "AdresseL": "DOUAR CHORFA COMMUNE TIOULI",
+    "AdresseA": "دوارالشرفاء",
+    "COMMUNE": "Tiouli",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL WAHDA",
+    "NOM_ETABA": "ثانوية الوحدة الإعدادية",
+    "AdresseL": "Dr Oulad Rahou",
+    "AdresseA": "دوار اولاد رحو",
+    "COMMUNE": "Mtalssa",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BOUFARQOCH",
+    "NOM_ETABA": "م.م بوفرقوش",
+    "AdresseL": "BOUFARQOCH CENTRE COMMUNE DRIOUCH",
+    "AdresseA": "دوار بوفرقوش جماعة امطالسة",
+    "COMMUNE": "Mtalssa",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI OUKIL",
+    "NOM_ETABA": "م.م بني وكيل",
+    "AdresseL": "DOUAR BNI OUKIL COMMUNE metalssa",
+    "AdresseA": "دوار بني  وكيل   ج, امطالسة",
+    "COMMUNE": "Mtalssa",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAQLALCHA",
+    "NOM_ETABA": "م.م لقلاشة",
+    "AdresseL": "DOUAR LAQLALCHA DRIOUCH COMMUNE MTALSSA",
+    "AdresseA": "دوار لقلالشة جماعة لمطالسة",
+    "COMMUNE": "Mtalssa",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL MOUTANABI",
+    "NOM_ETABA": "م م المتنبي",
+    "AdresseL": "OULAD YACHOU  COMMUNE MTALSA Driouch",
+    "AdresseA": "اولاد يشو جماعةامطالسة  الدريوش",
+    "COMMUNE": "Mtalssa",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAHRARCHA",
+    "NOM_ETABA": "م.م لحرارشة",
+    "AdresseL": "DOUAR LAHRARCHA COMMUNE amtalsa cercle driouch",
+    "AdresseA": "دوار لحرارشة جماعة أمطالسة     دائرة الدريوش",
+    "COMMUNE": "Mtalssa",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAGHALA",
+    "NOM_ETABA": "الدغالة",
+    "AdresseL": "DOUAR DAGHALA",
+    "AdresseA": "دوار الدغالة جماعة امطالسة",
+    "COMMUNE": "Mtalssa",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

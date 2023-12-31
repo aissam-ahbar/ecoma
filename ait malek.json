@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TANMIA",
+    "NOM_ETABA": "مجموعة مدارس التنمية",
+    "AdresseL": "SOUK TNINE COMMUNE RURALE AIT MALEK",
+    "AdresseA": "سوق الاثنين موغان مركز جماعة ايت مالك",
+    "COMMUNE": "Ait Malek",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUCHOUKA",
+    "NOM_ETABA": "سيدي بوشوكة",
+    "AdresseL": "DOUAR AIT ISSA OUMALEK  COMMUNE AIT MALEK",
+    "AdresseA": "دوار ايت عيسى اوملوك جماعة ايت مالك/تيفلت",
+    "COMMUNE": "Ait Malek",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

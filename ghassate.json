@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL SIDI AHMED BENNAJI",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي احمد بناجي",
+    "AdresseL": "commune de ghassat",
+    "AdresseA": "جماعة غسات",
+    "COMMUNE": "Ghassate",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS GHESSATE",
+    "NOM_ETABA": "م.م. غسات",
+    "AdresseL": "OUARZAZATE",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ghassate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAHOUANTE",
+    "NOM_ETABA": "م.م الحوانت",
+    "AdresseL": "IGARNANE commune ghassate",
+    "AdresseA": "  جماعة غسات اكرنان",
+    "COMMUNE": "Ghassate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMI NOUASSIF",
+    "NOM_ETABA": "م.م امي نواسيف",
+    "AdresseL": "ss iminouassif",
+    "AdresseA": "امي نواسيف",
+    "COMMUNE": "Ghassate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

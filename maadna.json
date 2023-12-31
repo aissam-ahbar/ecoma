@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HAFID IBRAHIM",
+    "NOM_ETABA": "الثانوية الإعدادية حافظ ابراهيم",
+    "AdresseL": "CENTRE COMMUNE MAADNA COMMUNE MAADNA",
+    "AdresseA": "مركز  جماعة  المعادنة",
+    "COMMUNE": "Maadna",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SEBT",
+    "NOM_ETABA": "م/م السبت",
+    "AdresseL": "DOUAR LAMAALMINE COMMUNE MAADNA",
+    "AdresseA": "دوار المعلمين  المعادنة",
+    "COMMUNE": "Maadna",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MAADNA",
+    "NOM_ETABA": "م/م المعادنة",
+    "AdresseL": "DOUAR OULED  HAMMADI",
+    "AdresseA": "دوار  اولاد  حمادي",
+    "COMMUNE": "Maadna",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SMAALA",
+    "NOM_ETABA": "الثانوية التاهيلية السماعلة",
+    "AdresseL": "centre commune maadna",
+    "AdresseA": "مركزجماعة المعادنة",
+    "COMMUNE": "Maadna",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

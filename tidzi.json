@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE MOHAMED AZIZ LAHBABI",
+    "NOM_ETABA": "اعدادية محمد عزيز الحبابي",
+    "AdresseL": "centre TIDZI",
+    "AdresseA": "مركز تدزي",
+    "COMMUNE": "Tidzi",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S TIDZI",
+    "NOM_ETABA": "م.م. تيدزي",
+    "AdresseL": "DOUAR JAMAA TAHTANI TIDZI",
+    "AdresseA": "دوار الجامع التحتاني تيدزي",
+    "COMMUNE": "Tidzi",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TIGOUDAR",
+    "NOM_ETABA": "م.م  تيكودار",
+    "AdresseL": "DOUAR TIGOUDAR TIDZI",
+    "AdresseA": "دوار تيكودار",
+    "COMMUNE": "Tidzi",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

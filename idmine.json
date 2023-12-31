@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS SIDI BRAHIM OU ALI ASSIF YIG",
+    "NOM_ETABA": "م.م سيدي ابراهيم او علي-أسيتف إييـك",
+    "AdresseL": "DOUAR  ASSIF YIG            COMMUNE  IDMINE",
+    "AdresseA": "دوارأسيف إييـك  جماعــة إضميـن",
+    "COMMUNE": "Idmine",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDALLAH IBN YASSINE DOUTSOULILT",
+    "NOM_ETABA": "م.م عبد الله بن ياسين-دو تسليليـت",
+    "AdresseL": "DOUAR  ARBAA ASSAKA          COMMUNE  IDMINE",
+    "AdresseA": "دوار اسـكـا  جماعـة إضميـن",
+    "COMMUNE": "Idmine",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

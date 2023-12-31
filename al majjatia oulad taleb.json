@@ -1,0 +1,342 @@
+[
+  {
+    "NOM_ETABL": "AHMED BNOU HANBAL",
+    "NOM_ETABA": "أحمد ابن حنبل",
+    "AdresseL": "douar merchich Commune rurale Mejjatia Oulad Taleb",
+    "AdresseA": "الجماعة القروية المجاطية أولاد الطالب دوار مرشيش ",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MEHDI EL MANJRA",
+    "NOM_ETABA": "المهدي المنجرة",
+    "AdresseL": "LOTISSEMENT ARRACHAD MEJJATIA",
+    "AdresseA": "تجزئة الرشاد المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL DRISS BENZEKRI",
+    "NOM_ETABA": "الثانوية الإعدادية إدريس بنزكري",
+    "AdresseL": "Lotissement Arrachad Mejjatia ",
+    "AdresseA": "مشروع الرشاد المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HALIMA SAADIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": "LOTISSEMENT DIAR MOULAY SMAIL MEDIOUNA",
+    "AdresseA": "تجزئة ديار مولاي إسماعيل مديونة",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ASSIA EL OUADII",
+    "NOM_ETABA": "آسية الوديع",
+    "AdresseL": "LOTISSEMENT AL HAMD MEJJATIA",
+    "AdresseA": "تجزئة الحمد المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU AL HAYTAME",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "LOTISSEMNENT ARRACHAD MEJJATIA",
+    "AdresseA": "تجزئة الرياض سيدي حجاج",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHAHID JOUDAR MOHAMED BEN ABDELLAH",
+    "NOM_ETABA": "الشهيد جودار محمد ابن عبد الله",
+    "AdresseL": "COMMUNE EL MEJJATIA OULED ETTALEB",
+    "AdresseA": "جماعة المجاطية اولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI BRAHIM",
+    "NOM_ETABA": "سيدي ابراهيم",
+    "AdresseL": "COMMUNE EL MEJJATIA OULED TALEB  MEDIOUNA",
+    "AdresseA": "جماعة المجاطية اولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S BAYEH",
+    "NOM_ETABA": "الصبايح",
+    "AdresseL": "DOUAR S BAyeH COMMUNE AL MAJJATIA OULAD TALEB",
+    "AdresseA": "دوار الصبايح المجاطية اولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHLALAT 1",
+    "NOM_ETABA": "الهلالات 1",
+    "AdresseL": "DOUAR LAHLALAT EL MEJATIA  OULAD TALEB MEDIOUNA",
+    "AdresseA": "دوار الهلالات المجاطية اولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHLALAT 2",
+    "NOM_ETABA": "الهلالات 2",
+    "AdresseL": "DOUAR LAHLALAT COMMUNE EL MEJJATIA   MEDIOUNA",
+    "AdresseA": "دوار الهلالات المجاطية اولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN EL HALLOUF",
+    "NOM_ETABA": "عين الحلوف",
+    "AdresseL": "douar  AIN EL HALLOUF mejatia ouled ettalib",
+    "AdresseA": "دوار عين الحلوف المجاطية اولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MERCHICH",
+    "NOM_ETABA": "مرشيش",
+    "AdresseL": "douar merchich EL MEJJATIA OULED TALEB",
+    "AdresseA": "دوار مرشيش المجاطية اولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHMADATE",
+    "NOM_ETABA": "الحمادات",
+    "AdresseL": "DOUAR LAHMADATE COMMUNE AL MAJJATIA OULED TALEB",
+    "AdresseA": "دوار الحمادات جماعة المجاطية اولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH EL AROUI",
+    "NOM_ETABA": "عبد الله العروي",
+    "AdresseL": "LOTISSEMENT ARRACHAD  MEJJATIA",
+    "AdresseA": "تجزئة الرشاد المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAREK BNOU ZIAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "LOTISSEMENT AL WIEAM COMMUNE RURALE MEJJATIA",
+    "AdresseA": "تجزئة الوئام الجماعة القروية المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED BOUKMAKH",
+    "NOM_ETABA": "أحمد بوكماخ",
+    "AdresseL": "LOTISSEMENT AL HAMD MEJJATIA",
+    "AdresseA": "تجزئة الحمد المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU BAJA",
+    "NOM_ETABA": "ابن باجة",
+    "AdresseL": "DIYAR MOULAY ISMAEL ZONE 2 MEDIOUNA",
+    "AdresseA": "ديار مولاي اسماعيل الشطر 2 مديونة",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR AL KHAYAM",
+    "NOM_ETABA": "عمر الخيام",
+    "AdresseL": "LOTISSEMENT FATIMA EZZAHRAE 2 MEJJATIA",
+    "AdresseA": "تجزئة فاطمة الزهراء 2 المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHIM BOUABID",
+    "NOM_ETABA": "عبد الرحيم بوعبيد",
+    "AdresseL": "LOTISSEMENT JIHAN MEJJATIA",
+    "AdresseA": "تجزئة جهان المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA EL MARNISSI",
+    "NOM_ETABA": "فاطمة المرنيسي",
+    "AdresseL": "LOTISSEMENT ARRACHAD MEJJATIA",
+    "AdresseA": "تجزئة الرشاد المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOURIA CHAOUI",
+    "NOM_ETABA": "ثريا الشاوي",
+    "AdresseL": "LOTISSEMNENT ARRACHAD MEJJATIA",
+    "AdresseA": "مشروع الرشاد المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ANNAFISSE",
+    "NOM_ETABA": "ابن النفيس",
+    "AdresseL": "LOTISSEMNENT ARRACHAD DOUAR LABKAKCHA  MEJJATIA",
+    "AdresseA": "مشروع الرشاد دوار لبقاقشة المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIBAWEIHE",
+    "NOM_ETABA": "سيبويه",
+    "AdresseL": "LOTISSEMENT ABRAR MEJJATIA",
+    "AdresseA": "تجزئة الأبرار المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MEHDI BENBARKA",
+    "NOM_ETABA": "المهدي بنبركة",
+    "AdresseL": "LOTISSEMENT ANAAM CENTRE EMERGENT MEJJATIA",
+    "AdresseA": "تجزئة أنعام المركز الصاعد المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUALILI",
+    "NOM_ETABA": "وليلي",
+    "AdresseL": "CENTRE EMERGENT MEJJATIA",
+    "AdresseA": "المركز الصاعد المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ARRACHAD",
+    "NOM_ETABA": "الرشاد",
+    "AdresseL": "LOTISSEMENT ARRACHAD MEJJATIA OULAD TALEB",
+    "AdresseA": "مشروع الرشاد المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OMAR IBN EL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "LOTISSEMENT EL HAMD MEJJATIA",
+    "AdresseA": "تجزئة الحمد المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AZIZ BLAL",
+    "NOM_ETABA": "عزيز بلال",
+    "AdresseL": "CENTRE EMERGENT MEJJATIA OULAD TALEB",
+    "AdresseA": "المركز الصاعد لجماعة المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN AL YASSAMINE",
+    "NOM_ETABA": "ابن الياسمين",
+    "AdresseL": "LOTISSEMENT ARRACHAD MEJJATIA",
+    "AdresseA": "تجزئة الرشاد المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ZINEB ENNAFZAOUIA",
+    "NOM_ETABA": "زينب النفزاوية",
+    "AdresseL": "COMMUNE EL MEJJATIA OULAD TALEB",
+    "AdresseA": "جماعة المجاطية أولاد الطالب",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "JAMES WEBB ACADEMY",
+    "NOM_ETABA": "مؤسسة جيمس ويب أكاديمي",
+    "AdresseL": "Angle Route De Rabat et Avenue",
+    "AdresseA": "زاوية ملتقى طريق الرباط و شارع",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE INTERNATIONALEE DE MEDIOUNA",
+    "NOM_ETABA": " إيكول أنترناسيونال الخاصة لمديونة",
+    "AdresseL": "LOTISSEMENT AL OUAFAE N° 2015 ",
+    "AdresseA": "تجزئة الوفاء رقم 215 المجاطية",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BELGHAZI",
+    "NOM_ETABA": "مجموعة مدارس بلغازي",
+    "AdresseL": "COMMUNE al majjatia oulad taeb",
+    "AdresseA": "تجزئة الحمد جماعة المجاطية اول",
+    "COMMUNE": "Al Majjatia Oulad Taleb",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

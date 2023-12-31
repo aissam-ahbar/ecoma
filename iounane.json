@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AOUNANE",
+    "NOM_ETABA": "الثانوية الاعدادية أونان",
+    "AdresseL": "COMMUNE AOUNANE CENTRE",
+    "AdresseA": "مركز جماعة أونان",
+    "COMMUNE": "Iounane",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS FKIH EL MOUDEN  ALOUI",
+    "NOM_ETABA": "م/م الفقيه المودن _علوي",
+    "AdresseL": "ECOLE ALOUI commune ounane ",
+    "AdresseA": "دوار علوي جماعة أونان",
+    "COMMUNE": "Iounane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED CHARKAOUI TASMILT",
+    "NOM_ETABA": "م/م احمد الشرقاوي _تاسميلت",
+    "AdresseL": "Douar tasmilt commune iounane",
+    "AdresseA": "دوار تاسميلت جماعة أونان",
+    "COMMUNE": "Iounane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MASSOUD EL MEZIANI BOUKAMEL",
+    "NOM_ETABA": "م/م مسعود المزياني _بوكامل",
+    "AdresseL": "DOUAR iounane Commune IOUNANE CHEFCHAOUEN",
+    "AdresseA": "دوار أونان جماعة أونان شفشاون",
+    "COMMUNE": "Iounane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI IMRANE ICHOUKANE",
+    "NOM_ETABA": "م/م بني عمران _اشوكان",
+    "AdresseL": "DOUAR ICHOUKANE COMMUNE AOUNANE CHEFCHAOUEN",
+    "AdresseA": "دوار اشوكان جماعة اونان شفشاون",
+    "COMMUNE": "Iounane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AOULLASSEN",
+    "NOM_ETABA": "م/م أولاسن",
+    "AdresseL": "DOUAR AOULLASSEN C IOUNANE CHEFCHAOUEN",
+    "AdresseA": "دوار أولاسن جماعة اونان",
+    "COMMUNE": "Iounane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMOUKANE",
+    "NOM_ETABA": "م/م إموكان",
+    "AdresseL": "DOUAR IMOUKANE COMMUNE IOUNANE ",
+    "AdresseA": "دوار إموكان جماعة ايونان",
+    "COMMUNE": "Iounane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHARIF IDRISSI BOUSSIAF",
+    "NOM_ETABA": "م/م الشريف الادريسي _بوسياف",
+    "AdresseL": "ECOLE BOUSSIAFC   IOUNANE      CHEFCHAOUEN",
+    "AdresseA": "بوسياف جماعة أونان",
+    "COMMUNE": "Iounane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

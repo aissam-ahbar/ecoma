@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS TIZGUI",
+    "NOM_ETABA": "م.م تيزكي",
+    "AdresseL": "DOUAR   AZRAR  Commune AZRAR cercle taliouine",
+    "AdresseA": "دوار إولويل جماعة أزرار دائرة تالوين",
+    "COMMUNE": "Azrar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TINYAGOURTINE",
+    "NOM_ETABA": "م.م تنياكورتين",
+    "AdresseL": "DOUAR   TINYAGOURTINE C AZRAR",
+    "AdresseA": "دوار تنياكورتين  جماعة أزرار",
+    "COMMUNE": "Azrar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TANARACHT",
+    "NOM_ETABA": "م.م تناراشت",
+    "AdresseL": "DOUAR TANARACHT COMMUNE AZRAR",
+    "AdresseA": "دوارتناراشت  جماعة أزرار",
+    "COMMUNE": "Azrar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

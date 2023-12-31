@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE HAJ CHIKH BENAHMED ",
+    "NOM_ETABA": "اعدادية الحاج الشيخ بن احمد",
+    "AdresseL": "AIN BENI MATHAR CENTRE",
+    "AdresseA": "عين بني مطهر المركز ",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE OMAR BEN JELLOUN",
+    "NOM_ETABA": "ثانوية عمر بن جلون الاعدادية",
+    "AdresseL": "AIN BNI MATHAR ",
+    "AdresseA": "عين بني مطهر المركز",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE ABDELKRIM EL KHATTABI",
+    "NOM_ETABA": "إعدادية عبد الكريم الخطابي",
+    "AdresseL": "CENTRE AIN BNI MATHAR",
+    "AdresseA": "مركز عين بني مطهر",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABD ELOUAHAD ELMARRAKCHI",
+    "NOM_ETABA": "عبد الواحد المراكشي",
+    "AdresseL": "RUE ELKASBA AIN BNI MATHAR",
+    "AdresseA": "حي القصبة",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MOUTANABBI",
+    "NOM_ETABA": "المتنبي",
+    "AdresseL": "HAY amal",
+    "AdresseA": "حي أمل",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNOUJOUD",
+    "NOM_ETABA": "النجود",
+    "AdresseL": "AIN BNI MATHAR",
+    "AdresseA": "الشارع الرئيسي عين بني مطهر",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY ZIANI",
+    "NOM_ETABA": "حي الزياني",
+    "AdresseL": "HAY ZIANI AIN BNI MATHAR",
+    "AdresseA": "حي الزياني",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA BNOU NOUSSAIR",
+    "NOM_ETABA": "موسى بن نصير",
+    "AdresseL": "HAY AL amal",
+    "AdresseA": "حي الأمل",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "hay zayani ",
+    "AdresseA": "حي الزياني",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALIMAM ALI",
+    "NOM_ETABA": "ثانوية الامام علي التأهيلية",
+    "AdresseL": "HAY ALMAKHZEN AIN BENI MATHAR",
+    "AdresseA": "حي المخزن عين بني مطهر",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCE IBN KHALDOUN",
+    "NOM_ETABA": "ثانوية ابن خلدون التأهيلية",
+    "AdresseL": "AIN BNI MATHAR CENTRE AIN BNI MATHAR",
+    "AdresseA": "عين بني مطهر",
+    "COMMUNE": "Ain Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "alachbale",
+    "NOM_ETABA": "الاشبال",
+    "AdresseL": "ain beni mathar",
+    "AdresseA": "تجزئة النهضة عين بني مطهر",
+    "COMMUNE": "Ain Bni Mathar ",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TINMAL",
+    "NOM_ETABA": " الثانوية الاعدادية تنمل",
+    "AdresseL": "CENTRE TALAT NYAACOUB COMMUNE TALAT NYAACOUB",
+    "AdresseA": "مركز تلات نيعقوب جماعة تلات نيعقوب",
+    "COMMUNE": "Talat N'Yaaqoub",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MANSOUR AL MOUAHIDI",
+    "NOM_ETABA": "المنصور الموحدي",
+    "AdresseL": "TALAT YAAQOUB COMMMUNE TALAT NYAAQOUB",
+    "AdresseA": "تلاث نيعقوب جماعة تلاث نيعقوب",
+    "COMMUNE": "Talat N'Yaaqoub",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU TOUMERTE",
+    "NOM_ETABA": "ابن تومرت",
+    "AdresseL": "DOUAR ISKALENE COMMUNE TALAT NYAAQOUB",
+    "AdresseA": "دوار اسفالن جماعة تلاث نيعقوب",
+    "COMMUNE": "Talat N'Yaaqoub",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MZOUZITE",
+    "NOM_ETABA": "امزوزيت",
+    "AdresseL": "DOUAR MZOUZITE COMMUNE TALAT NYAAQOUB",
+    "AdresseA": "دوار امزوزيت جماعة تلاث نيعقوب",
+    "COMMUNE": "Talat N'Yaaqoub",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE BNI GMIL ",
+    "NOM_ETABA": "(بني جميل (إعدادية ",
+    "AdresseL": "Commune Bni Gmil ",
+    "AdresseA": "جماعة بني جميل ",
+    "COMMUNE": "Bni Gmil",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BENI GMIL",
+    "NOM_ETABA": "م/م بني جميل",
+    "AdresseL": "DOUAR BNI GMIL COMMUNE BNI GMIL",
+    "AdresseA": "دوار بني جميل جماعة بني جميل",
+    "COMMUNE": "Bni Gmil",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IACHIREN",
+    "NOM_ETABA": "اعشيرن",
+    "AdresseL": "DOUAR IACHIREN COMMUNE BNI GMIL CERCLE BNI BOUFRAH",
+    "AdresseA": "دوار اعشيرن جماعة بني جميل دائرة بني بوفراح",
+    "COMMUNE": "Bni Gmil",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMACHHOUDEN",
+    "NOM_ETABA": "امشحودن",
+    "AdresseL": "DOUAR IMACHHOUDEN COMMUNE BNI GMIL",
+    "AdresseA": "دوار امشحودن",
+    "COMMUNE": "Bni Gmil",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUHA OU HAMMOU ZAYANI",
+    "NOM_ETABA": "ثانوية موحى و حمو الزياني التأهيلية",
+    "AdresseL": "mstassa",
+    "AdresseA": "مسطاسة",
+    "COMMUNE": "Bni Gmil",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

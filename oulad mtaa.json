@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL OULAD MTAA",
+    "NOM_ETABA": "الثانوية الإعدادية اولاد امطاع",
+    "AdresseL": " OULAD MTAA COMMUNE OULAD MTAA",
+    "AdresseA": "اولاد امطاع جماعة اولاد امطاع",
+    "COMMUNE": "Oulad Mtaa",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULAD MTAA",
+    "NOM_ETABA": "مجموعة مدارس اولاد امطاع",
+    "AdresseL": "DOUAR AIT CHKI COMMUNE OULAD MTAA",
+    "AdresseA": "دوار ايت الشقي - جماعة اولاد امطاع ",
+    "COMMUNE": "Oulad Mtaa",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MARJA",
+    "NOM_ETABA": "المرجة",
+    "AdresseL": "DOUAR EL MARJA COMMUNE OULAD MTAA",
+    "AdresseA": "دوار المرجة جماعة اولاد امطاع",
+    "COMMUNE": "Oulad Mtaa",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

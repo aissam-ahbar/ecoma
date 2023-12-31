@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL CHTAIBA",
+    "NOM_ETABA": "ثانوية اشطيبة الاعدادية",
+    "AdresseL": " CENTRE CHTAIBA CERCLE BNI AAMER",
+    "AdresseA": "مركز اشطيبة قيادة تساوت دائرة بني عامر ",
+    "COMMUNE": "Chtaiba",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TASSAOUT CENTRE",
+    "NOM_ETABA": "تساوت المركزية",
+    "AdresseL": "TASSAOUT COMMUNE CHTAIBA",
+    "AdresseA": "دوار اولاد مصور",
+    "COMMUNE": "Chtaiba",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHTAIBA CENTRE",
+    "NOM_ETABA": "اشطيبة المركزية",
+    "AdresseL": "DOUAR CHTAIBA COMMUNE CHTAIBA",
+    "AdresseA": "دوار الشطيبة",
+    "COMMUNE": "Chtaiba",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " EL MALEH CENTRE",
+    "NOM_ETABA": "المالح المركزية",
+    "AdresseL": "DOUAR EL MELH COMMUNE CHTAIBA",
+    "AdresseA": "دوار المالح",
+    "COMMUNE": "Chtaiba",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHOURAFAE",
+    "NOM_ETABA": "مدرسة الشرفاء",
+    "AdresseL": "DOUAR CHORFA",
+    "AdresseA": "دوار الشرفاء",
+    "COMMUNE": "Chtaiba",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

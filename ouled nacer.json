@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OMAR IBNOU ABDELAZIZ",
+    "NOM_ETABA": "ثانوية عمر ابن عبد العزيز الاعدادية",
+    "AdresseL": "college omar ibn abdelaziz ouled naceur",
+    "AdresseA": "إعدادية عمر بن عبد العزيز اولاد ناصر",
+    "COMMUNE": "Ouled Nacer",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED ILLOUL CENTRE",
+    "NOM_ETABA": "مركزية اولاد يلول",
+    "AdresseL": "OULED ILLOUL COMMUNE OULED NACER",
+    "AdresseA": "جماعة اولاد ناصر",
+    "COMMUNE": "Ouled Nacer",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED JABRI CENTRE",
+    "NOM_ETABA": "مركزية اولاد الجابري",
+    "AdresseL": "OULED JABRI COMMUNE OULED NACER",
+    "AdresseA": "جماعة اولاد ناصر",
+    "COMMUNE": "Ouled Nacer",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED FREJ CENTRE",
+    "NOM_ETABA": "مركزية أولاد افرج",
+    "AdresseL": "OULED FREJ COMMUNE OULED NACER",
+    "AdresseA": "جماعة اولاد ناصر",
+    "COMMUNE": "Ouled Nacer",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHLALTA CENTRE",
+    "NOM_ETABA": "مركزية الخلالطة",
+    "AdresseL": "LAKHLALTA COMMUNE OULED NACER",
+    "AdresseA": "جماعة اولاد ناصر",
+    "COMMUNE": "Ouled Nacer",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

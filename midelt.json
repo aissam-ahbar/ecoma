@@ -1,0 +1,302 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHOUHADA",
+    "NOM_ETABA": "ثانوية الشهداء الإعدادية",
+    "AdresseL": "QUARTIER RYAD II  MUNICIPALITE MIDELT",
+    "AdresseA": "حي الرياض بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY YOUSSEF",
+    "NOM_ETABA": "ثانوية مولاي يوسف الإعدادية",
+    "AdresseL": "QUARTIER SOUK EL HAD MUNICIPALITE MIDELT",
+    "AdresseA": "حي سوق الاحد ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOUSSA BEN NOCEIR",
+    "NOM_ETABA": "مدرسة موسى بن نصير",
+    "AdresseL": "RUE AGADIR MUNICIPALITE MIDELT",
+    "AdresseA": "زنقة اكادير بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL HASSAN DAKHIL",
+    "NOM_ETABA": "مدرسة الحسن الداخل",
+    "AdresseL": "RUE AHMED AMIN AIT ERBAA MUNICIPALITE MIDELT",
+    "AdresseA": "زنقة احمد امين ايت الربع بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FATIMA EL FIHRIA",
+    "NOM_ETABA": "مدرسة فاطمة الفهرية",
+    "AdresseL": "QUARTIER ADMINISTRATIF MINICIPALITE MIDELT",
+    "AdresseA": "الحي الاداري بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "مدرسة يوسف بن تاشفين",
+    "AdresseL": "1 BOULEVARD TARIK MUNICIPALITE MIDELT",
+    "AdresseA": "شارع طارق بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BIR ANZARANE",
+    "NOM_ETABA": "مدرسة بئر انزران",
+    "AdresseL": "BOULEVARD BIRANZARANE MUNICIPALITE MIDELT",
+    "AdresseA": "شارع بئر انزران بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MASSIRA AL KHADRA",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء",
+    "AdresseL": "RUE AGADIR MUNICIPALITE MIDELT",
+    "AdresseA": "زنقة اكادير بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL IMAM ALGHAZALI",
+    "NOM_ETABA": "مدرسة الامام الغزالي",
+    "AdresseL": "HAY IKHERMJIOUEN MUNICIPALITE MIDELT",
+    "AdresseA": "حي اخرمجيون بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MALOUIA",
+    "NOM_ETABA": "مدرسة ملوية",
+    "AdresseL": "QUARTIER TAAKIT MUNICIPALITE MIDELT",
+    "AdresseA": "حي تاعكيت بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL ATLAS",
+    "NOM_ETABA": "مدرسة الاطلس",
+    "AdresseL": "QUARTIIER  TADAOUT MUNICIPALITE MIDELT",
+    "AdresseA": "حي تداوت بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBEN ZAYDOUNE",
+    "NOM_ETABA": "مدرسة ابن زيدون",
+    "AdresseL": "QUARTIER SOUK EL HAD ALJADID MUNICIPALITE MIDELT",
+    "AdresseA": "حي سوق الاحد الجديد يلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL QASER EL KABIR",
+    "NOM_ETABA": "مدرسة القصر الكبير",
+    "AdresseL": "DIOUR JDAD MUNICIPALITE MIDELT",
+    "AdresseA": "الديور الجداد بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ATMAN OU MOUSSA",
+    "NOM_ETABA": "مدرسة عثمان اوموسى",
+    "AdresseL": "QUARTIER ATMAN OU MOUSSA MUNICIPALITE MIDELT",
+    "AdresseA": "حي عثمان اوموسى يلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIT GHAYAT",
+    "NOM_ETABA": "مدرسة ايت غيات",
+    "AdresseL": "ait ghayat municipalite Midelt",
+    "AdresseA": "ايت غيات   بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIJILMASSA ",
+    "NOM_ETABA": "مدرسة سجلماسة",
+    "AdresseL": "QUARTIER MIMLAL MIDELT",
+    "AdresseA": "حي ميملال ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IROUMLILE",
+    "NOM_ETABA": "مدرسة ايرومليل",
+    "AdresseL": "Iroumlile ",
+    "AdresseA": "ايرومليل",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL YASSAMINE",
+    "NOM_ETABA": "الياسمين ",
+    "AdresseL": "QUARTIER AL YASSAMINE SOUQ AL AHAD ",
+    "AdresseA": "حي الياسمين سوق الأحد ",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL KARAM ",
+    "NOM_ETABA": "مدرسة الكرم ",
+    "AdresseL": "QUARTIER EL KARAM ",
+    "AdresseA": "حي الكرم ",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني ",
+    "AdresseL": "AIT ERRBAA MIDELT",
+    "AdresseA": "ايت الربع ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PRINCE MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية الأمير مولاي رشيد",
+    "AdresseL": "ROUTE DE MEKNES MUNICIPALITE MIDELT",
+    "AdresseA": "طريق مكناس  بلدية  ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL AYACHI",
+    "NOM_ETABA": "الثانوية التأهيلية العياشي ",
+    "AdresseL": "RUE TARIK MUNICIPALITE MIDELT",
+    "AdresseA": "زنقة طارق بلدية ميدلت",
+    "COMMUNE": "Midelt",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HAYA NAKRAE",
+    "NOM_ETABA": "مؤسسة هيا نقرأ",
+    "AdresseL": "RUE WALILI IKHRMJIOUINE MIDELT",
+    "AdresseA": "زنقة وليلي حي اخرمجيون",
+    "COMMUNE": "Midelt ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "massar al hassania",
+    "NOM_ETABA": "مسار الحسنية",
+    "AdresseL": "109AV LAAYOUNE",
+    "AdresseA": "رقم 109 شارع العيون ",
+    "COMMUNE": "Midelt ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE awladouna school - annexe almou",
+    "NOM_ETABA": "مجموعة مدارس اولادنا سكول - ملحقة المو ",
+    "AdresseL": "rue atlas almou MIDELT",
+    "AdresseA": "زنقة اطلس المو ميدلت",
+    "COMMUNE": "Midelt ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SINDIBAD SCHOOL",
+    "NOM_ETABA": "سندباد سكول",
+    "AdresseL": "2 rue boulmene tadaout ikhramj",
+    "AdresseA": "رقم 2 زنقة بولمان تداوت  ايخرم",
+    "COMMUNE": "Midelt ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " groupe scolaire AWLADOUNA SCHOOL ",
+    "NOM_ETABA": "مجموعة مدارس أولادنا سكول",
+    "AdresseL": "Quartier Riad ",
+    "AdresseA": "حي الرياض ",
+    "COMMUNE": "Midelt ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RISsALAT AL AMANA",
+    "NOM_ETABA": "رسالة الأمانة",
+    "AdresseL": "34 rue eaux et forets almou mi",
+    "AdresseA": "34 زنقة المياه و الغابات ألموا",
+    "COMMUNE": "Midelt ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire AWLADOUNA SCHOOL  annexe mimlal        ",
+    "NOM_ETABA": "مجموعة مدارس أولادنا سكول ملحقة ميملال",
+    "AdresseL": "4 RUE BOUKRAA HAY MIMLAL MIDEL",
+    "AdresseA": "4 زنقة بوكراع حي ميملال ميدلت",
+    "COMMUNE": "Midelt ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sabil Al Irfane",
+    "NOM_ETABA": "سبيل العرفان",
+    "AdresseL": "N° 109, Route de Meknès Mimlal",
+    "AdresseA": "رقم 109، طريق مكناس مملال",
+    "COMMUNE": "Midelt ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

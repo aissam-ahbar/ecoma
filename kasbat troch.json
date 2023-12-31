@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID AMER BELHAJ",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد اعمربالحاج",
+    "AdresseL": "centre commune rurale kasbat troch cercle oued zem",
+    "AdresseA": "مركز ج  قصبة الطرش دائرة وادي زم",
+    "COMMUNE": "Kasbat Troch",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SMAALA",
+    "NOM_ETABA": "م/م السماعلة",
+    "AdresseL": "DOUAR LAKHTATBA MALINE SAHB COM KASBAT TROCH",
+    "AdresseA": "دوار الخطاطبة مالين السهب",
+    "COMMUNE": "Kasbat Troch",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED MBAREK",
+    "NOM_ETABA": "م/م أولاد امبارك",
+    "AdresseL": "DOUAR OULED M BAREK COMMUNE KASBAT TROCH",
+    "AdresseA": "دوار  اولاد  امبارك",
+    "COMMUNE": "Kasbat Troch",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

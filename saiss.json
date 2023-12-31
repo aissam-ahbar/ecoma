@@ -1,0 +1,942 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AL BANNAE",
+    "NOM_ETABA": "الثانوية الإعدادية إبن البناء",
+    "AdresseL": "hy narjis a BP5514 SIDI BRAHIM fes",
+    "AdresseA": "   حي النرجس أ  ص ب 5514 سيدي ابراهيم فــاس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN BENCHEKROUN",
+    "NOM_ETABA": "الثانوية الإعدادية الحسن بنشقرون",
+    "AdresseL": "ROUTE D IMMOUZER SAIS FES",
+    "AdresseA": "طريق ايموزار ص ب 2298",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNO TOFAIL",
+    "NOM_ETABA": "الثانوية الإعدادية ابن طفيل",
+    "AdresseL": "NARJIS ROUTE DE SEFROU",
+    "AdresseA": "شارع مولاي رشيد حي النرجس طريق صفرو",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BEL HASSAN OUAZZANI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بن الحسن الوزاني",
+    "AdresseL": "rue elbahae hay narjisse C route de sefrou fes",
+    "AdresseA": "شارع البهاء حي النرجس  س طريق صفرو فاس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED EL MAKHAZINE",
+    "NOM_ETABA": "الثانوية الإعدادية واد المخازن",
+    "AdresseL": "av rahma narjss  saiss",
+    "AdresseA": "شارع الرحمة سايس :النرجس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 6 NOVEMBRE",
+    "NOM_ETABA": " الثانوية الإعدادية 6 نونبر",
+    "AdresseL": "av ram allah HAY wafae  NARJISS ",
+    "AdresseA": "   شارع رام الله حي الوفاء النرجس ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AZZOUHOUR",
+    "NOM_ETABA": "الثانوية الإعدادية الزهــــــور",
+    "AdresseL": "HAY AZZOUHOUR ROUTE DE SEFROU",
+    "AdresseA": "حي الزهور مونفلوري 1 طريق صفرو",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FKIH TAOUDI",
+    "NOM_ETABA": " الثانوية الإعدادية الفقيه التاودي",
+    "AdresseL": "HAY NARJISS RIAD",
+    "AdresseA": "حي النرجس الرياض",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR ELMOKHTAR",
+    "NOM_ETABA": "الثانوية الإعدادية عمر المختار",
+    "AdresseL": "AVENUE ALMANAMA ZOHOUR 1",
+    "AdresseA": "شارع المنامة الزهور 1",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAHACEN EL YOUSSI",
+    "NOM_ETABA": "الثانوية الإعدادية لحسن اليوسي",
+    "AdresseL": "boulevard Ismailia montfleurie II",
+    "AdresseA": "شارع الإسماعيلية الزهور 2",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNASR",
+    "NOM_ETABA": "الثانوية الإعدادية النصر",
+    "AdresseL": "aouinat El hajjaj",
+    "AdresseA": "عوينات الحجاج",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHA OHAMOU AZZAYANI",
+    "NOM_ETABA": "المدرسة الابتدائيةى موحى أوحمو الزياني",
+    "AdresseL": "AOUINAT EL HAJJAJ SAIS",
+    "AdresseA": "عوينة الحجاج سايس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BAKRI",
+    "NOM_ETABA": "المدرسة الابتدائية البكري",
+    "AdresseL": "av rachad HAY NARJISS c",
+    "AdresseA": "شارع الرشاد حي النرجس س",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AOUINT AL HAJJAJ 2",
+    "NOM_ETABA": "المدرسة الابتدائية عوينت الحجاج التانية",
+    "AdresseL": "SIDI BRAHIM AOUINT EL HAJJAJ II",
+    "AdresseA": "سيدي ابراهيم عوينت الحجاج 2",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MORABITINE 1",
+    "NOM_ETABA": "المدرسة الابتدائية المرابطين الأولى",
+    "AdresseL": "SIDI BRAHIM HAY ERAC",
+    "AdresseA": "سيدي ابراهيم حي ليراك",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED ALKAGHAT",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الكغاط",
+    "AdresseL": "HAY almorabitene lirak sais",
+    "AdresseA": "حي المرابطين ليراك سايس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR IBN AL KHATTAB",
+    "NOM_ETABA": "المدرسة الابتدائية عمر بن الخطاب",
+    "AdresseL": "LOT NARJISS SIDI BRAHIM rue kassab",
+    "AdresseA": "حي النرجس سيدي ابراهيم زنقة القصب",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT BOUGAFER",
+    "NOM_ETABA": "المدرسة الابتدائية معركة بوغافر ",
+    "AdresseL": "AV  ORAN   ZOUHOUR1",
+    "AdresseA": "شارع وهران الزهور1",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL KADI AYAD",
+    "NOM_ETABA": "المدرسة الابتدائية القاضي عياض",
+    "AdresseL": "RUE MANAMA zouhour premier",
+    "AdresseA": "شارع المنانة  الزهور الأولى ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL JADIDA",
+    "NOM_ETABA": " المدرسة الابتدائية الجديدة",
+    "AdresseL": "AVENUE ISMAILLIA HAY ZOHOR1 FES SAISS",
+    "AdresseA": "شارع الإسماعيلية حي الزهور 1 سايس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية عبدالله الشفشاوني",
+    "AdresseL": "LOTISSEMENT OUAFAE 1  HAY NARJISS RTSEFROU",
+    "AdresseA": "حي الوفاء 1 نرجس طريق صفرو",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  20 AOUT",
+    "NOM_ETABA": "المدرسة الابتدائية 20 غشت",
+    "AdresseL": "HAY AOUINT EL HAJJAJ",
+    "AdresseA": "حي عوينت الحجاج",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  14 AOUT",
+    "NOM_ETABA": "المدرسة الابتدائية 14 غشت",
+    "AdresseL": "av salam HAY NARJISS RTE SEFROU",
+    "AdresseA": "شارع السلام حي النرجس طريق صفرو",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT LAHRI",
+    "NOM_ETABA": "المدرسة الابتدائية معركة لهري",
+    "AdresseL": "Av Aliskandariya Montflouri2",
+    "AdresseA": "شارع الاسكندرية              الزهور 2",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire DAIAT BEN ABDALLAH",
+    "NOM_ETABA": "م.م ضيعة بن عبد الله",
+    "AdresseL": "RTE SEFROU",
+    "AdresseA": "طريق صفرو",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOKHTAR ASSOUSSI",
+    "NOM_ETABA": "المدرسة الابتدائية المختار السوسي",
+    "AdresseL": "AOUINT AL HAJJAJ",
+    "AdresseA": "عوينت الحجاج",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN HANBAL",
+    "NOM_ETABA": " المدرسة الابتدائية ابن حنبل",
+    "AdresseL": "av soussa  ROUTE IMOUZZER",
+    "AdresseA": "شارع سوسة طريق إيموزار",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AMAL",
+    "NOM_ETABA": "المدرسة الابتدائية الأمـــل",
+    "AdresseL": "HAY AL AMAL COMMUNE SAIS",
+    "AdresseA": "حي الأمل",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANOUAL",
+    "NOM_ETABA": "المدرسة الابتدائية أنوال",
+    "AdresseL": "HAY EL HASSANI ROUTE AIN CHKEF",
+    "AdresseA": "حي الحسني، طريق عين الشقف",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MAGHREB AL ARABI",
+    "NOM_ETABA": "المدرسة الابتدائية المغرب العربي",
+    "AdresseL": "av al bahr alahmer hay riyad narjiss saiss fes",
+    "AdresseA": "شارع البحر الأحمر حي الرياض النرجس سايس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL WAHDA",
+    "NOM_ETABA": "المدرسة الابتدائية الوحدة",
+    "AdresseL": "av el amal  rue florida EL WAFAE 2",
+    "AdresseA": "شارع الأمل زنقة فلوريدا حي الوفاء 2",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL BOUHTOURI  I",
+    "NOM_ETABA": "المدرسة الابتدائية البحتري 1 ",
+    "AdresseL": "Douar Drissi  AOUINT AL HAJJAJ",
+    "AdresseA": "Err :509",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AHD AL JADID",
+    "NOM_ETABA": "المدرسة الابتدائية العهد الجديد",
+    "AdresseL": "Av Beroute monfleuri 2",
+    "AdresseA": "شارع بيروت مونفلوري2",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELKARIM BENABDELLAH",
+    "NOM_ETABA": " المدرسة الابتدائية عبد الكريم بن عبد الله",
+    "AdresseL": "rue AL badia derb bel ghali   sayes",
+    "AdresseA": "زنقة البديع درب بالغالي طريق إيموزازر فاس ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FATIMA ELMARNISSI",
+    "NOM_ETABA": "المدرسة الابتدائية فاطمة المرنيسي",
+    "AdresseL": "lot RIAD EL YASMINE rte ain chkef",
+    "AdresseA": "تجزئة رياض الياسمين طريق عين الشقف",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ROCHD",
+    "NOM_ETABA": "الثانوية التأهيلية إبن رشد",
+    "AdresseL": "av moulay rachid ROUTE DE SEFROU",
+    "AdresseA": " شارع مولاي رشيد طريق صفرو",
+    "COMMUNE": "Saiss ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE",
+    "NOM_ETABA": "الثانوية التقنية",
+    "AdresseL": "AZZOHOUR 2 ROUTE SEFROU ",
+    "AdresseA": "  حي الزهور 2 طريق صفرو ",
+    "COMMUNE": "Saiss ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH GUENNOUN",
+    "NOM_ETABA": " الثانوية التأهيلية عبدالله كنون",
+    "AdresseL": "bel air narjis",
+    "AdresseA": "تجزئة الهواء الجميل النرجس",
+    "COMMUNE": "Saiss ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SOCIAL DES NON VOYANTS",
+    "NOM_ETABA": "مؤسسة محمد الخامس لإنقاد الضرير",
+    "AdresseL": "Avenue moulay rachid fes",
+    "AdresseA": "شارع مولاي رشيد فاس",
+    "COMMUNE": "Saiss ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN SINA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن سينا",
+    "AdresseL": "av bayrout mont fleuri 1",
+    "AdresseA": "شارع بيروت مونفلوري 1",
+    "COMMUNE": "Saiss ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PRINCE MOULAY EL HASSAN",
+    "NOM_ETABA": "الثانوية التأهيلية الأمير مولاي الحسن",
+    "AdresseL": "rue errayahine av essallam narjis a FES",
+    "AdresseA": "زنقة الرياحين شارع السلام النرجس -ا- فاس",
+    "COMMUNE": "Saiss ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDERRAHIM BOUABID",
+    "NOM_ETABA": " الثانوية التأهيلية عبد الرحيم بوعبيد",
+    "AdresseL": "saiss",
+    "AdresseA": "الزهور-2 حي السلام فاس سايس",
+    "COMMUNE": "Saiss ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Falah Fès",
+    "NOM_ETABA": " فلاح فاس",
+    "AdresseL": " Km 2 route ain chkef",
+    "AdresseA": " كلم2 طريق عين الشقف ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Ikama 2",
+    "NOM_ETABA": "الإقامة 2",
+    "AdresseL": " angle bd med fassi & bd chell",
+    "AdresseA": " زاوية شارع محمد الفاسي وشارع ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Zerhoun",
+    "NOM_ETABA": "مجموعة مدارس زرهون",
+    "AdresseL": "Lot. Al Amal, Route Sidi Hraze",
+    "AdresseA": "تجزئة الأمل، طريق سيدي حرازم -",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAIBATOUNE",
+    "NOM_ETABA": "طيبةٌّ",
+    "AdresseL": "N° 27, Rue Nouakchout, quartie",
+    "AdresseA": "رقم 27، زنقة نواكشوط، مونفلوري",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire idriss1",
+    "NOM_ETABA": "مجموعة مدارس ادريس الاول",
+    "AdresseL": "Route immouzer km 2 fes",
+    "AdresseA": "طريق ايموزار كلم 2 فاس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G. S  AL KALAM",
+    "NOM_ETABA": "مجموعة مدارس القلم",
+    "AdresseL": "140 avenue ismaillia  zohour 1",
+    "AdresseA": " رقم 140 شارع الإسماعيلية منفل",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole le petit inventeur",
+    "NOM_ETABA": "مدرسة المخترع الصغير الخصوصية",
+    "AdresseL": "2 boulevard douminik rue abi h",
+    "AdresseA": "2 زنقة دومينيك شارع أبي هريرة ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALFRED NOBEL",
+    "NOM_ETABA": "ألفريد نوبل",
+    "AdresseL": "N 546  LOT RIAD ROUTE DE SEFRO",
+    "AdresseA": "قطعة رقم 546 تجزئة الرياض طريق",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "fadae Al Azhar",
+    "NOM_ETABA": "فضاء الأزهر",
+    "AdresseL": "Rue Salmia Boulevar karaouine ",
+    "AdresseA": "زنقة السالمية شارع القرويين تج",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Dinia",
+    "NOM_ETABA": "دينيا",
+    "AdresseL": "Lot Al Wafae 4 Route Sidi Hraz",
+    "AdresseA": "تجزئة الوفاء 4 طريق سيدي حرازم",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "technologia",
+    "NOM_ETABA": "تكنولوجيا",
+    "AdresseL": "LOTISSEMENT QUARAOUIYINE ROUTE",
+    "AdresseA": " طريق عين الشقف تجزئة القرويين",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE YASSAMINE FES ROUTE IMOUZZERE",
+    "NOM_ETABA": "مدرسة ياسمين فاس طريق إيموزار الخصوصية",
+    "AdresseL": "blv moulay abdellah route Imou",
+    "AdresseA": "نهج مولاي عبد الله طريق إيموزا",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut maison des sciences",
+    "NOM_ETABA": "معهد دار العلوم",
+    "AdresseL": "157 lot riad nakhil route d im",
+    "AdresseA": "157 تجزئة رياض النخيل طريق إيم",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RABELAIS",
+    "NOM_ETABA": "رابلي",
+    "AdresseL": "Zone offchore pres de la fac d",
+    "AdresseA": "المنطقة الحرة قرب كلية الطب",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole des cedres",
+    "NOM_ETABA": "مدرسة الارز",
+    "AdresseL": "Lot 1486 rue naanaa Narjiss A ",
+    "AdresseA": "رقم 1486 زنقة النعناع النرجس أ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIL AL ABRAR",
+    "NOM_ETABA": "جيل الأبرار",
+    "AdresseL": "N°4 BLOC A QODSS II HAY EL HSS",
+    "AdresseA": "رقم 4 بلوك أ قدس2 الحي الحسني ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Erraoui",
+    "NOM_ETABA": "الراوي",
+    "AdresseL": "KM 5 AV EL FADL FERME BEN ABDA",
+    "AdresseA": "كلم 5 شارع الفضل ضيعة بن عبدال",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Omega SCIENCES",
+    "NOM_ETABA": "أوميكى علوم",
+    "AdresseL": "152 AV. CHENGHIT MONTFLEURI II",
+    "AdresseA": "152 شارع شنكيط مونفلوري 2 طريق",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ryad safwa",
+    "NOM_ETABA": "رياض الصفوة",
+    "AdresseL": "23-24-25 soluna 2 route imouzz",
+    "AdresseA": "23-24-25 صولينا 2 طريق ايموزار",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al aalam",
+    "NOM_ETABA": "الأعلام",
+    "AdresseL": "Lot.ASSALAM N°120 route de sef",
+    "AdresseA": "تجزئة السلام رقم 120  طريق صفر",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manabia alatlas",
+    "NOM_ETABA": "منابع الأطلس",
+    "AdresseL": "lot elmahdi N75 rte imouzzar",
+    "AdresseA": "            رقم 75 تجزئة المهد",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "massar al hikma",
+    "NOM_ETABA": "مسار الحكمة",
+    "AdresseL": "5f lot riad al yassamine rOute",
+    "AdresseA": "رقم ف 5 تجزئة رياض الياسمين طر",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "laytkindal",
+    "NOM_ETABA": "لايت كندل",
+    "AdresseL": "n 23 lot amine monfleuri 2",
+    "AdresseA": "رقم 23 تجزئة أمين مونفلوري 2 س",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zamzam school",
+    "NOM_ETABA": "زمزم سكول",
+    "AdresseL": "265 lot bel ai quatier al amal",
+    "AdresseA": " 265تجزئة الهواء الجميل حي الا",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE CHARLES PERRAULT",
+    "NOM_ETABA": "مؤسسة شارل بيرو الخصوصية",
+    "AdresseL": "lOT Numéro 4 rIAD nAKHIL rOUTE",
+    "AdresseA": "حي النخيل طريق إيموزار رقم 4",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "cite de l education et du savoir laplace",
+    "NOM_ETABA": " مؤسسة لابلاس الخصوصية للتربية والمعرفة",
+    "AdresseL": "Lot zahrat al madain, lot eq-3",
+    "AdresseA": " eq3 تجزئة زهرة المدائن طريق ع",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MISBAH AL AMAL",
+    "NOM_ETABA": "مؤسسة مصباح الأمل الخصوصية",
+    "AdresseL": "N35 rue figuige q alamal narji",
+    "AdresseA": "رقم 35 زنقة فكيك قطعة 226 حي ا",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Mazarin",
+    "NOM_ETABA": "معهد مزران",
+    "AdresseL": "bd hamza bnou abdelmoutaleb bo",
+    "AdresseA": "شلرع حمزة بن عبد المطلب",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MIRABEAU - GSMP20",
+    "NOM_ETABA": "مجموعة مدارس ميرابو الخاصة ",
+    "AdresseL": "LTS ZOHOUR ROUTE AIN CHKEF",
+    "AdresseA": "تجزئة حي الزهور طريق عين الشقف",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la lancee",
+    "NOM_ETABA": "لالونصي",
+    "AdresseL": "lot 31 lotissement Ouadie rout",
+    "AdresseA": "القطعة 31 تجزئة إيموزار فاس",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "louis lumiere",
+    "NOM_ETABA": "لويس لوميير",
+    "AdresseL": "N ° 88 lotissement sofia route",
+    "AdresseA": "رقم 88 تجزئة صوفيا طريق إيموزا",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BABILO",
+    "NOM_ETABA": "بابيلو الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "14 إقامة الريحان 2 طريق صفرو ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "fadae arrahma",
+    "NOM_ETABA": "فضاء الرحمة ",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 10 واد لاو نرجس س",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BASMALA",
+    "NOM_ETABA": "البسملة",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 59 زنقة مولاي رشيد طريق ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ALAM EL JADID LIL ATFAL",
+    "NOM_ETABA": "العالم الجديد للأطفال",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 3 حي حسني زنقة السهام طر",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ILE AUX MOTS",
+    "NOM_ETABA": "جزيرة الكلمات",
+    "AdresseL": "NULL",
+    "AdresseA": "الزهور2 إقامة أم القرى شارع ال",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL MOUSTAKBAL",
+    "NOM_ETABA": "براعم المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 23 زنقة سيراليون شارع المن",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOULAY YOUSSEF",
+    "NOM_ETABA": "مولاي يوسف",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك و14 رقم 10 الحي الحسني سي",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les etoiles des sciences",
+    "NOM_ETABA": "نجوم العلوم",
+    "AdresseL": "lotissement Mabrouka2.N9.Rue d",
+    "AdresseA": "القطعة 9 تجئة مبروكة 2 طريق اي",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al majd",
+    "NOM_ETABA": "المجد",
+    "AdresseL": "",
+    "AdresseA": "القطعة 1 تجزئة زهرة المدائن طر",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la perle des sciences",
+    "NOM_ETABA": "لابيرل دي صيونس",
+    "AdresseL": "741 LOTISSEMENT JAWHARA. NARJI",
+    "AdresseA": " 741 تجزئة جوهرة النرجس حي الر",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "golden school",
+    "NOM_ETABA": "كولدن سكول",
+    "AdresseL": "Lotissement riad al yasmine lo",
+    "AdresseA": "تجزئة رياض الياسمين (تجزئة الج",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "A. G SCHOOL",
+    "NOM_ETABA": "آجي  سكول الخصوصية",
+    "AdresseL": "12b lot salam route sefrou fes",
+    "AdresseA": "رقم 12 ب تجزئة السلام طريق صفر",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "athouraya",
+    "NOM_ETABA": "الثريا",
+    "AdresseL": "Quartier Al fadila , Route Ain",
+    "AdresseA": "عين عمير بلاد المسفر حي الفضيل",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ritage seven c",
+    "NOM_ETABA": "ريتاج سيفن س خصوصي",
+    "AdresseL": "236 avenue beyrout hay zohour ",
+    "AdresseA": "رقم 236 تجزئة زهيرة 2 شارع بير",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "O'PTIT BAOBAB",
+    "NOM_ETABA": "اوبوتي بواباب",
+    "AdresseL": "43 COOPERATIVE IDRISSIA LOT CD",
+    "AdresseA": "43 تعاونية الادريسية عمارة س د",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Collège Malreaux",
+    "NOM_ETABA": "إعدادية مالرو",
+    "AdresseL": "N 142Bd ABI HOURAIRA MONFLEURI",
+    "AdresseA": "رقم  142 شارع أبي هريرة مونفلو",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Espoir de demain",
+    "NOM_ETABA": "اسبوار دو دومان",
+    "AdresseL": "48 rue Arganae Av Namae Narjis",
+    "AdresseA": "رقم 48 زنقة أركانة شارع النماء",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "THE BROTHERS ENSEIGNEMENT",
+    "NOM_ETABA": "ذي برادرز للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الهواء الجميل طريق سيدي ",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BENJHOD ALEXANDRE",
+    "NOM_ETABA": "بنجهود الكسندر",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 31 زنقة الحرية الحي الحسني",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES JASMINS",
+    "NOM_ETABA": "مجموعة مدارس لجسمان",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 27 تجزئة عين عمير الحي ا",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SABIL ATTAFAWOK",
+    "NOM_ETABA": "مؤسسة سبيل التفوق",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 85 زنقة واد سبو تجزئة ال",
+    "COMMUNE": "Saiss",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

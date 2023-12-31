@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS SIDI ABDERRAHMANE",
+    "NOM_ETABA": "م/م  سيدي عبد الرحمان",
+    "AdresseL": "DOUAR SIDI ABDERRAHMNE COMMUNE BNI OUNJEL TAOUNATE",
+    "AdresseA": "سيدي عبد الرحمان جماعة بني ونجل تاونات المركز",
+    "COMMUNE": "Bni Ounjel Tafraout",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL MALAAB",
+    "NOM_ETABA": "م/م  الملعب",
+    "AdresseL": "DOUAR GHZAOIna COMMUNE BNI OUNJEL TAfraOUTE",
+    "AdresseA": "دوارغزاونة جماعة بني ونجل - تافراوت",
+    "COMMUNE": "Bni Ounjel Tafraout",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

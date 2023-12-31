@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "commune oulad si bouhya",
+    "AdresseA": "جماعة اولاد سي بوحيى",
+    "COMMUNE": "Oulad Si Bouhya",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MACHREK",
+    "NOM_ETABA": "المشرك",
+    "AdresseL": "DOUARE GRICHATE ERRAG COMMUNE OULED SI BOUHYA",
+    "AdresseA": "دوار اكريشات الرك جماعة أولاد سي بوحيا",
+    "COMMUNE": "Oulad Si Bouhya",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MATRANE",
+    "NOM_ETABA": "مطران",
+    "AdresseL": "DOUAR OULED CHAIB COMMUNE OULED SI BOUHYA",
+    "AdresseA": "دوار اولاد اولاد شعيب ج اولاد سي بوحيى",
+    "COMMUNE": "Oulad Si Bouhya",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED MOUMEN",
+    "NOM_ETABA": "اولاد مومن",
+    "AdresseL": "DOUAR GRICHATE LMERS COMMUNE OULED SI BOUHYA",
+    "AdresseA": "دوار الكريشات جماعة اولاد سي بوحيا إقليم سيدي بنور",
+    "COMMUNE": "Oulad Si Bouhya",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAMIRATE",
+    "NOM_ETABA": "لعميرات",
+    "AdresseL": "DOUAR LAAMIRATE COMMUNE OULED SI BOUHYA",
+    "AdresseA": "دوار العميرات ج اولاد سي بوحيى",
+    "COMMUNE": "Oulad Si Bouhya",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

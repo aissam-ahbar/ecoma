@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE SOUAKEN",
+    "NOM_ETABA": "الثانوية الإعدادية السواكن",
+    "AdresseL": "SOUAKEN CENTRE ",
+    "AdresseA": "السواكن المركز",
+    "COMMUNE": "Souaken",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED ELMANSOUR EDDAHBI SOUAKEN CENTRE ",
+    "NOM_ETABA": "م/م أحمد المنصور الذهبي   السواكن  المركزية",
+    "AdresseL": "DOUAR SOUKEN COMMUNE SOUAKEN",
+    "AdresseA": "دوار السواكن جماعة السواكن",
+    "COMMUNE": "Souaken",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULED JMIL",
+    "NOM_ETABA": " مدرسة أولاد اجميل",
+    "AdresseL": "DOUAR OULED JMIL COMMUNE SOUAKEN",
+    "AdresseA": "دوار اولاد اجميل جماعة السواكن",
+    "COMMUNE": "Souaken",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMAIER TLIK CENTRE",
+    "NOM_ETABA": "م/م   اعماير الطليق  المركزية",
+    "AdresseL": "DOUAR AMAIER TLIK COMMUNE SOUAKEN",
+    "AdresseA": "دوار عماير الطليق جماعة السواكن",
+    "COMMUNE": "Souaken",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

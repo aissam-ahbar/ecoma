@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "SS AL INBIAAT CENTRE BOUADANE",
+    "NOM_ETABA": "م.م الانبعاث مركزية بوضان",
+    "AdresseL": "DOUAR BOUADANE",
+    "AdresseA": "دوار  بوضان",
+    "COMMUNE": "Bounaamane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAHCEN BOUNAMANI CENTRE BOUNAAMANE",
+    "NOM_ETABA": "م.م الحسن البونعماني مركزية بونعمان",
+    "AdresseL": "CENTRE COMMUNE BOUNAAMANE",
+    "AdresseA": "مركز جماعة بونعمان",
+    "COMMUNE": "Bounaamane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HASSAN 2 CENTRE TAGOUNZA",
+    "NOM_ETABA": "م.م الحسن الثاني مركزية تكنسة",
+    "AdresseL": "DOUAR TAGOUNZA",
+    "AdresseA": "دوار تكنسة",
+    "COMMUNE": "Bounaamane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALJAHED CENTRE AGADIR OUFALA",
+    "NOM_ETABA": "م.م الجاحظ مركز اكادير اوفلا",
+    "AdresseL": "DOUAR AGADIR OUFALA",
+    "AdresseA": "دواراكادير اوفلا",
+    "COMMUNE": "Bounaamane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASSANABIL CENTRE IGALFEN",
+    "NOM_ETABA": "م.م السنابل مركزية اكالفن",
+    "AdresseL": "DOUAR IGALFEN",
+    "AdresseA": "دوار اكالفن",
+    "COMMUNE": "Bounaamane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ARGANE CENTRE SIDI BLAL",
+    "NOM_ETABA": "م.م اركان مركزية سيدي بلال",
+    "AdresseL": "DOUAR ifred bounaamane",
+    "AdresseA": "دوار افرض بونعمان",
+    "COMMUNE": "Bounaamane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUNE",
+    "NOM_ETABA": "الثانوية التاهيلية ابن خلدون",
+    "AdresseL": "COMMUNE BOUNAAMANE",
+    "AdresseA": "مركز جماعة بونعمان",
+    "COMMUNE": "Bounaamane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

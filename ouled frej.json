@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED VI",
+    "NOM_ETABA": "ثانوية محمد السادس الاعدادية ",
+    "AdresseL": "centre OULED FREJ ",
+    "AdresseA": "مركز أولاد افرج ",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MASSIRA",
+    "NOM_ETABA": "ثانوية المسيرة الاعدادية",
+    "AdresseL": "centre OULED FREJ ",
+    "AdresseA": "مركز أولاد افرج",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "مدرسة عبد الله الشفشاوني",
+    "AdresseL": "EL HAY EL IDARI",
+    "AdresseA": "الحي الإداري ",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH IBN YASSINE",
+    "NOM_ETABA": "مدرسة عبدالله بن ياسين",
+    "AdresseL": "centre OULED FREJ ",
+    "AdresseA": "مركز أولاد افرج",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL OUAHDA",
+    "NOM_ETABA": "مدرسة الوحدة",
+    "AdresseL": "centre OULED FREJ ",
+    "AdresseA": "مركز أولاد افرج  ",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI BHAILILE",
+    "NOM_ETABA": "م/م سيدي ابهيليل",
+    "AdresseL": "DOUAR SIDI BHILIL ",
+    "AdresseA": "دوار سيدي ابهيليل",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAARABTA",
+    "NOM_ETABA": "م/م العرابطة",
+    "AdresseL": "DOUAR LAARABTA ",
+    "AdresseA": "دوار العرابطة",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 6 NOVEMBRE",
+    "NOM_ETABA": "ثانوية 6 نونبر التأهيلية",
+    "AdresseL": "centre OULED FREJ ",
+    "AdresseA": " مركز أولاد فرج",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AFAK AL IRFANE",
+    "NOM_ETABA": "آفاق العرفان",
+    "AdresseL": "el wiam 1 ",
+    "AdresseA": "الوئام 1  ",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JISRE ATTAFAOUK",
+    "NOM_ETABA": "جسر التفوق",
+    "AdresseL": "lotissement al wiam 2 ",
+    "AdresseA": "تجزئة الوئام الرقم 2 ",
+    "COMMUNE": "Ouled Frej",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

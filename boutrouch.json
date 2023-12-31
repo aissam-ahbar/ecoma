@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycee collegial BOUTROUCH",
+    "NOM_ETABA": "الثانوية الإعدادية بوطروش",
+    "AdresseL": " centre COMMUNE BOUTROUCH",
+    "AdresseA": "مركز جماعة بوطروش",
+    "COMMUNE": "Boutrouch",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE IBNOU ZOHR CENTRE TIHENKAK",
+    "NOM_ETABA": "مجموعة مدارس ابن زهر مركزية تهنكاك",
+    "AdresseL": "DOUAR TIHOUNKAK CENTRE COMMUNE BOUTROUCH",
+    "AdresseA": "دوار تهنكاك مركز جماعة بوطروش",
+    "COMMUNE": "Boutrouch",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL SOKHOUR CENTRE IZRWALLENE",
+    "NOM_ETABA": "مجموعة مدارس الصخور مركزية ازروالن",
+    "AdresseL": "DOUAR IZRWALLENE",
+    "AdresseA": "دوار ازروالن",
+    "COMMUNE": "Boutrouch",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

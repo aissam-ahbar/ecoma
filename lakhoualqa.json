@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL AKAD",
+    "NOM_ETABA": " الثانوية الإعدادية العقاد",
+    "AdresseL": "CENTRE COMMUNE LAKHOUALQA",
+    "AdresseA": "مركز جماعة الخوالقة",
+    "COMMUNE": "Lakhoualqa",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE SEBT LAKHOUALKA",
+    "NOM_ETABA": "مركزية سبت الخوالقة",
+    "AdresseL": "SEBT LAKHOUALKA COMMUNE LAKHOUALKA",
+    "AdresseA": "سبت الخوالقة جماعة الخوالقة",
+    "COMMUNE": "Lakhoualqa",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE LAHRACH",
+    "NOM_ETABA": "مركزية الحرش",
+    "AdresseL": "DOUAR LAHRACH COMMUNE LAKHOUALQA",
+    "AdresseA": "دوار الحرش جماعة الخوالقة",
+    "COMMUNE": "Lakhoualqa",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE LOUIHATE",
+    "NOM_ETABA": "مركزية اللويحات",
+    "AdresseL": "DOUAR LAHBIB BEN LAARBI COMMUNE LAKHOUALKA",
+    "AdresseA": "دوار لحبيب بن العربي جماعة الخوالقة",
+    "COMMUNE": "Lakhoualqa",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

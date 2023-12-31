@@ -1,0 +1,722 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED BEN ABDELKARIM EL KHATABI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بن عبد الكريم الخطابي",
+    "AdresseL": "oued fes 3 ème tranche",
+    "AdresseA": "حي واد فاس الشطر 3",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MANFALOUTI",
+    "NOM_ETABA": "الثانوية الإعدادية المنفلوطي",
+    "AdresseL": "al mariniyne",
+    "AdresseA": "المرينيين ",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MAHMOUD DAROUICH",
+    "NOM_ETABA": "الثانوية الإعدادية محمود درويش",
+    "AdresseL": "Elmariniyine",
+    "AdresseA": "المرينيين",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUM SALAMA FILLES",
+    "NOM_ETABA": "الثانوية الإعدادية أم سلمة بنات",
+    "AdresseL": "RUE 210 HAY LAMSALLA FES",
+    "AdresseA": "زنقة 210 حي المصلى عين قادوس فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ECHAHID ABDELALI BEN CHEKROUNE",
+    "NOM_ETABA": "الثانوية الإعدادية الشهيد عبد العالي بن شقرون",
+    "AdresseL": "DHAR LAKHMISSE LABITA  ",
+    "AdresseA": "ظهر لخميس لبيطا",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LISSANE EDDINE BNOU EL KHATIB",
+    "NOM_ETABA": "الثانوية الإعدادية لسان الدين بن الخطيب",
+    "AdresseL": "HAY CHRARDA BEN DEBAB FES",
+    "AdresseA": "حي الشراردة  بن دباب فاس  ",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIN HAROUNE",
+    "NOM_ETABA": "الثانوية الإعدادية عين هارون",
+    "AdresseL": "HAY AINE HAROUNE BEN DABBABE FES",
+    "AdresseA": "حي عين هارون بن دباب فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI JAWAD SQUALI",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي جواد الصقلي",
+    "AdresseL": "HAY LAMSSALLA AINE KADOUSSE FES",
+    "AdresseA": "حي المصلى عين قادوس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED SARGHINI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد السرغيني",
+    "AdresseL": "HAY LAALOU AGADIR FES",
+    "AdresseA": "حي لعلو أكادير",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNOU ZAYDOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية ابن زيدون",
+    "AdresseL": "DAIYA NAMOUDAJIA AINE KADDOUSSE FES",
+    "AdresseA": "الضيعة النموذجية عين قادوس فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FATIMA AL FIHRIA",
+    "NOM_ETABA": "المدرسة الابتدائية فاطمة الفهرية",
+    "AdresseL": "Rue 210 hay messalah Ain kadous Fes 30090",
+    "AdresseA": "زنقة 210 حي المصلى",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL WENCHRISSI",
+    "NOM_ETABA": "المدرسة الابتدائية الونشريسي",
+    "AdresseL": "        BOULEVARD TARIK BNOU ZIAD HAY MSSAKA AIN K",
+    "AdresseA": "شارع طارق بن زياد حي المصلى عين قادوس فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHALLA",
+    "NOM_ETABA": "المدرسة الابتدائية شالة",
+    "AdresseL": "HAY LAALOU AGADIR FES",
+    "AdresseA": "حي لعلو أكادير",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH BNOU ZOUBAIR",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الله بن الزبير",
+    "AdresseL": "HAY al amal BAB SIFFER AINE HAROUNE FES",
+    "AdresseA": "حي الأمل  باب السيفر عين هارون فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BILAL BNOU RABAH",
+    "NOM_ETABA": "المدرسة الابتدائية بلال ابن رباح",
+    "AdresseL": "HAY takaddoum  bab sifer AINE HAROUNE FES",
+    "AdresseA": "حي التقدم عين هارون",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FQUIH MOHAMMED TAHRI",
+    "NOM_ETABA": "المدرسة الابتدائية الفقيه محمد الطاهري",
+    "AdresseL": "HAY BEN DABBAB A COTE DU DISPENSAIRE AINHAROUN FES",
+    "AdresseA": "حي بن دباب",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AINE HAROUNE",
+    "NOM_ETABA": "المدرسة الابتدائية عين هارون",
+    "AdresseL": "HAY AINE HAROUNE BEN DEBBAB FES",
+    "AdresseA": "حي عين هارون بن دباب فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAFQUIH MOHAMED GHAZI",
+    "NOM_ETABA": "المدرسة الابتدائية الفقيه محمد غازي",
+    "AdresseL": "HAY AINE HAROUNE BEN DEBBAB FES",
+    "AdresseA": "حي عين هارون بن دباب",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUTHMANE BNOU AFFANE",
+    "NOM_ETABA": "المدرسة الابتدائية عثمان بن عفان",
+    "AdresseL": "HAY ELWIFAK BELKHAYAT ",
+    "AdresseA": "حي الوفاق  بلخياط",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAFQUIH MEKWAR",
+    "NOM_ETABA": "المدرسة الابتدائية الفقيه مكوار",
+    "AdresseL": "ain haroun hay mabrouka soufla",
+    "AdresseA": "عين هارون حي مبروكة السفلى",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BNOU BADISS",
+    "NOM_ETABA": "المدرسة الالبتدائية ابن باديس",
+    "AdresseL": "HAYmabrouka 1  BEN DABBAB FES",
+    "AdresseA": "حي مبروكة 1  بن دباب فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELKRIM BERCHID",
+    "NOM_ETABA": "المدرسة الابتدائية عبدالكريم برشيد",
+    "AdresseL": "HAY LAALOU FES",
+    "AdresseA": "حي لعلو",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDERRAHMAN BNO ZAYDAN",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الرحمان بن زيدان",
+    "AdresseL": "Av moussa bno noussayr hay salam dayaa",
+    "AdresseA": "شارع موسى بن نصير حي السلام الضيعة ",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED TAYEB LAELAJ",
+    "NOM_ETABA": "المدرسة الابتدائية أحمد الطيب لعلج",
+    "AdresseL": "DAIAA  HAY TGHAT  FES",
+    "AdresseA": "الضيعة حي تغات فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الله الشفشاوني",
+    "AdresseL": "rue 28 HAY OUED FES FES",
+    "AdresseA": "زنقة 28 حي واد فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHARA",
+    "NOM_ETABA": "المدرسة الابتدائية الشارة",
+    "AdresseL": "BOULEVARD el mamalik  BEN DABBAB FES",
+    "AdresseA": "شارع الممالك  بن دباب",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHALID BNOU EL OUALID",
+    "NOM_ETABA": "المدرسة الابتدائية خالد بن الوليد",
+    "AdresseL": "kasbat JABRI  BEN DABBAB FES",
+    "AdresseA": "قصبة الجابري ، بن دباب ، فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED BEN ERRADI SLAOUI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد بن الراضي السلاوي",
+    "AdresseL": "HAY LABITA DHARE LAKHMISSE FES",
+    "AdresseA": "حي لبيطا ظهر لخميس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BOUJEMAA AMERECH",
+    "NOM_ETABA": "المدرسة الابتدائية بوجمعة عميرش",
+    "AdresseL": "lotissement detat dhar lakhmiss ",
+    "AdresseA": "تجزئة الدولة ظهر الخميس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ECHAHID ABDELAZIZ BEN DRISS",
+    "NOM_ETABA": "المدرسة الابتدائية الشهيد عبد العزيز بن ادريس",
+    "AdresseL": "LABITA HAY BEN ZAKOURE dhar lakhmiss FES",
+    "AdresseA": "لابيطاحي بنزاكورظهر الخميس فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIJILMASSA",
+    "NOM_ETABA": "المدرسة الابتدائية سجلماسة",
+    "AdresseL": "lot d état HAY DHAR lakhmiss almarinyine",
+    "AdresseA": "تجزئة الدولة حي ظهر الخميس المرينيين",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SELMANE FARSSI",
+    "NOM_ETABA": "المدرسة الابتدائية سلمان الفارسي",
+    "AdresseL": "DHARE LAKHMISSE HAY BEN SLIMANE FES",
+    "AdresseA": "ظهرالخميس حي بنسليمان فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SOUNDOUSS",
+    "NOM_ETABA": "المدرسة الابتدائية السندس",
+    "AdresseL": "HAY OUAD FES COMMUNE lamrinienne",
+    "AdresseA": "حي واد فاس جماعة المرينيين",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED AL HANSALI",
+    "NOM_ETABA": "المدرسة الابتدائية احمد الحنصالي",
+    "AdresseL": "BAB SIFFER AIN haroune fes",
+    "AdresseA": "باب السيفر عين ها رون",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM GHAZALI 1",
+    "NOM_ETABA": "المدرسة الابتدائية الإمام الغزالي 1",
+    "AdresseL": "hay al amal BAB SIFFER AIN HAROUNE FES",
+    "AdresseA": "حي الأمل باب السيفر عين هارون",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  18 NOVEMBRE",
+    "NOM_ETABA": " 18المدرسة الابتدائية نونبر",
+    "AdresseL": "DHAR LAKHMISS LABITAT FES",
+    "AdresseA": "ظهر الخميس لبيطا فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAHA HOUSSINE",
+    "NOM_ETABA": "المدرسة الابتدائية طه حسين",
+    "AdresseL": "quartier bennis belkhayat",
+    "AdresseA": "حي بنيس بلخياط",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAAROUF ROSSAFI",
+    "NOM_ETABA": "المدرسة الابتدائية معروف الروصافي",
+    "AdresseL": "El marinienne ben debbab fés",
+    "AdresseA": "مقاطعة المرينيين ا بن دباب فاس ",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL HASSAN ADDAKHIL",
+    "NOM_ETABA": "المدرسة الابتدائية الحسن الداخل",
+    "AdresseL": "almariniene",
+    "AdresseA": "المرينيين",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZERYAB",
+    "NOM_ETABA": "المدرسة الابتدائية زرياب",
+    "AdresseL": "q3 lotisement hadika wad fes",
+    "AdresseA": "ك3 تجزئة الحديقة واد فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL LOUDIYI",
+    "NOM_ETABA": "الثانوية التأهيلية علال الوديي",
+    "AdresseL": "BAB SIFFER AIN HAROUNE MERiNIDES bp 3703",
+    "AdresseA": "باب السيفر عين هارون المرينيين ص ب 3707",
+    "COMMUNE": "El Mariniyine ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL KHAWARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "lot Al hadika HAY OUED FES",
+    "AdresseA": "تجزئة الحديقة حي واد فاس",
+    "COMMUNE": "El Mariniyine ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BNOU KHALDOUNE",
+    "NOM_ETABA": "الثانوية التأهيلية ابن خلدون",
+    "AdresseL": "HAY CHRARDA FES",
+    "AdresseA": "حي الشراردة فاس",
+    "COMMUNE": "El Mariniyine ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BNOU HANIE",
+    "NOM_ETABA": "الثانوية التأهيلية ابن هاني",
+    "AdresseL": "HAY AINE KADOUSSE ",
+    "AdresseA": " عين قادوس حي لمصلى - فاس",
+    "COMMUNE": "El Mariniyine ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BNOU EL HAYTAM",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الهيتم",
+    "AdresseL": "ROUTE MEKNES AINE KADOUSSE FES",
+    "AdresseA": "طريق مكناس عين قادوس",
+    "COMMUNE": "El Mariniyine ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL QUARAOUIYINE",
+    "NOM_ETABA": "الثانوية التأهيلية القرويين",
+    "AdresseL": "HAY CHRARDA FES",
+    "AdresseA": "حي الشراردة فاس",
+    "COMMUNE": "El Mariniyine ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL JAHID",
+    "NOM_ETABA": "الثانوية التأهيلية  الجاحظ",
+    "AdresseL": "HAY LAMSALLA AIN KADDOUSS FES",
+    "AdresseA": "حي المصلى عين قادوس فاس",
+    "COMMUNE": "El Mariniyine ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU ELBAYTAR",
+    "NOM_ETABA": "الثانوية التأهيلية ابن البيطار",
+    "AdresseL": "Elmariniyine",
+    "AdresseA": "المرينيين",
+    "COMMUNE": "El Mariniyine ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BRIGHT KIDZ",
+    "NOM_ETABA": "برايت كيدز بريفي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 325 بلوك ز س تجزئة الحديقة",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire L'Intégrale",
+    "NOM_ETABA": "لانتكرال",
+    "AdresseL": "N 258 rue 19 Lot el Hadika Oue",
+    "AdresseA": "رقم 258 زنقة 19 تجزئة الحديقة ",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MON PETIT SOLEIL",
+    "NOM_ETABA": "مون بتي صولاي",
+    "AdresseL": "N 8 RUE 23 OUED FES TGHAT",
+    "AdresseA": "رقم 8 زنقة 23 حي واد فاس تغات",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM ARRAYHANEE",
+    "NOM_ETABA": "براعم الريحان",
+    "AdresseL": "405 LOT RYAD LAYMOUNE TGHAT",
+    "AdresseA": "رقم 405 تجزئة رياض الليمون طري",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MALIKA",
+    "NOM_ETABA": "مليكة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 95 الحي المحمدي عين قادوس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "POM D API",
+    "NOM_ETABA": "بوم دابي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 36 تجزئة جنان الزهر واد فا",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jaouharat al ouloum",
+    "NOM_ETABA": "جوهرة العلوم",
+    "AdresseL": "NULL",
+    "AdresseA": "واد فاس تجزئة جاد رقم أ1 طريق ",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nassim addaouha",
+    "NOM_ETABA": "نسيم الدوحة",
+    "AdresseL": "",
+    "AdresseA": "القطعة 660 تجزئة تغات 2 المرين",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tremplin vers la réussite",
+    "NOM_ETABA": "ترومبلان فير لاغيوسيت",
+    "AdresseL": "n 12 q4 lot el hadika oued fes",
+    "AdresseA": "تجزئة الحديقة رقم 4 ك 12 واد ف",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "clair soleil",
+    "NOM_ETABA": "كلير صوليي",
+    "AdresseL": "el montazah 3 rue meknes",
+    "AdresseA": "المنتزه 3 رقم 13 طريق مكناس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire venise",
+    "NOM_ETABA": "كروب سكولير فنيز",
+    "AdresseL": "23 B LOT BAB ANDALOUS ROUTE ME",
+    "AdresseA": "تجزئة باب الأندلس ب 23 طريق مك",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire al ichaae",
+    "NOM_ETABA": "مجموعة مدارس الإشعاع الخصوصية",
+    "AdresseL": "n 18 q4 lot el hadiqa oued fes",
+    "AdresseA": "رقم 4ك-18 تجزئة الحديقة",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAIL AL AMAL",
+    "NOM_ETABA": "جيل الأمل",
+    "AdresseL": "terrain c5 lot hadika",
+    "AdresseA": "تجزئة الحديقة قطعة س 5",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "azm bilal",
+    "NOM_ETABA": "عزم بلال",
+    "AdresseL": "RUE 3 IMMEUBLE2 DAYAA AIN KADO",
+    "AdresseA": "الزنقة رقم 3 البناية 2 عين قاد",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almanchae",
+    "NOM_ETABA": "المنشأ",
+    "AdresseL": "zc 397 hay alhadika oued fes ",
+    "AdresseA": "تجزئة الحديقة  واد فاس ZC 379",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S la tulipe",
+    "NOM_ETABA": "مجموعة مدارس لتوليب",
+    "AdresseL": "Q 4 al hadika wed fes",
+    "AdresseA": "Q 4 الحديقة واد فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALSAAD",
+    "NOM_ETABA": "السعد",
+    "AdresseL": "Q1/94 hadika 1 ; oued fes; fes",
+    "AdresseA": "رقم 94 الحديقة واد فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les jardins de oued fes ",
+    "NOM_ETABA": "حدائق واد فاس",
+    "AdresseL": "q4 N° 2 alhadika",
+    "AdresseA": "ك4 تجزئة الحديقة رقم2 طريق مكن",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole verte",
+    "NOM_ETABA": "المدرسة الخضراء",
+    "AdresseL": "HADIKA ZC 12 OUED FES ",
+    "AdresseA": "الحديقة  زس12 وادي فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS NOKHBAT FES",
+    "NOM_ETABA": "م م نخبة فاس",
+    "AdresseL": "RUE 34 N° 1633 HAY OUED FES",
+    "AdresseA": "زنقة 34 رقم 1633 حي واد فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BOUAYAD",
+    "NOM_ETABA": "مجموعة مدارس بوعياد",
+    "AdresseL": "RUE 5 N° 24 HAY OUED FES  -FES",
+    "AdresseA": "حي واد فاس فاس زنقة 5 رقم 24",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Errachad",
+    "NOM_ETABA": "الرشاد",
+    "AdresseL": "NOUVEAU SECTEUR AIN KADOUSS PR",
+    "AdresseA": "الحي الجديد فوق مدارج مسجد الت",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ammor",
+    "NOM_ETABA": "عمور",
+    "AdresseL": "N° 38 Rue 34  Lotissement Oued",
+    "AdresseA": "رقم 38 زنقة 34 تجزئة وادي فاس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El MAARIFA",
+    "NOM_ETABA": "المعرفة",
+    "AdresseL": "N° 62, Rue 204 Ain Kaddous",
+    "AdresseA": "رقم 62، زنقة 204 عين قادوس",
+    "COMMUNE": "El Mariniyine",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

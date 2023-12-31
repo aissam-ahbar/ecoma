@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RIMA",
+    "NOM_ETABA": "ثانوية ريمة الإعدادية",
+    "AdresseL": "commune rurale Rima Settat",
+    "AdresseA": "جماعة ريما دائرة سطات",
+    "COMMUNE": "Rima",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "RIMA CENTRE",
+    "NOM_ETABA": "مركزية ريمة",
+    "AdresseL": "CENTRE RIMA COMMUNE RIMA KIADAT GUISSER",
+    "AdresseA": "مركز ريمة جماعة ريما قيادة كيسر",
+    "COMMUNE": "Rima",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEGNAZRA CENTRE",
+    "NOM_ETABA": "مركزية لكنازرة",
+    "AdresseL": "DOUAR LEGNAZRA COMMUNE RIMA",
+    "AdresseA": "الكنازرة ريمة",
+    "COMMUNE": "Rima",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

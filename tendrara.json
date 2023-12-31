@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "IBNOU KHALDOUN",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "HAY BELKHEIR",
+    "AdresseA": "حي بلخير",
+    "COMMUNE": "Tendrara",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH ECHEFCHAOUNI",
+    "NOM_ETABA": "عبد الله الشفشاوني",
+    "AdresseL": "HAY RAJA FI ALLAH",
+    "AdresseA": "حي الرجاء في الله",
+    "COMMUNE": "Tendrara",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL WAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "lot el wahda hay el malaab",
+    "AdresseA": "تجزئة الوحدة حي الملعب",
+    "COMMUNE": "Tendrara",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ABI ZARAA",
+    "NOM_ETABA": "ابن أبي زرع",
+    "AdresseL": "bd mohammed V",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "Tendrara",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED CHAWKI",
+    "NOM_ETABA": "أحمد شوقي",
+    "AdresseL": "hay rajae fi allah",
+    "AdresseA": "حي الرجاء في الله",
+    "COMMUNE": "Tendrara",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HOMAN EL FATWAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "Bd Abderrahman al youbi centre tendrara",
+    "AdresseA": "شارع عبد الرحمان الايوبي مركز تندرارة",
+    "COMMUNE": "Tendrara",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

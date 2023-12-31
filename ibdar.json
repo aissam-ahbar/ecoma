@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "lycee collegial IBDER",
+    "NOM_ETABA": " الثانوية الإعدادية إبضر ",
+    "AdresseL": "centre ibder",
+    "AdresseA": "مركز جماعة ابضر",
+    "COMMUNE": "Ibdar",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TARIK BN ZIYAD CENTRE IBDAR",
+    "NOM_ETABA": "مجموعة مدارس طارق بن زياد مركزية ابضر",
+    "AdresseL": "CENTRE COMMUNE IBDAR",
+    "AdresseA": "مركز جماعة ابضر",
+    "COMMUNE": "Ibdar",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TAHER EL IFRANI CENTRE TAGHLOULOU",
+    "NOM_ETABA": "مجموعة مدارس الطاهر الإفراني مركزية تغلولو",
+    "AdresseL": "DOUAR TAGHLOULOU",
+    "AdresseA": "دوار تغلولو",
+    "COMMUNE": "Ibdar",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL 20 AOUT",
+    "NOM_ETABA": "  ثانوية 20 غشت الإعدادية",
+    "AdresseL": "MUNICIPALITE rHAFSSAI CENTRE  TAOUNATE",
+    "AdresseA": "بلدية غفساي",
+    "COMMUNE": "Ghafsai",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL IMAM ALI",
+    "NOM_ETABA": "ثانوية الإمام علي الإعدادية",
+    "AdresseL": "MUNICIPALITE GHAFSSAI CENTRE   TAOUNATE",
+    "AdresseA": "بلدية غفساي",
+    "COMMUNE": "Ghafsai",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MASSIRA",
+    "NOM_ETABA": "مدرسة المسيرة",
+    "AdresseL": "RHAFSAI  CENTRE",
+    "AdresseA": "غفساي المركز",
+    "COMMUNE": "Ghafsai",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED ECHARIF",
+    "NOM_ETABA": "مدرسة احمد الشريف",
+    "AdresseL": "GHAFSAI  CENTRE",
+    "AdresseA": "غفساي المركز",
+    "COMMUNE": "Ghafsai",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IMAM CHOUTAIBI",
+    "NOM_ETABA": "ثانوية الإمام الشطيبي التأهيلية",
+    "AdresseL": "RUE hassan2 MUNICIPALITé GHAFSai  TAOUNATE",
+    "AdresseA": "بلدية غفساي",
+    "COMMUNE": "Ghafsai",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ESSANAFIR GHAFSAI",
+    "NOM_ETABA": "السنافير غفساي",
+    "AdresseL": "",
+    "AdresseA": "تجزئة رقم 92 واد المخازن",
+    "COMMUNE": "Ghafsai ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNASR",
+    "NOM_ETABA": "مدرسة النصر ",
+    "AdresseL": "HAY EZZAYTOUN 2",
+    "AdresseA": "تجزئة واد المخازن حي الزيتون 2",
+    "COMMUNE": "Ghafsai ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

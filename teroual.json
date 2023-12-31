@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR IBN ABDELAZIZ",
+    "NOM_ETABA": "الثانوية الإعدادية عمر ابن عبد العزيز",
+    "AdresseL": "TEROUAL CENTRE   COMMUNE TEROUAL",
+    "AdresseA": "تروال",
+    "COMMUNE": "Teroual",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " SS AL IMAM AL JAZOULI",
+    "NOM_ETABA": "م م الإمام الجزولي",
+    "AdresseL": "DOUAR TEROUAL CENTRE  COMMUNE TEROUAL",
+    "AdresseA": "دوار تروال المركز جماعة تروال ",
+    "COMMUNE": "Teroual",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN MANDOUR",
+    "NOM_ETABA": "م م ابن منظور",
+    "AdresseL": "DOUAR BAKKALA COMMUNE TEROUAL",
+    "AdresseA": "دوار بقالة",
+    "COMMUNE": "Teroual",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI ALLAL ZGHARI",
+    "NOM_ETABA": "م م سيدي علال الزغاري",
+    "AdresseL": "DOUAR SIDI ALLAL ZGHARI COMMUNE TEROUAL",
+    "AdresseA": "دوار سيدي علال الزغاري",
+    "COMMUNE": "Teroual",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OMAR EL KHIYAM",
+    "NOM_ETABA": "الثانوية التاهيلية عمر الخيام",
+    "AdresseL": "CENTRE TAROUAL",
+    "AdresseA": "جماعة  تروال",
+    "COMMUNE": "Teroual",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

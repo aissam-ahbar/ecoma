@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ASSAHIL ACHAMALI",
+    "NOM_ETABA": "الثانوية الاعدادية الساحل الشمالي",
+    "AdresseL": "COMMUNE ASSAHIL ACHAMALI",
+    "AdresseA": "جماعة الساحل الشمالي",
+    "COMMUNE": "Sahel Chamali",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AHMED ELBAKKALI",
+    "NOM_ETABA": "المجموعة المدرسية أحمد البقالي",
+    "AdresseL": "MDR GHANEM COMMUNE SAHEL CHAMALI",
+    "AdresseA": "مدشر غانم جماعة الساحل الشمالي",
+    "COMMUNE": "Sahel Chamali",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

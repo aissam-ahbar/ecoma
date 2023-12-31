@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OULAD IMLOUL ",
+    "NOM_ETABA": "ثانوية أولاد إملول الإعدادية",
+    "AdresseL": "douar belgarne, Commune oulad imloul",
+    "AdresseA": "دوار بلكرن ، جماعة اولاد إملول",
+    "COMMUNE": "Oulad Imloul",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BALGARNE CENTRE",
+    "NOM_ETABA": "بلكرن المركزية",
+    "AdresseL": "DOUAR BELGARNE COMMUNE OULAD IMLOUL",
+    "AdresseA": "دوار بلكرن جماعة أولاد املول دائرة سيدي بوعثمان",
+    "COMMUNE": "Oulad Imloul",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEN AANNOU CENTRE",
+    "NOM_ETABA": "اولاد بنعنو المركزية",
+    "AdresseL": "DOUAR OULAD BEN AANNOU COMMUNE OULAD IMLOUL",
+    "AdresseA": "دوار اولاد بنعنو",
+    "COMMUNE": "Oulad Imloul",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY SLIMANE CENTRE",
+    "NOM_ETABA": "مولاي سليمان المركزية",
+    "AdresseL": "DOUAR LABGHOULA COMMUNE OULAD IMLOUL",
+    "AdresseA": "دوار لبغولة",
+    "COMMUNE": "Oulad Imloul",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

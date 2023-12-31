@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "ZAYTOUNE",
+    "NOM_ETABA": " الزيتون ",
+    "AdresseL": "Mouchkallal  EL KHENG",
+    "AdresseA": "موشقلال - الخنك",
+    "COMMUNE": "Lkheng",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TARGA AL QUADIMA",
+    "NOM_ETABA": "تاركة القديمة",
+    "AdresseL": "TARGA LAKDIMA COMMUNE LKHENG",
+    "AdresseA": "تاركة القديمة  دائرة الخنك",
+    "COMMUNE": "Lkheng",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KBA",
+    "NOM_ETABA": "كبا",
+    "AdresseL": "KSAR KBA LKHENG ERRACHIDIA",
+    "AdresseA": "قصر اكبا الخنك الرشيدية",
+    "COMMUNE": "Lkheng",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ADDI OU ZENNOU",
+    "NOM_ETABA": "عدي اوزنو",
+    "AdresseL": "KSAR ADDI OU ZENNOU EL KHENG",
+    "AdresseA": "قصر عدي اوزنو الخنك",
+    "COMMUNE": "Lkheng",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TINGBITE",
+    "NOM_ETABA": "تنكبيت",
+    "AdresseL": "KSAR TINAGBITE ELKHENG",
+    "AdresseA": "قصر تنكبيت الخنك",
+    "COMMUNE": "Lkheng",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZOUKA  ",
+    "NOM_ETABA": "تازوكة ",
+    "AdresseL": "takanat elkouate elmoussaida n36 tazouka elkheng",
+    "AdresseA": "ثكنة القوات المساعدة رقم 36 تازوكة الخنك",
+    "COMMUNE": "Lkheng",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT YOUSSEF",
+    "NOM_ETABA": "ايت يوسف",
+    "AdresseL": "KSAR AIT YOUSSEF EL KHENG",
+    "AdresseA": "قصر ايت يوسف الخنك",
+    "COMMUNE": "Lkheng",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

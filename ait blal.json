@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "CENTRE TIZI NOUBADOU",
+    "NOM_ETABA": "مركزية تيزي نوبادو",
+    "AdresseL": "DOUAR TIZI ",
+    "AdresseA": "دوار تيزي ",
+    "COMMUNE": "Ait Blal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE KHALLAD",
+    "NOM_ETABA": "مركزية خلاد",
+    "AdresseL": "DOUAR KHALLAD",
+    "AdresseA": "دوار خلاد ",
+    "COMMUNE": "Ait Blal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

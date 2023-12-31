@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SIDI MAJBAR CENTRE",
+    "NOM_ETABA": "سيدي مجبر المركز",
+    "AdresseL": "COMMUNE BAB BOUDIR",
+    "AdresseA": "دوار  سيدي مجبر المركز  جماعة باب بودير",
+    "COMMUNE": "Bab Boudir",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAB BOUDIR CENTRE",
+    "NOM_ETABA": "باب بودير المركز",
+    "AdresseL": "COMMUNE BAB BOUDIR ",
+    "AdresseA": "  باب بودير المركز",
+    "COMMUNE": "Bab Boudir",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

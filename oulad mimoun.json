@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLGE EZZAITOUNA",
+    "NOM_ETABA": "الثانوية الإعدادية الزيتونة",
+    "AdresseL": "CENTRE COMMUNE OULAD MIMOUN",
+    "AdresseA": "مركز جماعة أولاد ميمون",
+    "COMMUNE": "Oulad Mimoun",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BEN YAKHLAF CENTRE",
+    "NOM_ETABA": "بني يخلف المركز",
+    "AdresseL": "DOUAR BEN YAKHLAF COMMUNE OULAD MIMOUNE",
+    "AdresseA": "دوار بن يخلف اولاد ميمون",
+    "COMMUNE": "Oulad Mimoun",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MESSAOUD CENTRE",
+    "NOM_ETABA": "سيدي مسعود",
+    "AdresseL": "DOUAR LABJATRA COMMUNE OULAD MIMOUNE",
+    "AdresseA": "دوار البجاطرة اولاد ميمون",
+    "COMMUNE": "Oulad Mimoun",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHBABATE CENTRE",
+    "NOM_ETABA": "الشبابات المركز",
+    "AdresseL": "DOUAR CHBABATE COMMUNE OULAD MIMOUNE",
+    "AdresseA": "دوار الشبابات - جماعة أولاد ميمون ",
+    "COMMUNE": "Oulad Mimoun",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUZAYANE CENTRE",
+    "NOM_ETABA": "اولاد بوزيان المركز",
+    "AdresseL": "DOUAR OULAD BOUZAYANE COMMUNE OULAD MIMOUNE",
+    "AdresseA": "دوار اولاد بوزيان اولاد ميمون",
+    "COMMUNE": "Oulad Mimoun",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

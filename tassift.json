@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TASSIFT",
+    "NOM_ETABA": "الثانوية الإعدادية تاسيفت",
+    "AdresseL": "CENTRE DE LA COMMUNE TASSIFT",
+    "AdresseA": "مركز جماعة تاسيفت",
+    "COMMUNE": "Tassift",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TASSIFT",
+    "NOM_ETABA": "م/م تاسيفت",
+    "AdresseL": "DOUAR TASSIFTCTASSIFTCHEFCHAOUEN",
+    "AdresseA": "دوار تاسيفت جماعة تاسيفت",
+    "COMMUNE": "Tassift",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIRINISS",
+    "NOM_ETABA": "م/م ترينيس",
+    "AdresseL": "DOUAR TIRINISSCTASSIFTCHEFCHAOUEN",
+    "AdresseA": "دوار ترينس جماعة تاسيفت",
+    "COMMUNE": "Tassift",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOKHTAR",
+    "NOM_ETABA": "م/م مختار",
+    "AdresseL": "DOUAR MOKHTAR C TASSIFT CHEFCHAOUEN ",
+    "AdresseA": "دوار مختار جماعة تاسسيفت",
+    "COMMUNE": "Tassift",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

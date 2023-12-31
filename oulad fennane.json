@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULED FENNANE",
+    "NOM_ETABA": "الثانوية الاعدادية اولاد فنان",
+    "AdresseL": "Centre ouled fennane",
+    "AdresseA": "مركز جماعة اولاد فنان",
+    "COMMUNE": "Oulad Fennane",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULED FENNANE EST",
+    "NOM_ETABA": "م/م اولاد فنان الشرقية",
+    "AdresseL": "DOUAR AIT ABDESSALEM COMMUNE OULED FENNANE",
+    "AdresseA": "دوار ايت عبد السلام",
+    "COMMUNE": "Oulad Fennane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT ABDESSALAM",
+    "NOM_ETABA": "م/م أيت عبد السلام",
+    "AdresseL": "DOUAR AIT ABDESSALEM COMMUNE OULED FENNANE",
+    "AdresseA": "دوار  ايت  عبد  السلام",
+    "COMMUNE": "Oulad Fennane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED FENNANE OUEST COMMUNAL",
+    "NOM_ETABA": "م/م اولاد فنان الغربية الجماعاتية",
+    "AdresseL": "Centre Commune Ouled Fennane",
+    "AdresseA": "جماعة اولاد فنان",
+    "COMMUNE": "Oulad Fennane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

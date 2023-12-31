@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "NZALT EL ARIA CENTRE",
+    "NOM_ETABA": "انزالت العارية المركزية",
+    "AdresseL": "COMMUNE AIT HAMMOU",
+    "AdresseA": "دوار ايت حمو",
+    "COMMUNE": "Ait Hammou",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABLAID CENTRE",
+    "NOM_ETABA": "لبلاعيد المركزية",
+    "AdresseL": "DOUAR LABlAID COMMUNE AIT HaMMOU",
+    "AdresseA": "دوار لبلاعيد",
+    "COMMUNE": "Ait Hammou",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR HOUMED CENTRE",
+    "NOM_ETABA": "دار همد المركزية",
+    "AdresseL": "DOUAR DAR HOUMED COMMUNE AIT HAMMOU",
+    "AdresseA": "دوار دار همد",
+    "COMMUNE": "Ait Hammou",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HMADNAHE CENTRE",
+    "NOM_ETABA": "احمدناه المركزية",
+    "AdresseL": "DOUAR AHMED NAH COMMUNE AIT HAMMOU",
+    "AdresseA": "دوار احمدناه ايت حمو",
+    "COMMUNE": "Ait Hammou",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

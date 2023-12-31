@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LAARARCHA CENTRE",
+    "NOM_ETABA": "لعرارشة المركزية",
+    "AdresseL": "commune lahiadna",
+    "AdresseA": "جماعة الهيادنة-قلعة السراغنة",
+    "COMMUNE": "Hiadna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED BEN ELHAJ CENTRE",
+    "NOM_ETABA": "احمد بلحاج المركزية",
+    "AdresseL": "AHMED BELHAJ COMMUNE LAHYADNA",
+    "AdresseA": "دوار احمد بلحاج",
+    "COMMUNE": "Hiadna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKDADRA CENTRE",
+    "NOM_ETABA": "لقدادرة المركزية",
+    "AdresseL": "DOUAR LAKDADRA COMMUNE LAHYADNA",
+    "AdresseA": "دوار لقدادرة",
+    "COMMUNE": "Hiadna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUKHLIQ CENTRE",
+    "NOM_ETABA": "اولاد بوخليق المركزية",
+    "AdresseL": "DOUAR OULED BOUKHLIQ COMMUNE LAHYADNa",
+    "AdresseA": "دوار اولاد بوخليق - جماعة لهيادنة",
+    "COMMUNE": "Hiadna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée QUALIFIANT HIADNA",
+    "NOM_ETABA": "الثانوية التأهيلية الهيادنة",
+    "AdresseL": "Commune Hiadna",
+    "AdresseA": "جماعة الهيادنة",
+    "COMMUNE": "Hiadna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

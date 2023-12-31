@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABOU OUBAIDA BNOU AL JARRAH",
+    "NOM_ETABA": "الثانوية الإعدادية أبو عبيدة بن الجراح",
+    "AdresseL": "COMMUN SEDINA",
+    "AdresseA": "جماعة صدينة",
+    "COMMUNE": "Saddina",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SADDINA",
+    "NOM_ETABA": "صدينة",
+    "AdresseL": "DOUAR SEDINA CSADDINA  TETOUAN",
+    "AdresseA": "جماعة صدينة",
+    "COMMUNE": "Saddina",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DACHRYENNE",
+    "NOM_ETABA": "م.م الدشريين",
+    "AdresseL": "DOUAR DACHRYENNE CSADDINA  TETOUAN",
+    "AdresseA": "دوار الدشريين جماعة صدينة قيادة الملا ليين",
+    "COMMUNE": "Saddina",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOHAMED AZIZ LAHBABI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد عزيز الحبابي",
+    "AdresseL": "COMMUNE SADDINA",
+    "AdresseA": "جماعة صدينة",
+    "COMMUNE": "Saddina",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

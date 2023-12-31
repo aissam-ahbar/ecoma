@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS DRISS EL HARIRI TOURARINE",
+    "NOM_ETABA": "م/م ادريس الحريري _تورارين",
+    "AdresseL": "DOUAR TOURARINE C BNI FAGHLOUM CHEFCHAOUEN",
+    "AdresseA": "دوار تورارين جماعة بني فغلوم",
+    "COMMUNE": "Bni Faghloum",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DOUKKALA",
+    "NOM_ETABA": "م/م دكالة",
+    "AdresseL": "DOUAR DOUKKALA C BNI FAGHLOUM CHEFCHAOUEN",
+    "AdresseA": "دوار دكالة جماعة بني فغلوم",
+    "COMMUNE": "Bni Faghloum",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI YEJJEL",
+    "NOM_ETABA": "م/م بني يجل",
+    "AdresseL": "DOUAR BNI YEJJELCBNI FAGHLOUMCHEFCHAOUEN",
+    "AdresseA": "دوار بني يجل جماعة بني فغلوم",
+    "COMMUNE": "Bni Faghloum",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BNI FAGHLOUM",
+    "NOM_ETABA": "الثانوية التأهلية بني فغلوم",
+    "AdresseL": "BNI FAGHLOUM CENTRE COMMUNE BNI FAGHLOUM",
+    "AdresseA": "مركز بني فغلوم جماعة بني فغلوم",
+    "COMMUNE": "Bni Faghloum",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

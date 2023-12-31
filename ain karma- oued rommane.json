@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "AIT ISHAK CENTRE",
+    "NOM_ETABA": "أيت إسحاق",
+    "AdresseL": "DOUAR AIT ISHAK COMMUNE AIN KARMA OUED ROMMANE",
+    "AdresseA": "أيت إسحاق عين كرمة واد الرمان",
+    "COMMUNE": "Ain Karma- Oued Rommane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABHALIL CENTRE",
+    "NOM_ETABA": "البهاليل المركز",
+    "AdresseL": "DOUAR LABHALIL COMMUNE ain karma OUED ROMMANE",
+    "AdresseA": "دوار البهاليل جماعةعين كرمة واد الرمان مكناس",
+    "COMMUNE": "Ain Karma- Oued Rommane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN KERMA",
+    "NOM_ETABA": "عين كرمة",
+    "AdresseL": "DOUAR AIN KARMA COMMUNE AIN KARMA",
+    "AdresseA": "عين كرمة",
+    "COMMUNE": "Ain Karma- Oued Rommane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGHCHIOUA CENTRE",
+    "NOM_ETABA": "لغشيوة مركزية",
+    "AdresseL": "DOUAR LAGHCHIOUA COMMUNE AIN KARMA",
+    "AdresseA": "دوار لغشيوة جماعة عين كرمة",
+    "COMMUNE": "Ain Karma- Oued Rommane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AOUINET ARMEL",
+    "NOM_ETABA": "عوينت الرمل المركز",
+    "AdresseL": "DOUAR AOUINET ARMEL COMMUNE AIN KARMA",
+    "AdresseA": "دوار عوينت الرمل جماعة عين كرمة مكناس",
+    "COMMUNE": "Ain Karma- Oued Rommane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SMAALA",
+    "NOM_ETABA": "اسماعلة المركز",
+    "AdresseL": "DOUAR SMAALA COMMUNE AIN KARMA ouad raman region d",
+    "AdresseA": "دوار اسماعلة جماعة عين كرمة واد الرمان اقليم مكناس",
+    "COMMUNE": "Ain Karma- Oued Rommane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant AIN KARMA",
+    "NOM_ETABA": "الثانوية التأهيلية عين كرمة",
+    "AdresseL": "AIN KARMA   COMMUNE AIN KARMA",
+    "AdresseA": "عين كرمة",
+    "COMMUNE": "Ain Karma- Oued Rommane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

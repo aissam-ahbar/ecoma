@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED AABD ELJABRI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد عابد الجابري",
+    "AdresseL": "oulad lagzouli  ameur",
+    "AdresseA": "ولاد الكزولي جماعة عامر ",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL YASMINE",
+    "NOM_ETABA": " الثانوية الإعدادية الياسمين",
+    "AdresseL": "AMEUR",
+    "AdresseA": "عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SIDI AMIRA",
+    "NOM_ETABA": "مجموعة مدارس سيدي عميرة",
+    "AdresseL": "DOUAR SIDI AMIRA COMMUNE DE amer",
+    "AdresseA": "دوار سيدي عميرة - جماعة عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE OULAD SBITA",
+    "NOM_ETABA": "مجموعة مدارس اولاد اسبيطة",
+    "AdresseL": "DOUAR OULAD SBITA COMMUNE DE AMEUR",
+    "AdresseA": "دوار اولاداسبيطة جماعة عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DOU SLIM",
+    "NOM_ETABA": "مجموعة مدارس دوسليم",
+    "AdresseL": "DOUAR DOU SLIM CHAT COMMUNE DE BOUKNADEL",
+    "AdresseA": "دوار دويسليم بوقنادل - سلا",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI BRAHIM",
+    "NOM_ETABA": "مدرسة سيدي ابراهيم",
+    "AdresseL": "COMMUNE DE ameur",
+    "AdresseA": "جماعة عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BRAHMA 2",
+    "NOM_ETABA": "مدرسة البراهمة 2",
+    "AdresseL": "COMMUNE DE ameur",
+    "AdresseA": "جماعة علمر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BRAHMA 3",
+    "NOM_ETABA": "مدرسة البراهمة 3",
+    "AdresseL": "COMMUNE DE AMEUR",
+    "AdresseA": "جماعة عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire Oulad El Ayachi",
+    "NOM_ETABA": "مجموعة مدارس أولاد العياشي",
+    "AdresseL": "DOUAR OULAD EL AYACHI COMMUNE DE amer",
+    "AdresseA": "دوار اولاد العياشي جماعة عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI BOULAAJOUL",
+    "NOM_ETABA": "مدرسة سيدي ابراهيم بولعجول",
+    "AdresseL": "SIDI BRAHIM BOULAAJOUL ",
+    "AdresseA": "جماعة عامر سلا",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LHANCHA EL FOUARAT ",
+    "NOM_ETABA": "مجموعة مدارس الحنشة الفوارات",
+    "AdresseL": "DOUAR FOUARAT ALHANCHA COMMUNE DE BOUKNADEL",
+    "AdresseA": "قبيلة الحنشة - جماعة عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH IBRAHIM",
+    "NOM_ETABA": "مدرسة عبد الله إبراهيم",
+    "AdresseL": "DOUAR BRAHMA BOUKNADEL",
+    "AdresseA": "دوار البراهمة بوقنادل",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALBOUHAYRA",
+    "NOM_ETABA": "البحيرة",
+    "AdresseL": "DOUAR OUeLAD elayachi AMAR",
+    "AdresseA": "دوار أولاد العياشي عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL BOUHAYRA 2",
+    "NOM_ETABA": "البحيرة 2",
+    "AdresseL": "AMEUR",
+    "AdresseA": "عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MEZYANE BELFKIH",
+    "NOM_ETABA": "مزيان بلفقيه",
+    "AdresseL": "AMEUR",
+    "AdresseA": "جماعة عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ANJAD AL FIKR",
+    "NOM_ETABA": "مجموعة مدارس أنجاد الفكر الخصوصية",
+    "AdresseL": "BAYTI SAKAN COMMUNE AMEUR",
+    "AdresseA": "بيتي سكن جماعة عامر",
+    "COMMUNE": "Ameur",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

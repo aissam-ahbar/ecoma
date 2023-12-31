@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS AL BOUCHWARIINE",
+    "NOM_ETABA": "م.م  البوشواريين",
+    "AdresseL": "DOUAR TAOURIRT IMDIOUNE TARGA NTOUCHKA",
+    "AdresseA": "دوار توريرت إمدبون",
+    "COMMUNE": "Targua Ntouchka",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HAD TARGA",
+    "NOM_ETABA": "م.م  حد تركا",
+    "AdresseL": "HAD TARGA COMMUNE TARGA NTOUCHKA",
+    "AdresseA": "مركز سوق حد تاركا",
+    "COMMUNE": "Targua Ntouchka",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL KAMISS",
+    "NOM_ETABA": "م.م الكميس",
+    "AdresseL": "DOAR EL KAMISS COMMUNE TARKA NTOUCHKA",
+    "AdresseA": "مركز خميس أيت وكمان",
+    "COMMUNE": "Targua Ntouchka",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

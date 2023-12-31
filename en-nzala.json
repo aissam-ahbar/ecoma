@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ENZALA",
+    "NOM_ETABA": "الثانوية الإعدادية النزالة",
+    "AdresseL": "enzala",
+    "AdresseA": "النزالة",
+    "COMMUNE": "En-nzala",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " S S ASSALTANE MY ALHASSAN",
+    "NOM_ETABA": "م/م السلطان م الحسن",
+    "AdresseL": "KSAR AIT EL ABBASSE ENNZALA RICH",
+    "AdresseA": "قصر ايت العباس النزالة الريش",
+    "COMMUNE": "En-nzala",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S NZALA",
+    "NOM_ETABA": "م/م النزالة",
+    "AdresseL": "KSAR NZALA RICH",
+    "AdresseA": "قصر النزالة الربش",
+    "COMMUNE": "En-nzala",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AABARI",
+    "NOM_ETABA": "اعباري",
+    "AdresseL": "KSAR AABARI ENNZALA RICH",
+    "AdresseA": "قصر اعباري النزالة الريش",
+    "COMMUNE": "En-nzala",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

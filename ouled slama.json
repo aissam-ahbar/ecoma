@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNAHDA",
+    "NOM_ETABA": "الثانوية الاعدادية النهضة",
+    "AdresseL": "SIDI AYYACH CENTRE",
+    "AdresseA": "سيدي عياش المركز",
+    "COMMUNE": "Ouled Slama",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " ECOLE ABI TAMMAM",
+    "NOM_ETABA": " مدرسة أبي تمام",
+    "AdresseL": "DOUAR SIDI AYACHE CENTRE COMMUNE OULED SLAMA",
+    "AdresseA": "دوار سيدي عياش جماعة اولاد سلامة",
+    "COMMUNE": "Ouled Slama",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHMASSIS",
+    "NOM_ETABA": "الهماسيس",
+    "AdresseL": "DOUAR LAHMASSIS COMMUNE OULAD SLAMA",
+    "AdresseA": "دوار الهماسيس  ج/ اولاد سلامة",
+    "COMMUNE": "Ouled Slama",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAKARCHA",
+    "NOM_ETABA": "العكارشة",
+    "AdresseL": "DOUAR LAAKARCHA COMMUNE OULAD SLAMA",
+    "AdresseA": "دوار العكارشة جماعة اولاد سلامة",
+    "COMMUNE": "Ouled Slama",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Rajaf ",
+    "NOM_ETABA": "رجاف الخاصة",
+    "AdresseL": "Douar akarcha commune oulad sl",
+    "AdresseA": "دوار العكارشة جماعة اولاد سلام",
+    "COMMUNE": "Ouled Slama",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

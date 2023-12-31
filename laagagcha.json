@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL TAOUSS",
+    "NOM_ETABA": "ثانوية الطاووس الإعدادية ",
+    "AdresseL": "CR COMMUNE  LAAGHAGHCHA",
+    "AdresseA": "مركز جماعة الحكاكشة",
+    "COMMUNE": "Laagagcha",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAAKAKCHA",
+    "NOM_ETABA": " الحكاكشة",
+    "AdresseL": "DOUAR LAAGAGCHA COMMUNE LAAGAGCHA",
+    "AdresseA": "دوار الحكاكشة ج الحكاكشة",
+    "COMMUNE": "Laagagcha",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ABAR",
+    "NOM_ETABA": "الأبار",
+    "AdresseL": "DOUAR LABIYAR COMMUNE LAAGAGCHA",
+    "AdresseA": "دوار البيار لعكاكشة",
+    "COMMUNE": "Laagagcha",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FALAH",
+    "NOM_ETABA": "الفلاح",
+    "AdresseL": "DOUAR EL MARSSE COMMUNE LAAGAGCHA",
+    "AdresseA": "دوار المرس جماعة الحكاكشة",
+    "COMMUNE": "Laagagcha",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

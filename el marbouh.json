@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL EL MERBOUH",
+    "NOM_ETABA": "ثانوية المربوح الاعدادية",
+    "AdresseL": "elmerbouh",
+    "AdresseA": "جماعة المربوح",
+    "COMMUNE": "El Marbouh",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE DOUAR EJDID",
+    "NOM_ETABA": "مدرسة الدوار الجديد",
+    "AdresseL": "DOUAR EJDID EL MARBOUH",
+    "AdresseA": "الدوار الجديد",
+    "COMMUNE": "El Marbouh",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUGRINE CENTRE",
+    "NOM_ETABA": "اولاد بوكرين المركزية",
+    "AdresseL": "DOUAR LAARAJ COMMUNE EL MARBOUH",
+    "AdresseA": "دوار لعرج",
+    "COMMUNE": "El Marbouh",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

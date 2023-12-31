@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN MANDOUR",
+    "NOM_ETABA": "الثانوية الإعدادية ابن منظور",
+    "AdresseL": "CENTRE DAR CAID AISSA",
+    "AdresseA": "مركز دار القائد عيسى",
+    "COMMUNE": "Dar Si Aissa",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DAR EL CAID AISSA",
+    "NOM_ETABA": "م/م دار القائد عيسى",
+    "AdresseL": "DAR EL CAID AISSA COMMUNE DAR SI AISSA",
+    "AdresseA": "دار القائد عيسى جماعة دار سي عيسى",
+    "COMMUNE": "Dar Si Aissa",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL HAJ",
+    "NOM_ETABA": "م/م اولاد الحاج",
+    "AdresseL": "DOUAR OULAD EL HAJ COMMUNE DAR SI AISSA",
+    "AdresseA": "دوار اولاد الحاج جماعة دار سي عيسى",
+    "COMMUNE": "Dar Si Aissa",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S OULAD MOUSSA",
+    "NOM_ETABA": "م/م اولاد موسى",
+    "AdresseL": "DOUAR OULED MOUSSA COMMUNE DAR SI AISSA",
+    "AdresseA": "اولاد موسى جماعة دار السي عيسى",
+    "COMMUNE": "Dar Si Aissa",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

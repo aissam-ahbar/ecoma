@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHARIF AMAZIANE",
+    "NOM_ETABA": "الثانوية الإعدادية الشريف أمزيان",
+    "AdresseL": "Centre CR Ain Lahjer",
+    "AdresseA": "مركز جماعة عين لحجر",
+    "COMMUNE": "Ain Lehjer",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOURDIM",
+    "NOM_ETABA": "بورديم",
+    "AdresseL": "BOURDIMCOMMUNE DE AIN LAHJER",
+    "AdresseA": "بورديم جماعة عين الحجر",
+    "COMMUNE": "Ain Lehjer",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMHAYA",
+    "NOM_ETABA": "لمهاية",
+    "AdresseL": "DR Ouled Amrane LAMHAYA Commune ain lehjer ",
+    "AdresseA": " دوار أولاد عمران لمهاية جماعة عين الحجر ",
+    "COMMUNE": "Ain Lehjer",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMHIRIZ",
+    "NOM_ETABA": "لمهيريز",
+    "AdresseL": "EL AIOUN SIDI MALLOUK commune AIN LAHJER",
+    "AdresseA": "العيون سيدي ملوك جماعة عين الحجر",
+    "COMMUNE": "Ain Lehjer",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUCHTAT",
+    "NOM_ETABA": "بوشطاط",
+    "AdresseL": "COMMUNE DE AIN LAHJAR",
+    "AdresseA": "جماعة عين الحجر",
+    "COMMUNE": "Ain Lehjer",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

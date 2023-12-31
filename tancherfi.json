@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "TAGHILASTE",
+    "NOM_ETABA": "تاغيلاست",
+    "AdresseL": "DOUAR TAGHILASt commune TANCHERFI",
+    "AdresseA": "دوار تاغيلاست جماعة تانشرفي",
+    "COMMUNE": "Tancherfi",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUCHARAB",
+    "NOM_ETABA": "بوشراب",
+    "AdresseL": "DOUAR boucharab",
+    "AdresseA": "دوار بوشراب",
+    "COMMUNE": "Tancherfi",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI YAALA",
+    "NOM_ETABA": "بني يعلى",
+    "AdresseL": "douar bni yaala commune tancherfi",
+    "AdresseA": "دوار بني يعلا جماعة تانشرفي",
+    "COMMUNE": "Tancherfi",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL NKHAILA",
+    "NOM_ETABA": "الثانوية الاعدادية انخيلة",
+    "AdresseL": "Commune Nkhaila",
+    "AdresseA": "جماعة انخيلة",
+    "COMMUNE": "N'Khila",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MELGOU CENTRE",
+    "NOM_ETABA": "ملكو المركزية",
+    "AdresseL": "DOUAR MELGOU COMMUNE NKHILA",
+    "AdresseA": "دوار ملكو جماعة النخيلة",
+    "COMMUNE": "N'Khila",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR EL KAID OULAD ABADI CENTRE",
+    "NOM_ETABA": "مركزية دار القائد اولاد عبادي",
+    "AdresseL": "DOUAR DAR EL KAID COMMUNE NKHILA",
+    "AdresseA": "دار القائد اولاد عبادي جماعة النخيلة",
+    "COMMUNE": "N'Khila",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENKHAILA HAMRIA CENTRE",
+    "NOM_ETABA": " مركزية النخيلة حمرية",
+    "AdresseL": "DOUAR ENKHAILA COMMUNE N KHILA",
+    "AdresseA": "دوار النخيلة جماعة النخيلة",
+    "COMMUNE": "N'Khila",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

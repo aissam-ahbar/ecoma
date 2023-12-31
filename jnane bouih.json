@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ACHOUROUK",
+    "NOM_ETABA": "الثانوية الإعدادية الشروق",
+    "AdresseL": "COMMUNE JNAN BOUIH",
+    "AdresseA": "جماعة جنان بيه",
+    "COMMUNE": "Jnane Bouih",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED CHAWKI",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد شوقي",
+    "AdresseL": "COMMUNE JNANE BIH",
+    "AdresseA": "جماعة اجنان بيه",
+    "COMMUNE": "Jnane Bouih",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE JNANE BIH",
+    "NOM_ETABA": "مركزية اجنان ابيه",
+    "AdresseL": "DOUAR OULAD ALI MOUSSA COMMUNE JNANE BIH",
+    "AdresseA": "دوار أولاد علي موسى جماعة جنان بيه",
+    "COMMUNE": "Jnane Bouih",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE LAMIHATE",
+    "NOM_ETABA": "مركزية الميهات",
+    "AdresseL": "DOUAR LAMIHATE COMMUNE JNANE BOUIH",
+    "AdresseA": "دوارالميهات جماعة جنان ابيه",
+    "COMMUNE": "Jnane Bouih",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE NOUASSRA",
+    "NOM_ETABA": "مركزية النواصرة",
+    "AdresseL": "DOUAR LAKBIR COMMUNE JNANE BUIH",
+    "AdresseA": "دوار الكبير جماعة جنان بيه",
+    "COMMUNE": "Jnane Bouih",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE THARRA",
+    "NOM_ETABA": "مركزية الطحارة",
+    "AdresseL": "DOUAR THARRA COMMUNE JNANE BUIH",
+    "AdresseA": "دوار الطحارة جماعة جنان بيه",
+    "COMMUNE": "Jnane Bouih",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL JOULANE",
+    "NOM_ETABA": "مركزية الجولان",
+    "AdresseL": "DOUAR JBIL commune jnane bouih",
+    "AdresseA": "دوار جبيل جماعة جنان بيه",
+    "COMMUNE": "Jnane Bouih",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE OULED BOUANTAR",
+    "NOM_ETABA": "مركزية اولاد بوعنتر",
+    "AdresseL": "DOUAR OULED BOUANTAR COMMUNE JNANE BOUIH",
+    "AdresseA": "دوار اولاد بوعنتر  جماعة جنان بيه",
+    "COMMUNE": "Jnane Bouih",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

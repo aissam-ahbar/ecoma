@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "lycée collégial ennasr",
+    "NOM_ETABA": "الثانوية الإعدادية النصر",
+    "AdresseL": "ZAG   CENTRE",
+    "AdresseA": "الزاك  المركز",
+    "COMMUNE": "Zag",
+    "PROVINCE": "Province: Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR IBN KHATTAB",
+    "NOM_ETABA": "المدرسة الإبتدائية عمر ابن الخطاب",
+    "AdresseL": "HAY LJADID - ZAG ",
+    "AdresseA": "الحي الجديد",
+    "COMMUNE": "Zag",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire IBN OUKOUL ",
+    "NOM_ETABA": "مجموعة مدارس ابن عقول الابتدائية",
+    "AdresseL": "ZAG CENTRE",
+    "AdresseA": "الزاك المركز",
+    "COMMUNE": "Zag",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "école  AL FATH",
+    "NOM_ETABA": "المدرسة الإبتدائية الفتح",
+    "AdresseL": "zag",
+    "AdresseA": "الزاك",
+    "COMMUNE": "Zag",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE qualifiant RGHIOUA ",
+    "NOM_ETABA": "الثانوية التأهيلية ارغيوة",
+    "AdresseL": "ZAG CENTRE",
+    "AdresseA": "الزاك المركز",
+    "COMMUNE": "Zag",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSMENT AAHD ATTAMAYOUZ  DE L ENSEIGNEMENT SCOALIRE PRI",
+    "NOM_ETABA": "مؤسسة عهد التميز للتعليم المدرسي الخصوصي",
+    "AdresseL": "Quartier Administrative  ZAG c",
+    "AdresseA": "الحي الاداري- الزاك المركز",
+    "COMMUNE": "Zag ",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSMENT BARAAIM ALMOSTAKBAL DE L ENSEIGNEMENTE",
+    "NOM_ETABA": "مؤسسة براعم المستقبل للتعليم الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "شارع الحرية الحي الإداري ",
+    "COMMUNE": "Zag ",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  }
+]

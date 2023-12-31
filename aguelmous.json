@@ -1,0 +1,172 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية الإعدادية الخوارزمي",
+    "AdresseL": "AGUELMOUS CENTRE",
+    "AdresseA": "مركز جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZAHRAOUI",
+    "NOM_ETABA": "الثانوية الاعدادية الزهراوي",
+    "AdresseL": "AGUELMOUS CENTRE",
+    "AdresseA": "اكلموس المركز",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "AGUELMOUS CENTRE COMMUNE AGUELMOUS",
+    "AdresseA": "مركز اجلموس جماعة اجلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGUELMOUS",
+    "NOM_ETABA": "اكلموس",
+    "AdresseL": "AGUELMOUS CENTRE COMMUNE AGUELMOUS",
+    "AdresseA": "مركز جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الامل",
+    "AdresseL": "AGUELMOUS CENTRE COMMUNE AGUELMOUS",
+    "AdresseA": "مركز جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IHBARENE",
+    "NOM_ETABA": "اهبارن",
+    "AdresseL": "DOUAR IHBARENE COMMUNE AGUELMOUS",
+    "AdresseA": "دوار اهبارن جماعة اجلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAYARE",
+    "NOM_ETABA": "الزيار",
+    "AdresseL": "DOUAR ZAYARE COMMUNE AGUELMOUS",
+    "AdresseA": "دوار الزيار جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALAT NTAMZINE",
+    "NOM_ETABA": "ثلات نتمزين",
+    "AdresseL": "DOUAR TALAT NTAMAZINE COMMUNE AGUELMOUS",
+    "AdresseA": "دوار ثلات نتمزين جماعة اجلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TADMERT NAIT MAI",
+    "NOM_ETABA": "تادمرت نايت معي",
+    "AdresseL": "AIT BOUHSSOUSST  AIT MAI COMMUNE AGUELMOUS",
+    "AdresseA": " ايت بوحسوست ايت معي جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT RAHOU",
+    "NOM_ETABA": "ايت رحو",
+    "AdresseL": "DOUAR AIT RAHOU COMMUNE AGUELMOUS",
+    "AdresseA": "دوار ايت رحو جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIGUEMENTE",
+    "NOM_ETABA": "تيكمنت",
+    "AdresseL": "DOUAR AIT HADDOU OU HAMOU COMMUNE AGUELMOUS",
+    "AdresseA": "دوار ايت حدو وحمو جماعة اجلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI OUTMANE",
+    "NOM_ETABA": "سيدي عثمان",
+    "AdresseL": "DOUAR AMAHROUK MINT COMMUNE AGUELMOUS",
+    "AdresseA": "دوار اوهروق منت جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUKHALKHAL",
+    "NOM_ETABA": "بوخلخال",
+    "AdresseL": "DOUAR AMAHROUK MINT COMMUNE AGUELMOUS",
+    "AdresseA": "دوار اوهروق منت جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IABBASSINE",
+    "NOM_ETABA": "اعباسين",
+    "AdresseL": "DOUAR IABBASSIENE COMMUNE AGUELMOUS",
+    "AdresseA": "دوار اعباسين جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد",
+    "AdresseL": "ROUTE DE KHENIFRA COMMUNE AGUELMOUS",
+    "AdresseA": "طريق خنيفرة جماعة اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ARRAID SARIR",
+    "NOM_ETABA": "مؤسسة الرائد الصغير",
+    "AdresseL": "hay essalam aguelmous ",
+    "AdresseA": "حي السلام اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SALSABIL aguelmous",
+    "NOM_ETABA": "سلسبيل اكلموس",
+    "AdresseL": "hay mimoun oukassou aguelmous",
+    "AdresseA": "حي ميمون اوقسو اكلموس",
+    "COMMUNE": "Aguelmous",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

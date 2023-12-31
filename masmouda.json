@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKHLEK TORRESS",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الخالق الطريس",
+    "AdresseL": "CENTRE MASSMOUDA",
+    "AdresseA": "مركز مصمودة",
+    "COMMUNE": "Masmouda",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS Mohamed Meziane Belfkih",
+    "NOM_ETABA": "مجموعة مدارس محمد مزيان بلفقيه",
+    "AdresseL": "CENTRE  SOUK ASSABT",
+    "AdresseA": " مركز  سوق السبت",
+    "COMMUNE": "Masmouda",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI MALEK",
+    "NOM_ETABA": "م م ابن مالك",
+    "AdresseL": "DOUAR BNI MALEK COMMUNE MASMOUDA",
+    "AdresseA": "دوار ابن مالك",
+    "COMMUNE": "Masmouda",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HOMMANE AL FATOUAKI1",
+    "NOM_ETABA": "م م حمان الفطواكي1",
+    "AdresseL": "COMMUNE MASMOUDA",
+    "AdresseA": "جماعة مصمودة",
+    "COMMUNE": "Masmouda",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Mohamed Abed Al-Jabri",
+    "NOM_ETABA": "مجموعة مدارس محمد عابد الجابري",
+    "AdresseL": "DOUAR RMEL  COMMUNE MASMOUDA",
+    "AdresseA": "دوار الرمل- جماعة مصمودة",
+    "COMMUNE": "Masmouda",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL MANFALOUTI",
+    "NOM_ETABA": "م م المنفلوطي",
+    "AdresseL": "KHANDAK AL BIR  COMMUNE MASMOUDA",
+    "AdresseA": "دوار خندق البئر",
+    "COMMUNE": "Masmouda",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JABIR IBN HAYYAN",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "Commune Masmouda Centre",
+    "AdresseA": "مصمودة المركز",
+    "COMMUNE": "Masmouda",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MASMOUDA",
+    "NOM_ETABA": "الثانوية التاهيلية مصمودة",
+    "AdresseL": "masmouda",
+    "AdresseA": "مصمودة",
+    "COMMUNE": "Masmouda",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

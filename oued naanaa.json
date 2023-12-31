@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEEÉ COLLÈGIALE OUED NAANAA",
+    "NOM_ETABA": "الثانوية الاعدادية واد النعناع ",
+    "AdresseL": "commune Oued Naanaa",
+    "AdresseA": "جماعة واد النعناع ",
+    "COMMUNE": "Oued Naanaa",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUAD ENNAANAA CENTRE",
+    "NOM_ETABA": "مركزية واد النعناع",
+    "AdresseL": "DOUAR ECHERKAOUA COMMUNE OUED NAANAA",
+    "AdresseA": "دوار الشرقاوة جماعة وادي النعناع",
+    "COMMUNE": "Oued Naanaa",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENKHAILA OUED NAANAA CENTRE",
+    "NOM_ETABA": "مركزية النخيلة واد النعناع",
+    "AdresseL": "DOUAR CHMAMTA COMMUNE OUED NAANAA",
+    "AdresseA": "دوار الشمامطة جماعة وادي النعناع",
+    "COMMUNE": "Oued Naanaa",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

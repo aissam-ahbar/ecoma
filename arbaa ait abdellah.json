@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIT ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية آيت عبد الله",
+    "AdresseL": "centre commune ait abdellah",
+    "AdresseA": "مركز جماعة ايت عبد الله",
+    "COMMUNE": "Arbaa Ait Abdellah",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL KADI IYYAD CENTRE AIT ABDALLAH",
+    "NOM_ETABA": "مجموعة مدارس القاضي عياض مركزية اربعاء ايت عبدالله",
+    "AdresseL": "CENTRE COMMUNE ARBAA AIT ABDALLAH",
+    "AdresseA": "مركز جماعة اربعاء ايت عبدلله",
+    "COMMUNE": "Arbaa Ait Abdellah",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL KADI mohamed OBLOUCH CENTRE ID",
+    "NOM_ETABA": "مجموعة مدارس القاضي محمد أوبلوش مركزية ادعيسى",
+    "AdresseL": "DOUAR ID ISSA  ID BAKKA",
+    "AdresseA": "دوار ادعيسى - إد باكة ",
+    "COMMUNE": "Arbaa Ait Abdellah",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL NAJAH CENTRE TILGUEDOUAR",
+    "NOM_ETABA": "مجموعة مدارس النجاح مركزية تلكدوار",
+    "AdresseL": "DOUAR TILGUEDOUAR",
+    "AdresseA": "دوار تلكدوار",
+    "COMMUNE": "Arbaa Ait Abdellah",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

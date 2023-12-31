@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IBN HAMZA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن حمزة",
+    "AdresseL": "COMMUNE AIN LAHSAN",
+    "AdresseA": "جماعة عين لحصن إقليم تطوان",
+    "COMMUNE": "Ain Lahsan",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ss AIN LAHSSEN",
+    "NOM_ETABA": "م.م عين لحصن",
+    "AdresseL": "AYEN JDIDA COMMUNE AYEN LAHSSEN  TETOUAN",
+    "AdresseA": "عين الجديدة جماعة عين الحصن",
+    "COMMUNE": "Ain Lahsan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ss BOURIYANE",
+    "NOM_ETABA": "م.م بوريان",
+    "AdresseL": " BOURIANE CAYEN LAHSSENFENDAK",
+    "AdresseA": "بوريان . جماعة عين الحصن . قيادة الفندق",
+    "COMMUNE": "Ain Lahsan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss AAZIB AIN LAALAK",
+    "NOM_ETABA": "م.م عزيب عين لعلاق",
+    "AdresseL": "DOUAR AZIB AIN LAALAK  COMMUNE AIN LAHSSEN  TETOUA",
+    "AdresseA": "دوار العزيب جماعة عين لحصن",
+    "COMMUNE": "Ain Lahsan",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

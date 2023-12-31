@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial AL INBIAAT",
+    "NOM_ETABA": "الثانوية الإعدادية الإنبعاث",
+    "AdresseL": "BOUHLOU CENTRE",
+    "AdresseA": "بوحلو المركز",
+    "COMMUNE": "Bouhlou",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOUHLOU CENTRE",
+    "NOM_ETABA": "بوحلو المركز",
+    "AdresseL": "BOUHLOU CENTRE COMMUNE BOUHLOU",
+    "AdresseA": "بوحلو المركز جماعة بوحلو",
+    "COMMUNE": "Bouhlou",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KAOUANE CENTRE",
+    "NOM_ETABA": "كاوان المركز",
+    "AdresseL": "DOUAR KAOUANE COMMUNE BOUHLOU",
+    "AdresseA": "دوار كوان جماعة بوحلو",
+    "COMMUNE": "Bouhlou",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

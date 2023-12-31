@@ -1,0 +1,152 @@
+[
+  {
+    "NOM_ETABL": "C YOUSSEF BEN TACHAFIN",
+    "NOM_ETABA": "ثإ. يوسف بن تاشفين",
+    "AdresseL": "DOUAR AIT OUAGMAR COMMUNE OUED ESSAFA PROVINCE CHT",
+    "AdresseA": "دوار ايت واكمار جماعة وادي الصفاء عمالة شتوكة ايت ",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C AL HORRIYA",
+    "NOM_ETABA": "ثإ. الحرية",
+    "AdresseL": "douar TADOUARTE ouad essafa",
+    "AdresseA": "دوار تادوارت وادي الصفاء ",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ARRIAYA",
+    "NOM_ETABA": "م. الرعاية",
+    "AdresseL": "DOUAR TINE  KHAZAZ  OUED ESSAFA  BIOUGRA",
+    "AdresseA": "تنخزاز جماعة وادي الصفاء بيوكرى",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDALLA BEN ALI",
+    "NOM_ETABA": "م.م عبدالله بن علي",
+    "AdresseL": "DOUAR IGHRAISSEN  COMMUNE OUED ESSAFA",
+    "AdresseA": "دوار إغرايسن",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED KHAIR EDDINE  S TIN HAMMOU ",
+    "NOM_ETABA": "م.م محمد خير الدين  ف. تين همو",
+    "AdresseL": "DOUAR TIN HAMMOU   COMMUNE OUED ESSAFA",
+    "AdresseA": "دوار تين همو",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. MOHAMED KHAIR EDDINE",
+    "NOM_ETABA": "م. محمد خير الدين",
+    "AdresseL": "DOUAR AZOUGAR ",
+    "AdresseA": "دوار أزوكار",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI ALI AOUZAL",
+    "NOM_ETABA": "م.م سيدي علي أوزال",
+    "AdresseL": "DOUAR AL KHRBA COMMUNE OUED ESSAFA",
+    "AdresseA": "دوار الخربة أيت باها أوملال",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL KHADRA",
+    "NOM_ETABA": "م.  الخضراء",
+    "AdresseL": "DOUAR TALBORJT idaoumhind",
+    "AdresseA": "دوار تلبرجت إداومحند",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ADOUZ OSAOUD",
+    "NOM_ETABA": "م.م  أدوز أوسعود",
+    "AdresseL": "DOUAR ADOUZ SAOUD COMMUNE OUED ESSFA",
+    "AdresseA": "دوار أدوز أوسعود",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AIT OUAGMAR",
+    "NOM_ETABA": "م. أيت  واكمار",
+    "AdresseL": "DOUAR AIT OUAGMAR   C0MMUNE OUED ESSAFA",
+    "AdresseA": "دوار أيت واكمار",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT OUBELKACEM",
+    "NOM_ETABA": "م.م ايت أوبلقاسم",
+    "AdresseL": "DOUAR AIT OUBELKACEM  COMMUNE OUED ESSAFA",
+    "AdresseA": "دوار أيت أبلقاسم",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMZILEN",
+    "NOM_ETABA": "م.م  إمزيلن",
+    "AdresseL": "DOUAR IMZILEN",
+    "AdresseA": "دوار إمزيلن إداومحند",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDOLLAH IBNO YASSINE",
+    "NOM_ETABA": "م. عبد الله ابن ياسين",
+    "AdresseL": "DOUAR BHIRT OUCHEN ",
+    "AdresseA": "دوار بحيرت أوشن ",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL KHADRA  S AIT BALLA ",
+    "NOM_ETABA": "م.م. الخضراء  ف. ايت بلا",
+    "AdresseL": "DOUAR AIT BALLA COMMUNE OUED ESSAFA",
+    "AdresseA": "دوار ايت بلا جماعة واد الصفاء",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL FADILA",
+    "NOM_ETABA": "ثأ. الفضيلة",
+    "AdresseL": "DOUAR ADOUZ OSSAOUD",
+    "AdresseA": "دوار أدوز سعود",
+    "COMMUNE": "Ouad Essafa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

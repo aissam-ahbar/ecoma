@@ -1,0 +1,192 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL AIT OUZINE",
+    "NOM_ETABA": "الثانوية الإعدادية أيت أوزين ",
+    "AdresseL": "DOUAR AIT OUZINE AIT OUALLAL",
+    "AdresseA": "أيت أوزين",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCE COLLGIAL  AIT OUALLAL",
+    "NOM_ETABA": "الثانوية الإعدادية أيت ولال ",
+    "AdresseL": "AIT OUALLAL",
+    "AdresseA": "أيت ولال",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT OUALLAL CENTRE",
+    "NOM_ETABA": "ايت ولال المركز",
+    "AdresseL": "DOUAR AIT OUALLAL  COMMUNE AIT OUALLAL",
+    "AdresseA": "دوار آيت ولال عين عرمة",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HSINE",
+    "NOM_ETABA": "ايت حسين",
+    "AdresseL": "DOUAR AIT HSSINE COMMUNE AIT OUALLAL",
+    "AdresseA": "دوار أيت حسين، جماعة أيت ولال",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAAOUNIATE AL MASSIRA CENTRE",
+    "NOM_ETABA": "تعاونية المسيرة",
+    "AdresseL": "COOPERATIVE AL MASSIRA COMMUNE AIT OUALLAL",
+    "AdresseA": "ايت ولال",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SAFSAF",
+    "NOM_ETABA": "م.م الصفصاف",
+    "AdresseL": "DOUAR IMINOUAKKA C AIT OULLAL ZAGORA",
+    "AdresseA": "دوار إمينواقا جماعة أيت ولال زاكورة",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIFDASSINE",
+    "NOM_ETABA": "م.م تفداسين",
+    "AdresseL": "DOUAR TIFDASSINE nkob",
+    "AdresseA": "تيفداسين جماعة أيت ولال",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT OUALLAL",
+    "NOM_ETABA": "م.م ايت ولال",
+    "AdresseL": "DOUAR AMLAL AIT   OUALLAL",
+    "AdresseA": "أملال",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TANOUMRIT",
+    "NOM_ETABA": "م.م تنومريت",
+    "AdresseL": "DOUAR TANOUMRIT CR AIT OUALLAL",
+    "AdresseA": "تنومريت ايت ولال النقوب",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT OUZZINE TAFSSATTE ",
+    "NOM_ETABA": "م.م أيت أوزين تافصاط المركزية",
+    "AdresseL": "TAFSSATE CAIT OUALLAL",
+    "AdresseA": "تافصاط أيت ولال",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANASSI 2",
+    "NOM_ETABA": "أناسي 2",
+    "AdresseL": " RIAD ALISMAILIA  COMMUNE AIT OUALLAL. MEKNES",
+    "AdresseA": "ديار الإسماعيلية جماعة آيت ولال مكناس",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NAJMAT AL WASSAT",
+    "NOM_ETABA": "نجمة الوسط",
+    "AdresseL": "COMMUNE AIT OUALLAL",
+    "AdresseA": "جماعة ايت ولاال",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE LYCEE QUALIFIANT ANASSI",
+    "NOM_ETABA": "ملحقة الثانوية التأهيلية أناسي",
+    "AdresseL": "AIT OUALLAL COMMUNE AIT OUALLAL",
+    "AdresseA": "آيت ولال جماعة آيت ولال",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire draoui 3",
+    "NOM_ETABA": "مجموعة مدارس الدراوي 3",
+    "AdresseL": "lotissement riad el khair lot ",
+    "AdresseA": "تجزئة رياض الخير بقعة 66 رقم 6",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "eduform plus",
+    "NOM_ETABA": "إدو فورم بلوس",
+    "AdresseL": "diar al madina n°74 cooperativ",
+    "AdresseA": "ديار المدينة الرقم 74 تعاونية ",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "societe notre pionnier",
+    "NOM_ETABA": "صوصيتي نوتر بيونيي الخاصة",
+    "AdresseL": "lotissement riad al ismailia t",
+    "AdresseA": "نجزئة رياض الإسماعيلية الشطر ك",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole gustave eiffele",
+    "NOM_ETABA": "مدرسة كوستاف إيفيل الخاصة",
+    "AdresseL": "RYAD EL KHIR N° 15-16-17-18",
+    "AdresseA": "رياض الخير رقم 15-16-17-18",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALBATROS EDUCATION",
+    "NOM_ETABA": "البطرس إديكاسيون",
+    "AdresseL": "Lot I130, Lotissement riad Ism",
+    "AdresseA": "البقعة 130 تجزئة رياض الإسماعي",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE GARDNER",
+    "NOM_ETABA": "مجموعة مدارس غاردنير",
+    "AdresseL": "N° 307 MANAZIL AL ISMAILIA MEK",
+    "AdresseA": "الرقم 307 منازل الإسماعيلية مك",
+    "COMMUNE": "Ait Ouallal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

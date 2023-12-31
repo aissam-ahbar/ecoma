@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "BNI AMMART",
+    "NOM_ETABA": "بني عمارت",
+    "AdresseL": " BNI AMMART COMMUNE BNI AMMART",
+    "AdresseA": " بني عمارت جماعة بني عمارت",
+    "COMMUNE": "Bni Ammart",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGHIL AHMED",
+    "NOM_ETABA": "اغيل احمد",
+    "AdresseL": "DOUAR AGHIL AHMED COMMUNE BNI AMMART",
+    "AdresseA": "دوار اغيل احمد جماعة بني عمارت",
+    "COMMUNE": "Bni Ammart",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ISKIMEN",
+    "NOM_ETABA": "اسقيمن",
+    "AdresseL": "DOUAR ISKIMEN COMMUNE BNI AMMART",
+    "AdresseA": "دوار اسقيمن جماعة بني عمارت",
+    "COMMUNE": "Bni Ammart",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSAMAR",
+    "NOM_ETABA": "اسمار",
+    "AdresseL": "DOUAR ASSAMAR COMMUNE BNI AMMART",
+    "AdresseA": "دوار اسمار جماعة بني عمارت",
+    "COMMUNE": "Bni Ammart",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DALIA",
+    "NOM_ETABA": "دالية",
+    "AdresseL": "DOUAR DALIA COMMUNE BNI AMMART",
+    "AdresseA": "دوار الدالية جماعة بني عمارت",
+    "COMMUNE": "Bni Ammart",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ALHADI TEYEB HAMOU",
+    "NOM_ETABA": "ثانوية الهادي الطيب حمو",
+    "AdresseL": "BNI AMMART",
+    "AdresseA": "بني عمارت",
+    "COMMUNE": "Bni Ammart",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

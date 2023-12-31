@@ -1,0 +1,512 @@
+[
+  {
+    "NOM_ETABL": "SALAH ED DINE AL AYOUBI",
+    "NOM_ETABA": "صلاح الدين الايوبي",
+    "AdresseL": "SIDI YAHYA CENTRE",
+    "AdresseA": "سيدي يحيى المركز",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI YAHYA ZAER",
+    "NOM_ETABA": "إعدادية سيدي يحيى زعير",
+    "AdresseL": "SIDI YAHYA ZAER CENTRE",
+    "AdresseA": "سيدي يحيى زعير المركز",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE ASSIA ALWADII COLLEGIAL",
+    "NOM_ETABA": "ثانوية آسية الوديع الإعدادية",
+    "AdresseL": "LOTISSEMENT ANNOUR 1 tamsna SIDI YAHYA ZAERS",
+    "AdresseA": "تجزئة النور 1 سيدي يحيى زعير تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED CHARKAOUI",
+    "NOM_ETABA": "أحمد الشرقاوى",
+    "AdresseL": "TAMESNA",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDESSALAM AMER",
+    "NOM_ETABA": "عبدالسلام عامر",
+    "AdresseL": "TAMESNA",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY DRISS AL AZHAR",
+    "NOM_ETABA": "مولاي ادريس الأزهر",
+    "AdresseL": "Tamesna",
+    "AdresseA": "مدينة تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OTHMANE JORIO",
+    "NOM_ETABA": "عثمان جوريو",
+    "AdresseL": "Tamesna",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED AL BIDAOUI",
+    "NOM_ETABA": "احمد البيضاوي",
+    "AdresseL": "Tamesna",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "THAMI ZEMMOURI",
+    "NOM_ETABA": "التهامي الزموري",
+    "AdresseL": "SIDI YAHYA ZAER TEMESNA",
+    "AdresseA": "مشروع الكنز تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI YAHYA ZAER",
+    "NOM_ETABA": "سيدي يحيى زعير",
+    "AdresseL": "SIDI YAHYA ZAER CENTRE",
+    "AdresseA": "سيدي يحى زعير المركز",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR IBN ABDELAZIZ",
+    "NOM_ETABA": "عمر بن عبد العزيز",
+    "AdresseL": "SIDI YAHYA ZAER CENTRE",
+    "AdresseA": "سيدي يحى زعير المركز",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ROUIDAT",
+    "NOM_ETABA": "الرويضات",
+    "AdresseL": "SAD ROUIDAT  SIDI YAHYA ZAER",
+    "AdresseA": "سد الرويضات سيدي يحيى زعير",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "REMAMHA",
+    "NOM_ETABA": "الرمامحة",
+    "AdresseL": "DOUAR OULAD SAID SIDI YAHYA ZAER",
+    "AdresseA": "دوار اولاد سعيد  سيدي يحيى زعير",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAJ EL BOUHALI",
+    "NOM_ETABA": "الحاج البهالي",
+    "AdresseL": "DOUAR EL HAJ EL BOUHALI SIDI YAHYA ZAER",
+    "AdresseA": "دوار الحاج البهالي سيدي يحيى زعير",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN RIBAA",
+    "NOM_ETABA": "عين الريبعة",
+    "AdresseL": "AIN RIBAA  SIDI YAHYA ZAER",
+    "AdresseA": "عين الريبعة سيدي يحيى زعير",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KOUDIA",
+    "NOM_ETABA": "الكدية",
+    "AdresseL": "DOMAINE AGRICOLE EL KOUDIA",
+    "AdresseA": "الضيعة الفلاحية الكدية سيدي يحى زعير",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IDRISS 1ER",
+    "NOM_ETABA": "ادريس الاول",
+    "AdresseL": "SIDI YAHIA ZAER CENTRE",
+    "AdresseA": "سيدي يحيى  زعير المركز",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAYAT AARAB",
+    "NOM_ETABA": "ضاية اعراب",
+    "AdresseL": "DOUAR DAYAT AARAB SIDI YAHYA ZAER",
+    "AdresseA": "دوار ضاية اعراب سيدي يحيى زعير سيدي يحيى زعير",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMESNA",
+    "NOM_ETABA": "تامسنا",
+    "AdresseL": "avenue yacoub al mansour tamesna",
+    "AdresseA": "شارع يعقوب المنصور مدينة تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED V",
+    "NOM_ETABA": "محمد الخامس",
+    "AdresseL": "Tamesna",
+    "AdresseA": "مدينة تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ALAOUIINE",
+    "NOM_ETABA": "العلويين",
+    "AdresseL": "Tamesna",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "boulevard allal ben abdellah ",
+    "AdresseA": "شارع علال بن عبد الله ",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSANAWBAR",
+    "NOM_ETABA": "مدرسة الصنوبر",
+    "AdresseL": "TAMESNA",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "Cité annour  TAMESNA  sidi yahya zaer",
+    "AdresseA": "حي النور1- تامسنا جماعة سيدي يحيى زعير",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED ABDESSALAM BEKKALI",
+    "NOM_ETABA": "احمدعبدالسلام البقالي",
+    "AdresseL": "TAMESNA",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELMAJID BEN JELLOUN",
+    "NOM_ETABA": "عبدالمجيد بنجلون",
+    "AdresseL": "TAMESNA",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL WIFAK",
+    "NOM_ETABA": "الوفاق",
+    "AdresseL": "LOTISSEMENT ANNOUR SIDI YAHYA ZAERS",
+    "AdresseA": "تجزئة النور سيدي يحيى زعير",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELOUAHAB BENMANSOUR",
+    "NOM_ETABA": "عيدالوهاب بنمنصور",
+    "AdresseL": "TAMESNA",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED HAJJI",
+    "NOM_ETABA": "محمد حجي",
+    "AdresseL": "Tamesna",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA ALFIHRIYA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "HAY NOUR TAMESNA",
+    "AdresseA": "حي النور تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU OUBAYDA IBN ELJARRAH",
+    "NOM_ETABA": "أبو عبيدة بن الجراح",
+    "AdresseL": "SIDI YAHYA ZAER TEMESNA",
+    "AdresseA": "سيدي  يحيى ازعير تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED EL BOUANANI",
+    "NOM_ETABA": "أحمد البوعناني",
+    "AdresseL": "commune sidi yahya zaer tamesna",
+    "AdresseA": "جماعة سيدي يحيى زعير تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "CHIKH IBN TAYMYA",
+    "NOM_ETABA": "الشيخ ابن تيمية",
+    "AdresseL": "Tamesna",
+    "AdresseA": "تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELAZIZ MEZIANE BELFKIH",
+    "NOM_ETABA": "عبدالعزيز مزيان بلفقيه",
+    "AdresseL": "angle avenue ahmed almansour et avenue moulay ali ",
+    "AdresseA": "زاوية شارع أحمد المنصور و شارع مولاي علي الشريف",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED SERRAJ",
+    "NOM_ETABA": "محمد السراج",
+    "AdresseL": "SIDI YAHYA ZAEIR CENTRE",
+    "AdresseA": "سيدي يحيى المركز",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AICHA EL JABRI ",
+    "NOM_ETABA": "عائشة الجابري",
+    "AdresseL": "Tamesna",
+    "AdresseA": "تامسنا ",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ISMAEL",
+    "NOM_ETABA": "مولاي اسماعيل",
+    "AdresseL": "HAY NOUR TAMESNA",
+    "AdresseA": "حي النور تامسنا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire atlas - tamesna",
+    "NOM_ETABA": "مجموعة مدارس أطلس - تامسنا",
+    "AdresseL": "titre foncier e3-a 78/7883 tam",
+    "AdresseA": "تامسنا e3-a الرسم العقاري78/78",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire le majorE",
+    "NOM_ETABA": "مجموعة مدارس لوماجور للتعليم الخاص",
+    "AdresseL": "lot ennajah groupe 29 n° 193 a",
+    "AdresseA": " تجزئة النجاح المجموعة 29 الرق",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al hakim groupe",
+    "NOM_ETABA": "الحكيم مجموعة خاصة",
+    "AdresseL": "titre foncier 78/22268 zone in",
+    "AdresseA": "المنطقة الصناعية المدينة الجدي",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire zghari",
+    "NOM_ETABA": "مجموعة مدارس الزغاري للتعليم الخاص",
+    "AdresseL": "3, bloc annakhil, e2-5, tamesn",
+    "AdresseA": "بلوك النخيل 3 تامسنا  E 2-5 حد",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institutione balabils tamesna",
+    "NOM_ETABA": "مؤسسة بلابل تمسنا الخصوصية",
+    "AdresseL": "24 g tamesna",
+    "AdresseA": "رقم ج  24 تامسنت",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madariss maria tamesna",
+    "NOM_ETABA": "مدارس مارية تامسنا",
+    "AdresseL": "LOT E25 LOTISSEMENT RIAD TAMES",
+    "AdresseA": "تجزئة رياض تامسنا العمران",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CRECHE MATERNELLE ALAJIALE",
+    "NOM_ETABA": "مؤسسة الأجيال الخاصة للتعليم الأولي",
+    "AdresseL": "hay lavini tamesna",
+    "AdresseA": "حي لافيني ، سيدي يحيى زعير، تا",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "katr annada",
+    "NOM_ETABA": "قطر الندى",
+    "AdresseL": "198, lotissement khalid, centr",
+    "AdresseA": " تجزئة خالد المركز 198",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZAHARAT AL MADAAINE",
+    "NOM_ETABA": "زهرة المدائن للتعليم الاولي",
+    "AdresseL": "396,lotissement khalid",
+    "AdresseA": "تجزئة خالد الطابق الأرضي سيدي ",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madaris azur",
+    "NOM_ETABA": "مدارس الأفق الأزرق",
+    "AdresseL": "68 lot khalid",
+    "AdresseA": "68 تجزئة خالد",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire ALOKHOWA",
+    "NOM_ETABA": "مدارس الأخوة  ",
+    "AdresseL": "LOT  KHALID  61-62 SIDI YAHYA ",
+    "AdresseA": "تجزئة خالد  61-62 سيدي يحيى زع",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement bouhoute",
+    "NOM_ETABA": "مؤسسة بوحوت الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 167 حي النور 1",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE JARDAIN DORE",
+    "NOM_ETABA": "لو جردان دوري الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "SIDI YAHYA ZAER",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "educa noble ",
+    "NOM_ETABA": "إيديكانوبل الخصوصية",
+    "AdresseL": "Hay alamal 2 Tamesna",
+    "AdresseA": "الرسم العقاري عدد 27845/78 الط",
+    "COMMUNE": "Sidi Yahya Zaer",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

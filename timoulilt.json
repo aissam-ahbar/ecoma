@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "ECOLE TIMOULILT",
+    "NOM_ETABA": "مدرسة تيموليلت المختلطة",
+    "AdresseL": "COMMUNE TIMOULILIT CENTRE",
+    "AdresseA": "مركز جماعة تيموليلت",
+    "COMMUNE": "Timoulilt",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT SRI",
+    "NOM_ETABA": "مركزية آيت سري",
+    "AdresseL": "DOUAR AIT SRI",
+    "AdresseA": "دوار ايت سري ",
+    "COMMUNE": "Timoulilt",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "ثانوية عمر بن عبد العزيز التأهيلية",
+    "AdresseL": "COMMUNE TIMOULILT CENTRE",
+    "AdresseA": "جماعة تيموليلت المركز",
+    "COMMUNE": "Timoulilt",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

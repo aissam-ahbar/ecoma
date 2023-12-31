@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED IBN HASSAN OUAZZANI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بن الحسن الوزاني",
+    "AdresseL": "centre commune rmilat",
+    "AdresseA": "مركز جماعة الرميلة",
+    "COMMUNE": "Rmilat",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAHRARTA",
+    "NOM_ETABA": " الحرارتة",
+    "AdresseL": "DOUAR LAHRARTA COMMUNE ERMILATE",
+    "AdresseA": "دوار  الحرارثة",
+    "COMMUNE": "Rmilat",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SOULTANE",
+    "NOM_ETABA": "اولاد سلطان",
+    "AdresseL": "DOUAR OULAD SOULTANE COMMUNE ERMILATE",
+    "AdresseA": "دوار اولاد سلطان",
+    "COMMUNE": "Rmilat",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOETAMED IBN ABAD",
+    "NOM_ETABA": "المعتمد ابن عباد",
+    "AdresseL": "DOUAR LAASAKRIA   COMMUNE RMILAT",
+    "AdresseA": " دوار العساكرية جماعة ارميلة",
+    "COMMUNE": "Rmilat",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

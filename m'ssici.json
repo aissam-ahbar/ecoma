@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU KHALDOUN",
+    "NOM_ETABA": "الثانوية الاعدادية ابن خلدون",
+    "AdresseL": "KSAR MCISSI",
+    "AdresseA": "قصر مصبسي",
+    "COMMUNE": "M'Ssici",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AZAGUE",
+    "NOM_ETABA": "م.م ازاك",
+    "AdresseL": "KSAR AZAGUE MSSICI alnif",
+    "AdresseA": "قصر ازك مصيصي النيف",
+    "COMMUNE": "M'Ssici",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUADILE",
+    "NOM_ETABA": "م.م بواضبل",
+    "AdresseL": "KSAR BOUADILE M SSICI ALNIF",
+    "AdresseA": "قصر بواضيل ا مصيصي النيف",
+    "COMMUNE": "M'Ssici",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUGGAFER",
+    "NOM_ETABA": "م م بوكافر",
+    "AdresseL": "KSAR FEZZOU Mcissi",
+    "AdresseA": "قصر فزو ا مصيسي",
+    "COMMUNE": "M'Ssici",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANNASR",
+    "NOM_ETABA": "مجموعة مدارس النصر",
+    "AdresseL": "KSAR BOUDIBE M CISSI alnif",
+    "AdresseA": "بوديب  مصيصي النيف",
+    "COMMUNE": "M'Ssici",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MCISSI KSAR",
+    "NOM_ETABA": "م م امصيصي قصر",
+    "AdresseL": "MCISSI",
+    "AdresseA": "امصيصي قصر",
+    "COMMUNE": "M'Ssici",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

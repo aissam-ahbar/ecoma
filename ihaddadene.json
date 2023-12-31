@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  RIF",
+    "NOM_ETABA": "الثانوية الإعدادية الريف",
+    "AdresseL": "COMMUNE IHADADDENE",
+    "AdresseA": "جماعة احدادن",
+    "COMMUNE": "Ihaddadene",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE   AL KHANDAQ",
+    "NOM_ETABA": "المدرسة الابتدائية الخندق",
+    "AdresseL": "DOUAR AL KHANDAQ COMMUNE IHADDADENE",
+    "AdresseA": "دوار الخندق",
+    "COMMUNE": "Ihaddadene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR AL MOUKHTAR",
+    "NOM_ETABA": "المدرسة الابتدائية عمر المختار",
+    "AdresseL": "COMMUNE IHADDADENE",
+    "AdresseA": "ايحدادن",
+    "COMMUNE": "Ihaddadene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE IHADDADENE",
+    "NOM_ETABA": "مجموعة مدارس احدادن",
+    "AdresseL": "s s ihaddadene beni bouyafrour nador",
+    "AdresseA": "م/م احدادن بني بويفرور الناظور",
+    "COMMUNE": "Ihaddadene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BOUIZAZARNE",
+    "NOM_ETABA": "المدرسة الابتدائية بويزازارن",
+    "AdresseL": "Commune Ihaddadene Bni Bouyfrour Nador",
+    "AdresseA": "جماعة احدادن قيادة بني بويفرور الناظور",
+    "COMMUNE": "Ihaddadene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN TOFAIL",
+    "NOM_ETABA": "الثانوية التأهيلية ابن طفيل",
+    "AdresseL": "IHDDADENE",
+    "AdresseA": "احدادن",
+    "COMMUNE": "Ihaddadene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

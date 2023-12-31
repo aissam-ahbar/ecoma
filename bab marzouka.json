@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial BAB MARZOUKA",
+    "NOM_ETABA": "الثانوية الإعدادية باب مرزوقة",
+    "AdresseL": "BAB MARZOUKA CENTRE",
+    "AdresseA": "باب مرزوقة المركز",
+    "COMMUNE": "Bab Marzouka",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BNI OUJJANE CENTRE",
+    "NOM_ETABA": "بني وجان المركز",
+    "AdresseL": "COMMUNE BAB MARZOUKA",
+    "AdresseA": "دوار  بني وجان المركز جماعة باب مرزوقة",
+    "COMMUNE": "Bab Marzouka",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAB MARZOUKA CENTRE",
+    "NOM_ETABA": "باب مرزوقة المركز",
+    "AdresseL": "COMMUNE BAB MARZOUKA",
+    "AdresseA": "  باب مرزوقة المركز",
+    "COMMUNE": "Bab Marzouka",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NAFAK CENTRE",
+    "NOM_ETABA": "النفق المركز",
+    "AdresseL": "COMMUNE BAB MARZOUKA COMMUNE BAB MARZOUKA",
+    "AdresseA": "باب مرزوقة المركز",
+    "COMMUNE": "Bab Marzouka",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAKKA CENTRE",
+    "NOM_ETABA": "الشقة المركز",
+    "AdresseL": "COMMUNE BAB MARZOUKA",
+    "AdresseA": "  الشقة المركز  جماعة باب مرزوقة",
+    "COMMUNE": "Bab Marzouka",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAB MARZOUKA COM",
+    "NOM_ETABA": "باب مرزوقة .كم",
+    "AdresseL": "DOUAR BAB MARZOUKA COMMUNE BAB MARZOUKA",
+    "AdresseA": "   باب مرزوقة   المركز",
+    "COMMUNE": "Bab Marzouka",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BNOU ZAIDOUNE",
+    "NOM_ETABA": "ثانوية إبن زيدون التأهيلية",
+    "AdresseL": "Bab Marzouka Centre",
+    "AdresseA": "باب مرزوقة المركز",
+    "COMMUNE": "Bab Marzouka",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

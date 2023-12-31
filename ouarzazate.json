@@ -1,0 +1,812 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELMAJD",
+    "NOM_ETABA": "الثانوية الإعدادية المجد",
+    "AdresseL": "HAY ELMOHMMADI OUARZAZATE",
+    "AdresseA": "الحي المحمدي ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL ABDELKRIM ELKHTTABI",
+    "NOM_ETABA": "  الثانوية الإعدادية عبد الكريم الخطابي",
+    "AdresseL": "HAY SIDI DAOUD OUARZAZATE",
+    "AdresseA": "حي سيدي داوود",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ENNAKHIL",
+    "NOM_ETABA": "الثانوية الإعدادية النخيل",
+    "AdresseL": "HAY FADRAGOME",
+    "AdresseA": "حي فدراكوم",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL  ABDERRAHIM BOUABID",
+    "NOM_ETABA": " الثانوية الإعدادية عبد الرحيم بوعبيد ",
+    "AdresseL": "MUNICIPALITE OUARZAZATE",
+    "AdresseA": "بلدية ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELGHAZALI",
+    "NOM_ETABA": " الثانوية الإعدادية الغزالي",
+    "AdresseL": "AV MOHAMED V PLACE 3 MARS ",
+    "AdresseA": "شارع محمد الخامس ساحة 3 مارس",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ASSMA",
+    "NOM_ETABA": " م اسماء",
+    "AdresseL": "HAY ALMOUKAWAMA OUARZAZATE",
+    "AdresseA": "حي المقاومة ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TASSOUMAATE",
+    "NOM_ETABA": "م تصومعت",
+    "AdresseL": "HAY TASSOUMAATE OUARZAZATE",
+    "AdresseA": "حي تصومعت ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " E EL KHANSSA",
+    "NOM_ETABA": " م الخنساء",
+    "AdresseL": "AVENUE TAHR BEN ABDELKARIM",
+    "AdresseA": "شارع الطاهر بن عبد الكريم ",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " E ALLAL BEN ABD ALLAH",
+    "NOM_ETABA": "م علال بن عبد الله",
+    "AdresseL": "AVENUE ABDERRAHMANE ESSAHRAOUI HAY ALMOUKAOUAMA  O",
+    "AdresseA": "شارع عبد الرحمان الصحراوي حي المقاومة  ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OUED EDDAHAB",
+    "NOM_ETABA": "م واد الذهب",
+    "AdresseL": "HAY OUED EDDAHAB  OUARZAZATE",
+    "AdresseA": "حي واد الذهب ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TAOURIRTE",
+    "NOM_ETABA": "م توريرت",
+    "AdresseL": "HAY sidi daoud OUARZAZATE",
+    "AdresseA": "حي سيدي داود  ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " E EL KODS",
+    "NOM_ETABA": "م القدس",
+    "AdresseL": "AIT GUTIF OUARZAZAT",
+    "AdresseA": "حي ايت اكضيف",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TAMASSINTE",
+    "NOM_ETABA": "م تماسينت",
+    "AdresseL": "HAY TAMASSINTE OUARZAZATE",
+    "AdresseA": "حي تماسينت ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E FADRAGOUME",
+    "NOM_ETABA": "م فدراكوم",
+    "AdresseL": "DOUAR FADRAGOUME  OUARZAZATE",
+    "AdresseA": "دوار فضراكوم ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ISFOUTALIL",
+    "NOM_ETABA": "م. اسفوتليل",
+    "AdresseL": "DOUAR ISFOUTALIL COMMUNE OUARZAZATE",
+    "AdresseA": "دوار اسفوتليل جماعة ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL WAHDA",
+    "NOM_ETABA": " م الوحدة",
+    "AdresseL": "MUNICIPALITE DE OURZAZATE",
+    "AdresseA": "بلدية ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ESSED ELMANSOUR",
+    "NOM_ETABA": "م السد المنصور",
+    "AdresseL": "HAY ESSALAM OUARZAZATE",
+    "AdresseA": "حي السلا م ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HAY ELIDARI ELMASSIRA",
+    "NOM_ETABA": "م حي الاداري المسيرة",
+    "AdresseL": "HAY IDARI MUNICIPALITE OUARZAZATE",
+    "AdresseA": "حي الاداري بلدية ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " E ELFARABI",
+    "NOM_ETABA": " م الفرابي",
+    "AdresseL": "HAY MOHMMADI",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ACHOUROUK",
+    "NOM_ETABA": " م الشروق",
+    "AdresseL": "AV ANNASR OUARZAZATE",
+    "AdresseA": "شارع النصر ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL ATLAS",
+    "NOM_ETABA": "مدرسة الأطلس",
+    "AdresseL": "LOTISSEMENT AL ATLAS",
+    "AdresseA": "تجزئة الأطـلـس",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIT KDIF",
+    "NOM_ETABA": "مدرسة ايت كضيف",
+    "AdresseL": "Quartier ait kdif",
+    "AdresseA": "حي ايت اكضيف",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  SIDI DAOUD",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي داود",
+    "AdresseL": "OUARZAZATE CENTRE",
+    "AdresseA": "مركز ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد",
+    "AdresseL": "OURZAZATE CENTRE",
+    "AdresseA": "مركز ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED VI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس ",
+    "AdresseL": "CENTRE OUARZAZATE",
+    "AdresseA": "مركز ورزازات",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE IBN AL HAITAM",
+    "NOM_ETABA": "الثانوية التأهيلية التقنية ابن الهيثم ",
+    "AdresseL": "OUARZAZATE CENTRE",
+    "AdresseA": "ورزازات المركز",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PRINCE HERITIER MOULAY EL HASSAN ",
+    "NOM_ETABA": "الثانوية التأهيلية ولي العهد مولاي الحسن للأقسام ا",
+    "AdresseL": "OUARZAZATE",
+    "AdresseA": "HAY sidi hssayne",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  ANOUAL ",
+    "NOM_ETABA": "الثانوية التأهيلية انوال ",
+    "AdresseL": "AIT KDIF",
+    "AdresseA": "حي السلام ",
+    "COMMUNE": "Ouarzazate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "El Phorat",
+    "NOM_ETABA": "الفرات",
+    "AdresseL": "Rue Meknès, Oued Eddahab - C. ",
+    "AdresseA": "زنقة مكناس وادي الذهب - ج. ورز",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Ennajah",
+    "NOM_ETABA": "معهد النجاح",
+    "AdresseL": "Boulevard My Rachid - C. Ouarz",
+    "AdresseA": "شارع مولاي رشيد - ج. ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EnnacirIa",
+    "NOM_ETABA": "المؤسسة الناصرية",
+    "AdresseL": "N° 91- 92 Lotissement Ennader ",
+    "AdresseA": "رقم 91- 92 تجزئة النادر2 ، سيد",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bawabat al irfanE",
+    "NOM_ETABA": "بوابة العرفان",
+    "AdresseL": "hay tassoumaate; DERRIERE LA G",
+    "AdresseA": "حي تاصومعت وراء المحطة الطرقية",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KASBAT eL MAARIFA",
+    "NOM_ETABA": "قصبة المعرفة",
+    "AdresseL": "cité la résistance ouarzazate",
+    "AdresseA": "حي المقاومة",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE CHEMS",
+    "NOM_ETABA": "ملحقة شمس",
+    "AdresseL": "HAY ELOUAHADA 1220 OUARZAZATE",
+    "AdresseA": "حي الوحدة 1220 وارزازات ",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHEMS",
+    "NOM_ETABA": "مؤسسة الشمس للتعليم المدرسي الخصوصي",
+    "AdresseL": "av biranzarane bloc h2 n°103,1",
+    "AdresseA": "بلوك هـ 2 رقم 102- 103 حي المق",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Marcel Proust",
+    "NOM_ETABA": "مارسيل بروست",
+    "AdresseL": "avenue mohamed v en face place",
+    "AdresseA": "شارع محمد الخامس امام ساحة 3 م",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AIT KDIF LJADID",
+    "NOM_ETABA": "ايت كظيف الجديد",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUMAIMA",
+    "NOM_ETABA": "أميمة",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alfossoul alarbaa",
+    "NOM_ETABA": "الفصول الأربعة",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي المحمدي رقم 1562 ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAY MOHAMADI",
+    "NOM_ETABA": "الحي المحمدي",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي المحمدي رقم 426 ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AMIN",
+    "NOM_ETABA": "مؤسسة أمين",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المقاومة بلوك 7 رقم الجار 6",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALYAKOUT",
+    "NOM_ETABA": "الياقوت",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المقاومة بلوك 25 رقم 06 ورز",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIDA ABDERRAHMAN",
+    "NOM_ETABA": "رضى عبد الرحمان",
+    "AdresseL": "NULL",
+    "AdresseA": " رقم 55 ورزازات\"D\"حي المقاومة ",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alaassafir adahabia",
+    "NOM_ETABA": "العصافير الذهبية",
+    "AdresseL": "",
+    "AdresseA": "hay mohamadi n° 1277 ouarzazat",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JOUDOUR",
+    "NOM_ETABA": " جدور",
+    "AdresseL": "NULL",
+    "AdresseA": " ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kissane",
+    "NOM_ETABA": "كيسان",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي المحمدي رقم 482 ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUGAFER",
+    "NOM_ETABA": "بوكافر",
+    "AdresseL": "NULL",
+    "AdresseA": " ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA",
+    "NOM_ETABA": "المسيرة",
+    "AdresseL": "NULL",
+    "AdresseA": " ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assabr",
+    "NOM_ETABA": "الصبر",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تماسينت",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CLUB DRAA ",
+    "NOM_ETABA": "نادي درعة",
+    "AdresseL": "NULL",
+    "AdresseA": " ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELFORATE2",
+    "NOM_ETABA": "الفرات2",
+    "AdresseL": "NULL",
+    "AdresseA": "حي وادي الذهب ",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al aouael",
+    "NOM_ETABA": "الأوائل",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUSSAMA",
+    "NOM_ETABA": "أسامة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 10 حي نلاتين توريرت",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "majd",
+    "NOM_ETABA": "المجد",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assia",
+    "NOM_ETABA": "اسية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي ايت كضيف رقم 612 ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMOUSTAKBALE",
+    "NOM_ETABA": "روض المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FAYROUZ",
+    "NOM_ETABA": "الفيروز",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAIMA",
+    "NOM_ETABA": "شيماء",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة رقم 1148 ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED YASSIN",
+    "NOM_ETABA": "محمد ياسين",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام رقم 695 ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ELWAHDA",
+    "NOM_ETABA": "مؤسسة الوحدة",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع المغرب العربي رقم 1410 حي",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annexe etablissement chamsse",
+    "NOM_ETABA": "ملحقة مؤسسة الشمس",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة رقم 1220 ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "1 2 3 soleil",
+    "NOM_ETABA": "1 2 3 سولاي",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Elghazlani",
+    "NOM_ETABA": "الغزلاني",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة رقم 615 مكرر ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL JANNA ASSAGHIRA",
+    "NOM_ETABA": "الجنة الصغيرة",
+    "AdresseL": "NULL",
+    "AdresseA": "247 BIS LOT AL AMAL AIT KDIF",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FAYROUZ",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "NULL",
+    "AdresseA": " سكورة",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MARQUISe DE SEVIGNE",
+    "NOM_ETABA": "ماركيز دو سيفيني",
+    "AdresseL": "Av taher ben abdelkrim ouarzaz",
+    "AdresseA": "شارع الطاهر بن عبد الكريم ",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BARAEEM ASSIGHAR",
+    "NOM_ETABA": "البراعم الصغار",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 41 حي القدس",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al forsane",
+    "NOM_ETABA": "الفرسان",
+    "AdresseL": "",
+    "AdresseA": "حي المسيرة رقم 150 ",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tarik al houda b",
+    "NOM_ETABA": "طريق الهدى ب",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OUAHDA",
+    "NOM_ETABA": "مؤسسة الوحدة للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM LBANINE",
+    "NOM_ETABA": "أم البنين",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي المحمدي رقم 1296",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BARAEEM ",
+    "NOM_ETABA": "البراعم",
+    "AdresseL": "NULL",
+    "AdresseA": " ايت كظيف الجديد",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAYYANE ARRABII",
+    "NOM_ETABA": "ريان الربيع",
+    "AdresseL": "HAY SISD HSSAINE",
+    "AdresseA": "حي سيدي احساين",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achourok",
+    "NOM_ETABA": "الشروق",
+    "AdresseL": "BP 462 OUARZAZATE",
+    "AdresseA": "شارع النصر 462",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Ali",
+    "NOM_ETABA": "معهد علي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تيشكا ورزازات",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KHALILIA",
+    "NOM_ETABA": "خليليا",
+    "AdresseL": "68 lot marche verte massira ",
+    "AdresseA": "حي المسيرة رقم 68",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAYANE PRINTEMPS",
+    "NOM_ETABA": "ريان الربيع RP",
+    "AdresseL": "NULL",
+    "AdresseA": "حي سيدي احساين بناصر",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chateau d Ancely",
+    "NOM_ETABA": "CHATEAU D ANCELY للتعليم الأولي و التعليم المدرسي الخصوصي",
+    "AdresseL": "16 LOTISSEMENT CENTRALE ",
+    "AdresseA": "رقم 16  تجزئة المركز   ",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ATLAS",
+    "NOM_ETABA": "مؤسسة الأطلس",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الأطلس ",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SCOLAIRE THE EXELLENCE SCHOOL ",
+    "NOM_ETABA": "مؤسسة التميز للتعليم الخصوصي",
+    "AdresseL": "N 106 HAY SIDI HSSAINE BNNACEU",
+    "AdresseA": "  رقم 106 حي سيدي احساين بناصر",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT WAHYO AL QALAM",
+    "NOM_ETABA": " مؤسسة وحي القلم للتعليم الأولي الخصوصي",
+    "AdresseL": "N 31 HAY AL WAHDA ",
+    "AdresseA": "رقم 31 حي الوحدة ",
+    "COMMUNE": "Ouarzazate ",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

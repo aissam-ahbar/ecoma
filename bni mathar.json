@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S/S BINI MATHAR CENTRE",
+    "NOM_ETABA": "م/م بني مطهر المركز",
+    "AdresseL": "QARTIER OULED KADDOUR COMMUNE BNI MATHAR",
+    "AdresseA": "دوار اولاد قدور",
+    "COMMUNE": "Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI DAOUD CENTRE",
+    "NOM_ETABA": "م/م سيدي داود المركزية",
+    "AdresseL": "QARTIER MILITAIRE COMMUNE BNI MATHAR",
+    "AdresseA": "دوار سيدي داود",
+    "COMMUNE": "Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN HAZM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "OULAD ALI LAMJADIB BENI MATHAR",
+    "AdresseA": "اولاد علي  جماعة بني مطهر",
+    "COMMUNE": "Bni Mathar",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

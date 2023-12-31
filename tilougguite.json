@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TILOUGUITE",
+    "NOM_ETABA": "ثانوية تيلوكيت الإعدادية",
+    "AdresseL": "QUARTIER ADMINISTRATIF TILOUGUITE",
+    "AdresseA": "الحي الإداري تبلوكيت",
+    "COMMUNE": "Tilougguite",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE TILOUGUIT",
+    "NOM_ETABA": "مركزية تيلوكيت",
+    "AdresseL": "COMMUNE TILOUGUIT CENTRE  ",
+    "AdresseA": "جماعة تيلوكيت المركز ",
+    "COMMUNE": "Tilougguite",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IMI NOUARG",
+    "NOM_ETABA": "مركزية إمي نوارك",
+    "AdresseL": "DOUAR IMI NOUAREG ",
+    "AdresseA": "دوار إمي نوارك ",
+    "COMMUNE": "Tilougguite",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT HSSAINE ",
+    "NOM_ETABA": "مركزية آيت حساين",
+    "AdresseL": "DOUAR AIT HSSAINE",
+    "AdresseA": "دوار ايت احساين ",
+    "COMMUNE": "Tilougguite",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TILOUGUITE",
+    "NOM_ETABA": "الثانوية التأهيلية تيلوكيت",
+    "AdresseL": "CENTRE COMMUNE TILOUGUITE",
+    "AdresseA": "مركز جماعة تيلوكيت",
+    "COMMUNE": "Tilougguite",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

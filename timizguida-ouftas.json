@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S AIT IZZEM",
+    "NOM_ETABA": "م.م ايت ازم",
+    "AdresseL": "DOUAR AIT IZZEM TIMZGUIDA OUFATASS",
+    "AdresseA": "دوار ايت إزم تمزكيدة اوفتاس",
+    "COMMUNE": "Timizguida-Ouftas",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ZAOUIAT LOUDA",
+    "NOM_ETABA": "م.م. زاوية لوضا",
+    "AdresseL": "DOUAR TABAAYAT TIMZGUIDA OUFATASS",
+    "AdresseA": "دوار تبعياط تيمزكيدة اوفتاس",
+    "COMMUNE": "Timizguida-Ouftas",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

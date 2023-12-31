@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS TASSEDERMT",
+    "NOM_ETABA": "م.م تسدرمت",
+    "AdresseL": "DOUAR   BOUTOUGA C TISRASSE aoulouz",
+    "AdresseA": "د. بوتوكا   تسراس  اولوز",
+    "COMMUNE": "Tisrasse",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMIDER",
+    "NOM_ETABA": "م.م إميضر",
+    "AdresseL": "DOUAR   IMDER C TISRASSE",
+    "AdresseA": "د. إميضر تسراس",
+    "COMMUNE": "Tisrasse",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAZYOKT",
+    "NOM_ETABA": "م.م تازيوكت",
+    "AdresseL": "DOUAR BOUMAZIR Commune TISRASSE ",
+    "AdresseA": "دوار بومازير جماعة تيسراس ",
+    "COMMUNE": "Tisrasse",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

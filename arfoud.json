@@ -1,0 +1,172 @@
+[
+  {
+    "NOM_ETABL": "MOULAY YOUCEF",
+    "NOM_ETABA": "مولاي يوسف",
+    "AdresseL": "AVENUE MOHAMED 5 ",
+    "AdresseA": "شارع محمد الخامس ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIALE ARFOUD",
+    "NOM_ETABA": "الثانوية الاعدادية ارفود",
+    "AdresseL": "Centre Arfoud  municipalité Arfoud ",
+    "AdresseA": "مركز ارفود  بلدية ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ANAS IBNOU MALIK",
+    "NOM_ETABA": "انس ابن مالك",
+    "AdresseL": "RUE EL MADARISS ERFOUD",
+    "AdresseA": "زنقة المدارس ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "إبن رشد",
+    "AdresseL": "RUE MOHAMED EL BAKKALI ALHAY LJADID ERFOUD",
+    "AdresseA": " زنقة محمد البقالي الحي الجديد ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY IDRISS 1",
+    "NOM_ETABA": "مولاي ادريس الأول",
+    "AdresseL": "CENTRE ERFOUD",
+    "AdresseA": "ارفود المركز",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMIRA LALLA MERIEM",
+    "NOM_ETABA": "الأميرة للا مريم",
+    "AdresseL": "RUE MOURITANIA ERFOUD",
+    "AdresseA": "زنقة موريطانيا ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ALKHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "RUE EL HAMRI ERFOUD",
+    "AdresseA": "زنقة الحمري ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EN-NAKHIL",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "HAY EL JADID ERFOUD",
+    "AdresseA": "الحي الجديد  ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KOUDYATE DRAOUA",
+    "NOM_ETABA": "كودية الدراوة",
+    "AdresseL": "KOUDYATE DRAOUA ARFOUD",
+    "AdresseA": "كدية دراوة  ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MAARAKATE TIGHMARTE",
+    "NOM_ETABA": "مدرسة معركة تغمرت ",
+    "AdresseL": "CENTRE ERFOUD",
+    "AdresseA": "ارفود المركز",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " HAY ESSALAM",
+    "NOM_ETABA": " حي السلام",
+    "AdresseL": "HAY ESSALAM",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL JADIDA ERFOUD",
+    "NOM_ETABA": "الثانوية التأهيلية الجديدة أرفود ",
+    "AdresseL": "ERFOUD",
+    "AdresseA": "ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد ",
+    "AdresseL": "CITE ESSALAM ERFOUD",
+    "AdresseA": "حي السلام ارفود",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ARRAZI",
+    "NOM_ETABA": "الثانوية التأهيلية الرازي",
+    "AdresseL": "Bp 89  route Errissani arfoud",
+    "AdresseA": "ص.ب 89 طريق الريصاني ارفود ",
+    "COMMUNE": "Arfoud",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "iqraa essalam2",
+    "NOM_ETABA": "اقرا السلام 2",
+    "AdresseL": "AVENU MLY ISMAIL",
+    "AdresseA": "شارع مولاي اسماعيل",
+    "COMMUNE": "Arfoud ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANFAL ERFOUD",
+    "NOM_ETABA": "الانفال ارفود",
+    "AdresseL": "",
+    "AdresseA": "زنقة المدارس ",
+    "COMMUNE": "Arfoud ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "iqrae essalam",
+    "NOM_ETABA": "اقرأ السـلام",
+    "AdresseL": "av: my ismail N: 13 ",
+    "AdresseA": "ارفود",
+    "COMMUNE": "Arfoud ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

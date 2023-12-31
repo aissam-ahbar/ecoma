@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "OULAD ZAID",
+    "NOM_ETABA": "اولاد زايد",
+    "AdresseL": "DOUAR OULAD ZAID COMMUNE LAGHOUALEM",
+    "AdresseA": "دوار أ ولاد  زايد  جماعة  الغوالم الرماني",
+    "COMMUNE": "Laghoualem",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIBARA",
+    "NOM_ETABA": "صيبارة",
+    "AdresseL": "DOUAR SIBARA COMMUNE LAGHOUALEM",
+    "AdresseA": "دوار صيبارة جماعة الغوالم",
+    "COMMUNE": "Laghoualem",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAOUZIE",
+    "NOM_ETABA": "التوزيع",
+    "AdresseL": "had laghoualem  COMMUNE LAGHOUALEM",
+    "AdresseA": "احد الغوالم ج الغوالم",
+    "COMMUNE": "Laghoualem",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAZAZBA",
+    "NOM_ETABA": "العزازبة",
+    "AdresseL": "DOUAR LAAZAZBA COMMUNE LAGHOUALEM",
+    "AdresseA": "دوار العزازبة ج الغوالم",
+    "COMMUNE": "Laghoualem",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGDADRA",
+    "NOM_ETABA": "الكدادرة",
+    "AdresseL": "DOUAR LAGDADRA COMMUNE LAGHOUALEM",
+    "AdresseA": "دوار سيدي منصور الكدادرة - جماعة : أحد الغوالم",
+    "COMMUNE": "Laghoualem",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED BNOU TAYMIA",
+    "NOM_ETABA": "أحمد بن تيمية",
+    "AdresseL": "LAGHOUALEM CENTRE",
+    "AdresseA": "الغوالم المركز",
+    "COMMUNE": "Laghoualem",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

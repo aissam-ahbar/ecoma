@@ -1,0 +1,712 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKADER ESSAHELI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد القادر الساحلي",
+    "AdresseL": "hay essalam ",
+    "AdresseA": "حي السلام ",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE TARIK IBN ZIAD",
+    "NOM_ETABA": "الثانوية الإعدادية طارق بن زياد",
+    "AdresseL": "QUARTIER SELLALINE",
+    "AdresseA": "حي السلالين",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE EL MEHDI BEN BARKA",
+    "NOM_ETABA": " الثانوية الإعدادية المهدي بن بركة ",
+    "AdresseL": "lotissement attaa allah",
+    "AdresseA": "         تجزئة أطاع الله",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE ABI EL MAHASSINE",
+    "NOM_ETABA": "الثانوية الإعدادية أبي المحاسن",
+    "AdresseL": "ROUTE DE LARACHE COMMUNE KSAR KEBIR",
+    "AdresseA": "حي المسيرة الخضراء    طريق العرائش",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE IMAM MOUSSLIM",
+    "NOM_ETABA": "الثانوية الإعدادية الامام مسلم  ",
+    "AdresseL": "ROUTE DE RABAT COMMUNE KSAR EL KEBIR",
+    "AdresseA": "طريق الرباط",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE ALLAL BEN ABDALLAH ",
+    "NOM_ETABA": "الثانوية الإعدادية علال بن عبدالله ",
+    "AdresseL": "AVENUE MANSOUR EDDAHBI COMMUNE KSAR EL KEBIR",
+    "AdresseA": "شارع المنصور الذهبي",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE ALLAL LOUDIYI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الوديي ",
+    "AdresseL": "QUARTIER ESSALAM ",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE TABARI",
+    "NOM_ETABA": "الثانوية الإعدادية الطبري ",
+    "AdresseL": "BLAD ELHAOUARI",
+    "AdresseA": "بلاد الهواري",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ATTAOUHID",
+    "NOM_ETABA": "مدرسة التوحيد ",
+    "AdresseL": "ROUTE DE TATOUFT COMMUNE EL KSAR KEBIR",
+    "AdresseA": "طريق تطفت القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE YOUSSEF BNOU TACHAFINE",
+    "NOM_ETABA": "مدرسة يوسف بن تاشفين",
+    "AdresseL": "HAY ANDALOUSS COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي الأندلس القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FATIMA ANDALOUSSIA",
+    "NOM_ETABA": " مدرسة فاطمة الأندلسية ",
+    "AdresseL": "AVENUE ENNASR COMMUNE KSAR EL KEBIR",
+    "AdresseA": "شارع النصر القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI BOUAHMED",
+    "NOM_ETABA": "مدرسة سيدي بوأحمد",
+    "AdresseL": "AVENUE SIDI BOUAHMED COMMUNE KSAR EL KEBIR",
+    "AdresseA": "شارع سيدي بواحمد القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELKADER ESSADRAOUI",
+    "NOM_ETABA": "مدرسة عبدالقادر  السدراوي",
+    "AdresseL": "ROUTE DE RABAT hay sidi el kamel  KSAR EL KEBIR",
+    "AdresseA": "طريق الرباط حي سيدي الكامل القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI ALI LAKHMI",
+    "NOM_ETABA": "مدرسة سيدي علي اللخمي",
+    "AdresseL": "HAY MENAKEB  KSAR EL KEBIR",
+    "AdresseA": "حي المناكيب القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BIR  ANZARAN",
+    "NOM_ETABA": "مدرسة بئر انزران ",
+    "AdresseL": "HAY ESSALAM COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي السلام القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELMANZAH",
+    "NOM_ETABA": "مدرسة المنزه",
+    "AdresseL": "HAY MOASKAR COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي المعسكر القديم القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN KHALDOUN  KSAR ELKEBIR",
+    "NOM_ETABA": "مدرسة ابن خلدون  بالقصر الكبير",
+    "AdresseL": "AVENUE BALADIA COMMUNE KSAR EL KEBIR",
+    "AdresseA": "شارع لاغوس القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AAD  ELJADID",
+    "NOM_ETABA": "مدرسة العهد الجديد",
+    "AdresseL": "HAY MOASKAR COMMUNE KSAR EL KEBIR",
+    "AdresseA": "المعسكر القديم القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE PRINCE MOULAY RACHID",
+    "NOM_ETABA": "مدرسة الأمير مولاي رشيد",
+    "AdresseL": "HAY EL ANDALOUSSe  COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي الأندلس القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY ALI BOUGHALEB",
+    "NOM_ETABA": "مدرسة مولاي علي بوغالب",
+    "AdresseL": "HAY MOASKAR  KADIM COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي المعسكر القديم القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI BELABBASS",
+    "NOM_ETABA": "مدرسة سيدي بلعباس",
+    "AdresseL": "HAY SIDI BELABBASS COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي سيدي بلعباس القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "   مدرسة علال بن عبد الله",
+    "AdresseL": "HAY AL MASSIRA KHDRA COMMUNE KSAR EL KBIR",
+    "AdresseA": "حي المسيرة الخضراء القصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ECHAHID MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "مدرسة الشهيد محمد الزرقطوني",
+    "AdresseL": "HAY DAR DOUKHANE COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي دار  الدخان",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAHID MOHAMED ELHAYANI",
+    "NOM_ETABA": "مدرسة الشهيد محمد الحياني",
+    "AdresseL": "HAY ESSALAM GROUPE A COMMUNE KSAR EL KRBIR",
+    "AdresseA": "حي السلام مجموعة أ القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUED EDDAHAB",
+    "NOM_ETABA": "مدرسة وادي الذهب",
+    "AdresseL": "HAY essalam COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي السلام القصرالكبير  جماعة القصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELMASSIRA ELKHADRA  KSARELKEBIR",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء بالقصر الكبير",
+    "AdresseL": "HAY ANDALOUS ROUTE LARACHE COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي الأندلس طريق العرائش القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TABARI",
+    "NOM_ETABA": "مدرسة الطبري",
+    "AdresseL": "Ecole tabari",
+    "AdresseA": "مدرسة الطبري",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BOUGHALEB EL HOUSSIN  SOUSSI",
+    "NOM_ETABA": " مدرسة بوغالب الحسين السوسي",
+    "AdresseL": "HAY nahda  COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي النهضة  طريق تطفت القديمة القصرالكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI ISSA BEN KACEM",
+    "NOM_ETABA": "مدرسة سيدي عيسى بن قاسم",
+    "AdresseL": "HAY assalammahfar hazan  COMMUNE KSSAR EL KEBIR",
+    "AdresseA": "حي السلام محفر حزان جماعة القصر الكبير ",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDALLAH CHEFCHAOUNI",
+    "NOM_ETABA": "مدرسة عبد الله الشفشاوني",
+    "AdresseL": "LOTISSEMENT LAMZOURI  COMMUNE KSAR EL KEBIR",
+    "AdresseA": "تجزئة المزوري القصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE DRISS EL HRIZI",
+    "NOM_ETABA": "مدرسة إدريس الحريزي",
+    "AdresseL": "HAY ESSALAM  COMMUNE KSAR EL KEBIR",
+    "AdresseA": "حي السلام القصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ETTABARI  2",
+    "NOM_ETABA": "مدرسة الطبري  2",
+    "AdresseL": "OULAD HMAID KSAR ELKEBIR",
+    "AdresseA": "أولاد حمايد القصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU ZOHR",
+    "NOM_ETABA": "مدرسة ابن زهر",
+    "AdresseL": "ibnou zohr hay assalam ksar el kebir",
+    "AdresseA": "مدرسة ابن زهر حي السلام القصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JABER IBNOU HAYANE",
+    "NOM_ETABA": "مدرسة جابر ابن حيان",
+    "AdresseL": "lottissement ZEKANE BLAD EL HAWARI",
+    "AdresseA": "تجزئة الزقان بلاد الهواري",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AZIZA ALAZRAK",
+    "NOM_ETABA": "مدرسة العزيزة الأزرق",
+    "AdresseL": "LOTISSEMENT SAADA KSAR KEBIR",
+    "AdresseA": "تجزئة السعادة بالقصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELMANSSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية التأهيلية المنصور الذهبي",
+    "AdresseL": "AVENUE MANSOUR EDDAHBI COMMUNE KSAR KEBIR",
+    "AdresseA": "شارع المنصور الذهبي",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MOHAMMADIA",
+    "NOM_ETABA": "الثانوية التأهيلية المحمدية",
+    "AdresseL": "AVENUE ROUTE DE TATOFT ",
+    "AdresseA": "شارع طريق تطفت",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUED EL MAKHAZINE",
+    "NOM_ETABA": "الثانوية التأهيلية وادي المخازن للتعليم الأصيل",
+    "AdresseL": "ROUTE DE TATOFT COMMUNE KSAR EL KEBIR",
+    "AdresseA": "طريق تطفت",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AHMED ERRACHIDI",
+    "NOM_ETABA": "الثانوية التأهيلية أحمد الراشدي",
+    "AdresseL": "HAY ESSALAM ",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OMAR IBNOU ALKHATTAB",
+    "NOM_ETABA": "الثانوية التأهيلية عمر بن الخطاب ",
+    "AdresseL": "KSAR KEBIR",
+    "AdresseA": "القصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AHMED EJBARI",
+    "NOM_ETABA": "الثانوية التأهيلية أحمد الجباري",
+    "AdresseL": "QUARTIER OULAD HMAID KSAR KEBIR",
+    "AdresseA": "حي اولاد احمايد القصر الكبير",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKADER NAKHCHA",
+    "NOM_ETABA": "الثانوية التأهيلية عبد القادر نخشى",
+    "AdresseL": "QUARTIER OROBA RUE 8",
+    "AdresseA": "حي العروبة زنقة 8",
+    "COMMUNE": "Ksar El Kebir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL ABTAL",
+    "NOM_ETABA": "الأبطال",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة أطاع الله رقم 257",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALINSSAF JASSIM",
+    "NOM_ETABA": "الإنصاف جاسم",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الأندلس مجموعة أ درب الطراب",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achbal mounia",
+    "NOM_ETABA": "أشبال مونية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة أطاع الله رقم 245",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AKHAWAT",
+    "NOM_ETABA": "الأخوات",
+    "AdresseL": "HAY OROUBA GR A RUE N 16",
+    "AdresseA": "حي العروبة مجموعة أ زنقة 1 رقم",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "benmassaoud",
+    "NOM_ETABA": "بنمسعود",
+    "AdresseL": "place lmers ",
+    "AdresseA": "الكائنة بساحة المرس ",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nafis",
+    "NOM_ETABA": "النفيس",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة الخضراء مجموعة د رق",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chemin de reussite",
+    "NOM_ETABA": "طريق النجاح",
+    "AdresseL": "161 lot oued el makhazine",
+    "AdresseA": "161 تجزئة وادي المخازن",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE INTERNATIONAL DE KSAR",
+    "NOM_ETABA": "المدرسة الدولية للقصر",
+    "AdresseL": "116-117 lot attalah 2 ksar el ",
+    "AdresseA": "تجزئة اطاع  الله 2 رقم 116-117",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIM",
+    "NOM_ETABA": "ريم",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق تطفت، رقم 312، دوار العسك",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Okad arejdane",
+    "NOM_ETABA": "عكاظ أرجدان",
+    "AdresseL": "",
+    "AdresseA": "حي المسيرة الخضراء، م أ، زنقة ",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HORIZON LOINTAIN",
+    "NOM_ETABA": "الأفق البعيد",
+    "AdresseL": "",
+    "AdresseA": "حي النهضة مجموعة د زنقة 26 رقم",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ALBAB",
+    "NOM_ETABA": "الألباب",
+    "AdresseL": "SIDI REDOUANE LOT CHOUROUK RUE",
+    "AdresseA": "حي سيدي رضوان، تجزئة الشروق، ز",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL KAOUTAR",
+    "NOM_ETABA": "الكوثر",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الوادي الجديد",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole OKAD",
+    "NOM_ETABA": " مدرسة عكاض ",
+    "AdresseL": "route de Larache N°:168",
+    "AdresseA": "طريق العرائش. رقم 168",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kenz al maarifa",
+    "NOM_ETABA": "كنز المعرفة",
+    "AdresseL": "lotissement hamza rue 1 n°:370",
+    "AdresseA": "تجزئة حمزة زنقة 1رقم 370",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MICHAAL AL MAARIFA",
+    "NOM_ETABA": "مشعل المعرفة",
+    "AdresseL": "",
+    "AdresseA": "حي الأندلس مجموعة د زنقة 20 رق",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zahraa alkassr alkabir",
+    "NOM_ETABA": " زهراء القصر الكبير للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "المجمع السكني الزهراء طريق الع",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KASR ELMAARIF",
+    "NOM_ETABA": "قصر المعارف",
+    "AdresseL": "quartier zahraa , route de lar",
+    "AdresseA": "حي الزهراء، طريق العرائش",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tarik ibn ziad ",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "",
+    "AdresseA": "حي البساتين  زنقة 2 رقم 14 ",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL NADA PRESCOLAIRE",
+    "NOM_ETABA": "الندى للتعليم الاولي",
+    "AdresseL": "",
+    "AdresseA": "حي المعسكر القديم رقم 6",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ICHRAK PRESCOLAIRE",
+    "NOM_ETABA": "إشراق للتعليم الاولي",
+    "AdresseL": "Douar oulad hmid",
+    "AdresseA": "دوار أولاد حميد",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADAE HABAT AL OUYOUN PRESCOLAIRE",
+    "NOM_ETABA": "فضاء حبات العيون للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع سيدي محمد فادلي رقم 15 سي",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "REHAB AL IMAN",
+    "NOM_ETABA": "رحاب الايمان ",
+    "AdresseL": "hay ferfara route de larache",
+    "AdresseA": "حي الفرفارة طريق العرائش",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADAE AL MAHD SAGHIR PRESCOLAIRE",
+    "NOM_ETABA": "فضاء المهد الصغير للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "مجموعة بن جلون زنقة 11 رقم 34",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibnou  Rochd el jadida",
+    "NOM_ETABA": "المدرسة الجديدة  ابن رشد",
+    "AdresseL": "avenue oued el makhazin",
+    "AdresseA": "شارع وادي المخازن",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL HOUDA",
+    "NOM_ETABA": "مؤسسة الهدى",
+    "AdresseL": "Route de Larache, Hay Farfara",
+    "AdresseA": "طريق العرائش، حي الفرفارة",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Erifaie ",
+    "NOM_ETABA": "مدرسة الرفاعي",
+    "AdresseL": "Fatima El Andaloussia N° 20 - ",
+    "AdresseA": "فاطمة الأندلسية رقم 20 - جماعة",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ERIFAIE",
+    "NOM_ETABA": " ثانوية الرفاعي ",
+    "AdresseL": "quartier alsalam groupe a rue ",
+    "AdresseA": "حي السلام مجموعة (ا) زنقة 2 رق",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ETTAOUD",
+    "NOM_ETABA": "مؤسسة الطود",
+    "AdresseL": "Lot taoud 2 route de rabat ksa",
+    "AdresseA": "تجزئة الطود 2 طريق الرباط القص",
+    "COMMUNE": "Ksar El Kebir ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

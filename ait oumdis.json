@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIT OUMDIS",
+    "NOM_ETABA": "ثانوية ايت اومديس  الاعدادية",
+    "AdresseL": "Centre commune AIT OUMDIS",
+    "AdresseA": "مركز جماعة ايت اومديس",
+    "COMMUNE": "Ait Oumdis",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT MOUSSA",
+    "NOM_ETABA": "مركزية آيت موسى",
+    "AdresseL": "DOUAR AIT MOUSSA",
+    "AdresseA": "دوار ايت موسى ",
+    "COMMUNE": "Ait Oumdis",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIZERT",
+    "NOM_ETABA": "مركزية تيزرت",
+    "AdresseL": "DOUAR TIZERT  ",
+    "AdresseA": "دوار تيزرت ",
+    "COMMUNE": "Ait Oumdis",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ISSOUAL",
+    "NOM_ETABA": "مركزية اسوال",
+    "AdresseL": "DOUAR ISSOUAL",
+    "AdresseA": "دوار اسوال ",
+    "COMMUNE": "Ait Oumdis",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TASGUENTE",
+    "NOM_ETABA": "مركزية تسكنت",
+    "AdresseL": "DOUAR TASGUENTE",
+    "AdresseA": "دوار تسكنت",
+    "COMMUNE": "Ait Oumdis",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TARGA",
+    "NOM_ETABA": "مركزية تاركا",
+    "AdresseL": "DOUAR TARGA ",
+    "AdresseA": "دوار تاركا ",
+    "COMMUNE": "Ait Oumdis",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

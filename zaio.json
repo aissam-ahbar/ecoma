@@ -1,0 +1,192 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ALLAL AL FASSI 2",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي 2",
+    "AdresseL": "MUNICIPALITE ZAIO CENTRE",
+    "AdresseA": "مركز زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ALLAL AL FASSI 1",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي 1",
+    "AdresseL": "ZAIO CENTRE",
+    "AdresseA": "زايو المركز",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  SABRA",
+    "NOM_ETABA": "الثانوية الإعدادية صبرا",
+    "AdresseL": "ZAIO CENTRE",
+    "AdresseA": "زايو المركز",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELKRIM KHATTABI",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الكريم الخطابي",
+    "AdresseL": "RUE SIDI OTHMANE MUNICIPALITE ZAIO",
+    "AdresseA": "شارع سيدي عثمان     زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDALLAH IBN YASSINE",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الله بن ياسين",
+    "AdresseL": "HAY AL JADID MUNICIPALITE ZAIO",
+    "AdresseA": "الحي الجديد     زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AMAL",
+    "NOM_ETABA": "المدرسة الابتدائية الامل",
+    "AdresseL": "HAY AL AMAL MUNICIPALITE ZAIO",
+    "AdresseA": "حي الامل  -  زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "المدرسة الابتدائية صلاح الدين الأيوبي",
+    "AdresseL": "ZAIO CENTRE BP114 MUNICIPALITE ZAIO",
+    "AdresseA": "زايو المركز : ص ب : 114 بلدية زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU BASSAM",
+    "NOM_ETABA": "المدرسة الابتدائية ابن بسام",
+    "AdresseL": "RUE AL MASSIRA MUNICIPALITE ZAIO",
+    "AdresseA": "شارع المسيرة  بلدية زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL HASSANE AL YOUSSI",
+    "NOM_ETABA": "المدرسة الابتدائية الحسن اليوسي",
+    "AdresseL": "HAY sidi othman est MUNICIPALITE ZAIO",
+    "AdresseA": "حي سيدي عثمان الشرقي   زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELKHALEQ ETTORRISS",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الخالق الطريس",
+    "AdresseL": "MUNICIPALITE ZAIO CENTRE",
+    "AdresseA": "زايو المركز",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OULAD EL BOURIMI",
+    "NOM_ETABA": "المدرسة الابتدائية أولاد البوريمي",
+    "AdresseL": "HAY MARCHAL commune zaio",
+    "AdresseA": "دوار أولاد البوريمي ",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI OTHMANE",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي عثمان",
+    "AdresseL": "QUARTIER SIDI OTHMANE MUNICIPALITE ZAIO",
+    "AdresseA": "حي  سيدي عثمان        زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL KHANSAE",
+    "NOM_ETABA": "المدرسة الابتدائية الخنساء",
+    "AdresseL": "AL OMRANE ZAIO",
+    "AdresseA": "العمران زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSANE IBN TABIT",
+    "NOM_ETABA": "الثانوية التأهيلية حسان بن ثابت",
+    "AdresseL": "ZAIO CENTRE",
+    "AdresseA": "زايو",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZAIO",
+    "NOM_ETABA": "الثانوية التأهيلية زايو",
+    "AdresseL": "ZAIO CENTRE",
+    "AdresseA": "زايو المركز",
+    "COMMUNE": "Zaio",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ANNASSIM",
+    "NOM_ETABA": "النسيم",
+    "AdresseL": "bd varsoufia N°21 quartier sou",
+    "AdresseA": "شارع فرسوفيا رقم رقم 21 حي الس",
+    "COMMUNE": "Zaio ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "amrou",
+    "NOM_ETABA": "عمرو",
+    "AdresseL": "",
+    "AdresseA": "زاوية زنقة لبنان وشارع الاندلس",
+    "COMMUNE": "Zaio ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour",
+    "NOM_ETABA": "النور",
+    "AdresseL": "NULL",
+    "AdresseA": " شارع الفلبين 31حي الأمل ",
+    "COMMUNE": "Zaio ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assaida fatimzahra",
+    "NOM_ETABA": "السيدة فاطمة الزهراء",
+    "AdresseL": "hay essalam zaio   nador",
+    "AdresseA": "حي السلام زايو الناظور",
+    "COMMUNE": "Zaio ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

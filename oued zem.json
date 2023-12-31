@@ -1,0 +1,312 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID SALAH OUERDANI",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد صالح ورداني ",
+    "AdresseL": "massira",
+    "AdresseA": "المسيرة",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR IBN AL KHATTAB",
+    "NOM_ETABA": "الثانوية الاعدادية عمر بن الخطاب",
+    "AdresseL": "RUE DES ECOLES MUNICIPALITE OUED ZEM",
+    "AdresseA": "زنقة  المدارس",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI  ABDELAZIZ",
+    "NOM_ETABA": "الثانوية الاعدادية سيدي عبد العزيز",
+    "AdresseL": "RUE OUED GROU MUNICIPALITE OUED ZEM",
+    "AdresseA": "زنقة  واد  كرو",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED ED DAHAB",
+    "NOM_ETABA": "الثانوية الاعدادية وادي الذهب",
+    "AdresseL": "HAY ZIDANYA MUNICIPALITE OUED ZEM",
+    "AdresseA": "حي  الزيدانية",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SAADIA",
+    "NOM_ETABA": "مدرسة السعدية",
+    "AdresseL": "HAY ZIDANIA MUNICIPALITE OUED ZEM",
+    "AdresseA": "حي  الزيدانية",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 20 AOUT",
+    "NOM_ETABA": "مدرسة 20 غشت",
+    "AdresseL": "ZANKAT SOUK AL HOUBOUB MUNICIPALITE OUED ZEM",
+    "AdresseA": "شارع الحبوب وادي زم",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY EL HASSAN",
+    "NOM_ETABA": "مدرسة مولاي الحسن",
+    "AdresseL": "AVENUE MOHAMMED V MUNICIPALITE OUED ZEM",
+    "AdresseA": "شارع  محمد  الخامس",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELAZIZ FECHTALI",
+    "NOM_ETABA": "مدرسة عبد العزيز الفشتالي",
+    "AdresseL": "PLACE BNI SMIR MUNICIPALITE OUED ZEM",
+    "AdresseA": "ساحة بني سمير",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ASMA BENT ABI BAKR",
+    "NOM_ETABA": "مدرسة أسماء بنت أبي بكر",
+    "AdresseL": "ZANKAT BENI KHIRANE ",
+    "AdresseA": "زنقة  بني   خيران",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NAJAH",
+    "NOM_ETABA": "مدرسة النجاح",
+    "AdresseL": "HAY SOUK JEDID MUNICIPALITE OUED ZEM",
+    "AdresseA": "حي السوق اجديد - وادي زم",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUED EL MAKHAZINE",
+    "NOM_ETABA": "مدرسة وادي المخازن",
+    "AdresseL": "HAY KOREA MUNICIPALITE OUED ZEM",
+    "AdresseA": "حي  القريعة     بواد زم",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU BASSAM",
+    "NOM_ETABA": "مدرسة ابن بسام",
+    "AdresseL": "HAY ZIDANIA MUNICIPALITE OUED ZEM",
+    "AdresseA": "حي  الزيدانية",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHOUHADAE",
+    "NOM_ETABA": "مدرسة الشهداء",
+    "AdresseL": "ZANKAT SOUK HOBOUB MUNICIPALITE OUED ZEM",
+    "AdresseA": "زنقة  سوق  الحبوب",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN AMID",
+    "NOM_ETABA": "مدرسة ابن العميد",
+    "AdresseL": "ZANKAT OUED GROU MUNICIPALITE OUED ZEM",
+    "AdresseA": "زنقة  واد  اكرو",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAOUKI",
+    "NOM_ETABA": "مدرسة شوقي",
+    "AdresseL": "RUE DES MOUJAHIDINE MUNICIPALITE OUED ZEM",
+    "AdresseA": "زنقة  المجاهدين",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN HABBOUS",
+    "NOM_ETABA": "مدرسة ابن حبوس",
+    "AdresseL": "RUE  SIDI SALEH MUNICIPALITE OUED ZEM ",
+    "AdresseA": "زنقة سيدي صالح",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAHID BENDAOUD",
+    "NOM_ETABA": "مدرسة الشهيد بنداود",
+    "AdresseL": "HAY ZIDANIA MUNICIPALITE OUED ZEM",
+    "AdresseA": "حي الحرشة",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU ZAYDOUNE",
+    "NOM_ETABA": "مدرسة ابن زيدون",
+    "AdresseL": "HAY MASSIRA MUNICIPALITE OUED ZEM",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "مدرسة علال بن عبد الله",
+    "AdresseL": "DERB LAAFOU  MUNICIPALITE OUED ZEM",
+    "AdresseA": "درب  العفو",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ACHAHIDA AICHA ELBERNI",
+    "NOM_ETABA": "مدرسة الشهيدة عائشة البرني",
+    "AdresseL": "LOTISSEMENT ENNASR oued zem",
+    "AdresseA": "تجزئة النصر- واد وم",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SALAH EDDINE EL AYOUBI",
+    "NOM_ETABA": "مدرسة صلاح الدين الايوبي",
+    "AdresseL": "lotissement al boustane",
+    "AdresseA": "تجزئة البستان",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MOUKAWAMA",
+    "NOM_ETABA": "الثانوية التاهيلية المقاومة",
+    "AdresseL": "OUED ZEM",
+    "AdresseA": "وادي زم",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN TOFAIL",
+    "NOM_ETABA": "الثانوية التاهيلية ابن طفيل",
+    "AdresseL": "RUE DES ECOLES ",
+    "AdresseA": "زنقة  المدارس",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MOKHTAR SOUSSI",
+    "NOM_ETABA": "الثانوية التأهيلية المختار السوسي",
+    "AdresseL": "RUE Ahmed Rhadaoui  ",
+    "AdresseA": "زنقة احمد الغداوي",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "BOULEVARD MASSIRA MUNICIPALITE OUED ZEM",
+    "AdresseA": "شارع  المسيرة",
+    "COMMUNE": "Oued Zem",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire elgamrani",
+    "NOM_ETABA": "مجموعة مدارس الكمراني",
+    "AdresseL": "N° 12 BIS AVENUE AL MASSIRA- O",
+    "AdresseA": "رقم 12 مكرر شارع المسيرة- وادي",
+    "COMMUNE": "Oued Zem ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibn Al Haytam",
+    "NOM_ETABA": "مدرسة ابن الهيثم الخاصة",
+    "AdresseL": "N° 143, Zankat Kaid Changuiti ",
+    "AdresseA": "رقم 143، زنقة القائد الشنقيطي ",
+    "COMMUNE": "Oued Zem ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "complexe educatif aljazira",
+    "NOM_ETABA": "المركب التربوي الجزيرة",
+    "AdresseL": "rue marché aux grains",
+    "AdresseA": "زنقة سوق الحبوب",
+    "COMMUNE": "Oued Zem ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAwAFID",
+    "NOM_ETABA": "روافد",
+    "AdresseL": "Rue Marrakech  lot al amane  ",
+    "AdresseA": "زنقة  مراكش  حي الامان ",
+    "COMMUNE": "Oued Zem ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BASMA",
+    "NOM_ETABA": "البسمة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة السعادة الرقم 7",
+    "COMMUNE": "Oued Zem ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ABRAR",
+    "NOM_ETABA": "الابرار",
+    "AdresseL": "lotissement al wafaa  lakriaa",
+    "AdresseA": "تجزئة الوفاء  القريعة",
+    "COMMUNE": "Oued Zem ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

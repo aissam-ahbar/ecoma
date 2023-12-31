@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BEN CHAMSI",
+    "NOM_ETABA": "الثانوية الاعدادية عمر بن شمسي",
+    "AdresseL": " centre COMMUNE OUIJANE",
+    "AdresseA": "مركز جماعة وجان",
+    "COMMUNE": "Ouijjane",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ANNAKHIL CENTRE ASSAKA",
+    "NOM_ETABA": "م.م النخيل مركزية اسكا",
+    "AdresseL": "DOUAR ASSAKA",
+    "AdresseA": "دوار اسكا",
+    "COMMUNE": "Ouijjane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

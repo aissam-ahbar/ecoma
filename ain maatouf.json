@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL AIN MAATOUF",
+    "NOM_ETABA": "ثانوية عين معطوف الإعدادية",
+    "AdresseL": "DOUAR LOUKDA COMMUNE AIN MAATOUF TISSA",
+    "AdresseA": "دوار لكدى- جماعة عين معطوف -تيسة",
+    "COMMUNE": "Ain Maatouf",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AIN MAATOUF",
+    "NOM_ETABA": "م/م  عين معطوف",
+    "AdresseL": "DOUAR KHAROUBA COMMUNE AIN MAATOUF TISSA",
+    "AdresseA": "دوار الخروبة جماعة عين معطوف تيسة تاونات ",
+    "COMMUNE": "Ain Maatouf",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ADDALA",
+    "NOM_ETABA": "م/م  عدالة",
+    "AdresseL": "DOUAR ADDALA COMMUNE AIN MAATOUF TISSA",
+    "AdresseA": "دوار عدالة   جماعة عين معطوف تيسة",
+    "COMMUNE": "Ain Maatouf",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LOUKDA",
+    "NOM_ETABA": "م/م  لكدة",
+    "AdresseL": "DOUAR LOUKDA COMMUNE AIN MAATOUF  TISSA",
+    "AdresseA": "دوار لكدة جماعة عين معطوف تيسة",
+    "COMMUNE": "Ain Maatouf",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUM EL QORA",
+    "NOM_ETABA": "ثانوية أم القرى التأهيلية",
+    "AdresseL": "CENTRE COMMUNE AIN MAATOUF",
+    "AdresseA": "مركز جماعة عين معطوف",
+    "COMMUNE": "Ain Maatouf",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

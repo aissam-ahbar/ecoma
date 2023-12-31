@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "AL IRFANE",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "SOUK KHEMIS NKHILA COMMUNE BRACHOUA",
+    "AdresseA": "النخيلة المركز ج البراشوة",
+    "COMMUNE": "Brachoua",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LKAID BOUAZZA",
+    "NOM_ETABA": "القايد بوعزة",
+    "AdresseL": "DOUAR OULAD MIMOUNE 2  COMMUNE BRACHOUA",
+    "AdresseA": "دوار القايد بوعزة جماعة البراشوة",
+    "COMMUNE": "Brachoua",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AKKAD",
+    "NOM_ETABA": "العقاد",
+    "AdresseL": "HAD LABRACHOUA CENTRE COMMUNE  BRACHOUA",
+    "AdresseA": "حد البراشوة المركز",
+    "COMMUNE": "Brachoua",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN EL HAITAM",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "DOUAR DIOUCHA COMMUNE BRACHOUA",
+    "AdresseA": "دوار الديوشة ج البراشوة",
+    "COMMUNE": "Brachoua",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED TAYEB BEN HIMA",
+    "NOM_ETABA": "احمد الطيب بن هيمة",
+    "AdresseL": "CENTRE HAD BRACHOUA COMMUNE HAD BRACHOUA",
+    "AdresseA": " البراشوة  المركز",
+    "COMMUNE": "Brachoua",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

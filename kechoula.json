@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S LAKRARDA",
+    "NOM_ETABA": "م م  لكراردة",
+    "AdresseL": "DOUAR LAKRARDA KECHOULA",
+    "AdresseA": "دوار الكراردة",
+    "COMMUNE": "Kechoula",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SHAHLA",
+    "NOM_ETABA": "م م اصهاهلا",
+    "AdresseL": "DOUAR AIT ELMAMOUN  COMMUNE KECHOULA",
+    "AdresseA": "دوار ايت المامون جماعة كشولة",
+    "COMMUNE": "Kechoula",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

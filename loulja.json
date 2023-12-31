@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL OULJA",
+    "NOM_ETABA": "ثانوية الولجة الإعدادية",
+    "AdresseL": "COMMUNE LOULJA CENTRE KARIA BA MOHAMED",
+    "AdresseA": "مركز جماعة الولجة-قرية با محمد",
+    "COMMUNE": "Loulja",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS HARKAOUIYINE",
+    "NOM_ETABA": "م/م  الحركاويين",
+    "AdresseL": "DOUAR HARKAOUINE COMMUNE LOULJA KARIA",
+    "AdresseA": "دوار الحركاويين-جماعة الولجة القرية",
+    "COMMUNE": "Loulja",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULAD SLIMANE",
+    "NOM_ETABA": "م/م  اولاد سليمان",
+    "AdresseL": "DOUAR AOULAD SLIMAN COMMUNE LOULJA KARIA",
+    "AdresseA": "دوارولاد سليمان  -جماعة الولجة",
+    "COMMUNE": "Loulja",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULAD BEN TAHAR",
+    "NOM_ETABA": "م/م  اولاد بن الطاهر",
+    "AdresseL": "DOUAR KJAOUA COMMUNE LOULJA KARIA",
+    "AdresseA": "دواركجاوة  -جماعة الولجة",
+    "COMMUNE": "Loulja",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

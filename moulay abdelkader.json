@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "TABIT BNOU KORRA",
+    "NOM_ETABA": "تابت ابن قرة",
+    "AdresseL": "DOUAR LAMARIF SADRA COMMUNE MOULAY ABDELKADER",
+    "AdresseA": "دوار لمعاريف السدرة",
+    "COMMUNE": "Moulay Abdelkader",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MILOUD",
+    "NOM_ETABA": "اولاد  ميلود",
+    "AdresseL": "DOUAR OULAD MILOUD",
+    "AdresseA": "دوار اولاد ميلود",
+    "COMMUNE": "Moulay Abdelkader",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

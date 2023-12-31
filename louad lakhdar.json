@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "ZEMAMRA CENTRE",
+    "NOM_ETABA": "الزمامرة المركزية",
+    "AdresseL": "DOUAR ZEMaMRA  COMMUNE LOUED LAKHDER",
+    "AdresseA": "دوار الزمامرة جماعة الواد الاخضر",
+    "COMMUNE": "Louad Lakhdar",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD CHAIB CENTRE",
+    "NOM_ETABA": "اولاد شعيب المركزية",
+    "AdresseL": "DOUAR LAGHNADRA COMMUNE LOUED LAKHDAR",
+    "AdresseA": "دوار الغنادرة جماعة الواد الاخضر",
+    "COMMUNE": "Louad Lakhdar",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

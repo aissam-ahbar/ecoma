@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL QADI IYAD",
+    "NOM_ETABA": "الثانوية الإعدادية القاضي عياض",
+    "AdresseL": "CENTRE CR GTETER",
+    "AdresseA": " مركز جماعة الترابية لكطيطير",
+    "COMMUNE": "Gteter",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD SLIMANE",
+    "NOM_ETABA": "اولاد سليمان",
+    "AdresseL": "OULAD SLIMANE commune LAGTITIR",
+    "AdresseA": "اولاد سليمان جماعة لقطيطير",
+    "COMMUNE": "Gteter",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MOUSSA",
+    "NOM_ETABA": "اولاد موسى",
+    "AdresseL": "DOUAR OULED MOUSSA Cr gtitr",
+    "AdresseA": "دوار أولاد موسى  جماعة قطيطر",
+    "COMMUNE": "Gteter",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

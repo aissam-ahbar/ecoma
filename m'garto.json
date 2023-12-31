@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": " MEGARTO CENTRE",
+    "NOM_ETABA": "مركزية مكارطو",
+    "AdresseL": "DOUAR LAKEHALECH MEGARTO",
+    "AdresseA": "دوار كحالش جماعة مكارطو",
+    "COMMUNE": "M'Garto",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BEN ARIF",
+    "NOM_ETABA": "اولاد بنعريف",
+    "AdresseL": "DOUAR OULED BEN ARIF COMMUNE MGARTOU",
+    "AdresseA": "دوار اولاد بنعريف جماعة مكارطو",
+    "COMMUNE": "M'Garto",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHLOT CENTRE",
+    "NOM_ETABA": "مركزية لخلط",
+    "AdresseL": "DOUAR LAKHLOT COMMUNE MEGARTO",
+    "AdresseA": "دوار لخلط مكارطو",
+    "COMMUNE": "M'Garto",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR MRAH CENTRE",
+    "NOM_ETABA": "مركزية بئر مراح",
+    "AdresseL": "DOUAR OULAD MOUMEN COMMUNE MEGARTO",
+    "AdresseA": "دوار اولاد مومن مكارطو",
+    "COMMUNE": "M'Garto",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

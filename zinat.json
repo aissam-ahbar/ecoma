@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "college ABOU BAKR ALKADIRI",
+    "NOM_ETABA": "الثانوية الإعدادية أبو بكر القادري",
+    "AdresseL": "CR ZINAT",
+    "AdresseA": "جماعة الزينات",
+    "COMMUNE": "Zinat",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ss ZINATE",
+    "NOM_ETABA": "م.م الزينات",
+    "AdresseL": "Commune Rurale de ZinatProvince de Tétouan",
+    "AdresseA": "الجماعة القروية للزينات",
+    "COMMUNE": "Zinat",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "م.م صلاح الدين الأيوبي",
+    "AdresseL": "DOUAR MHARZA Commune ZINATE  ",
+    "AdresseA": "دوار المهارزة جماعة الزينات",
+    "COMMUNE": "Zinat",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

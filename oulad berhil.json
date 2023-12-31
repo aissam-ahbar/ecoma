@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "C.ALLAYMOUNE",
+    "NOM_ETABA": "ثإ.الليمون",
+    "AdresseL": "CENTRE OULAD BERHIL",
+    "AdresseA": "مركز اولاد برحيل",
+    "COMMUNE": "Oulad Berhil",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E HAROUN ERRACHID",
+    "NOM_ETABA": "م. هارون الرشيد",
+    "AdresseL": "DOUAR  OULAD BRAHIM OULAD BERHIL",
+    "AdresseA": "د. اولاد ابراهيم",
+    "COMMUNE": "Oulad Berhil",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHOUATATE",
+    "NOM_ETABA": "م.م الشواطات",
+    "AdresseL": "DOUAR  CHOUATATE MUNICIPALITE OULAD BERHIL",
+    "AdresseA": "د. الشواطات",
+    "COMMUNE": "Oulad Berhil",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ANNASSER",
+    "NOM_ETABA": "م.النصر",
+    "AdresseL": "CENTRE OULAD BERHIL MUNICIPALITE OULAD BERHIL",
+    "AdresseA": "مركز اولاد برحيل",
+    "COMMUNE": "Oulad Berhil",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL EL FASSI",
+    "NOM_ETABA": "مدرسة علال الفاسي",
+    "AdresseL": "MUNICIPALITE OULAD BERHIL",
+    "AdresseA": "بلدية أولاد برحيل",
+    "COMMUNE": "Oulad Berhil",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L DAKHLA",
+    "NOM_ETABA": "ثأ.الداخلة",
+    "AdresseL": "CENTRE OULAD BERHIL MLTE OULAD BERHIL",
+    "AdresseA": "مركزاولاد برحيل",
+    "COMMUNE": "Oulad Berhil",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L MOULAY YOUSSEF",
+    "NOM_ETABA": "ثأ. مولاي يوسف",
+    "AdresseL": "OULAD BERHIL route de marrakech",
+    "AdresseA": "اولاد برحيل طريق مراكش",
+    "COMMUNE": "Oulad Berhil",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "taleb katiri",
+    "NOM_ETABA": "طالب كثيري",
+    "AdresseL": "ROUTE AIN LAASSID BLOC3 n°29",
+    "AdresseA": "طريق عين العصيد بلوك 3 رقم 29",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Arrissala",
+    "NOM_ETABA": "الرسالة",
+    "AdresseL": "Route Ain Laassid Zaouit Sidi ",
+    "AdresseA": "طريق عين العصيد زاوية سيدي بون",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "NULL",
+    "AdresseA": "اولاد بلعيد",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SABIL ANNAJAH",
+    "NOM_ETABA": "سبيل النجاح",
+    "AdresseL": "NULL",
+    "AdresseA": "حي اولاد ابراهيم",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tanwir",
+    "NOM_ETABA": "التنوير",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع المسجد الكبير",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "abakirat al moustakbal",
+    "NOM_ETABA": "عباقرة المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الجديد أولاد برحيل تارودا",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANABIL",
+    "NOM_ETABA": "سنابل",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الجديد",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR EL NOUR",
+    "NOM_ETABA": "دار النور",
+    "AdresseL": "NULL",
+    "AdresseA": "اولاد عبو",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "elhouda",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "NULL",
+    "AdresseA": "حي اولاد بلعيد",
+    "COMMUNE": "Oulad Berhil ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

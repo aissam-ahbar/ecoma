@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AMAJJAOU",
+    "NOM_ETABA": "اعدادية امجاو",
+    "AdresseL": "COMMUNE AMAJJAOU",
+    "AdresseA": "جماعة امجاو",
+    "COMMUNE": "Amejjaou",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AMEJJAOU",
+    "NOM_ETABA": "م م امجاو",
+    "AdresseL": "COMMUNE AMEJJAOU CENTRE",
+    "AdresseA": "جماعة  امجاو  المركز",
+    "COMMUNE": "Amejjaou",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOURAMMANA",
+    "NOM_ETABA": "م م بورمانة",
+    "AdresseL": "COMMUNE AMEJJAOU ",
+    "AdresseA": "جماعة امجاو ",
+    "COMMUNE": "Amejjaou",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

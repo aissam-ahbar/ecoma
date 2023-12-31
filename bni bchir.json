@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MEKI ESSEDAHI",
+    "NOM_ETABA": "ثانوية المكي السداهي الإعدادية",
+    "AdresseL": "BNI BCHIR",
+    "AdresseA": "بني بشير",
+    "COMMUNE": "Bni Bchir",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUED MAHKEM",
+    "NOM_ETABA": "وادي محكم",
+    "AdresseL": "DOUAR OUED MAHKEM COMMUNE BNI BCHIR",
+    "AdresseA": "دواروادي محكم جماعة بني بشير",
+    "COMMUNE": "Bni Bchir",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TATAYACHT",
+    "NOM_ETABA": "تطياشت",
+    "AdresseL": "DOUAR TATAYECHT  COMMUNE BNI BCHIR",
+    "AdresseA": "دوارتطياشت جماعة بني بشير",
+    "COMMUNE": "Bni Bchir",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

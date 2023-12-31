@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C AL IMAM MOUSLIM",
+    "NOM_ETABA": "ثإ.الإمام مسلم",
+    "AdresseL": "CENTRE C AIT IGAS",
+    "AdresseA": "مركز أيت إكاس",
+    "COMMUNE": "Ait Igas",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS IBN ABBAD",
+    "NOM_ETABA": "م.م ابن عباد",
+    "AdresseL": "DOUAR  AIT TAMENTE AIT IGASs",
+    "AdresseA": "دوار ايت تامنت جماعة ايت اكاس",
+    "COMMUNE": "Ait Igas",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT MOUSSA",
+    "NOM_ETABA": "م.م ايت موسى",
+    "AdresseL": "DOUAR  AIT MOUSSA CAIT IGASS",
+    "AdresseA": "دوار ايت موسى جماعة ايت اكاس",
+    "COMMUNE": "Ait Igas",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL JOUHAR",
+    "NOM_ETABA": "م.م الجوهر",
+    "AdresseL": "DOUAR  TAAOUNYATE AL JOUHAR Com AIT IGAS ",
+    "AdresseA": "دوار تعاونية الجوهر جماعة ايت اكاس",
+    "COMMUNE": "Ait Igas",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELGHADIR",
+    "NOM_ETABA": "م.م الغدير",
+    "AdresseL": "DOUAR  IDAOUZERKI AIT IGAS",
+    "AdresseA": "أيت إكاس",
+    "COMMUNE": "Ait Igas",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

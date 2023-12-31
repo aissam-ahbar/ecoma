@@ -1,0 +1,712 @@
+[
+  {
+    "NOM_ETABL": "HALIMA SAADIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": "AV SIDI MED BEN ABDELLAH YAACOUB MANSOUR",
+    "AdresseA": "شارع سيدي محمد بن عبد الله يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN BASSAM",
+    "NOM_ETABA": "ابن بسام",
+    "AdresseL": "HAY ECHABAB YAACOUB MANSOUR",
+    "AdresseA": "حي الشباب يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL JOULANE",
+    "NOM_ETABA": "الجولان",
+    "AdresseL": "AV SIDI MED BEN ABDELLAH YAACOUB MANSOUR",
+    "AdresseA": "شارع  سيدي محمد بن عبدالله حي الأحباس يعقوب المنصو",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHAHID ALLAL BEN AHMED IMIK",
+    "NOM_ETABA": "الشهيد علال بن احمد إميك",
+    "AdresseL": "RUE 5 HAY LAHBASSE YAACOUB MANSOUR",
+    "AdresseA": "حي الأحباس الزنقة 5 جماعة يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI MADANI BELHOUSNI",
+    "NOM_ETABA": "سيدي المدني بلحسني",
+    "AdresseL": "AV EL MAJD QUARTIER INDUSTRIEL YAACOUB MANSOUR",
+    "AdresseA": "شارع المجد الحي الصناعي يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELAZIZ DINIA",
+    "NOM_ETABA": "عبدالعزيز دينية",
+    "AdresseL": "HAY AL AMAL 3 YAACOUB MANSOUR",
+    "AdresseA": "حي الأمل 3 إضافي يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BIR ANZARANE",
+    "NOM_ETABA": "بئر أنزران",
+    "AdresseL": "HAY EL MANZAH AVe EL MASSIRA YACOUB MANSOUR",
+    "AdresseA": "حي المنزه جماعة يعقوب المنصور الرباط",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABI HOURAIRA",
+    "NOM_ETABA": "ابي  هريرة",
+    "AdresseL": "secteur j3 LOT HAJ SLYMAN",
+    "AdresseA": "سكتور ج3 تجزئة الحاج سليمان",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI DAR AL GHIFARI  ",
+    "NOM_ETABA": "الثانوية الإعدادية أبي ذرالغفاري",
+    "AdresseL": "hay al fath",
+    "AdresseA": "حي الفتح ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ANNOUR ALMOUHAMMADI",
+    "NOM_ETABA": "النور  المحمدي",
+    "AdresseL": "AV MED BENABDELLAH CYM YAACOUB ELMANSOUR",
+    "AdresseA": "شارع سيدي محمد بن عبدالله يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YAACOUB ALMANSOUR",
+    "NOM_ETABA": "يعقوب المنصور",
+    "AdresseL": "AV MED BEN ABDELLAH CYM YAACOUB ELMANSOUR",
+    "AdresseA": "شارع محمد بن عبد الله،الأحباس،حي يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OKBA BNO NAFIEA",
+    "NOM_ETABA": "عقبة بن نافع",
+    "AdresseL": "AV MED BEN ABDELLAH CYM YAACOUB ELMANSOUR",
+    "AdresseA": "شارع سيدي محمد بنعبد الله ، يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELMALEK SAADI",
+    "NOM_ETABA": "عبد المالك السعدي",
+    "AdresseL": "RUE RAHMA 301 HAY RAJAA FI ALLA YAACOUB ELMANSOUR",
+    "AdresseA": "زنقة الرحمة 301 حي الرجاء في الله، يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA AZZAHRA",
+    "NOM_ETABA": "فاطمة الزهراء",
+    "AdresseL": "RUE ARRAHMA 301HAY RAJAA FIALLAH YAACOUB ELMANSOUR",
+    "AdresseA": "زنقة الرحمة  301 حي الرجاء في الله يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "AV ANNOUR CITE YAACOUB ELMANSOUR",
+    "AdresseA": "شارع الإخلاص حي يقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAKHLA",
+    "NOM_ETABA": "الداخلة",
+    "AdresseL": "boulevard sidi mohammed ben abdellah CYM",
+    "AdresseA": "شارع سيدي محمد بن عبدالله يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOUKINA BINT ELHOUSSAIN",
+    "NOM_ETABA": "سكينة بنت الحسين",
+    "AdresseL": "DAOIR GARAA CYM YAACOUB ELMANSOUR",
+    "AdresseA": "دوار الكرعة يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM ALI",
+    "NOM_ETABA": "الإمام علي",
+    "AdresseL": "DouaR alGARAA CYM YAACOUB ELMANSOUR",
+    "AdresseA": "القامرة حي يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNACHIA ALMOUHAMMADIA",
+    "NOM_ETABA": "الناشئة المحمدية",
+    "AdresseL": "HAY BOUHLAL ARRONDISSEMENT 5 YAACOUB ELMANSOUR",
+    "AdresseA": "حي بوهلال الدائرة 5 يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUHLAL",
+    "NOM_ETABA": "بوهلال",
+    "AdresseL": "AV BOUHLAL YAACOUB ELMANSOUR",
+    "AdresseA": "حي بوهلال حي يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH BNO YASSINE",
+    "NOM_ETABA": "عبد الله بن ياسين",
+    "AdresseL": "BOUHLAL YAACOUB ELMANSOUR",
+    "AdresseA": "بوهلال يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED ELHANSALI",
+    "NOM_ETABA": "أحمد الحنصالي",
+    "AdresseL": "BOUHLAL YAACOUB ELMANSOUR",
+    "AdresseA": "بوهلال يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED EL KHAMISS",
+    "NOM_ETABA": "محمد  الخامس",
+    "AdresseL": "CYM LAKOISSE YAACOUB ELMANSOUR",
+    "AdresseA": "الاقواس   يعقوب  المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED BEN YOUSSEF",
+    "NOM_ETABA": "محمد بن  يوسف",
+    "AdresseL": "AV LA MARCHE  EL KOUASS CYM",
+    "AdresseA": "شارع المسيرة  الاقواس   ي   م",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALAMAL",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "J 5 AMAL1 YACACOUB ELMANSOUR",
+    "AdresseA": "ج 5 امل 1ح ي م",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMMAR BNOU YASSIR",
+    "NOM_ETABA": "عمار بن ياسر",
+    "AdresseL": "avenue  chbanat  c  ym",
+    "AdresseA": "شارع الشبانات   يعقوب  المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED RAZI",
+    "NOM_ETABA": "محمد الرازي",
+    "AdresseL": "AV EL IJTIHAD YAACOUB ELMANSOUR",
+    "AdresseA": "شارع ا لاجتهاد   الاقواس   ي  م",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELMAGHREB ELARABI",
+    "NOM_ETABA": "المغرب العربي",
+    "AdresseL": "avenue el massira bittat cym   rabat",
+    "AdresseA": "شارع المسيرة  البيتات ح.ي.م - الرباط",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED ELMAKHAZIN",
+    "NOM_ETABA": "وادي المخازن",
+    "AdresseL": "AL AKOIS Amal 0 hay YAACOUB ELMANSOUR",
+    "AdresseA": " الأقواس أمل0 حي يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELAHD ELJADID",
+    "NOM_ETABA": "العهد الجديد",
+    "AdresseL": "AVENUE EL MASSIRA AMAL 3 YAACOUB ELMANSOUR",
+    "AdresseA": "شارع المسيرة امل 3 حي يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSAN ELMARRAKCHI",
+    "NOM_ETABA": "الحسن المراكشي",
+    "AdresseL": "AV EL MAJDE YAACOUB MANSOUR",
+    "AdresseA": "شارع المجد يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUKHTAR JAZOULIT",
+    "NOM_ETABA": "المختار جزوليت",
+    "AdresseL": "AVENUE EL FATH AL MASSIRA YAACOUB ELMANSOUR",
+    "AdresseA": "شارع الفتح المسيرة  يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSMARA",
+    "NOM_ETABA": "اسمارة",
+    "AdresseL": "HAY EL MASSIRA YAACOUB ELMANSOUR",
+    "AdresseA": "حي المسيرة يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FAKIH MOHAMMED GHAZI",
+    "NOM_ETABA": "الفقيه محمد غازي",
+    "AdresseL": "AMAL 4 SUPL YAACOUB ELMANSOUR",
+    "AdresseA": "امل 4 اضافي ح ي م       ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "AVENUE EL MASSIRA HAY EL MANZAH YAACOUB ELMANSOUR",
+    "AdresseA": "شارع المسيرة ،حي المنزه يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELFATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "hay el fath boulevard el fath yaacoub manssour",
+    "AdresseA": "حي الفتح شارع الفتح يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LHIZAM ALAKHDER",
+    "NOM_ETABA": "الحزام الأخضر",
+    "AdresseL": "HAY EL FATH  CYM  RABAT",
+    "AdresseA": "حي الفتح ح ي م الرباط",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "AV SIDI MED BEN ABDELLAH YAACOUB MANSOUR",
+    "AdresseA": "شارع سيدي محمد بن عبد الله يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELKRIM ALKHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "AV ENNOUR YAACOUB MANSOUR",
+    "AdresseA": "شارع النور يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABI DER ALGHIFARI  ",
+    "NOM_ETABA": "الثانوية التأهيلية أبي ذر الغفاري",
+    "AdresseL": "HAY EL FATH YAACOUB MANSOUR RUE EL KHALIJ EL ARABI",
+    "AdresseA": "   زنقة الخليج العربي حي الفتح يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "HOUMMANE ELFATWAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "HAY EL FATH YAACOUB MANSOUR",
+    "AdresseA": "حي الفتح يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDALLAH GUENNOUNE",
+    "NOM_ETABA": "عبد الله كنون",
+    "AdresseL": "AV EL MAJD QUARTIER INDUSTRIEL YAACOUB MANSOUR",
+    "AdresseA": "شارع المجد الحي الصناعي يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL MANSOUR ADDAHBI",
+    "NOM_ETABA": "المنصور الذهبي",
+    "AdresseL": "AV AL HORIA DOUAR RAJA FI LLAH YAACOUB ELMANSOUR",
+    "AdresseA": "شارع الحرية دوار الرجاء في الله يعقوب المنصور",
+    "COMMUNE": "Yacoub El Mansour ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "DAY ASSABAH",
+    "NOM_ETABA": "DAY ASSABAH",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1127 الطابق السفلي حي المن",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES ATARIFES",
+    "NOM_ETABA": "مدارس التعريف الخصوصية",
+    "AdresseL": "1 AVENUE AL MAJD CYM RABAT",
+    "AdresseA": "                              ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SCIENTIFIQUE ATTAOUFIK ALMITALIA",
+    "NOM_ETABA": "الثانويةالعلمية التوفيق المثالية",
+    "AdresseL": "bLOC AO N 82 BOUHLAL C Y M",
+    "AdresseA": "بلوك أأو رقم 82 بوهلال حي يعقو",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE L’HARMONIE",
+    "NOM_ETABA": "مجموعة مدارس لارموني",
+    "AdresseL": "HAY EL FATH av al fath RABAT.",
+    "AdresseA": "حي الفتح شارع الفتح الرباط",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WAHY ALQALAM",
+    "NOM_ETABA": "وحي القلم",
+    "AdresseL": "villa n 1 rue el yabane mounta",
+    "AdresseA": "فيلا رقم 1 زنقة اليابان منتزه ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Lycee scientifique GALILEO",
+    "NOM_ETABA": " الثانوية العلمية كاليليو",
+    "AdresseL": "N° 1404, Avenue des Far - Yaco",
+    "AdresseA": "رقم 1404، شارع الجيش الملكي - ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Walili",
+    "NOM_ETABA": "وليلي",
+    "AdresseL": "N° 31, Hay Menzeh - Yacoub El ",
+    "AdresseA": "رقم 31، حي المنزه - يعقوب المن",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Manal Ettakafi",
+    "NOM_ETABA": "المنال الثقافي",
+    "AdresseL": "G3, N° 158, Lotissmement Haj S",
+    "AdresseA": "ج3، رقم 158، تجزئة الحاج سليما",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Achbal Fath",
+    "NOM_ETABA": "أشبال الفتح",
+    "AdresseL": "Groupe Immobilier, Hay Fath - ",
+    "AdresseA": "المجموعة العقارية، حي الفتح - ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Hassania",
+    "NOM_ETABA": "الحسنية",
+    "AdresseL": "Lotissement El Menzeh, N° 1128",
+    "AdresseA": "تجزئة المنزه، رقم 1128 - يعقوب",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Assabah",
+    "NOM_ETABA": "معهد الصباح",
+    "AdresseL": "Residence Assabah, Secteur 9 -",
+    "AdresseA": "مجموعة 9 إقامة الصباح، - يعقوب",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMOSTAQBAL AZZAHER",
+    "NOM_ETABA": "المستقبل الزاهر",
+    "AdresseL": " Secteur \" D\" N° 3 Kouass - C.",
+    "AdresseA": "سكتور \"د\" رقم 3 الأقواس - حي ي",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Kenza Laghzaoui",
+    "NOM_ETABA": "كنزة لغزاوي",
+    "AdresseL": "N° 5, Avenue Massira Khadra - ",
+    "AdresseA": "رقم 5، شارع المسيرة الخضراء - ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Al Idrissi",
+    "NOM_ETABA": "مؤسسة الإدريسي",
+    "AdresseL": "N° 29 et 30, Avenue Assalam - ",
+    "AdresseA": "رقم 29 و 30 شارع السلام - يعقو",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manahil",
+    "NOM_ETABA": "المناهل",
+    "AdresseL": "N° 1, Lotissement Koura , Chba",
+    "AdresseA": "رقم 1، تجزئة الكورة، الشبانات ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire attaoufik almitalia",
+    "NOM_ETABA": "مجموعة مدارس التوفيق المثالية",
+    "AdresseL": "N° 51, Bloc \"AO\", Bouhlal - Ya",
+    "AdresseA": "رقم 51، بلوك \"أأو\"، بوهلال - ي",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sanabil Al Fath",
+    "NOM_ETABA": "سنابل الفتح",
+    "AdresseL": "N° 244 Bis, Hay Fath - yacoub ",
+    "AdresseA": "رقم 244، حي الفتح - يعقوب المن",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chems Al Maârif",
+    "NOM_ETABA": "شمس المعارف",
+    "AdresseL": "N° 303, Hay Menzeh - Yacoub El",
+    "AdresseA": "رقم 303، حي المنزه - يعقوب الم",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Afaq ERRAJAE",
+    "NOM_ETABA": " مؤسسة آفاق  الرجاء الخصوصية",
+    "AdresseL": "Amal 5, N° 583-584, Massira - ",
+    "AdresseA": "أمل 5، رقم-ـ584ـ583، المسيرة -",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al ILM  WaL imane",
+    "NOM_ETABA": "العلم والإيمان",
+    "AdresseL": "Amal 6, N° 15, Hay Fath C.Y.M.",
+    "AdresseA": "أمل 6، رقم 15، حي الفتح ح.ي.م.",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Adam",
+    "NOM_ETABA": "آدم",
+    "AdresseL": "N° 3, Lot. Chbanat, C.Y.M. - C",
+    "AdresseA": "رقم 3، تجزئة الشبانات، ح.ي.م. ",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Awail",
+    "NOM_ETABA": "الأوائل",
+    "AdresseL": "N° 230 Bis, rue mer du japon H",
+    "AdresseA": "رقم 230 مكرر، زنقة بحر اليابان",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Goupe wahy Al Qalam alkhassa",
+    "NOM_ETABA": "مجموعة وحي القلم الخاصة",
+    "AdresseL": "R Khalij al aqaba N° 11, Hay A",
+    "AdresseA": "زنقة خليج العقبة رقم 11 حي الف",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Moubadara",
+    "NOM_ETABA": "المبادرة",
+    "AdresseL": "Hay El Fath, Amal 6 N° 5 et N°",
+    "AdresseA": "حي الفتح، أمل 6 رقم  5  ورقم 6",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAHA AL FORKANE",
+    "NOM_ETABA": "طه الفرقان",
+    "AdresseL": "n°483 hay Elmenzeh c.y.m rabat",
+    "AdresseA": "حي المنزه 483",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE AL ILM WA AL IMANE",
+    "NOM_ETABA": "ملحقة العلم والإيمان",
+    "AdresseL": "AMAL6-N°1-HAY EL FATH-CYM-RABA",
+    "AdresseA": "أمل 6-رقم1-حي الفتح-ح ي م-الرب",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "qualam al maarifa",
+    "NOM_ETABA": "قلم المعرفة",
+    "AdresseL": "3 lot lahlou douat rjafellah",
+    "AdresseA": "تجزءة لحلو رقم 3 دوار الرجاء ف",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SCIENTIFIQUE ACHBALE EL FATH",
+    "NOM_ETABA": "الثانوية العلمية أشبال الفتح الخصوصية",
+    "AdresseL": "amal 6 n° 3 hay al fath",
+    "AdresseA": "أمل 6 رقم 3 حي الفتح",
+    "COMMUNE": "Yacoub El Mansour",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

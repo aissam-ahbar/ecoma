@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "CENTRE IKHERKHOUDEN",
+    "NOM_ETABA": "مركزية اخرخوضن",
+    "AdresseL": "DOUAR IKHARKOUDEN ",
+    "AdresseA": "دوار اخرخوضن",
+    "COMMUNE": "Agoudi N'Lkhair",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT TAMETNA",
+    "NOM_ETABA": "مركزية آيت تمتنا",
+    "AdresseL": "DOUAR AIT TAMETNA ",
+    "AdresseA": "دوار ايت تمتنا ",
+    "COMMUNE": "Agoudi N'Lkhair",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAABDIT",
+    "NOM_ETABA": "مركزية تعبديت",
+    "AdresseL": "DOUAR TAABDIT ",
+    "AdresseA": "دوار تعبديت ",
+    "COMMUNE": "Agoudi N'Lkhair",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT SAID ASSAKA ",
+    "NOM_ETABA": "مركزية آيت سعيد اسكا",
+    "AdresseL": "DOUAR AIT SAID ASSAKA",
+    "AdresseA": "دوار ايت سعيد اسكا ",
+    "COMMUNE": "Agoudi N'Lkhair",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTR TAWJA NELKANZ ",
+    "NOM_ETABA": "مركزية تاوجا نلكنز",
+    "AdresseL": "tawja nelkanz",
+    "AdresseA": "تاوجا نلكنز ",
+    "COMMUNE": "Agoudi N'Lkhair",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

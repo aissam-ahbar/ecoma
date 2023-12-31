@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S BIR EL BABBOUCHE",
+    "NOM_ETABA": "م/م بئر الببوش",
+    "AdresseL": "DOUAR LBRABER",
+    "AdresseA": "دوار لبرابر",
+    "COMMUNE": "Si Hsaien Ben Abderrahmane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OUAHLA",
+    "NOM_ETABA": "م/م واهلة",
+    "AdresseL": "DOUAR OULED ALI MOUSSA ",
+    "AdresseA": "دوار أولاد علي موسى",
+    "COMMUNE": "Si Hsaien Ben Abderrahmane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE SLASS COLLEGIAL",
+    "NOM_ETABA": "ثانوية سلاس الإعدادية",
+    "AdresseL": "COMMUNE OURTZAGH CENTRE",
+    "AdresseA": "  جماعة اورتزاغ-غفساي",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S OURTZAGH",
+    "NOM_ETABA": "م/م  الوردزاغ",
+    "AdresseL": "COMMUNE OURTZAGH GHAFSSAI",
+    "AdresseA": "  جماعة الورتزاغ - غفساي",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GHANSS",
+    "NOM_ETABA": "م/م  غانس",
+    "AdresseL": "DOUAR BNI MOUMENCOMMUNE OURTZAGH GHAFSSAI",
+    "AdresseA": "دواربني مومن جماعة الوردزاغ-غفساي",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIN KCHIR",
+    "NOM_ETABA": "م/م  عين قشير",
+    "AdresseL": "DOUAR AIN KCHIR COMMUNE OURTZAGH GHAFSSAI",
+    "AdresseA": "دوار عين اقشير جماعة الورتزاغ -غفساي",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IZARA",
+    "NOM_ETABA": "م/م  إزارة",
+    "AdresseL": "DOUAR IZARA COMMUNE OURTZAGH GHAFSSAI",
+    "AdresseA": "دوار ازارة جماعة الوردزاغ غفساى",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BAB ZRIBA",
+    "NOM_ETABA": "م/م  باب الزريبة",
+    "AdresseL": "DOUAR BAB ZRIBA COMMUNE OURTZAGH GHAFSSAI",
+    "AdresseA": "دوار  باب الزريبة جماعة الوردزاغ -غفساي",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL AZIYINE",
+    "NOM_ETABA": "م/م  العزيين",
+    "AdresseL": "DOUAR EL AZIYINE COMMUNE OURTZAGH GHAFSSAI",
+    "AdresseA": "دوار  العزيين جماعة الوردزاع -غفساي",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL AZIB",
+    "NOM_ETABA": "م/م العزيب",
+    "AdresseL": "DOUAR EL AZIB COMMUNE OURTZAGH GHAFSSAI",
+    "AdresseA": "دوار العزيب  جماعة الوردزاغ -غفساي",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT MOHAMED VI ",
+    "NOM_ETABA": "ثا محمد السادس التأهيلية ",
+    "AdresseL": "COMMUNE OURDZAGH TAOUNATE",
+    "AdresseA": "Err :509",
+    "COMMUNE": "Ouartzagh",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

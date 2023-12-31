@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MEZRAOUA",
+    "NOM_ETABA": "الثانوية الإعدادية مزراوة",
+    "AdresseL": "COMMUNE MEZRAOUA CENTRE",
+    "AdresseA": "جماعة مزراوة المركز",
+    "COMMUNE": "Mezraoua",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SAHEL BOUTAHAR",
+    "NOM_ETABA": "م/م  ساحل بوطاهر",
+    "AdresseL": "DOUAR SAHEL BOUTAHAR COMMUNE MEZRAOUA TAOUNATE",
+    "AdresseA": "دوار ساحل بو طاهر جماعة مزراوة- تاونات",
+    "COMMUNE": "Mezraoua",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL KADI YYAD",
+    "NOM_ETABA": "م م القاضي عياض",
+    "AdresseL": "DOUAR MEZRAOUA OULYA COMMUNE MEZRAOUA TAOUNATE",
+    "AdresseA": "دوار مزراوة العليا جماعة مزراوة - تاونات",
+    "COMMUNE": "Mezraoua",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

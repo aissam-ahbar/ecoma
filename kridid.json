@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL ALFADILA",
+    "NOM_ETABA": "ثانوية الفضيلة الإعدادية ",
+    "AdresseL": " CENTRE SEBT MAARIF COMMUNE KRIDID SIDI BENNOUR",
+    "AdresseA": "مركز سبت المعاريف جماعة كريديد أ.عمران د.سيدي بنور",
+    "COMMUNE": "Kridid",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SEBT LAMAARIF",
+    "NOM_ETABA": "سبت المعاريف",
+    "AdresseL": "CENTRE SEBTE EL MAARIF COMMUNE KRIDID",
+    "AdresseA": "مركز سبت المعاريف جماعة كريديد",
+    "COMMUNE": "Kridid",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL AMAL",
+    "NOM_ETABA": "الامل",
+    "AdresseL": "DOUAR LAABAB COMMUNE KRIDID",
+    "AdresseA": "دوار لعباب ج كريديد",
+    "COMMUNE": "Kridid",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED EL HAJ",
+    "NOM_ETABA": "اولاد الحاج",
+    "AdresseL": "DOUAR OULED EL HAJ COMMUNE KRIDID OULED IMRANE SID",
+    "AdresseA": "دوار اولاد الحاج جماعة كريديد أولادعمران سيدي بنور",
+    "COMMUNE": "Kridid",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

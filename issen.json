@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS 6 NOVEMBRE",
+    "NOM_ETABA": " م.م 6نونبر",
+    "AdresseL": "DOUAR LAKRAKER C ISSEN SIDI MOUSSA LHAMRI",
+    "AdresseA": "دوار الكراكر جماعة اسن سيدي موسى الحمري ",
+    "COMMUNE": "Issen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN TAIMIA",
+    "NOM_ETABA": "م.م أبن تيمية",
+    "AdresseL": "DOUAR lamzarguia com issen",
+    "AdresseA": "دوار المزاركية ج إسن",
+    "COMMUNE": "Issen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ISSEN",
+    "NOM_ETABA": "الثانوية التأهيلية اسن",
+    "AdresseL": "centre commune issen",
+    "AdresseA": "مركز جماعة اسن",
+    "COMMUNE": "Issen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "MOHAMED ENNACER",
+    "NOM_ETABA": "محمد الناصر",
+    "AdresseL": "route oulmes meknes",
+    "AdresseA": "طريق والماس- مكناس",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABOU LFIDA",
+    "NOM_ETABA": "ابو الفداء",
+    "AdresseL": "CENTRE OULMES",
+    "AdresseA": "ولماس المركز",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU LKACIM ZAYANI",
+    "NOM_ETABA": "ابو القاسم الزياني",
+    "AdresseL": "CENTRE OULMES",
+    "AdresseA": "ولماس المركز",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZGUIT",
+    "NOM_ETABA": "زكيت",
+    "AdresseL": "DOUAR ZGUIT COMMUNE OULMES",
+    "AdresseA": "دوار زكيت ولماس",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULMES",
+    "NOM_ETABA": "ولماس",
+    "AdresseL": "Oulmes centre",
+    "AdresseA": "ولماس المركز",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUHA OU HAMOU ZAYANI",
+    "NOM_ETABA": "موحى أو حمو الزياني",
+    "AdresseL": "Douar sidi hayane boughadi",
+    "AdresseA": "دوار سيدي حيان بوغادي",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED VI",
+    "NOM_ETABA": "محمد السادس",
+    "AdresseL": "OULMES CENTRE - COMMUNE OULMES",
+    "AdresseA": "أولماس المركز - جماعة أولماس",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BAKRIM",
+    "NOM_ETABA": "مؤسسة بكريم للتربية والتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الأمل رقم 38",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Manbaa",
+    "NOM_ETABA": "المنبع",
+    "AdresseL": "Tarmilate - C.R. Oulmes",
+    "AdresseA": "تارميلات - ج.ق. ولماس",
+    "COMMUNE": "Oulmes",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

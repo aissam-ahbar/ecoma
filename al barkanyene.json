@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL BARKANYENE",
+    "NOM_ETABA": "مجموعة مدارس البركانيين",
+    "AdresseL": "DOUAR OULED YOUSSEF COMMUNE AL BARKANYENE",
+    "AdresseA": "دوار البركانيين جماعة البركانيين",
+    "COMMUNE": "Al Barkanyene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AYDIME",
+    "NOM_ETABA": "مجموعة مدارس أيديم",
+    "AdresseL": "DOUAR AYDIME  COMMUNE al barkayene",
+    "AdresseA": "دوار أيديم جماعة البركانيين",
+    "COMMUNE": "Al Barkanyene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL OULED AARRAD",
+    "NOM_ETABA": "ثانوية اولاد عراض الإعدادية",
+    "AdresseL": "Commune Ouled Arrad",
+    "AdresseA": "جماعة اولاد عراض",
+    "COMMUNE": "Oulad Aarrad",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED ARRAD CENTRE",
+    "NOM_ETABA": "اولاد عراض المركزية",
+    "AdresseL": "COMMUNE OULED ARRAD cercle EL ATTAOUIA",
+    "AdresseA": "جماعة اولاد عراض دائرة العطاوية",
+    "COMMUNE": "Oulad Aarrad",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

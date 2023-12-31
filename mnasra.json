@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED ETTOUBI",
+    "NOM_ETABA": "الثانوية الاعدادية محمد الطوبي",
+    "AdresseL": "DOUAR LAANABSA COMMUNE MNASRA",
+    "AdresseA": "دوار العنابسة جماعة المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MOTANABI",
+    "NOM_ETABA": "الثانوية الاعدادية المتنبي",
+    "AdresseL": "almrabih centre mnasra",
+    "AdresseA": "المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " OUED EDDAHAB",
+    "NOM_ETABA": "وادي الذهب",
+    "AdresseL": "DOUAR SBIH   COM MNASRA",
+    "AdresseA": "دوار اصبيح  ج/ المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BERJAL",
+    "NOM_ETABA": "اولاد برجال",
+    "AdresseL": "DOUAR OULED BERJAL COM MNASRA",
+    "AdresseA": "دوار اولاد برجال  ج/ المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMNASRA",
+    "NOM_ETABA": "المناصرة",
+    "AdresseL": "DOUAR LAANABSA COMMUNE MNASRA",
+    "AdresseA": "دوار العنابسة جماعة المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAFAIFA",
+    "NOM_ETABA": "العفايفة",
+    "AdresseL": "DOUAR LAAFAIFA COMMUNE LAMNASRA",
+    "AdresseA": "دوار العفايفة جماعة المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHYALFA",
+    "NOM_ETABA": "لهيالفة",
+    "AdresseL": "DOUAR LAHYALFA COMMUNE LAMNASRA",
+    "AdresseA": "دوار الهياتلفة جماعة المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAMIMIYINE",
+    "NOM_ETABA": "العميميين",
+    "AdresseL": "DOUAR LAAMIMIYINE COMMUNE LAMNASRA",
+    "AdresseA": "دوار العميميين  ج/المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED  ELASSAL",
+    "NOM_ETABA": "اولاد العسال",
+    "AdresseL": "DOUAR OULED  ELASSAL COMMUNE LAMNASRA",
+    "AdresseA": "دوار اولاد العسال ج/ المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHYIDDINE BNOU ARABI",
+    "NOM_ETABA": "محي الدين بن عربي",
+    "AdresseL": "DOUAR OULED LARBI COMMUNE MNASRA",
+    "AdresseA": "دوار اولاد العربي ج/ المناصرة",
+    "COMMUNE": "Mnasra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

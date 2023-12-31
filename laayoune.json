@@ -1,0 +1,1912 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL JAMAL EDDINE AL AFGHANI",
+    "NOM_ETABA": "الثانوية الإعدادية جمال الدين الأفغاني",
+    "AdresseL": "HAY ALMASSIRAAVENUE ABOU BAKR SEDDIK",
+    "AdresseA": "حي المسيرة شارع ابو بكر الصديق",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARIK IBN ZIAD",
+    "NOM_ETABA": "الثانوية الإعدادية طارق بن زياد",
+    "AdresseL": "RUE OUED EDDAHAB HAY ELFARAH",
+    "AdresseA": "زنقة واد الذهب حي الفرح",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL IBN ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية علال بن عبد الله",
+    "AdresseL": "Avenue Zerktouni hay My Rachid Laayoune",
+    "AdresseA": "شارع الزرقطوني حي مولاي رشيد العيون",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAAOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية التعاون",
+    "AdresseL": "HAY PRINCE HERITIER",
+    "AdresseA": "حي ولي العهد",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN KHALDOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية إبن خلدون",
+    "AdresseL": "AVENUE MEZOUARHAY ALOUAHDA I",
+    "AdresseA": "شارع مزوار ، حي الوحدة 1",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL QUADI AAYAD",
+    "NOM_ETABA": "الثانوية الإعدادية القاضي عياض",
+    "AdresseL": "AVENUE MOULAY ISMAIL",
+    "AdresseA": "شارع مولاي إسماعيل",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN 1ER",
+    "NOM_ETABA": "الثانوية الإعدادية الحسن الأول",
+    "AdresseL": "HAY EL HAJARI AVENUE DRISS 1ER LOT EL OUAHDA",
+    "AdresseA": "الحي الحجري شارع الحسن الأول تجزئة الوحدة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNAHDA",
+    "NOM_ETABA": "الثانوية الإعدادية النهضة",
+    "AdresseL": "HAY MOULAY RACHID",
+    "AdresseA": "حي مولاي رشيدالشطر الثاني بلوك ل",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KHANSA",
+    "NOM_ETABA": "الثانوية الإعدادية الخنساء",
+    "AdresseL": "AVENUE ALHIZAME HAY ALHAJARI",
+    "AdresseA": "شارع الحزام الحي الحجري",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRAZI",
+    "NOM_ETABA": "الثانوية الإعدادية الرازي",
+    "AdresseL": "avenue saad ben mouad Quartier Alwifaq",
+    "AdresseA": "حي الوفاق شارع سعد بن معاذ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 25 MARS",
+    "NOM_ETABA": "الثانوية الإعدادية 25 مارس",
+    "AdresseL": " lot 25 mars bloc x  laayoune",
+    "AdresseA": " تجزئة 25 مارس بلوك س العيون",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM ALI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام علي",
+    "AdresseL": "MADINAT AL WAHDA",
+    "AdresseA": "مدينة الوحدة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HALIMA ESSAADIA",
+    "NOM_ETABA": "الثانوية الإعدادية حليمة السعدية",
+    "AdresseL": "HAY AL AOUDA ",
+    "AdresseA": "حي العودة قرب القاعات المغطاة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MAGHREB AL ARABI",
+    "NOM_ETABA": "الثانوية الإعدادية المغرب العربي",
+    "AdresseL": "hay al ouifaq bloc g laayoune",
+    "AdresseA": "حي الوفاق بلوك ج",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUTHMANE IBN AAFANE",
+    "NOM_ETABA": "الثانوية الإعدادية عثمان بن عفان",
+    "AdresseL": "madinat al wahda bloc f",
+    "AdresseA": "مدنية الوحدة بلوك ف",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ECHAREF AL IDRISSI",
+    "NOM_ETABA": "الثانوية الإعدادية الشريف الإدريسي",
+    "AdresseL": "Quartier Al Ouifaq Bloc A",
+    "AdresseA": "حي الوفاق بلوك أ ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANOUAL",
+    "NOM_ETABA": "الثانوية الإعدادية أنوال",
+    "AdresseL": "Hay Al Ouifaq",
+    "AdresseA": "حي الوفاق",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YAAKOUB AL MANSSOUR",
+    "NOM_ETABA": "المدرسة الإبتدائية يعقوب المنصور",
+    "AdresseL": "HAY EL FARAH AV IBN BATOUTA",
+    "AdresseA": "حي الفرح شارع ابن بطوطة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAAYOUNE",
+    "NOM_ETABA": "المدرسة الإبتدائية العيون",
+    "AdresseL": "HAY EL HASSANI RUE EL BASBASSE",
+    "AdresseA": "الحي الحسني زنقة البسباس",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ECHAHID IDRISS EL HARTI",
+    "NOM_ETABA": "المدرسة الإبتدائية الشهيد إدريس الحرثي",
+    "AdresseL": "AVENUE MY ABDELLAH ALHAY ALAASKARI16ARRONDIS",
+    "AdresseA": "شارع مولاي عبد الله ،الحي العسكري، المقاطعة 16",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY MOULAY RACHID",
+    "NOM_ETABA": "المدرسة الإبتدائية حي مولاي رشيد",
+    "AdresseL": "HAY MOULAY RACHIDAVENUE DE LA MECQUE",
+    "AdresseA": "حي مولاي رشيد ، شارع مكة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "المدرسة الإبتدائية يوسف ابن تاشفين",
+    "AdresseL": "AVENUE CHAHID BouCHRAYA HAY ALIDARI",
+    "AdresseA": "شارع الشهيد بشريا، الحي الإداري",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TARIK IBN ZIAD",
+    "NOM_ETABA": "المدرسة الإبتدائية طارق بن زياد",
+    "AdresseL": "HAY ALMATAR",
+    "AdresseA": "حي المطار",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MANSSOUR EDDAHBI",
+    "NOM_ETABA": "المدرسة الإبتدائية المنصور الذهبي",
+    "AdresseL": "AVENUE SMARA HAY ALFATH",
+    "AdresseA": "شارع السمارة ، حي الفتح",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BIR INZARANE",
+    "NOM_ETABA": "المدرسة الإبتدائية بئر أنزران",
+    "AdresseL": "avenue mohamed hassan elouazani hay el wahda 2",
+    "AdresseA": "شارع محمد حسن الوزاني حي الوحدة 2    ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOURABITINE",
+    "NOM_ETABA": "المدرسة الإبتدائية المرابطين",
+    "AdresseL": "Avenue Semara HAY KHAT RAMLA",
+    "AdresseA": "شارع السمارة حي خط الرملة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELKARIME AL KHATABI",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الكريم الخطابي",
+    "AdresseL": "HAY TAAOUNE AVENUE DE LA SOMALIE",
+    "AdresseA": "حي التعاون، شارع الصومال",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MASSIRA AL KHADRAA",
+    "NOM_ETABA": "المدرسة الإبتدائية المسيرة الخضراء",
+    "AdresseL": "HAY ALFIDA 1ER ARRONDISSEMENT",
+    "AdresseA": "حي الفداء، المقاطعة الأولى",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHALID IBN AL OUALID",
+    "NOM_ETABA": "المدرسة الإبتدائية خالد بن الوليد",
+    "AdresseL": "HAY ALKODSS",
+    "AdresseA": "حي القدس (تجزئة 707)",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ECHAHID MOUHAMED EZZARKTOUNI",
+    "NOM_ETABA": "المدرسة الإبتدائية الشهيد محمد الزرقطوني",
+    "AdresseL": "HAY ALOUAHDA 2",
+    "AdresseA": "حي الوحدة 2",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN CINA",
+    "NOM_ETABA": "المدرسة الإبتدائية إبن سينا",
+    "AdresseL": "Rue lakhmasse salma HAY CHOHADA ",
+    "AdresseA": "زنقة الأخمس السلمى، حي الشهداء ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL HAY AL HAJARI",
+    "NOM_ETABA": "المدرسة الإبتدائية الحي الحجري",
+    "AdresseL": "LOTISSEMENT 1500HAY ALWAHDA",
+    "AdresseA": "تجزئة 1500، حي الوحدة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL QODS",
+    "NOM_ETABA": "المدرسة الإبتدائية القدس",
+    "AdresseL": "HAY MOULAY RACHID",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAMMAN EL FATOUAKI",
+    "NOM_ETABA": "المدرسة الإبتدائية حمان الفطواكي",
+    "AdresseL": "HAY alaaidine",
+    "AdresseA": "حي العائددين",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUM AL BANINE",
+    "NOM_ETABA": "المدرسة الإبتدائية أم البنين",
+    "AdresseL": "AVENUE OUED ALMAKHAZIN HAY ACHOHADA",
+    "AdresseA": "شارع وادي المخازن حي الشهداء",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZAIDOUNE",
+    "NOM_ETABA": "المدرسة الإبتدائية إبن زيدون",
+    "AdresseL": "HAY ALWAHDA 1",
+    "AdresseA": "حي الوحدة 1",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ROCHD",
+    "NOM_ETABA": "المدرسة الإبتدائية إبن رشد",
+    "AdresseL": "HAY MOULAY RACHID",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDALLAH IBN YASSINE",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الله بن ياسين",
+    "AdresseL": "LOTISSEMENT ALWAHDA BLOC E ",
+    "AdresseA": " ص ب 428  E تجزئة الوحدة بلوك ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MÈRE SIDI BOUYA",
+    "NOM_ETABA": "مدرسة سيدي بويا المركزية",
+    "AdresseL": "DOUAR SIDI BOUYA Laayoune",
+    "AdresseA": "دوار سيدي بويا العيون",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANASS IBN MALEK",
+    "NOM_ETABA": "المدرسة الإبتدائية أنس بن مالك",
+    "AdresseL": "HAY ALQODS AVENUE AL HIZAM",
+    "AdresseA": "شارع الحزام، حي القدس",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN HAZEM",
+    "NOM_ETABA": "المدرسة الإبتدائية إبن حزم",
+    "AdresseL": "AVENUE SMARA   LOTISS ALWAHDA",
+    "AdresseA": "شارع السمارة، تجزئة الوحدة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL IRFANE",
+    "NOM_ETABA": "المدرسة الإبتدائية العرفان",
+    "AdresseL": " HAY EL WAHDA 2 RUE DUBAI",
+    "AdresseA": "حي الوحدة 2 زنقة دبي ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR AL KHAYYAM",
+    "NOM_ETABA": "المدرسة الإبتدائية عمر الخيام",
+    "AdresseL": "Lotissement Erraha Hay elqods",
+    "AdresseA": "تجزئة الراحة حي القدس",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU BAKER ESSADEK",
+    "NOM_ETABA": "المدرسة الإبتدائية أبو بكر الصديق",
+    "AdresseL": "HAY AL AOUDA",
+    "AdresseA": "حي العودة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AICHA OUM AL MOUMININE",
+    "NOM_ETABA": "المدرسة الإبتدائية عائشة أم المؤمنين",
+    "AdresseL": "HAY alamal 1 RUE TAMALOUKT",
+    "AdresseA": "حي الامل 1 زنقة تمالوكت",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT OUED ESSAFA",
+    "NOM_ETABA": "المدرسة الإبتدائية معركة وادي الصفا",
+    "AdresseL": "HAY AL WAHDA 3 BLOC D",
+    "AdresseA": "حي الوحدة 3 بلوك د",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT OUED EL MAKHAZIN",
+    "NOM_ETABA": "المدرسة الإبتدائية معركة وادي المخازن",
+    "AdresseL": "HAY AL AOUDA",
+    "AdresseA": "حي العودة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FATIMA AL FIHRIA",
+    "NOM_ETABA": "المدرسة الإبتدائية فاطمة الفهرية",
+    "AdresseL": "madinat alwahada bloc j",
+    "AdresseA": "مدينة الوحدة بلوك ج",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL OUIFAK",
+    "NOM_ETABA": "المدرسة الإبتدائية الوفاق",
+    "AdresseL": "lotisement alwifaq bloc d",
+    "AdresseA": "quartier al ouifaq laayoune",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT TISSLATINE",
+    "NOM_ETABA": "المدرسة الإبتدائية معركة تيسلاتين",
+    "AdresseL": "Quartier Alwifaq GRAND B",
+    "AdresseA": "حي الوفاق",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED CHAOIKI",
+    "NOM_ETABA": "المدرسة الإبتدائية أحمد شوقي",
+    "AdresseL": "Madinat Al Ouahda Bloc G",
+    "AdresseA": "مدينة الوحدة بلوك ج",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FARABI",
+    "NOM_ETABA": "المدرسة الإبتدائية الفرابي",
+    "AdresseL": "Quartier 25 Mars",
+    "AdresseA": "حي 25 مارس",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT DCHEIRA",
+    "NOM_ETABA": "المدرسة الإبتدائية معركة الدشيرة",
+    "AdresseL": "hay aloifak bloc g",
+    "AdresseA": "حي الوفاق بلوك ج",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUSSAMA IBN ZAID",
+    "NOM_ETABA": "المدرسة الإبتدائية أسامة بن زيد",
+    "AdresseL": "hay 25 mars",
+    "AdresseA": " حي 25 مارس",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MANFALOUTI",
+    "NOM_ETABA": "المدرسة الإبتدائية المنفلوطي",
+    "AdresseL": "Madinat Aloihda bloc C",
+    "AdresseA": "مدينة الوحدة بلوك C ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN IBN TABET",
+    "NOM_ETABA": "المدرسة الإبتدائية حسان بن تابث",
+    "AdresseL": "Madinat Al Ouahda",
+    "AdresseA": "مدينة الوحدة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "المدرسة الإبتدائية صلاح الدين الأيوبي",
+    "AdresseL": "Hay al qods lotissement Al wifaq bloc d ",
+    "AdresseA": " حي القدس تجزئة الوفاق بلوك د ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUM SALMA",
+    "NOM_ETABA": "المدرسة الإبتدائية أم سلمة",
+    "AdresseL": " lot qods hay wifak c laayoune",
+    "AdresseA": "تجزءة القدس حي الوفاق  س العيون",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  20 AOUT",
+    "NOM_ETABA": "المدرسة الإبتدائية 20 غشت",
+    "AdresseL": "Hay Al Ouifaq",
+    "AdresseA": "حي الوفاق",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCE TECHNIQUE",
+    "NOM_ETABA": "الثانوية التقنية",
+    "AdresseL": "ville el wahda laayoune",
+    "AdresseA": "مدينة الوحدة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MAARIK TEGAL",
+    "NOM_ETABA": "الثانوية التأهيلية معارك تكل",
+    "AdresseL": "hay attaaoune",
+    "AdresseA": "حي التعاون",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 14 AOUT",
+    "NOM_ETABA": "الثانوية التأهيلية 14 غشت",
+    "AdresseL": "Hay Al Ouifaq",
+    "AdresseA": "حي الوفاق نفوذ المقاطعة الحضرية رقم21",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUSSA IBN NOUSSAIR",
+    "NOM_ETABA": "الثانوية التأهيلية موسى إبن نصير",
+    "AdresseL": "Madinat aloiahda bloc I",
+    "AdresseA": "مدينة الوحدة بلوك I",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ZOHR",
+    "NOM_ETABA": "الثانوية التأهيلية إبن زهر",
+    "AdresseL": "Madinat Al wahda  bloc I",
+    "AdresseA": "  \"I\"مدينة الوحدة بلوك ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 11 JANVIER",
+    "NOM_ETABA": "الثانوية التأهيلية 11 يناير",
+    "AdresseL": "Quartier 25 Mars",
+    "AdresseA": "حي 25 مارس",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN BATTOUTA",
+    "NOM_ETABA": "الثانوية التأهيلية إبن بطوطة",
+    "AdresseL": "QUARTIER EL AAOUDA",
+    "AdresseA": "حي العودة",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ASSAKIA AL HAMRA",
+    "NOM_ETABA": "الثانوية التأهيلية الساقية الحمراء",
+    "AdresseL": "AVENUE ALHISAM HAY ALQODS LOT 707",
+    "AdresseA": "شارع الحزام، حي القدس، تجزئة 707",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BABA AHMED IBN MOHAMED YAHDIH",
+    "NOM_ETABA": "الثانوية التأهيلية بابا احمد بن محمد يحظيه",
+    "AdresseL": "AVENUE DAR ESSALAM HAY ATTAOUNE",
+    "AdresseA": "شارع دار السلام، حي التعاون",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HAY AL QUASSAME",
+    "NOM_ETABA": "الثانوية التأهيلية حي القسم",
+    "AdresseL": "HAY ALQASSAMEAVENUE BEN CHEIKH MAALAANINE",
+    "AdresseA": "حي القسم ، شارع الشيخ ماء العينين",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ATTANMIA",
+    "NOM_ETABA": "الثانوية التأهيلية التنمية",
+    "AdresseL": "HAY ALMASSIRAAVENUE ABOU BAKR SEDDIK",
+    "AdresseA": "حي المسيرة ،شارع أبو بكر الصديق",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN 2",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "PLACE OUM SAAD BP402",
+    "AdresseA": "ساحة أم السعد ص.ب 402",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUHAMED 5",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "AVENUE prince  MOULAY ABDELLAH",
+    "AdresseA": "شارع  الأمير مولاي عبد الله",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAMSSALLA",
+    "NOM_ETABA": "الثانوية التأهيلية المصلى",
+    "AdresseL": "AVENUE ESSMARA  HAY ALQODS RUE FRARINE",
+    "AdresseA": "طريق السمارة حي القدس زنقة الفرارين ",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Lissane Eddine Ibn Al-Khatib",
+    "NOM_ETABA": "الثانوية التأهيلية لسان الدين بن الخطيب",
+    "AdresseL": "PLACE OUM SAADAVENUE HASSAN 1IER",
+    "AdresseA": "ساحة أم السعد ، شارع الحسن الأول",
+    "COMMUNE": "Laayoune",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Annidaa Attarbaoui (Annexe 1)",
+    "NOM_ETABA": "النداء التربوي (الملحقة 1)",
+    "AdresseL": "74 Av. Yaacoub Mansour Cité Ad",
+    "AdresseA": "74، شارع يعقوب المنصور الحي ال",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibn Al Haitam",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "AV. 2 Mars Hay My Rachid",
+    "AdresseA": "شارع 2 مارس حي مولاي رشيد",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Sirène Dorée",
+    "NOM_ETABA": "الحورية الذهبية",
+    "AdresseL": "HAY AL MASSIRA deriere minors",
+    "AdresseA": "حي المسيرة خلف مقر بعتة المينو",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annidaa Attarbaoui",
+    "NOM_ETABA": "النداء التربوي",
+    "AdresseL": " 17 Avenue Maghreb Arabe, Hay ",
+    "AdresseA": "17، شارع المغرب العربي، حي مول",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Imam Malik",
+    "NOM_ETABA": "الإمام مالك",
+    "AdresseL": "Hay Al Qasba, Rue 12, N° 3  B.",
+    "AdresseA": "حي القصبة زنقة القرنفل رقم 3  ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT VICTORY",
+    "NOM_ETABA": "مؤسسة فيكتوري",
+    "AdresseL": "Villa N° 4, Rue 31, Bd. Saif D",
+    "AdresseA": " فيلا رقم 4، الزنقة 31، شارع س",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ennahj El Jadid",
+    "NOM_ETABA": "النهج الجديد",
+    "AdresseL": "166 AV. Zektouni Hay Moulay Ra",
+    "AdresseA": "166 شارع الزرقطوني حي مولاي رش",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mahd Assanabil",
+    "NOM_ETABA": "مهد السنابل",
+    "AdresseL": "NO 109, Bd. Zerqtouni hay moul",
+    "AdresseA": " شارع الزرقطوني الرقم 109 حي م",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRAZI (ANNEXE 1)",
+    "NOM_ETABA": "1 ملحقة الرازي",
+    "AdresseL": "2, Rue 9, Quartier administrat",
+    "AdresseA": "رقم 2 الزنقة 9 شارع مكة الحي ا",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Moflih",
+    "NOM_ETABA": "المفلح",
+    "AdresseL": "198, Av. ZERQTOUNI, Hay My Rac",
+    "AdresseA": "198، شارع الزرقطوني حي مولاي ر",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Oum Essaad (Annexe 1)",
+    "NOM_ETABA": "أم السعد (الملحقة 1)",
+    "AdresseL": "7, Rue imrikli, Quartier Admin",
+    "AdresseA": "7، زنقة إمريكلي، الحي الإداري",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Dar Al Qalam",
+    "NOM_ETABA": "دار القلم",
+    "AdresseL": "25. Av. Al Amine, Hay My Rachi",
+    "AdresseA": "25 شارع الأمين حي مولاي رشيد ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Arrahmane",
+    "NOM_ETABA": "الرحمان",
+    "AdresseL": "Lots arraha N° 32",
+    "AdresseA": "حي الراحة رقم 32 ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annidaa Attarbaoui (Annexe 2)",
+    "NOM_ETABA": "ملحقة النداء التربوي 2",
+    "AdresseL": "55 rue Babel Cité Mly Rachid L",
+    "AdresseA": " 55 زنقة بابل حي مولاي رشيد ال",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sabra",
+    "NOM_ETABA": "صبرا",
+    "AdresseL": "10, Rue Babil, Av. Al Amine, H",
+    "AdresseA": " رقم 10 زنقة بابل، شارع الأمين",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Youssi",
+    "NOM_ETABA": "اليوسي",
+    "AdresseL": "HAY MOULAY RACHID AVENUE AL AM",
+    "AdresseA": "حي مولاي رشيد شارع الأمين الرق",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Complexe Pédagogique Wahat Iqrae",
+    "NOM_ETABA": "المركب التربوي واحة اقرأ",
+    "AdresseL": " madinat al ouahda-b- hay el a",
+    "AdresseA": "مدينة الوحدة ب- حي العودة شارع",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Epis De L Avenir",
+    "NOM_ETABA": "سنابل المستقبل",
+    "AdresseL": "12, Rue Zerqtouni, Bd. Miloud ",
+    "AdresseA": "رقم 12، زنقة الزرقطوني شارع مي",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Maouahib Al Ouaaida",
+    "NOM_ETABA": "المواهب الواعدة",
+    "AdresseL": "no 13 Bd. Ibn Massaoud zone vi",
+    "AdresseA": "رقم 13 شارع ابن مسعود منطقة ال",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ennahj El Jadid (Annexe)",
+    "NOM_ETABA": "ملحقة النهج الجديد",
+    "AdresseL": "HAY MOULAY RACHID AVENUE ZERKT",
+    "AdresseA": "حي مولاي رشيد شارع الزرقطوني ز",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Oum Essaad (Annexe 2)",
+    "NOM_ETABA": "أم السعد (الملحقة 2)",
+    "AdresseL": "bv zerktouni n°224 hay mly rac",
+    "AdresseA": "شارع الزرقطوني رقم 224 حي مولا",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chams Al Airfane",
+    "NOM_ETABA": "شمس العرفان ",
+    "AdresseL": "BD ABOU HANIFA HAY AL WAHDA I",
+    "AdresseA": " i شارع أبو حنيفة حي الوحدة  ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Kustasse",
+    "NOM_ETABA": "القسطاس",
+    "AdresseL": "hay lwahda 1 lot 1500 avenue a",
+    "AdresseA": "حي الوحدة 1 تجزئة 1500 شارع ال",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Kairaouane",
+    "NOM_ETABA": "مجموعة مدارس القيروان",
+    "AdresseL": "quartier moulay rchid avenue a",
+    "AdresseA": "حي مولاي رشيد شارع المغرب العر",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Dar Al Qalam (Annexe 1)",
+    "NOM_ETABA": "دار القلم (الملحقة 1)",
+    "AdresseL": "AVENUE ZERKTOUNI rue ouad al m",
+    "AdresseA": "2 شارع الزرقطوني زنقة واد المخ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Youssi (Annexe)",
+    "NOM_ETABA": "اليوسي (الملحقة)",
+    "AdresseL": "av 24 nouvembre hay essaada",
+    "AdresseA": "شارع 24 نونبر حي السعادة",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALMASSAR",
+    "NOM_ETABA": "مؤسسة المسار",
+    "AdresseL": "Av.20 Aout.N° 62.Hay moulay ra",
+    "AdresseA": "رقم 62 شارع 20 غشت حي مولاي رش",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bachair Al Khayr",
+    "NOM_ETABA": "بشائر الخير",
+    "AdresseL": "hay my rachid villa sidi habou",
+    "AdresseA": "حي مولاي رشيد منطقة الشطر الثا",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Colombe Blanche",
+    "NOM_ETABA": "اليمامة البيضاء",
+    "AdresseL": "av al qods hay moulay rachid ",
+    "AdresseA": "شارع القدس حي مولاي رشيد",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant Central",
+    "NOM_ETABA": "الثانوية التأهيلية المركزية",
+    "AdresseL": "av mekka Immeuble El joumani",
+    "AdresseA": "شارع مكة عمارة الجماني",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GESTION DELEGUEE - Groupe Scolaire La Résidense",
+    "NOM_ETABA": "التدبير المفوض لمجموعة مدارس الإقامة",
+    "AdresseL": "rue achouhada quartier al fida",
+    "AdresseA": "زنقة الشهداء حي الفداء",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Complexe Pédagogique Al Amine",
+    "NOM_ETABA": "المركب التربوي الأمين",
+    "AdresseL": "hay al aouda madinat al ouahda",
+    "AdresseA": "حي العودة مدينة الوحدة ص.ب 627",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Pyramis (Annexe)",
+    "NOM_ETABA": "مجموعة مدارس بيراميس (الملحقة)",
+    "AdresseL": "bloc 9 hay my rachid 2eme tran",
+    "AdresseA": "المجموعة 9 حي مولاي رشيد الشطر",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NIHAL ALILM",
+    "NOM_ETABA": "نهال العلم",
+    "AdresseL": "LOTISSEMENT AL MOSTAQBAL NO 31",
+    "AdresseA": "تجزئة المستقبل رقم 318/319",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KASR EL BARAKA",
+    "NOM_ETABA": "قصر البركة",
+    "AdresseL": "LOT EL WAKALA BLOC E NO 20",
+    "AdresseA": "رقم 20 E تجزئة الوكالة بلوك",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS. MARIPOSA",
+    "NOM_ETABA": "ماريبوصا للتعليم الخصوصي",
+    "AdresseL": "ville alwifak bloc d no 1024",
+    "AdresseA": "رقم 1024 D مدينة الوفاق بلوك",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAIM",
+    "NOM_ETABA": "النعيم",
+    "AdresseL": "LOT EL WAKALA 1 BLOC E NO 126",
+    "AdresseA": "رقم 126 E تجزئة الوكالة بلوك",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "cham",
+    "NOM_ETABA": "الشام",
+    "AdresseL": "hay moulay rachid bloc h",
+    "AdresseA": "h حي مولاي رشيد بلوك ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire nbrasSE al akhawaine",
+    "NOM_ETABA": "مجموعة مدارس نبراس الأخوين",
+    "AdresseL": "HAY EL QODS LOTISSEMENT 707 AN",
+    "AdresseA": "حي القدس تجزئة 707 شارع الفرسا",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole europeenne de laayoune",
+    "NOM_ETABA": "المدرسة الأوروبية",
+    "AdresseL": "69 HAY MOULAY RACHID",
+    "AdresseA": "تجزئة مولاي رشيد بلوك 0 رقم 69",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "creche et garderie et prescolaire eMILE ZOLA",
+    "NOM_ETABA": "روض و حضانة و تعليم أولي إميل زولا الخاصة",
+    "AdresseL": "LOTISSEMENT AL AMAL 02 NO 286",
+    "AdresseA": "تجزئة الأمل 02 رقم 286",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETAB. ELMASSAR ELJADID D ENSEIGNEMENT",
+    "NOM_ETABA": "المسار الجديد",
+    "AdresseL": "QUARTIER ELFATH AVENUE TAHA HO",
+    "AdresseA": "200 شارع طه حسين حي الفتح رقم",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAKAEK ANOUEMANE",
+    "NOM_ETABA": "شقائق النعمان",
+    "AdresseL": "QUARTIER MOULAY RACHID BLOC B ",
+    "AdresseA": "حي مولاي رشيد بلوك ب، رقم 38",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LEADERS",
+    "NOM_ETABA": "ليدرز",
+    "AdresseL": "LOTISSEMENT AL WIFAK, AV ZAKAR",
+    "AdresseA": "تجزئة الوفاق، شارع زكريا ابن ز",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL ALMOUFLIH",
+    "NOM_ETABA": "أجيال المفلح",
+    "AdresseL": "hay moulay rchid rue hadramout",
+    "AdresseA": "  12 حي مولاي رشيد ، زنقة حضرم",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al MAANI",
+    "NOM_ETABA": "المعاني",
+    "AdresseL": "Lot erraha bd salman el fariss",
+    "AdresseA": "حي الراحة شارع سلمان الفارسي ر",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL YOUSSR",
+    "NOM_ETABA": "اليسر",
+    "AdresseL": "",
+    "AdresseA": "ساحة الدشيرة، زنقة 45، رقم 5",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM ESSAAD (ANNEXE 3)",
+    "NOM_ETABA": "أم السعد (الملحقة 3)",
+    "AdresseL": "rue el amine n 214 avenue ezar",
+    "AdresseA": "شارع الزرقطوني زنقة الأمين 214",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alafaq",
+    "NOM_ETABA": "الافاق",
+    "AdresseL": "N°1242 lot arraha ",
+    "AdresseA": "رقم 1242 تجزئة الراحة",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LEONARDO DA VINCI",
+    "NOM_ETABA": "ليوناردو  دافينشي",
+    "AdresseL": "quartier alouahda av habouha n",
+    "AdresseA": "حي الوحدة شارع حبوها رقم 01 ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETBS.ANNAOURASS D ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة النورس للتعليم الأولي الخصوصي",
+    "AdresseL": "hay alquedsse Lotissement 707 ",
+    "AdresseA": " حي القدس تجزئة 707 رقم 498",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alkarama",
+    "NOM_ETABA": "الكرامة",
+    "AdresseL": "lot elouahda bloc e n°215",
+    "AdresseA": " 215 رقم eتجزئة الوحدة بلوك ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anajah",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "lot idriss alharti rue 11 hay ",
+    "AdresseA": "تجزئة ادريس الحارثيالزنقة 11 ح",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ouahate al ghizlane2",
+    "NOM_ETABA": "واحة الغزلان 2",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة 707 حي القدس  رقم 11",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anexe de etablissement almostaqbal attarbaoui",
+    "NOM_ETABA": "ملحقة مؤسسة المستقبل التربوي ",
+    "AdresseL": "ANNEX ALMOUSTAQBAL ATTARBAOUI",
+    "AdresseA": "  218رقم f حي الوكالة بلوك ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el yarmouk",
+    "NOM_ETABA": "اليرموك الخاصة",
+    "AdresseL": "PROGARAMME MADINAT EL WIFAQ NR",
+    "AdresseA": "مشروع مدينة الوفاق تحت رقم404A",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "au petit paradis",
+    "NOM_ETABA": "إلى الجنة الصغيرة",
+    "AdresseL": "NULL",
+    "AdresseA": "مدينة الوفاق  بلوك د رقم 1660ا",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "louis pasteur",
+    "NOM_ETABA": "لويس باستورالخاصة ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة 1 تجزئة 1500 رفم 540",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement el hamama el baida",
+    "NOM_ETABA": " الحمامة البيضاء",
+    "AdresseL": "blv. lbahria rue molay slimane",
+    "AdresseA": "شارع البحرية زنقة مولاي سليمان",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al imam dahbi",
+    "NOM_ETABA": "مؤسسة الامام الذهبي الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة 156 الرقم 25 مكرر ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ahdane elomouma",
+    "NOM_ETABA": "احضان الامومة",
+    "AdresseL": "lot erraha rue almikdad ibno o",
+    "AdresseA": "تجزئة الراحة شارع المقداد ابن ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ettaleb",
+    "NOM_ETABA": "الطالب",
+    "AdresseL": "ras alkhima N°57",
+    "AdresseA": "راس الخيمة رقم 57",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jawharat sahara",
+    "NOM_ETABA": "جوهرة الصحراء",
+    "AdresseL": "RUE MAKKA n° 100 LAAYOUNE",
+    "AdresseA": "شارع مكة الحي الاداري رقم 100 ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ets.prive baraiim attaquoua",
+    "NOM_ETABA": "مؤسسة براعم التقوى",
+    "AdresseL": "RUE LAKHMILA ELMASSIRA LAAYOUN",
+    "AdresseA": "زنقة الخميلي حي المسيرة",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " aljazira",
+    "NOM_ETABA": "الجزيرة الخاصة",
+    "AdresseL": "مدينة الوحدة مجموعة د شارع الع",
+    "AdresseA": "تجزئة الوفاق بلوك د رقم 1507",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD AL JANNA",
+    "NOM_ETABA": "رياض الجنة",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة ملبوبة رقم 02 حي الشهداء",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jil Al Farouq",
+    "NOM_ETABA": "جيل الفاروق",
+    "AdresseL": "cité alkassaba rue alkahira n0",
+    "AdresseA": "رقم 4 زنقة القاهرة حي القصبة",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Qasr Al Maarifa",
+    "NOM_ETABA": "قصر المعرفة",
+    "AdresseL": "n° 97 AVENUE ZERKTOUNI, hay mo",
+    "AdresseA": "رقم 97 فيلا بوشنة حي مولاي رشي",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Fassih",
+    "NOM_ETABA": "الفصيح",
+    "AdresseL": "n°260 rue salman alfarssi erra",
+    "AdresseA": "رقم 260 شارع سلمان الفارسي الر",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annidaa Attarbaoui (Annexe 3)",
+    "NOM_ETABA": "النداء التربوي (الملحقة 3)",
+    "AdresseL": "44 av yaakoub el manssour cite",
+    "AdresseA": "رقم 44 شارع يعقوب المنصور الحي",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAHA HSINE",
+    "NOM_ETABA": "طه حسين",
+    "AdresseL": "hay elqos avenue alkadar no 65",
+    "AdresseA": "حي القدس شارع القدر رقم 65 الع",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Dar Al Qalam (Annexe 2)",
+    "NOM_ETABA": "دار القلم (الملحقة 2)",
+    "AdresseL": "HAY MOULAY RACHID N°45 1er TRA",
+    "AdresseA": "حي مولاي رشيد رقم 45 الشطر الأ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Mousslim Assaghir",
+    "NOM_ETABA": "المسلم الصغير",
+    "AdresseL": "hay el wa7da 1 n°798",
+    "AdresseA": "تجزئة الوحدة e رقم 798",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Nour Al Quamar",
+    "NOM_ETABA": "نور القمر",
+    "AdresseL": "lOT ALAMAL 01 n° 553",
+    "AdresseA": "حي الأمل 01 رقم 553",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Rawafid Assahra",
+    "NOM_ETABA": "روافد الصحراء",
+    "AdresseL": "hAY el QODS lOT 707 RUE WAD IZ",
+    "AdresseA": "حي القدس تجزئة 707 زنقة واد إز",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ajial Assomoi",
+    "NOM_ETABA": "أجيال السمو",
+    "AdresseL": "شارع البعث قبالة شارع السمارة ",
+    "AdresseA": "شارع البعث قبالة شارع السمارة ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Anaorass",
+    "NOM_ETABA": "النورس",
+    "AdresseL": "hay ELWIKALA 1 BLOC f n°21",
+    "AdresseA": "حي الوكالة1 بلوك ف رقم 21 ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETAB.ALJIL AL RAED",
+    "NOM_ETABA": "مؤسسة الجيل الرائد الخاصة",
+    "AdresseL": "rue naiger nO 94 BIS quartier ",
+    "AdresseA": "شارع النيجر حي الوحدة 2 رقم 94",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Fajro Assataa",
+    "NOM_ETABA": "الفجر الساطع",
+    "AdresseL": "madinat alwahda hay alwakala b",
+    "AdresseA": " رقم 171  Eتجزئة الوكالة 1 بلو",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Janat Assahra",
+    "NOM_ETABA": "جنة الصحراء",
+    "AdresseL": "lot 707 rue abi alaala N 01 bd",
+    "AdresseA": "تجزئة 707 زنقة أبي العلاءرقم 0",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS AlFadaE Attarbaoui",
+    "NOM_ETABA": "الفضاء التربوي",
+    "AdresseL": "hay el wahda bloc E nr 24",
+    "AdresseA": "رقم 24 العيون e حي الوكالة بلو",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Janat Al Janoub",
+    "NOM_ETABA": "جنة الجنوب",
+    "AdresseL": "avenu miloud khaloufi.ouartier",
+    "AdresseA": " شارع النقيب الخلوفي حي الفداء",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Achariqua",
+    "NOM_ETABA": "الشارقة",
+    "AdresseL": "boulvare alaminehay ml n40 laa",
+    "AdresseA": "العيون",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Afak Attarbaouia",
+    "NOM_ETABA": "الآفاق التربوية",
+    "AdresseL": "AVENU ALAMAL 3 ALAWDA",
+    "AdresseA": "شارع الامل 3 حي العودة",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manar Al Ouaaid",
+    "NOM_ETABA": "المنار الواعد",
+    "AdresseL": "Rue Ben Samim N°36 av. Idriss1",
+    "AdresseA": "زنقة بن صميم رقم 36 شارع ادريس",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Markaz Al Janoub",
+    "NOM_ETABA": "مركز الجنوب",
+    "AdresseL": "Rue zawyat chikh n 194",
+    "AdresseA": "العيون زاوية الشيخ الرقم 194",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALYAMAMA",
+    "NOM_ETABA": "اليمامة",
+    "AdresseL": "LOT MOLAY RACHID N 11 BLOC O L",
+    "AdresseA": "تجزئة مولاي رشيد رقم 11 بلوك  ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jil Al Maarifa Arraqmia",
+    "NOM_ETABA": "جيل المعرفة الرقمية",
+    "AdresseL": "lot 84 boulvard 81 bloc b n°41",
+    "AdresseA": "تجزئة 84 شارع 81 بلوك ب رقم 41",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Taleb Aamer",
+    "NOM_ETABA": "الطالب أعمر",
+    "AdresseL": "madinet elwifak ploc d n° 1654",
+    "AdresseA": "مدينة الوفاق بلوك د الرقم 1654",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ets madess 2",
+    "NOM_ETABA": "مادس 2",
+    "AdresseL": "tajziat alharti n11 laayoune",
+    "AdresseA": "تجزئة الحارثي رقم 11 العيون",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AAJMAN",
+    "NOM_ETABA": "عجمان",
+    "AdresseL": "lot el wakala bloc e n°187",
+    "AdresseA": "تجزئة الوكالة بلوك و رقم 187",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Changuit",
+    "NOM_ETABA": "شنقيط",
+    "AdresseL": "quartier wakala 1  bloc f No44",
+    "AdresseA": "حي الوكالة 1 بلوك f الرقم 44-4",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Mosstakbal Attarbaoui",
+    "NOM_ETABA": "المستقبل التربوي",
+    "AdresseL": "LOT ELWAKALA 01 BLOC F NO 50",
+    "AdresseA": "تجزئة الوكالة 01، بلوك ف رقم 5",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Imtiaz",
+    "NOM_ETABA": "امتياز",
+    "AdresseL": "bd 24 novembre n° 74 LAAYOUNE",
+    "AdresseA": "شارع 24 نونبررقم 74 العيون",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Achariqua (Annexe)",
+    "NOM_ETABA": "الشارقة (الملحقة)",
+    "AdresseL": "AV.ELMAGHREB ARABI ZONE VILLA ",
+    "AdresseA": "العيون",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL DAOUDI",
+    "NOM_ETABA": "مؤسسة الداودي",
+    "AdresseL": "20,RUE 24, HAY EL FIDAE ",
+    "AdresseA": "حي الفداء رقم 20 زنقة 24",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Errazi (Annexe 2)",
+    "NOM_ETABA": "2 ملحقة الرازي",
+    "AdresseL": "AVENUE ABOSOUFIANE BENHARITH H",
+    "AdresseA": "Eشارع ابو سفيان بن حارث حي الو",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Aanadil Asahra",
+    "NOM_ETABA": "عنادل الصحراء",
+    "AdresseL": "lot alwahda bloc e av habouha ",
+    "AdresseA": "تجزئة الوحدة بلوك e شارع حبوها",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bab Al Maali",
+    "NOM_ETABA": "باب المعالي",
+    "AdresseL": "lOT ALMOUSTAKBAL N 233 - 234",
+    "AdresseA": "حي المستقبل رقم 233 و 234 ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Dia Al Chams",
+    "NOM_ETABA": "ضياء الشمس",
+    "AdresseL": "lot alwakala quartier 85 bloc ",
+    "AdresseA": "حي الوكالة بلوك ا رقم 85",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ljwad",
+    "NOM_ETABA": "لجواد",
+    "AdresseL": "Lotissement1500hay Alwahda 01/",
+    "AdresseA": " تجزئة 1500حي الوحدة 01 /العيو",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Pierre Pascal ",
+    "NOM_ETABA": "بيير باسكال",
+    "AdresseL": "hay moulay rachid avenue 2 mar",
+    "AdresseA": "حي مولاي رشيد شارع 2 مارس الفي",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Attaqua",
+    "NOM_ETABA": "التقوى",
+    "AdresseL": "extension lotissement 707 no 4",
+    "AdresseA": "تجزئة 707 الممدة رقم 423",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fatir",
+    "NOM_ETABA": "فاطر",
+    "AdresseL": "LOT. alwikala 1.bloc e. n° 62",
+    "AdresseA": "تجزئة الوكالة 1.الرقم 62 E بلو",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Nour Al Maaref ",
+    "NOM_ETABA": "نور المعارف",
+    "AdresseL": "HAY  MY RACHID AV ELQODS VILLA",
+    "AdresseA": "حي مولاي رشيد شارع القدس فيلا ",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Janat Assahra (Annexe)",
+    "NOM_ETABA": "جنة الصحراء (الملحقة)",
+    "AdresseL": "lot 707 rue elala 619 avenue o",
+    "AdresseA": "حي القدس تجزئة 707 شارع عمر ال",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOFIA SAHARA ANNEXE",
+    "NOM_ETABA": "مؤسسة صوفيا صحراء الملحقة",
+    "AdresseL": "LOTISSEMENT MOLAY RACHID MOMTA",
+    "AdresseA": "تجزئة مولاي رشيد الممتدة مجموع",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALWESSAM EDDAHABI ANNEXE",
+    "NOM_ETABA": "مؤسسة الوسام الدهبي الملحقة",
+    "AdresseL": "HAY MOLAY RACHID VILLA N°02 LA",
+    "AdresseA": "حي مولاي رشيد فيلا رقم 02 العي",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA SIRENE DOREE ALKHEIR",
+    "NOM_ETABA": "مؤسسة الحورية الذهبية الخير",
+    "AdresseL": "LOTISSEMENT ALKHAYR LAAYOUNE",
+    "AdresseA": "تجزئة الخير العيون",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE PEDAGOGIQUE NOUR AL QAMAR",
+    "NOM_ETABA": "المركب التربوي نور القمر",
+    "AdresseL": "OUEST HAY ALOUDA LAAYOUNE",
+    "AdresseA": "محاداة شرق حي العودة - العيون",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOFIA SAHARA",
+    "NOM_ETABA": "صوفيا صحراء",
+    "AdresseL": "LOTISSEMENT MOULAY RACHID MOMT",
+    "AdresseA": "تجزئة مولاي رشيد الممتدة مجموع",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETAB ILLIYIN",
+    "NOM_ETABA": "مؤسسة عليين",
+    "AdresseL": "VILLE ALWIFAQ BLOC D N°11864",
+    "AdresseA": "مدينة الوفاق بلوك د رقم 11864",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETAB ALEURUBA",
+    "NOM_ETABA": "مؤسسة العروبة",
+    "AdresseL": "AVENUE IDRISS 1 N° 23 HAY ALWA",
+    "AdresseA": "شارع ادريس الأول رقم 23 حي الو",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETB ALWISSAM DAHABI",
+    "NOM_ETABA": "مؤسسة الوسام الذهبي",
+    "AdresseL": "HAY KHAT RAMLA 02 RENCOTRE AV ",
+    "AdresseA": "حي خط الرملة 2 ملتقى شارع مزوا",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM DAHBI",
+    "NOM_ETABA": "  مؤسسة الإمام الذهبي",
+    "AdresseL": "LOTISSEMENT ALAMAL 3 N° 29",
+    "AdresseA": "حي الأمل 3 رقم 29 العيون",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS.BETA LINAJAH",
+    "NOM_ETABA": "مؤسسة بيتا للنجاح",
+    "AdresseL": "",
+    "AdresseA": "شارع حي م.رشيد منطقة الفيلات ر",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS RIYAD AL MAARIF",
+    "NOM_ETABA": "رياض المعارف للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOT EL WIFAQ  EP 7 ET 8 LAAYOU",
+    "AdresseA": "تجزئة مدينة الوفاق رقم 07/08 ا",
+    "COMMUNE": "Laayoune ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  }
+]

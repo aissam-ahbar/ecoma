@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLÉGIAL FAQIH MOHAMMED HAMDAOUI",
+    "NOM_ETABA": "ثانوية الفقيه محمد الحمداوي الإعدادية",
+    "AdresseL": "CENTRE SIDI DAHBI",
+    "AdresseA": "مركز سيدي الذهبي",
+    "COMMUNE": "Sidi Dahbi",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI DAHBI CENTRE",
+    "NOM_ETABA": "مركزية سيدي الدهبي ",
+    "AdresseL": "sidi dahbi ",
+    "AdresseA": "سيدي الدهبي",
+    "COMMUNE": "Sidi Dahbi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEKYAYLA CENTRE",
+    "NOM_ETABA": "مركزية الكيايلة ",
+    "AdresseL": "DOUAR LEKYAYLA COMMUNE SIDI DAHBI",
+    "AdresseA": "دوار الكيايلة جماعة سيدي الذهبي",
+    "COMMUNE": "Sidi Dahbi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SI M HAMMED EL FEKKAK CENTRE",
+    "NOM_ETABA": "مركزية سيدي محمد الفكاك",
+    "AdresseL": " COMMUNE SIDI DAHBI",
+    "AdresseA": "جماعة سيدي الذهبي",
+    "COMMUNE": "Sidi Dahbi",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

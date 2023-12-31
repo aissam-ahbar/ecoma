@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN SINA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن سينا",
+    "AdresseL": "   nzala  COMMUNE AIT HADI",
+    "AdresseA": "جماعة أيت هادي نزالة",
+    "COMMUNE": "Ait Hadi",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT HADI CENTRE",
+    "NOM_ETABA": "  أيت هادي المركزية",
+    "AdresseL": "DOUAR DAR HMAD COMMUNE AIT HADI",
+    "AdresseA": "دار احماد جماعة ايت هادي",
+    "COMMUNE": "Ait Hadi",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NZALA",
+    "NOM_ETABA": "النزالة",
+    "AdresseL": "DOUAR NZALA COMMUNE AIT HADI",
+    "AdresseA": "دوار النزالة ",
+    "COMMUNE": "Ait Hadi",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT AIT HADI",
+    "NOM_ETABA": "الثانوية التأهيلية ايت هادي",
+    "AdresseL": "Dar Hmad",
+    "AdresseA": "دار احماد",
+    "COMMUNE": "Ait Hadi",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

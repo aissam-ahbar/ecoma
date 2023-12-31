@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAREK IBNOU ZIAD",
+    "NOM_ETABA": "ثانوية طارق بن زياد الاعدادية",
+    "AdresseL": "centre commune ISSAFEN TATA",
+    "AdresseA": "مركز جماعة اسافن اقليم طاطا",
+    "COMMUNE": "Issafen",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S IDAOUTINSTE",
+    "NOM_ETABA": "م/م ادا وتنست",
+    "AdresseL": "DOUAR IDAOUTINSTE  ISSAFEN  TATA",
+    "AdresseA": "اداوتنست اسافن طاطا",
+    "COMMUNE": "Issafen",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S TIZZA",
+    "NOM_ETABA": "م/م تيزا",
+    "AdresseL": "DOUAR TIZZA ISSAFEN  TATA",
+    "AdresseA": "دوار تيزا اسافن طاطا ",
+    "COMMUNE": "Issafen",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ISSAFEN",
+    "NOM_ETABA": "ثانوية اسافن التأهيلية",
+    "AdresseL": "Centre commune Issafen Tata",
+    "AdresseA": "مزكز جماعة اسافن اقليم طاطا",
+    "COMMUNE": "Issafen",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

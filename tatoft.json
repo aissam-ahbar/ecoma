@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE MOULAY ABDESSLAM BEN MCHICH",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي عبدالسلام بن مشيش  ",
+    "AdresseL": "TATOFT CENTRE COMMUNE TATOFT",
+    "AdresseA": "تطفت المركز",
+    "COMMUNE": "Tatoft",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "11 JANVIER MELIANA  CENTRE ",
+    "NOM_ETABA": "م/م 11 يناير مليانة المركزية",
+    "AdresseL": "DOUAR MELIANA COMMUNE TATOFT",
+    "AdresseA": "دوار مليانة جماعة تطفت",
+    "COMMUNE": "Tatoft",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR  LOUZARI  CENTRE",
+    "NOM_ETABA": "م/م  دار  الوزاري  المركزية",
+    "AdresseL": "DOUAR DAR LOUZARI COMMUNE TATOFT",
+    "AdresseA": "دوار دار الوزاري جماعة تطفت",
+    "COMMUNE": "Tatoft",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAF TRAOULA CENTRE",
+    "NOM_ETABA": "م/م  صف التراولة المركزية ",
+    "AdresseL": "DOUAR SAF TRAOULA COMMUNE TATOFT",
+    "AdresseA": "دوار صف التراولة جماعة تطفت",
+    "COMMUNE": "Tatoft",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

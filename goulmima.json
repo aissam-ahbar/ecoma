@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AMIR MOULAY RACHID",
+    "NOM_ETABA": "الثانوية الإعدادية الأمير مولاي رشيد",
+    "AdresseL": "avenue hassan ii  GOULMIMA",
+    "AdresseA": "شارع الحسن الثاني كلميمة",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AMIRA LALLA ASMA",
+    "NOM_ETABA": "الأميرة للا أسماء",
+    "AdresseL": "CENTRE GOULMIMA",
+    "AdresseA": "كلميمة المركز",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "CENTRE GOULMIMA",
+    "AdresseA": "كلميمة المركز",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETTAOUHID",
+    "NOM_ETABA": "التوحيد",
+    "AdresseL": "CENTRE GOULMIMA",
+    "AdresseA": "كولميمة المركز",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED EL KORRI",
+    "NOM_ETABA": "محمد القري",
+    "AdresseL": "HAY   OUATMANE  GOULMIMA",
+    "AdresseA": "حي  اعثمان كلميمة",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAKATERT",
+    "NOM_ETABA": "تكاترت",
+    "AdresseL": "KSAR TAKATERTE GOULMIMA",
+    "AdresseA": "قصر تكاترت كلميمة",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY ERRACHAD",
+    "NOM_ETABA": "حي الرشاد",
+    "AdresseL": "GOULMIMA",
+    "AdresseA": "كلميمة",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELKHAWARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": " Tarmaste Goulmima",
+    "AdresseA": " حي تارماست كلميمة",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED V",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "AVENUE HASSAN 2 GOULMIMA",
+    "AdresseA": "شارع الحسن2 كلميمة",
+    "COMMUNE": "Goulmima",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GHRIS",
+    "NOM_ETABA": "غريس",
+    "AdresseL": "avenue hassane 2 goulmima",
+    "AdresseA": "شارع الحسن الثاني كلميمة",
+    "COMMUNE": "Goulmima ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tresort de connaissance ",
+    "NOM_ETABA": "طريزور دو كونيصونص",
+    "AdresseL": "El hay Al jadid Goulmima",
+    "AdresseA": "الحي الجديد كلميمة",
+    "COMMUNE": "Goulmima ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "NOM_ETABL": "AL MOUTANABI",
+    "NOM_ETABA": "المتنبي",
+    "AdresseL": "30RUE JULES CESAR ROCHES NOIRES",
+    "AdresseA": "رقم 30 زنقة جيل سيزار الصخور السوداء",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BRAHIM ROUDANI",
+    "NOM_ETABA": "ابراهيم الروداني",
+    "AdresseL": "BOULEVARD BAHMAD rue guiz1",
+    "AdresseA": "شارع أبا حماد زنقة كيز 1",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMAME ECHAFII",
+    "NOM_ETABA": "الإمام الشافعي",
+    "AdresseL": "BD LA GRANDE CEINTURE HAY ADIL",
+    "AdresseA": "شارع الحزام الكبير حي عادل",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "RUE DAVeSNEs  roches noires",
+    "AdresseA": "زنقة دافيسنس الصخور السوداء",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "FAKI STATI",
+    "NOM_ETABA": "فاقي السطاتي",
+    "AdresseL": "BD FOUARAT hay adil",
+    "AdresseA": "شارع الفوارات حي عادل",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY IDRISS 1",
+    "NOM_ETABA": "مولاي إدريس الأول",
+    "AdresseL": "BOULEVARD EMILE ZOLA ROCHES NOIRES",
+    "AdresseA": "شارع إميل زولا الصخور السوداء",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HICHAM",
+    "NOM_ETABA": "ابن هشام",
+    "AdresseL": "32RUE JULES CESAR ROCHES NOIRES",
+    "AdresseA": "32 زنقة جيل سيزار الصخور السوداء",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OQBA BNOU NAFII",
+    "NOM_ETABA": "عقبة بن نافع ",
+    "AdresseL": "BD OKBA BNOU NAFII hay mohammadi",
+    "AdresseA": "شارع عقبة بن نافع الحي المحمدي",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RAHAL AL MASKINI",
+    "NOM_ETABA": "رحال المسكيني",
+    "AdresseL": "BD abou laadraa el morrakochi hay mohammadi",
+    "AdresseA": "شارع أبو العدراء المراكشي الحي المحمدي",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOUWAHIDINE",
+    "NOM_ETABA": "الموحدين",
+    "AdresseL": "BOULEVARD AL FOUARAT hay adil",
+    "AdresseA": "شارع الفوارات حي عادل",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU TABIT",
+    "NOM_ETABA": "ابن ثابت ",
+    "AdresseL": "HAY LAMIA BD FOUARAT",
+    "AdresseA": "حي لمياء شارع الفوارات",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU SAID AL MAGHRIBI",
+    "NOM_ETABA": "ابن سعيد المغربي",
+    "AdresseL": "HAY JAMAL rue 1 hay mohammadi",
+    "AdresseA": "حي جمال زنقة 1 الحي المحمدي",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL WAKIDI",
+    "NOM_ETABA": "الواقدي",
+    "AdresseL": "BD HASSAN AL ALAOUI AIN EL BORJA",
+    "AdresseA": "شارع حسن العلوي عين البرجة",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMANE",
+    "NOM_ETABA": "الأمان",
+    "AdresseL": "res AL AMANE HAKAM 3 ROCHES NOIRES",
+    "AdresseA": "إقامة الأمان حكم 3 الصخور السوداء",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM MALIK",
+    "NOM_ETABA": "الإمام مالك",
+    "AdresseL": "RUE SIJILMASSA BELVEDERE ROCHES NOIRES",
+    "AdresseA": "زنقة سجلماسة بلفدير الصخور السوداء",
+    "COMMUNE": "Assoukhour Assawda ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMAN IBN GHAZALA",
+    "NOM_ETABA": "عبد الرحمان بن غزالة",
+    "AdresseL": "HAY eddakhla bd Fouarat hay mohammadi",
+    "AdresseA": "حي الداخلة شارع الفوارات الحي المحمدي",
+    "COMMUNE": "Assoukhour Assawda ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN AL BANNAA AL MOURRAKOCHI",
+    "NOM_ETABA": "ابن البناء المراكشي",
+    "AdresseL": "RUE EMILE BRINI ROCHES NOIRES",
+    "AdresseA": "زنقة إميل بروني الصخور السوداء",
+    "COMMUNE": "Assoukhour Assawda ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OKBA IBN NAFII",
+    "NOM_ETABA": "عقبة بن نافع",
+    "AdresseL": "BD OQBA BNOU NAFII HAY MOHAMMADI",
+    "AdresseA": "شارع عقبة بن نافع  ,الحي المحمدي",
+    "COMMUNE": "Assoukhour Assawda ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "CHEMS BELVEDERE",
+    "NOM_ETABA": "شمس بلفدير",
+    "AdresseL": "RUE SAINT QUANTIN BELVEDERE",
+    "AdresseA": "زنقة سانت كانتن بلفدير",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "philosophe ",
+    "NOM_ETABA": " الفيلسوف",
+    "AdresseL": "N 100 BD ABDELLAH BEN YASSINE ",
+    "AdresseA": "رقم 100 شارع عبد الله بن ياسين",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BROSSARD",
+    "NOM_ETABA": "مؤسسة بروسار الخصوصية",
+    "AdresseL": "163 bd MAATI bOUABID CITE ADIL",
+    "AdresseA": "رقم 163 شارع المعطي بوعبيد",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA RESILIENCE",
+    "NOM_ETABA": "لاريزيليونس",
+    "AdresseL": "N° 60 rue capitaine theriete a",
+    "AdresseA": "رقم60 زنقة القبطان ترياث عين ا",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire anouar al madina",
+    "NOM_ETABA": "مجموعة مدارس أنوار المدينة",
+    "AdresseL": "22, Angle rue douai et rue Sai",
+    "AdresseA": "زاوية زنقة دووي و زنقة أومير ا",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Georges clemenceau",
+    "NOM_ETABA": "جورج كليمنصو",
+    "AdresseL": "n104-106 rue capitaine theriat",
+    "AdresseA": "رقم 106-104 زنقة قبطان تريات ع",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Belvedère",
+    "NOM_ETABA": "بلفدير",
+    "AdresseL": "34 RUE DELLYS  BELVEDERE ROCHE",
+    "AdresseA": "34 زنقة دليس بلفدير الصخور الس",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Essabaya",
+    "NOM_ETABA": "الصبايا",
+    "AdresseL": "Rue Des Gaves, N° 528 Assoukho",
+    "AdresseA": "زنقة ديكاف،  رقم 528 الصخور ال",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mogador",
+    "NOM_ETABA": "موكادور",
+    "AdresseL": "rue 1 N° 16, Hay Chadia, La vi",
+    "AdresseA": "زنقة 1  رقم 16 حي شادية لافييت",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Soukaina",
+    "NOM_ETABA": " سكينة",
+    "AdresseL": "N° 32-34, Bd. Ibnou Al Adraa A",
+    "AdresseA": " رقم 32-34، شارع ابن العذراء ا",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la petite maison",
+    "NOM_ETABA": "المنزل الصغير",
+    "AdresseL": "Hay Al Massira, Imm. 23, N° 01",
+    "AdresseA": "حي المسيرة عمارة 23، رقم -04-0",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ferdaous Lavillette",
+    "NOM_ETABA": "فردوس لافيليت",
+    "AdresseL": "N° 31, Rue AsNi Lavillette - A",
+    "AdresseA": "رقم 31، زنقة أستي لافيليت - ال",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMJAD AL AULA",
+    "NOM_ETABA": "أمجاد العلى",
+    "AdresseL": "N° 13, Hay Nardik, Ain Borja A",
+    "AdresseA": "رقم 13 زنقة نرويك ، عين البرجة",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Canaris",
+    "NOM_ETABA": "ليكاناري",
+    "AdresseL": "N° 29 Rue Zoubire Ben Aouam  R",
+    "AdresseA": "رقم 29 زنقة الزبير بن العوام ا",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chems BEYGRINE",
+    "NOM_ETABA": "شمس بيكرين",
+    "AdresseL": "N° 6 Rue Neufchatel Belvedere ",
+    "AdresseA": "رقم 6 زنقة نوفشاطيل بلفدير الص",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Eddoha1",
+    "NOM_ETABA": "الضحى1",
+    "AdresseL": "N° 7 Rue BaYAUMe Roches Noires",
+    "AdresseA": "رقم 7 زنقة بايوم الصخور السودا",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ali BEN BARRI",
+    "NOM_ETABA": "علي بن بري",
+    "AdresseL": "N° 69 Jules Cesar  Roches Noir",
+    "AdresseA": "رقم 69 جول سيزار  الصخور السود",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Maison Joyeuse",
+    "NOM_ETABA": "المنزل السعيد",
+    "AdresseL": "Hay Arssalane Rue 5 N° 20 Roch",
+    "AdresseA": "حي أرسلان زنقة 5 رقم 20 الصخور",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "My.Abdesslam Ben Mchich",
+    "NOM_ETABA": "مولاي عبد السلام بن مشيش",
+    "AdresseL": "1 rue compiègne VOYAGEUR Belvè",
+    "AdresseA": "رقم 1 زنقة كوزميين -م المسافري",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Wifaq AL MOSTAKIM",
+    "NOM_ETABA": " الوفاق المستقيم",
+    "AdresseL": "N° 88 Rue Saint Seans Belvédèr",
+    "AdresseA": "رقم 88 زنقة سانس بلفدير ",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Doha2",
+    "NOM_ETABA": " الضحى2",
+    "AdresseL": "Hay Oulad Ziyane Avennue Oulad",
+    "AdresseA": "حي اولاد زيان طريق اولاد زيان ",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Badr",
+    "NOM_ETABA": " بدر",
+    "AdresseL": "N° 42 Rue Ahrame Belvedère Roc",
+    "AdresseA": "رقم 42 زنقة الأهرام بلفدير الص",
+    "COMMUNE": "Assoukhour Assawda",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

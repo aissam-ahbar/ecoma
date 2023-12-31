@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ENNAJAH",
+    "NOM_ETABA": "اعدادية النجاح",
+    "AdresseL": "KSAR MEZGUIDA",
+    "AdresseA": "طريق قصر مزكيدة",
+    "COMMUNE": "Er-rissani",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MEZGUIDA",
+    "NOM_ETABA": "مزكيدة",
+    "AdresseL": "KSAR MEZGUIDA RISSANI",
+    "AdresseA": "قصر مزكيدة الريصاني",
+    "COMMUNE": "Er-rissani",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMINIZRANE",
+    "NOM_ETABA": "امنزران",
+    "AdresseL": "KSAR IMINIZRANE RISSANI",
+    "AdresseA": "قصر امنزران الريصاني",
+    "COMMUNE": "Er-rissani",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGUERROUMT",
+    "NOM_ETABA": "تكرومت",
+    "AdresseL": "KSAR TAGUERROUMT RISSANI",
+    "AdresseA": "قصر تكرومت الريصاني",
+    "COMMUNE": "Er-rissani",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAQTAA ESSFA",
+    "NOM_ETABA": "مقطع الصفا",
+    "AdresseL": "KSAR MAQTAA ESSFA RISSANI",
+    "AdresseA": "مقطع الصفا الريصاني",
+    "COMMUNE": "Er-rissani",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMARNA",
+    "NOM_ETABA": "تامرنة",
+    "AdresseL": "DOUAR TAMARNA COMMUNE ERRISSANI",
+    "AdresseA": "تامرنة الريصاني",
+    "COMMUNE": "Er-rissani",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

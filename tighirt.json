@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED EL YAZIDI",
+    "NOM_ETABA": "الثانوية الاعدادية محمد اليزيدي",
+    "AdresseL": "COMMUNE TIGHIRT centre",
+    "AdresseA": "مركز جماعة تغيرت  إقليم سيدي إفني",
+    "COMMUNE": "Tighirt",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL MAARRI CENTRE TIGHIRT",
+    "NOM_ETABA": "مجموعة مدارس المعري مركزية تغيرت",
+    "AdresseL": "CENTRE COMMUNE TIGHIRT",
+    "AdresseA": "مركز جماعة تغيرت",
+    "COMMUNE": "Tighirt",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL TILAL CENTRE IDBINIRANE",
+    "NOM_ETABA": " مجموعة مدارس التلال مركزية ادبنران",
+    "AdresseL": "DOUAR IDBINIRANE  Tighirt",
+    "AdresseA": "دوار ادبنيران   تغيرت ",
+    "COMMUNE": "Tighirt",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL IZDIHAR CENTRE KRAMA",
+    "NOM_ETABA": "مجموعة مدارس الازدهار مركزية كرامة",
+    "AdresseL": "DOUAR KRAMA",
+    "AdresseA": "دوار كرامة",
+    "COMMUNE": "Tighirt",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ID EL MAHFOUD CENTRE ID EL MAHFOU",
+    "NOM_ETABA": "مجموعة مدارس اد المحفوض مركزية اد المحفوض ",
+    "AdresseL": "DOUAR ID EL MAHFOUD",
+    "AdresseA": "دوار اد المحفوض",
+    "COMMUNE": "Tighirt",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TIGHIRT",
+    "NOM_ETABA": "الثانوية التأهيلية تيغيرت",
+    "AdresseL": "CENTRE COMMUNE TIGHIRT PROVINCE SIDI IFNI",
+    "AdresseA": "مركز جماعة تيغيرت إقليم سيدي إفني",
+    "COMMUNE": "Tighirt",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "CENTRE SS AZGOUR",
+    "NOM_ETABA": "مركزية  م/م أزكور",
+    "AdresseL": "DOUAR AZGOUR COMMUNE AZGOUR",
+    "AdresseA": "دوار ازكور جماعة ازكور",
+    "COMMUNE": "Azgour",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMDINAT",
+    "NOM_ETABA": "لمدينات",
+    "AdresseL": "DOUAR LAMDINAT COMMUNE AZGOUR",
+    "AdresseA": "دوار لمدينات جماعة ازكور",
+    "COMMUNE": "Azgour",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOULKINE",
+    "NOM_ETABA": "تولكين",
+    "AdresseL": "DOUAR TOULKINE COMMUNE AZGOUR",
+    "AdresseA": "دوار تولكين جماعة ازكور",
+    "COMMUNE": "Azgour",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

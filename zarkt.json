@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ZARKT",
+    "NOM_ETABA": "زرقت",
+    "AdresseL": "COMMUNE ZARKT",
+    "AdresseA": "جماعة زرقت",
+    "COMMUNE": "Zarkt",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUARSAN",
+    "NOM_ETABA": "ورسان",
+    "AdresseL": "DOUAR OUARSAN COMMUNE ZARKAT",
+    "AdresseA": "دوارورسان جماعة زرقت",
+    "COMMUNE": "Zarkt",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY MEFTAH",
+    "NOM_ETABA": "مولاي مفتاح",
+    "AdresseL": "DOUAR MOULAY MEFTAH COMMUNE ZARKAT",
+    "AdresseA": "دوار مولاي مفتاح جماعة زرقت",
+    "COMMUNE": "Zarkt",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

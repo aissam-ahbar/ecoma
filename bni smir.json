@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNI SMIR",
+    "NOM_ETABA": "الثانوية الاعدادية بني سمير",
+    "AdresseL": "centre commune rurale bni smir  ",
+    "AdresseA": "مركز الجماعة القروية بني سمير ",
+    "COMMUNE": "Bni Smir",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BENI SMIR",
+    "NOM_ETABA": "م/م بني سمير",
+    "AdresseL": "DOUAR DHAMNA COMMUNE BENI SMIR",
+    "AdresseA": "دوار  الدحامنة",
+    "COMMUNE": "Bni Smir",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KCHOUH",
+    "NOM_ETABA": "م/م أقشوح",
+    "AdresseL": "DOUAR LABRAHMA COMMUNE BENI SMIR",
+    "AdresseA": "دوار لبراهمة",
+    "COMMUNE": "Bni Smir",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

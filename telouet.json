@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL TICHKA",
+    "NOM_ETABA": "الثانوية الإعدادية تيشكا",
+    "AdresseL": "telouet centre   telouet",
+    "AdresseA": "تلوات المركز     تلوات       ",
+    "COMMUNE": "Telouet",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S TELOUETE",
+    "NOM_ETABA": "م.م. تلوات",
+    "AdresseL": "TELOUATE AMERZEGANE",
+    "AdresseA": "تلوات أمرزكان",
+    "COMMUNE": "Telouet",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IGHIL NOUBIANE",
+    "NOM_ETABA": "م.م. اغيل نوبيان",
+    "AdresseL": "TELOUATE AMERZEGANE",
+    "AdresseA": "تلوات أمرزكان",
+    "COMMUNE": "Telouet",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ASSAKA",
+    "NOM_ETABA": "م.م. اسكا",
+    "AdresseL": "ASSAKA TELOUATE AMERZEGANE",
+    "AdresseA": "اسكا تلوات امرزكان",
+    "COMMUNE": "Telouet",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ABDELLAH IBN YASSINE",
+    "NOM_ETABA": "م.م. عبد الله ابن ياسين",
+    "AdresseL": "TELOUATE AMERZEGANE",
+    "AdresseA": "جماعة تلوات",
+    "COMMUNE": "Telouet",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IHANDOGUENE",
+    "NOM_ETABA": "م.م. إحنداكن",
+    "AdresseL": "TELOUATE AMERZEGANE ouarzazate",
+    "AdresseA": "احنداكن تلوات دائرة امرزكان ورزازات",
+    "COMMUNE": "Telouet",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ARGUE",
+    "NOM_ETABA": "م.م.أرك",
+    "AdresseL": "TELOUATE AMERZEGANE",
+    "AdresseA": "تلوات أمرزكان",
+    "COMMUNE": "Telouet",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

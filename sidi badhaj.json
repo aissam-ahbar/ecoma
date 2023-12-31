@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SIDI BEDHAJ",
+    "NOM_ETABA": "سيدي بدهاج",
+    "AdresseL": "DOUAR AIT AAMARA AL BOUR COMMUNE SIDI BADHAJ",
+    "AdresseA": "دوار ايت عمارة البور جماعة سيدي بدهاج",
+    "COMMUNE": "Sidi Badhaj",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT AAMARA CENTRALE",
+    "NOM_ETABA": "ايت عمارة الواد المركزية",
+    "AdresseL": "DOUAR WAOUIZELTE COMMUNE SIDI BADHAJ",
+    "AdresseA": "دوار  واوزليت جماعة سيدي بدهاج",
+    "COMMUNE": "Sidi Badhaj",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

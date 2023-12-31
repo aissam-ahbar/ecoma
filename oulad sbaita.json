@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL IBN SINA",
+    "NOM_ETABA": "ثانوية ابن سينا الإعدادية ",
+    "AdresseL": "COMMUNE OULED SBAITA",
+    "AdresseA": "جماعة أولاد اسبيطة",
+    "COMMUNE": "Oulad Sbaita",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ERRACHAD",
+    "NOM_ETABA": "الرشاد",
+    "AdresseL": "DOUAR DHAMNA COMMUNE OULED SBAITA",
+    "AdresseA": "دوارالدحامنة جماعة اولاد اسبيطة",
+    "COMMUNE": "Oulad Sbaita",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHDADJA",
+    "NOM_ETABA": "الهدادجة",
+    "AdresseL": "DOUAR LAHDADJA COMMUNE OULED SBAITA",
+    "AdresseA": "دوار الهادجة جماعة اولاد اسبيطة",
+    "COMMUNE": "Oulad Sbaita",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHARKAOUA",
+    "NOM_ETABA": "شرقاوة",
+    "AdresseL": "DOUAR CHARKAOUA COMMUNE OULED SBAITA",
+    "AdresseA": "دوارشرقاوة جماعة اولاداسبيطة",
+    "COMMUNE": "Oulad Sbaita",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ALI MHAMED",
+    "NOM_ETABA": "سيدي علي امحمد",
+    "AdresseL": "DOUAR SIDI ALI MHAMED COMMUNE OULED SBAITA",
+    "AdresseA": "دوار سيدي علي امحمد",
+    "COMMUNE": "Oulad Sbaita",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHOUALDA",
+    "NOM_ETABA": "الخوالدة",
+    "AdresseL": "DOUAR LAKHOUALDA COMMUNE OULED SBAITA",
+    "AdresseA": "دوارالخوالدة جماعة اولاد اسبيطة",
+    "COMMUNE": "Oulad Sbaita",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

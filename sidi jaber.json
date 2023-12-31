@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "SIDI JABER",
+    "NOM_ETABA": "م سيدي جابر",
+    "AdresseL": "SIDI JABER",
+    "AdresseA": "جماعة سيدي جابر",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAMZA IBNOU ABDELMOTTALEB",
+    "NOM_ETABA": "م حمزة بن عبد المطلب",
+    "AdresseL": "SIDI JABER CENTRE",
+    "AdresseA": "جماعة سيدي جابر",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SI MIMOUNE",
+    "NOM_ETABA": "م. أولاد سي ميمون",
+    "AdresseL": "OULED SI MIMOUNE COMMUNE SIDI JABER",
+    "AdresseA": "جماعة سيدي جابر",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KARYA NAMOUDAJYA CENTRE",
+    "NOM_ETABA": "مركزية القرية النموذجية",
+    "AdresseL": "KARYA NAMOUDAJYA COMMUNE SIDI JABER",
+    "AdresseA": "جماعة سيدي جابر",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUHJAR CENTRE",
+    "NOM_ETABA": "مركزية بوحجر",
+    "AdresseL": "BOUHJAR COMMUNE SIDI JABER",
+    "AdresseA": "جماعة سيدي جابر",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKRAKEB CENTRE",
+    "NOM_ETABA": "مركزية القراقب",
+    "AdresseL": "LAKRAKEB  COMMUNE SIDI JABER",
+    "AdresseA": "جماعة سيدي جابر",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBNOU EL AOUAM",
+    "NOM_ETABA": "ثانوية ابن العوام التأهيلية",
+    "AdresseL": "AL HAY AL IDARI SIDI JABER",
+    "AdresseA": "الحي الإداري سيدي جابر",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Rijal alghad 2",
+    "NOM_ETABA": "رجال الغد 2",
+    "AdresseL": "PAME N° 201 SIDI JABEUR",
+    "AdresseA": "حي البام رقم 201 سيدي جابر",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sidi jaber",
+    "NOM_ETABA": "سيدي جابر",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النجاح 2 رقم 192 سيدي جا",
+    "COMMUNE": "Sidi Jaber",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

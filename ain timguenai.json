@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial 6 NOVEMBRE",
+    "NOM_ETABA": " ثانوية 6 نونبر الإعدادية",
+    "AdresseL": "ZAOUIT BOUGRINE cENTRE ain timganay",
+    "AdresseA": "زاوية بوكرين مركز عين تيمكناي",
+    "COMMUNE": "Ain Timguenai",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss ZAOUIA BOUGRINE Centre",
+    "NOM_ETABA": "م/م زاوية بوكرين-المركز",
+    "AdresseL": "ZAOUIA BOUGRINE commune ain timguenai",
+    "AdresseA": "زاوية بوكرين جماعة عين تمكناي",
+    "COMMUNE": "Ain Timguenai",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss KASSIOUA Centre",
+    "NOM_ETABA": "م/م قصيوة-المركز",
+    "AdresseL": "DOUAR KASSIOUA",
+    "AdresseA": "دوار قصيوة",
+    "COMMUNE": "Ain Timguenai",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

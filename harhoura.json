@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "MOHAMMED ZARKTOUNI",
+    "NOM_ETABA": "محمد الزرقطوني",
+    "AdresseL": " DOUAR OULAD SLMA EL BAHRIYA HARHOURA",
+    "AdresseA": "اولاد سلامة  طريق الفلاح",
+    "COMMUNE": "Harhoura",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FARABI",
+    "NOM_ETABA": "الفرابي",
+    "AdresseL": "CITE BEETHOVEN HARHOURA",
+    "AdresseA": "حي بيتهوفن الهرهورة",
+    "COMMUNE": "Harhoura",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YACOUB ELMANSOUR",
+    "NOM_ETABA": "يعقوب المنصور",
+    "AdresseL": "HARHOURA",
+    "AdresseA": "الهرهورة",
+    "COMMUNE": "Harhoura",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "les fleurs de l age",
+    "NOM_ETABA": "ليفلوردولاج",
+    "AdresseL": "Residence ettaoufik harhoura",
+    "AdresseA": "إقامة التوفيق",
+    "COMMUNE": "Harhoura ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

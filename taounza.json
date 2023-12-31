@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU AL HAYTEM",
+    "NOM_ETABA": "ثانوية ابن الهيثم الاعدادية",
+    "AdresseL": "CENTRE TAWANZA",
+    "AdresseA": "تاونزة المركز",
+    "COMMUNE": "Taounza",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAOUNZA",
+    "NOM_ETABA": "مركزية تاونزة",
+    "AdresseL": "DOUAR TAOUNZA ",
+    "AdresseA": "دوار تاونزة ",
+    "COMMUNE": "Taounza",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AGHBALOU AIT TOTSS",
+    "NOM_ETABA": "مركزية اغبالو ايت طوطس",
+    "AdresseL": "DOUAR AGHBALOU AIT TOTSS",
+    "AdresseA": "دوار اغبالو ايت طوطس ",
+    "COMMUNE": "Taounza",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAMRIGHTE",
+    "NOM_ETABA": "مركزية تمريغت",
+    "AdresseL": "DOUAR TAMRIGHTE ",
+    "AdresseA": "دوار تمريغت ",
+    "COMMUNE": "Taounza",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT IAZEM",
+    "NOM_ETABA": "مركزية آيت اعزم",
+    "AdresseL": "DOUAR AIT IAZAM commune Taouanza",
+    "AdresseA": "دوار ايت اعزم  جماعة تاونزة ",
+    "COMMUNE": "Taounza",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AZLAF",
+    "NOM_ETABA": "اعدادية ازلاف",
+    "AdresseL": "COMMUNE AZLAF",
+    "AdresseA": "جماعة ازلاف",
+    "COMMUNE": "Azlaf",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AIN CHIFAE",
+    "NOM_ETABA": "م.م عين الشفاء  ",
+    "AdresseL": "DOUAR AIN CHIFAE COMMUNE  AZLAF",
+    "AdresseA": "عين الشفاء ازلاف",
+    "COMMUNE": "Azlaf",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZLAF",
+    "NOM_ETABA": "م م أزلاف",
+    "AdresseL": "COMMUNE AZLAF CENTRE",
+    "AdresseA": "أ زلاف",
+    "COMMUNE": "Azlaf",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

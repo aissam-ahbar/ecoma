@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S/S TIZGUI",
+    "NOM_ETABA": "م/م تزكي",
+    "AdresseL": "DOUAR TIZGUI commune tizaghte  TATA",
+    "AdresseA": "دوار تزكي اجماعة تزغت طاطا",
+    "COMMUNE": "Tizaghte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S ANTLA OUNGAREF",
+    "NOM_ETABA": "م/م انتلى انكارف",
+    "AdresseL": "DOUar antla ongaref commune tizaghte  TATA",
+    "AdresseA": "دوار أنتلى وانكارف جماعة تزغت طاطا",
+    "COMMUNE": "Tizaghte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S TIGHMERTE",
+    "NOM_ETABA": "م/م تغمرت",
+    "AdresseL": "DOUAR TIGHMERTE TIZAGHTE ISSAFEN  TATA",
+    "AdresseA": "دوار تغمرت تزغت اسافن طاطا",
+    "COMMUNE": "Tizaghte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

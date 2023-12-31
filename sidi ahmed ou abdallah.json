@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS AL YARMOUK",
+    "NOM_ETABA": "م.م اليرموك",
+    "AdresseL": "DOUAR  IMARIDEN SIDI AHMED OU ABDELLAH",
+    "AdresseA": "د. إماريضن",
+    "COMMUNE": "Sidi Ahmed Ou Abdallah",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGLAGAL",
+    "NOM_ETABA": "م.م أكلكال",
+    "AdresseL": "DOUAR   AZOURANE  SIDI AHMED OU ABDELLAH",
+    "AdresseA": "دوار أزوران جماعة سيدي احمد اوعبد الله",
+    "COMMUNE": "Sidi Ahmed Ou Abdallah",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

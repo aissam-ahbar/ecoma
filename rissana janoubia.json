@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "IBNOU  TOFAIL  DOSSI  CENTRE ",
+    "NOM_ETABA": "م/م ابن طفيل المركزية ",
+    "AdresseL": "DOUAR DOSSI COMMUNE RISSANA JANOUBIA",
+    "AdresseA": "دوار 12",
+    "COMMUNE": "Rissana Janoubia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULED MESSBAH",
+    "NOM_ETABA": "مدرسة أولاد مصباح",
+    "AdresseL": "DOUAR OULED MESSBAH COMMUNE RISSANA JANOUBIA",
+    "AdresseA": "دوار أولاد مصباح",
+    "COMMUNE": "Rissana Janoubia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELMOUARAA CENTRE",
+    "NOM_ETABA": "م/م الموارعة المركزية",
+    "AdresseL": "DOUAR MOUARAA KANTRA COMMUNE RISSANA JANOUBIA",
+    "AdresseA": "دوار الموارعة القنطرة جماعة ريصانة الجنوبية",
+    "COMMUNE": "Rissana Janoubia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BEN SAYD CENTRE",
+    "NOM_ETABA": "م/م أولاد بن الصيد المركزية",
+    "AdresseL": "DOUAR OULED BEN SAYD COMMUNE RISSANA JANOUBIA",
+    "AdresseA": "دوار اولاد بن الصيد جماعة ريصانة الجنوبية",
+    "COMMUNE": "Rissana Janoubia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SATTELITE   ELKHANNA",
+    "NOM_ETABA": "فرعية  الكحانة",
+    "AdresseL": "DOUAR KHANNA COMMUNE RISSANA JANOUBIA",
+    "AdresseA": "دوار الكحانة",
+    "COMMUNE": "Rissana Janoubia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUAJNA CENTRE",
+    "NOM_ETABA": "م/م الطواجنة المركزية",
+    "AdresseL": "DOUAR TOUAJNA COMMUNE RISSANA JANOUBIA",
+    "AdresseA": "دوار الطواجنة",
+    "COMMUNE": "Rissana Janoubia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

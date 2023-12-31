@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TOURIA SEKKAT",
+    "NOM_ETABA": "ثانوية ثريا السقاط الإعدادية ",
+    "AdresseL": "COMMUNE SIDI AHMED BEN AISSA",
+    "AdresseA": "جماعة سيدي أحمد بنعيسى",
+    "COMMUNE": "Sidi Ahmed Benaissa",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ANAS BNOU MALEK",
+    "NOM_ETABA": "أنس بن مالك",
+    "AdresseL": "DOUAR JAAOUNA ROUA COMMUNE SIDI AHMED BENAISSA",
+    "AdresseA": "دوار الجعاونة",
+    "COMMUNE": "Sidi Ahmed Benaissa",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ALBANAE",
+    "NOM_ETABA": "ابن البناء",
+    "AdresseL": "DOUAR OULAD BOUBKER  COMMUNE SIDI AHMED BENAISSA",
+    "AdresseA": " دوار أولاد بو بكر جماعة سيدي أحمد بنعيسى",
+    "COMMUNE": "Sidi Ahmed Benaissa",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOHAIR IBN ABI SALMA",
+    "NOM_ETABA": "زهير بن أبي سلمى",
+    "AdresseL": "DOUAR ZHIR BOUCHEFANE COMMUNE SIDI AHMED BENAISSA",
+    "AdresseA": "دوار زهير بوشفان",
+    "COMMUNE": "Sidi Ahmed Benaissa",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

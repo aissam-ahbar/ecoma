@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL AL ATLAS",
+    "NOM_ETABA": "ثانوية الاطلس الإعدادية",
+    "AdresseL": "COMMUNE BOUHMAME",
+    "AdresseA": "جماعة بوحما م",
+    "COMMUNE": "Bouhmame",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI BENNOUR",
+    "NOM_ETABA": "سيدي بنور",
+    "AdresseL": "DOUAR OULED LAHSSEN COMMUNE BOUHMAME",
+    "AdresseA": "دوار اولاد لحسن جماعة بوحمام",
+    "COMMUNE": "Bouhmame",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AHMED",
+    "NOM_ETABA": "اولاد احمد",
+    "AdresseL": "DOUAR EL KRABZA COMMUNE BOUHMAME",
+    "AdresseA": "دوار الكرابزة جماعة بوحمام",
+    "COMMUNE": "Bouhmame",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HAJ TAHAR",
+    "NOM_ETABA": "الحاج الطاهر",
+    "AdresseL": "DOUAR HAJ TAHAR COMMUNE BOUHMAME",
+    "AdresseA": "دوار الحاج الطاهر جماعة بوحمام",
+    "COMMUNE": "Bouhmame",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED RAHAL",
+    "NOM_ETABA": "اولاد رحال",
+    "AdresseL": "DOUAR OULED BOUCHTA COMMUNE BOUHMAME",
+    "AdresseA": "دوار اولاد بوشتى جماعة بوحمام",
+    "COMMUNE": "Bouhmame",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED RBIA",
+    "NOM_ETABA": "أولاد ربيعة",
+    "AdresseL": "DOUAR OULED MSSALAM COMMUNE BOUHMAME",
+    "AdresseA": "دوار اولاد مسلم جماعة بوحمام",
+    "COMMUNE": "Bouhmame",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MEHDI BEN BARKA",
+    "NOM_ETABA": "الثانوية الاعدادية المهدي بن بركة",
+    "AdresseL": "TAMOROT CENTRE COMMUNE TAMOROT",
+    "AdresseA": "مركز تمروت جماعة تموروت",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS EL MOUJAHIDINE TAMOROT",
+    "NOM_ETABA": "م/م المجاهدين _تمروت",
+    "AdresseL": "DOUAR TAMOROTCTAMOROT CHEFCHAOUEN",
+    "AdresseA": "دوار تمروت جماعة تمروت",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDELLAH IBRAHIM AMEZRA",
+    "NOM_ETABA": "م/م عبدالله ابراهيم _امزرة",
+    "AdresseL": "DOUAR AMEZRA C TAMOROT. CHEFCHAOUEN",
+    "AdresseA": "دوار امزرة جماعة تمروت. شفشاون",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI MHAMED JAMOUN DAR OUTAN",
+    "NOM_ETABA": "م/م سيدي محمد جمعون _داروتان",
+    "AdresseL": "DOUAr  DarOUTANE Commune TAMOROT CHEFCHAOUEN",
+    "AdresseA": "دوار داروتان  جماعة تمروت",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALARIHAN",
+    "NOM_ETABA": "م/م تلاريحان",
+    "AdresseL": "DOUAR TALARIHANE CR TAMOROUT CHEFCHAOUEN",
+    "AdresseA": "دوار تلاريحان جماعة تمروت",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI NBAT MAHLI",
+    "NOM_ETABA": "م/م بني نبات _محلي",
+    "AdresseL": "DOUAR MAHLICTAMOROTCHEFCHAOUEN",
+    "AdresseA": "دوار محلي جماعة تموروت",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI BOUHAJA LEMOUASSIF",
+    "NOM_ETABA": "م/م سيدي بوحاجة _لمواصيف",
+    "AdresseL": "DOUAR LEMOUASSIFCTAMOROTCHEFCHAOUEN",
+    "AdresseA": "دوار لمواصيف جماعة تموروت",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ISSEFAREN",
+    "NOM_ETABA": "م/م اصفارن",
+    "AdresseL": "DOUAR ISSEFAREN Commune TAMOROT CHEFCHAOUEN",
+    "AdresseA": "دوار اصفارن جماعة تمروت",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAMOROT",
+    "NOM_ETABA": "الثانوية التأهيلية تموروت",
+    "AdresseL": "CENTRE DE LA COMMUNE TAMOROT",
+    "AdresseA": "مركز جماعة تمروت",
+    "COMMUNE": "Tamorot",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

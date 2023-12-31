@@ -1,0 +1,342 @@
+[
+  {
+    "NOM_ETABL": "ALLAL KARRAKCHOU",
+    "NOM_ETABA": "علال كراكشو",
+    "AdresseL": "AV PRINCE SIDI MOHAMMED SOUISSI RABAT",
+    "AdresseA": "شارع الأمير سيدي محمدالسويسي الرباط",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR ASSALAM ALHASSANIA",
+    "NOM_ETABA": "دار السلام الحسنية",
+    "AdresseL": "AV  MOHAMMED VI KM 75 SOUISSI",
+    "AdresseA": "شارع  محمد السادس  كلم 7,5 السويسي",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMAN BNO AOUF",
+    "NOM_ETABA": "عبد الرحمان بن عوف",
+    "AdresseL": "ROUTE AYNE KHALUYA DAR ESSALAME YOUSSOUFIA",
+    "AdresseA": "طريق عين خلوية دار السلام اليوسفية",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL OULJA",
+    "NOM_ETABA": "الولجة",
+    "AdresseL": "OULJA KM 6  rabat",
+    "AdresseA": "ولجة كلم 6    الرباط",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "RUE KADI AHMED BENNANI souissi",
+    "AdresseA": "زنقة قاضي أحمد بناني السويسي",
+    "COMMUNE": "Souissi ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "al minbat boutaleb",
+    "NOM_ETABA": "المنبت بوطالب",
+    "AdresseL": "37 ave mehdi benbarka souissi",
+    "AdresseA": "37 شارع المهدي بنبركة",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT HENRI LEGRAND",
+    "NOM_ETABA": "هنري لوكران",
+    "AdresseL": "16, Rue Rais cherkaoui, med Be",
+    "AdresseA": "16، زنقة الشرقاوي ومحمد بلحسن ",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT BLAISE Pascal",
+    "NOM_ETABA": "معهد بليز باسكال",
+    "AdresseL": "Km 6, Avenue  Mohamed VI  - So",
+    "AdresseA": "كلم 6 ، شارع محمد السادس -   ا",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBrahim Al Khalil(ecole clair Soleil)",
+    "NOM_ETABA": "ابراهيم الخليل",
+    "AdresseL": "N° 9, Rue Gharb, Cité Administ",
+    "AdresseA": "رقم 9، زنقة الغرب، الحي الإدار",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manbaâ",
+    "NOM_ETABA": "المنبع",
+    "AdresseL": "27 Rue Zerhoun, Souissi",
+    "AdresseA": "27 زنقة زرهون، السويسي -",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole du Lac",
+    "NOM_ETABA": "مدرسة البحيرة",
+    "AdresseL": "Rue Beni Oylid, Avenue Ain Kha",
+    "AdresseA": "زنقة بني وليد، شارع عين خلوية ",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jabrane Khalil Jabrane",
+    "NOM_ETABA": "جبران خليل جبران",
+    "AdresseL": "Bir Kacem - Souissi",
+    "AdresseA": "بئر قاسم - السويسي",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annexe Jabrane Khalil Jabrane",
+    "NOM_ETABA": "جبران خليل جبران ملحقة ",
+    "AdresseL": "Avenue Bir Kacem, rue ouled ay",
+    "AdresseA": " شارع بئر قاسم -زنقة أولاد عيا",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL WIFAQ ",
+    "NOM_ETABA": "مؤسـسـة الوفـاق ",
+    "AdresseL": "Km 7,500 av mohammed vi rue om",
+    "AdresseA": "كلم 7,500، شارع محمد سادس زنقة",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Schtroumpfs",
+    "NOM_ETABA": "السنافر",
+    "AdresseL": "N° 50, Hay OLM - Souissi 2",
+    "AdresseA": "رقم 50، حي السكنى العسكرية - ا",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bir Kacem Assabil",
+    "NOM_ETABA": "بئر قاسم السبيل",
+    "AdresseL": "N° 89, Lotissement Ramdan, Ave",
+    "AdresseA": "رقم 89، تجزئة رمضان، شارع بئر ",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Grand Arc En Ciel",
+    "NOM_ETABA": "قوس قزح الكبير",
+    "AdresseL": "AVENUE MOHAMED VI RUE GUERROUA",
+    "AdresseA": "شارع محمد السادس زنقة كروان ال",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ben M Barek",
+    "NOM_ETABA": "مؤسسة بنمبارك",
+    "AdresseL": "N° 41, Avenue Oulad Said - Sou",
+    "AdresseA": "رقم 41، شارع اولاد سعيد - السو",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement Leho Souissi",
+    "NOM_ETABA": "مؤسسة لوهو السويسي",
+    "AdresseL": "N° 22, Avenue Souss, Aviation ",
+    "AdresseA": "رقم 22، شارع سوس، الطائرات -ال",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "complexe pedagogique Madaris Assalam",
+    "NOM_ETABA": "المركب التربوي مدارس السلام",
+    "AdresseL": "N° 38, Lotissement Mouline II ",
+    "AdresseA": "رقم 38، تجزئة ملين 2 - السويسي",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gs al mouwatana",
+    "NOM_ETABA": "م.م المواطنة",
+    "AdresseL": "N° 7, Avenue Ahmed Balafrej - ",
+    "AdresseA": "رقم 7، شارع أحمد بلافريج  - 10",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Petit Collège (type FRANCAIS/etranger)",
+    "NOM_ETABA": "الإعدادية الصغيرة ت-ف",
+    "AdresseL": "N° 23,26 Rue Oulad Bouziri - S",
+    "AdresseA": "رقم 23، زنقة اولاد بوزيري - ال",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MINBAT",
+    "NOM_ETABA": "المنبت",
+    "AdresseL": "Angle Avenue Mehdi Ben Barka e",
+    "AdresseA": "زاوية شارع المهدي بن بركة و أح",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Menzeh El AMine",
+    "NOM_ETABA": "المنزه الآمن",
+    "AdresseL": "N° 7, Rue Assil, Lotissement M",
+    "AdresseA": "رقم 7،  زنقة إسيل، تجزئة ملين ",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Toubkal",
+    "NOM_ETABA": "تبقال",
+    "AdresseL": "N° 4, Rue Rais Mohamed Baina -",
+    "AdresseA": "رقم 4، زنقة الرايس محمد باينة ",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE HIGH TECH AZ-ZAHRA",
+    "NOM_ETABA": "مجموعة مدارس هاي تيك الزهراء",
+    "AdresseL": "avenue bani wrayen Rue Chraga ",
+    "AdresseA": "زنقة شراكة - السويسي",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le grand univers",
+    "NOM_ETABA": "مؤسسة الكون الكبير الخاصة",
+    "AdresseL": "lot. Fatiha, N 71, SOuissi",
+    "AdresseA": "تجزئة فتيحة، رقم 71، السويسي",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ECOLES SCIENTIFIQUES MARIOTTE",
+    "NOM_ETABA": "المدارس العلمية ماريوط",
+    "AdresseL": "43 av med ben hassan ouazzani",
+    "AdresseA": "شارع محمد بن الحسن الوزاني رقم",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lycée scientifique souissi",
+    "NOM_ETABA": "الثانوية العلمية السويسي",
+    "AdresseL": "11b av. hassan al ouazzani",
+    "AdresseA": "11 شارع حسن الوزاني",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA MAISONNEE ",
+    "NOM_ETABA": "لاميزوني",
+    "AdresseL": "7 rue meziata souissi",
+    "AdresseA": "7 زنقة مزياتة تجزئة عبدالعزيز ",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SCIENTIFIQUE SOUISSI",
+    "NOM_ETABA": "الإعدادية العلمية السويسي",
+    "AdresseL": "Avenue BELHASSAN OUAZZANI Lot ",
+    "AdresseA": "شارع بلحسن الوزاني تجزئة الهدى",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ATLAS SECONDAIRE",
+    "NOM_ETABA": "مجموعة مدارس أطلس الثانوي",
+    "AdresseL": "km 4 Avenue Mohammed VI N2",
+    "AdresseA": "كلم 2,4 ، شارع محمد السادس - ا",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL AMANA MABELLA",
+    "NOM_ETABA": "معهد الأمانة مابيلا",
+    "AdresseL": "NULL",
+    "AdresseA": "66 زنقة ولاد زيان حي الطائرات ",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRAYSSOUN",
+    "NOM_ETABA": "الريسون",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 6 حي الطائرات",
+    "COMMUNE": "Souissi",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

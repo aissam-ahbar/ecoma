@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial Moussa Ibn Noçaïr",
+    "NOM_ETABA": "الثانوية الإعدادية موسى بن نصير ",
+    "AdresseL": "commune bni idder",
+    "AdresseA": "جماعة بني يدر",
+    "COMMUNE": "Bni Idder",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TOULATA BNI YEDDER",
+    "NOM_ETABA": "م.م ثلاثاء بني يدر",
+    "AdresseL": "TOULATA BNI YEDDER CBNI YEDDER  TETOUAN",
+    "AdresseA": "جماعة بني يدر",
+    "COMMUNE": "Bni Idder",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ESSBABE",
+    "NOM_ETABA": "م.م الصباب",
+    "AdresseL": "DOUAR ESSBABE CBNI YEDDER TETOUAN",
+    "AdresseA": "دوار الصباب جماعة بني يدر تطوان",
+    "COMMUNE": "Bni Idder",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAKAT AMER",
+    "NOM_ETABA": "م.م تاقة عامر",
+    "AdresseL": "DOUAR TAKAT AMER C BNI IDDER TETOUAN",
+    "AdresseA": "تاقة عامر جماعة بني يدر",
+    "COMMUNE": "Bni Idder",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

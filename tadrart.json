@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LC OUKBA BNOU NAFIAA",
+    "NOM_ETABA": "ثانوية عقبة بن نافع الإعدادية",
+    "AdresseL": "Commune Tadrart",
+    "AdresseA": "جماعة تدرارت",
+    "COMMUNE": "Tadrart",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS HALIMA SAADIA AGUERSOUAK",
+    "NOM_ETABA": "م.م حليمة السعدية -أكـرسـواك",
+    "AdresseL": "DOUAR  AGUERSOUAK           COMMUNE  TADRART",
+    "AdresseA": "دوار أكرســواك جماعة تـدرارت",
+    "COMMUNE": "Tadrart",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANNAHDA IRS",
+    "NOM_ETABA": " م.م النهضة-ارس",
+    "AdresseL": "DOUAR  IRS              COMMUNE  TADRART",
+    "AdresseA": "دوار ارس جماعة تدرارت",
+    "COMMUNE": "Tadrart",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TADRART TADRART",
+    "NOM_ETABA": "م.م تدرارت-تدرارت",
+    "AdresseL": "DOUAR  TADRART             COMMUNE  TADRART",
+    "AdresseA": "دوار تدرارت جماعة تدرارت",
+    "COMMUNE": "Tadrart",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

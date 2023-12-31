@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Tassouit",
+    "NOM_ETABA": "الثانوية الإعدادية تصويت",
+    "AdresseL": "ait sedrate sahl chrkia",
+    "AdresseA": "أيت سدرات السهل الشرقية",
+    "COMMUNE": "Ait Sedrate Sahl Charkia",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OUM AYACH",
+    "NOM_ETABA": "م م ام عياش",
+    "AdresseL": "DOUAR OUM AYACH KALAAT MGOUNA  TINGHIR",
+    "AdresseA": "قلعة مكونة",
+    "COMMUNE": "Ait Sedrate Sahl Charkia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAZAKHTE",
+    "NOM_ETABA": "م.م تزاخت",
+    "AdresseL": "DOUAR TAZAKHTE KALAAT MGOUNA OUARZAZATE",
+    "AdresseA": "قلعة مكونة",
+    "COMMUNE": "Ait Sedrate Sahl Charkia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TASSOUITE",
+    "NOM_ETABA": "م م تصويت",
+    "AdresseL": "DOUAR TASSOUITE KALAATE MGOUNA c r ait sedrat sah",
+    "AdresseA": "دوار تصويت قلعة امكونة",
+    "COMMUNE": "Ait Sedrate Sahl Charkia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  AIT SIDI MOULOUD",
+    "NOM_ETABA": "م.م  ايت سيدي مولود",
+    "AdresseL": "AIT SIDI MOULOUD KALAAT MGOUNA",
+    "AdresseA": "ايت سيدي مولود قلعة مكونة",
+    "COMMUNE": "Ait Sedrate Sahl Charkia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

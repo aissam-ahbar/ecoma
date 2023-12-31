@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMANFALOUTI",
+    "NOM_ETABA": "الثانوية الإعدادية المنفلوطي",
+    "AdresseL": "COMMUNE SIDI ABDELMOUMEN CENTRE",
+    "AdresseA": "جماعة سيدي عبد المومن المركز",
+    "COMMUNE": "Sidi Abdelmoumen",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI ABDELMOUMEN",
+    "NOM_ETABA": "سيدي عبد المومن",
+    "AdresseL": "CENTRE COMMUNE  SIDI ABDELMOUMEN",
+    "AdresseA": "مركز  جماعة  سيدي عبد المومن",
+    "COMMUNE": "Sidi Abdelmoumen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAHRA BENT AMMAR",
+    "NOM_ETABA": "زهرة بنت عمر",
+    "AdresseL": "DOUAR ZAHRA BENT AMMAR COMMUNE SIDI ABDELMOUMEN",
+    "AdresseA": "دوار زهرة بنت عمر",
+    "COMMUNE": "Sidi Abdelmoumen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGUI OUSLILE",
+    "NOM_ETABA": "إكي  وسوليل",
+    "AdresseL": "DOUAR IGUI OUSSOUlil SIDI ABDELMOUMEN",
+    "AdresseA": "دوار  إكي  وسوليل جماعة سيدي عبد المومن",
+    "COMMUNE": "Sidi Abdelmoumen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT SMAIL",
+    "NOM_ETABA": "أيت اسماعيل",
+    "AdresseL": "DOUAR AIT SMAIL COMMUNE SIDI ABDELMOUMEN",
+    "AdresseA": "دوار  أيت اسماعيل",
+    "COMMUNE": "Sidi Abdelmoumen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARSELT",
+    "NOM_ETABA": "تارسلت",
+    "AdresseL": "DOUAR TARSELT COMMUNE SIDI ABDELMOUMEN",
+    "AdresseA": "دوار  تارسلت",
+    "COMMUNE": "Sidi Abdelmoumen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

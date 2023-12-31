@@ -1,0 +1,312 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MAA AL AINAINE",
+    "NOM_ETABA": "الثانوية الإعدادية ماء العينين",
+    "AdresseL": "2 BD HASSAN II COMMUNE BOUZNIKA",
+    "AdresseA": "2 شارع الحسن الثاني جماعة بوزنيقة",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLÉGIAL BOUZNIKA",
+    "NOM_ETABA": "الثانوية الإعدادية بوزنيقة",
+    "AdresseL": "Av Bir Enzaran",
+    "AdresseA": "شارع بئر أنزران",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUZNIKA1",
+    "NOM_ETABA": "الثانوية الإعدادية بوزنيقة 1",
+    "AdresseL": "RESIDENCE EDDOHA",
+    "AdresseA": "إقامة الضحى",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MOHAMMADIA",
+    "NOM_ETABA": "مدرسة المحمدية",
+    "AdresseL": "AV ALLAL BEN ABDELLAH",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH GUENNOUN",
+    "NOM_ETABA": "مدرسة عبد الله كنون",
+    "AdresseL": "BOULEVARD BIR ANZARANE",
+    "AdresseA": "شارع بئر انزران",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL MAHATA CENTRE",
+    "NOM_ETABA": "م/م المحطة المركزية",
+    "AdresseL": "DOUAR AAMARA KASBA COMMUNE BOUZNIKA",
+    "AdresseA": "دوار اعمارة القصبة جماعة بوزنيقة",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL AMAL",
+    "NOM_ETABA": "مدرسة الأمل",
+    "AdresseL": "HAY EL AMAL COMMUNE BOUZNIKA",
+    "AdresseA": "                      شارع بير انزران حي الأمل",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ERRYAD",
+    "NOM_ETABA": "مدرسة الرياض",
+    "AdresseL": "HAY RYAD",
+    "AdresseA": "حي الرياض",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MAGHREB AL ARABI",
+    "NOM_ETABA": "مدرسة المغرب العربي",
+    "AdresseL": "Hay Essalam Bouznika",
+    "AdresseA": "حي السلام بوزنيقة",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED V CENTRE",
+    "NOM_ETABA": "م/م محمد الخامس المركزية",
+    "AdresseL": "DOUAR OULAD EL GAOUI",
+    "AdresseA": "دوار أولاد الكاوي",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BOUZNIKA",
+    "NOM_ETABA": "مدرسة بوزنيقة",
+    "AdresseL": "PERLE BOUZNIKA EDDOHA",
+    "AdresseA": "جوهرة بوزنيقة(الضحي)",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUNE",
+    "NOM_ETABA": "الثانوية التأهيلية ابن خلدون",
+    "AdresseL": "BD ALLAL BEN ABDELLAH",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ESSALAM",
+    "NOM_ETABA": "الثانوية التأهيلية السلام",
+    "AdresseL": "HAY ESSALAM ",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Bouznika",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JANAT ASSAFAA",
+    "NOM_ETABA": "مجموعة مدرسية جنات الصفاء الخصوصية",
+    "AdresseL": "LOTISSEMENT POLYFARGE 1 BOUZNI",
+    "AdresseA": "تجزئة بوليفارج 1 بوزنيقة بنسلي",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT THALES AZIM SCHOOL INTERNATIONAL",
+    "NOM_ETABA": "مؤسسة طاليس عازم سكول أنترناسيونال  الخصوصية",
+    "AdresseL": "jardins bouznika residence ket",
+    "AdresseA": "حدائق بوزنيقة إقامة الكتاني  ب",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "noyau private academy",
+    "NOM_ETABA": "مؤسسة نوايو بريفات أكاديمي",
+    "AdresseL": "lot elborj bouznika",
+    "AdresseA": "تجزئة البرج بوزنيقة",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement madarik annajah",
+    "NOM_ETABA": "مؤسسة مدارك النجاح الخصوصية",
+    "AdresseL": "674 lotissement les roses bouz",
+    "AdresseA": " 674-675  تجزئة الورد بوزنيقة ",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire mouaouia",
+    "NOM_ETABA": "مجموعة مداراس معاوية الخصوصية",
+    "AdresseL": "quartier ghita n°22",
+    "AdresseA": "حي غيثة رقم 22",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL KADA ASSIGHAR",
+    "NOM_ETABA": "مؤسسة القادة الصغار الخصوصية",
+    "AdresseL": "lot elmahjoubi n 115 bouznika",
+    "AdresseA": "115 تجزية المحجوبي بوزنيقة",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT GANDHI SCHOOL",
+    "NOM_ETABA": "مؤسسة غاندي سكول الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة رياض المحيط بوزنيقة - بن",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Maarifa",
+    "NOM_ETABA": "مؤسسة المعرفة الخاصة",
+    "AdresseL": "Hay Othmane,  N° 540  ",
+    "AdresseA": "حي عثمان الرقم 540 ",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Ahram",
+    "NOM_ETABA": "الأهرام",
+    "AdresseL": "QUARTIER OTHMANE AVENUE EL MOU",
+    "AdresseA": "حي عثمان شارع المستقبل الرقم 5",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANNAOUTE sarl",
+    "NOM_ETABA": "SARL مؤسسة  النواة",
+    "AdresseL": "N° 52, Lotissement Moulay Idri",
+    "AdresseA": "رقم 52، تجزئة مولاي ادريس الأك",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT PIERRE CORNEILLE",
+    "NOM_ETABA": "مؤسسة بيير كورناي الخصوصية ",
+    "AdresseL": "HAY OTMANE N°551 RUE LA  LIBER",
+    "AdresseA": "حي عثمان رقم 551 زنقة الحرية  ",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al ousra",
+    "NOM_ETABA": "مؤسسة الأسرة الخصوصية",
+    "AdresseL": "lot kenza douar douakha",
+    "AdresseA": "تجزئة كنزة دوار الدواخة",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bouabat al maali",
+    "NOM_ETABA": "مؤسسة بوابة المعالي الخصوصية",
+    "AdresseL": "N° 29; lotissement al bassatin",
+    "AdresseA": "رقم 29؛ تجزئة البساتين",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire jules ferry SARL",
+    "NOM_ETABA": "SARL مجموعة مدارس جول فيري",
+    "AdresseL": "lotissement el mamoune",
+    "AdresseA": "تجزئة المامون",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT  picasso SARL",
+    "NOM_ETABA": "SARL مؤسسة  بكاسو الخصوصية",
+    "AdresseL": "02 lotissement oued Elmakhazin",
+    "AdresseA": "رقم2 تجزئة وادي المخازن",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JNANE AL ADARISSA SARL",
+    "NOM_ETABA": "SARL مدرسة جنان الأدارسة  ",
+    "AdresseL": "lotissement ghita",
+    "AdresseA": "تجزئة غيثة",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FAJR AL MAARIFA SARL",
+    "NOM_ETABA": "SARL مؤسسة فجر المعرفة",
+    "AdresseL": "n° 124;lot beau rivage 2",
+    "AdresseA": "رقم124 تجزئة بوريفاج2",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement auguste lumiere ",
+    "NOM_ETABA": "مؤسسة أوكيست لوميير ",
+    "AdresseL": "lot 130 beaurivage 2",
+    "AdresseA": "رقم 130 بوريفاح2 ",
+    "COMMUNE": "Bouznika ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRAZI",
+    "NOM_ETABA": "الثانوية الإعدادية الرازي",
+    "AdresseL": "CENTRE COMMUNE SIDI AISSA",
+    "AdresseA": "ثلاثاء سيدي عيسى -المركز -",
+    "COMMUNE": "Sidi Aissa",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TLET SIDI AISSA",
+    "NOM_ETABA": "م/م الثلاثاء سيدي عيسى",
+    "AdresseL": "COMMUNE TLET SIDI AISSA COMMUNE SIDI AISSA",
+    "AdresseA": "جماعة سيدي عيسى دائرة عبدة",
+    "COMMUNE": "Sidi Aissa",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR OUZOU",
+    "NOM_ETABA": "م/م بئر اوزو",
+    "AdresseL": "DOUAR OUZOUCOMMUNE SIDI AISSA",
+    "AdresseA": "دوار بئر اوزو جماعة سيدي عيسى",
+    "COMMUNE": "Sidi Aissa",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

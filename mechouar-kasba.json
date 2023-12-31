@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "ECOLE KASBA",
+    "NOM_ETABA": "مدرسة القصبة",
+    "AdresseL": "DERB CHTOUKA 110 KASBAH",
+    "AdresseA": "درب اشتوكة القصبة",
+    "COMMUNE": "Méchouar-Kasba",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI AMARA",
+    "NOM_ETABA": "مدرسة مدرسة سيدي اعمارة",
+    "AdresseL": "SIDI AMARA",
+    "AdresseA": "سيدي اعمارة",
+    "COMMUNE": "Méchouar-Kasba",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MECHOUAR",
+    "NOM_ETABA": "مدرسة المشور",
+    "AdresseL": "BAB IGHLI",
+    "AdresseA": "باب إيغلي",
+    "COMMUNE": "Méchouar-Kasba",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT KAWKAB MOUNTESSORI ens scoe",
+    "NOM_ETABA": "مؤسسة كوكب مونتسوري للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة بالمتريز باراديز رقم 5 ا",
+    "COMMUNE": "Méchouar-Kasba ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Falah El Hassania ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الفلاح الحسنية للتعليم الاولي الخصوصي",
+    "AdresseL": "N° 338, Boutouil - Kasba",
+    "AdresseA": "رقم 338، بوطويل - القصبة",
+    "COMMUNE": "Méchouar-Kasba ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

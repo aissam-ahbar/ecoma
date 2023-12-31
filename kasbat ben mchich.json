@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOKHTAR SOUSSI",
+    "NOM_ETABA": " ثانوية المختار السوسي الإعدادية",
+    "AdresseL": "DOUAR BATIOUA",
+    "AdresseA": "دوار بطيوة",
+    "COMMUNE": "Kasbat Ben Mchich",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD ELBACHA CENTRE",
+    "NOM_ETABA": "مركزية اولاد الباشا",
+    "AdresseL": "DOUAR OULAD EL BACHA COMMUNE KASBAT BEN MCHICH",
+    "AdresseA": "اولاد الباشا قصبة بنمشيش",
+    "COMMUNE": "Kasbat Ben Mchich",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "QASBAT BENMCHICH CENTRE",
+    "NOM_ETABA": "مركزية قصبة بنمشيش",
+    "AdresseL": "DOUAR BETIOUA ",
+    "AdresseA": "دوار بطيوة",
+    "COMMUNE": "Kasbat Ben Mchich",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS MLY YOUSSEF CENTRE EL MAADER EL KABIR",
+    "NOM_ETABA": "م.م مولاي يوسف مركزية المعدر الكبير",
+    "AdresseL": "DOUAR IDHMOU CENTRE COMMUNE EL MAADER EL KABIR",
+    "AdresseA": "دوار ادهمو مركز جماعة المعدر الكبير",
+    "COMMUNE": "El Maader El Kabir",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MANSOUR BRAHIM BEN BLAID CENTRE OULAD NOUMER",
+    "NOM_ETABA": "م.م منصور ابراهيم بن بلعيد مركزية اولاد النومر",
+    "AdresseL": "DOUAR OULED NOUMER",
+    "AdresseA": "دوار اولاد النومر",
+    "COMMUNE": "El Maader El Kabir",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANNASR CENTRE AIT OUMRIBT",
+    "NOM_ETABA": "م.م النصر مركزية ايت امريبط",
+    "AdresseL": "DOUAR AIT OUMRIBT",
+    "AdresseA": "دوار ايت امريبط",
+    "COMMUNE": "El Maader El Kabir",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MEHDI BEN BERKA",
+    "NOM_ETABA": "الثانوية التاهيلية المهدي بن بركة",
+    "AdresseL": "EL MAADAR KABIR centre",
+    "AdresseA": "مركز المعدر الكبير",
+    "COMMUNE": "El Maader El Kabir",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOULEMANE MIXTE",
+    "NOM_ETABA": "الثانوية الإعدادية بولمان المختلطة",
+    "AdresseL": "BOULEMANE CENTRE",
+    "AdresseA": "بولمان المركز",
+    "COMMUNE": "Boulemane",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKARIME EL KHATTABI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الكريم الخطابي",
+    "AdresseL": "QUARTIER ADMINISTRATIF BOULEMANE CENTRE",
+    "AdresseA": "الحي الإداري بولمان المركز",
+    "COMMUNE": "Boulemane",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOULEMANE CENTRALE",
+    "NOM_ETABA": "بولمان  المركزية",
+    "AdresseL": "QUARTIER ADMINISTRATIF BOULEMANE CENTRE",
+    "AdresseA": "الحي الاداري بولمان  المركز",
+    "COMMUNE": "Boulemane",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "AV MOULAY ABDELLAH   QUARTIER TICHOUKT ",
+    "AdresseA": "شارع مولاي عبد الله . حي تيشوكت ",
+    "COMMUNE": "Boulemane",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZELMAT",
+    "NOM_ETABA": "تازلماط",
+    "AdresseL": "AV HASSAN 1ER BOULEMANE COMMUNE BOULMANE",
+    "AdresseA": "شارع الحسن الاول بولمان جماعة بولمان",
+    "COMMUNE": "Boulemane",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TICHOUKT",
+    "NOM_ETABA": "الثانوية التأهيلية تيشوكت",
+    "AdresseL": "QUARTIER TICHOUKT BOULEMANE CENTRE",
+    "AdresseA": "حي تيشوكت بولمان المركز",
+    "COMMUNE": "Boulemane",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LA ROSE POUR L'ELITE",
+    "NOM_ETABA": "مدرسة لاروز للنخبة ",
+    "AdresseL": "Rue michlifen quartier tichouk",
+    "AdresseA": "زنقة ميشليفن حي تيشوكت",
+    "COMMUNE": "Boulemane ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Amal ennajah",
+    "NOM_ETABA": "أمل النجاح",
+    "AdresseL": "Boulemane Centre",
+    "AdresseA": "بولمان المركز",
+    "COMMUNE": "Boulemane ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DAR EL MAARIF DE L ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة دار المعارف للتعليم الخصوصي",
+    "AdresseL": "Centre Boulemane",
+    "AdresseA": " بولمان المركز",
+    "COMMUNE": "Boulemane ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

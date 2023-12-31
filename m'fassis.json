@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAAYOUNE",
+    "NOM_ETABA": "الثانوية الاعدادية العيون",
+    "AdresseL": "CENTRE COMMFASSIS CERCLE KHOURIBGA",
+    "AdresseA": "مركز  جماعة  المفاسيس",
+    "COMMUNE": "M'Fassis",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MOUAD IBNOU JABALE",
+    "NOM_ETABA": "م/م معاذ بن جبل",
+    "AdresseL": "DOUAR OULED AMER COMMUNE EL MFASSIS",
+    "AdresseA": "دوار  اولاد  اعمر جماعة المفاسيس",
+    "COMMUNE": "M'Fassis",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED BOUAZZA BEN KACEM",
+    "NOM_ETABA": "م/م أولاد بوعزة بنقاسم",
+    "AdresseL": "DOUAR OULED MOHAMED BEN KACEM COMMUNE MFASSIS",
+    "AdresseA": "دوار اولاد محمد بنقاسم المفاسيس",
+    "COMMUNE": "M'Fassis",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

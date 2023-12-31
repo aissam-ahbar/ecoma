@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial IBN ELYASSAMINE",
+    "NOM_ETABA": "ثانوية ابن الياسمين الإعدادية",
+    "AdresseL": "MUNICIPALITE EL MENZEL",
+    "AdresseA": "بلدية المنزل",
+    "COMMUNE": "El Menzel",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ecole KHALID BEN EL WALID",
+    "NOM_ETABA": "مدرسة خالد بن الوليد",
+    "AdresseL": "MUNICIPALITE EL MENZEL",
+    "AdresseA": "بلدية المنزل",
+    "COMMUNE": "El Menzel",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole RIAD",
+    "NOM_ETABA": "مدرسة الرياض",
+    "AdresseL": "MUNICIPALITE EL MENZEL",
+    "AdresseA": "بلدية المنزل",
+    "COMMUNE": "El Menzel",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole MOHAMED BEN ABI BAKR EL YAZGHI",
+    "NOM_ETABA": "مدرسة محمد بن أبي بكر اليازغي",
+    "AdresseL": "MUNICIPALITE EL MENZEL",
+    "AdresseA": "بلدية المنزل",
+    "COMMUNE": "El Menzel",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole LAKRATACH",
+    "NOM_ETABA": "مدرسة لقراطش",
+    "AdresseL": "HAY LAKRATACH  EL MENZEL",
+    "AdresseA": "حي لقراطش المنزل",
+    "COMMUNE": "El Menzel",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIN KEBIR Centre",
+    "NOM_ETABA": "م/م عين كبير-المركز",
+    "AdresseL": "QUARTIER KRATECH ELMENZEL",
+    "AdresseA": "حي  اقراطش المنزل",
+    "COMMUNE": "El Menzel",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant MOHAMED EL  FASSI",
+    "NOM_ETABA": "ثانوية محمد الفاسي التأهيلية",
+    "AdresseL": " EL MENZEL",
+    "AdresseA": "حي الخبايز   المنزل",
+    "COMMUNE": "El Menzel",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "al hakim",
+    "NOM_ETABA": "الحكيم",
+    "AdresseL": "NULL",
+    "AdresseA": "زاوية بوكرين. عين تمكناي",
+    "COMMUNE": "El Menzel ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "dar al arkam 2",
+    "NOM_ETABA": "دار الارقم 2",
+    "AdresseL": "NULL",
+    "AdresseA": "حي لغروسات",
+    "COMMUNE": "El Menzel ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LOUQMANE ALHAKIM",
+    "NOM_ETABA": "لقمان الحكيم",
+    "AdresseL": "hay laghroussat",
+    "AdresseA": "حي لغروسات",
+    "COMMUNE": "El Menzel ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Dar Al Arkam",
+    "NOM_ETABA": "دار الأرقم",
+    "AdresseL": "N° 5, Hay Maskour",
+    "AdresseA": "رقم 5، حي مسكور",
+    "COMMUNE": "El Menzel ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALhikma",
+    "NOM_ETABA": "الحكمة",
+    "AdresseL": "hay kandak aazou - EL MENZEL",
+    "AdresseA": "حي خندق عزو المنزل",
+    "COMMUNE": "El Menzel ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "louqmane alhakim 2",
+    "NOM_ETABA": "لقمان الحكيم 2",
+    "AdresseL": "hay mascour",
+    "AdresseA": "حي مسكور المنزل",
+    "COMMUNE": "El Menzel ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS MASAAB BNOU OMAIR  CENTRE",
+    "NOM_ETABA": "م/م مصعب بن عمير - المركز",
+    "AdresseL": "ELKARBOUS",
+    "AdresseA": "الكربوص",
+    "COMMUNE": "Bni Khaled",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LAARAARA OULIA",
+    "NOM_ETABA": "م/م لعراعرة العليا",
+    "AdresseL": "DOUAR LAARAARA OULIA  COMMUNE BNI KHALED",
+    "AdresseA": "دوار لعراعرة العليا جماعة بني خالد",
+    "COMMUNE": "Bni Khaled",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOU KATHIR  CENTRE",
+    "NOM_ETABA": "م/م ابن كثير - المركز",
+    "AdresseL": " COOPERATIVE EL HARCHA  COMMUNE BNI KHALED",
+    "AdresseA": "تعاونية الحرشة جماعة بني خالد",
+    "COMMUNE": "Bni Khaled",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

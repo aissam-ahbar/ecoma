@@ -1,0 +1,512 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ATTAHADI",
+    "NOM_ETABA": "الثانوية الإعدادية التحدي",
+    "AdresseL": "DERB El mITRE 2  RUE 11  L ERMITAGE",
+    "AdresseA": "درب المتر 2 زنقة 11 لارميطاج",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL MANSOUR ADDAHBI",
+    "NOM_ETABA": "الثانوية الإعدادية المنصور الذهبي",
+    "AdresseL": "DERB EL KABIR RUE LA CROIX",
+    "AdresseA": "درب الكبير شارع لاكروى",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MOHAMED CHIKH",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الشيخ",
+    "AdresseL": "DERB EL KABIR  RUE almahatta",
+    "AdresseA": "درب الكبير زنقة المحطة",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE LAAYOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية العيون",
+    "AdresseL": "DERB EL KABIR  RUE almahatta ",
+    "AdresseA": "درب الكبير زنقة المحطة لاكروى سابقا",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE RABIAA AL ADAOUIA",
+    "NOM_ETABA": "الثانوية الإعدادية رابعة العدوية",
+    "AdresseL": "RUE ELMASJID N 2 al ahbas casablanca",
+    "AdresseA": "  . الأحباس .2 .زنقة المسجد",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL KASTALANI",
+    "NOM_ETABA": "الثانوية الإعدادية القسطلاني",
+    "AdresseL": "182 RUE AL IMAM AL KASTALANI",
+    "AdresseA": "182 شارع القسطلاني حي الداخلة رقم ",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE YOUSSEF IBN TACHFINE",
+    "NOM_ETABA": "الثانوية الإعدادية يوسف بن تاشفين",
+    "AdresseL": "153 RUE LAHCEN OUIDDER",
+    "AdresseA": "153 زنقة لحسن اويدار",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE KHNATA BENT BEKKAR",
+    "NOM_ETABA": "الثانوية الإعدادية اخناثة بنت بكار",
+    "AdresseL": "174 RUE EL HADJ OMAR RIFFI",
+    "AdresseA": "174  زنقة الحاج عمر الريفي",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH BEN MASSAOUD",
+    "NOM_ETABA": "مدرسة عبد الله بن مسعود الابتدائية",
+    "AdresseL": "1 RUE ABDELMOUMEN EL BALADIA",
+    "AdresseA": "1 زنقة عبد المومن    البلدية",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  PLACE DAMAS",
+    "NOM_ETABA": "مدرسة ساحة دمشق الابتدائية",
+    "AdresseL": "DERB ELBALADIA PLACE DAMAS",
+    "AdresseA": "درب البلدية ساحة دمشق",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR MAKRI",
+    "NOM_ETABA": "مدرسة عمر مكري الابتدائية",
+    "AdresseL": "RUE EL MAAMORA HAY LAAYOUNE",
+    "AdresseA": "زنقة المعمورة حي العيون",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANKARA ",
+    "NOM_ETABA": "مدرسة أنقرة الابتدائية",
+    "AdresseL": "RUE MAAMORA N 103",
+    "AdresseA": "زنقة المعمورة رقم 103",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN AL MOUATAZ",
+    "NOM_ETABA": "مدرسة ابن المعتز الابتدائية",
+    "AdresseL": "DERB BOUCHENTOUF RUE 46  CASABLANCA",
+    "AdresseA": "درب بوشنتوف زنقة 46 الدار البيضاء-  ",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL OUAHDA",
+    "NOM_ETABA": "مدرسة الوحدة الابتدائية",
+    "AdresseL": "DERB BOUCHENTOUF RUE 70",
+    "AdresseA": "درب بوشنتوف الزنقة 70",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SAAD BNOU ABI WAKKAS",
+    "NOM_ETABA": "مدرسة سعد بن أبي وقاص الابتدائية",
+    "AdresseL": "DERB EL MITRE  RUE 10  BOUCHENTOUF",
+    "AdresseA": "درب المتر الزنقة 10 بوشنتوف",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SABAA",
+    "NOM_ETABA": "مدرسة سبـــأ الابتدائية",
+    "AdresseL": "AVENUE NADOR L ERMITAGE",
+    "AdresseA": "شارع الناظور لارميطاج",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY ISMAIL ",
+    "NOM_ETABA": "مدرسة مولاي إسماعيل الابتدائية",
+    "AdresseL": "RUE SAINT LAURENT",
+    "AdresseA": "زنقة سان لوران",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MAZRAA GARCONS",
+    "NOM_ETABA": "مدرسة المزرعة بنين الابتدائية",
+    "AdresseL": "RUE 53 EL MANJRA DERB EL KABIR CASABLANCA",
+    "AdresseA": "  زنقة 53 درب المنجرة درب الكبير الدار البيضاء",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZERKTOUNI  ",
+    "NOM_ETABA": "المدرسة الابتدائية الزرقطوني",
+    "AdresseL": "DERB EL KABIR RUE LA CROIX N 52",
+    "AdresseA": "درب الكبير زنقة لاكروا رقم 52",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ARABI ",
+    "NOM_ETABA": "مدرسة ابن عربي الابتدائية",
+    "AdresseL": "ROUTE OULAD ZIANE HAY ETTISSIRE DERB EL MADANIA",
+    "AdresseA": "حي التيسير درب المدنية طريق أولاد زيان",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUM EL BANINE ",
+    "NOM_ETABA": "مدرسة أم البنين الابتدائية",
+    "AdresseL": "HAY EL YOUSSOUFIA RUE 80",
+    "AdresseA": "حي اليوسفية الزنقة 80",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUSSA IBN NOUSSAIR",
+    "NOM_ETABA": "مدرسة موسى بن نصير الابتدائية",
+    "AdresseL": "RUE EL harit el mouhassibi mers sultan",
+    "AdresseA": "زنقة الحارث المحاسبي مرس السلطان ",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI DAR EL GHIFARI",
+    "NOM_ETABA": "مدرسة أبي ذر الغفاري الابتدائية",
+    "AdresseL": "HAY EDDAKHLA RUE ECHAARANI",
+    "AdresseA": "حي الداخلة زنقة الشعراني",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JAMILA EL KAIRAWANIA",
+    "NOM_ETABA": "مدرسة جميلة القيروانية الابتدائية",
+    "AdresseL": "RUE EL MASJID EL KABIR DERB EL AHBASSE",
+    "AdresseA": "زنقة المسجد الكبير حي الأحباس",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNABIGHA",
+    "NOM_ETABA": "مدرسة النابغة الابتدائية",
+    "AdresseL": "2RUE LYSER",
+    "AdresseA": "2  زنقة ليزير",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "BD LA GIRONDE",
+    "AdresseA": "شارع لاجيروند",
+    "COMMUNE": "Mers-Sultan ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE BIR ANZARANE",
+    "NOM_ETABA": "الثانوية التأهيلية بئرانزران",
+    "AdresseL": "BD LA GIRONDE  RUE LA DORDOGNE",
+    "AdresseA": "زنقة لادوردون شارع لاجيروند",
+    "COMMUNE": "Mers-Sultan ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Mohammed V",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "BD 2 MARS",
+    "AdresseA": "شارع 2 مارس",
+    "COMMUNE": "Mers-Sultan ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycée Omar El Idrissi",
+    "NOM_ETABA": "ثانوية عمر الإدريسي",
+    "AdresseL": "25, rue constantinople",
+    "AdresseA": "25 زنقة القسطنطينية",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sidi Mohamed Ben Youssef",
+    "NOM_ETABA": "سيدي محمد بن يوسف",
+    "AdresseL": "N° 63, Rue Mounaster - Bouchen",
+    "AdresseA": "رقم 63، زنقة موناستير - بوشنتو",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Echaâb El Mohammadi",
+    "NOM_ETABA": "مدرسة الشعب المحمدي",
+    "AdresseL": "Hay Laâyoune, Rue 47, N° 28 - ",
+    "AdresseA": "حي العيون، زنقة 47، رقم 28 - ب",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Ahrar",
+    "NOM_ETABA": "مدرسة الأحرار",
+    "AdresseL": "N° 109, Boulevard El Gharb - B",
+    "AdresseA": "رقم 109، شارع الغرب - بوشنتوف",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Anouar",
+    "NOM_ETABA": "مدرسة الأنوار",
+    "AdresseL": "Rue 39, NO 274 - Bouchentouf",
+    "AdresseA": "زنقة 39، رقم 274 - بوشنتوف",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut rachad",
+    "NOM_ETABA": "معهد الرشاد العلمي ",
+    "AdresseL": "N° 1, Avenue Nador - Bouchento",
+    "AdresseA": "رقم 1، نهج الناظور - بوشنتوف",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Idrissie",
+    "NOM_ETABA": "مدرسة الإدريسي الخصوصية",
+    "AdresseL": "Derb El Mitr, Rue 4, N° 26 - B",
+    "AdresseA": "درب المتر، زنقة 4، رقم 26 - بو",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Houda",
+    "NOM_ETABA": "مدرسة الهدى",
+    "AdresseL": "N° 3, Avenue Nador - Bouchento",
+    "AdresseA": "رقم 3، نهج الناظور - بوشنتوف",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL AL FALAH",
+    "NOM_ETABA": "أجيال الفلاح",
+    "AdresseL": "108 AVENUE Ahmed Sabague",
+    "AdresseA": "شارع أحمد الصباغ، رقم 108",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Abi Chouaib Al Azemmouri II",
+    "NOM_ETABA": "مدرسة أبي شعيب الأزموري 2",
+    "AdresseL": "N° 51, Rue el khouzama La Giro",
+    "AdresseA": "رقم 51، زنقة الخزامى لاجيروند ",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Hatim",
+    "NOM_ETABA": "معهد حاتم",
+    "AdresseL": "Bd. Mohamed VI Et Rue zayzafon",
+    "AdresseA": "شارع محمد السادس و زنقة الزيزف",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Maintenon",
+    "NOM_ETABA": "مؤسسة مانتونان",
+    "AdresseL": "N° 17, Boulevard 2 Mars - Mers",
+    "AdresseA": "رقم 17، شارع 2 مارس - مرس السل",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Madania",
+    "NOM_ETABA": "مؤسسة المدنية",
+    "AdresseL": "N° 29, Rue Ibn Toumert - Mers ",
+    "AdresseA": "رقم 29، زنقة ابن تومرت - مرس ا",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Omar El Idrissi",
+    "NOM_ETABA": "مدرسة عمر الإدريسي",
+    "AdresseL": "N° 28, Boulevard Omar El Idris",
+    "AdresseA": "رقم 28، شارع عمر الإدريسي - مر",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire La Résidence 1",
+    "NOM_ETABA": "مجموعة مدارس الإقامة 1",
+    "AdresseL": "N° 157, Boulevard Lahcen Ouidd",
+    "AdresseA": "رقم 157، شارع لحسن وإيدار - مر",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut La Princesse LALA Aicha",
+    "NOM_ETABA": "معهد الأميرة للا عائشة",
+    "AdresseL": "N° 1, Rue Al Masjid Houbous - ",
+    "AdresseA": "رقم 1، زنقة المسجد الأحباس - م",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée Al Maarifa",
+    "NOM_ETABA": "ثانوية المعرفة",
+    "AdresseL": "N° 27, Rue Rome - Mers Sultan",
+    "AdresseA": "رقم 27، زنقة روما - مرس السلطا",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée Groupe Scolaire LA RESIDENCE",
+    "NOM_ETABA": "ثانوية مجموعة مدارس الإقامة",
+    "AdresseL": "N° 89, Boulevard 2 Mars - Mers",
+    "AdresseA": "رقم 89، شارع 2 مارس - مرس السل",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Jardin d enfants LE MANEGE",
+    "NOM_ETABA": " روض الأطفال لومانيج",
+    "AdresseL": "N° 19, Rue De Rome - Mers Sult",
+    "AdresseA": "رقم 19، زنقة روما - مرس السلطا",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Maternelle du Groupe Scolaire de la Résidence 3",
+    "NOM_ETABA": "3روض مجموعة مدارس الإقامة ",
+    "AdresseL": "N° 32, Rue Omar El Idrissi - M",
+    "AdresseA": "رقم 32، زنقة عمر الإدريسي - مر",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION Al Ibtikar",
+    "NOM_ETABA": "مؤسسة الإبتكار",
+    "AdresseL": "N° 13, Rue Abou Ali Al Farissi",
+    "AdresseA": "رقم 13، زنقة أبو علي الفارسي -",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA RESIDENCE 2E",
+    "NOM_ETABA": "الإقامة 2 الخصوصية",
+    "AdresseL": "bd 2 mars N° 85",
+    "AdresseA": "شارع 2 مارس رقم 85",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHOUMOUSS",
+    "NOM_ETABA": "شموس",
+    "AdresseL": "122AVENUE AHMED SBAGH MERS SUL",
+    "AdresseA": "122 زنقة احمد الصباغ مرس السلط",
+    "COMMUNE": "Mers-Sultan",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

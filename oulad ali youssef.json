@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OULAD ALI",
+    "NOM_ETABA": "اولاد علي",
+    "AdresseL": "DOUAR OULAD ALI OU YOUSSEF",
+    "AdresseA": "دوار اولاد علي اويوسف",
+    "COMMUNE": "Oulad Ali Youssef",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TSIOUANT SOUFLA",
+    "NOM_ETABA": "اتسيوانت السفلى",
+    "AdresseL": "DOUAR TSIOUANT ESSOUFLA COMMUNE OULAD ALI OU YOUSS",
+    "AdresseA": "دوار اتسيوانت السفلى جماعة اولاد علي اويوسف",
+    "COMMUNE": "Oulad Ali Youssef",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TSIOUANT AL OULYA",
+    "NOM_ETABA": "اتسيوانت العليا",
+    "AdresseL": "DOUAR TSIOUANT AL OULYA COMMUNE OULAD ALI",
+    "AdresseA": "دوار اتسيوانت العليا جماعة اولاد علي",
+    "COMMUNE": "Oulad Ali Youssef",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "OULAD BA HMAD CENTRE",
+    "NOM_ETABA": "اولاد ابا احماد المركزية",
+    "AdresseL": "DOUAR OULED AMROU COMMUNE OULED ZARRAD",
+    "AdresseA": "دوار اولاد عمر جماعة اولاد زراد",
+    "COMMUNE": "Oulad Zarrad",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUHMAD CENTRE",
+    "NOM_ETABA": "بوحماد المركزية",
+    "AdresseL": "DOUAR OULED BOUHMAD COMMUNE OULED ZERRAD",
+    "AdresseA": "دوار بوحماد",
+    "COMMUNE": "Oulad Zarrad",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KTAOUA CENTRE",
+    "NOM_ETABA": "اكتاوة المركزية",
+    "AdresseL": "DOUAR KTAWA COMMUNE OULED ZARRAD",
+    "AdresseA": "دوار كتاوة جماعة اولاد زراد دائرة قلعة السراغنة",
+    "COMMUNE": "Oulad Zarrad",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT OULED ZERRAD",
+    "NOM_ETABA": "ثانوية اولاد زراد التأهيلية",
+    "AdresseL": "COMMUNE OULED ZARRAD",
+    "AdresseA": "جماعة اولاد زراد",
+    "COMMUNE": "Oulad Zarrad",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

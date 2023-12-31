@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "C TIFNOUT",
+    "NOM_ETABA": " ثإ.تفنوت",
+    "AdresseL": "Douar AMZERKO Tifnout",
+    "AdresseA": "دوار امزركو تفنوت",
+    "COMMUNE": "Ahl Tifnoute",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TIFNOUT",
+    "NOM_ETABA": "م.م تفنوت",
+    "AdresseL": "DOUAR   ASSARAG C AHL TIFNOUTE",
+    "AdresseA": "دوار اسراك جماعة تفنوت",
+    "COMMUNE": "Ahl Tifnoute",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALMOTANABBI",
+    "NOM_ETABA": "م.م المتنبي",
+    "AdresseL": "DOUAR   IKISS C AHL TIFNOUTE",
+    "AdresseA": "دوار اكيس جماعة اهل تفنوت",
+    "COMMUNE": "Ahl Tifnoute",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS WAMOUMEN",
+    "NOM_ETABA": "م.م وامومن",
+    "AdresseL": "DOUAR   IZAGUEN C AHL TIFNOUTE",
+    "AdresseA": "د. إزاكن",
+    "COMMUNE": "Ahl Tifnoute",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

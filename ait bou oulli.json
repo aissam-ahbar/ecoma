@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIT BOU OULLI",
+    "NOM_ETABA": "ثانوية ايت بوولي الاعدادية",
+    "AdresseL": "CENTRE COMMUNE AIT BOU OULLI",
+    "AdresseA": "مركز جماعة ايت بوولي",
+    "COMMUNE": "Ait Bou Oulli",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE ABACHKOU",
+    "NOM_ETABA": "مركزية اباشكو",
+    "AdresseL": "DOUAR ABACHKOU",
+    "AdresseA": "دوار اباشكو",
+    "COMMUNE": "Ait Bou Oulli",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT MZALT",
+    "NOM_ETABA": "مركزية آيت امزالط",
+    "AdresseL": "DOUAR AIT MZALT",
+    "AdresseA": "دوار ايت امزالط ",
+    "COMMUNE": "Ait Bou Oulli",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ROUGUELT",
+    "NOM_ETABA": "مركزية روكلت",
+    "AdresseL": "DOUAR ROUGUELT",
+    "AdresseA": "دوار روكلت ",
+    "COMMUNE": "Ait Bou Oulli",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

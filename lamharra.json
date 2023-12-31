@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": " OULAD NACER CENTRE ",
+    "NOM_ETABA": " اولاد ناصر المركزية",
+    "AdresseL": "DOUAR OULED NACER COMMUNE LAMHARRA",
+    "AdresseA": "اولاد ناصر",
+    "COMMUNE": "Lamharra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD GHANEM CENTRE",
+    "NOM_ETABA": "اولاد غنام المركزية",
+    "AdresseL": "DOUAR OULED GHANNEM COMMUNE LAMHARRA",
+    "AdresseA": "دوار اولاد غنام جماعة المحرة",
+    "COMMUNE": "Lamharra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMHARRA CENTRE",
+    "NOM_ETABA": "لمحرة المركزية",
+    "AdresseL": "DOUAR OULED AMROU LAMHARRA",
+    "AdresseA": "دوار اولاد اعمر",
+    "COMMUNE": "Lamharra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AMER LAMHARRA CENTRE",
+    "NOM_ETABA": "اولاد عامر لمحرة المركزية",
+    "AdresseL": "DOUAR OULED AMER COMMUNE LAMHARRA",
+    "AdresseA": "اولاد عامر لمحرة",
+    "COMMUNE": "Lamharra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant Lamharra",
+    "NOM_ETABA": "الثانوية التأهيلية لمحرة",
+    "AdresseL": "CR Lamharra",
+    "AdresseA": "جماعة لمحرة",
+    "COMMUNE": "Lamharra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "YOUSSEF BNOU TACHFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "MARCHOUCH CENTRE",
+    "AdresseA": "مرشوش المركز",
+    "COMMUNE": "Marchouch",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "MARCHOUCH CENTRE COMMUNE MARCHOUCH",
+    "AdresseA": "مرشوش المركز ج مرشوش",
+    "COMMUNE": "Marchouch",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HAMMOU SGHIR",
+    "NOM_ETABA": "ايت حمو الصغير",
+    "AdresseL": "DOUAR AIT HAMOU SGHIR COMMUNE MARCHOUCH",
+    "AdresseA": "دوار ايت حمو الصغير ج مرشوش",
+    "COMMUNE": "Marchouch",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETAJARIB",
+    "NOM_ETABA": "التجارب",
+    "AdresseL": "FERME ATTAJARIB COMMUNE MARCHOUCH",
+    "AdresseA": "مزرعة التجارب ج مرشوش",
+    "COMMUNE": "Marchouch",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

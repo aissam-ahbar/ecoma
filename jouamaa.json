@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "SS JOUAMAA",
+    "NOM_ETABA": "م/م اجوامعة الابتدائية",
+    "AdresseL": "commune jouamaa province fahs anjra",
+    "AdresseA": "جماعة اجوامعة عمالة  الفحص أنجرة ",
+    "COMMUNE": "Jouamaa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAMKHALED",
+    "NOM_ETABA": " م/م المخالد الابتدائية",
+    "AdresseL": "DOUAR LAMKHALED CJOUAMAA ",
+    "AdresseA": "دوار المخالد جماعة الجوامعة اقليم الغحص أنجرة",
+    "COMMUNE": "Jouamaa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AYDADA",
+    "NOM_ETABA": "م/م عيدادة الابتدائية",
+    "AdresseL": "DOUAR AYDADA CJOUAMAA ",
+    "AdresseA": "دوار عيدادة / جوامعة الجوامعة/اقليم الفحص أنجرة",
+    "COMMUNE": "Jouamaa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAYA",
+    "NOM_ETABA": "م/م الضاية الابتدائية",
+    "AdresseL": "DOUAR DAYA CJOUAMAA",
+    "AdresseA": "  االضاية جماعة الجوامعة - الفحص أنجرة",
+    "COMMUNE": "Jouamaa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELYASSAMINE",
+    "NOM_ETABA": "م/م الياسمين الابتدائية",
+    "AdresseL": "chrafate jouAmaa FAHS ANJRA",
+    "AdresseA": "اشرافات اجوامعة الفحص انجرة",
+    "COMMUNE": "Jouamaa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT JOUAMAA",
+    "NOM_ETABA": "ثانوية اجوامعة التأهيلية",
+    "AdresseL": "Hakama commune jouamaa",
+    "AdresseA": "حكامة جماعة اجوامعة",
+    "COMMUNE": "Jouamaa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

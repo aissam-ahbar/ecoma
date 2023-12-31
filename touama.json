@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TOUAMA",
+    "NOM_ETABA": "الثانوية الإعدادية التوامة",
+    "AdresseL": "centre COMMUNE TOUAMA",
+    "AdresseA": " مركز جماعة التوامة",
+    "COMMUNE": "Touama",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " SECTEUR SCOLAIRE TOUAMA",
+    "NOM_ETABA": "مجموعة مدارس التوامة",
+    "AdresseL": "DOUAR TOUAMA COMMUNE TOUAMA",
+    "AdresseA": "دوار التوامة جماعة التوامة",
+    "COMMUNE": "Touama",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI AHMED ETTOUMI",
+    "NOM_ETABA": "سيدي احمد التومي",
+    "AdresseL": "TOUAMA COMMUNE  TOUAMA",
+    "AdresseA": "التوامة جماعة التوامة",
+    "COMMUNE": "Touama",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIZI",
+    "NOM_ETABA": " مركزية تيزي",
+    "AdresseL": "DOUAR AIT IZGUAR COMMUNE TOUAMA",
+    "AdresseA": "دوار ايت ازكار جماعة التوامة",
+    "COMMUNE": "Touama",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIMGHAZDANE",
+    "NOM_ETABA": "تمغزدان",
+    "AdresseL": "DOUAR AIT TADEL COMMUNE TOUAMA",
+    "AdresseA": "دوار ايت تادلة جماعة التوامة",
+    "COMMUNE": "Touama",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TOUAMA",
+    "NOM_ETABA": "الثانوية التأهيلية التوامة",
+    "AdresseL": "CENTRE TOUAMA",
+    "AdresseA": "مركز التوامة",
+    "COMMUNE": "Touama",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

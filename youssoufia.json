@@ -1,0 +1,282 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR EL KHAIAM",
+    "NOM_ETABA": "الثانوية الإعدادية عمر الخيام",
+    "AdresseL": "QUARTIER ESSALAM YOUSSOUFIA",
+    "AdresseA": "حي السلام اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي ",
+    "AdresseL": "QUARTIER ETTAKKADDOUM YOUSSOUFIA",
+    "AdresseA": "حي الامل اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LALLA AICHA",
+    "NOM_ETABA": "الثانوية الإعدادية الاميرة للا عائشة",
+    "AdresseL": "QUARTIER BOUKIRAA",
+    "AdresseA": "حي بوكراع",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MOKHTAR SOUSSI",
+    "NOM_ETABA": " الثانوية الإعدادية المختار السوسي",
+    "AdresseL": "HAY EL HASSANI YOUSSOUFIA",
+    "AdresseA": "الحي الحسني اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "مدرسة عبد الله الشفشاوني",
+    "AdresseL": "QUARTIER ETTAKADDOUM",
+    "AdresseA": "حي التقدم",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL FATH",
+    "NOM_ETABA": "مدرسة الفتح",
+    "AdresseL": "AVENUE OUED EDDAHAB QUARTIER HASSANI YOUSSOUFIA",
+    "AdresseA": "شارع وادي الدهب  حي الحسني",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL OUAHDA",
+    "NOM_ETABA": "مدرسة الوحدة",
+    "AdresseL": "QUARTIER EDDAKHLA",
+    "AdresseA": "حي الداخلة",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAHAR BEN ABDELKARIM",
+    "NOM_ETABA": "مدرسة الطاهر بن عبد الكريم",
+    "AdresseL": "QUARTIER OUED EDDAHAB",
+    "AdresseA": "حي واد الدهب اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FOUARATE",
+    "NOM_ETABA": "مدرسة الفوارات",
+    "AdresseL": "QUARTIER AL AMAL 2 youssoufia",
+    "AdresseA": "حي الأمل 2 اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RAYA",
+    "NOM_ETABA": "مدرسة الراية",
+    "AdresseL": "QUARTIER ESSALAM",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELAZIZ BEN CHAKROUN",
+    "NOM_ETABA": "مدرسة عبد العزيز بن شقرون",
+    "AdresseL": "QUARTIER BOUKRAA",
+    "AdresseA": "حي بوكراع",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOUSSA IBN NOUSSAIR",
+    "NOM_ETABA": "مدرسة موسى بن نصير",
+    "AdresseL": "QUARTIER AL QODS",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAHA HOUSSEIN",
+    "NOM_ETABA": "مدرسة طه حسين",
+    "AdresseL": "QUARTIER EZZALLAKA youssoufia",
+    "AdresseA": "حي الزلاقة اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AMROU IBN LAASSE",
+    "NOM_ETABA": "مدرسة عمرو بن العاص",
+    "AdresseL": "QUARTIER AGENDIS",
+    "AdresseA": "حي أجنديس",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL IMAM BOUKHARI",
+    "NOM_ETABA": " الثانوية التأهيلية الامام البخاري",
+    "AdresseL": "HAY AL MASSIRA  BP 400",
+    "AdresseA": "حي المسيرة ",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT JABER IBN HAYANE",
+    "NOM_ETABA": "الثانوية التأهيلية جابر ابن حيان",
+    "AdresseL": "QUARTIER BOUKRAA CENTRE YOUSSOUFIA",
+    "AdresseA": "حي بوكراع مركز اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELIJTIHAD",
+    "NOM_ETABA": "الثانوية التأهيلية الاجتهاد",
+    "AdresseL": "YOUSSOUFIA",
+    "AdresseA": "اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KACHKATE",
+    "NOM_ETABA": "الثانوية التأهيلية كشكاط ",
+    "AdresseL": "QARTIER EL HASSNI YOUSSOUFIA",
+    "AdresseA": "الحي الحسني اليوسفية",
+    "COMMUNE": "Youssoufia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GESTION DELEGUEE GROUPE SCOLAIRE LA RESIDENCE- SECONDAIRE",
+    "NOM_ETABA": "التدبير المفوض مجموعة مدارس الإقامة -ثانوي",
+    "AdresseL": "Hay mouhamadi rue allal ben ab",
+    "AdresseA": "الحي المحمدي  زنقة علال بن عبد",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MABROUK",
+    "NOM_ETABA": "مدرسة مبروك",
+    "AdresseL": "el bou9aa 286  288  209 hay al",
+    "AdresseA": "البقع  286  288  209  حي المسي",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LAGHDIR",
+    "NOM_ETABA": "مدرسة لغدير",
+    "AdresseL": "N° 208, Quartier Laghdir",
+    "AdresseA": "رقم 208، حي لغدير",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AFAQ AL MAARIFA",
+    "NOM_ETABA": "افاق المعرفة",
+    "AdresseL": "Hay al Amal, agandis",
+    "AdresseA": "حي الامل، أجنديس",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AFAQ POUR L EDUCATION ET L ENSEIGNEMENT",
+    "NOM_ETABA": "آفاق للتربية والتعليم",
+    "AdresseL": "N° 23, Quartier Laghdir",
+    "AdresseA": "رقم 23، حي لغدير ",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION MAROCAINE SCIENTIFIQUE",
+    "NOM_ETABA": "المؤسسة المغربية العلمية",
+    "AdresseL": "n 1 rue abou bakr essedik, qur",
+    "AdresseA": "رقم 1 زنقة ابو بكر الصديق، الح",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT DE PROMOTION SOCIALE ET EDUCATIVE",
+    "NOM_ETABA": "معهد الترقية الاجتماعية والتعليمية",
+    "AdresseL": "rue de la pepiniere hay mohamm",
+    "AdresseA": "زنقة الجنينة الحي المحمدي ",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GHADIR AVICENNE",
+    "NOM_ETABA": "غدير ابن سينا",
+    "AdresseL": "quartier el massira rue n° 26 ",
+    "AdresseA": " حي المسيرة الزنقة 26 الرقم 13",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GESTION DELEGUEE GROUPE SCOLAIRE LA RESIDENCE- PRESCOLAIRE",
+    "NOM_ETABA": "التدبير المفوض مجموعة مدارس الإقامة -أولي",
+    "AdresseL": "Rue Fès Hay el mohammadi",
+    "AdresseA": "زنقة فاس",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IPSE ELBILIA YOUSSOUFIA",
+    "NOM_ETABA": "معهد الترقية الاجتماعية والتعليمية ايلبيليا اليوسفية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بوكراع",
+    "COMMUNE": "Youssoufia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

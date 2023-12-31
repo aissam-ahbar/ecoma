@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL FARABI",
+    "NOM_ETABA": "الثانوية الإعدادية الفارابي",
+    "AdresseL": "CENTRE COMMUNE Amezmiz",
+    "AdresseA": "مركز جماعة أمزميز",
+    "COMMUNE": "Amizmiz",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MARIA EL  KEBTIA",
+    "NOM_ETABA": "مارية القبطية",
+    "AdresseL": "CITE AMADEL COMMUNE AMIZMIZ",
+    "AdresseA": "حي امدل جماعة امزميز",
+    "COMMUNE": "Amizmiz",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU AL OUNNANE",
+    "NOM_ETABA": "ابن الونان",
+    "AdresseL": "BOULEVARD MOHAMED V ASSGOUN COMMUNE AMIZMIZ",
+    "AdresseA": "شارع محمد الخامس جماعة امزميز",
+    "COMMUNE": "Amizmiz",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ATLASS",
+    "NOM_ETABA": "الاطلس",
+    "AdresseL": "CENTRE AMEZMIZ bachawiate AMIZMIZ",
+    "AdresseA": "مركز امزميزباشويةامزميز",
+    "COMMUNE": "Amizmiz",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMEGHRAS",
+    "NOM_ETABA": "امغراس",
+    "AdresseL": "DOUAR TIGUENZIOUINE COMMUNE AMIZMIZ",
+    "AdresseA": "دوار تكنزوين بلدية امزميز",
+    "COMMUNE": "Amizmiz",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUAD AKAR",
+    "NOM_ETABA": "واداكر",
+    "AdresseL": "DOUAR OUAD AKKAR municipalite AMIZMIZ",
+    "AdresseA": "دوار واداكر بلدية امزميز",
+    "COMMUNE": "Amizmiz",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL FARAHIDI",
+    "NOM_ETABA": "الثانوية التأهيلية الفراهيدي",
+    "AdresseL": "CENTRE AMIZMIZ COMMUNE AMIZMIZ",
+    "AdresseA": "مركز امزميز",
+    "COMMUNE": "Amizmiz",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU MAJA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن ماجة",
+    "AdresseL": "CENTRE AMIZMIZ",
+    "AdresseA": "مركز امزميز",
+    "COMMUNE": "Amizmiz",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "sanabil",
+    "NOM_ETABA": "السنابل",
+    "AdresseL": "cartier assgoune rue lahssen o",
+    "AdresseA": "شارع لحسن أوحماد",
+    "COMMUNE": "Amizmiz ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour alatlass",
+    "NOM_ETABA": "نور الأطلس",
+    "AdresseL": "26 bVD mED IV ",
+    "AdresseA": "أمزميز",
+    "COMMUNE": "Amizmiz ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD LMAALI PRESCOLAIRE",
+    "NOM_ETABA": "رياض المعالي للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي امادل ",
+    "COMMUNE": "Amizmiz ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

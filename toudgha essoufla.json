@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Ibn Hazm",
+    "NOM_ETABA": "الثانوية الإعدادية إبن حزم",
+    "AdresseL": "Toudgha Essoufla Tinghir  ",
+    "AdresseA": "تودغى السفلى  .  تنغير  ",
+    "COMMUNE": "Toudgha Essoufla",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BIR ANZARANE",
+    "NOM_ETABA": "م.م بئر انزران",
+    "AdresseL": "TINGHIR ",
+    "AdresseA": "تنغير",
+    "COMMUNE": "Toudgha Essoufla",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT YAALA",
+    "NOM_ETABA": "م.م ايت ايعلا",
+    "AdresseL": "TINGHIR draa tafilalte",
+    "AdresseA": "تنغير درعة تافيلالت",
+    "COMMUNE": "Toudgha Essoufla",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HAJ AMROU",
+    "NOM_ETABA": "م.م الحاج عمرو",
+    "AdresseL": "DOUAR HART ELYAMINE",
+    "AdresseA": "دوار حارة اليمين",
+    "COMMUNE": "Toudgha Essoufla",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LHART NIGOURRAMEN",
+    "NOM_ETABA": "م.م الحارة نكرامن",
+    "AdresseL": "TINGHIR ",
+    "AdresseA": "تنغير",
+    "COMMUNE": "Toudgha Essoufla",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

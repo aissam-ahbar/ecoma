@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL ANOUAL",
+    "NOM_ETABA": "ثانوية أنوال الإعدادية",
+    "AdresseL": "MUNICIPALITE DHAR ESSOUK  PROVINCE TAOUNATE",
+    "AdresseA": "بلدية ظهر السوق",
+    "COMMUNE": "Thar Es-souk",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS KAAB IBN ZOUHAIR",
+    "NOM_ETABA": "م/م  كعب بن زهير",
+    "AdresseL": "MUNICIPALITE THAR ESSOUK CENTRE",
+    "AdresseA": "جماعة طهر السوق المركز",
+    "COMMUNE": "Thar Es-souk",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKRIM EL KHATTABI ",
+    "NOM_ETABA": "ثانوية عبد الكريم الخطابي التأهيلية",
+    "AdresseL": "MUNICIPALITE DHAR ESSOUK  TAOUNATE",
+    "AdresseA": "بلدية ظهر السوق",
+    "COMMUNE": "Thar Es-souk",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

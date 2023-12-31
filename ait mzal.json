@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS AIT MZAL",
+    "NOM_ETABA": "م.م  أيت مزال",
+    "AdresseL": "DOUAR BIOUGRA",
+    "AdresseA": "دوار بيوكرى أيت مزال",
+    "COMMUNE": "Ait Mzal",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IFSSASSEN COM",
+    "NOM_ETABA": "م إفساسن .كم",
+    "AdresseL": "DOUAR IFSSASSEN",
+    "AdresseA": "دوار إفساسن",
+    "COMMUNE": "Ait Mzal",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AMROU IBN AL ASS",
+    "NOM_ETABA": "مجموعة مدارس عمرو بن العاص",
+    "AdresseL": "DOUAR BNI BOUGHAFER COMMUNE IAAZZANENE",
+    "AdresseA": "دوار بن بوغافر",
+    "COMMUNE": "Iaazzanene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULAD AMR OU HABSA",
+    "NOM_ETABA": "مجموعة مدارس اولاد اعمر اوحبصة",
+    "AdresseL": "BNI BOUGHAFER Commune Iaazzanene Nador",
+    "AdresseA": "بني بوغافر جماعة إعزانن  الناظور",
+    "COMMUNE": "Iaazzanene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ZAROURA",
+    "NOM_ETABA": "مجموعة مدارس زرورة",
+    "AdresseL": "DOUAR ZAROURA COMMUNE IAAZANAN",
+    "AdresseA": "دوار زرورة",
+    "COMMUNE": "Iaazzanene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ANNAJAH",
+    "NOM_ETABA": "مجموعة مدارس النجاح",
+    "AdresseL": "DOUAR IMHIYATENE COMMUNE IAAZZANENE",
+    "AdresseA": "دوار امهياتن",
+    "COMMUNE": "Iaazzanene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IAAZZANENE",
+    "NOM_ETABA": "الثانوية التأهيلية اعزانن",
+    "AdresseL": "COMMUNE IAAZANENE",
+    "AdresseA": "جماعة ايعزانن",
+    "COMMUNE": "Iaazzanene",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

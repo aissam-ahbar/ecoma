@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS MED BEN BRAHIM CHIKH",
+    "NOM_ETABA": "م.م محمد بن براهيم الشيخ",
+    "AdresseL": "DOUAR ZIDATE ",
+    "AdresseA": "دوار زبضات",
+    "COMMUNE": "Hilala",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANABDOURTAGADIRTE",
+    "NOM_ETABA": " م.م أنبدور تكاديرت",
+    "AdresseL": "DOUAR TAGADIRTE COMMUNE HILALA",
+    "AdresseA": "دوار تكاديرت أسيف أودميم",
+    "COMMUNE": "Hilala",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

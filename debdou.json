@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ABDELKARIM  AL KHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "Cité Administrative - DEBDOU",
+    "AdresseA": "الحي الاداري - دبدو",
+    "COMMUNE": "Debdou",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN MANDOUR",
+    "NOM_ETABA": "ابن منظور",
+    "AdresseL": "HAY ELHOCH DEBDOU",
+    "AdresseA": "حي الحوش دبدو",
+    "COMMUNE": "Debdou",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN MANDOUR AL KADIMA",
+    "NOM_ETABA": "ابن منظور القديمة",
+    "AdresseL": "Hay Al barrid",
+    "AdresseA": "حي البريد",
+    "COMMUNE": "Debdou",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DEBDOU",
+    "NOM_ETABA": "الثانوية التأهيلية دبدو",
+    "AdresseL": " hay el kour",
+    "AdresseA": " حي القور",
+    "COMMUNE": "Debdou",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

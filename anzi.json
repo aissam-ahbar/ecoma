@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS LAHOUCINE BEN BIROUK BEN AABLA CENTRE DAR LARBA",
+    "NOM_ETABA": "م.م الحسين بن بيروك بن عبلا مركزية دار الاربعاء",
+    "AdresseL": "DOUAR DAR LARBAA",
+    "AdresseA": "دوار دار الاربعاء",
+    "COMMUNE": "Anzi",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALHOUDA CENTRE IMI OUGNI",
+    "NOM_ETABA": "م.م الهدى مركزية امي اوكني",
+    "AdresseL": "DOUAR IMI OUGNI",
+    "AdresseA": "دوار  امي اوكني",
+    "COMMUNE": "Anzi",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ACHNIT AHMED BEN BELAID CENTRE INJJARN",
+    "NOM_ETABA": "م.م اشنيط احمد بن بلعيد مركزية انجارن",
+    "AdresseL": "DOUAR INJARN",
+    "AdresseA": "دوار انجارن",
+    "COMMUNE": "Anzi",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED EL JAZOULI",
+    "NOM_ETABA": "الثانوية التاهيلية محمد الجزولي",
+    "AdresseL": " centre COMMUNE ANZI",
+    "AdresseA": "مركز جماعة انزي",
+    "COMMUNE": "Anzi",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

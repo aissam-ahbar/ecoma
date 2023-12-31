@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS OULED SLIMANE",
+    "NOM_ETABA": "م.م اولاد سليمان",
+    "AdresseL": "DOUAR OULED SLIMANE COULED YAHYA",
+    "AdresseA": "اولاد سليمان",
+    "COMMUNE": "Oulad Yahia Lagraire",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED ATMAN",
+    "NOM_ETABA": "م.م أولاد عثمان",
+    "AdresseL": "DOUAR OULED ATMAN COULED YAHYA",
+    "AdresseA": "أولاد عثمان",
+    "COMMUNE": "Oulad Yahia Lagraire",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMASLA",
+    "NOM_ETABA": "م.م تمسلا",
+    "AdresseL": "DOUR TAMASLA",
+    "AdresseA": "دوار تمسلا",
+    "COMMUNE": "Oulad Yahia Lagraire",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OULAD YAHYA LAGRAIRE",
+    "NOM_ETABA": "الثانوية التأهيلية أولاد يحيى لكراير",
+    "AdresseL": "oulad slimane",
+    "AdresseA": "اولاد سليمان",
+    "COMMUNE": "Oulad Yahia Lagraire",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

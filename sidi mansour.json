@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OULAD MANSOUR CENTRE",
+    "NOM_ETABA": "اولاد منصور المركزية",
+    "AdresseL": "DOUAR OULED MANSOUR COMMUNE SIDI MANSOUR",
+    "AdresseA": "دوار اولاد منصور",
+    "COMMUNE": "Sidi Mansour",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELGHABA CENTRE",
+    "NOM_ETABA": "الغابة المركزية",
+    "AdresseL": "DOUAR EL GHABA COMMUNE SIDI MANSOUR",
+    "AdresseA": "دوار الغابة",
+    "COMMUNE": "Sidi Mansour",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ESSALMI CENTRE",
+    "NOM_ETABA": "اولاد السالمي المركزية",
+    "AdresseL": "DOUAR OULED ESSALMI COMMUNE SIDI MANSOUR",
+    "AdresseA": "دوار اولاد السالمي",
+    "COMMUNE": "Sidi Mansour",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

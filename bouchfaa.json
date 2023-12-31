@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "BOUCHFAA CENTRE",
+    "NOM_ETABA": "بوشفاعة المركز",
+    "AdresseL": "BOUCHFAA CENTRE COMMUNE BOUCHFAA",
+    "AdresseA": "بوشفاعة المركز جماعة بوشفاعة",
+    "COMMUNE": "Bouchfaa",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHL BOUDRISS CENTRE",
+    "NOM_ETABA": "أهل بودريس المركز",
+    "AdresseL": "DOUAR AHL BOUDRISS COMMUNE BOUCHFAA",
+    "AdresseA": "دوار أهل بودريس جماعة بوشفاعة",
+    "COMMUNE": "Bouchfaa",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI OUARDANE CENTRE",
+    "NOM_ETABA": "بني وردان المركز",
+    "AdresseL": "DOUAR BNI OUARDANE COMMUNE BOUCHFAA",
+    "AdresseA": "دوار بني وردان جماعة بوشفاعة",
+    "COMMUNE": "Bouchfaa",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ASSANAOUBAR",
+    "NOM_ETABA": "ثانوية الصنوبرالتأهيلية",
+    "AdresseL": "CENTRE BOUCHEFAA",
+    "AdresseA": "مركز بوشفاعة",
+    "COMMUNE": "Bouchfaa",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial 20 AOUT",
+    "NOM_ETABA": "الثانوية الإعدادية 20 غشت",
+    "AdresseL": "BOURED CENTRE",
+    "AdresseA": "بورد المركز",
+    "COMMUNE": "Bourd",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOURED CENTRE",
+    "NOM_ETABA": "بورد المركز",
+    "AdresseL": "COMMUNE BOURD CENTRE",
+    "AdresseA": "جماعة بورد المركز جماعة بورد",
+    "COMMUNE": "Bourd",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAZIB CENTRE",
+    "NOM_ETABA": "العزيب المركز",
+    "AdresseL": "DOUAR LAAZIB COMMUNE BOURED",
+    "AdresseA": "دوار العزيب  جماعة بورد",
+    "COMMUNE": "Bourd",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAALI CENTRE",
+    "NOM_ETABA": "الماعلي المركز",
+    "AdresseL": "DOUAR EL MAALI COMMUNE BOURED",
+    "AdresseA": "دوارالماعلي  جماعة بورد",
+    "COMMUNE": "Bourd",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

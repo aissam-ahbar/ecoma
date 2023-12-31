@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "E SIDI OUASSAY",
+    "NOM_ETABA": "م سيدي وساي",
+    "AdresseL": "HAY ZAOUITE MASSA CENTRE",
+    "AdresseA": "حي الزاويت مركز ماسة",
+    "COMMUNE": "Massa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGDAL",
+    "NOM_ETABA": "م.م أكــدال",
+    "AdresseL": "EL kharij massa",
+    "AdresseA": "الخارج ماسة",
+    "COMMUNE": "Massa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDELLAZIZ EL MASSI",
+    "NOM_ETABA": "م.م عبدالعزيز الماسي",
+    "AdresseL": "DOUAR IFANTAR COMMUNE MASSA",
+    "AdresseA": "دوار إفنتار",
+    "COMMUNE": "Massa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIKIOUTE",
+    "NOM_ETABA": "م.م  تكيوت",
+    "AdresseL": "DOUAR TIKIOUTE COMMUNE MASSA",
+    "AdresseA": "دوار تكيوت جماعة ماسة",
+    "COMMUNE": "Massa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "ثأ. المسيرة الخضراء",
+    "AdresseL": "MASSA CENTRE   COMMUNE MASSA",
+    "AdresseA": "حي الزاويت ماسة المركز",
+    "COMMUNE": "Massa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MASSA ATTAOUFIK",
+    "NOM_ETABA": "مؤسسة ماسة التوفيق الخصوصية",
+    "AdresseL": "Quartier zaouia massa ",
+    "AdresseA": "حي الزاوية ماسة",
+    "COMMUNE": "Massa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJYAL MASSAE",
+    "NOM_ETABA": "اجيال ماسة الخاصة",
+    "AdresseL": "Avenue Med6 zaouia Massa chtou",
+    "AdresseA": "شارع محمد السادس الزاوية ماسة",
+    "COMMUNE": "Massa",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

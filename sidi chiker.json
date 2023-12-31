@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN EL MOATAZ",
+    "NOM_ETABA": "الثانوية الإعدادية ابن المعتز",
+    "AdresseL": " COMMUNE DE SIDI CHIKER",
+    "AdresseA": " جماعة سيدي شيكر",
+    "COMMUNE": "Sidi Chiker",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL KANTRA",
+    "NOM_ETABA": "مركزية القنطرة",
+    "AdresseL": "DOUAR LAHDILATE  COMMUNE SIDI CHIKER",
+    "AdresseA": "دوار الهديلات جماعة سيدي شيكر",
+    "COMMUNE": "Sidi Chiker",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE HDIL EL MAAMOURA",
+    "NOM_ETABA": "مركزية اهديل المعمورة",
+    "AdresseL": "DOUAR HDIL MAAMOURA COMMUNE SIDI CHIKER",
+    "AdresseA": "دوار اهديل المعمورة  جماعة سيدي شيكر",
+    "COMMUNE": "Sidi Chiker",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL FDADLA",
+    "NOM_ETABA": "مركزية الفضاضلة",
+    "AdresseL": "DOUAR LAFDADLA COMMUNE SIDI CHIKER",
+    "AdresseA": "دوار لفضاضلة جماعة سيدي شيكر",
+    "COMMUNE": "Sidi Chiker",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL BACHTA NAIMA",
+    "NOM_ETABA": "مركزية الباشتا النعيمة",
+    "AdresseL": "DOUAR LBACHTA NAIMA COMMUNE SIDI CHIKER",
+    "AdresseA": "دوار الباشتا النعيمة جماعة سيدي شيكر",
+    "COMMUNE": "Sidi Chiker",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE BIR CHHAM",
+    "NOM_ETABA": "بير شحم المركزية",
+    "AdresseL": "DOUAR BIR CHHAM COMMUNE SIDI CHIKER",
+    "AdresseA": "دوار بير الشحم جماعة سيدي شيكر",
+    "COMMUNE": "Sidi Chiker",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE DOUAR JDID",
+    "NOM_ETABA": "مركزية الدوار الجديد",
+    "AdresseL": "DOUAR OULED MOUSSA COMMUNE SIDI CHIKER",
+    "AdresseA": "دوار اولاد موسى جماعة سيدي شيكر",
+    "COMMUNE": "Sidi Chiker",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

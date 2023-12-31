@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF IBN TACHFINE",
+    "NOM_ETABA": "الثانوية الإعدادية يوسف بن تاشفين",
+    "AdresseL": "rue de marrakeche imintanout",
+    "AdresseA": "طريق مراكش، بلدية إمينتانوت",
+    "COMMUNE": "Imintanoute",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALGHAZALI",
+    "NOM_ETABA": "الثانوية الإعدادية الغزالي",
+    "AdresseL": "MUNICIPALITE IMINTANOUTE",
+    "AdresseA": "بلدية إمينتانوت",
+    "COMMUNE": "Imintanoute",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMAME EDDINE",
+    "NOM_ETABA": "إمام الدين",
+    "AdresseL": "CITE ADMINISTRATIVE MUNICIPALITE IMINTANOUTE",
+    "AdresseA": "الحي الإداري  امينتانوت",
+    "COMMUNE": "Imintanoute",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "QUartier sidi ali ouishak MUNICIPALITE IMINTANOUTE",
+    "AdresseA": "حي سيدي علي اوسحاق امنتانوت",
+    "COMMUNE": "Imintanoute",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ALMOKAFFAA",
+    "NOM_ETABA": "ابن المقفع",
+    "AdresseL": "MUNICIPALITE IMNTANOUTE",
+    "AdresseA": "بلدية امينتانوت",
+    "COMMUNE": "Imintanoute",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGADIRT CENTRE",
+    "NOM_ETABA": "تكديرت المركزية",
+    "AdresseL": "MUNICIPALITE IMINTANOUT",
+    "AdresseA": "بلدية  امينتانوت",
+    "COMMUNE": "Imintanoute",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA SOUKAINA",
+    "NOM_ETABA": "للا سكينة",
+    "AdresseL": "quartier izourane boulevardbmarrakech",
+    "AdresseA": "حي إزوران  شارع مراكش",
+    "COMMUNE": "Imintanoute",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ALHAITEM",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الهيثم",
+    "AdresseL": "CITE ADMINISTRATIVE  MUNICIPALITE IMINTANOUTE",
+    "AdresseA": "الحي الإداري  ، بلدية امنتانوت",
+    "COMMUNE": "Imintanoute",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "EL FATH 2 POUR ENSEIGNEMENT",
+    "NOM_ETABA": "الفتح 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "HAY ENNAHJ IMINTANOUTE",
+    "AdresseA": "حي النهج امنتانوت",
+    "COMMUNE": "Imintanoute ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Wafaa",
+    "NOM_ETABA": "الوفاء",
+    "AdresseL": "Hay Tagadirt, Rue El Bahia, N°",
+    "AdresseA": "حي تكديرت، زنقة الباهية، رقم 6",
+    "COMMUNE": "Imintanoute ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Youssef",
+    "NOM_ETABA": "يوسف",
+    "AdresseL": "Place Moulay Youssef - Imintan",
+    "AdresseA": "ساحة مولاي يوسف - إمنتانوت",
+    "COMMUNE": "Imintanoute ",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

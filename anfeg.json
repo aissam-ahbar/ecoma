@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "lycee collegial ANFEG",
+    "NOM_ETABA": "الثانوية الإعدادية أنفك",
+    "AdresseL": "ANFEG CENTRE",
+    "AdresseA": "مركز الجماعة",
+    "COMMUNE": "Anfeg",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL GHAZALI CENTRE GAOURE",
+    "NOM_ETABA": "مجموعة مدارس الغزالي مركزية كاور",
+    "AdresseL": "DOUAR GAOURE",
+    "AdresseA": "دوار كاور",
+    "COMMUNE": "Anfeg",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL MAKRIZI CENTRE ANFEG",
+    "NOM_ETABA": "مجموعة مدارس المقريزي مركزية انفك",
+    "AdresseL": "CENTRE COMMUNE ANFEG",
+    "AdresseA": "مركز جماعة انفك",
+    "COMMUNE": "Anfeg",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ABILHASSAN ILGHI CENTRE AGADIR IZ",
+    "NOM_ETABA": "مجموعة مدارس أبي الحسن الإلغي مركزية اكادير ايزري",
+    "AdresseL": "DOUAR AGADIR IZRI",
+    "AdresseA": "دوار اكادير ايزري",
+    "COMMUNE": "Anfeg",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ALI DARKAOUI CENTRE TILIOA",
+    "NOM_ETABA": "مجموعة مدارس علي الدرقاوي مركزية تيلوى",
+    "AdresseL": "DOUAR TILIOA",
+    "AdresseA": "دوار تيلوى",
+    "COMMUNE": "Anfeg",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

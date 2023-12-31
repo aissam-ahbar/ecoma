@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SANHAJA",
+    "NOM_ETABA": "ثانوية صنهاجة الإعدادية",
+    "AdresseL": "جماعة بني أحمد إموكزن",
+    "AdresseA": "commune bni ahmed imoukzen",
+    "COMMUNE": "Bni Ahmed Imoukzan",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMOUGZEN",
+    "NOM_ETABA": "امكزن",
+    "AdresseL": "DOUAR IMOUGZENNE commune bni ahmed amougzenne targ",
+    "AdresseA": "دوار إمكزن جماعة بني احمد امكزن",
+    "COMMUNE": "Bni Ahmed Imoukzan",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAZOUZ",
+    "NOM_ETABA": "مازوز",
+    "AdresseL": "DOUAR MAZOUZ COMMUNE BNI AHMED IMOUGZEN",
+    "AdresseA": "دوار مازوز جماعة بني احمد امكزن",
+    "COMMUNE": "Bni Ahmed Imoukzan",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMIANAST",
+    "NOM_ETABA": "تميانصت",
+    "AdresseL": "DOUAR TAMIANAST COMMUNE BNI AHMED IMOUGZEN",
+    "AdresseA": "دوارتميانصت جماعة بني احمد امكزن",
+    "COMMUNE": "Bni Ahmed Imoukzan",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

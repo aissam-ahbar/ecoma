@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "OULED NACER LOUED CENTRE",
+    "NOM_ETABA": "اولاد ناصر الواد المركزية",
+    "AdresseL": "DOUAR OULED NACER LOUED COMMUNE TAOUZINETE",
+    "AdresseA": "دوار اولاد ناصر الواد",
+    "COMMUNE": "Taouzint",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAWZINTE CENTRE",
+    "NOM_ETABA": "تاوزينت المركزية",
+    "AdresseL": "DOUAR AIT SI ABDELLAH COMMUNE TAOUZINETE",
+    "AdresseA": "دوار  آيت سي عبدالله جماعة تاوزينت",
+    "COMMUNE": "Taouzint",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "NOM_ETABL": "LYCEE ABOU FERASS ALHAMADANI COLLEGIAL",
+    "NOM_ETABA": "ثانوية أبي فراس الحمداني الإعدادية",
+    "AdresseL": "QUARTIER TAMAZART",
+    "AdresseA": "حي تمزارت",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL AMANE COLLEGIAL ",
+    "NOM_ETABA": "ثانوية الأمان الإعدادية",
+    "AdresseL": "Q AZROU",
+    "AdresseA": "حي ازرو",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL HIDAYA COLLEGIAL ",
+    "NOM_ETABA": "ثانوية الهداية الإعدادية",
+    "AdresseL": "QUARTIER LAMZAR COMMUNE AIT MELLOUL",
+    "AdresseA": "حي المزار جماعة أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE ERRAZI COLLEGIAL ",
+    "NOM_ETABA": "ثانوية الرازي الإعدادية",
+    "AdresseL": "Bd DE LA RESISTANCE AIT MELLOUL",
+    "AdresseA": "شارع المقاومة ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE EZZARKTOUNI COLLEGIAL",
+    "NOM_ETABA": "ثانوية الزرقطوني الإعدادية",
+    "AdresseL": "AZROU AIT MELLOUL",
+    "AdresseA": "أزرو أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL KHALIL BEN AHMED COLLEGIAL",
+    "NOM_ETABA": "ثانوية الخليل بن أحمد الإعدادية",
+    "AdresseL": "AIT MELLOUL",
+    "AdresseA": "أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBN BATOUTA COLLEGIAL",
+    "NOM_ETABA": "ثانوية ابن بطوطة الإعدادية",
+    "AdresseL": "LOT ADMINE BLOK A AIT MELLOUL ",
+    "AdresseA": "حي ادمين ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE ATTABARI COLLEGIAL",
+    "NOM_ETABA": "ثانوية الطبري الإعدادية",
+    "AdresseL": "Cité safa 2 Ait Melloul",
+    "AdresseA": "حي الصفا 2  أيت ملول ",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AGADIR EL KABIR COLLEGIAL",
+    "NOM_ETABA": "ثانوية أگادير الكبير الإعدادية",
+    "AdresseL": "AV MOQAOUAMA AIT MELLOUL",
+    "AdresseA": "شارع المقاومة أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE OUED SOUSS COLLEGIAL",
+    "NOM_ETABA": "ثانوية واد سوس الإعدادية",
+    "AdresseL": " lot YASMINA    AIT MELLOUL",
+    "AdresseA": "تجزئة ياسمينة 1 أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL MOUSTAKBAL COLLEGIAL",
+    "NOM_ETABA": "ثانوية المستقبل الإعدادية",
+    "AdresseL": "HAY AZROU AIT MELLOUL",
+    "AdresseA": "حي ازرو ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE EL YASMINE COLLEGIAL",
+    "NOM_ETABA": " ثانوية الياسمين الإعدادية",
+    "AdresseL": "HAY KASBAT TAHER AIT MELLOUL",
+    "AdresseA": "قصبة الطاهر ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL WAFA",
+    "NOM_ETABA": "مدرسة الوفاء",
+    "AdresseL": "hay elfATH    AIT MELLOUL",
+    "AdresseA": "حي الفتح",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL AAHDE AL JADID",
+    "NOM_ETABA": "مدرسة العهد الجديد",
+    "AdresseL": "ROUTE ELMOUQUAMA AIT MELLOUL",
+    "AdresseA": "شارع  المقاومة",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SALAH EDDINE",
+    "NOM_ETABA": "مدرسة صلاح الدين الأيوبي",
+    "AdresseL": "rue agadir QUARTIER ASSAISS AIT MELLOUL",
+    "AdresseA": "  شارع أكادير حي أسايس أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MIMOUNE RAMOUKI",
+    "NOM_ETABA": "مدرسة ميمون الرموكي",
+    "AdresseL": "CITE LAHRACHE AIT MELLOUL",
+    "AdresseA": "شارع ميمون الرموكي حي الحرش ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE QUANTARATE SOUSS",
+    "NOM_ETABA": "مدرسة قنطرة سوس",
+    "AdresseL": "CITE EL MASSIRA   CHOUHADA AIT MELLOUL",
+    "AdresseA": "شارع سيدي ايفني حي المسيرة ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALBASSATINE",
+    "NOM_ETABA": "مدرسة البساتين",
+    "AdresseL": "QUARTIER  KASBAT TAHER  AIT MELLOUL",
+    "AdresseA": "حي قصبة الطاهر أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL ICHRAK",
+    "NOM_ETABA": "مدرسة الإشراق",
+    "AdresseL": "CITE  al amal  AIT MELLOUL",
+    "AdresseA": "             حي الامل    ايت  ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMANAHIL",
+    "NOM_ETABA": "مدرسة المناهل",
+    "AdresseL": "CITE TIMIRSITE AIT MELLOUL",
+    "AdresseA": "حي تمرسيط",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL BARAYIM",
+    "NOM_ETABA": "مدرسة البراعم",
+    "AdresseL": "QUARTIER ARGANA AIT MELLOUL",
+    "AdresseA": "حي اركانة أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ARRISSALAH",
+    "NOM_ETABA": "مدرسة الرسالة",
+    "AdresseL": "Ecole ARRISSALAH CITE SALAM AIT MELLOUL",
+    "AdresseA": "مدرسة الرسالة.حي السلام.ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOUTAMIDE BEN ABBADE",
+    "NOM_ETABA": "مدرسة المعتمد بن عباد",
+    "AdresseL": "CITE TAMAZARTE AIT MELLOUL",
+    "AdresseA": "حي تمزارت",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AGDAL",
+    "NOM_ETABA": "مدرسة أگدال",
+    "AdresseL": "CITE AGDAL AIT MELLOUL",
+    "AdresseA": "حي أكدال",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN TOUMART",
+    "NOM_ETABA": "مدرسة ابن تومرت",
+    "AdresseL": "CITE AZROU AIT MELLOUL",
+    "AdresseA": "حي ازرو",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZAITOUN",
+    "NOM_ETABA": "مدرسة الزيتون",
+    "AdresseL": "DOUAR LAARABE AIT MELLOUL",
+    "AdresseA": "حي أزرو",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALAJIAL",
+    "NOM_ETABA": "مدرسة الاجيال",
+    "AdresseL": "CITE AZROU AIT MELLOUL",
+    "AdresseA": "حي أزرو",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALAMAL",
+    "NOM_ETABA": "مدرسة الأمل",
+    "AdresseL": "HAY HAMMOU AZROU AIT MELLOUL",
+    "AdresseA": "حي حمو أزرو أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AAMROU BNOU LAASS",
+    "NOM_ETABA": "مدرسة عمرو بن العاص",
+    "AdresseL": "BLOK  1 SAHAT ALMASJID ALKABIR LMZAR ait melloul ",
+    "AdresseA": "بلوك 1 ساحة المسجد الكبير المزار ايت ملول ",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALWARD",
+    "NOM_ETABA": "مدرسة الورد",
+    "AdresseL": "HAY AIT BADI LMZAR AIT MELLOUL",
+    "AdresseA": "حي  أيت  بادي  المزار  ايت  ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN BAJAH",
+    "NOM_ETABA": "مدرسة ابن باجة",
+    "AdresseL": "QUARTIER ALMOUSTAQBAL   AIT MELLOUL",
+    "AdresseA": "حي المستقبل ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ARRAJA",
+    "NOM_ETABA": "مدرسة الرجاء",
+    "AdresseL": "HAY AZROU COMMUNE AIT MELLOUL",
+    "AdresseA": "حي ازرو",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL ANDALIB",
+    "NOM_ETABA": "مدرسة العندليب",
+    "AdresseL": "HAY QUASBAT TAHER COMMUNE AIT MELLOUL",
+    "AdresseA": "حي قصبة الطاهر",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL YARMOUK",
+    "NOM_ETABA": "مدرسة اليرموك",
+    "AdresseL": "HAY ALHARCHE2 AIT MELLOUL",
+    "AdresseA": " ايت ملول حي الحرش2",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BADR",
+    "NOM_ETABA": "مدرسة بدر",
+    "AdresseL": "HAY TIHAMOU  AIT MELLOUL",
+    "AdresseA": "حي توهمو",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALQODS",
+    "NOM_ETABA": "مدرسة القدس",
+    "AdresseL": "HAY AZROU  AIT MELLOUL",
+    "AdresseA": "حي أزرو",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM CHAFIYI",
+    "NOM_ETABA": "مدرسة الامام الشافعي",
+    "AdresseL": "KESBAT TAHER AIT MELLOUL",
+    "AdresseA": "حي قصبة الطاهر",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANNOUR",
+    "NOM_ETABA": "مدرسة النور",
+    "AdresseL": "HAY alamal AIT MELLOUL",
+    "AdresseA": "حي الأمل",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JABER BNOU HAYANE",
+    "NOM_ETABA": "مدرسة جابر بن  حيان",
+    "AdresseL": " BLOC 07  HAY AZRROU    AIT MELLOUL",
+    "AdresseA": "بلوك:07 حي أزرو أيت ملول ",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BIR ANZARAN",
+    "NOM_ETABA": "مدرسة بئر انزران",
+    "AdresseL": "HAY KHZANTE LEMZAR",
+    "AdresseA": "حي الخزانت المزار ",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZAYNAB NEFZAOUIA",
+    "NOM_ETABA": "مدرسة زينب النفزاوية",
+    "AdresseL": "HAY ALMAGHRIB ALARABI",
+    "AdresseA": "حي المغرب العربي",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNACHIA",
+    "NOM_ETABA": "مدرسة الناشئة",
+    "AdresseL": "AVENUE SIDI IFNI;HAY CHOUHADA",
+    "AdresseA": "شارع سيدي إفني، حي الشهداء، أيت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IMAM MALEK QUALIFIANT",
+    "NOM_ETABA": "ثانوية الامام مالك التأهيلية",
+    "AdresseL": "hay lmzar ait melloul",
+    "AdresseA": "حي لمزار.ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OMAR BEN LKHATAB QUALIFIANT",
+    "NOM_ETABA": "ثانوية عمر بن الخطاب التأهيلية",
+    "AdresseL": "hay agdal ait melloul",
+    "AdresseA": "حي اكدال ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ASSAFA QUALIFIANT",
+    "NOM_ETABA": "ثانوية الصفاء التأهيلية",
+    "AdresseL": "Kasbat taher",
+    "AdresseA": "قصبة الطاهر",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MAARIFA QUALIFIANT",
+    "NOM_ETABA": "ثانوية المعرفة التأهيلية",
+    "AdresseL": "lot yassmina 1 AIT MELLOUL",
+    "AdresseA": "تجزئة ياسمينة 1 ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ASSAADA QUALIFIANT",
+    "NOM_ETABA": "ثانوية السعادة التأهيلية",
+    "AdresseL": "LOT ADMINE AIT MELLOUL",
+    "AdresseA": "ادمين ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL MAJD QUALIFIANT",
+    "NOM_ETABA": "ثانوية المجد التأهيلية",
+    "AdresseL": "HAY AZROU AIT MELLOUL",
+    "AdresseA": "حي ازرو ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOHAMED AL BAQALI QUALIFIANT",
+    "NOM_ETABA": "ثانوية محمد البقالي التأهيلية",
+    "AdresseL": "CITE ADMIME AIT MELLOUL",
+    "AdresseA": "حي ادمين ايت ملول",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE LAARBI LBANAY QUALIFIANT ",
+    "NOM_ETABA": "ثانوية العربي البناي التأهيلية",
+    "AdresseL": "HAY TAMAZART",
+    "AdresseA": "حي تمزارت",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE EL MEHDI ALMANJRA QUALIFIANT",
+    "NOM_ETABA": "ثانوية المهدي المنجرة التأهيلية",
+    "AdresseL": "Cité Azrou Ait Melloul",
+    "AdresseA": "      حي ازرو ايت ملول  ",
+    "COMMUNE": "Ait Melloul",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOUNTADA ATTOFOULA",
+    "NOM_ETABA": "منتدى الطفولة",
+    "AdresseL": "N° 57; LOT AJDIGUE; AIT MELLOU",
+    "AdresseA": "رقم 57 تجزئة أجديك ايت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ORANGERS AGADIR",
+    "NOM_ETABA": "ليزورونجي أكادير",
+    "AdresseL": "BLOC D; ADMINE; AIT MELLOUL",
+    "AdresseA": "بلوك د، أدمين، أيت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANAR EL HIDAYA",
+    "NOM_ETABA": "منار الهداية خصوصي",
+    "AdresseL": "ROUTE ADMIME; BLOC 16; AIT MEL",
+    "AdresseA": "طريق أدميم ، بلوك 16، أيت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL QUAMOSE",
+    "NOM_ETABA": "القاموس الخصوصية",
+    "AdresseL": "N° 17/810 ;BLOC 5; AVENUE LA F",
+    "AdresseA": "شارع الكلية بلوك5 حي المزار اي",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR AL MAARIFA",
+    "NOM_ETABA": "نور المعرفة ",
+    "AdresseL": "N° 83; LOTISSEMENT RIYAD;  AIT",
+    "AdresseA": "رقم 83، تجزئة الرياض- أيت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HOUDA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 23 بلوك 1 طريق بيوكرى، أيت",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANALE",
+    "NOM_ETABA": "المنال الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة برماط 2 رقم 366 ايت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution attajdid attarbawi",
+    "NOM_ETABA": "م.التجديد التربوي للتعليم الاولي",
+    "AdresseL": "Bloc 01 NR 103 HAY Moulay Omar",
+    "AdresseA": "بلوك 1 رقم 103 حي مولاي عمر  ا",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANGES AL KAOUTAR",
+    "NOM_ETABA": "ملائكة الكوثر",
+    "AdresseL": "LOT BARMAT1 ;AIT MELLOUL",
+    "AdresseA": " تجزئة برمات 1 ايت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRAYaN",
+    "NOM_ETABA": "الريان الخاصة",
+    "AdresseL": "N°22; BLOC 4;KASBAT TAHER; AIT",
+    "AdresseA": "رقم 22، بلوك 4، قصبة الطاهر، أ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "eTABLISSEMENT JIL ATTAJDIDE",
+    "NOM_ETABA": "مؤسسة جيل التجديد الخصوصية",
+    "AdresseL": "LOTISSEMENT ESSAADAOUI; CITE A",
+    "AdresseA": "تجزئة السعداوي حي أكدال",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL AL KABIR",
+    "NOM_ETABA": "الأمل الكبير",
+    "AdresseL": "LOT ARGANA N°10 ROUTE DE TIZNI",
+    "AdresseA": "تجزئة أركانة رقم 10 طريق تيزني",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sabil al houda",
+    "NOM_ETABA": "سبيل الهدى",
+    "AdresseL": "bloc 6 hay alaarb azrou ",
+    "AdresseA": "بلوك 6 حي العرب أزرو ايت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA VALLEE VERTE",
+    "NOM_ETABA": "لافالي فيرت",
+    "AdresseL": "BLOC 10 N°26 HAY AIT BADI LAMZ",
+    "AdresseA": "        بلوك 10 رقم : 26 حي أي",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BARIZE",
+    "NOM_ETABA": "مؤسسة البارز الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع أبوبكر القادري تجزئة مكة ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BOUABID",
+    "NOM_ETABA": "مؤسسة بوعبيد",
+    "AdresseL": "Lotissement almaghrib al arabi",
+    "AdresseA": "تجزبة النمغرب العربي رقم :422 ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al iman",
+    "NOM_ETABA": "الايمان الخاصة",
+    "AdresseL": "hay assaLam (moulay omar) bloc",
+    "AdresseA": "(البلدية) حي السلام (حي مولاي ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sama admin",
+    "NOM_ETABA": "  سما أدمين الخصوصية",
+    "AdresseL": "Sama admine ait melloule",
+    "AdresseA": "حي أدمين أيت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jil al manar",
+    "NOM_ETABA": "جيل المنار للتعليم الخصوصي",
+    "AdresseL": "vila 510 lott al maghreb al ar",
+    "AdresseA": "فيلا 510 تجزئة المغرب العربي ا",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al hakim assaghir",
+    "NOM_ETABA": "الحكيم الصغير الخاصة",
+    "AdresseL": "bloc 04 hay lemzar",
+    "AdresseA": "بلوك 04 حي المزار",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al oUtrojja",
+    "NOM_ETABA": "الأترجة الخاصة",
+    "AdresseL": "N° 104; LOTISSEMENT ADMINE; AI",
+    "AdresseA": "تجزئة أدمين رقم 104، أيت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aWzal",
+    "NOM_ETABA": "أوزال الخاصة",
+    "AdresseL": "n4 lotissement almaghrib al ar",
+    "AdresseA": "رقم04 تجزئة المغرب العربي",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMAM MOUSLIM LIMAARIFA",
+    "NOM_ETABA": "الإمام مسلم للمعرفة الخاصة",
+    "AdresseL": "lotissement akbar 2 ",
+    "AdresseA": "تجزئة أكبار2",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KATKOUTE ESSAGHIR",
+    "NOM_ETABA": "الكتكوت الصغير",
+    "AdresseL": "lot Barmat2 n°108",
+    "AdresseA": "تجزئة برمات 2 رقم 108",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMANEE",
+    "NOM_ETABA": "الأمان الخصوصية ",
+    "AdresseL": "AVENUE AQQA TAMAZARET",
+    "AdresseA": "شارع أقا تمزارت ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la clarte",
+    "NOM_ETABA": "لكلرتي الخصوصية",
+    "AdresseL": "6 groupement habitat bouhach a",
+    "AdresseA": "ايت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECHATAEL",
+    "NOM_ETABA": "الشتائل الخاصة",
+    "AdresseL": "63 SOUSS ALALIMA",
+    "AdresseA": "63 تجزئة سوس العالمة",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JASSANI   III",
+    "NOM_ETABA": "جساني  3 الخاصة",
+    "AdresseL": "14 A, Lot Al-maghreb al-arabi",
+    "AdresseA": "تجزئة المغرب العربي, رقم 14 أ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OMNIYA",
+    "NOM_ETABA": "الأمنية الخاصة",
+    "AdresseL": "BLOC 4 HAY LAARAB AZROU AIT ME",
+    "AdresseA": "بلوك 4 حي العرب أزرو ايت ملول ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL FASSIHE 2",
+    "NOM_ETABA": "مؤسسة الفصيح  2 الخاصة",
+    "AdresseL": "N°156/157 hay agdal AIT MELLOU",
+    "AdresseA": "رقم 156/157 حي أكدال ايت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KAWAKIB",
+    "NOM_ETABA": "الكواكب الخاصة",
+    "AdresseL": "n° 205 lot almaghrib al arabi ",
+    "AdresseA": "تجزئة المغرب العربي رقم 205 ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESSAID",
+    "NOM_ETABA": "السعيد الخاصة",
+    "AdresseL": "QUARTIER TOUHAMMOU AIT MELLOUL",
+    "AdresseA": "حي توهمو ايت ملول",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "albaydae",
+    "NOM_ETABA": "البيداء الخاصة",
+    "AdresseL": "VILLA 333 LOTISSEMENT MAGHREB ",
+    "AdresseA": "فيلا 333 تجزئة المغرب العربي ا",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Al Fassihe",
+    "NOM_ETABA": "مؤسسة الفصيح الخاصة",
+    "AdresseL": "avenue AGLOU / hay tamazarte /",
+    "AdresseA": "شارع أكلو / حي تمزارت /  أيت م",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SIDI EL HADJ EL HABIB",
+    "NOM_ETABA": "مؤسسة سيدي الحاج الحبيب الخاصة",
+    "AdresseL": "Hay Lharche, Rue Biougra -C.U.",
+    "AdresseA": "حي الحرش2، طريق بيوكري - أيت م",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hidaya",
+    "NOM_ETABA": "الهداية الخاصة",
+    "AdresseL": "lotissement admine  d6 zone vi",
+    "AdresseA": " تجزئة ادمين منطقة الفيلات  أي",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OMARAYNE ",
+    "NOM_ETABA": "العمرين  الخصوصية",
+    "AdresseL": "BLOC 05; N°90; QUARTIER ALARAB",
+    "AdresseA": "بلوك 05، رقم 90،  حي العرب، أز",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HIMAM ALMAALI ",
+    "NOM_ETABA": "همم المعالي  الخصوصية ",
+    "AdresseL": "LOT WARDIGHA; N°40 QUARTIER NA",
+    "AdresseA": "تجزئة ورديغة، رقم 40،  حي النه",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IRFANEE",
+    "NOM_ETABA": "العرفان الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 178 ، بلوك 5، أزرو، ايت ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aljil assaide",
+    "NOM_ETABA": "الجيل الصاعد",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 155 الزنقة 6 بلوك 1 تجزئ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ACHAIMAE",
+    "NOM_ETABA": "مؤسسة الشيماء الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "  رقم 251، مجموعة E ، تجزئة أد",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution asmae",
+    "NOM_ETABA": "مؤسسة أسماء الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "     رقم 495تجزئة الفتح ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALMAJD PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة المجد للتعليم الأولي الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 254، بلوك 1، حي الأمل، أيت",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ADIB ASSAGHIR",
+    "NOM_ETABA": "الأديب الصغير الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 110، شارع أبوبكر القادري، ",
+    "COMMUNE": "Ait Melloul ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

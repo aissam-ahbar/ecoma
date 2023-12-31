@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL OULAD KHALLOUF",
+    "NOM_ETABA": "ثانوية اولاد خلوف الاعدادية ",
+    "AdresseL": "commune ouled khallouf",
+    "AdresseA": "جماعة اولاد خلوف",
+    "COMMUNE": "Oulad Khallouf",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI DRISS CENTRE",
+    "NOM_ETABA": "سيدي ادريس المركزية",
+    "AdresseL": "COMMUNE OULED KHALLOUF",
+    "AdresseA": "جماعة اولاد خلوف",
+    "COMMUNE": "Oulad Khallouf",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD IICH CENTRE",
+    "NOM_ETABA": "اولاد يعيش المركزية",
+    "AdresseL": "commune OULED KHALLOUF",
+    "AdresseA": "جماعة اولاد خلوف",
+    "COMMUNE": "Oulad Khallouf",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS ALBAYROUNI CENTRE IGHIR MOUSS",
+    "NOM_ETABA": "م.م البيروني مركزية اغير موس",
+    "AdresseL": "DOUAR IGHIR MOUSS ait issafen",
+    "AdresseA": " دوار اغير موس ايت اسفن",
+    "COMMUNE": "Ait Issafen",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED SALEM CENTRE TIZGUI",
+    "NOM_ETABA": "م.م محمد سالم مركزية تيزكي",
+    "AdresseL": "DOUAR TIZGUI COMMUNE AIT ISSAFEN CERCLE ANZI",
+    "AdresseA": "دوار تزكي جماعة أيت إسافن دائرة أنزي",
+    "COMMUNE": "Ait Issafen",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

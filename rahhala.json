@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "TIKHRIBINE",
+    "NOM_ETABA": "تخربين",
+    "AdresseL": "DOUAR TIKHRIBINE COMMUNE RAHHALA",
+    "AdresseA": "دوار  تخربين",
+    "COMMUNE": "Rahhala",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUHMISSA",
+    "NOM_ETABA": "بوحميسة",
+    "AdresseL": "DOUAR BOUHMISSA COMMUNE RAHHALA",
+    "AdresseA": "دوار  بوحميسة",
+    "COMMUNE": "Rahhala",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIRKHAT",
+    "NOM_ETABA": "ترخات",
+    "AdresseL": "DOUAR TIRKHAT COMMUNE RAHHALA",
+    "AdresseA": "دوار  ترخات",
+    "COMMUNE": "Rahhala",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

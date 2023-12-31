@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SS ALMOKHTAR ASSOUSSI CENTRE AIT OUAFQA",
+    "NOM_ETABA": "م.م المختار السوسي مركزية ايت وافقا",
+    "AdresseL": "CENTRE COMMUNE AIT OUAFKA",
+    "AdresseA": "مركز جماعة ايت وافقا",
+    "COMMUNE": "Ait Ouafqa",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALABDARI CENTRE IGUILIZ",
+    "NOM_ETABA": "م.م العبدري مركزية اكيليز",
+    "AdresseL": "DOUAR IGULIZ",
+    "AdresseA": "دوار اكيليز",
+    "COMMUNE": "Ait Ouafqa",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BAKAR HOUCINE BEN HAISSON CENTRE ANAMER IGHECHA",
+    "NOM_ETABA": "م.م بكار حسين بن حيسون مركزية انامر اغشان",
+    "AdresseL": "DOUAR ANAMER IGHECHANE",
+    "AdresseA": "دوار اانامر اغشان",
+    "COMMUNE": "Ait Ouafqa",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL ADARISSA CENTRE DOUGADIR",
+    "NOM_ETABA": "م.م الادارسة مركزية الدوكادير",
+    "AdresseL": "DOUAR DOUGADIR",
+    "AdresseA": "دوار الدوكادير",
+    "COMMUNE": "Ait Ouafqa",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IDRISS II",
+    "NOM_ETABA": "الثانوية التأهيلية ادريس الثاني",
+    "AdresseL": "centre ait ouafka",
+    "AdresseA": "مركز جماعة ايت وفقا",
+    "COMMUNE": "Ait Ouafqa",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL ABDELAZIZ ELFECHTALI",
+    "NOM_ETABA": "ثانوية عبد العزيز الفشتالي الإعدادية",
+    "AdresseL": "COMMUNE MOULAY BOUCHTA KARIA BA MOHAMED TAOUNATE",
+    "AdresseA": "جماعة مولاي بوشتى- قرية با محمد",
+    "COMMUNE": "Moulay Bouchta",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MOULAY BOUCHTA",
+    "NOM_ETABA": "م/م  مولاي بوشتى",
+    "AdresseL": "centre MOULAY BOUCHTA COMMUNE MOULAY BOUCHTA",
+    "AdresseA": "مركزمولاي بوشتى  جماعة مولاي بوشتى",
+    "COMMUNE": "Moulay Bouchta",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AZOUR",
+    "NOM_ETABA": "م/م  أزور",
+    "AdresseL": "DOUAR AZOUR COMMUNE MOULAY BOUCHTA KARIA",
+    "AdresseA": "دوارآ زور  جماعة مولاي بوشتى- القرية",
+    "COMMUNE": "Moulay Bouchta",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BRIDIA",
+    "NOM_ETABA": "م/م  البريدية",
+    "AdresseL": "DOUAR AIN Himdi COMMUNE MOULAY   BOUCHTA ",
+    "AdresseA": "دوار عين الحمدي مولاي بوشتى ",
+    "COMMUNE": "Moulay Bouchta",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S CHOUKER",
+    "NOM_ETABA": "م/م الشوقر",
+    "AdresseL": "KM 66 COMMUNE MOULAY BOUCHTA KARIA",
+    "AdresseA": "دوا ر كلم  66ا  جماعة مولاي بوشتى- القرية",
+    "COMMUNE": "Moulay Bouchta",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BOUYED COM",
+    "NOM_ETABA": "مدرسة البويض.كم",
+    "AdresseL": "Douar el bouyed commune moulay bouchta province TA",
+    "AdresseA": "دوار البويض جماعة مولاي بوشتى إقليم تاونات",
+    "COMMUNE": "Moulay Bouchta",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCE QUALIFIANT MOULAY BOUCHTA",
+    "NOM_ETABA": "ثانوية مولاي بوشتى التأهيلية",
+    "AdresseL": "commune Moulay Bouchta",
+    "AdresseA": "جماعة مولاي بوشتى",
+    "COMMUNE": "Moulay Bouchta",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS ALI IBN ABITALIB",
+    "NOM_ETABA": "م.م علي بن ابي طالب",
+    "AdresseL": "DOUAR   OUZZOUNE C ADAR",
+    "AdresseA": "دوار ازون جماعة اضار اغرم ",
+    "COMMUNE": "Adar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  ADAR",
+    "NOM_ETABA": "م.م أضار",
+    "AdresseL": "   CENTRE ADAR  CR ADAR",
+    "AdresseA": " مركز أضار جماعة أضار",
+    "COMMUNE": "Adar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DOUSSAOUNE",
+    "NOM_ETABA": "م.م الدوساون",
+    "AdresseL": "  DOUSSAOUNE C ADAR",
+    "AdresseA": "الدوساون جماعة اضار دائرة إيغرم",
+    "COMMUNE": "Adar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

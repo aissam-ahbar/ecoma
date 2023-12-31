@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ENJIL AIT LAHCEN",
+    "NOM_ETABA": "انجيل ايت لحسن",
+    "AdresseL": "ENJIL AIT LAHCEN CENTRE COMMUNE ENJIL",
+    "AdresseA": "دوار انجيل ايت لحسن جماعة انجيل",
+    "COMMUNE": "Enjil",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENJIL IKHATARN",
+    "NOM_ETABA": "انجيل اختارن",
+    "AdresseL": "ENJIL IKHATAREN CENTRE COMMUNE ENJIL",
+    "AdresseA": "انجيل اختارن المركز جماعة انجيل",
+    "COMMUNE": "Enjil",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AACHLOUJ",
+    "NOM_ETABA": "عشلوج",
+    "AdresseL": "DOUAR AACHLOUJ COMMUNE ENJIL",
+    "AdresseA": "دوار عشلوج  جماعة انجيل",
+    "COMMUNE": "Enjil",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUSSA IBN NOUSAIR",
+    "NOM_ETABA": "الثانوية التأهيلية موسى بن نصير",
+    "AdresseL": "ENJIL IKHATAREN CENTRE COMMUNE ENJIL",
+    "AdresseA": "انجيل ختارن المركز جماعة انجيل",
+    "COMMUNE": "Enjil",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

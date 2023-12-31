@@ -1,0 +1,482 @@
+[
+  {
+    "NOM_ETABL": "COLLÈGE TAQADOUM ",
+    "NOM_ETABA": "الثانوية الاعدادية التقدم",
+    "AdresseL": "municipalité oulad teima",
+    "AdresseA": "بلدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C AL INBIAAT",
+    "NOM_ETABA": "ثإ. الإنبعاث",
+    "AdresseL": "AL INBIAT OULED TEIMA ",
+    "AdresseA": "اعدادية الانبعات اولاد التايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ANOUAL ",
+    "NOM_ETABA": "ثإ. أنوال",
+    "AdresseL": "HAY CHRARDA MUNICIPALITE OULAD TEIMA",
+    "AdresseA": "حي الشراردة بلدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MOHAMED DERFOUFI",
+    "NOM_ETABA": "ثإ. محمد الدرفوفي",
+    "AdresseL": "QUARTIER NAHDA 3 OULAD TAIMA",
+    "AdresseA": "حي النهضة 3 اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E 20 AOUT",
+    "NOM_ETABA": "20 م. غشت",
+    "AdresseL": "CITE ENNASR EL koursi  OULAD TEIMA",
+    "AdresseA": "شارع السلام حي الكرسي بلدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "م. المسيرة الخضراء",
+    "AdresseL": "AVENUE HASSAN 2 OULAD TEIMA",
+    "AdresseA": "شارع  الحسن 2",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ALLAYMOUNE",
+    "NOM_ETABA": "م. الليمون",
+    "AdresseL": "36 AVENUE EL HOURIA OULAD TEIMA",
+    "AdresseA": "36 شارع الحرية بلدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN TOUFAIL",
+    "NOM_ETABA": "م. ابن طفيل",
+    "AdresseL": "CITE ADMINISTRATIVE OULAD TEIMA",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E RABIA AL AADAOUIYA",
+    "NOM_ETABA": "م. رابعة العدوية",
+    "AdresseL": "HAY TIZGUI  OULAD TEIMA",
+    "AdresseA": "حي تيزكي بلدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL HOURIA",
+    "NOM_ETABA": "م. الحرية",
+    "AdresseL": "ENNAHDA 3 MUNICIPALITE OULAD TEIMA",
+    "AdresseA": "النهضة 3",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BADER",
+    "NOM_ETABA": "م. بدر",
+    "AdresseL": "CITE CHNINATE MUNICIPALITE OULAD TEIMA",
+    "AdresseA": "حي الشنينات بلدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN ROUCHD",
+    "NOM_ETABA": "م. ابن رشد",
+    "AdresseL": "CITE CHRARDA MUNICIPALITE OULAD TEIMA",
+    "AdresseA": "حي الشراردة - اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHLIOUATE",
+    "NOM_ETABA": "م.م الشليوات",
+    "AdresseL": "CHLIOUATE OULED TEIMA",
+    "AdresseA": "الشليوات أولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAHRICHA",
+    "NOM_ETABA": "م.م الحريشة ",
+    "AdresseL": "CITE EL KOURSI MUNICIPALITE OULAD TEIMA",
+    "AdresseA": "حي الكرسي بلدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ASSAFA",
+    "NOM_ETABA": "م.الصفاء",
+    "AdresseL": "MUNICIPALITE OULAD TEIMA QUARTIER BOUKHRISS",
+    "AdresseA": "حي بوخريص بلدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ARRAZI",
+    "NOM_ETABA": "م. الرازي",
+    "AdresseL": "MUNICIPALITE OULED TEIMA QUARTIER CHRARDA",
+    "AdresseA": "حي الشراردة لبدية اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL HASSAN ED DAKHIL",
+    "NOM_ETABA": "م. الحسن الداخل",
+    "AdresseL": "RTAIM  MUNICIPALITE OULED TAIMA",
+    "AdresseA": "حي الرطيم اولاد تايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L HOUARA",
+    "NOM_ETABA": "ثأ. هوارة التأهيلية",
+    "AdresseL": "Ennahda al koubra",
+    "AdresseA": "النهضة الكبرى",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ABDALLAH CHEFCHAOUNI",
+    "NOM_ETABA": "ثأ. عبد الله الشفشاوني",
+    "AdresseL": "HAY AL KOURSI MUNICIPALITE OULAD TAIMA",
+    "AdresseA": "حي الكرسي",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ANNAHDA",
+    "NOM_ETABA": "ثأ. النهضة",
+    "AdresseL": "   CHRARDA MUNICIPALITE OULAD TAIMA",
+    "AdresseA": "حي الشراردة اولادتايمة",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L HASSAN II",
+    "NOM_ETABA": "ثأ. الحسن الثاني",
+    "AdresseL": "AVENUE HASSAN II MUNICIPALITE      OULED TAIMA",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Oulad Teima",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "jardin d enfant dounia",
+    "NOM_ETABA": "روض الاطفال دنيا",
+    "AdresseL": "NULL",
+    "AdresseA": "94 95 دنيا 2",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ROMAYSA@BADR",
+    "NOM_ETABA": "مؤسسة رميساء و بدر",
+    "AdresseL": "NULL",
+    "AdresseA": "HAY LAGLITA ALJADIDA",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "mohamed amine",
+    "NOM_ETABA": "محمد امين",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anawabir",
+    "NOM_ETABA": "النوابغ",
+    "AdresseL": "hay mebarka,rue elmoutanabi ",
+    "AdresseA": "حي مباركة زنقة المتنبي",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "argana",
+    "NOM_ETABA": "اركانة",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة هارون الرشيد",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zhour sofia",
+    "NOM_ETABA": "زهور صوفيا",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة الوفاء حي اكشود",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al azhare",
+    "NOM_ETABA": "الازهر",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة الليمون الشراردة اولاد تا",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut layla",
+    "NOM_ETABA": "مؤسسة ليلى للتعليم الاولى",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة المعمورة",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " institution al mostaqbal azzahir",
+    "NOM_ETABA": "مؤسسة المستقبل الزاهر",
+    "AdresseL": "LOT dounia 2 rue algerie n 99 ",
+    "AdresseA": "تجزئة دنيا 2 زنقة الجزائر رقم ",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "elallam saghir",
+    "NOM_ETABA": "العالم الصغير",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الحسن الثاني زنقة واد سوس",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tyour Al JANA \"Privé\"",
+    "NOM_ETABA": "طيور الجنة",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة البحر رقم 7 سيدي السايح ا",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bouaich",
+    "NOM_ETABA": "بوعيش",
+    "AdresseL": "NULL",
+    "AdresseA": "حي رابحة اولاد تايمة",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALBIATA",
+    "NOM_ETABA": "البعثة",
+    "AdresseL": "24/25 rue almasjid av.alazhar",
+    "AdresseA": "أولاد تايمة",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "albita2",
+    "NOM_ETABA": "البعثة 2",
+    "AdresseL": "Rue dakhla, Hay dounia 1, Oula",
+    "AdresseA": "تجزئة دنيا1 اولاد تايمة",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ismalia",
+    "NOM_ETABA": "مؤسسة الإسماعلية الخاصة",
+    "AdresseL": "Rue Haroun Errachid N° 228 - O",
+    "AdresseA": "زنقة هارون الرشيد، رقم 228 - ا",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oum elmanahel",
+    "NOM_ETABA": "أم المناهل",
+    "AdresseL": "cite administratif ouled teima",
+    "AdresseA": "الحي الإداري محطة الطاكسيات ال",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assalam",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "Av moulay abdellah hay el kour",
+    "AdresseA": "شارع مولاي عبد الله حي الكرسي",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ailm alyakine",
+    "NOM_ETABA": "علم اليقين الخاصة",
+    "AdresseL": "rue alwafa - hay cherarda",
+    "AdresseA": "زنقة الوفاء حي الشراردة",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hanane el jazouli",
+    "NOM_ETABA": "الحنان الجزولي",
+    "AdresseL": "ROUTE SIDI BOUMOUSSA ELKOURSSI",
+    "AdresseA": "طريق سيدي بوموسى الكرسي أولادت",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Meriame",
+    "NOM_ETABA": "مؤسسة مريم الخاصة ",
+    "AdresseL": "Quartier Administratif- C.U. O",
+    "AdresseA": "الحي الإداري - ج.ح. اولاد تايم",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Amal Ouled Teima",
+    "NOM_ETABA": "الأمل اولاد تايمة",
+    "AdresseL": "N° 6, Rue Al Khawarizmi - Oule",
+    "AdresseA": "رقم 6، زنقة الخوارزمي - اولاد ",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al forqane",
+    "NOM_ETABA": "الفرقان",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الكرسي زنقة بين الويدان رقم",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El qods bouchehab",
+    "NOM_ETABA": "القدس بوشهاب",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الكليتة القديمة شارع السلام",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sabil annajah 2e",
+    "NOM_ETABA": "سبيل النجاح 2 الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النهضة الكبرى أولاد تايم",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement alfirdawss awali",
+    "NOM_ETABA": "الفردوس أولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الكليثة القديمة رقم 153 أول",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHOUSNA AWALI",
+    "NOM_ETABA": "الحسنى أولي ",
+    "AdresseL": "NULL",
+    "AdresseA": " زنقة 48  النهضة درب الحمام أو",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution siraj al maarifa",
+    "NOM_ETABA": "مؤسسة سراج المعرفة",
+    "AdresseL": "N°83, Lot Laayoune, Hay Al Kou",
+    "AdresseA": " الرقم 83 تجزئة العيون حي الكر",
+    "COMMUNE": "Oulad Teima ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

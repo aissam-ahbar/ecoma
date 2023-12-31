@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNI HASSANE",
+    "NOM_ETABA": "ثانوية بني حسان الإعدادية",
+    "AdresseL": " CENTRE COM BNI HASSANE",
+    "AdresseA": "مركز جماعة بني حسان",
+    "COMMUNE": "Bni Hassane",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE MASKAOUN",
+    "NOM_ETABA": "مركزية مسكاون",
+    "AdresseL": "DOUAR MASKAOUN",
+    "AdresseA": "دوار مسكاون",
+    "COMMUNE": "Bni Hassane",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IBARAGHEN",
+    "NOM_ETABA": "مركزية ابراغن",
+    "AdresseL": "DOUAR IBARAGHEN ",
+    "AdresseA": "دوار ابراغن",
+    "COMMUNE": "Bni Hassane",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIRESTE",
+    "NOM_ETABA": "مركزية ترست",
+    "AdresseL": "DOUAR TIREST COMMUNE DE BNI HASSANE",
+    "AdresseA": "دوار ترست جماعة بني حسان ",
+    "COMMUNE": "Bni Hassane",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

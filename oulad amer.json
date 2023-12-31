@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL OULAD AMER",
+    "NOM_ETABA": "ثانوية اولاد عامر الإعدادية",
+    "AdresseL": "OULED AMER CENTRE",
+    "AdresseA": "مركز اولاد عامر",
+    "COMMUNE": "Oulad Amer",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT HACHEM CENTRE",
+    "NOM_ETABA": "مركزية ايت هاشم",
+    "AdresseL": "DOUAR AIT HACHEM",
+    "AdresseA": "دوار ايت هاشم",
+    "COMMUNE": "Oulad Amer",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOINA CENTRE",
+    "NOM_ETABA": "مركزية النوانة",
+    "AdresseL": "DOUAR NOINA COMMUNE OULAD AMER",
+    "AdresseA": "النوانة اولاد عامر",
+    "COMMUNE": "Oulad Amer",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

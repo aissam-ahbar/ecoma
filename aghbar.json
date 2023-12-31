@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LAMKIATE",
+    "NOM_ETABA": "المكيات",
+    "AdresseL": "DOUAR AGHBAR COMMUNE AGHBAR",
+    "AdresseA": "دوار اغبار جماعة اغبار",
+    "COMMUNE": "Aghbar",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANAMERTE",
+    "NOM_ETABA": "تنامرت",
+    "AdresseL": "DOUAR TANAMMERTE COMMUNE AGHBAR",
+    "AdresseA": "دوار تنامرت جماعة اغبار",
+    "COMMUNE": "Aghbar",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGUE",
+    "NOM_ETABA": "اك",
+    "AdresseL": "DOUAR IGUE COMMUNE AGHBAR",
+    "AdresseA": "دوار اك جماعة اغبار",
+    "COMMUNE": "Aghbar",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

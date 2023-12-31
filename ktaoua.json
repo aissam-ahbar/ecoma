@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SS BNI SEMGUINE",
+    "NOM_ETABA": "م.م بني سمكين",
+    "AdresseL": "DOUAR BNI SMGUINE CKTAOUA",
+    "AdresseA": "بني سمكين",
+    "COMMUNE": "Ktaoua",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED AAMAR",
+    "NOM_ETABA": "م.م اولاد عمر",
+    "AdresseL": "DOUAR OULAD AAMAR COMMUNE KTAOUA",
+    "AdresseA": "اولاد عمرو",
+    "COMMUNE": "Ktaoua",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MIERDE",
+    "NOM_ETABA": "م.م أمييرد",
+    "AdresseL": "DOUAR BOUTFARSIGTE C KTAOUA ",
+    "AdresseA": "دوار بوتفرسيكت جماعة كتاوة قيادة تكونيت",
+    "COMMUNE": "Ktaoua",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BLEIDA",
+    "NOM_ETABA": "م.م البليدة",
+    "AdresseL": "BLEIDA",
+    "AdresseA": "البليدة",
+    "COMMUNE": "Ktaoua",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAKTAWA",
+    "NOM_ETABA": "الثانوية التأهيلية لكتاوة",
+    "AdresseL": "KSAR BLIDA LKTAWA",
+    "AdresseA": "قصر البليدة لكتاوة",
+    "COMMUNE": "Ktaoua",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

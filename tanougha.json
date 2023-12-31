@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE TANOUGHA",
+    "NOM_ETABA": "ثانوية تانوغة الإعدادية ",
+    "AdresseL": "TANOUGHA",
+    "AdresseA": "تانوغة ",
+    "COMMUNE": "Tanougha",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TANOUGHA CENTRE",
+    "NOM_ETABA": "مركزية تانوغة",
+    "AdresseL": "CENTRE TANOUGHA COMMUNE TANOUGHA",
+    "AdresseA": "تانوغة",
+    "COMMUNE": "Tanougha",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IKHOURBA AIT YACOUB",
+    "NOM_ETABA": "مركزية إخوربا ايت يعقوب",
+    "AdresseL": "douar ikhourba ait yacoub",
+    "AdresseA": "دوار إخوربا ايت يعقوب",
+    "COMMUNE": "Tanougha",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

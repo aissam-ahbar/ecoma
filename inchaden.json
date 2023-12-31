@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "C INCHADEN",
+    "NOM_ETABA": "ثإ. انشادن",
+    "AdresseL": "DOUAR AGHROUD AITBKOU INCHADEN",
+    "AdresseA": "دوار أغروض أيت بكو إنشادن",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C JABER IBN HAYANE",
+    "NOM_ETABA": "ثإ. جابر بن حيان",
+    "AdresseL": "DOUAR ARBIA AIT BOUTAIB COMMUNE INCHADEN",
+    "AdresseA": "مركز سوق أربعاء أيت بوطيب",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ALFIDA",
+    "NOM_ETABA": "م. الفداء",
+    "AdresseL": "Centre TIN MANSOUR ait bkou inCHADEN",
+    "AdresseA": "مركز تين منصور أيت بكو انشادن",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDALLAH BENOU ZOUBIR",
+    "NOM_ETABA": "م. عبد الله بن الزبير",
+    "AdresseL": "douar el bOUIbatE  INCHADEN",
+    "AdresseA": "دوار البويبات انشادن",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL WIFAQ",
+    "NOM_ETABA": "م.م  الوفاق",
+    "AdresseL": "DOUAR TAKDICHTE COMMUNE INCHADEN",
+    "AdresseA": "دوار تكضيشت",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TOUNEF",
+    "NOM_ETABA": "م.م  تونف",
+    "AdresseL": "DOUAR TOUNEF",
+    "AdresseA": "دوار تونف",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUADI AL MAKHAZINE",
+    "NOM_ETABA": "م.م  وادي المخازن",
+    "AdresseL": "DOUAR AIT ALI",
+    "AdresseA": "دوار أيت علي",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ARBAA AIT BOUTAYEB",
+    "NOM_ETABA": "م.م  أربعاء أيت بوطيب",
+    "AdresseL": "SOUK ARBA AIT BOUTAYEB COMMUNE INCHADEN",
+    "AdresseA": "مركز سوق أربعاء أيت بوطيب",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KOUHAIZ",
+    "NOM_ETABA": "م.م  كحيز",
+    "AdresseL": "DOUAR KOUHAIZ COMMUNE INCHADEN",
+    "AdresseA": "دوار كحيز",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TINLKAID COM",
+    "NOM_ETABA": "م. تلقايد.كم",
+    "AdresseL": "DOUAR  TINLKAID  AIT BKOU",
+    "AdresseA": "دوار تلقايد",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL HIDAYA",
+    "NOM_ETABA": "م الهداية",
+    "AdresseL": "DOUAR TILAKAID",
+    "AdresseA": "دوار تيلقايد",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL AMAOUIYIN",
+    "NOM_ETABA": "ثأ. الأمويين",
+    "AdresseL": "CENTRE DE LA COMMUNE INCHADEN",
+    "AdresseA": "مركز جماعة إنشادن",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AT TADAMONE",
+    "NOM_ETABA": "مؤسسة التضامن للتعليم المدرسي الخصوصي",
+    "AdresseL": "douar lbeibat ait boutaib inch",
+    "AdresseA": "دوار البويبات ايت بوالطيب انشا",
+    "COMMUNE": "Inchaden",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial AIN CHIFA",
+    "NOM_ETABA": "ثانوية عين الشفاء الإعدادية",
+    "AdresseL": "COMMUNE AIT SBAA LAJROUF",
+    "AdresseA": "جماعة أيت السبع لجروف",
+    "COMMUNE": "Ait Sebaa Lajrouf",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss AIT SBAA Centre",
+    "NOM_ETABA": "م/م أيت السبع-المركز",
+    "AdresseL": "AIT SBAA",
+    "AdresseA": "ايت السبع",
+    "COMMUNE": "Ait Sebaa Lajrouf",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss EL KOUF Centre",
+    "NOM_ETABA": "م/م الكوف-المركز",
+    "AdresseL": "AIT SALAH COMMUNE AIT SBAA",
+    "AdresseA": "أيت صالح جماعة أيت السبع",
+    "COMMUNE": "Ait Sebaa Lajrouf",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss EL KODIA Centre",
+    "NOM_ETABA": "م/م الكدية-المركز",
+    "AdresseL": "DOUAR EL KODIA AIT BELKACEM",
+    "AdresseA": "دوار الكدية أيت بلقاسم",
+    "COMMUNE": "Ait Sebaa Lajrouf",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIN JERRAH Centre",
+    "NOM_ETABA": "م/م عين جراح-المركز",
+    "AdresseL": "DOUAR AIN JERRAH",
+    "AdresseA": "دوار عين جراح",
+    "COMMUNE": "Ait Sebaa Lajrouf",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIN  ERAGGADA Centre",
+    "NOM_ETABA": "م/م عين الركادة-المركز",
+    "AdresseL": "ain     Eraggada   ait sbaa",
+    "AdresseA": "عين الركادة ايت السبع",
+    "COMMUNE": "Ait Sebaa Lajrouf",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

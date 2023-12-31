@@ -1,0 +1,272 @@
+[
+  {
+    "NOM_ETABL": "EL IDRISSI",
+    "NOM_ETABA": "الادريسي",
+    "AdresseL": "RUE DE LA GARE ONCF",
+    "AdresseA": "طريق محطة القطار",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "20 AOUT",
+    "NOM_ETABA": "20 غشت",
+    "AdresseL": "LOTISSEMENT AIN AL HAYAT3 skhirat",
+    "AdresseA": "تجزءة عين الحياة 3 الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMAM CHATIBI",
+    "NOM_ETABA": "الامام الشاطبي",
+    "AdresseL": "CITE BOUAIBA SKHIRATE CENTRE",
+    "AdresseA": "حي بوعيبة الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ESSAADYINE",
+    "NOM_ETABA": "السعديين",
+    "AdresseL": "SKHIRATE CENTRE",
+    "AdresseA": "الصخيرات المركز",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HATEB IBN ABI BALTAA",
+    "NOM_ETABA": "حاطب بن ابي بلطعة",
+    "AdresseL": "ain lhayat skhirat",
+    "AdresseA": "عين الحياة  الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MANDAR EL JAMIL",
+    "NOM_ETABA": "المنظر الجميل",
+    "AdresseL": "DOUAR CHIAHNA SKHIRATE",
+    "AdresseA": "دوار الشياحنة الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MHIJER",
+    "NOM_ETABA": "امحيجر",
+    "AdresseL": "ROUTE DE LA PLAGE SKHIRATE",
+    "AdresseA": "طريق الشاطئ الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL YASMINE",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "DOUAR JDID SKHIRATE",
+    "AdresseA": "دوار الجديد الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED CHERRAT",
+    "NOM_ETABA": "واد الشراط",
+    "AdresseL": "ROUTE PRINCIPALE N1  SKHIRAT",
+    "AdresseA": "الطريق الرئيسية رقم 1 الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "DOUAR EL FATH  skhirate",
+    "AdresseA": "دوار الفتح الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALMORABITINE",
+    "NOM_ETABA": "المرابطين",
+    "AdresseL": "SKHIRAT CENTRE",
+    "AdresseA": "الصخيرات المركز",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ZAIDOUNE",
+    "NOM_ETABA": "ابن زيدون",
+    "AdresseL": "lotissement alamal skhirate",
+    "AdresseA": "تجزئة الأمل الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ITTO ZAYANYA",
+    "NOM_ETABA": "يطو الزيانية",
+    "AdresseL": "Lot Jnane Skhirate",
+    "AdresseA": "تجزئة جنان الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR ALKHIAM",
+    "NOM_ETABA": "عمر الخيام",
+    "AdresseL": "bouiba skhirate",
+    "AdresseA": "بوعيبة الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABY BAKR ARRAZI",
+    "NOM_ETABA": "أبي بكر الرازي",
+    "AdresseL": "Skhirate centre",
+    "AdresseA": "الصخيرات المركز",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "PRINCE MY ABDELLAH",
+    "NOM_ETABA": "الامير مولاي عبد الله",
+    "AdresseL": "ROUTE AIN ROUZ SKHIRATE",
+    "AdresseA": "طريق عين الروز الصخيرات",
+    "COMMUNE": "Skhirate",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "el messari",
+    "NOM_ETABA": "المساري الخصوصية",
+    "AdresseL": "n 85-87-86 lot yassmine ain al",
+    "AdresseA": "رقم 87-86-85 تجزئة ياسمين عين ",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee assadaka",
+    "NOM_ETABA": "مؤسسة الصداقة",
+    "AdresseL": "130, lotissement assadaka",
+    "AdresseA": "130.تجزئة الصداقة",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire le rivage",
+    "NOM_ETABA": "مجموعة مدارس لوريفاج الخصوصية",
+    "AdresseL": "103,104,lot morned",
+    "AdresseA": "رقم 103.104 تجزئة مورند الصخير",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al bawssala-sarl",
+    "NOM_ETABA": "مجموعة مدارس البوصلة للتعليم الخصوصي",
+    "AdresseL": "80,81,82,lot palm promo",
+    "AdresseA": "رقم 82.81.80 تجزئة بالم برومو ",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " maahad al firdaous al maarifi",
+    "NOM_ETABA": "معهد الفردوس المعرفي",
+    "AdresseL": "Ain Alhayat 2, n°354",
+    "AdresseA": "عين الحياة 2، رقم 354",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Firdaous",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "114-117 Lot. Riad Skhirat",
+    "AdresseA": "114 تجزئة رياض الصخيرات",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Kawtar",
+    "NOM_ETABA": "الكوثر",
+    "AdresseL": "N°16- 17 Lotiisement Dakhla - ",
+    "AdresseA": "رقم 16- 17 تجزئة الداخلة - جما",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baati school",
+    "NOM_ETABA": "بعتي سكول الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "60_ تجزئة المستقبل",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe pedagogique scolaire el hamouti",
+    "NOM_ETABA": "المجموعة المدرسية البيداغوجية الخصوصية الحموتي ",
+    "AdresseL": "Résidence al mandar al jamil ,",
+    "AdresseA": "دوار الرخوخة. اقامة المنظر الج",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ajyalskhirat",
+    "NOM_ETABA": "أجيال الصخيرات الخصوصية",
+    "AdresseL": "lot lekbir n 39 skhirat",
+    "AdresseA": "رقم 39 تجزئة لكبير الصخيرات عم",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ANNIL",
+    "NOM_ETABA": "المجموعة المدرسية الخاصة النيل",
+    "AdresseL": "residence al mandar al jamile ",
+    "AdresseA": "إقامة المنظر الجميل الصخيرات ا",
+    "COMMUNE": "Skhirate ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

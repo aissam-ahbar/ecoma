@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "AL KHANSAA",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "AZGHAR",
+    "AdresseA": "أزغار",
+    "COMMUNE": "Azghar",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " COOPERATIVE ATTAWZIE",
+    "NOM_ETABA": "تعاونية التوزيع ",
+    "AdresseL": "COOPERATIVE ATTAWZIE AZGHAR DIFAA1 dar belAmri",
+    "AdresseA": "تعاونية التوزيع  دفاع 1 جماعة  ازعار   ",
+    "COMMUNE": "Azghar",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE OULED YOUSSEF",
+    "NOM_ETABA": "المركزية اولاد يوسف",
+    "AdresseL": "DOUAR OULED YOUSSEF commune AZGHAR",
+    "AdresseA": "دوار اولاد يوسف جماعة ازغار",
+    "COMMUNE": "Azghar",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE ATTESSANE",
+    "NOM_ETABA": "المركزية الطيسان",
+    "AdresseL": "DOUAR ATTISSANE COMMUNE AZGHAR",
+    "AdresseA": "دوار الطيسان جماعة أزغار",
+    "COMMUNE": "Azghar",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE LAHWARTA BOUARBI",
+    "NOM_ETABA": "المركزية لحوارثة بوعربي",
+    "AdresseL": "DOUAR Lahwarta bouarbi COMMUNE azghar ",
+    "AdresseA": "دوار الحوارثة بوعربي  جماعة أزغار ",
+    "COMMUNE": "Azghar",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

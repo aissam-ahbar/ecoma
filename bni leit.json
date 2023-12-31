@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABBAS MESSAADI",
+    "NOM_ETABA": "ثانوية عباس المساعدي الإعدادية",
+    "AdresseL": "commune bni leit",
+    "AdresseA": "جماعة بني ليت",
+    "COMMUNE": "Bni Leit",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BNI LAYTTE TIMIZAR",
+    "NOM_ETABA": "م,م بني ليث",
+    "AdresseL": "DOUAR TIMIZAR Commune BNI LEIT  TETOUAN",
+    "AdresseA": "دوار تميزار جماعة بني ليث قيادة بني حسان تطوان",
+    "COMMUNE": "Bni Leit",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OURAGHENE",
+    "NOM_ETABA": "م.م اوراغن",
+    "AdresseL": "DOUAR OURAGHENE C.BNI LEIT  TETOUAN",
+    "AdresseA": " دوار أوراغن جماعة بني ليث قيادة بني حسان تطوان",
+    "COMMUNE": "Bni Leit",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EFARTANE",
+    "NOM_ETABA": "م.م افرطن",
+    "AdresseL": "DOUAR EFARTANE CBNI LEIT  TETOUAN",
+    "AdresseA": "جماعة بني ليث",
+    "COMMUNE": "Bni Leit",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS JAMAA LAKBIR",
+    "NOM_ETABA": "م,م الجامع الكبير",
+    "AdresseL": "DOUAR JAMAA LAKBIR C BNI LEIT  TETOUAN ",
+    "AdresseA": "دوار جامع الكبير",
+    "COMMUNE": "Bni Leit",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

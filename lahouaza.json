@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LEHOUAZA CENTRE",
+    "NOM_ETABA": "مركزية  الحوازة",
+    "AdresseL": "COMMUNE LEHOUAZA",
+    "AdresseA": "دوار الحوازة",
+    "COMMUNE": "Lahouaza",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MOUMEN",
+    "NOM_ETABA": "اولاد مومن",
+    "AdresseL": "DOUAR OULAD si MOUMEN COMMUNE LEHOUAZA",
+    "AdresseA": "دوار اولاد سي مومن.جماعة الحوازة",
+    "COMMUNE": "Lahouaza",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD RAHHOU CENTRE",
+    "NOM_ETABA": "مركزية  اولاد رحو",
+    "AdresseL": "DOUAR OULAD RAHOU COMMUNE LEHOUAZA",
+    "AdresseA": "دوار اولاد رحو  جماعة  الحوازة",
+    "COMMUNE": "Lahouaza",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

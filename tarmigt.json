@@ -1,0 +1,212 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL CADI AYAD",
+    "NOM_ETABA": "الثانوية الإعدادية القاضي عياض",
+    "AdresseL": "TABOUNTE OUARZAZATE",
+    "AdresseA": "تابونت ورزازات",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL BADR",
+    "NOM_ETABA": "الثانوية الاعدادية بدر",
+    "AdresseL": "COMMUNE TARMIGTE",
+    "AdresseA": "جماعة ترميكت ورزازات",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCÉE COLLEGIAL IBNO ROCHDE",
+    "NOM_ETABA": " الثانوية الإعدادية ابن رشد",
+    "AdresseL": "hay tajda tarmikte ouarzazate",
+    "AdresseA": "حي تاجدة تارميكت ورزازات",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E TABOUNTE",
+    "NOM_ETABA": "م. تابونت",
+    "AdresseL": "douar tabounte tarmigte ouarzazate",
+    "AdresseA": "دوار تابونت ترميكت ورزازات",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TAJDA",
+    "NOM_ETABA": "م. تاجدة",
+    "AdresseL": "DOUAR TAJDA TARMIGT OUARZAZATE",
+    "AdresseA": "دوار تاجدة تارميكت ورزازات",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TIGUEMI EL JDID",
+    "NOM_ETABA": "م. تكمي الجديد",
+    "AdresseL": "DOUAR TIGUEMI EL JDID OUARZAZATE",
+    "AdresseA": "دوار تكمي الجديد جماعة ترميكت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAGHRRAMTE",
+    "NOM_ETABA": "م.م. تغرامت",
+    "AdresseL": "douar taghrramte tarmigte ouarzazate",
+    "AdresseA": "دوار تغرامت جماعة ترميكت ورزازات",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "  S S FINT",
+    "NOM_ETABA": "م.م. فينت",
+    "AdresseL": "FINT TARMIGTE",
+    "AdresseA": "فينت ترميكت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TALMASLA",
+    "NOM_ETABA": "م.م. تلمسلا",
+    "AdresseL": "tarmigte ouarzazate",
+    "AdresseA": "ترميكت ورزازات",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU SINA",
+    "NOM_ETABA": "م. ابن سينا",
+    "AdresseL": "COMMUNE TARMIGTE",
+    "AdresseA": "جماعة تارميكتا",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TIMILAL",
+    "NOM_ETABA": "م. تيميلال",
+    "AdresseL": "COMMUNE TARMIGTE",
+    "AdresseA": "جماعة تارميكت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E COM TARMIGT",
+    "NOM_ETABA": "م. كم تارميكت",
+    "AdresseL": "DOUAR TALAT OUSSAID TARMIGTE",
+    "AdresseA": "دوار تلات اوسعيد",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " E OTMAN BNOU AFANE",
+    "NOM_ETABA": "م. عثمان بن عفان",
+    "AdresseL": "tarmikte",
+    "AdresseA": "تارميكت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DRAA ",
+    "NOM_ETABA": "مدرسة درعة",
+    "AdresseL": "COMMUNE TARMIGTE",
+    "AdresseA": "جماعة ترميكت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT   IMAM MALIK",
+    "NOM_ETABA": "الثانوية التأهيلية الامام مالك",
+    "AdresseL": "TARMIGT",
+    "AdresseA": "ترميكت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT   ABOU BAKR SEDDIK",
+    "NOM_ETABA": "الثانوية التأهيلية ابو بكر الصديق",
+    "AdresseL": " QUARTIER ASMLIL TAJDA TARMEGT OUARZAZATE",
+    "AdresseA": "حي اسمليل تاجدة نرميكت ورزازات",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "la FONTAINE",
+    "NOM_ETABA": "لافونتين",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تاجدة جماعة تارميكت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TABAKYOUNTE",
+    "NOM_ETABA": "تباقيونت",
+    "AdresseL": "NULL",
+    "AdresseA": "ترميكت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alamal",
+    "NOM_ETABA": "الامل",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تكمي الجديد زنقة 1 بلوك 6 ت",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tariq alhouda",
+    "NOM_ETABA": "طريق الهدى",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تابونت امنغاز جماعة ترميكت ",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DIJLA",
+    "NOM_ETABA": " دجلة",
+    "AdresseL": "Nehj Ibn batouta, Tigmi lajdid",
+    "AdresseA": "          نهج ابن بطوطةـ تيكمي",
+    "COMMUNE": "Tarmigt",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

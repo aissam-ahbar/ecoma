@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABDERRAHIM BOUABID",
+    "NOM_ETABA": "اعدادية عبد الرحيم بوعبيد",
+    "AdresseL": "KORIMAT CENTRE",
+    "AdresseA": "مركز الكريمات",
+    "COMMUNE": "Korimate",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " S S AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "م.م.  المسيرة الخضراء",
+    "AdresseL": "SEBT LAKRIMAT KORIMAT",
+    "AdresseA": "مركز سبت الكريمات",
+    "COMMUNE": "Korimate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT BRAHIM",
+    "NOM_ETABA": "م م ايت ابراهيم",
+    "AdresseL": "DOUAR AIT BRAHIM KORIMAT",
+    "AdresseA": "دوار ايت ابراهيم جماعة الكريمات",
+    "COMMUNE": "Korimate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TILIOUA",
+    "NOM_ETABA": "م م تليوة",
+    "AdresseL": "DOUAR AIT BAIH KORIMAT",
+    "AdresseA": "دوار ايت أبيه الكريمات",
+    "COMMUNE": "Korimate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELMALIK SAADI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد المالك السعدي",
+    "AdresseL": "CENTRE COMMUNE KORAIMATE",
+    "AdresseA": "مركز جماعة الكريمات",
+    "COMMUNE": "Korimate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

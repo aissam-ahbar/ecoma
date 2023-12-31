@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "الثانوية الإعدادية يوسف ابن تاشفين",
+    "AdresseL": "BOUDERBALA AIT BOUBIDMANE",
+    "AdresseA": "بودربالة ايت بوبدمان",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOUDERBALA",
+    "NOM_ETABA": "بودربالة",
+    "AdresseL": "BOUDERBALA AIT BOUBIDMANE",
+    "AdresseA": "بودربالة ايت بوبيدمان",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MAZOUZ",
+    "NOM_ETABA": "ايت مازوز",
+    "AdresseL": "AIT MAZOUZ AIT BOUBIDMANE",
+    "AdresseA": "ايت مازوز ايت بوبدمان",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOUK EL GOUR",
+    "NOM_ETABA": "سوق الكور",
+    "AdresseL": "SOUK EL GOUR AIT BOUBIDMANE",
+    "AdresseA": "سوق الكور ايت بوبدمان",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HASSI OU ALI",
+    "NOM_ETABA": "ايت حسي وعلي",
+    "AdresseL": "AIT HASSI OU ALI AIT BOUBIDMANE",
+    "AdresseA": "ايت حسي وعلي ايت بوبدمان",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OKBA BNOU NAFIE",
+    "NOM_ETABA": "عقبة ابن نافع",
+    "AdresseL": "ait hmad BOUDERBALA el hajeb",
+    "AdresseA": "ايت احماد بودربالة الحاجب",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BOUBIDMANE BOUDERDALA",
+    "NOM_ETABA": "ايت بوبيدمان بودربالة",
+    "AdresseL": "BOUDERDALA",
+    "AdresseA": "بودربالة",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycee qualifaint 16 NOVEMBRE ",
+    "NOM_ETABA": "ثانوية 16 نونبر التأهيلية",
+    "AdresseL": "AIT HMAD AIT BOUBIDMANE REGION EL HAJEB",
+    "AdresseA": "ايت حماد ايت بوبيدمان اقليم الحاجب",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "fi rihab al maarifa",
+    "NOM_ETABA": "في رحاب المعرفة",
+    "AdresseL": "route de sbaa ayoun  bouderbal",
+    "AdresseA": "طريق سبع عيون بودربالة",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHOUROUK 5",
+    "NOM_ETABA": "شروق 5",
+    "AdresseL": "route de fes   bouderbala",
+    "AdresseA": "طريق  فاس   بودربالة ",
+    "COMMUNE": "Ait Boubidmane",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

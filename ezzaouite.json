@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S ANDJA",
+    "NOM_ETABA": "م.م. إندجا",
+    "AdresseL": "DOUAR TAGAOUAOUTE EZZAOUITE",
+    "AdresseA": "دوار تكواوت الزاويت",
+    "COMMUNE": "Ezzaouite",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ZAOYAT ISSOUKINE",
+    "NOM_ETABA": "م م زاوية اسوقين",
+    "AdresseL": "DOUAR EZZAOUIA  COMMUNE  EZZAOUITE",
+    "AdresseA": "دوار الزاوية  جماعة الزاويت",
+    "COMMUNE": "Ezzaouite",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE ECHARMAOUIN BMCE",
+    "NOM_ETABA": "مدرستكم اشرمون",
+    "AdresseL": "douar IcharmIouEn ezzaouite",
+    "AdresseA": "دوار اشرمون الزاويت",
+    "COMMUNE": "Ezzaouite",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

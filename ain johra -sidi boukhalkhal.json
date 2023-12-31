@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "ALJAWHARA",
+    "NOM_ETABA": "الجوهرة",
+    "AdresseL": "Commune Ain Jawhara sidi boukhalkhal",
+    "AdresseA": "جماعة عين الجوهرة سيدي بوخلخال",
+    "COMMUNE": "Ain Johra -Sidi Boukhalkhal",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOUAAOUIA",
+    "NOM_ETABA": "معاوية",
+    "AdresseL": "DOUAR AIT BEN RAHOU COMMUNE AIN JOHRA",
+    "AdresseA": "دوار ايت بنرحو ج عين الجوهرة",
+    "COMMUNE": "Ain Johra -Sidi Boukhalkhal",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DHAR ANNAKHLA",
+    "NOM_ETABA": "ظهر النخلة",
+    "AdresseL": "DOUAR AIT ALI COMMUNE AIN JOHRA SIDI BOUKHALKHAL ",
+    "AdresseA": " دوار ايت علي ج عين الجوهرة سيدي بوخلخال ",
+    "COMMUNE": "Ain Johra -Sidi Boukhalkhal",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RAS LHAMMA",
+    "NOM_ETABA": "راس الحامة",
+    "AdresseL": "DOUAR AITkassou COMMUNE AIN JOHRA",
+    "AdresseA": "دوار ايت قسو ج عين الجوهرة",
+    "COMMUNE": "Ain Johra -Sidi Boukhalkhal",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الامل",
+    "AdresseL": "DOUAR JGHIDRAT COMMUNE AIN JOHRA SIDI BOUKHALKHAL",
+    "AdresseA": "دوار اجغيدرات جماعة عين جوهرة سيدي بوخلخال",
+    "COMMUNE": "Ain Johra -Sidi Boukhalkhal",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JGHIDRATE",
+    "NOM_ETABA": "اجغيدرات",
+    "AdresseL": "DOUAR LAGHOUAOURA COMMUNE AIN JOHRA",
+    "AdresseA": "دوار الغواورة ج عين الجوهرة سيدي بوخلخال",
+    "COMMUNE": "Ain Johra -Sidi Boukhalkhal",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MOHAMMED BEN CHERIF",
+    "NOM_ETABA": "سيدي محمد بن الشريف",
+    "AdresseL": "DOUAR LAGHOUAOURA COMMUNE AIN JOHRA",
+    "AdresseA": "دوارالغواورة جماعة عين الجوهرة سيدي  بوخلخال",
+    "COMMUNE": "Ain Johra -Sidi Boukhalkhal",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS IBN KHALDOUN SOUK ALHAD",
+    "NOM_ETABA": "م/م ابن خلدون _سوق الأحد",
+    "AdresseL": "SOUK ALHAD C LAGHDIR CHEFCHAOUEN",
+    "AdresseA": "سوق الأحد جماعة لغدير",
+    "COMMUNE": "Laghdir",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TOUARRICHT",
+    "NOM_ETABA": "م/م توارشت",
+    "AdresseL": "DOUAR TOUARICHTC LAGHDIR CHEFCHAOUEN",
+    "AdresseA": "دوار توارشت جماعة لغدير",
+    "COMMUNE": "Laghdir",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GHRANKADI",
+    "NOM_ETABA": "م/م غرانقاضي",
+    "AdresseL": "DOUAR GHRANKADI C LAGHDIR CHEFCHAOUEN",
+    "AdresseA": "دوار غرانقاضي جماعة لغدير",
+    "COMMUNE": "Laghdir",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED ABDERRAHMAN ZITANE",
+    "NOM_ETABA": "الثانوية التأهيلية محمد عبد الرحمان زيطان",
+    "AdresseL": "CENTRE LAGHDIR C LAGHDIR",
+    "AdresseA": "لغدير المركز جماعة لغدير",
+    "COMMUNE": "Laghdir",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

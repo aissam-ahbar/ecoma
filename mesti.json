@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL JABAL AL AKHDAR CENTRE MESTI",
+    "NOM_ETABA": "مجموعة مدارس الجبل الأخضر مركزية مستي  ",
+    "AdresseL": "CENTRE COMMUNE MESTI",
+    "AdresseA": "مركز جماعة مستي",
+    "COMMUNE": "Mesti",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL andalous centre ihandarn",
+    "NOM_ETABA": "مجموعة مدارس الأندلس مركزية احندارن",
+    "AdresseL": "DOUAR IHANDARN",
+    "AdresseA": "دوار  احندارن",
+    "COMMUNE": "Mesti",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALifiant AL MAGHRIB AL ARABI",
+    "NOM_ETABA": "الثانوية التأهيلية المغرب العربي",
+    "AdresseL": "COMMUNE MESTI centre",
+    "AdresseA": " مركز جماعة مستي",
+    "COMMUNE": "Mesti",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

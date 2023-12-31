@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ED DAKHLA",
+    "NOM_ETABA": "الثانوية الإعدادية الداخلة",
+    "AdresseL": "CENTRE KATTARA CR M NABHA MARRAKECH",
+    "AdresseA": "مركز قطارة جماعة المنابهة",
+    "COMMUNE": "M'Nabha",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL AMAL",
+    "NOM_ETABA": "مدرسة الأمل",
+    "AdresseL": "CENTR KATTARA CR M NABHA ",
+    "AdresseA": "مركز قطارة جماعة المنابهة",
+    "COMMUNE": "M'Nabha",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD NJIME CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس اولاد انجيم المركزية",
+    "AdresseL": "DOUAR OULAD N JIM CR M NABHA PROV MARRAKECH",
+    "AdresseA": "دوار  اولاد انجيم جماعة المنابهة",
+    "COMMUNE": "M'Nabha",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAHBICHATE CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس لهبيشات المركزية",
+    "AdresseL": "DOUAR LAHBICHATE CR M NABHA PROV MARRAKECH",
+    "AdresseA": "دوار لهبيشات جماعة المنابهة",
+    "COMMUNE": "M'Nabha",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED BELHACHMI CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس احمد بلهاشمي المركزية",
+    "AdresseL": "DOUAR AHMED BELHACHMI CR M NABHA PROV MARRAKECH",
+    "AdresseA": "دوار احميدة بلهاشمي جماعة المنابهة",
+    "COMMUNE": "M'Nabha",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD AL AYACHI CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس اولاد العياشي المركزية",
+    "AdresseL": "DOUAR OULAD AL AYACHI CR M NABHA PROV MARRAKECH",
+    "AdresseA": "دوار اولاد العياشي جماعة المنابهة",
+    "COMMUNE": "M'Nabha",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

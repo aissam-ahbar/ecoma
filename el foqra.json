@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID JILALI BEN LABSIR",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد الجيلالي بن لبصير ",
+    "AdresseL": "CENTRE COMMUNE FOQRA CERCLE KHOURIBGA",
+    "AdresseA": "مركز  جماعة  الفقرا",
+    "COMMUNE": "El Foqra",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS FOQRA",
+    "NOM_ETABA": "م/م الفقراء",
+    "AdresseL": "DOUAR SLALMA LOUARTYINE COMMUNE EL FOQRA",
+    "AdresseA": "دوار السلالمة الوارتيين جماعة الفقراء       ",
+    "COMMUNE": "El Foqra",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHARQUAOUA",
+    "NOM_ETABA": "م/م شرقاوة",
+    "AdresseL": "DOUAR LHFAINA CHARQUAOUA COMMUNE EL FOQRA",
+    "AdresseA": "دوار  احفاينة",
+    "COMMUNE": "El Foqra",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

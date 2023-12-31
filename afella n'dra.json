@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL  AFLANDRA",
+    "NOM_ETABA": "الثانوية الإعدادية أفلاندرا ",
+    "AdresseL": "Commune Aflandra",
+    "AdresseA": "جماعة افلاندرا",
+    "COMMUNE": "Afella N'Dra",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS RIBAT AGDZ",
+    "NOM_ETABA": "م.م رباط أكدز",
+    "AdresseL": "DOUAR RIBAT AGDEZ COMMUNE AFLLANDRA",
+    "AdresseA": "رباط أكدز أفلاندرا",
+    "COMMUNE": "Afella N'Dra",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AFLLA N DRA",
+    "NOM_ETABA": "م.م أفلاندرا",
+    "AdresseL": "DOUAR TAGHROUTE COMMUNE AFLLANDRA",
+    "AdresseA": "تغروط جماعة افلاندرا",
+    "COMMUNE": "Afella N'Dra",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHALLAL DARAA",
+    "NOM_ETABA": "م.م شلال درعة",
+    "AdresseL": "DOUR INSAY COMMUNE AFLLANDRA",
+    "AdresseA": "انساي أفلاندرا",
+    "COMMUNE": "Afella N'Dra",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

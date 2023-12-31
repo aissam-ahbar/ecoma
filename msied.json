@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE MAARAKAT MERKALA CENTRE",
+    "NOM_ETABA": "مجموعة مدارس معركة مركالة المركزية ",
+    "AdresseL": "COMMUNAUTE RURALE lmsied",
+    "AdresseA": "الجماعة القروية لمسيد",
+    "COMMUNE": "Msied",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE BOUSEHAB AJEF",
+    "NOM_ETABA": "مجموعة مدارس بوسحاب أجف الابتدائية",
+    "AdresseL": "MSIED",
+    "AdresseA": "لمسيد",
+    "COMMUNE": "Msied",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

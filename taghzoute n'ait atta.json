@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial Taghzout N AIT ATTA",
+    "NOM_ETABA": "الثانوية الإعدادية تغزوت نيت عطا",
+    "AdresseL": "commune taghzoute nait atta",
+    "AdresseA": "جماعة تغزوت نيت عطا",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAGHZOUTE",
+    "NOM_ETABA": "م.م تغزوت",
+    "AdresseL": " Taghzoute  NAIT ATTA Tinghir",
+    "AdresseA": "تغزوت نايت عطا تنغير ",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AIT AISSA",
+    "NOM_ETABA": "م ايت عيسى",
+    "AdresseL": "DOUAR AIT AISSA OU BRAHIM TINGHIR ",
+    "AdresseA": "دوار ايت عيسى او براهيم تنغير ",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TABASBASTE",
+    "NOM_ETABA": "م.تبسباست",
+    "AdresseL": "TINGHIR ",
+    "AdresseA": "تنغير ",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GHLIL AMEZDARE",
+    "NOM_ETABA": "م.م غليل امزدار",
+    "AdresseL": "TAGHZOUTE  nayt aata TINGHIR ",
+    "AdresseA": "تغزوت نيت عطى  تنغير ",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TADAFALTE",
+    "NOM_ETABA": "م.م تدفالت",
+    "AdresseL": "TAGHZOUTE TINGHIR ",
+    "AdresseA": "تغزوت تنغير",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAGHYA",
+    "NOM_ETABA": "م.م تاغيا",
+    "AdresseL": "douar taghya commune taghzoute",
+    "AdresseA": "دوار تاغيا جماعة تاغزوت نايت عطى",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  ABOU DAR ALGHIFARI",
+    "NOM_ETABA": "الثانوية التأهيلية ابو ذر الغفاري",
+    "AdresseL": "COMMUNE TAGHZOUTE NAIT ATTA",
+    "AdresseA": "جماعة تغزوت نيت عطا - عمالة  تــنــغــيــــــر ",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  MOULAY ABDELLAH BEN HSSAIN",
+    "NOM_ETABA": "الثانوية التأهيلية م.عبد الله بن حساين",
+    "AdresseL": "TAGHZOUTE TINGHIR",
+    "AdresseA": "مركز تاغزوت تنغير ",
+    "COMMUNE": "Taghzoute N'Ait Atta",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

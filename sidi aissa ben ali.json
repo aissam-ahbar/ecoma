@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OKBA IBNOU NAFIA",
+    "NOM_ETABA": "ثانوية عقبة بن نافع الإعدادية",
+    "AdresseL": "BELAMSATAH COMMUNE SIDI AISSA BEN ALI",
+    "AdresseA": "بلمصطح جماعة سيدي عيسى",
+    "COMMUNE": "Sidi Aissa Ben Ali",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "NGAR",
+    "NOM_ETABA": "م الـنـكــــار",
+    "AdresseL": "NGAR COMMUNE SIDI AISSA BEN ALI",
+    "AdresseA": "جماعة سيدي عيسى",
+    "COMMUNE": "Sidi Aissa Ben Ali",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN ZERKA CENTRE",
+    "NOM_ETABA": "مركزية العين الزرقاء",
+    "AdresseL": "CENTRE SIDI AISSA",
+    "AdresseA": "جماعة سيدي عيسى",
+    "COMMUNE": "Sidi Aissa Ben Ali",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED MRAH CENTRE",
+    "NOM_ETABA": "مركزية أولاد امراح",
+    "AdresseL": "OULED MRAH COMMUNE SIDI ISSA BEN ALI",
+    "AdresseA": "جماعة سيدي عيسى",
+    "COMMUNE": "Sidi Aissa Ben Ali",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL INBIATE CENTRE",
+    "NOM_ETABA": "مركزية الإنبعاث",
+    "AdresseL": "CENTRE SIDI AISSA BEN ALI",
+    "AdresseA": "جماعة سيدي عيسى",
+    "COMMUNE": "Sidi Aissa Ben Ali",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAROUA",
+    "NOM_ETABA": "مركزيةالدروة",
+    "AdresseL": "DAROUA COMMUNE SIDI AISSA BEN ALI",
+    "AdresseA": "جماعة سيدي عيسى",
+    "COMMUNE": "Sidi Aissa Ben Ali",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "ثانوية علال بن عبد الله التأهيلية",
+    "AdresseL": "CENTRE SIDI ISSA BEN ALI",
+    "AdresseA": "مركز سيدي عيسى بن علي",
+    "COMMUNE": "Sidi Aissa Ben Ali",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AZZAHRAA",
+    "NOM_ETABA": "الزهراء",
+    "AdresseL": "OULED ZMAM  SOUK SEBT (bp 56 s",
+    "AdresseA": "(أولاد أزمام   سوق السبت (ص ب ",
+    "COMMUNE": "Sidi Aissa Ben Ali",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

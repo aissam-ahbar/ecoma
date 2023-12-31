@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AL AAD AL JADID",
+    "NOM_ETABA": " الثانوية الإعدادية العهد الجديد",
+    "AdresseL": "commune sidi boulaalam",
+    "AdresseA": "جماعة سيدي بولعلام",
+    "COMMUNE": "Sidi Boulaalam",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SIDI BOULALAM",
+    "NOM_ETABA": "م م سيدي بولعلام",
+    "AdresseL": "DOUAR SIDI BOULAALAM SIDI BOULAALAM",
+    "AdresseA": "دوار سيدي بولعلام سيدي بولعلام",
+    "COMMUNE": "Sidi Boulaalam",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S FAJ ERRIH",
+    "NOM_ETABA": "م م فج الريح",
+    "AdresseL": "DOUAR FAJ ERRIH  SIDI BOULAALAM",
+    "AdresseA": "دوار فج الريح سيدي بولعلام",
+    "COMMUNE": "Sidi Boulaalam",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IBN ALHAYTAM",
+    "NOM_ETABA": "م م ابن الهيثم",
+    "AdresseL": "DOUAR LAGHNANJA SIDI BOULAALAM",
+    "AdresseA": "دوار الغنانجا سيدي بولعلام",
+    "COMMUNE": "Sidi Boulaalam",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHALID IBN EL OUALID",
+    "NOM_ETABA": "الثانوية الإعدادية خالد ابن الوليد",
+    "AdresseL": "RAS IJERRI",
+    "AdresseA": "راس جري",
+    "COMMUNE": "Ras Ijerri",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "RAS JERRY",
+    "NOM_ETABA": "راس جيري",
+    "AdresseL": "RAS JERRY agouray elhajeb",
+    "AdresseA": "راس جيري",
+    "COMMUNE": "Ras Ijerri",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL AISSAOUIA",
+    "NOM_ETABA": "العيساوية",
+    "AdresseL": "EL AISSAOUIA RAS JERRI",
+    "AdresseA": "العيساوية  راس جري",
+    "COMMUNE": "Ras Ijerri",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUAMER",
+    "NOM_ETABA": "سيدي بوعمرو",
+    "AdresseL": "SIDI BOUAMER RAS JERRI",
+    "AdresseA": "سيدي بوعمرو  راس جري",
+    "COMMUNE": "Ras Ijerri",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

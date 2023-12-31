@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "الثانوية الإعدادية صلاح الدين الأيوبي",
+    "AdresseL": "SERGHINA CENTRE COMMUNE SERGHINA",
+    "AdresseA": "سرغينة المركز جماعة سرغينة",
+    "COMMUNE": "Serghina",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IFKIRNE",
+    "NOM_ETABA": "افقيرن",
+    "AdresseL": "DOUAR AIT OUTMANE COMMUNE SARGHINA",
+    "AdresseA": "دوار ايت عثمان جماعة سرغينة",
+    "COMMUNE": "Serghina",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BEN MOUSSA",
+    "NOM_ETABA": "ايت بنموسى",
+    "AdresseL": "DOUAR TIGHARMATINE AIT BEN MOUSSA COMMUNE SERGHINA",
+    "AdresseA": "دوار تيغرماتين ايت بنموسى حماعة سرغينة",
+    "COMMUNE": "Serghina",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

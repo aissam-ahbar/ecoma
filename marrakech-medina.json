@@ -1,0 +1,512 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED CHAOUKI",
+    "NOM_ETABA": "الثانوية الإعدادية احمد شوقي",
+    "AdresseL": "BAB LAKHMISS",
+    "AdresseA": "باب الخميس",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELMOUMEN",
+    "NOM_ETABA": "الثانوية الإعدادية عبد المومن",
+    "AdresseL": "BAB LAKHMISS",
+    "AdresseA": "باب الخميس",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED V RIAD LAAROUS",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الخامس رياض العروس",
+    "AdresseL": "RIAD LAAROUS",
+    "AdresseA": "رياض العروس",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAYMOUN",
+    "NOM_ETABA": "الثانوية الإعدادية الليمون",
+    "AdresseL": "AVENUE BA HMAD BAB GHMAT",
+    "AdresseA": "شارع با حماد باب اغمات",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL FARABI",
+    "NOM_ETABA": "الثانوية الإعدادية الفارابي",
+    "AdresseL": "SIDI BOUDCHICH",
+    "AdresseA": "سيدي بوالدشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAAYOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية العيون",
+    "AdresseL": "RUE OQBA BNOU NAFIAA  RUE BANI MARINE",
+    "AdresseA": "شارع عقبة بن نافع زنقة بني مرين",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية الإعدادية المنصور الدهبي",
+    "AdresseL": "JNAN EL AFIA",
+    "AdresseA": "جنان العافية",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM AYMANE",
+    "NOM_ETABA": "مدرسة أم أيمن",
+    "AdresseL": "JNAN EL AFIA",
+    "AdresseA": "جنان العافية",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU ACHIR",
+    "NOM_ETABA": "مدرسة ابن عاشر",
+    "AdresseL": "JNAN EL AFIA",
+    "AdresseA": "جنان العافية",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI JABER",
+    "NOM_ETABA": "مدرسة سيدي جابر",
+    "AdresseL": "BAB EL KHAMISS KACHICH",
+    "AdresseA": "باب الخميس قشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OQBA BNOU NAFIAA",
+    "NOM_ETABA": "مدرسة عقبة بن نافع",
+    "AdresseL": "BAB EL KHAMISS KACHICH",
+    "AdresseA": "باب الخميس قشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANAS BNOU MALEK",
+    "NOM_ETABA": "مدرسة أنس بن مالك",
+    "AdresseL": "QUARTIER KACHICH",
+    "AdresseA": "حي قشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ECHAIMAA",
+    "NOM_ETABA": "مدرسة الشيماء",
+    "AdresseL": "BAB EL KHAMISS KACHICH",
+    "AdresseA": "باب الخميس قشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU FIRAS",
+    "NOM_ETABA": "مدرسة أبوفراس",
+    "AdresseL": "BAB EL KHEMISS KACHICH",
+    "AdresseA": "باب الخميس قشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI BEN SLIMANE",
+    "NOM_ETABA": "مدرسة سيدي بن اسليمان",
+    "AdresseL": "BAB EL KHAMISS KACHICH",
+    "AdresseA": "باب الخميس قشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CAID EL AYADI",
+    "NOM_ETABA": "مدرسة القايد العيادي",
+    "AdresseL": "KAA EL MACHRAA ZAOUIA EL ABBASSIA",
+    "AdresseA": "قاع المشرع الزاوية العباسية",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AHMED ERRACHIDI",
+    "NOM_ETABA": "مدرسة احمد الراشدي",
+    "AdresseL": "KBOUR ECHOUHADA ZAOUIA EL ABBASSIA",
+    "AdresseA": "قبور الشهداء الزاوية العباسية",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESMARA",
+    "NOM_ETABA": "مدرسة اسمارة",
+    "AdresseL": "KBOUR ECHOUHADA ZAOUIA EL ABBASSIA",
+    "AdresseA": "قبور الشهداء الزاوية العباسية",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOELE AHMED ENNOUR",
+    "NOM_ETABA": "مدرسة احمد النور",
+    "AdresseL": "RIAD LAAROUSS",
+    "AdresseA": "شارع أحمد الجزولي رياض العروس",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BILAL",
+    "NOM_ETABA": "مدرسة بلال",
+    "AdresseL": "ARSET IHIRI BAB DOUKALA",
+    "AdresseA": "عرصة إيهيري باب دكالة",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI HAMZA",
+    "NOM_ETABA": "مدرسة سيدي حمزة",
+    "AdresseL": "Riad laarousse  route sidi abelaziz",
+    "AdresseA": "رياض العروس طريق سيدي ع العزيز",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM MAABED",
+    "NOM_ETABA": "مدرسة أم معبد",
+    "AdresseL": "SIDI ABDELAZIZ amsefah",
+    "AdresseA": "سيدي عبد العزيز أمصفح",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN YOUSSEF",
+    "NOM_ETABA": "مدرسة ابن يوسف",
+    "AdresseL": "KAAT BENNAHID FOUNDOUK AHL FES",
+    "AdresseA": "زنقة أهل فاس قاعة بناهيض",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MOUQUEF",
+    "NOM_ETABA": "مدرسة الموقف",
+    "AdresseL": "TRIQ BAB EDBAGH N13",
+    "AdresseA": "طريق باب الدباغ رقم 13",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RAHAL BEN AHMED",
+    "NOM_ETABA": "مدرسة رحال بن احمد",
+    "AdresseL": "160HAY ISSEBTYNE",
+    "AdresseA": "حي اسبتيين",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IDRISS PREMIER",
+    "NOM_ETABA": "مدرسة ادريس الأول",
+    "AdresseL": "ISSEBTYNE TRIQ SIDI SOUSSANE",
+    "AdresseA": "إسبتيين طريق سيدي سوسان",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY RACHID   FILLE",
+    "NOM_ETABA": "مدرسة مولاي رشيد إناث",
+    "AdresseL": "SIDI AYOUB ARSET SIDI YOUSSEF hilana",
+    "AdresseA": "عرصة سيدي يوسف سيدي ايوب هيلانة",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY RACHID GARÇONS",
+    "NOM_ETABA": "مدرسة مولاي رشيد -ذكور ـ",
+    "AdresseL": "RACHIDIA TRIQ SIDI SOUSSANE",
+    "AdresseA": "الرشيدية طريق سيدي سوسان",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CADI AYAD",
+    "NOM_ETABA": "مدرسة القاضي عياض",
+    "AdresseL": "HILANA BOUTOUIL",
+    "AdresseA": "هيلانة بوطويل",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ARSET BANI",
+    "NOM_ETABA": "مدرسة عرصة باني",
+    "AdresseL": "BAB GHMAT arset belbaraka ",
+    "AdresseA": "باب اغمات عرصة بلبركة",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ABI SOFRA",
+    "NOM_ETABA": "مدرسة ابن أبي صفرة",
+    "AdresseL": "SIDI BOUDCHICH",
+    "AdresseA": "سيدي بودشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM SALAMA",
+    "NOM_ETABA": "مدرسة أم سلمة",
+    "AdresseL": "SIDI BOUDCHICH",
+    "AdresseA": "سيدي بودشيش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI EL ALAA EL MAARRY",
+    "NOM_ETABA": "مدرسة أبي العلاء المعري",
+    "AdresseL": "SIDI BOUDCHICH  MARRAKECH MEDINA",
+    "AdresseA": "    سيدي بوالدشيش مراكش المدينة",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MAYMOUNA OUM EL MOUMININE",
+    "NOM_ETABA": "مدرسة ميمونة أم المؤمنين",
+    "AdresseL": "RIAD ZITOUNE LAKDIME",
+    "AdresseA": "رياض الزيتون القديم",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDESLAM JABRANE 2",
+    "NOM_ETABA": "مدرسة عبد السلام جبران 2",
+    "AdresseL": "RIAD ZITOUNE JDID",
+    "AdresseA": "رياض الزيتون الجديد",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL BADIAA",
+    "NOM_ETABA": "مدرسة البديع",
+    "AdresseL": "ARSET EL MAACH",
+    "AdresseA": "عرصة المعاش",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSAADYNE",
+    "NOM_ETABA": "مدرسة السعديين",
+    "AdresseL": "ARSET EL MAACH medina marrakech",
+    "AdresseA": "عرصة المعاش مراكش المدينة",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED EL OUAFA",
+    "NOM_ETABA": "مدرسة محمد الوفا الابتدائية",
+    "AdresseL": "TRIQ JBEL LAKHDAR",
+    "AdresseA": "طريق الجبل الأخضر",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE PRINCESSE LALLA AMINA",
+    "NOM_ETABA": "مدرسة الأميرة للاأمينة",
+    "AdresseL": "ARSET EL HAMED BAB DOUKALA",
+    "AdresseA": "عرصة الحامض باب دكالة",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ZOHR",
+    "NOM_ETABA": "مدرسة ابن زهر",
+    "AdresseL": "BAB LAKHMISS RUE EL ANTAKI",
+    "AdresseA": "باب الخميس ساحة الأنطاكي",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MASSIRA EL KHADRA 2",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء 2",
+    "AdresseL": "ARSET IHIRI BAB DOUKALA",
+    "AdresseA": "عرصة إيهيري باب دكالة",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN EL BENNA EL MORRAKOCHI",
+    "NOM_ETABA": "الثانوية التأهيلية ابن البناء المراكشي",
+    "AdresseL": "ARSET EL MAACH",
+    "AdresseA": "عرصة المعاش",
+    "COMMUNE": "Marrakech-Médina ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED V",
+    "NOM_ETABA": "الثانوية التأهيلية  محمد الخامس",
+    "AdresseL": "BAB GHMAT",
+    "AdresseA": "باب اغمات",
+    "COMMUNE": "Marrakech-Médina ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSANE BEN TABIT",
+    "NOM_ETABA": "الثانوية التأهيلية حسان بن ثابت",
+    "AdresseL": "BAB GHMAT",
+    "AdresseA": "باب اغمات",
+    "COMMUNE": "Marrakech-Médina ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KOUTOUBIA",
+    "NOM_ETABA": "الثانوية التأهيلية الكتبية",
+    "AdresseL": "RUE DE LA JUSTICE  BAB DOUKALA  ",
+    "AdresseA": "     زنقة العدالة باب دكالة ",
+    "COMMUNE": "Marrakech-Médina ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AOUDA SAADIA",
+    "NOM_ETABA": "الثانوية التأهيلية عودة السعدية",
+    "AdresseL": "ERCHIDIA BAB EDBAGH",
+    "AdresseA": "الرشيدية باب الدباغ",
+    "COMMUNE": "Marrakech-Médina ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MOUAHIDINE",
+    "NOM_ETABA": "الثانوية التأهيلية الموحدين",
+    "AdresseL": "bab lakhmis",
+    "AdresseA": "باب الخميس",
+    "COMMUNE": "Marrakech-Médina ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Achbal El Atlas ENS PRESCO",
+    "NOM_ETABA": " مؤسسة أشبال الأطلس للتعليم الاولي الخصوصي",
+    "AdresseL": "43-TRIQ SIDI EL YAMANI EL MOUA",
+    "AdresseA": "رقم43 طريق سيدي اليماني المواس",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT al hikma 2 ENS preSCO",
+    "NOM_ETABA": "مؤسسة الحكمة 2 للتعليم الاولي الخصوصي",
+    "AdresseL": "Route de casa Imm YanIs n°6 ",
+    "AdresseA": "طريق الدار البيضاء عمارة ينيس ",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL HIKMA ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الحكمة للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "598 بلبكار",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL IKHLAS ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الإخلاص للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "درب الحاج ابراهيم رقم 73 سيدي ",
+    "COMMUNE": "Marrakech-Médina",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

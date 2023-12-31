@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "OUAOULZEMT",
+    "NOM_ETABA": "واولزمت",
+    "AdresseL": "DOUAR OUAOULZEMT COMMUNE TALZEMT",
+    "AdresseA": "دوار واولزمت جماعة تالزمت",
+    "COMMUNE": "Talzemt",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ARANIOUB",
+    "NOM_ETABA": "ارانيوب",
+    "AdresseL": "ARANIOUB CENTRE COMMUNE TALZEMT",
+    "AdresseA": "ارانيوب المركز جماعة تالزمت",
+    "COMMUNE": "Talzemt",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

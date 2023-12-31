@@ -1,0 +1,472 @@
+[
+  {
+    "NOM_ETABL": "C HASSAN PREMIER",
+    "NOM_ETABA": "ثإ الحسن الاول",
+    "AdresseL": "QUARTIER EL MHAYTA MUNICIPALITE TAROUDANT",
+    "AdresseA": "حي المحايطة",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C RAHAL EL MESKINI",
+    "NOM_ETABA": "ثإ.رحال المسكيني",
+    "AdresseL": "JNAN EL KHEIR AGAFAY MUNICIPALITE TAROUDANT",
+    "AdresseA": "جنان الخير أكفاي",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E BRAHIM ROUDANI",
+    "NOM_ETABA": " م .ابراهيم الروداني",
+    "AdresseL": "RUE EL MOURABITINE DERB AKA TAROUDANT",
+    "AdresseA": "شارع المرابطين درب اقا تارودانت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL BASSATINE",
+    "NOM_ETABA": "م .البساتين",
+    "AdresseL": "AVENUE 20 AOUT agafay  TAROUDANT",
+    "AdresseA": "شارع 20 غشت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL WIFAQ",
+    "NOM_ETABA": "م. الوفاق",
+    "AdresseL": "CITE EL HASSANI AVENUE DAKHLA TAROUDANT",
+    "AdresseA": "الحي الحسني شارع الداخلة تارودانت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MANSOUR ADDAHBI",
+    "NOM_ETABA": "م .المنصور الدهبي",
+    "AdresseL": "CITE ADMINISTRATIVE ELMOUHAYATA TAROUDANT",
+    "AdresseA": "الحي الإداري المحايطة",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " E ABDALLAH BEN YASSINE",
+    "NOM_ETABA": " م .عبد الله إبن ياسين",
+    "AdresseL": "AVENUE MOULAY RACHID TAROUDANT",
+    "AdresseA": "شارع مولاي رشيد",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AMINA BENT WAHB",
+    "NOM_ETABA": " م .أمنة بنت وهب",
+    "AdresseL": "AVENUE BIRANZARANE TAROUDANT",
+    "AdresseA": "شارع بئر انزران تارودانت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E CHAHID WISSAADANE",
+    "NOM_ETABA": " م .الشهيد وسعدان امبارك",
+    "AdresseL": "RUE EL OUAHDA ZRAIB OULAD BOUNOUNA TAROUDANT",
+    "AdresseA": "زنقة الوحدة الزرايب اولاد بنونة",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AHFIR",
+    "NOM_ETABA": " م. أحفير",
+    "AdresseL": "AVENUE AL MOURAABITINE AHFIR TAROUDANT",
+    "AdresseA": "حي المرابطين أحفير تارودانت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BEN SAAIDI",
+    "NOM_ETABA": "م .ابن السعيدي",
+    "AdresseL": "QUARTIER  EL MHAITA TAROUDANT",
+    "AdresseA": "الحي الاداري المحايطة  تارودانت ",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ROUDANA",
+    "NOM_ETABA": "م . رودانة",
+    "AdresseL": "QUARTIER SIDI BELKASS TAROUDANT",
+    "AdresseA": "حي سيدي بلقاس",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " E AL IMAM MALIK",
+    "NOM_ETABA": " م .الامام مالك",
+    "AdresseL": "DOUAR   OULAD LGHAZAL MUNICIPALITE TAROUDANT",
+    "AdresseA": "دوار اولاد الغزال بلدية تارودانت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  LBOURA",
+    "NOM_ETABA": "م .م البورة",
+    "AdresseL": "DOUAR  EL BOURA  MUNICIPALITE TAROUDANT",
+    "AdresseA": "دوار البورة بلدية تارودانت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUIT SIDI DAOUD",
+    "NOM_ETABA": "م.م زاوية سيدي داوود",
+    "AdresseL": "DOUAR   ZAOUIYAT SIDI DAOUD MUNICIPALITE TAROUDANT",
+    "AdresseA": "دوار زاوية سيدي داوود بلدية تارودانت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BAB LAKHMIS",
+    "NOM_ETABA": " م . باب الخميس",
+    "AdresseL": "BAB LAKHMIS MUNICIPALITE TAROUDANT",
+    "AdresseA": "باب الخميس",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HAY MOHAMMADI",
+    "NOM_ETABA": "م . حي المحمدي",
+    "AdresseL": "Stah elmadina",
+    "AdresseA": "سطاح المدينة",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE",
+    "NOM_ETABA": "الثانوية التاهيلية التقنية",
+    "AdresseL": "hay mohammadi",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L MOHAMED V D ENSEIGNEMENT ORIGINEL",
+    "NOM_ETABA": "ثا. محمد الخامس للتعليم الأصيل",
+    "AdresseL": "AVENUE BIR INEZRAN MUNICIPALITE TAROUDANT",
+    "AdresseA": "شارع بير إنزران",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L IBN SOULAIMANE ROUDANI",
+    "NOM_ETABA": "ثأ.ابن سليمان الروداني",
+    "AdresseL": "BOULEVARD MOHAMED VI BP 274 TAROUDANT",
+    "AdresseA": "شارع  محمد السادس ص ب 274 تارودانت",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L SIDI OU SIDI",
+    "NOM_ETABA": "ثأ.سيدي وسيدي",
+    "AdresseL": "QUARTIER AL MHAITA MUNICIPALITE TAROUDANT",
+    "AdresseA": "حي المحايطة",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EZZIRAOUI",
+    "NOM_ETABA": "الثانوية التأهيلية الزراوي",
+    "AdresseL": "SIDI BELKASS MUNICIPALITE TAROUDANT",
+    "AdresseA": "سيدي بلقاس",
+    "COMMUNE": "Taroudannt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "derb laafou",
+    "NOM_ETABA": "درب العفو",
+    "AdresseL": "NULL",
+    "AdresseA": "جنان ساسي درب العفو تارودانت",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almaari",
+    "NOM_ETABA": "almaari",
+    "AdresseL": "hay mohamadi lastah",
+    "AdresseA": "الحي المحمدي لاسطاح",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FIDIA",
+    "NOM_ETABA": "مؤسسة الفضية للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار الزيدانية",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nibrasse alilme",
+    "NOM_ETABA": "نبراس العلم",
+    "AdresseL": "NULL",
+    "AdresseA": "بوتريالت البرانية تارودانت",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution enigma",
+    "NOM_ETABA": "مؤسسة انيكما الخاصة",
+    "AdresseL": "n°73 bloc 03 hay akniss ",
+    "AdresseA": "رفم 73 حي اقنيس بلوك 3 ",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut baraaim al imane",
+    "NOM_ETABA": "مؤسسة براعيم الايمان الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 5 رقم 18 اكفاي تارودانت",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oum albanin",
+    "NOM_ETABA": "ام البنبن",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 37 جنان السوسية لمحايطة",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALFAJR",
+    "NOM_ETABA": "الفجر",
+    "AdresseL": "NULL",
+    "AdresseA": "سيدي بلقاس جنان بوري",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement alwiam pour enseignement presocolaire",
+    "NOM_ETABA": "مؤسسة الوئام للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار زاوية سيدي علي بلغازي تار",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LINA",
+    "NOM_ETABA": "لينا",
+    "AdresseL": "NULL",
+    "AdresseA": "41 تجزئة ايت اعزيزو المحايطة",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BONONI",
+    "NOM_ETABA": "مجموعة مدارس بونوني",
+    "AdresseL": "144 Jnane Soussia M haita",
+    "AdresseA": "144 جنان السوسية المحايطة ",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OMEGA",
+    "NOM_ETABA": "اوميكا",
+    "AdresseL": "Lot AFOULKI ELHOUSEN BAB TARGH",
+    "AdresseA": "الحصن باب تارغنت تجزئة افولكي ",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tarik i",
+    "NOM_ETABA": "طارق 1",
+    "AdresseL": "Boulevard El Mokhtar Soussi - ",
+    "AdresseA": "شارع المختار السوسي - تارودانت",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Iqraa",
+    "NOM_ETABA": "اقرأ",
+    "AdresseL": "jnane khay bab zergane",
+    "AdresseA": "جنان باب الزركان",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Amal Taroudant",
+    "NOM_ETABA": "الأمل تارودانت",
+    "AdresseL": "N° 93, Boulevad Bir Anzarane -",
+    "AdresseA": "رقم 93، شارع بئر أنزان - تارود",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Manar Al Irfan Taroudant",
+    "NOM_ETABA": "منار العرفان تارودانت",
+    "AdresseL": "rue ennakhla tafllagt",
+    "AdresseA": "درب النخلة تافلاكت",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "l heritage",
+    "NOM_ETABA": "ليريطاج",
+    "AdresseL": "lotissement  azizou, lot n° 6 ",
+    "AdresseA": "تجزئة عزيزو رقم 6 المحايطة",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "vala",
+    "NOM_ETABA": "فالا",
+    "AdresseL": "Jnane roumane bab lekhmisse",
+    "AdresseA": "جنان رومان باب الخميس",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sabil almaarifa",
+    "NOM_ETABA": "سبيل المعرفة",
+    "AdresseL": "50 entree belakchch",
+    "AdresseA": "رقم 50 مدخل بلاقشاش",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAHJ ALFALAHE",
+    "NOM_ETABA": "نهج الفلاح الخاصة",
+    "AdresseL": "Lot jENANE SOUSSIA M HAITA TAR",
+    "AdresseA": "تجزئة جنان السوسية المحيطة تار",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSABIL",
+    "NOM_ETABA": "السبيل",
+    "AdresseL": "Accés bellakchache en face de ",
+    "AdresseA": "مدخل بلاقشاش قرب البلدية",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TARIK  II",
+    "NOM_ETABA": "طارق  2",
+    "AdresseL": "immeuble tiouti ferk ahbab",
+    "AdresseA": "عمارة التيوتي فرق الأحباب",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION NOMBRE D OR",
+    "NOM_ETABA": "مؤسسة العدد الذهبي",
+    "AdresseL": " 2 AVENUE ALLAL BEN ABDOLLAH A",
+    "AdresseA": "رقم 2 شارع علال بن عبد الله  أ",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement nada",
+    "NOM_ETABA": "مؤسسة ندى للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "جنان مولاي بوبكر تافلاكت",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jisr tamayoz",
+    "NOM_ETABA": "جسر التميز",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار عين  المديور تارودانت",
+    "COMMUNE": "Taroudannt ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL 2 MARS",
+    "NOM_ETABA": "ثانوية 2 مارس الإعدادية",
+    "AdresseL": "COMMUNE AIN GDAH MUNICIPALITE TISSA  TAOUNATE",
+    "AdresseA": "جماعة عين اكدح -بلدية تيسة",
+    "COMMUNE": "Ain Legdah",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS DIDBA",
+    "NOM_ETABA": "م/م  ديــدبــة",
+    "AdresseL": "DOUAR DIDBA COMMUNE AIN LAGDAH  TISSA",
+    "AdresseA": "دوار  ديدبة  -جماعة عين لكدح   تيسة",
+    "COMMUNE": "Ain Legdah",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAGRANA SOUFLA",
+    "NOM_ETABA": "م/م  الكرانـــة",
+    "AdresseL": "DOUAR LAGRANA SOUFLA COMMUNE AIN LAGDAH TISSA",
+    "AdresseA": "دوار لكرانة السفلى   -جماعة عين لكدح   تيسة",
+    "COMMUNE": "Ain Legdah",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN LEGDAH",
+    "NOM_ETABA": "م/م  عين الكدح",
+    "AdresseL": "COMMUNE AIN LEGDAH CENTRE  TISSA",
+    "AdresseA": "دوار عين لكدح   -جماعة عين لكدح   تيسة",
+    "COMMUNE": "Ain Legdah",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD SOULTANE",
+    "NOM_ETABA": "م/م  أولاد سلطان",
+    "AdresseL": "DOUAR OULAD SOULTANE COMMUNE AIN LAGDAH TISSA",
+    "AdresseA": "دوار اولاد سلطان   -جماعة عين لكدح   تيسة",
+    "COMMUNE": "Ain Legdah",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBN HAZM",
+    "NOM_ETABA": "ثانوية ابن حزم التأهيلية",
+    "AdresseL": "Centre Commune Ain LEgdah",
+    "AdresseA": "مركز جماعة عين لكداح",
+    "COMMUNE": "Ain Legdah",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SENADA",
+    "NOM_ETABA": "اعدادية سنادة",
+    "AdresseL": "Commune SENADA ",
+    "AdresseA": "جماعة سنادة اقليم الحسيمة",
+    "COMMUNE": "Senada",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ICHATOUANEN",
+    "NOM_ETABA": "اشتوانن",
+    "AdresseL": "DOUAR ICHATOUANEN CoMMUNE SENADA",
+    "AdresseA": "دوار اشتوانن جماعة اسنادة",
+    "COMMUNE": "Senada",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IZARIAHEN",
+    "NOM_ETABA": "ازرياحن",
+    "AdresseL": "DOUAR IZARIAHEN COMMUNE SENADA CERCLE BNI BOUFRAH",
+    "AdresseA": "دوار إزرياحن جماعة سنادة دائرة بني بوفراح",
+    "COMMUNE": "Senada",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

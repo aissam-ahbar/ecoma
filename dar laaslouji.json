@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE DAR ASLOUJI",
+    "NOM_ETABA": "إعدادية دار العسلوجي ",
+    "AdresseL": "C DAR ELASLOUJI",
+    "AdresseA": " جماعة دا رالعسلوجي",
+    "COMMUNE": "Dar Laaslouji",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE DAR ASLOUJI",
+    "NOM_ETABA": "مجموعة مدارس دار العسلوجي",
+    "AdresseL": "DOUAR OULAD MOUSSA COMMUNE DAR LAASLOUJI",
+    "AdresseA": "دوار اولاد موسى",
+    "COMMUNE": "Dar Laaslouji",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TGHARI",
+    "NOM_ETABA": "تغاري",
+    "AdresseL": "DOUAR TGHARI  COMMUNE DAR LAASLOUJI",
+    "AdresseA": "جماعة دار العسلوجي",
+    "COMMUNE": "Dar Laaslouji",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMRIFAG",
+    "NOM_ETABA": "  المريفك",
+    "AdresseL": "DOUAR OULAD SAID  COMMUNE LAASLOUJI",
+    "AdresseA": "دوار اولاداسعيد",
+    "COMMUNE": "Dar Laaslouji",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAHT",
+    "NOM_ETABA": "بهت",
+    "AdresseL": "DOUAR OULAD BRAZ  COMMUNE DAR LAASLOUJI",
+    "AdresseA": "دوار اولاد ابراز",
+    "COMMUNE": "Dar Laaslouji",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ANDALOUSS",
+    "NOM_ETABA": "الاندلس",
+    "AdresseL": "S S al andalous COMMUNE DAR LAASLOUJI",
+    "AdresseA": "م م الأندلس  جماعة  دار العسلوجي",
+    "COMMUNE": "Dar Laaslouji",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH LAROUI",
+    "NOM_ETABA": "ثانوية عبد الله العروي التأهيلية",
+    "AdresseL": "centre commune dar aslouji",
+    "AdresseA": "مركز جماعة دار العسلوجي",
+    "COMMUNE": "Dar Laaslouji",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

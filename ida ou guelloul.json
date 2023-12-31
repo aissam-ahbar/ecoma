@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S IDA OU GUELLOUL",
+    "NOM_ETABA": "م.م. إداوكلول",
+    "AdresseL": "DOUAR TAKOUROUT IDA OU GUELLOUL",
+    "AdresseA": "دوار تكروط إداوكلول",
+    "COMMUNE": "Ida Ou Guelloul",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ID CHFI",
+    "NOM_ETABA": "م.م  ادشفي",
+    "AdresseL": "DOUAR ID CHFI IDA OU GUELLOUL",
+    "AdresseA": "دوار ادشفي",
+    "COMMUNE": "Ida Ou Guelloul",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

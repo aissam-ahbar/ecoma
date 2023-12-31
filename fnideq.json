@@ -1,0 +1,252 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMOKHTAR SOUSSI",
+    "NOM_ETABA": "ثانوية المختار السوسي الإعدادية",
+    "AdresseL": "HAY ELBRARAK",
+    "AdresseA": "حي البرارك",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ZAIDOUN",
+    "NOM_ETABA": "ثانوية ابن زيدون الإعدادية",
+    "AdresseL": "EL KHANDAQ IBRANE",
+    "AdresseA": "الخندق ابران",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM MALIK",
+    "NOM_ETABA": "ثانوية الامام مالك الاعدادية",
+    "AdresseL": "hay haydra fnideq",
+    "AdresseA": "حي حيضرة الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKRIM EL KHATTABI",
+    "NOM_ETABA": "ثانوية عبد الكريم الخطابي الإعدادية",
+    "AdresseL": "HOUMAT LABRARK MUNICIPALITE FNIDEQ",
+    "AdresseA": "حي بنديبان بلدية الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED ZERKTOUNI ",
+    "NOM_ETABA": "ثانوية محمد الزرقطوني الإعدادية",
+    "AdresseL": "AVENUE MOHAMMED 6  ROUTE RAS LOUTA FNIDQ",
+    "AdresseA": "شارع محمد السادس، طريق راس لوطا ص.ب 145",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM AL AZAFI",
+    "NOM_ETABA": "ثانوية الإمام العزفي الإعدادية",
+    "AdresseL": "COLLEGE IMAM ABI KACEM AZAFI BP 90  FNIDQ",
+    "AdresseA": "الثانوية الإعدادية الإمام أبي القاسم العزفي ص.ب 90",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI AHMED IBN AJJIBA",
+    "NOM_ETABA": "مدرسة سيدي أحمد بنعجيبة",
+    "AdresseL": "AVMOHAMED ZARKTOUNI  FNIDEQ",
+    "AdresseA": "شارع محمد الزرقطوني الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ANNAFISS",
+    "NOM_ETABA": "مدرسة ابن النفيس",
+    "AdresseL": "AVENUE TRIPOLI QUARTIER MOULAY RACHID FNIDEQ",
+    "AdresseA": "شارع طرابلس حي مولاي رشيد الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "مدرسة علال بن عبد الله",
+    "AdresseL": "HAY KONDISSA FNIDEQ",
+    "AdresseA": "حي كنديسة الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TARIK IBN ZIAD",
+    "NOM_ETABA": "مدرسة طارق بن زياد",
+    "AdresseL": "FRONTIER DE BAB SEBTA FNIDEQ",
+    "AdresseA": "باب سبتة الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OKBA IBN NAAFIH",
+    "NOM_ETABA": "مدرسة عقبة بن نافع",
+    "AdresseL": "HAY KONDISSA  FNIDEQ  ",
+    "AdresseA": "حي كنديسة الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHADIJA OUM AL MOUMININE",
+    "NOM_ETABA": "مدرسة خديجة أم المؤمنين",
+    "AdresseL": "HAY RAS  LOUTA  FNIDQ TETOUAN",
+    "AdresseA": "حي راس لوطا بلدية الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss HAYDRA",
+    "NOM_ETABA": "م.م حيضرة",
+    "AdresseL": "hayra commune urbaine fnideq",
+    "AdresseA": "حيضرة بلدية الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUYOUNE SAKIA AL HAMRA",
+    "NOM_ETABA": "مدرسة عيون الساقية الحمراء",
+    "AdresseL": "ROUTE DE KSAR SGHIR HAY MARJA  FNIDEQ",
+    "AdresseA": "طريق القصر الصغير حي المرجة الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN BAJA",
+    "NOM_ETABA": "مدرسة ابن باجة",
+    "AdresseL": "QUARTIER LABRAREK FNIDEQ",
+    "AdresseA": "حومة البرارك الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AGHETASSE",
+    "NOM_ETABA": "مدرسة أغطاس",
+    "AdresseL": "hay aghETASSE",
+    "AdresseA": "حي أغطاس",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT YACOUB EL MANSOUR",
+    "NOM_ETABA": "ثانوية يعقوب المنصور التأهيلية",
+    "AdresseL": "lot saramica ",
+    "AdresseA": "Fnideq",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUN",
+    "NOM_ETABA": "ثانوية ابن خلدون التأهيلية",
+    "AdresseL": "QUARTIER AGHATTAS",
+    "AdresseA": "حي أغطاس",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABI RABIE SEBTI",
+    "NOM_ETABA": "ثانوية أبي الربيع السبتي التأهيلية",
+    "AdresseL": "AVENUE MOHAMMED VI ROUTE RAS LOUTA FNIDEQ",
+    "AdresseA": "شارع محمد السادس طريق راس لوطا الفنيدق",
+    "COMMUNE": "Fnideq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Al Ahlia",
+    "NOM_ETABA": "الأهلية",
+    "AdresseL": "5 hermanos lahaulet n44",
+    "AdresseA": " اخوان لهوليت رقم 44",
+    "COMMUNE": "Fnideq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Choualat Arrif",
+    "NOM_ETABA": "المؤسسة الخصوصية شعلة الريف ",
+    "AdresseL": "Lotissement Al Amira -PLACE N°",
+    "AdresseA": "تجزئة الأميرة - ساحة رقم 2  , ",
+    "COMMUNE": "Fnideq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Amajd Al Andalous",
+    "NOM_ETABA": "المؤسسة الخصوصية أمجاد الأندلس ",
+    "AdresseL": "Hay Aghettas FNIDEQ",
+    "AdresseA": "حي أغطاس الفنيدق",
+    "COMMUNE": "Fnideq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Al hikma",
+    "NOM_ETABA": "المؤسسة الخصوصية الحكمة",
+    "AdresseL": "hay ras louta - hay delma nr 8",
+    "AdresseA": "حي راس لوطا - حي الدلمة رقم 80",
+    "COMMUNE": "Fnideq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Doae daibouni ",
+    "NOM_ETABA": "المؤسسة الخصوصية دعاء الديبوني",
+    "AdresseL": "lot saramica - fnideq",
+    "AdresseA": "تجزئة حي باب سبتة سراميكا بلدي",
+    "COMMUNE": "Fnideq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Chorouk Fnideq",
+    "NOM_ETABA": "المؤسسة الخصوصية شروق الفنيدق",
+    "AdresseL": "cartier sidi boughaba rue abde",
+    "AdresseA": "حي سيدي بوغابة شارع عبد الرحيم",
+    "COMMUNE": "Fnideq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

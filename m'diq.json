@@ -1,0 +1,252 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL JABAL",
+    "NOM_ETABA": "ثانوية الجبل الإعدادية ",
+    "AdresseL": "avenue ibno annafisse Commune MDIQ",
+    "AdresseA": "شارع ابن النفيس بلدية المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOUMMANE EL FETOUAKI  ",
+    "NOM_ETABA": "ثانوية حمان الفطواكي الإعدادية ",
+    "AdresseL": "HAY AIN CHOUFOU",
+    "AdresseA": "حي عين شوفو شارع الخوارزمي المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "ثانوية المسيرة الخضراء الإعدادية ",
+    "AdresseL": "HAY BOUZAGHLAL",
+    "AdresseA": "حي بوزغلال",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN BATTOUTA",
+    "NOM_ETABA": "ثانوية ابن بطوطة الإعدادية ",
+    "AdresseL": "HAY RABAT  MDIQ",
+    "AdresseA": "حي الرباط المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ecole 23 MAI",
+    "NOM_ETABA": "مدرسة 23 ماي",
+    "AdresseL": "RUE 23 MAI HAY ISTIQLAL",
+    "AdresseA": "شارع 23 ماي حي الاستقلال",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KACEM AMINE",
+    "NOM_ETABA": "مدرسة قاسم أمين",
+    "AdresseL": "AV MOUISSA IBN NOUSSAIR N 1  MDIQTETOUAN",
+    "AdresseA": "شارع موسى بن نصيرالمضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OMAR IBN KHATAB",
+    "NOM_ETABA": "مدرسة عمر بن الخطاب",
+    "AdresseL": "RUE OUAD AL MAKHAZINE 93200  MDIQ",
+    "AdresseA": "شارع وادي المخازن 93200 المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 11 JANVIER",
+    "NOM_ETABA": "مدرسة 11 يناير",
+    "AdresseL": "HAY SALAM  MDIQ",
+    "AdresseA": "حي السلام المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL KHAOUARIZMI",
+    "NOM_ETABA": "مدرسة الخوارزمي",
+    "AdresseL": "RUE ALI IBN ABI TALEB HAY AL ISTIQLAL",
+    "AdresseA": "شارع علي بن أبي طالب حي الاستقلال",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANOUAL ",
+    "NOM_ETABA": "مدرسة أنوال",
+    "AdresseL": "DOUAR BOUZAGHLAL CUMDIQ",
+    "AdresseA": "دوار  بوزغلال المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FKIH ASSARRAJE",
+    "NOM_ETABA": "مدرسة الفقيه السراج",
+    "AdresseL": "Hay SALAM AV NASR MDIQ",
+    "AdresseA": "حي السلام   شارع النصر         المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SANIAT TORRES",
+    "NOM_ETABA": "م . م سانية طوريس",
+    "AdresseL": "HAY SANIAT TORRES ROUTE DE SEBTA  MDIQ",
+    "AdresseA": "حي سانية الطريس طريق سبتة المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH CHEFCHAOUNI      ",
+    "NOM_ETABA": "مدرسة عبد الله الشفشاوني",
+    "AdresseL": "HAY SALAM",
+    "AdresseA": "حي السلام شارع العلويين ",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI BAKR SADIK",
+    "NOM_ETABA": "مدرسة أبي بكر الصديق",
+    "AdresseL": "BOUZGHLAL",
+    "AdresseA": "بوزغلال",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIN CHOUFOU",
+    "NOM_ETABA": "مدرسة عين شوفو",
+    "AdresseL": "HAY AIN CHOUFOU MDIQ",
+    "AdresseA": "حي عين شوفو المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDERRAHIM BOUABID",
+    "NOM_ETABA": "ثانوية عبد الرحيم بوعبيد التأهيلية ",
+    "AdresseL": "HAY AIN CHOUFOU MUNICIPALITE MDIQ",
+    "AdresseA": "حي عين شوفو بلدية المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FKIH DAOUD",
+    "NOM_ETABA": "ثانوية الفقيه داود التأهيلية ",
+    "AdresseL": "HAY RABAT MUNICIPALITE M DIQ",
+    "AdresseA": "حي الرباط بلدية المضيق",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "ثانوية المنصور الذهبي التأهيلية",
+    "AdresseL": "Kodiate Essaraj hay salam",
+    "AdresseA": "كدية السراج  - حي السلاام",
+    "COMMUNE": "M'Diq",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Établissement L'odysee du savoir",
+    "NOM_ETABA": "المؤسسة الخصوصية لوديسي دي سفوار",
+    "AdresseL": "av nasr lot yasmine",
+    "AdresseA": "شارع النصر تجزئة الياسمين",
+    "COMMUNE": "M'Diq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ÉTABLISSEMENT GROUPE SCOLAIRE AFAQ ALRIYADA",
+    "NOM_ETABA": "المؤسسة الخصوصية مجموعة مدارس آفاق الريادة",
+    "AdresseL": "HAY ZAOUIA AV OMAR IBN ABDELAZ",
+    "AdresseA": "حي الزاوية شارع عمر بن عبد الع",
+    "COMMUNE": "M'Diq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Aya Asmir",
+    "NOM_ETABA": "المؤسسة الخصوصية آية أسمير",
+    "AdresseL": "HAY RABAT AVENUE ENNASR M DIQ",
+    "AdresseA": "حي الرباط شارع النصر ",
+    "COMMUNE": "M'Diq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Charif Mohamed Ameziane",
+    "NOM_ETABA": "المؤسسة الخصوصية الشريف محمد امزيان",
+    "AdresseL": "N°200 Av. MOUSSA BEN NOUSSAIR ",
+    "AdresseA": "رقم 200 شارع موسى بن نصير تجزئ",
+    "COMMUNE": "M'Diq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Ouassima ",
+    "NOM_ETABA": "المؤسسة الخصوصية وسيمة ",
+    "AdresseL": "Hay bouzaghlal route barrage s",
+    "AdresseA": "طريق واد السمير حي بوزغلال",
+    "COMMUNE": "M'Diq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Al Imane",
+    "NOM_ETABA": "المؤسسة الخصوصية الإيمان",
+    "AdresseL": "HAY RABAT rue ouad sebou  MDIQ",
+    "AdresseA": "حي الرباط زنقة واد سبو المضيق",
+    "COMMUNE": "M'Diq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Mostkbal M'diq",
+    "NOM_ETABA": "المؤسسة الخصوصية مستقبل المضيق",
+    "AdresseL": "hay bouzaghlal rue sad asmir n",
+    "AdresseA": "حي بوزغلال طريق سد أسمير رقم 1",
+    "COMMUNE": "M'Diq ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

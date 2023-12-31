@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "AIT HADDOU YOUSSEF",
+    "NOM_ETABA": "ايت حدو يوسف",
+    "AdresseL": "DOUAR AHADDOU YOUSSEF COMMUNE AIT HADDOU YOUSSEF",
+    "AdresseA": "دوار ايت حدو يوسف",
+    "COMMUNE": "Ait Haddou Youssef",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TASSA",
+    "NOM_ETABA": "تاسا",
+    "AdresseL": "DOUAR TASSA COMMUNE AIT HADDOU YOUSSEF",
+    "AdresseA": "دوار  تاسا",
+    "COMMUNE": "Ait Haddou Youssef",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSIF LAHLOU",
+    "NOM_ETABA": "أسيف لحلو",
+    "AdresseL": "DOUAR ASSIF LAHLOU COMMUNE AIT HADDOU YOUSSEF",
+    "AdresseA": "دوار  أسيف لحلو",
+    "COMMUNE": "Ait Haddou Youssef",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUIAT ITIKI",
+    "NOM_ETABA": "زاوية اتيقي",
+    "AdresseL": "DOUAR ZAOUIAT ITIKI COMMUNE AIT HADDOU YOUSSEF",
+    "AdresseA": "دوار  زاوية اتيقي",
+    "COMMUNE": "Ait Haddou Youssef",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "20 AOUT",
+    "NOM_ETABA": "20غشت",
+    "AdresseL": "KHMISS AIT YADINE",
+    "AdresseA": "خميس ايت يادين",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOUHTOURI",
+    "NOM_ETABA": "البحتري",
+    "AdresseL": "COMMUNE AIT YADINE khemisset",
+    "AdresseA": "مركز ايت يدين",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MALEK",
+    "NOM_ETABA": "ايت مالك",
+    "AdresseL": "DOUAR AIT MALEK COMMUNE AIT YADINE",
+    "AdresseA": "د ايت مالك ج ايت يادين",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARIK BEN ZYAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "DOUAR KHTATEN COMMUNE AIT YADINE",
+    "AdresseA": "دوار اخطاطن جماعة ايت يدين",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BOUBKER",
+    "NOM_ETABA": "ايت بوبكر",
+    "AdresseL": "DOUAR AIT BOUBKER COMMUNE AIT YADINE",
+    "AdresseA": "د ايت بوبكر ج ايت يدين",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT YADINE",
+    "NOM_ETABA": " آيت يدين",
+    "AdresseL": "Commune rurale ait Yadine  Amal2 ",
+    "AdresseA": " جماعة ايت يدين  - أيت يدين المركز -أمل 2 -",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSANE 1ER",
+    "NOM_ETABA": "الحسن الأول",
+    "AdresseL": "Douar Ait Boubker",
+    "AdresseA": "دوار آيت بوبكر",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAÂD BNOU MOUÂD",
+    "NOM_ETABA": "سعد بن معاد",
+    "AdresseL": "Ayt Yadine",
+    "AdresseA": "أيت يدين",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATLAS",
+    "NOM_ETABA": "الاطلس",
+    "AdresseL": "ait yadine centre",
+    "AdresseA": "ايت يادين المركز",
+    "COMMUNE": "Ait Yadine",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

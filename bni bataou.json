@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID MOHAMED EL ANSRI",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد محمد العنصري ",
+    "AdresseL": "CENTRE CR BNI BATAOUCERCLE BEJAAD",
+    "AdresseA": "مركز  جماعة  بني  بتاو",
+    "COMMUNE": "Bni Bataou",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BENI BATAO",
+    "NOM_ETABA": "م/م بني بتاو",
+    "AdresseL": "DOUAR HAD BENI BATAO COMMUNE BENI BATAO",
+    "AdresseA": "مركز  بني  بتاو",
+    "COMMUNE": "Bni Bataou",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR ECHHAR",
+    "NOM_ETABA": "م/م دار الشهر",
+    "AdresseL": "DOUAR AIT TOUILIK COMMUNE BENI BATAO",
+    "AdresseA": "دوار ايت اتويليك",
+    "COMMUNE": "Bni Bataou",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

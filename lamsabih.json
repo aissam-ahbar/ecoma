@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KACEM AMINE",
+    "NOM_ETABA": "الثانوية الإعدادية قاسم أمين",
+    "AdresseL": "CENTRE COMMUNE LAMSABIH",
+    "AdresseA": "مركز جماعة المصابيح",
+    "COMMUNE": "Lamsabih",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD HMIDA",
+    "NOM_ETABA": "م/م اولاد احميدة",
+    "AdresseL": "DOUAR ouled hmida   COMMUNE LAMSABIH",
+    "AdresseA": "دوار أولاد حميدة جماعة لمصابيح",
+    "COMMUNE": "Lamsabih",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IRFANE",
+    "NOM_ETABA": "م/م العرفان",
+    "AdresseL": "DOUAR OULAD GHNIM COMMUNE LAMSABIH",
+    "AdresseA": "دوار اولاد غنيم جماعة المصابيح",
+    "COMMUNE": "Lamsabih",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

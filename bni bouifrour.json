@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE  IALLATANE",
+    "NOM_ETABA": "مجموعة مدارس اعلاطن",
+    "AdresseL": "DOUAR IALLATANE COMMUNE BNI BOUIFROUR",
+    "AdresseA": "دوار اعلاطن",
+    "COMMUNE": "Bni Bouifrour",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AFRA",
+    "NOM_ETABA": "المدرسة الابتدائية افرا",
+    "AdresseL": "DOUAR AFRA COMMUNE BNI BOUIFROUR",
+    "AdresseA": "دوار افرا",
+    "COMMUNE": "Bni Bouifrour",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IQRAE EXEMPLAIRE",
+    "NOM_ETABA": "اِقرأ النموذجية",
+    "AdresseL": "IDOUAR OULAD ELAARBI ALLATEN ",
+    "AdresseA": " اعلاطندوار أولاد العربي",
+    "COMMUNE": "Bni Bouifrour",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

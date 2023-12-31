@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLGE SIDI CHAHED",
+    "NOM_ETABA": "الثانوية الاعدادية سيدي الشاهد",
+    "AdresseL": "centre commune mikkes",
+    "AdresseA": "مركز جماعة مكس",
+    "COMMUNE": "Mikkes",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MAKKAS CENTRE",
+    "NOM_ETABA": "مكس المركز",
+    "AdresseL": "CENTRE DE LA COMMUNE DE MEKKES",
+    "AdresseA": "مركز جماعة ميكس",
+    "COMMUNE": "Mikkes",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD HSSINE CENTRE",
+    "NOM_ETABA": "اولاد حسين المركز",
+    "AdresseL": "DOUAR OULAD hssine COMMUNE mekkes",
+    "AdresseA": "دوار اولاد حسين  جماعة ميكس",
+    "COMMUNE": "Mikkes",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ABBOU CENTRE",
+    "NOM_ETABA": "اولاد عبو المركز",
+    "AdresseL": "DOUAR OULAD ABBOU COMMUNE MAKKAS",
+    "AdresseA": "دوار اولاد عبو مكس",
+    "COMMUNE": "Mikkes",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

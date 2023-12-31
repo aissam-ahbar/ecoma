@@ -1,0 +1,502 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALANDALOUS",
+    "NOM_ETABA": "الثانوية الإعدادية الأندلس",
+    "AdresseL": "LAHRAOIYINE SIDI OTHMANE",
+    "AdresseA": "الهراويين سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL  AL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "BD Abouhoraira Sidi othman",
+    "AdresseA": "شارع أبو هريرة سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية علال بن عبد الله",
+    "AdresseL": "AVENUE DRISS EL HARTI SIDI OTHMANE",
+    "AdresseA": "محج إدريس الحارثي سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKHALEK TORES",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الخالق الطريس",
+    "AdresseL": "HAY MOHAMED BELARBI EL ALAOUI MABROUKA Rue 78",
+    "AdresseA": " زنقة 78 حي محمد بلعربي العلوي مبروكة",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZZALLAKA",
+    "NOM_ETABA": "الثانوية الإعدادية الزلاقة",
+    "AdresseL": " RUE 4 SIDI OTHMANE2",
+    "AdresseA": " زنقة 4 سيدي عثمان 2",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED BELARBI EL ALAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بلعربي العلوي",
+    "AdresseL": "AVENUE ENNIL  SIDI OTHMANE",
+    "AdresseA": "شارع النيل سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LALLA MERYEM",
+    "NOM_ETABA": "الثانوية الإعدادية للا مريم",
+    "AdresseL": "ESSALAMA 3  SIDI OTHMANE",
+    "AdresseA": "حي السلامة 3 سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TOURIA SEKKAT",
+    "NOM_ETABA": "الثانوية الإعدادية ثريا السقاط",
+    "AdresseL": "LAHRAOUYINE Sidi othman",
+    "AdresseA": "لهراويين سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH GUENNOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله كنون",
+    "AdresseL": " localitee hantat marche LA FERRAILLE SIDI OTHMANE",
+    "AdresseA": " منطقة الحنطات (سوق المتلاشيات ) سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAHRAOUYINE",
+    "NOM_ETABA": "المدرسة الإبتدائية الهراويين",
+    "AdresseL": "LAHRAOUIYINE  SIDI OTHMANE",
+    "AdresseA": "الهراويين سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   IBN DOURAID",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن دريد",
+    "AdresseL": "RUE 54  SIDI OTHMANE",
+    "AdresseA": "الزنقة 54 سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   EL KHANSAA",
+    "NOM_ETABA": "المدرسة الإبتدائية الخنساء",
+    "AdresseL": "BLOC 54 SIDI OTHMANE",
+    "AdresseA": "بلوك 54 سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   EL MASJID",
+    "NOM_ETABA": "المدرسة الإبتدائية المسجد",
+    "AdresseL": "BLOC 22 SIDI OTHMANE",
+    "AdresseA": "بلوك 22 سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ABOU AL HASSAN EL MARINI",
+    "NOM_ETABA": "المدرسة الإبتدائية أبو الحسن المريني",
+    "AdresseL": "HAY MOHAMED BEN LARBI EL ALAOUI  MABROUKA",
+    "AdresseA": "حي محمد بلعربي العلوي مبروكة",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   LALLA EL YAKOUT",
+    "NOM_ETABA": "المدرسة الإبتدائية للاالياقوت",
+    "AdresseL": "HAY MOHAMED BEN LARBI EL ALAOUI MABROUKA",
+    "AdresseA": "حي محمد بلعربي العلوي مبروكة",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   LAGOUIRA",
+    "NOM_ETABA": "المدرسة الإبتدائية الكويرة",
+    "AdresseL": "105  RUE 30  MABROUKA",
+    "AdresseA": "105 حي مبروكة زنقة 30 الرقم",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   IBN TAYMIA",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن تيمية",
+    "AdresseL": "Rue Abderrahmane AZHARI EX RUE 27  HAY MABROUKA",
+    "AdresseA": "زنقة عبدالرحمن الأزهري (زنقة 27  سابقا ) حي مبروكة",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   LALLA NEZHA",
+    "NOM_ETABA": "المدرسة الإبتدائية للا نزهة",
+    "AdresseL": "RUE43 BLOC II HAY ESSALAMA I",
+    "AdresseA": "زنقة 43 بلوك 2 حي السلامة 1 عمالة مقاطعات مولاي رش",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   EL AKKAD",
+    "NOM_ETABA": "المدرسة الإبتدائية العقاد",
+    "AdresseL": "BLOC 1 HAY ESSALAMA III",
+    "AdresseA": "بلوك 1 حي السلامة 3",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ERGUIBI",
+    "NOM_ETABA": "المدرسة الإبتدائية الركيبي",
+    "AdresseL": "RUE EL MAATI BEN ZIAD HAY ESSALAMA  I",
+    "AdresseA": "زنقة المعطي بن زياد حي السلامة 1",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   MOHAMED BEN EL ARBI EL ALAOUI",
+    "NOM_ETABA": "المدرسة الإبتدائية محمد بلعربي العلوي",
+    "AdresseL": "RUE EL MAATI BEN ZIAD HAY ESSALAMA I",
+    "AdresseA": "زنقة المعطي بن زياد حي السلامة1",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   MOULAY HICHAM",
+    "NOM_ETABA": "المدرسة الإبتدائية مولاي هشام",
+    "AdresseL": "HAY LALLA MERYEM SIDI OTHMANE",
+    "AdresseA": "حي للا مريم سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   LALLA MERYEM ",
+    "NOM_ETABA": "   المدرسة الإبتدائية للا مريم",
+    "AdresseL": "BLOC 73 RUE 65  HAY LALLA MERYEM  SIDI OTHMANE",
+    "AdresseA": "بلوك 73 زقة  65 حي للا مريم سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   LALLA HASNAA",
+    "NOM_ETABA": "المدرسة الإبتدائية للا حسناء",
+    "AdresseL": "HAY LALLA MERYEM  SIDI OTHMANE",
+    "AdresseA": "حي للا مريم سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   LALLA ASMAA",
+    "NOM_ETABA": "المدرسة الإبتدائية للا أسماء",
+    "AdresseL": "HAY LALLA MERYEM  SIDI OTHMANE",
+    "AdresseA": "حي للا مريم سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   MGALA",
+    "NOM_ETABA": "المدرسة الإبتدائية أمغالة",
+    "AdresseL": "CASERNE DES FORCES AUXILIAIRES MOULAY RACHID 2",
+    "AdresseA": " ثكنة القوات المساعدة  مولاي رشيد 2",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   SOUKAINA BENT EL HOUSSINE",
+    "NOM_ETABA": "المدرسة الإبتدائية سكينة بنت الحسين",
+    "AdresseL": "HAY LALLA MERYEM SIDI OTHMANE",
+    "AdresseA": "حي للا مريم سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   IBNOU TOFAIL",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن طفيل",
+    "AdresseL": "BLOC 22 SIDI OTHMANE",
+    "AdresseA": "بلوك 22 سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   EZZARKTOUNI",
+    "NOM_ETABA": "المدرسة الإبتدائية الزرقطوني",
+    "AdresseL": "SOUK LA FERRAILLE  SIDI OTHMANE",
+    "AdresseA": "سوق المتلاشيات سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ABDELJALIL BENHIDA",
+    "NOM_ETABA": "المدرسة الإبتدائية عبدالجليل بنحيدة",
+    "AdresseL": "BOUSSELHAM LAHRAOUIYINE sidi othmane",
+    "AdresseA": " بوسلهام  الهراويين سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   BADR ",
+    "NOM_ETABA": "المدرسة الإبتدائية  بدر  ",
+    "AdresseL": "Lahraouyne",
+    "AdresseA": "الهراويين ",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ALI BNOU ABITALEB",
+    "NOM_ETABA": "المدرسة الإبتدائية علي بن أبي طالب",
+    "AdresseL": "ALMADINDA ALJADIDA sidi othmane resisence tawfik a",
+    "AdresseA": "المدينة الجديدة تجرئة توفيق الهراويين البيضاء ",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   MOBADARATE",
+    "NOM_ETABA": "المدرسة الإبتدائية مبادرات",
+    "AdresseL": "LAHRAOUiyiNE SIDI OTHMANE",
+    "AdresseA": "لهراويين سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EDDAKHLA",
+    "NOM_ETABA": "المدرسة الابتدائية الداخلة",
+    "AdresseL": "lotissement elwafaa Lahraouiyine",
+    "AdresseA": "تجزئة الوفاء لهراويين",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ZOHR",
+    "NOM_ETABA": "الثانوية التأهيلية إبن زهر",
+    "AdresseL": "Lt Wafa Lahraouyine",
+    "AdresseA": "تجزئة الوفاء لهراويين ",
+    "COMMUNE": "Sidi Othmane ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ISMAIL",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي اسماعيل",
+    "AdresseL": "AVENUE IDRISS ELHARTI",
+    "AdresseA": "شارع إدريس الحارثي",
+    "COMMUNE": "Sidi Othmane ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DRISS EL HARTI",
+    "NOM_ETABA": "الثانوية التأهيلية إدريس الحارثي",
+    "AdresseL": "AVENUE IDRISS ELHARTI",
+    "AdresseA": "شارع إدريس الحارثي",
+    "COMMUNE": "Sidi Othmane ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "الثانوية التأهيلية المختار السوسي",
+    "AdresseL": " HAY MOHAMED BELARABI ALAOUI   SIDI OTHMANE 2 RUE4",
+    "AdresseA": "حي محمد بلعربي العلوي  سيدي عثمان 2 الزنقة 4",
+    "COMMUNE": "Sidi Othmane ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDERRAHMANE BELKORCHI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الرحمان بلقرشي",
+    "AdresseL": "AVENUE DRISS EL HARTI",
+    "AdresseA": "محج إدريس الحارثي",
+    "COMMUNE": "Sidi Othmane ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALMAKI ANACIRI",
+    "NOM_ETABA": "الثانوية التأهيلية المكي الناصري",
+    "AdresseL": "Lahraouyne Sidi Otmane",
+    "AdresseA": "الهراويين سيدي عثمان",
+    "COMMUNE": "Sidi Othmane ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "NOUHAILA",
+    "NOM_ETABA": "نهيلة الخصوصية",
+    "AdresseL": "Lot. Ennour, Bloc C, N° 36 - S",
+    "AdresseA": "تجزئة النور، بلوك  س  رقم 36 -",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOAD BNOU JABAL",
+    "NOM_ETABA": "معاذ بن جبل الخصوصية",
+    "AdresseL": "Lot. Ennour , Groupe D, N°37",
+    "AdresseA": "تجزئة النور، مجموعة د  الرقم 3",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR ALYAKINE",
+    "NOM_ETABA": "نور اليقين الخصوصية",
+    "AdresseL": "HY ENNOUR 1 GR E RUE 10 LOT EC",
+    "AdresseA": "حي النور 1 مجموعة ج زنقة 10 سي",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MANAR ELKHEIR SIDI OTHMANE",
+    "NOM_ETABA": "مجموعة مدارسمنار الخير الخصوصية",
+    "AdresseL": "Boulevard Mohamed Bouziane Imm",
+    "AdresseA": " مولاي رشيد  A1 شارع محمد بوزي",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annexe MOAD BNOU JABAL",
+    "NOM_ETABA": "ملحقة معاذ بن جبل الخصوصية",
+    "AdresseL": "lotissemnt enour groupe c n°48",
+    "AdresseA": "تجزئة النور مجموعة س رقم 48 سي",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOUNTADA Collège",
+    "NOM_ETABA": "المنتدى الثانوية الإعدادية الخصوصية",
+    "AdresseL": "Lot Ennour groupe D,N°73 Moula",
+    "AdresseA": "تجزئة النور مجموعة \"د\"رقم 73 م",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE GAUSS",
+    "NOM_ETABA": "مجموعة مدارس كوص الخصوصية",
+    "AdresseL": "30-32 Rue 12 HAY ASSALAMA1",
+    "AdresseA": "30-32 زنقة 12 حي السلامة 1 سيد",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOUNTADA   AL AILMIA",
+    "NOM_ETABA": "المنتدى  العلمية الخصوصية",
+    "AdresseL": "HAY NOUR GR D N° 68 N- A -SIDI",
+    "AdresseA": "حي النور مجموعة د رقم 68 نوع- ",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE GREGOR MENDEL",
+    "NOM_ETABA": "مجموعة مدارس كريكور مندل الخصوصية",
+    "AdresseL": "boulevard mohamed bouziane n 7",
+    "AdresseA": "شارع بوزيان رقم 72 سيدي عثمان",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire leonidas",
+    "NOM_ETABA": "مجموعة مدارس ليونيداس",
+    "AdresseL": "lot N°3 lotissement IDMAJ SIDI",
+    "AdresseA": "البقعة رقم 3 تجزئة إدماج سيدي ",
+    "COMMUNE": "Sidi Othmane",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

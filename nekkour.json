@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "MOHAMED ETTARHOUCHI(COLLEGE)",
+    "NOM_ETABA": "محمد الطرهوشي",
+    "AdresseL": "commune de nekor",
+    "AdresseA": "جماعة النكور",
+    "COMMUNE": "Nekkour",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AMNOUD",
+    "NOM_ETABA": "امنود",
+    "AdresseL": "DOUAR AMNOUD COMMUNE NEKKOUR",
+    "AdresseA": "دوار امنود جماعة النكور",
+    "COMMUNE": "Nekkour",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI BOUKHLAF",
+    "NOM_ETABA": "بني بوخلف",
+    "AdresseL": "DOUAR BNI BOUKHLAF COMMUNE NEKKOUR",
+    "AdresseA": "دوار بني بوخلف جماعة النكور",
+    "COMMUNE": "Nekkour",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S TAZOURAKHT",
+    "NOM_ETABA": "م.م تازوراخت",
+    "AdresseL": "DOUAR TAZOURAKHT COMMUNE NEKKOUR",
+    "AdresseA": "دوار تازوراخت جماعة النكور",
+    "COMMUNE": "Nekkour",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZOURAKHT HAUT",
+    "NOM_ETABA": "تزوراخت العليا",
+    "AdresseL": "DOUAR TAZOURAKHT HAUT COMMUNE NEKKOUR",
+    "AdresseA": "دوار تزوراخت العليا جماعة النكور",
+    "COMMUNE": "Nekkour",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MEDERSATCOM MNOUD",
+    "NOM_ETABA": "مدرسة.كم-امنود",
+    "AdresseL": " Douar Mnoud  COMMUNE NEKOR",
+    "AdresseA": "دوار امنود - جماعة النكور",
+    "COMMUNE": "Nekkour",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

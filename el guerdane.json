@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "C CHAHID ALI BEN TAHER",
+    "NOM_ETABA": "ثإ.الشهيد علي بن الطاهر",
+    "AdresseL": "CENTRE SEBT EL GUERDAN MUNICIPALITE ELGUERDAN",
+    "AdresseA": "مركز سبت الكردان",
+    "COMMUNE": "El Guerdane",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C BIR INZARANE",
+    "NOM_ETABA": "ثإ.بئر أنزران",
+    "AdresseL": " SEBT EL GUERDAN CENTRE",
+    "AdresseA": "سبت الكردان المركز",
+    "COMMUNE": "El Guerdane",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E OTMAN BEN AFANE",
+    "NOM_ETABA": "م.عثمان بن عفان",
+    "AdresseL": "MUNICIPALITE EL GUERDANE",
+    "AdresseA": "بلدية الكردان",
+    "COMMUNE": "El Guerdane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S.S AL ALAOUIYINE",
+    "NOM_ETABA": "م.م العلويين",
+    "AdresseL": "DOUAR   OULAD ALI MUNICIPALITE EL GUERDAN",
+    "AdresseA": "د. اولاد علي الكردان",
+    "COMMUNE": "El Guerdane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOULAY ISMAIL",
+    "NOM_ETABA": "م.م مولاي اسماعيل",
+    "AdresseL": "MUNICIPALITE EL GUERDANE SEBT EL GUERDANE",
+    "AdresseA": "بلدية الكردان",
+    "COMMUNE": "El Guerdane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL AIRFANE",
+    "NOM_ETABA": "ثأ.العرفان",
+    "AdresseL": "SEBT EL GUERDANE MUNICIPALITE EL GUERDANE",
+    "AdresseA": "سبت الكردان المركز",
+    "COMMUNE": "El Guerdane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "asfor",
+    "NOM_ETABA": "مؤسسة عصفور الخاصة",
+    "AdresseL": "Cité SAFSAF - C.U. El Guerdane",
+    "AdresseA": "حي الصفصاف - ج. ح. الكردان",
+    "COMMUNE": "El Guerdane ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manal annajah",
+    "NOM_ETABA": "منال النجاح",
+    "AdresseL": "QUARTIER DAKHLA 2 el GuERDANE",
+    "AdresseA": "حي الداخلة 2 الكردان",
+    "COMMUNE": "El Guerdane ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

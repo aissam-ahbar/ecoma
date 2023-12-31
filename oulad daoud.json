@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULED DAOUD",
+    "NOM_ETABA": "ثانوية اولاد داود الإعدادية",
+    "AdresseL": "OULAD  DAOUD centre",
+    "AdresseA": "اولاد داود المركز",
+    "COMMUNE": "Oulad Daoud",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULAD DAOUD",
+    "NOM_ETABA": "م/م  اولاد داود",
+    "AdresseL": "centre OULAD DAOUD COMMUNE OULAD DAOUD TISSA",
+    "AdresseA": "دوار اولاد داود جماعة اولاد داود تيسة",
+    "COMMUNE": "Oulad Daoud",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD JMOUH",
+    "NOM_ETABA": "م/م اولاد جموح",
+    "AdresseL": "DOUAR OULAD JMOUH COMMUNE OULAD DAOUD TISSA",
+    "AdresseA": "دوار امجر    -جماعة اولاد داود-  تيسة",
+    "COMMUNE": "Oulad Daoud",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD AISSA",
+    "NOM_ETABA": "م/م  اولاد عيسى",
+    "AdresseL": "DOUAR DRADrA COMMUNE OULAD DAOUD  TISSA",
+    "AdresseA": "دوار الدرادرة  -جماعة اولاد داود-  تيسة",
+    "COMMUNE": "Oulad Daoud",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HAJRIA",
+    "NOM_ETABA": "م/م  حجرية",
+    "AdresseL": "DOUAR OULAD AZIZ COMMUNE OULAD DAOUD TISSA",
+    "AdresseA": "دوار اولاد عزيز   -جماعة اولاد داود-  تيسة",
+    "COMMUNE": "Oulad Daoud",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  OULAD DAOUD",
+    "NOM_ETABA": "ثانوية اولاد داود التأهيلية",
+    "AdresseL": "COMMUNE OULAD DAOUD",
+    "AdresseA": "جماعة اولاد داود",
+    "COMMUNE": "Oulad Daoud",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

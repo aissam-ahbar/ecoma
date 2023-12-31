@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE TAOUGHILT",
+    "NOM_ETABA": "إعدادية توغيلت",
+    "AdresseL": "CENTRE TAOUGHILT",
+    "AdresseA": "توغيلت",
+    "COMMUNE": "Taoughilt",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ACHARIF AL IDRISSI",
+    "NOM_ETABA": "الشريف الإدريسي",
+    "AdresseL": "ACHARIF AL IDRISSI",
+    "AdresseA": "الشريف الإدريسي",
+    "COMMUNE": "Taoughilt",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD LAHMAR",
+    "NOM_ETABA": "أولاد لحمر",
+    "AdresseL": "DOUAR OULAD LAHMAR",
+    "AdresseA": "دوار أولاد لحمر",
+    "COMMUNE": "Taoughilt",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU LHASSAN AL MARINI",
+    "NOM_ETABA": "أبو الحسن المريني",
+    "AdresseL": "DOUAR zuihrate COMMUNE TAOUGHILT",
+    "AdresseA": "دوار الزويهرات",
+    "COMMUNE": "Taoughilt",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN JINNI",
+    "NOM_ETABA": "ابن جني",
+    "AdresseL": "DOUAR ASSILAT COMMUNE TAOUGHILT",
+    "AdresseA": "دوار اعسيلات   جماعة توغيلت",
+    "COMMUNE": "Taoughilt",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IDRISS BENZEKRI",
+    "NOM_ETABA": "ثانوية إدريس بنزكري التأهيلية",
+    "AdresseL": "centre commune taoughilt",
+    "AdresseA": "مركز جماعة توغيلت",
+    "COMMUNE": "Taoughilt",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

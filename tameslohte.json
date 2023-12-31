@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL SIDI ABDELLAH BEN HSEINE",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي عبد الله بن حساين",
+    "AdresseL": "CENTRE TAMASLOUHT COMMUNE TAMASLOUHT",
+    "AdresseA": "مركز تمصلوحت جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU ALJOUZI",
+    "NOM_ETABA": "الثانوية الاعدادية ابن الجوزي",
+    "AdresseL": "OULED YAHYA TAMESLOUHTE",
+    "AdresseA": "اولاد يحيى جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TAMASLOUHTE",
+    "NOM_ETABA": "تمصلوحت",
+    "AdresseL": "CENTRE TAMESLOHTE COMMUNE TAMESLOHTE",
+    "AdresseA": "مركز تمصلوحت جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR LAASSIRI",
+    "NOM_ETABA": "دار العسري",
+    "AdresseL": "DOUAR DRAA LASSIRI COMMUNE TAMESLOHTE",
+    "AdresseA": "دوار دار العسري جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD YAHYA",
+    "NOM_ETABA": "اولاد يحيى",
+    "AdresseL": "DOUAR OULAD YAHYA COMMUNE TAMESLOHTE",
+    "AdresseA": "دوار اولاد يحيـى جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGHNANMA",
+    "NOM_ETABA": "الغنانمة",
+    "AdresseL": "DOUAR LAATAWNA COMMUNE TAMESLOHTE",
+    "AdresseA": "دوار العطاونة جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECHAHID ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "الشهيد علال بن عبدالله-الزاهرية",
+    "AdresseL": "COOPERATIVE EZ ZAHIRIA COMMUNE TAMESLOHTE",
+    "AdresseA": "تعاونية الباهية جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUMNASTE CENTRALE",
+    "NOM_ETABA": "مركزية أومناست",
+    "AdresseL": "DOUAR DAR EL AAIN COMMUNE TAMESLOHTE",
+    "AdresseA": "دوار دار العين جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIOULI",
+    "NOM_ETABA": "تيولي",
+    "AdresseL": "DOUAR TIUOILI COMMUNE TAMESLOHTE",
+    "AdresseA": "دوار تيولي جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALMANSOUR ADDAHBI",
+    "NOM_ETABA": "المدرسة الابتدائية  المنصور الدهبي",
+    "AdresseL": "COMMUNE TAMesLOUHTE",
+    "AdresseA": "جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AMAL",
+    "NOM_ETABA": "المدرسة الابتدائية  الأمل",
+    "AdresseL": "OULED YAHYA TAMASLOUHTE",
+    "AdresseA": "جماعة تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT TAMESLOUHT",
+    "NOM_ETABA": "الثانوية التأهيلية تمصلوحت",
+    "AdresseL": "Centre TAMESLOUHT",
+    "AdresseA": "تمصلوحت",
+    "COMMUNE": "Tameslohte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

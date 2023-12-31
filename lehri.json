@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 13 NOVEMBRE",
+    "NOM_ETABA": " الثانوية الإعدادية 13 نونبر",
+    "AdresseL": "lehri centre",
+    "AdresseA": "لهري المركز",
+    "COMMUNE": "Lehri",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LEHRI",
+    "NOM_ETABA": "الهري",
+    "AdresseL": "LEHRI CENTRE COMMUNE LEHRI",
+    "AdresseA": "مركز جماعة الهري",
+    "COMMUNE": "Lehri",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SROU",
+    "NOM_ETABA": "سرو",
+    "AdresseL": "DOUAR SROU COMMUNE LEHRI",
+    "AdresseA": "دوار سرو جماعة الهري",
+    "COMMUNE": "Lehri",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAJEMOUTE",
+    "NOM_ETABA": "تاجموت",
+    "AdresseL": "DOUAR TAJEMOUTE COMMUNE LEHRI",
+    "AdresseA": "دوار تاجموت جماعة الهري",
+    "COMMUNE": "Lehri",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ADEKHSSAL",
+    "NOM_ETABA": "ادخسال",
+    "AdresseL": "DOUAR ADEKHSSAL COMMUNE LEHRI",
+    "AdresseA": "دوار ادخسال جماعة الهري",
+    "COMMUNE": "Lehri",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALEHIANET",
+    "NOM_ETABA": "تالحيانت",
+    "AdresseL": "DOUAR TALEHIANET COMMUNE LEHRI",
+    "AdresseA": "دوار تالحيانت جماعة الهري",
+    "COMMUNE": "Lehri",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TASKARET",
+    "NOM_ETABA": "تاسكارت",
+    "AdresseL": "DOUAR TASKARET COMMUNE LEHRI",
+    "AdresseA": "دوار تاسكارت جماعة الهري",
+    "COMMUNE": "Lehri",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TATCHA",
+    "NOM_ETABA": "تاتشا",
+    "AdresseL": "DOUAR TATCHA COMMUNE LEHRI",
+    "AdresseA": "دوار تاتشا جماعة الهري",
+    "COMMUNE": "Lehri",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

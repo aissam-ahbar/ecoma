@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "MOULAY DRISS AGHBAL",
+    "NOM_ETABA": "مولاي ادريس أغبال",
+    "AdresseL": "My Driss Aghbal centre",
+    "AdresseA": "مولاي إدريس أغبال المركز",
+    "COMMUNE": "Moulay Driss Aghbal",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ESSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "MY DRISS AGHBAL CENTRE COMMUNE MY DRISS AGHBAL",
+    "AdresseA": "م ادريس اغبال ج م ادريس اغبال",
+    "COMMUNE": "Moulay Driss Aghbal",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BELGACEM",
+    "NOM_ETABA": "سيدي بلقاسم",
+    "AdresseL": "DOUAR SIDI BELGACEM COMMUNE MY DRISS AGHBAL",
+    "AdresseA": "دوار سيدي بلقاسم ج م ادريس عين اغبال",
+    "COMMUNE": "Moulay Driss Aghbal",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

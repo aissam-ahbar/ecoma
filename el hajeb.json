@@ -1,0 +1,222 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية الإعدادية الخوارزمي",
+    "AdresseL": "AL OMRANE 1",
+    "AdresseA": "العمران  1",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN KHALDOUN",
+    "NOM_ETABA": "الثانوية الإعدادية ابن خلدون",
+    "AdresseL": "AVENUE IBN KHALDOUN EL HAJEB",
+    "AdresseA": "شارع ابن خلدون الحاجب",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ATLAS",
+    "NOM_ETABA": " الثانوية الإعدادية الاطلس",
+    "AdresseL": "EL HAJEB HAUT",
+    "AdresseA": "الحاجب الاعلى",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIN KHADEM",
+    "NOM_ETABA": "عين خادم",
+    "AdresseL": "AVENUE LA MARCHE VERTE EL HAJEB",
+    "AdresseA": "شارع المسيرة الخضراء الحاجب",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSAN EL YOUSSI",
+    "NOM_ETABA": "حسن اليوسي",
+    "AdresseL": "EL HAJEB HAUT",
+    "AdresseA": "الحاجب الاعلى",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOUHER IBN ABI SALMA",
+    "NOM_ETABA": "زهير ابن ابي سلمى",
+    "AdresseL": "EL HAJEB BAS",
+    "AdresseA": "الحاجب الاسفل",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "ROUTE DE FES EL HAJEB",
+    "AdresseA": "طريق فاس الحاجب",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZINEB NAFZAOUYA",
+    "NOM_ETABA": "زينب النفزاوية",
+    "AdresseL": "RUE KHENIFRA EL HAJEB",
+    "AdresseA": "زنقة خنيفرة",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL YASSAMINE",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "bd youssef ibn tachfine quartier des noyers ",
+    "AdresseA": "شارع يوسف بن تاشفين تجزئة الجوزمدرسة الياسمين ",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL OMRANE",
+    "NOM_ETABA": "العمران",
+    "AdresseL": "LOTISSEMENT EL OMRAN EL HAJEB",
+    "AdresseA": "تجزئة العمران الحاجب",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA",
+    "NOM_ETABA": "المسيرة",
+    "AdresseL": "LOTISSEMENT OUMNIYA EL HAJEB",
+    "AdresseA": "تجزئة الأمنية الحاجب",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL YAKOUTE",
+    "NOM_ETABA": "الياقوت",
+    "AdresseL": "LOTISSEMENT EL YAKOUTE",
+    "AdresseA": "تجزئة الياقوت",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCeE qualifiant IBN AL KHATIB",
+    "NOM_ETABA": "ثانوية ابن الخطيب التأهيلية",
+    "AdresseL": "EL HAJEB BAS",
+    "AdresseA": "الحاجب الاسفل",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " lycee qualifiant TOULOUJ",
+    "NOM_ETABA": "ثانوية الثلوج التأهيلية",
+    "AdresseL": "AIN SIHAND ELHAJEB HAUT",
+    "AdresseA": "عين سيحند الحاجب الاعلى",
+    "COMMUNE": "El Hajeb",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL OUATIK SCHOOL",
+    "NOM_ETABA": "مؤسسة الواثق للتعليم الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الياقوت",
+    "COMMUNE": "El Hajeb ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les enfants du futur",
+    "NOM_ETABA": "أطفال المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 01 زنقة 07 حي الامنية",
+    "COMMUNE": "El Hajeb ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "najah",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 6 رقم 7 عين سيحند",
+    "COMMUNE": "El Hajeb ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g/s  bouabat al atlas",
+    "NOM_ETABA": "م م بوابة الأطلس",
+    "AdresseL": "ait said-el-hajeb",
+    "AdresseA": "أيت سعيد الحاجب",
+    "COMMUNE": "El Hajeb ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Oum Al Manabie",
+    "NOM_ETABA": "أم المنابع",
+    "AdresseL": "Lotissement Alomrane 1 n°86/87",
+    "AdresseA": "تجزئة العمران1 رقم 86/87طريق ا",
+    "COMMUNE": "El Hajeb ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHOUROUK 4",
+    "NOM_ETABA": "شروق 4",
+    "AdresseL": "roustane 155 el hajeb",
+    "AdresseA": "حي الروسطان رقم 155",
+    "COMMUNE": "El Hajeb ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSOUHA",
+    "NOM_ETABA": "السهى",
+    "AdresseL": "Lotissement sounaa n°24 EL HAJ",
+    "AdresseA": "تجزئة سنة رقم 24 الحاجب",
+    "COMMUNE": "El Hajeb ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FI RIHAB AL AMANA",
+    "NOM_ETABA": "في رحاب الأمانة",
+    "AdresseL": "CIRCONSCRIPTION AIN SIHEND LOT",
+    "AdresseA": "مقاطعة عين سيحند تجزئة الياسمي",
+    "COMMUNE": "El Hajeb ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

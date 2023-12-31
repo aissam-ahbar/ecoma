@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN II",
+    "NOM_ETABA": "ثانوية الحسن الثاني الاعدادية",
+    "AdresseL": "QUARTIER ADMINISTRATIF ",
+    "AdresseA": "  الحي الاداري عين اللوح",
+    "COMMUNE": "Ain Leuh",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL ATLAS",
+    "NOM_ETABA": "  مدرسة الأطلس الابتدائية ",
+    "AdresseL": "AIN LEUH CENTRE COMMUNE AIN leuh",
+    "AdresseA": "عين اللوح المركز جماعة عين اللوح",
+    "COMMUNE": "Ain Leuh",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FATH",
+    "NOM_ETABA": " مدرسة الفتح الابتدائية",
+    "AdresseL": "AIN LOUH COMMUNE AIN LOUH",
+    "AdresseA": "عين اللوح المركز جماعة عين اللوح",
+    "COMMUNE": "Ain Leuh",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TABRGHAZIT CENTRE",
+    "NOM_ETABA": " م م تابرغازيت المركزية",
+    "AdresseL": "TABARGHAZIT  COMMUNE AIN LEUH",
+    "AdresseA": "تابرغازيت جماعة عين اللوح",
+    "COMMUNE": "Ain Leuh",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TOUFSTLT CENTRE",
+    "NOM_ETABA": "م م توفصطلت المركزية",
+    "AdresseL": "TOUFSTLT  COMMUNE AIN LOUH",
+    "AdresseA": "توفصطلت جماعة عين اللوح . إفران",
+    "COMMUNE": "Ain Leuh",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU BAKR ESSEDDIK",
+    "NOM_ETABA": "ثانوية ابو بكر الصديق التأهيلية",
+    "AdresseL": "AZAGHAR AZNAG AIN LEUH",
+    "AdresseA": "أزغار أزناك  عين اللوح",
+    "COMMUNE": "Ain Leuh",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "oum rbiae",
+    "NOM_ETABA": "أم الربيع",
+    "AdresseL": "route ajaabou ain leuh",
+    "AdresseA": "طريق اجعبو عين اللوح",
+    "COMMUNE": "Ain Leuh",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

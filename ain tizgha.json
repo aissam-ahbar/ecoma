@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL PRINCE HERITIER MOULAY EL HASSANE",
+    "NOM_ETABA": "الثانوية الإعدادية ولي العهد مولاي الحسن",
+    "AdresseL": "AIN TIZGHA BENSLIMANE",
+    "AdresseA": "عين تيزغة. بنسليمان",
+    "COMMUNE": "Ain Tizgha",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BENABETE CENTRE ",
+    "NOM_ETABA": "م/م بنابت المركزية ",
+    "AdresseL": "DOUAR OULED TALEB COMMUNE ain tizgha",
+    "AdresseA": "دوار اولاد الطالب جماعة عين تيزغة",
+    "COMMUNE": "Ain Tizgha",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LABSABASS CENTRE",
+    "NOM_ETABA": "م/م لبسابس المركزية",
+    "AdresseL": "DOUAR LAHSASNA LABSABASS COMMUNE ain tizgha",
+    "AdresseA": "دوار لحساسنة لبسابس جماعة عين تيزغة",
+    "COMMUNE": "Ain Tizgha",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAAYOUNE CENTRE",
+    "NOM_ETABA": "م/م العيون المركزية",
+    "AdresseL": "DOUAR LAAYOUNE COMMUNE AIN TIZGHA",
+    "AdresseA": "دوار العيون جماعة عين تيزغة",
+    "COMMUNE": "Ain Tizgha",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL MAJD CENTRE",
+    "NOM_ETABA": "م/م المجد المركزية ",
+    "AdresseL": "DOUAR EL KOUDIA COMMUNE AIN TIZGHA",
+    "AdresseA": "دوار الكدية جماعة عين تيزغة",
+    "COMMUNE": "Ain Tizgha",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI OURA CENTRE ",
+    "NOM_ETABA": "م/م بني ورة  المركزية ",
+    "AdresseL": "DOUAR BNI ISSI COMMUNE AIN TIZGHA",
+    "AdresseA": "دوار بني عيسي جماعة عين تيزغة",
+    "COMMUNE": "Ain Tizgha",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MATAR BENSLIMANE",
+    "NOM_ETABA": "مدرسة مطار بنسليمان",
+    "AdresseL": "AEROPORT DE BENSLIMANE",
+    "AdresseA": "مطار بنسليمان",
+    "COMMUNE": "Ain Tizgha",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

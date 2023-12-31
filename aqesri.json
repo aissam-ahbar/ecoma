@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS HAROUN ARRACHID AQESRI",
+    "NOM_ETABA": "م.م هارون الرشيد-أقصـري",
+    "AdresseL": "DOUAR  AQESRI           COMMUNE  AQESRI",
+    "AdresseA": "دوار أقصـري  -  ج. أقصـري",
+    "COMMUNE": "Aqesri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SAQIA  AL HAMRA INRAREN",
+    "NOM_ETABA": "م.م الساقية الحمراء-إنـرارن",
+    "AdresseL": "DOUAR  INRAREN              COMMUNE  AQESRI",
+    "AdresseA": "دوار إنرارن - ج, أقصري",
+    "COMMUNE": "Aqesri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGUERD AGUERD",
+    "NOM_ETABA": "م.م أكـرض-أكرض",
+    "AdresseL": "DOUAR  AGUERD             COMMUNE  AQESRI",
+    "AdresseA": "دوار أكـرض - ج, أقصـري",
+    "COMMUNE": "Aqesri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

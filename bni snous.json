@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S CHKOUBYINE",
+    "NOM_ETABA": "م/م  الشقوبيين",
+    "AdresseL": "DOUAR  ATAAOUNIYA  AL ILMIYA COMMUNE BNI  SNOUSS K",
+    "AdresseA": "دوار التعاونية العلمية جماعة بني سنوس القرية",
+    "COMMUNE": "Bni Snous",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULAD AHMED",
+    "NOM_ETABA": "م/م  اولاد احمد",
+    "AdresseL": "DOUAR OULAD AHMED BNI SNOUS KARIA BA MOHAMED",
+    "AdresseA": "دوار أولاد أحمد بني سنوس القرية با محمد",
+    "COMMUNE": "Bni Snous",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

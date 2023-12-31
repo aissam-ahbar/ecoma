@@ -1,0 +1,512 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL FATH",
+    "NOM_ETABA": " الثانوية الإعدادية الفتح",
+    "AdresseL": "LAAYAYDA",
+    "AdresseA": "واد الذهب العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MANSOUR EDDAHBI",
+    "NOM_ETABA": " الثانوية الإعدادية المنصور الذهبي",
+    "AdresseL": "route de la base lot tissir LAAYAYDA",
+    "AdresseA": "طريق القاعدة الجوية تجزئة التيسير العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAMA MOHAMED BEN ALI DOUKKALI",
+    "NOM_ETABA": " الثانوية الإعدادية العلامة محمد بنعلي الدكالي",
+    "AdresseL": "HAY OUAD EDDAHAB COMMUNE LAYAYDA",
+    "AdresseA": "واد الذهب العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM AL BOUKHARI",
+    "NOM_ETABA": " الثانوية الإعدادية الإمام البخاري",
+    "AdresseL": "OUAD EDDAHAB COMMUNE LAYAYDA",
+    "AdresseA": "واد الذهب العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ENNAKHIL",
+    "NOM_ETABA": " الثانوية الإعدادية النخيل",
+    "AdresseL": "lotissement nakhil moazza laayayda",
+    "AdresseA": "تجزئة النخيل  الموازة  سلا",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALHANAE",
+    "NOM_ETABA": " الثانوية الإعدادية الهناء",
+    "AdresseL": " lotissement sidi abdellah  laayayda",
+    "AdresseA": "تجزئة سيدي عبدالله لعيايدة ",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY RACHID",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي رشيد",
+    "AdresseL": "Commune Laayayda",
+    "AdresseA": "جماعة العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL ABD AZIZ AMINE",
+    "NOM_ETABA": " الثانوية الإعدادية عبد العزيز أمين",
+    "AdresseL": "OUED EDDAHAB LAAYAYDAa",
+    "AdresseA": "واد الذهب جماعة العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALMATAR ALAASKARI",
+    "NOM_ETABA": "مدرسة المطار العسكري",
+    "AdresseL": "HAY ALASKARI BASE ROYAL AIR COMMUNE LAYAYDA",
+    "AdresseA": "الحي العسكري لعيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED MAANINOU",
+    "NOM_ETABA": "مدرسة أحمد معنينو",
+    "AdresseL": "ROUTE KENITRA KM 6 COMMUNE LAYAYDA",
+    "AdresseA": "طريق القنيطرة كلم 6",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAKANAT ALMIDALLYINE",
+    "NOM_ETABA": "مدرسة ثكنة المظليين",
+    "AdresseL": "ROUTE MEKNES ALMAAMOURA COMMUNE LAYAYDA",
+    "AdresseA": "طريق مكناس - كلم 10 - الحي العسكري - معمورة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FARHAT HACHAD",
+    "NOM_ETABA": " مدرسة فرحات حشاد",
+    "AdresseL": "COMMUNE LAYAYDA",
+    "AdresseA": "جماعة لعيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL BOUHTOURI",
+    "NOM_ETABA": "  مدرسة البحتري",
+    "AdresseL": "HAY OUAD ADDAHAB   LAYAYDA",
+    "AdresseA": "حي وادي الذهب العيايدة - سلا",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI BAKR ESSADDIQ",
+    "NOM_ETABA": "مدرسة أبي بكر الصديق",
+    "AdresseL": "ROUTE LA BAZE AIREENE  LAAYAYDA",
+    "AdresseA": "طريق القاعدة الجوية - العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED  ALWADIE  ALASSAFI",
+    "NOM_ETABA": " مدرسة محمد وديع الأسفي",
+    "AdresseL": "ROUTE SIDI BRAHIM HAY OUAD EDDAHAB COMMUNE LAYAYDA",
+    "AdresseA": "طريق سيدي ابراهيم حي واد الدهب العيايدة قطاع القدس",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ICHBILIA",
+    "NOM_ETABA": "مدرسة اشبيلية",
+    "AdresseL": "HAY OUED EDDAHAB COMMUNE LAYAYDA",
+    "AdresseA": "حي واد الدهب",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHADIJA OUM AL MOUMININE",
+    "NOM_ETABA": "مدرسة خديجة أم المؤمنين",
+    "AdresseL": "HAY OUED ADDAHAB COMMUNE LAYAYDA",
+    "AdresseA": "حي واد الدهب شارع النصر العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TOURIA CHAOUI",
+    "NOM_ETABA": "مدرسة ثريا الشاوي",
+    "AdresseL": "Av LA BASE AERIENNE  LAAYAYDA",
+    "AdresseA": "شارع القاعدة الجوية العيايدة - سلا",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI HOUNAYFA",
+    "NOM_ETABA": "مدرسة ابي حنيفة",
+    "AdresseL": "HAY OUAD EDDAHAB EL AAYAYDA  SALE",
+    "AdresseA": "حي واد الذهب العيادة - سلا",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI BAKR ERRAZI",
+    "NOM_ETABA": "مدرسة ابي بكر الرازي",
+    "AdresseL": "HAY OUAD ADDAHAB ARD BEN ACHAR LAAYAYDA  SALE",
+    "AdresseA": "حي وادي الذهب ارض بنعاشر العيايدة - سلا",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ATLASS ELKABIR",
+    "NOM_ETABA": "مدرسة الأطلس الكبير",
+    "AdresseL": "LAYAYDA  CENTRE",
+    "AdresseA": "جماعة العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUM AYMAN",
+    "NOM_ETABA": "مدرسة ام ايمن",
+    "AdresseL": "secteur almajd sale laayayda",
+    "AdresseA": "قطاع المجد -سلا- العيليدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNO ALHAYTAM",
+    "NOM_ETABA": " مدرسة ابن الهيثم",
+    "AdresseL": "secteur nahda lotissement karama commune layayda ",
+    "AdresseA": " تجزئة الكرامة قطاع النهضة جماعة العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TOUBKAL",
+    "NOM_ETABA": " مدرسة توبقال",
+    "AdresseL": "Commune laayayda",
+    "AdresseA": "جماعة العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole Alhadiqa",
+    "NOM_ETABA": "مدرسة الحديقة",
+    "AdresseL": "groupe al doha el khir laayayda",
+    "AdresseA": "مجمع الضحى الخير لعيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI ABDELLAH",
+    "NOM_ETABA": "مدرسة سيدي عبد الله",
+    "AdresseL": "LOT SIDI ABDELLAH LAAYAYADA",
+    "AdresseA": "تجزئة سيدي عبد الله العيايدة ",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALNAJAH",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "LAAYAYYDA MOUHIT",
+    "AdresseA": "العيايدة المحيط",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL NAJAH 2",
+    "NOM_ETABA": "النجاح 2",
+    "AdresseL": "LAYYAYDA MOHIT",
+    "AdresseA": "لعيايدة المحيط",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT WALLADA",
+    "NOM_ETABA": "الثانوية التأهيلية ولادة",
+    "AdresseL": "  avenuE ennacer laayayda",
+    "AdresseA": "شارع النصر العيايدة",
+    "COMMUNE": "Layayda ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SALAMA MOSSADEQ",
+    "NOM_ETABA": " الثانوية التأهيلية سلمة مصدق",
+    "AdresseL": "laayayda",
+    "AdresseA": "العيايدة",
+    "COMMUNE": "Layayda ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUM ERRABII",
+    "NOM_ETABA": " الثانوية التأهيلية  ام الربيع",
+    "AdresseL": "sale laayayda ALMOHIT",
+    "AdresseA": "سلا العيايدة المحيط",
+    "COMMUNE": "Layayda ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AHMED CHAWKI",
+    "NOM_ETABA": " الثانوية التأهيلية أحمد شوقي",
+    "AdresseL": "HAY OUED EDDAHAB LAYAYDA",
+    "AdresseA": "حي واد الذهب العيايدة",
+    "COMMUNE": "Layayda ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN HANI",
+    "NOM_ETABA": " الثانوية التأهيلية إبن هاني",
+    "AdresseL": "HAY OUED EDDAHAB LAYAYDA",
+    "AdresseA": "حي واد الذهب العيايدة",
+    "COMMUNE": "Layayda ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AHMED ELHANSSALI",
+    "NOM_ETABA": " الثانوية التأهيلية أحمد الحنصالي",
+    "AdresseL": "lycee ahmed el hanssali layayda",
+    "AdresseA": "الثانوية التاهيلية احمد اتلحنصالي   العيايدة سلا",
+    "COMMUNE": "Layayda ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT ABDELHADI BOUTALEB",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الهادي بوطالب ",
+    "AdresseL": "lot SIDI ABDELLAH laayayda",
+    "AdresseA": "تجزئة سيدي عبد الله العيايدة",
+    "COMMUNE": "Layayda ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "la boussole",
+    "NOM_ETABA": "لابوسول",
+    "AdresseL": "lot sidi abdellah n 1450 laaya",
+    "AdresseA": "تجزئة سيدي عبد الله رقم 1450 ل",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DE L ENSEIGNEMENT NOUR AL OULOUM",
+    "NOM_ETABA": "مؤسسة التعليم الخاص نور العلوم",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة أرض العماني العيايدة سلا",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SELWAN",
+    "NOM_ETABA": "سلوان الخصوصية",
+    "AdresseL": "hay mouhit najah 3 route mehdi",
+    "AdresseA": "حي المحيط النجاح3 طريق مهدية",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BEN ZIDANE",
+    "NOM_ETABA": "ابن زيدان",
+    "AdresseL": "residence amine route base aer",
+    "AdresseA": "إقامة االأمين طريق القاعدة الج",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " GROUPE SCOLAIRE BOUSTANE AL OULOUME",
+    "NOM_ETABA": "مجموعة مدارس بستان العلوم",
+    "AdresseL": " n724 lot sidi abdellah laayay",
+    "AdresseA": "رقم 727 تجزئة سيدي عبد الله لع",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAAIME ALAKSAE",
+    "NOM_ETABA": "براعم الأقصى الخصوصية",
+    "AdresseL": "LA ROUTE DE LA BASE AERIENNE K",
+    "AdresseA": "طريق القاعدة الجوية الأولى كلم",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL ANWARE 3",
+    "NOM_ETABA": "مجموعة مدارس الأنوار 3 الخصوصية",
+    "AdresseL": "ROUTE BASE AERIENE AL HADIKA L",
+    "AdresseA": "طريق القاعدة الجوية مشروع الحد",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAZIRAT ALFIKR",
+    "NOM_ETABA": "جزيرة الفكر الخصوصية",
+    "AdresseL": "80 BASSATINE SALE ROUTE KENITR",
+    "AdresseA": "بساتين 80 سلا طريق القنيطرة سل",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL ANWARE 2",
+    "NOM_ETABA": "مجموعة مدارس الأنوار 2 الخصوصية",
+    "AdresseL": "route base aerienne projet had",
+    "AdresseA": "طريق القاعدة الجوية مشروع الحد",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BENDRISS",
+    "NOM_ETABA": "مجموعة مدارس ابن إدريس الخصوصية",
+    "AdresseL": "résidence hay najah 1 hay mouh",
+    "AdresseA": "إقامة حي النجاح 1 حي المحيط سل",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DE L'ASSOCIATION SPORTIVE DES FORCES ARMEES ",
+    "NOM_ETABA": "مجموعة مدارس الجمعية الرياضية للقوات المسلحة الملكية",
+    "AdresseL": "CENTRE SPORTIVE MILITAIRE MAAM",
+    "AdresseA": "المركز الرياضي العسكري معمورة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WORLD SCHOOL",
+    "NOM_ETABA": "وولد سكول",
+    "AdresseL": "lot salwa secteur majd laayayd",
+    "AdresseA": "تجزئة السلوى قطاع المجد لعيايد",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NG.MILLENIUM",
+    "NOM_ETABA": "الجيل الجديد ميلينيوم",
+    "AdresseL": "lot ard benacher lot 1773 et 1",
+    "AdresseA": "تجزئة أرض بنعاشر بقعة 1773 و 1",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL ANWARE",
+    "NOM_ETABA": "مجموعة مدارس الأنوار",
+    "AdresseL": "saffa6 maza laayayda salé",
+    "AdresseA": "صفاء 6 المازة لعيايدة سلا",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIYAD EL FIKR",
+    "NOM_ETABA": "رياض الفكر",
+    "AdresseL": "lot ahlam N° 35 laayayda",
+    "AdresseA": "رقـم 35 تجزئةا أحلام العيايدة",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRACHAD",
+    "NOM_ETABA": "الرشاد",
+    "AdresseL": " CITé BEAU SOLEIL Route de Ken",
+    "AdresseA": "تجزئة الشمس الجميلة طريق القني",
+    "COMMUNE": "Layayda",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

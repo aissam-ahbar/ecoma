@@ -1,0 +1,282 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial El Khawarizmi",
+    "NOM_ETABA": "الثانوية الإعدادية الخوارزمي",
+    "AdresseL": "tinghir",
+    "AdresseA": "تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collégial Al wafae",
+    "NOM_ETABA": "الثانوية الإعدادية الوفاء",
+    "AdresseL": "COMMUNE TINGHIR",
+    "AdresseA": "جماعة تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collégial Zaid Ouhmad",
+    "NOM_ETABA": "الثانوية الإعدادية زايد احماد",
+    "AdresseL": "TINGHIR CENTRE  ",
+    "AdresseA": "مركز تنغير ",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAGAMMASTE",
+    "NOM_ETABA": "م م تجماصت",
+    "AdresseL": "DOUAR TAGAMMASTE BP300TINGHIR OUARZAZATE",
+    "AdresseA": "دوار تجماصت ص ب 300 تنغيرت",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOUKHTARE ESSOUSSI",
+    "NOM_ETABA": "م.المختار السوسي",
+    "AdresseL": "BP 174 TINGHIR ",
+    "AdresseA": "ص ب 174 تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MADAIQUE",
+    "NOM_ETABA": "م.المضايق",
+    "AdresseL": "avenue mohamed 5 tinghir",
+    "AdresseA": "شارع محمد الخامس تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E  SIDI MSKOUR",
+    "NOM_ETABA": "م.سيدي مسكور",
+    "AdresseL": "MUNICIPALITE TINGHIR ",
+    "AdresseA": "بلدية تنغير ",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AIT OUJANA",
+    "NOM_ETABA": "م.ايت اجنا",
+    "AdresseL": "DOUAR AIT OUJANA TINGHIR ",
+    "AdresseA": "دوار ايت اجنا تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E  AFANOUR",
+    "NOM_ETABA": "م.افانور",
+    "AdresseL": "DOUAR AFANOUR TINGHIR OUARZAZATE",
+    "AdresseA": "دوار افانور",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E  TIKOUTARE",
+    "NOM_ETABA": "م.تيكوتار",
+    "AdresseL": " ecole tikoutare commune tinghir",
+    "AdresseA": "مدرسة تيكوتار بلدية تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E  TAOURIRTE NIMZILENE",
+    "NOM_ETABA": "م.توريرت نمزيلن",
+    "AdresseL": "TAOURIRTE NIMZILNE COMMUNE TINGHIR",
+    "AdresseA": "تاوريرت نمزيلن تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  HALLOUL",
+    "NOM_ETABA": "م.م حلول",
+    "AdresseL": "DOUAR HALLOUL TINGHIR OUARZAZATE",
+    "AdresseA": "دوار حلول",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E  EL WAFAA",
+    "NOM_ETABA": "م.الوفاء",
+    "AdresseL": "Hay Alwafa tinghir",
+    "AdresseA": "حي الوفاء، تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E.ibn sina",
+    "NOM_ETABA": "م.ابن سينا",
+    "AdresseL": "lottissement Majd 1",
+    "AdresseA": "تجزئة المجد 1",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  SALAH EDDINE EL AYYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الأيوبي",
+    "AdresseL": "MUNICIPALITE TINEGHIR",
+    "AdresseA": "بلدية تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBRAHIM IBN ADHAM",
+    "NOM_ETABA": "الثانوية التأهيلية ابراهيم بن أدهم",
+    "AdresseL": "TAOURIRTE TINGHIR ",
+    "AdresseA": "توريرت تنغير ",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT   ALMORABITIN ",
+    "NOM_ETABA": "الثانوية التأهيلية المرابطين",
+    "AdresseL": "tinghir ",
+    "AdresseA": "تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  SIDI MED BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية التأهيلية س. م. بن عبد الله",
+    "AdresseL": "AFANOUR TINGHIR ",
+    "AdresseA": " افانور تنغير  ",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED OUINDI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد ويندي",
+    "AdresseL": "lotissement almajd3 tinghir",
+    "AdresseA": "تجزئة المجد 3 القطب الحضري تنغير",
+    "COMMUNE": "Tinghir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "institut lameilleure",
+    "NOM_ETABA": "مؤسسة لاميور الخاصة ",
+    "AdresseL": "route tagoummaste",
+    "AdresseA": "طريق تجماصت ",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAHIRI2",
+    "NOM_ETABA": "طاهري 2",
+    "AdresseL": "lot.tichka n°3",
+    "AdresseA": "حي تيشكا رقم 03",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achbal raouassi",
+    "NOM_ETABA": "اشبال الرواسي",
+    "AdresseL": "159 LOTISSEMENT TICHKA",
+    "AdresseA": "  159  حي تشكا  رقم ",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASsLMED",
+    "NOM_ETABA": "أسلمد",
+    "AdresseL": "Av biranzaran 613 tinghir",
+    "AdresseA": "613 شارع بئر انزران تنغير",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHOSNA",
+    "NOM_ETABA": "الحسنى",
+    "AdresseL": "1rue taza tinghir",
+    "AdresseA": "رقم1 زنقة تازة",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TAHIRI",
+    "NOM_ETABA": "مؤسسة طاهيري",
+    "AdresseL": "n° 3 hay tichka tinghir",
+    "AdresseA": "رقم 3 حي تيشكا مركز تنغير ",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ROUASSI",
+    "NOM_ETABA": "مؤسسة الرواسي",
+    "AdresseL": "146 RUE HAY EDAKHLA HAY ELMASL",
+    "AdresseA": "رقم 146 حي الداخلة حي المصلى ",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Taibi",
+    "NOM_ETABA": "مؤسسة طايبي",
+    "AdresseL": "Lotissement El Ikhlasse - C. T",
+    "AdresseA": "تجزئة الإخلاص - ج. تنغير",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "première DOF",
+    "NOM_ETABA": "بروميير دوف",
+    "AdresseL": "",
+    "AdresseA": "رقم 38 حي الوفا تنغير",
+    "COMMUNE": "Tinghir ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

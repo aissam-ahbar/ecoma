@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YACOUB EL MANSOUR",
+    "NOM_ETABA": " الثانوية الإعدادية يعقوب المنصور",
+    "AdresseL": "COMMUNE JDOUR",
+    "AdresseA": "اجدور المركز",
+    "COMMUNE": "Jdour",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE JDOUR",
+    "NOM_ETABA": "مركزية اجدور",
+    "AdresseL": "COMMUNE JDOUR",
+    "AdresseA": "جماعة اجدور",
+    "COMMUNE": "Jdour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL MIDATE",
+    "NOM_ETABA": "مركزية الميدات",
+    "AdresseL": "DOUAR MIDATE COMMUNE JDOUR",
+    "AdresseA": "دوار الميدات ",
+    "COMMUNE": "Jdour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE LAHBABLA",
+    "NOM_ETABA": "مركزية لهبابلة",
+    "AdresseL": "DOUAR LAHBABLA COMMUNE jdour",
+    "AdresseA": "دوار لهبابلة جماعة اجدور ",
+    "COMMUNE": "Jdour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE KHANNOUFA",
+    "NOM_ETABA": "مركزية خنوفة",
+    "AdresseL": "ZAOUIAT KHANNOUFA COMMUNE JDOUR",
+    "AdresseA": "دوار خنوفة جماعة اجدور",
+    "COMMUNE": "Jdour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EZAZATE",
+    "NOM_ETABA": "مركزية الزازات",
+    "AdresseL": "DOUAR LAMDADHA",
+    "AdresseA": "دوار المدادحة",
+    "COMMUNE": "Jdour",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

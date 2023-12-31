@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE KSAR BJIR",
+    "NOM_ETABA": "الثانوية الإعدادية قصر بجير",
+    "AdresseL": "KSAR BJIR CENTRE",
+    "AdresseA": "اقصر ابجير المركز",
+    "COMMUNE": "Ksar Bjir",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " ECOLE EL MASSIRA EL KHADRA  GCHACHRA",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء القشاشرة  ",
+    "AdresseL": "DOUAR KCHACHRA COMMUNE KSAR BJIR",
+    "AdresseA": "دوار القشاشرة جماعة قصر بجير",
+    "COMMUNE": "Ksar Bjir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SS ELKHYAITA ",
+    "NOM_ETABA": "م/م الخيايطة",
+    "AdresseL": "DOUAR KHYAYTA COMMUNE KSAR BJIR",
+    "AdresseA": "دوار الخيايطة جماعة قصر بجير",
+    "COMMUNE": "Ksar Bjir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN MOASKAR CENTRE",
+    "NOM_ETABA": "م/م عين معسكر  المركزية",
+    "AdresseL": "DOUAR AIN MOASKAR COMMUNE KSAR BJIR",
+    "AdresseA": "دوار عين معسكر جماعة قصر بجير",
+    "COMMUNE": "Ksar Bjir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL  SRIMA CENTRE",
+    "NOM_ETABA": "م/م السريمة  المركزية ",
+    "AdresseL": "DOUAR SRIMA COMMUNE KSAR BJIR",
+    "AdresseA": "دوار السريمة جماعة قصر بجير",
+    "COMMUNE": "Ksar Bjir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BNANDA  CENTRE ",
+    "NOM_ETABA": "م/م البناندة  المركزية",
+    "AdresseL": "DOUAR LEBNANDA COMMUNE KSAR BJIR",
+    "AdresseA": "دوار البناندة جماعة قصر بجير",
+    "COMMUNE": "Ksar Bjir",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

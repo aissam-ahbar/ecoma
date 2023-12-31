@@ -1,0 +1,322 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BRAHIM ROUDANI",
+    "NOM_ETABA": "الثانوية الإعدادية ابراهيم الروداني",
+    "AdresseL": "ben msik",
+    "AdresseA": "ابن مسيك",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL ERRAHMANI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الرحماني",
+    "AdresseL": "Boulvard Al wahda Al Ifriquia ben msik",
+    "AdresseA": "شارع الوحدة الإفريقية",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAIR EL HAMRA",
+    "NOM_ETABA": "الثانوية الإعدادية شاعر الحمراء",
+    "AdresseL": "BOULEVARD ABDELLAH SENHAJI HAY IFRIQIA",
+    "AdresseA": "شارع عبد الله الصنهاجي حي افريقيا",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN KHALDOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية ابن خلدون",
+    "AdresseL": "HAY AHD EL JADID CITE DJEMAA",
+    "AdresseA": "حي العهد الجديد قرية الجماعة",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN HAZM",
+    "NOM_ETABA": "الثانوية الإعدادية ابن حزم",
+    "AdresseL": "BOULEVARD EL JOULANE COMMUNE DE BEN MSIK",
+    "AdresseA": "شارع الجولان مقاطعة ابن امسيك",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN PREMIER",
+    "NOM_ETABA": "المدرسة الابتدائية الحسن الأول",
+    "AdresseL": "QUARTIER EL HASSANIA BLOC 16",
+    "AdresseA": "حي الحسنية بلوك 16",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "المدرسة الابتدائية يوسف بن تاشفين",
+    "AdresseL": "AVENUE OUED ZEM HAY MOHAMED BELHASSANE ELOUAZANI",
+    "AdresseA": "حي محمد بلحسن الوزاني شارع وادي زم",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IKHOUANE ESSAFA",
+    "NOM_ETABA": "المدرسة الابتدائية إخوان الصفا",
+    "AdresseL": "AVENUE 6 NOVEMBRE EL AHD EL JADID",
+    "AdresseA": "شارع 6 نونبر العهد الجديد",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ERRAFII",
+    "NOM_ETABA": "المدرسة الابتدائية الرافعي",
+    "AdresseL": "RUE ECHAHID WALIDI ESSAGHIR HAY JAWADI",
+    "AdresseA": "زنقة الشهيد الوليدي الصغير حي جوادي",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LA PRINCESSE LALLA AICHA",
+    "NOM_ETABA": "المدرسة الابتدائية الأميرة للا عائشة",
+    "AdresseL": " HAY IFRIQUIA RUE CHAHID LWALID SAGHIR",
+    "AdresseA": "حي افريقيا زنقة الشهيد الوليد الصغير",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN SINA",
+    "NOM_ETABA": "المدرسة الابتدائية ابن سينا",
+    "AdresseL": "HAY AL MANSOUR  RUE 1 IBN MSIK",
+    "AdresseA": "حي المنصور زنقة 1 ابن امسيك",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZAYDOUNE",
+    "NOM_ETABA": "المدرسة الابتدائية ابن زيدون",
+    "AdresseL": "JAMILA I RUE 6 CITE DJEMAA",
+    "AdresseA": "جميلة 1 زنقة 6 قرية الجماعة",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HOUMMANE EL FATOUAKI",
+    "NOM_ETABA": "المدرسة الابتدائية حمان الفطواكي",
+    "AdresseL": "BOULEVARD MOHAMED VI DERB EL KOUDIA CITE DJEMAA",
+    "AdresseA": "شارع محمد السادس  درب الكدية قرية الجماعة",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HALIMA ES SAADIA",
+    "NOM_ETABA": "المدرسة الابتدائية حليمة السعدية",
+    "AdresseL": "CITE DJEMAA BEN MSIK",
+    "AdresseA": "قرية الجماعة ابن امسيك",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY EL HASSAN",
+    "NOM_ETABA": "المدرسة الابتدائية مولاي الحسن",
+    "AdresseL": "HAY ARTISANA N 10",
+    "AdresseA": "حي ارتزانا رقم 10",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU EL KASSIM ECHABBI",
+    "NOM_ETABA": "المدرسة الابتدائية أبو القاسم الشابي",
+    "AdresseL": "CITE DJEMAA BEN MSIK",
+    "AdresseA": "قرية الجماعة ابن امسيك",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JAMAL EDDINE EL AFGHANI",
+    "NOM_ETABA": "المدرسة الابتدائية جمال الدين الأفغاني",
+    "AdresseL": "DARB FRIHA  BEN MSIK   ",
+    "AdresseA": "درب افريحة  ابن امسيك",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BADR",
+    "NOM_ETABA": "المدرسة الابتدائية بدر",
+    "AdresseL": "RUE BENSAID SALEH CITE DJEMAA",
+    "AdresseA": "زنقة بنسعيد صالح قرية الجماعة",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR BEN ABDEL AZIZ",
+    "NOM_ETABA": "المدرسة الابتدائية عمر بن عبد العزيز",
+    "AdresseL": "JAMILA I RUE 6",
+    "AdresseA": "جميلة 1 زنقة 6",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED EL HADDAOUI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الحداوي",
+    "AdresseL": "HAY MOHAMMED BELHASSAN EL OUAZZANI RUE 71",
+    "AdresseA": "حي محمد بلحسن الوزاني الزنقة 71",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED ERRACHIDI",
+    "NOM_ETABA": "المدرسة الابتدائية أحمد الراشدي",
+    "AdresseL": "RUE ECHAHID EL OUALIDI SAGHIR HAY JAWADI",
+    "AdresseA": "حي جوادي زنقة الشهيد الوليدي الصغير",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ECH CHARIF EL IDRISSI",
+    "NOM_ETABA": "الثانوية التأهيلية الشريف الإدريسي",
+    "AdresseL": "HAY MD BELHASSANE EL OUAZZANI BD UNION AFRICAINE",
+    "AdresseA": "حي محمد بلحسن الوزاني شارع الوحدة الإفريقية",
+    "COMMUNE": "Ben M'Sick ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN MSIK",
+    "NOM_ETABA": "الثانوية التأهيلية ابن امسيك",
+    "AdresseL": "HAY MD BEN LAHSSANE EL OUAZZANI",
+    "AdresseA": "حي محمد بلحسن الوزاني",
+    "COMMUNE": "Ben M'Sick ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU CHOUAIB EDDOUKKALI",
+    "NOM_ETABA": "الثانوية التأهيلية أبو شعيب الدكالي",
+    "AdresseL": "BD AL JOULANE",
+    "AdresseA": "شارع الجولان",
+    "COMMUNE": "Ben M'Sick ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "EL BAHRAOUI",
+    "NOM_ETABA": "البحراوي الخصوصية",
+    "AdresseL": "42,BD ECHAHID EL OUALIDI SGHIR",
+    "AdresseA": "42،شارع الوليدي الصغير، حي افر",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PRIX NOBEL",
+    "NOM_ETABA": "جائزة نوبل الخصوصية",
+    "AdresseL": "LOTISSEMEN TISSIR QUARTIER MOH",
+    "AdresseA": "تجزئة التيسير حي محمد بلحسن ال",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES EXPERTS",
+    "NOM_ETABA": "الخبراء الخصوصية",
+    "AdresseL": "HAY IFRIQUIA RUE 42 N°6",
+    "AdresseA": "حي افريقيا الزنقة 42 الرقم 6",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSALAHE",
+    "NOM_ETABA": "مدرسة الصلاح الخاصة",
+    "AdresseL": "N 24 BLOC 5 Cité Djamaa",
+    "AdresseA": "رقم 24، بلوك 5، قرية الجماعة",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AHRAM",
+    "NOM_ETABA": "الأهرام الخصوصية",
+    "AdresseL": "Bd RIDA GUDIRA N 3 et 7 CASABL",
+    "AdresseA": "شارع رضى اكديرة، رقم 3 و 7 الد",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTAHDIB",
+    "NOM_ETABA": "التهذيب الخصوصية",
+    "AdresseL": "BLOC 14 N 15 CASABLANCA",
+    "AdresseA": "بلوك 14، رقم 15، الدار البيضاء",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAY EL JAMAA",
+    "NOM_ETABA": "حي الجماعة الخصوصية",
+    "AdresseL": "1 BLOC 10 CITE DJEMAA",
+    "AdresseA": "رقم 1، بلوك 10، قرية الجماعة ا",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE KOUTOUBIA",
+    "NOM_ETABA": "ثانوية الكتبية الخاصة",
+    "AdresseL": "RUE 22, N° 37, Hay othmania CA",
+    "AdresseA": "زنقة 22، رقم 37، حي العثمانية ",
+    "COMMUNE": "Ben M'Sick",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

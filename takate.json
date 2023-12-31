@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE MEHDI BEN BARKA",
+    "NOM_ETABA": "اعدادية المهدي بن بركة",
+    "AdresseL": "TAKATE",
+    "AdresseA": "تكاط",
+    "COMMUNE": "Takate",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S AL QUADI AYAD   ",
+    "NOM_ETABA": "م.م. القاضي عياض",
+    "AdresseL": "DOUAR ELBBIHAT TAKAT",
+    "AdresseA": "دوار البيهات جماعة تكاط",
+    "COMMUNE": "Takate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IMMAM MALIK          ",
+    "NOM_ETABA": "م.م. الأمام مالك",
+    "AdresseL": "DOUAR KHLIJ JAOUCH TAKAT",
+    "AdresseA": " دوار خليج جوش تكاط",
+    "COMMUNE": "Takate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULAD HASSAN",
+    "NOM_ETABA": "م.م. أولاد حسان",
+    "AdresseL": "DOUAR LAKRAYM COMMUNE TAKAT",
+    "AdresseA": "دوار لكرايم جماعة تكاط",
+    "COMMUNE": "Takate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S KHMISS TAKAT",
+    "NOM_ETABA": "م م خميس تكاط",
+    "AdresseL": "DOUAR sidi mhammed elmaati TAKAT  ",
+    "AdresseA": "دوار سيدي امحمد المعطي تكاط",
+    "COMMUNE": "Takate",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "ABDELLAH BEN YASSINE",
+    "NOM_ETABA": "عبد الله بن ياسين",
+    "AdresseL": "ROMMANI CENTRE",
+    "AdresseA": "الرماني المركز",
+    "COMMUNE": "Rommani",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUKBA BEN NAFIE",
+    "NOM_ETABA": "عقبة بن نافع",
+    "AdresseL": "ROMmANI CENTRE",
+    "AdresseA": "الرماني المركز",
+    "COMMUNE": "Rommani",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AICHA SEDDIKIA",
+    "NOM_ETABA": "عائشة الصديقية",
+    "AdresseL": "QUARTIER ADMINISTRATIF",
+    "AdresseA": "الحي الاداري",
+    "COMMUNE": "Rommani",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANOUAL",
+    "NOM_ETABA": "انوال",
+    "AdresseL": "HAY SIDI MANSOUR",
+    "AdresseA": "حي سيدي منصور",
+    "COMMUNE": "Rommani",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNAHDA",
+    "NOM_ETABA": "النهظة",
+    "AdresseL": "ROMMANI CENTRE",
+    "AdresseA": "الرماني المركز",
+    "COMMUNE": "Rommani",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KHAWARIZMI",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "hay nahda2  rommani",
+    "AdresseA": "حي النهضة  2 الرماني",
+    "COMMUNE": "Rommani",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMAN ZAKI",
+    "NOM_ETABA": "عبد الرحمان الزاكي",
+    "AdresseL": "BP 130 ROMMANI MUNICIPALITE ROMMANI",
+    "AdresseA": "ص ب 130 الرماني",
+    "COMMUNE": "Rommani",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

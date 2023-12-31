@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SI ABD LAKRIM CENTRE",
+    "NOM_ETABA": "مركزية سيدي عبد الكريم",
+    "AdresseL": "DOUAR LEGHZAOUNA COMMUNE sidi abdelkarim",
+    "AdresseA": "دوار لغزاونة جماعة سيدي عبد الكريم",
+    "COMMUNE": "Sidi Abdelkrim",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZOUAIR CENTRE",
+    "NOM_ETABA": "مركزية الزواير",
+    "AdresseL": "DOUAR zouair COMMUNE sidi abdelkarim",
+    "AdresseA": "دوار الزواير.جماعة سيدي عبدالكريم",
+    "COMMUNE": "Sidi Abdelkrim",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " AIN LEKHMIS CENTRE",
+    "NOM_ETABA": "مركزية عين الخميس",
+    "AdresseL": "AIN LAHJAR  COMMUNE SIDI ABDELKARIM",
+    "AdresseA": "عين الحجر جماعة سيدي عبد الكريم",
+    "COMMUNE": "Sidi Abdelkrim",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

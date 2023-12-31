@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM AL GHAZALI",
+    "NOM_ETABA": "الثانوية الاعدادية الإمام الغزالي ",
+    "AdresseL": "TAGRIRTE GOURRAMA",
+    "AdresseA": "تاكريرت كرامة",
+    "COMMUNE": "Gourrama",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUED DAHAB",
+    "NOM_ETABA": "مدرسة واد الدهب  ",
+    "AdresseL": "CENTRE GOURRAMA",
+    "AdresseA": "كرامة المركز",
+    "COMMUNE": "Gourrama",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGURIRTE S S ALHOUZA",
+    "NOM_ETABA": " م م الحوزة تاكريرت",
+    "AdresseL": "KSAR TAGRIRTE GOURRAMA RICH",
+    "AdresseA": "قصر تكريت كرامة الريش",
+    "COMMUNE": "Gourrama",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIOUZAGUINE",
+    "NOM_ETABA": "توزاكين",
+    "AdresseL": "KSAR TIOUZAGUINE GOURRAMA RICH",
+    "AdresseA": "قصر توزاكين كرامة الريش",
+    "COMMUNE": "Gourrama",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIZI OUILALNE",
+    "NOM_ETABA": "تيزي ويلالن",
+    "AdresseL": "KSAR TIZI OUILALEN GOURRAMA RICH",
+    "AdresseA": "تيزي ويلالن كرامة",
+    "COMMUNE": "Gourrama",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUAHATE GUIR",
+    "NOM_ETABA": "مدرسة واحة كير",
+    "AdresseL": "GOURRAMA",
+    "AdresseA": "كرامة",
+    "COMMUNE": "Gourrama",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT SAID OU AMER",
+    "NOM_ETABA": "ايت سعيد اعمر",
+    "AdresseL": "AIT SAID OU AMER",
+    "AdresseA": "ايت سعيد اعمر",
+    "COMMUNE": "Gourrama",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TARIK IBNOU ZIYAD",
+    "NOM_ETABA": "الثانوية التأهيلية طارق بن زياد ",
+    "AdresseL": "CENTRE GUORRAMA",
+    "AdresseA": "مركز كرامة",
+    "COMMUNE": "Gourrama",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

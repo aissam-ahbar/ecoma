@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BRAKSA",
+    "NOM_ETABA": "الثانوية الاعدادية البراكسة",
+    "AdresseL": "COMMUNE BRAKSA",
+    "AdresseA": "جماعة البراكسة دائرة وادي زم",
+    "COMMUNE": "Braksa",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS DCHAR BRAKSA",
+    "NOM_ETABA": "م/م دشر البراكسة",
+    "AdresseL": "DOUAR LAQRADDA COMMUNE BRAKSA",
+    "AdresseA": "دوار  لكرادة",
+    "COMMUNE": "Braksa",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BIAR JDAD",
+    "NOM_ETABA": "م/م بيار الجداد",
+    "AdresseL": "DOUAR OULAD ALI braksa SMAALA cercle oued zem",
+    "AdresseA": "دوار أولاد علي جماعة البراكسة السماعلة وادي زم",
+    "COMMUNE": "Braksa",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

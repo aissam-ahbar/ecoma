@@ -1,0 +1,312 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID EL BOUHALI BEN EL KAID",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد البوهالي بن القائد",
+    "AdresseL": "CENTRE COMMUNE OULED AZZOUZCERCLE KHOURIBGA",
+    "AdresseA": "مركز  جماعة  اولاد  عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNO ZOHER",
+    "NOM_ETABA": "الثانوية الإعدادية ابن زهر",
+    "AdresseL": "ouled azzOuz",
+    "AdresseA": "اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHNATA BANT BAKKAR",
+    "NOM_ETABA": "الثانوية الإعدادية خناتة بنت بكار",
+    "AdresseL": "oulad Azzouz",
+    "AdresseA": "اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKHALEK ETTOURESS",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الخالق الطريس",
+    "AdresseL": "bassatine errahma oulad azzouz",
+    "AdresseA": "بساتين الرحمة اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SOUK KHEMISS",
+    "NOM_ETABA": "م/م سوق الخميس",
+    "AdresseL": "DOUAR OULED CHAOUI SOUK KHEMIS COMMUNE OULED AZZOU",
+    "AdresseA": "  اولاد  الشاوي اولاد عزوزدائرة خريبكة",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED AZZOUZ",
+    "NOM_ETABA": "م/م أولاد عزوز",
+    "AdresseL": "DOUAR OULED AMER COMMUNE OULED AZZOUZ",
+    "AdresseA": "دوار  اولاد  اعمر",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KHIARATE",
+    "NOM_ETABA": "م/م الخيارات",
+    "AdresseL": "DOUAR OULED ECHcHAOUI COM OULAD AZZOUZ",
+    "AdresseA": "دوار  اولاد  الشاوي ج ا ولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAAYOUNE ",
+    "NOM_ETABA": "م.م  العيون",
+    "AdresseL": "DOUAR OULAD AZZOUZ",
+    "AdresseA": "دوار أولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ELBOUHALI MASTOUR",
+    "NOM_ETABA": "م. البوهالي مستور",
+    "AdresseL": "ROUTE AZEMOUR ECHCHATEIA KM 22",
+    "AdresseA": "طريق ازمور الشاطئية  كلم 22",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E LAHROUCH",
+    "NOM_ETABA": "م. لحروش",
+    "AdresseL": "douar Lahrouch Dar Bouazza Nouaceur ",
+    "AdresseA": "دوار لحروش جماعة اولاد عزوز النواصر",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OULED AZZOUZ",
+    "NOM_ETABA": "م. اولاد عزوز",
+    "AdresseL": "ROUTE   EL JADIDA KM 16",
+    "AdresseA": "كلم 16 طريق الجديدة",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ZAYNAB ANNAFZAOUYA",
+    "NOM_ETABA": "م. زينب النفزاوية",
+    "AdresseL": "KM 22 MEKLEA BEN ABID",
+    "AdresseA": "كلم 22 مقلع بنعبيد",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR CHEIKH",
+    "NOM_ETABA": "م.م دار الشيخ",
+    "AdresseL": "ROUTE MOULAY THAMI oulad azzouz nouaCeur",
+    "AdresseA": "طريق مولاي التهامي  كلم 12  دار بوعزة",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OULED ABBOU",
+    "NOM_ETABA": "م. اولاد عبو",
+    "AdresseL": "ROUTE MOULAY THAMI KM 10 commune oulad azzouz",
+    "AdresseA": "طريق مولاي التهامي  كلم 10 جماعة أولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOUSSA IBNOU NOUSSAYR",
+    "NOM_ETABA": "م. موسى بن نصير",
+    "AdresseL": "douar ouled abbou",
+    "AdresseA": "دوار اولاد عبو",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ALI BNOU ABI TALIB",
+    "NOM_ETABA": "م. علي بن أبي طالب",
+    "AdresseL": "DOUAR FOQARA CommUNE OULAD AZZOUZ NOUACEUR",
+    "AdresseA": "دوار الفقراء جماعة أولاد عزوز عمالة إقليم النواصر ",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HASSAN SAFI EDINE",
+    "NOM_ETABA": "م. حسن صفي الدين",
+    "AdresseL": "douar hart hamry c oulad azzouz",
+    "AdresseA": "دوار  حارت حمري ج اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOUHAMED ABED ALJABRI",
+    "NOM_ETABA": "م. محمد عابد الجابري",
+    "AdresseL": "ouled azzouze",
+    "AdresseA": "اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OMAR BNOU ABDELAZIZ",
+    "NOM_ETABA": "م. عمر بن عبد العزيز",
+    "AdresseL": "  douar ouled amare commune ouled azzouz",
+    "AdresseA": "دوار اولاد  عمرو جماعة اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MALIKA ELFASSI",
+    "NOM_ETABA": "م. مليكة الفاسي",
+    "AdresseL": "bassatine errahma oulad azzouz",
+    "AdresseA": "بساتين الرحمة اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OMAR IBNOU ALKHATTAB",
+    "NOM_ETABA": "م. عمر بن الخطاب",
+    "AdresseL": "bassatine errahma oulad azzous",
+    "AdresseA": "بساتين الرحمة اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABD ELWAHED ELMORRAKECHI",
+    "NOM_ETABA": "م. عبد الواحد المراكشي",
+    "AdresseL": "BASATINE ERRAHMA COMMUNE OULAD AZZOUZE",
+    "AdresseA": "بساتين الرحمة جماعة اولاد عزوز ",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ACHARIF ELIDRISSI",
+    "NOM_ETABA": "م. الشريف الادريسي",
+    "AdresseL": "oulad azzouz",
+    "AdresseA": "اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ALFARAH",
+    "NOM_ETABA": "م. الفرح",
+    "AdresseL": "FADAAT ESSAADA OULED AZZOUZ",
+    "AdresseA": "فضاءات السعادة اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OMAR AL KHAYAM",
+    "NOM_ETABA": "م. عمر الخيام",
+    "AdresseL": "DOUAR ALFOQRA",
+    "AdresseA": "دوار الفقرا",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNO KHAFAJA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن خفاجة",
+    "AdresseL": "bassatine errahma  oulad azouz",
+    "AdresseA": "بساتين الرحمة اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ecole benkiranee",
+    "NOM_ETABA": "مؤسسة بنكيران",
+    "AdresseL": "263 fadaat al mohit1 oualad az",
+    "AdresseA": "تجزئة فضاءات المحيط 1 رقم 263 ",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole le Roussillon",
+    "NOM_ETABA": "مؤسسة لروسيون الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "بقعة رقم 63 المنطقة الصناعية ل",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "doha errahma 2",
+    "NOM_ETABA": "ضحى الرحمة 2",
+    "AdresseL": "",
+    "AdresseA": "تجزئة المحيط الشطر 5  ",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN HANBAL SCHOOL",
+    "NOM_ETABA": "ابن حنبل سكول",
+    "AdresseL": "LOTISSEMENT AL MOHITE TRANCHE ",
+    "AdresseA": "تجزئة المحيط 1 حي السعادة اولا",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NEW DOUVILLE",
+    "NOM_ETABA": "نيو دوفيل",
+    "AdresseL": "Douar Mahfoud Fouqra ouled Azz",
+    "AdresseA": "دوار محفوظ الفقرة اولاد عزوز",
+    "COMMUNE": "Oulad Azzouz",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

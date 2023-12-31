@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL L KASTALANI",
+    "NOM_ETABA": "ثانوية القسطلاني الإعدادية ",
+    "AdresseL": "DOUAR BNI YAKHLEF COMMUNE SANIAT BERGUIG",
+    "AdresseA": "دوار بني يخلف جماعة سانية بركيك",
+    "COMMUNE": "Saniat Berguig",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BNI YAKHLEF",
+    "NOM_ETABA": "بني يخلف",
+    "AdresseL": "DOUAR OULED BOUHMID COMMUNE SANIAT BERGUIG",
+    "AdresseA": "دوار اولاد بوحميد جماعة سانية بركيك",
+    "COMMUNE": "Saniat Berguig",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SANIAT BERGUIG",
+    "NOM_ETABA": "سانية بركيك",
+    "AdresseL": "centre rural BERGUIG COMMUNE SANIAT BERGUIG",
+    "AdresseA": "مركز بركيك",
+    "COMMUNE": "Saniat Berguig",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BOUAANANE",
+    "NOM_ETABA": "اولاد بوعنان",
+    "AdresseL": "DOUAR DRABLA COMMUNE SANIAT BERGUIG ZMAMERA",
+    "AdresseA": "دوار الدرابلة جماعة سانية بركيك الزمامرة",
+    "COMMUNE": "Saniat Berguig",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHMALCHA",
+    "NOM_ETABA": "الخمالشة",
+    "AdresseL": "DOUAR LAAMARNIA COMMUNE SANIAT BERGUIG",
+    "AdresseA": "دوار العمارنية",
+    "COMMUNE": "Saniat Berguig",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "DOUAR LAHSASNA COMMUNE SANIAT BERGUIG",
+    "AdresseA": "دوار لحساسنة جماعة سانية بركيك",
+    "COMMUNE": "Saniat Berguig",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKRADLA",
+    "NOM_ETABA": "لقرادلة",
+    "AdresseL": "DOUAR LAKRADLA COMMUNE SANIAT BERGUIG",
+    "AdresseA": "دوارلقرادلة",
+    "COMMUNE": "Saniat Berguig",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 11 JANVIER",
+    "NOM_ETABA": "ثانوية 11 يناير التأهيلية",
+    "AdresseL": "Commune rurale Saniat Berguig",
+    "AdresseA": "الجماعة القروية سانية بركيك",
+    "COMMUNE": "Saniat Berguig",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

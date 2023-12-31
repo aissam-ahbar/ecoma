@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "AIN KANSARA CENTRE",
+    "NOM_ETABA": "عين قنصرة المركز",
+    "AdresseL": "COMMUNE AIN KANSARA",
+    "AdresseA": "مركز جماعة عين قنصرة",
+    "COMMUNE": "Ain Kansra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MASDOURA CENTRE",
+    "NOM_ETABA": "مسدورة المركز",
+    "AdresseL": "AOULAD HADJ AL WADI MESDOURA  AIN KANSARA",
+    "AdresseA": "اولاد الحاج الوادي مسدورة",
+    "COMMUNE": "Ain Kansra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABD EL KARIME EL KHATABI CENTRE",
+    "NOM_ETABA": "عبد الكريم الخطابي المركز",
+    "AdresseL": "DOUAR BELGROUNE COMMUNE AIN KANSARA",
+    "AdresseA": "دوار بلكرون  عين قنصرة",
+    "COMMUNE": "Ain Kansra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN BOUMARCHAD CENTRE",
+    "NOM_ETABA": "عين بومرشد المركز",
+    "AdresseL": "DOUAR AIN BOUMERCHAD COMMUNE AIN KANSARA",
+    "AdresseA": "عين بومرشد عين قنصرة",
+    "COMMUNE": "Ain Kansra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANNAJAH",
+    "NOM_ETABA": "مدرسة النجاح",
+    "AdresseL": "Commune ain kansara",
+    "AdresseA": "جماعة عين قنصرة",
+    "COMMUNE": "Ain Kansra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ANOUAL",
+    "NOM_ETABA": "الثانوية التأهيلية أنوال",
+    "AdresseL": "CENTRE DE LA COMMUNE AIN KANSARA",
+    "AdresseA": "مركز جماعة عين قنصرة",
+    "COMMUNE": "Ain Kansra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TANANT",
+    "NOM_ETABA": "ثانوية تنانت الاعدادية",
+    "AdresseL": "centre commune tanant",
+    "AdresseA": "مركز جماعة تنانت",
+    "COMMUNE": "Tanant",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE TANANAT",
+    "NOM_ETABA": "مركزية تنانت",
+    "AdresseL": "CENTRE DE TANANT",
+    "AdresseA": "تجزئة اوزود تنانت المركز",
+    "COMMUNE": "Tanant",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT OUMRASSE",
+    "NOM_ETABA": "مركزية آيت امراس",
+    "AdresseL": "DOUAR AIT OUMRASSE",
+    "AdresseA": "دوار ايت امراس ",
+    "COMMUNE": "Tanant",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT NESS",
+    "NOM_ETABA": "مركزية آيت النص",
+    "AdresseL": "DOUAR AIT NESS ",
+    "AdresseA": "دوار ايت النص ",
+    "COMMUNE": "Tanant",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EZARKTOUNI ",
+    "NOM_ETABA": "ثانوية الزرقطوني التأهيلية",
+    "AdresseL": "TANANT CENTRE",
+    "AdresseA": "تنانت المركز",
+    "COMMUNE": "Tanant",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "E TALIOUINE AL KASBA",
+    "NOM_ETABA": "م. تالوين القصبة",
+    "AdresseL": "CITE CENTRE MUNICIPALITE TALIOUINE",
+    "AdresseA": "بلدية  تالوين",
+    "COMMUNE": "Taliouine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MHANNED OUBRAHIM YAAKOUBI",
+    "NOM_ETABA": "م.م امحند أبراهيم اليعقوبي",
+    "AdresseL": "MUNICIPALITE TALIOUINE",
+    "AdresseA": "بلدية تالوين",
+    "COMMUNE": "Taliouine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L MOHAMED VI",
+    "NOM_ETABA": "ثأ. محمد السادس",
+    "AdresseL": "CENTRE TALIOUINE MUNICIPALITE TALIOUINE",
+    "AdresseA": "مركز تالوين",
+    "COMMUNE": "Taliouine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L IBN MAJA",
+    "NOM_ETABA": "ثأ. ابن ماجة",
+    "AdresseL": "MUNICIPALITE TALIOUINE",
+    "AdresseA": "بلدية تالوين",
+    "COMMUNE": "Taliouine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "al airfane",
+    "NOM_ETABA": "مؤسسة العرفان",
+    "AdresseL": "NULL",
+    "AdresseA": "تابية الجديدة",
+    "COMMUNE": "Taliouine ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

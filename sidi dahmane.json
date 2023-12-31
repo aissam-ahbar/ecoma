@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS OMAR ELKHIAM",
+    "NOM_ETABA": "م.م عمر الخيام",
+    "AdresseL": "DOUAR  DAR TALEB sidi dahmane",
+    "AdresseA": "د. دار الطالب",
+    "COMMUNE": "Sidi Dahmane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LES COPERATIVES",
+    "NOM_ETABA": "م.م التعاونيات",
+    "AdresseL": "COPERATIVE CHABAB CSIDI DAHMAN",
+    "AdresseA": "تعاونية الشباب  جماعة سيدي دحمان",
+    "COMMUNE": "Sidi Dahmane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABO AL ABBAS ESSABTI",
+    "NOM_ETABA": "مدرسة أبو العباس السبتي",
+    "AdresseL": "SIDI DAHMANE",
+    "AdresseA": "سيدي دحمان",
+    "COMMUNE": "Sidi Dahmane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "naima",
+    "NOM_ETABA": "naima",
+    "AdresseL": "NULL",
+    "AdresseA": "تعاونية السعادة جماعة سيدي دحم",
+    "COMMUNE": "Sidi Dahmane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

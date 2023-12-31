@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "HOUDERRANE",
+    "NOM_ETABA": "حودران",
+    "AdresseL": "COMMUNE HOUDERRANE",
+    "AdresseA": "جماعة حودران",
+    "COMMUNE": "Houderrane",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ATTAHRIR",
+    "NOM_ETABA": "التحرير",
+    "AdresseL": "JEMAA HOUDERRANE CENTRE COMMUNE HOUDERRANE",
+    "AdresseA": "جمعة حودران المركز ج حودران",
+    "COMMUNE": "Houderrane",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JANATANE",
+    "NOM_ETABA": "جناتن",
+    "AdresseL": "DOUAR JANATANE COMMUNE HOUDERRANE",
+    "AdresseA": "دوار جناتن ج حودران",
+    "COMMUNE": "Houderrane",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

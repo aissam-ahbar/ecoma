@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE JABIR IBN HAYANE",
+    "NOM_ETABA": " الثانوية الإعدادية جابر بن حيان",
+    "AdresseL": "SOUK AAM",
+    "AdresseA": "سوق عام",
+    "COMMUNE": "Sidi Ishaq",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S AL MANNASSIR",
+    "NOM_ETABA": "م.م.  المناصير",
+    "AdresseL": "centre SOUK AAME COMMUNE  SIDI ISHAQ",
+    "AdresseA": "مركز سوق عام جماعة سيدي إسحاق",
+    "COMMUNE": "Sidi Ishaq",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S MOHAMMED AABID ELJABIRI",
+    "NOM_ETABA": "م م محمد عابد الجابري",
+    "AdresseL": "DOUAR OULAD MANSOUR 2 SIDI ISHAQ",
+    "AdresseA": "دوار اولاد منصور",
+    "COMMUNE": "Sidi Ishaq",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S DHAMNA",
+    "NOM_ETABA": "م م الدحامنة",
+    "AdresseL": "DOUAR DHAMNA SIDI ISHAQ",
+    "AdresseA": "دوار الخبابزة جماعة سيدي اسحاق",
+    "COMMUNE": "Sidi Ishaq",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

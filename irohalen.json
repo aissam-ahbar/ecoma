@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "TAMAROUT",
+    "NOM_ETABA": "تماروت",
+    "AdresseL": "DOUAR TAMAROUT COMMUNE IROHALEN",
+    "AdresseA": "دوار تماروت جماعة اروهالن",
+    "COMMUNE": "Irohalen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ROUHALA",
+    "NOM_ETABA": "روهالة",
+    "AdresseL": "DOUAR ROUHALA COMMUNE IROHALEN",
+    "AdresseA": "دوار روهالة ",
+    "COMMUNE": "Irohalen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMEZNASSE",
+    "NOM_ETABA": "امزناس",
+    "AdresseL": "DOUAR AMEZNASSE COMMUNE IROHALEN",
+    "AdresseA": "دوار امزناس -جماعة إروهالن",
+    "COMMUNE": "Irohalen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAJGALTE",
+    "NOM_ETABA": "تجكالت",
+    "AdresseL": "DOUAR TAJGALTE COMMUNE IROHALEN",
+    "AdresseA": "دوار  تجكالت جماعة اروهالن",
+    "COMMUNE": "Irohalen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

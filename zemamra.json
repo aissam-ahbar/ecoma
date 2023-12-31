@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين الإعدادية",
+    "AdresseL": "HAY ESSALAM",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Zemamra",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "ثانوية علال بن عبد الله الإعدادية ",
+    "AdresseL": "QUARTIER ADMINISTRATIF",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Zemamra",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRALE ZEMAMRA",
+    "NOM_ETABA": "مركزية الزمامرة",
+    "AdresseL": "CITE ADMINISTRATIVE ZEMAMRA",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Zemamra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OKBA IBN NAFII",
+    "NOM_ETABA": "عقبة بن نافع",
+    "AdresseL": "MUNICPALITE DE ZEMAMRA",
+    "AdresseA": "بلدية الزمامرة",
+    "COMMUNE": "Zemamra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FADILA",
+    "NOM_ETABA": "الفضيلة",
+    "AdresseL": "MUNICPALITE DE ZEMAMRA",
+    "AdresseA": "بلدية الزمامرة",
+    "COMMUNE": "Zemamra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT OMAR IBN ABDELAZIZ",
+    "NOM_ETABA": "  ثانوية عمر بن عبدالعزيز التأهيلية ",
+    "AdresseL": "MUNICIPALITE DE ZEMAMRA",
+    "AdresseA": "بلدية الزمامرة",
+    "COMMUNE": "Zemamra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ENNASR",
+    "NOM_ETABA": "ثانوية النصر التأهيلية",
+    "AdresseL": "ZMAMRA",
+    "AdresseA": "الزمامرة",
+    "COMMUNE": "Zemamra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "G/S KOnouz ALILM",
+    "NOM_ETABA": "مجموعة مدارس كنوز العلم",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة البديل الزمامرة",
+    "COMMUNE": "Zemamra ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole manbaa al maarifae",
+    "NOM_ETABA": "مدرسة منبع المعرفة للتعليم الخصوصي",
+    "AdresseL": "N° 151 hay chabab  zemAmra",
+    "AdresseA": "الرقم 151 حي الشباب الزمامرة",
+    "COMMUNE": "Zemamra ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Taousse",
+    "NOM_ETABA": "مدرسة الطاووس الخاصة",
+    "AdresseL": "cité Sucrerie Zemamra",
+    "AdresseA": "الحي  السكري  بالزمامرة",
+    "COMMUNE": "Zemamra ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

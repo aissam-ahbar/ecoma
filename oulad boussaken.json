@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OULED NASSER",
+    "NOM_ETABA": "اولاد ناصر",
+    "AdresseL": "DOUAR EL MDADHA COMMUNE OULED BOUSSAKEN",
+    "AdresseA": "دوار المدادحة ج اولاد بوساكن",
+    "COMMUNE": "Oulad Boussaken",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAFOUATITE",
+    "NOM_ETABA": "لفواطيط",
+    "AdresseL": "DOUAR LAFOUATITE COMMUNE OULED BOUSSAKEN",
+    "AdresseA": "دوار لفواطيط ج اولاد بوساكن",
+    "COMMUNE": "Oulad Boussaken",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMROU MOUSSA",
+    "NOM_ETABA": "عمر وموسى",
+    "AdresseL": "DOUAR AMRO MOUSSA COMMUNE OULED BOUSSAKEN",
+    "AdresseA": "دوار عمر وموسى ج اولاد بوساكن",
+    "COMMUNE": "Oulad Boussaken",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "OULED ABDELLAH MOUSSA CENTRE",
+    "NOM_ETABA": "اولاد عبد الله موسى المركز",
+    "AdresseL": "DOUAR OULED ABDELLAH MOUSSA COMMUNE BNI LENT",
+    "AdresseA": "دوار اولاد عبد الله موسى جماعة بني لنت",
+    "COMMUNE": "Bni Lent",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI LENT CENTRE",
+    "NOM_ETABA": "بني لنت المركز",
+    "AdresseL": "BNI LENT CENTRE COMMUNE BNI LENT",
+    "AdresseA": "بني لنت المركز جماعة بني لنت",
+    "COMMUNE": "Bni Lent",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAB SEBT CENTRE",
+    "NOM_ETABA": "باب السبت المركز",
+    "AdresseL": "DOUAR BAB SEBT COMMUNE BNI LENT",
+    "AdresseA": "دوار باب السبت جماعة بني لنت",
+    "COMMUNE": "Bni Lent",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OKBA BNOU NAFIAA",
+    "NOM_ETABA": "ثانوية عقبة بن نافع التأهيلية",
+    "AdresseL": "BNI LENT CENTRE BP 1",
+    "AdresseA": "بني لنت المركز ص . ب 2",
+    "COMMUNE": "Bni Lent",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

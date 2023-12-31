@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "MOUALINE DEROUA 2 CENTRE",
+    "NOM_ETABA": "مركزية موالين الدروة2",
+    "AdresseL": "DOUAR  chlouh deroua",
+    "AdresseA": "دوار أشلوح الدروة",
+    "COMMUNE": "Oulad Ziyane",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUALINE DEROUA 1 CENTRE",
+    "NOM_ETABA": "مركزية موالين الدروة1",
+    "AdresseL": "DOUaR ouled ben omar COMMUNE OULED ZIYANE",
+    "AdresseA": "دوار اولاد بن عمرو جماعة اولاد زيان",
+    "COMMUNE": "Oulad Ziyane",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ACHARIF AL IDRISSI",
+    "NOM_ETABA": "الثانوية التأهيلية الشريف الإدريسي",
+    "AdresseL": " DOUAR LOUCHACHNA COMMUNE RURAL OULAD ZYANE",
+    "AdresseA": "دوار لوشاشنة الجماعة القروية أولاد زيان",
+    "COMMUNE": "Oulad Ziyane",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL IBN ABBAD",
+    "NOM_ETABA": "ثانوية ابن عباد الإعدادية ",
+    "AdresseL": "COMMUNE LAGHNADRA",
+    "AdresseA": "جماعة الغنادرة",
+    "COMMUNE": "Laghnadra",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAGHNADRA",
+    "NOM_ETABA": "الغنادرة",
+    "AdresseL": "DOUAR OULED AHMED COMMUNE LAGHNADRA",
+    "AdresseA": "دوار اولاد احمد جماعة الغنادرة ",
+    "COMMUNE": "Laghnadra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMNAKRA",
+    "NOM_ETABA": "المناقرة",
+    "AdresseL": "DOUAR LAMNAKRA ESSMAMRA COMMUNE LAGHNADRA",
+    "AdresseA": "دوار المناقرة السمامرة جماعة الغنادرة",
+    "COMMUNE": "Laghnadra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BOUZID",
+    "NOM_ETABA": "اولاد بوزيد",
+    "AdresseL": "DOUAR LAAOUISATE COMMUNE GHNADRA",
+    "AdresseA": "دوارلعويسات جماعة الغنادرة",
+    "COMMUNE": "Laghnadra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY MUSTAFA ELFATIHI",
+    "NOM_ETABA": "مولاي المصطفى الفاتحي",
+    "AdresseL": "DOUAR  oulad ahmed LAFOUATHA COMMUNE GHNADRA",
+    "AdresseA": "  دوارالفواتحة اولاد احمد الغنادرة خميس الزمامرة",
+    "COMMUNE": "Laghnadra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BEN ECHAOUI",
+    "NOM_ETABA": "اولاد بن الشاوي",
+    "AdresseL": "DOUAR OULED BEN CHAOUI COMMUNE GHNADRA",
+    "AdresseA": "دواراولاد بن الشاوي  جماعة الغنادرة",
+    "COMMUNE": "Laghnadra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EDDAHRA",
+    "NOM_ETABA": "الظهرة",
+    "AdresseL": "DOUAR DAHRA COMMUNE GHNADRA",
+    "AdresseA": "دوارالظهرة جماعة الغنادرة",
+    "COMMUNE": "Laghnadra",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

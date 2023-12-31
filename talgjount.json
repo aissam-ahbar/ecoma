@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "C TALGJOUNT",
+    "NOM_ETABA": "ثإ. تالكجونت",
+    "AdresseL": "commune Talgjount",
+    "AdresseA": "جماعة تالكجونت",
+    "COMMUNE": "Talgjount",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ELKADISSIA",
+    "NOM_ETABA": "م.م القاديسية",
+    "AdresseL": "DOUAR   TIFRKI COMMUNE TALGJOUNTE",
+    "AdresseA": " دوار تفركي جماعة تالكجونت",
+    "COMMUNE": "Talgjount",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

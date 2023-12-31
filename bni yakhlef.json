@@ -1,0 +1,432 @@
+[
+  {
+    "NOM_ETABL": "IBN AL_HAYTAM",
+    "NOM_ETABA": "ابن الهيتم الإعدادية",
+    "AdresseL": "Bni yakhlef Mohammedia",
+    "AdresseA": "بني يخلف المحمدية",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SALAH EDDINE ALAYOUBI",
+    "NOM_ETABA": "صلاح الدين الأيوبي",
+    "AdresseL": "BNI YAKHLEF",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "BENI YAKHLEF",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ATTAFAOUK",
+    "NOM_ETABA": "إعدادية التفوق",
+    "AdresseL": "Lotissement AL HAY AL MOHAMMADI BNI YAKHLEF",
+    "AdresseA": "تجزئة الحي المحمدي بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ANNOUBOUGH",
+    "NOM_ETABA": "إعدادية النبوغ",
+    "AdresseL": "Lotissement AL HAY AL MOHAMMADI BNI YAKHLEF",
+    "AdresseA": "تجزئة الحي المحمدي بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE IMAM CHAFII",
+    "NOM_ETABA": "إعدادية الإمام الشافعي",
+    "AdresseL": "Résidence AL ANDALOUS BNI YAKHEF",
+    "AdresseA": "إقامة الأندلس بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HOMMANE EL FATOUAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "bni yakhlef",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "FATIMA AL FIHRIA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "bni yakhlef",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHAKIB ARSALANE",
+    "NOM_ETABA": "شكيب أرسلان",
+    "AdresseL": "CENTRE BNI YAKHLEF COMMUNE BNI YAKHLEF",
+    "AdresseA": "جماعة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BRAHMA CHARQAOUA",
+    "NOM_ETABA": "البراهمة شرقاوة",
+    "AdresseL": "DOUAR BRAHMA CHARQAOUA COMMUNE BNI YAKHLEF",
+    "AdresseA": "دوار البراهمة شرقاوة جماعة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY RACHID",
+    "NOM_ETABA": "مولاي رشيد",
+    "AdresseL": "CENTRE BNI YAKHLEF COMMUNE BNI YAKHLEF",
+    "AdresseA": "مركز بني يخلف جماعة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL WAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "CENTRE BNI YAKHLEF COMMUNE BNI YAKHLEF",
+    "AdresseA": "مركز بني يخلف جماعة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN TEKKI",
+    "NOM_ETABA": "عين تكي",
+    "AdresseL": "DOUAR AIN TEKKI COMMUNE BNI YAKHLEF mohammedia",
+    "AdresseA": "دوار عين تكي جماعة بني يخلف المحمدية",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HAJBA",
+    "NOM_ETABA": "الحجبة",
+    "AdresseL": "DOUAR EL HAJBA COMMUNE BNI YAKHLEF",
+    "AdresseA": "دوار الحجبة جماعة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAREK IBNOU ZIAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "CENTRE BNI YAKHLEF COMMUNE BNI YAKHLEF",
+    "AdresseA": "مركز بني يخلف جماعة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KADI AYAD",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "Ecole EL KADI AYAD hay mohammedi Bni Yakhlef",
+    "AdresseA": "       مدرسة القاضي عياض الحي المحدي بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA AICHA",
+    "NOM_ETABA": "للاعائشة",
+    "AdresseL": "Résidence Bayti Sakane Bni Yakhlef",
+    "AdresseA": "إقامة بيتي سكن بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUM EL BANINE",
+    "NOM_ETABA": "ام البنين",
+    "AdresseL": "bni yakhlef",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DRISS LAHRIZI",
+    "NOM_ETABA": "ادريس لحريزي",
+    "AdresseL": "DIAR ALALIA SIDI ABBAD BEN YAKHLEF",
+    "AdresseA": "ديلر العاليا سيدي عباد بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ALKHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "BNI YAKHLEF",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF IBN TACHFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "bni yakhlef",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ACHARIF AL IDRISSI",
+    "NOM_ETABA": "الشريف الإدريسي",
+    "AdresseL": "bni yakhlef",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED ABED AL JABRI",
+    "NOM_ETABA": "محمد عابد الجابري",
+    "AdresseL": "Résidence AL FIRDAWS",
+    "AdresseA": "إقامة الفردوس",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANAS IBN MALIK",
+    "NOM_ETABA": "أنس بن مالك",
+    "AdresseL": "Bni Yakhlef",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM AL BOUKHARI",
+    "NOM_ETABA": "مدرسة الإمام البخاري",
+    "AdresseL": "AL HAY ALMOHAMMADI",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOTANABBI",
+    "NOM_ETABA": "مدرسة المتنبي",
+    "AdresseL": "AL HAY ALMOHAMMADI",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALI IBN ABITALEB",
+    "NOM_ETABA": "مدرسة علي بن أبي طالب",
+    "AdresseL": "Résidence AL ANDALOUS",
+    "AdresseA": "إقامة الأندلس ",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI YAKHLEF",
+    "NOM_ETABA": "بني يخلف",
+    "AdresseL": "BNI YAKHLEF CENTRE",
+    "AdresseA": "جماعة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد ",
+    "AdresseL": "Bni Yakhlef",
+    "AdresseA": "بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBNOU AL BANNA",
+    "NOM_ETABA": "ثانوية ابن البناء",
+    "AdresseL": "Résidence AL ANDALOUS BNI YAKHEF",
+    "AdresseA": "إقامة الأندلس بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL HIKMA 2",
+    "NOM_ETABA": "الحكمة 2 الخصوصية",
+    "AdresseL": "BNI YAKHLEF lot 144-145",
+    "AdresseA": "بني يخلف بقعة رقم 144-145",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " NOKHBA TAYBA",
+    "NOM_ETABA": "نخبة طيبة الخصوصية",
+    "AdresseL": "lotissement bni yakhlef 278 bn",
+    "AdresseA": "تجزئة بني يخلف رقم 278 بني يخل",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMAD EDDINE",
+    "NOM_ETABA": "عماد الدين الخصوصية",
+    "AdresseL": "N° 310, Lotissement Bni Yakhle",
+    "AdresseA": "رقم 310، تجزئة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALIMAM MALIK",
+    "NOM_ETABA": "الإمام مالك الخصوصية",
+    "AdresseL": "N° 103 Lotissement El Fath",
+    "AdresseA": "رقم 103 تجزئة الفتح",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FOURKANE",
+    "NOM_ETABA": "الفرقان الخصوصية",
+    "AdresseL": "N° 267/266 Lotissement Bni Yak",
+    "AdresseA": "رقم 267/266 تجزئة بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IBTIKAR AL ILMIA",
+    "NOM_ETABA": "الابتكار العلمية الخصوصية",
+    "AdresseL": "residence belvedere1",
+    "AdresseA": "إقامة بلفدير1",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARROUAD",
+    "NOM_ETABA": "الرواد الخصوصية",
+    "AdresseL": "Bd al massira al khadra.lot la",
+    "AdresseA": "شارع المسيرة الخضراء تجزئة لحل",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PIERRE LAROUSSE",
+    "NOM_ETABA": "بيير لاروس الخصوصية",
+    "AdresseL": "40 centre beni yakhlef :MOHAMM",
+    "AdresseA": "تجزئة بني يخلف  V.J40 جماعة بن",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GANDHI",
+    "NOM_ETABA": "غاندي الخصوصية",
+    "AdresseL": "diar alalia beni yakhlef",
+    "AdresseA": "ديار العالية بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "joseph henry",
+    "NOM_ETABA": "جوزيف هنري الخصوصية",
+    "AdresseL": "ouled lahcen beni yekhlef",
+    "AdresseA": "ولاد لحسن بني يخلف",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABC COCCINELLE",
+    "NOM_ETABA": "أ ب س كوكسينيل الخصوصية",
+    "AdresseL": "DIAR ALYOUSR GH2 IMM11",
+    "AdresseA": "ديار اليسر المجموعة 2 عمارة 11",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MALAK AL MAARIFA",
+    "NOM_ETABA": "مؤسسة ملاك المعرفة الخصوصية",
+    "AdresseL": "LOTISSEMENT MALAK N°22 RUE NAT",
+    "AdresseA": "تجزئة ملاك  الطريق الوطنية رقم",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARISTOTE",
+    "NOM_ETABA": "أرسطو الخصوصية",
+    "AdresseL": "Diar Alandalous Bd Kadi Iyad",
+    "AdresseA": "ديار الأندلس شارع القاضي عياض",
+    "COMMUNE": "Bni Yakhlef",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

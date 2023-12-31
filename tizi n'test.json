@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE TIZI N TEST",
+    "NOM_ETABA": "اعدادية تزي نتاست",
+    "AdresseL": "centre de  la commune",
+    "AdresseA": "مركز الجماعة",
+    "COMMUNE": "Tizi N'Test",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS YOUSSEF BN TACHFINE ",
+    "NOM_ETABA": "م.م يوسف بن تاشفين ",
+    "AdresseL": "DOUAR   AIT BLAL C TIZI NTASTE",
+    "AdresseA": "د. ايت أبلال جماعة تزي نتاست",
+    "COMMUNE": "Tizi N'Test",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIZI NTAST",
+    "NOM_ETABA": "م.م تيزي نتاست",
+    "AdresseL": "DOUAR   AGUERD C TIZI NTAST",
+    "AdresseA": " دوار  أكرض  أنزال جماعة تيزي نتاست ",
+    "COMMUNE": "Tizi N'Test",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "C IBN TAYEB II",
+    "NOM_ETABA": "إع. ابن الطيب 2",
+    "AdresseL": "ibn tayeb centre",
+    "AdresseA": "ابن الطيب المركز",
+    "COMMUNE": "Ben Taieb",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C IBN TAYEB",
+    "NOM_ETABA": "إع. ابن الطيب",
+    "AdresseL": "IBN TAYEB CENTRE",
+    "AdresseA": "ابن الطيب المركز",
+    "COMMUNE": "Ben Taieb",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E IBN AL KHATIB",
+    "NOM_ETABA": "م. ابن الخطيب",
+    "AdresseL": "COMMUNE BEN TAIEB CENTRE",
+    "AdresseA": "جماعة بن الطيب",
+    "COMMUNE": "Ben Taieb",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU HANIE",
+    "NOM_ETABA": "م. ابن هانئ",
+    "AdresseL": "QARTIER ADMINIDTRATIF RUE ALMOWAHHIDINE",
+    "AdresseA": "الحي الإداري شارع الموحدين",
+    "COMMUNE": "Ben Taieb",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AZZAYTOUNE",
+    "NOM_ETABA": "م الزيتون",
+    "AdresseL": "COMMUNE IBN TAYEB CENTRE",
+    "AdresseA": "ابن الطيب",
+    "COMMUNE": "Ben Taieb",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ELAHD EL JADID",
+    "NOM_ETABA": "م. العهد الجديد",
+    "AdresseL": "COMMUNE BEN TAIEB CENTRE",
+    "AdresseA": "جماعة ابن الطيب",
+    "COMMUNE": "Ben Taieb",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LA PRINCESSE LALLA KHADIJA",
+    "NOM_ETABA": "مدرسة الأميرة للا خديجة",
+    "AdresseL": "douar iznajen ben tayeb",
+    "AdresseA": "دوار إزناجن بن الطيب",
+    "COMMUNE": "Ben Taieb",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED VI",
+    "NOM_ETABA": "ثانوية محمد السادس التأهيلية",
+    "AdresseL": "ben tieb ",
+    "AdresseA": "ابن الطيب",
+    "COMMUNE": "Ben Taieb",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

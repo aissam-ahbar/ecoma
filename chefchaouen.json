@@ -1,0 +1,402 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ADRAR",
+    "NOM_ETABA": "الثانوية الاعدادية أدرار",
+    "AdresseL": "AIN HAWZI",
+    "AdresseA": "عين حوزي",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL GRANSSIF",
+    "NOM_ETABA": "الثانوية الاعدادية كرانسيف",
+    "AdresseL": "QUART GRANSSIF CHEFCHAOUEN",
+    "AdresseA": "حي كرانسيف شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LOUBAR",
+    "NOM_ETABA": "الثانوية الإعدادية لوبار",
+    "AdresseL": "loubar chefchaouen",
+    "AdresseA": "لوبار شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MACHICHI",
+    "NOM_ETABA": "الثانوية الاعدادية المشيشي",
+    "AdresseL": "AVENUE EL MACHICHICHEFCHAOUEN",
+    "AdresseA": "شارع المشيشي شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY EL HASSAN I",
+    "NOM_ETABA": "الثانوية الاعدادية مولاي الحسن الأول",
+    "AdresseL": "AVENUE ALLAL BEN ABDELLAHCHEFCHAOUEN",
+    "AdresseA": "شارع علال بن عبد الله شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL QODS",
+    "NOM_ETABA": "مدرسة القدس",
+    "AdresseL": "AVENUE SIDI ABDELHAMID CHEFCHAOUEN",
+    "AdresseA": "شارع سيدي عبد الحميد شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA FATIMA",
+    "NOM_ETABA": "مدرسة للافاطمة",
+    "AdresseL": "AVENUE HASSAN 2 CHEFCHAOUEN",
+    "AdresseA": "شارع الحسن الثاني شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY ALI BEN RACHID",
+    "NOM_ETABA": "مدرسة مولاي علي بن راشد",
+    "AdresseL": "RUE MOULAY DRISS CHEFCHAOUEN",
+    "AdresseA": "شارع مولاي ادريس",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL HASSAN ABI JOUMOAA",
+    "NOM_ETABA": "مدرسة  الحسن أبي جمعة",
+    "AdresseL": "RUE ZERKTOUNICHEFCHAOUEN",
+    "AdresseA": "زنقة الزرقطوني - شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SOULAYMAN ALHAWAT",
+    "NOM_ETABA": "مدرسة سليمان الحوات",
+    "AdresseL": "QUARTIER SEBBANINECHEFCHAOUEN",
+    "AdresseA": "حي الصبانين شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELKHALEK TORRES",
+    "NOM_ETABA": "مدرسة عبد الخالق الطريس",
+    "AdresseL": "QUARTIER ADMINISTRATIF    CHEFCHAOUEN",
+    "AdresseA": "الحي الإداري شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY ALI NOUAZLI",
+    "NOM_ETABA": "مدرسة مولاي علي النوازلي",
+    "AdresseL": "RUE MOULLAY DRISSCHEFCHAOUEN",
+    "AdresseA": "شارع مولاي إدريس شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSAIDA EL HORRA",
+    "NOM_ETABA": "مدرسة السيدة الحرة",
+    "AdresseL": "AVENUE ALMAGHRIB ALARABICHEFCHAOUEN",
+    "AdresseA": "شارع المغرب العربي شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAIKH MOHAMED BEN AYAD",
+    "NOM_ETABA": "مدرسة الشيخ محمد بن عياد",
+    "AdresseL": "RUE SIDI BEN ALI  HAY EL ANSER  BAB MAHROUK CHEFCH",
+    "AdresseA": "طريق سيدي بن علي حي العنصر باب المحروق شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL KADI SADEK BEN RAISSOUN",
+    "NOM_ETABA": "مدرسة القاضي صادق بن رسون",
+    "AdresseL": "avenu maliliaCHEFCHAOUEN",
+    "AdresseA": "شارع مليلية شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMAM ALI GHAROUZIM",
+    "NOM_ETABA": "م/م الامام علي _غروزيم",
+    "AdresseL": "DOUAR GHAROUZIMCBAB TAZACHEFCHAOUEN",
+    "AdresseA": "دوار غروزيم جماعة باب تازة",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BAB SOUK",
+    "NOM_ETABA": "مدرسة باب السوق",
+    "AdresseL": "BAB SOUK CHEFCHAOUEN",
+    "AdresseA": "باب السوق شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DHAR BEN AYAD",
+    "NOM_ETABA": "الثانوية الثأهيلية ظهار بن عياد",
+    "AdresseL": "avenue sidi boujemaa CHEFCHAOUEN",
+    "AdresseA": "حي سيدي بوجمعة. شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE AL KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية التقنية الخوارزمي",
+    "AdresseL": "AV Maghreb al arabi CHEFCHAOUEN",
+    "AdresseA": "شارع المغرب العربي شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AHMED IDRISSI",
+    "NOM_ETABA": "الثانوية التأهيلية أحمد الإدريسي",
+    "AdresseL": "Quartier administratif AIN HAOUZI ",
+    "AdresseA": "الحي الإداري عين الحوزي ",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PRINCE MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهياية الأمير مولاي رشيد",
+    "AdresseL": "RUE MOHAMED ABDOU COMMUNE CHEFCHAOUEN",
+    "AdresseA": "شارع محمد عبدو",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM CHADLI",
+    "NOM_ETABA": "الثانوية التأهيلية الإمام الشاذلي للتعليم الاصيل",
+    "AdresseL": "AVENUE HASSAN II COMMUNE CHEFCHAOUEN",
+    "AdresseA": "شارع الحسن الثاني بلدية شفشاون",
+    "COMMUNE": "Chefchaouen",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "norsine",
+    "NOM_ETABA": "نورسين",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الإداري عين حوزي شفشاون",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHAMAL",
+    "NOM_ETABA": "الشمال",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع جمال الدين الأفغاني",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  NAFIE ",
+    "NOM_ETABA": "مؤسسة نافع الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الإداري عين حوزي",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "atassamine",
+    "NOM_ETABA": "التاسمين",
+    "AdresseL": "",
+    "AdresseA": "الحي الإداري ـ عين حوزي ـ شفشا",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al assafir",
+    "NOM_ETABA": "العصافير",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع المغرب العربي ـ شفشاون",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hayya nabdae d enseignement prescolaire",
+    "NOM_ETABA": "هيا نبدأ للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع ابي الحسن المنضري حي الخر",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zahrat al amal",
+    "NOM_ETABA": "زهرة الأمل",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الإداري عين حوزي",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement el amrani ",
+    "NOM_ETABA": "مؤسسة العمراني للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع السمارة رقم 7 تجزئة اعيون",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee najm",
+    "NOM_ETABA": "النجم للتعليم الخصوصي",
+    "AdresseL": "ain haouzi quart administratif",
+    "AdresseA": "عين حوزي الحي الإداري",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assidk waalqiraa",
+    "NOM_ETABA": "الصدق والقراءة",
+    "AdresseL": "lot aziat q amiria chefchaouen",
+    "AdresseA": "شارع العامرية تجزئة أزيات الحي",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ennajm2",
+    "NOM_ETABA": "النجم 2",
+    "AdresseL": "Ain haouzi quart administratif",
+    "AdresseA": "تجزئة عين حوزي الحي الاداري شف",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement ibno sina",
+    "NOM_ETABA": "مؤسسة ابن سينا الخصوصية",
+    "AdresseL": "avenue el maghreb arabi qu 20 ",
+    "AdresseA": "شارع المغرب العربي منتزه 20 غش",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baraim el moustakbal",
+    "NOM_ETABA": "براعم المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الإداري عين حوزي",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BEN DEGGOUN",
+    "NOM_ETABA": "مؤسسة ابن دكون",
+    "AdresseL": "QUARIER ADMINISTRATIF LOTISSEM",
+    "AdresseA": "الحي الإداري تجزئة العيون",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement najah",
+    "NOM_ETABA": "مؤسسة النجاح للتعليم الخصوصي",
+    "AdresseL": "av el machichi quart adm chefc",
+    "AdresseA": "شارع المشيشي شقة مسجد المشيشي ",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement amrou ",
+    "NOM_ETABA": "مؤسسة عمرو الخصوصية",
+    "AdresseL": "quartier administratif ain hao",
+    "AdresseA": "الحي الإداري عين حوزي شفشاون",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oum keltoum",
+    "NOM_ETABA": "أم كلثوم",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة بومنيدل. زنقة العامرية. ",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annaouares",
+    "NOM_ETABA": "النوارس",
+    "AdresseL": "Avenue Meliliya, Quartier Sidi",
+    "AdresseA": "شارع مليلية، حي سيدي بوجمعة",
+    "COMMUNE": "Chefchaouen ",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

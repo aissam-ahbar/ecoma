@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SALAHEDDINE AL AYOUBI",
+    "NOM_ETABA": "الثانوية الإعدادية صلاح الدين الأيوبي",
+    "AdresseL": "commune houara oulad raho",
+    "AdresseA": "جماعة هوارة أولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ATTAKADOUM",
+    "NOM_ETABA": "الثانوية الإعدادية التقدم",
+    "AdresseL": "COMMUNE DE HOUARA OULED RAHOU",
+    "AdresseA": "جماعة هوارة ولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAMDAFRA CENTRE",
+    "NOM_ETABA": "المظافرة المركز",
+    "AdresseL": "LAMDAFRA COMMUNE HOUARA",
+    "AdresseA": "لمظافرة جماعة هوارة اولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED HADDA CENTRE",
+    "NOM_ETABA": "اولاد حادة المركز",
+    "AdresseL": "OULAD HADDA COMMUNE HOUARA",
+    "AdresseA": "دوار اولاد حادة جماعة هوارة اولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GHAFFOULA CENTRE",
+    "NOM_ETABA": "غفولة المركز",
+    "AdresseL": "DOUAR GHAFOULA COMMUNE HOUARA OULED RAHOU",
+    "AdresseA": "دوارغفولة جماعة هوارة اولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JEL CENTRE",
+    "NOM_ETABA": "الجل المركز",
+    "AdresseL": "JEL1 COMMUNE HOUARA OULED RAHOU",
+    "AdresseA": "دوارالجل 1  جماعة هوارة اولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BERREBHYA",
+    "NOM_ETABA": "بربحية",
+    "AdresseL": "DOUAR BERREBHYA COMMUNE HOUARA OULED RAHOU",
+    "AdresseA": "دوار بربحية جماعة هوارة اولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ASSOUFLA",
+    "NOM_ETABA": "مجموعة مدارس السفلى",
+    "AdresseL": " SOUFLA COMMUNE HOUARA OULED RAHOU ",
+    "AdresseA": "دوارلكار السفلى جماعة هوارة اولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BEN JAAFAR COM",
+    "NOM_ETABA": "سيدي بن جعفر كم",
+    "AdresseL": "SIDI BEN JAAFAR COMMUNE HOUARA",
+    "AdresseA": "دوارالجل جماعة هوارة",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNAJAH",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "COMMUNE DE HOUARA OULED RAHOU",
+    "AdresseA": "جماعة هوارة ولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL BOHTOURI",
+    "NOM_ETABA": "الثانوية التأهيلية البحتري",
+    "AdresseL": "Houara ouled rahou",
+    "AdresseA": "هوارة أولاد رحو",
+    "COMMUNE": "Houara Oulad Raho",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

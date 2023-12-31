@@ -1,0 +1,962 @@
+[
+  {
+    "NOM_ETABL": "ERRAFII",
+    "NOM_ETABA": "الرافعي",
+    "AdresseL": "HAY CHABAB AIN SEBAA",
+    "AdresseA": "حي الشباب عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LALLA ASMAA",
+    "NOM_ETABA": "للا أسماء",
+    "AdresseL": "Allée des Eucalyptus AIN SEBAA",
+    "AdresseA": "ممر الصنوبر عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU EL ATIR",
+    "NOM_ETABA": "ابن الأثير",
+    "AdresseL": "LOT DAR  LAMANE  AIN SEBEAA",
+    "AdresseA": "دار لمان عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JAMAL EDDINE AL KAFTI",
+    "NOM_ETABA": "جمال الدين القفطي",
+    "AdresseL": "BD allee des parcs AIN SEBAA casablanca",
+    "AdresseA": "ممر الريضان عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF BNOU TACHFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "bd ibn el ouannane ain sebaa",
+    "AdresseA": "شارع ابن الونان عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL WAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "ALLEE DES ECOLES  AIN SEBAA",
+    "AdresseA": "ممر المدارس عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "Résidence al amane ain sebaa",
+    "AdresseA": "إقامة الأمان عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "  بدر",
+    "AdresseL": "Résidence Badr  ain sebaà ",
+    "AdresseA": "إقامة  بدر عين السبع ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LALLA KENZA",
+    "NOM_ETABA": "للا كنزة ",
+    "AdresseL": "1RUE TINGHIR AIN SEBAA",
+    "AdresseA": "رقم 1 زنقة تنغير عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU AL KHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "ROUTE ALWAHDA AIN SEBAA",
+    "AdresseA": "طريق الوحدة عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ABDOU RABBIH",
+    "NOM_ETABA": "ابن عبد ربه",
+    "AdresseL": "HAY OUKACHA AIN SEBAA",
+    "AdresseA": "حي عكاشة عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IDRISS II",
+    "NOM_ETABA": "إدريس الثاني",
+    "AdresseL": "260 BDchafchaouni  ain sebaa",
+    "AdresseA": "260 شارع الشفشاوني عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHEFCHAOUNI ",
+    "NOM_ETABA": "الشفشاوني ",
+    "AdresseL": "265 BD CHAFCHAOUNI AIN SEBAA",
+    "AdresseA": "265 شارع الشفشاوني عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNABIGHA",
+    "NOM_ETABA": "النابغة",
+    "AdresseL": "BD BRICHARDIASS AIN SEBAA",
+    "AdresseA": "شارع بريتشار دياس عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAIR AL HAMRA",
+    "NOM_ETABA": "شاعر الحمراء",
+    "AdresseL": "BD BRITCHARDIaS AIN SEBAA",
+    "AdresseA": "شارع بريتشاردياس عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM BOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "BOULEVARD C ain sebaa",
+    "AdresseA": "شارع س عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED ERRACHIDI",
+    "NOM_ETABA": "أحمد الراشدي",
+    "AdresseL": "BOULEVARD ALI YAATA AIN SEBAA",
+    "AdresseA": "شارع علي يعتة عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ACHARI",
+    "NOM_ETABA": "الأشعري",
+    "AdresseL": "BD GRANDE CEINTURE AIN SEBAA",
+    "AdresseA": "شارع الحزام الكبير عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELMAJID BEN JELLOUN",
+    "NOM_ETABA": "عبد المجيد بن جلون",
+    "AdresseL": "BOULEVARD CHAFCHAOUNI AIN SEBAA",
+    "AdresseA": "شارع الشفشاوني عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KAWAKIBI",
+    "NOM_ETABA": "الكواكبي",
+    "AdresseL": "BD ALI YATA dar laman AIN SBAA",
+    "AdresseA": "شارع علي يعتة دار لمان عين السبع ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZINEB ISHAK",
+    "NOM_ETABA": "زينب إسحاق",
+    "AdresseL": "BD KHALED BNOU ALWALID ain sebaa",
+    "AdresseA": "شارع خالد بن الوليد عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAARRY",
+    "NOM_ETABA": "المعري",
+    "AdresseL": "CITE ESSMARA ain sebaa",
+    "AdresseA": "حي السمارة عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM AL JAZOULI",
+    "NOM_ETABA": "الإمام الجزولي",
+    "AdresseL": "HAY DOHA 1  AIN SEBAA",
+    "AdresseA": "إقامة  الضحى 1 عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BASMA",
+    "NOM_ETABA": "بسمة",
+    "AdresseL": "RESIDENCE BASMA quartier beausite AIN SEBAA",
+    "AdresseA": "إقامة بسمة   الحي الجميل عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GHAZZA",
+    "NOM_ETABA": "غزة",
+    "AdresseL": "Résidence al amane Ain sebaa",
+    "AdresseA": "إقامة الأمان عين السبع ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ANOUAR",
+    "NOM_ETABA": "الأنوار",
+    "AdresseL": "Résidence al amane ain sebaa",
+    "AdresseA": "إقامة الأمان عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MAKDISSI",
+    "NOM_ETABA": "المقدسي",
+    "AdresseL": "BD KHALED BNOU ALWALID AIN SEBAA",
+    "AdresseA": "شارع خالد بن الوليد عين السبع",
+    "COMMUNE": "Aîn-Sebaâ ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN HANI",
+    "NOM_ETABA": "ابن هانئ",
+    "AdresseL": "LOT CHABAB   AIN SEBAA",
+    "AdresseA": "حي الشباب عين السبع",
+    "COMMUNE": "Aîn-Sebaâ ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL BAROUDI",
+    "NOM_ETABA": "البارودي",
+    "AdresseL": "ROUTE ALWAHDA AIN SEBAA",
+    "AdresseA": "طريق الوحدة عين السبع",
+    "COMMUNE": "Aîn-Sebaâ ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN AL AOUAM",
+    "NOM_ETABA": "ابن العوام",
+    "AdresseL": "MAMAR  AL MADARIS AIN SEBAA",
+    "AdresseA": "ممر المدارس عين السبع",
+    "COMMUNE": "Aîn-Sebaâ ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "auguste renoir",
+    "NOM_ETABA": "أوغست رنوار",
+    "AdresseL": "10 ALLEE DES JASMINS - Ain Seb",
+    "AdresseA": "10 ممر الياسمين عين السبع رقم",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Notre Dame",
+    "NOM_ETABA": "نوتردام",
+    "AdresseL": "N° 23 allée jeanne D ARC Ain S",
+    "AdresseA": "رقم 23 ممر جان دارك   عين السب",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ouhoud 1",
+    "NOM_ETABA": "أحد 1",
+    "AdresseL": "N° 72 Allée des Jardins  Ain S",
+    "AdresseA": "رقم 72 ممر الحدائق عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ezzohour",
+    "NOM_ETABA": "الزهور",
+    "AdresseL": "N° 16 La Jiri 3 Ain Sebaa",
+    "AdresseA": "رقم 16 لاجيري 3 عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Lion Blanc",
+    "NOM_ETABA": "الليث الأبيض",
+    "AdresseL": "Place Haj Ahmed Makwar Ain Seb",
+    "AdresseA": "ساحة الحاج أحمد مكوار عين السب",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES PINSONS",
+    "NOM_ETABA": "لي بانسون للتعليم الخصوصي",
+    "AdresseL": "N° 68 Boulevard Mimouza Ain Se",
+    "AdresseA": "رقم 68 شارع ميموزا  عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ittihad Ain Sebaa",
+    "NOM_ETABA": "اتحاد عين السبع",
+    "AdresseL": "N° 82 Allée PIErE Tchyardiass ",
+    "AdresseA": "رقم 82 ممر بيير تشاردياس عين ا",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Oum Aymen",
+    "NOM_ETABA": "أم أيمن",
+    "AdresseL": "N° 99, Dalila I Quartier Indus",
+    "AdresseA": "رقم 99، دليلة 1 الحي الصناعي  ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Walt  Disney",
+    "NOM_ETABA": "والت ديزني",
+    "AdresseL": "N° 34, Allée Sophoras  Ain Seb",
+    "AdresseA": "رقم 34، ممر الصوفوراس  عين الس",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Cadi Ayad",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "N° 22, Boulevard Grande Ceintu",
+    "AdresseA": "رقم 22، شارع الحزام الكبير  ال",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Hansali",
+    "NOM_ETABA": "الحنصالي",
+    "AdresseL": "Hay Smara Rue 7 N° 30  Hay Moh",
+    "AdresseA": "حي السمارة زنقة 7 رقم 30  الحي",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AFAQ",
+    "NOM_ETABA": "الآفاق",
+    "AdresseL": "Hay Chabab Zone A Bloc 10 Ain ",
+    "AdresseA": "حي الشباب منطقة \"أ\" بلوك 10  ع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les palmiers",
+    "NOM_ETABA": "النخـيـــل",
+    "AdresseL": "N° 76, Rue AbdelHamid Ben Badi",
+    "AdresseA": "رقم 76، زنقة عبد الحميد بن باد",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Omar Al Imam",
+    "NOM_ETABA": "عمر الإمام",
+    "AdresseL": "N° 247, Rue Abdelhamid Ben Bad",
+    "AdresseA": "رقم 247، زنقة عبد الحميد بن با",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Ahrar",
+    "NOM_ETABA": " الأحرار",
+    "AdresseL": "N° 17, Boulevard Des Orangers ",
+    "AdresseA": "رقم 17، شارع الليمون  عين السب",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Iqraa",
+    "NOM_ETABA": "إقرأ",
+    "AdresseL": "N° 35, Boulevard de la plage  ",
+    "AdresseA": "رقم 35، شارع الشاطئ  عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Ouhoud 2",
+    "NOM_ETABA": " احد  2",
+    "AdresseL": "50 ALLEE DE LA PLAGE AIN SEBAA",
+    "AdresseA": "ممر الشاطيء الرقم 50  عين السب",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Ichaa",
+    "NOM_ETABA": " الاشعاع",
+    "AdresseL": "Rue Fenix, Ain SEBAA",
+    "AdresseA": "زنقة فينكس، عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIYAD Al Manahil",
+    "NOM_ETABA": "رياض المناهل",
+    "AdresseL": "Bd. des figuiers, N0 49- C. U.",
+    "AdresseA": "شارع التين رقم 49- ج. ح. عين ا",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Anisse",
+    "NOM_ETABA": "أنيس",
+    "AdresseL": "N° 09, Lot. Alfal, Bd. Chefcha",
+    "AdresseA": "رقم 09، تجزئة الفال، شارع الشف",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Itihad Junior",
+    "NOM_ETABA": "اتحاد جنيور",
+    "AdresseL": "Lot. Camelia N° 06 - C.U. Ain ",
+    "AdresseA": "تجزئة كاميليا رقم 06 - عين الس",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Arrissala",
+    "NOM_ETABA": " الرسالة",
+    "AdresseL": "Avenue Fenix II - Ain Sebaa",
+    "AdresseA": " ممر الفينكس 2- عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Competence Scientifique",
+    "NOM_ETABA": " الكفاءة العلمية",
+    "AdresseL": "Lot. Camalia N° 52 -59-60   be",
+    "AdresseA": " تجزئة كاميليا، رقم 52 - عين ا",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "atomium",
+    "NOM_ETABA": "أطميوم",
+    "AdresseL": "116  Bd. Chefchaouni -. Ai  Se",
+    "AdresseA": "شارع الشفشاوني -116عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL RAYANE",
+    "NOM_ETABA": " الريان",
+    "AdresseL": "96 salouma 2 ain sebaa",
+    "AdresseA": "رقم 96 سلومة 2 عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR ESSABIL",
+    "NOM_ETABA": "نور السبيل",
+    "AdresseL": " n°8 Lauriers rose cite castor",
+    "AdresseA": "رقم 8 ممر لوريي روز حي كاسطور ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "atomium  JUNIOR",
+    "NOM_ETABA": "أطميوم  جينيور",
+    "AdresseL": "146, esperance 2, Ain Sebâa - ",
+    "AdresseA": "146، أمنية 2 ، عين السبع - الد",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL Imam Ali",
+    "NOM_ETABA": " الامام علي",
+    "AdresseL": "Oulja 2, Rue 5 N° 47 - Ain Seb",
+    "AdresseA": "ولجة 2، زنقة 5 رقم 47 - عين ال",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Confiance Essalam",
+    "NOM_ETABA": "الثقة السلام",
+    "AdresseL": "Lotissement Essalam, Rue 1, Ai",
+    "AdresseA": " تجزئة السلام الزنقة 1 عين الس",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MADINA",
+    "NOM_ETABA": "المدينة",
+    "AdresseL": "KM 9. AU SUD DE LA ROUTE N°1CA",
+    "AdresseA": "كلم 9 الطريق الجنوبي رقم 1 الب",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HENRI MATISSE",
+    "NOM_ETABA": "هنري ماتيس",
+    "AdresseL": "BD. IMAM ALI AIN SEBAA",
+    "AdresseA": "شارع الإمام - علي عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CLAIR DE LUNE",
+    "NOM_ETABA": "ضياء القمر",
+    "AdresseL": "Lot. Kamalia n°41 ain sebaa",
+    "AdresseA": "تجزئة كمالية رقم 41 عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " TLEMçANI",
+    "NOM_ETABA": "تلمساني",
+    "AdresseL": "HAY SMARA RUE 7 N°35AIN SEBAA",
+    "AdresseA": "حي السمارة زنقة 7 الرقم 35عين ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Riad Ittihad",
+    "NOM_ETABA": "رياض الاتحاد",
+    "AdresseL": "101 ALLEE DES CASUARINAS AIN S",
+    "AdresseA": "101 ممر كازواريناس عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Connaissances Arrazi",
+    "NOM_ETABA": "معارف الرازي",
+    "AdresseL": "23 ALLEE DES MIMOSAS AIN SEBAA",
+    "AdresseA": "23 ممر ميموزا عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Camelia",
+    "NOM_ETABA": "كاميليا",
+    "AdresseL": "rue 4 des neuflirs CASTOR Ain ",
+    "AdresseA": " ممر الزعرور رقم 4 حي كاسطور ع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "francis valery",
+    "NOM_ETABA": "فرانسيس فاليري",
+    "AdresseL": "av c lot karam a.s",
+    "AdresseA": "شارع س تجزئة الكرم عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alexandre",
+    "NOM_ETABA": "الاسكندر",
+    "AdresseL": "N 13 ALLEE DES CERISIERS",
+    "AdresseA": "رقم 13 ممر التوت عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la cloche",
+    "NOM_ETABA": "الجرس",
+    "AdresseL": "36 bis allee tamaris",
+    "AdresseA": "36 مكرر ممر الطماريس الرقم",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "belazur",
+    "NOM_ETABA": "الساحل الجميل",
+    "AdresseL": "3 allee des troenes .ain sebaa",
+    "AdresseA": "رقم 3 زنقة التروين عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madaris anisse",
+    "NOM_ETABA": "مدارس أنيس ",
+    "AdresseL": "148-Bd. chefchaouni ain sebaa",
+    "AdresseA": "رقم 148 شارع الشفشاوني عين الس",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ambition",
+    "NOM_ETABA": "الطموح",
+    "AdresseL": "OPERATION BADR AIN SEBAA",
+    "AdresseA": "عملية البدر عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FRANCOIS RENE",
+    "NOM_ETABA": "فرانسوا ريني",
+    "AdresseL": "8 allee ain sebaa",
+    "AdresseA": "8 ممر الصفصاف ساحة المحطة عين ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les esperances",
+    "NOM_ETABA": "الآمال",
+    "AdresseL": "N 26B RES BADR N3 AIN SEBAA",
+    "AdresseA": "إقامة البدر رقم 3 عين السبع  b",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alam al yakada",
+    "NOM_ETABA": "عالم اليقظة",
+    "AdresseL": "COMPLEXE AMANE GH40 AIN SEBAA",
+    "AdresseA": "مجمع الامان gh40عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire Alexandre 2",
+    "NOM_ETABA": "مجموعة مدارس الاسكندر 2",
+    "AdresseL": "Lot Mechaal 1 passage des mell",
+    "AdresseA": "تجزئة مشعل 1 ممر الملياس عين ا",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Maurice bucaille",
+    "NOM_ETABA": "موريس بوكاي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 85 زاوية شارع كزيوريناس و ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la decouverte",
+    "NOM_ETABA": "الاكتشاف",
+    "AdresseL": "lot 16 al amane 1 le beausite ",
+    "AdresseA": "تجزئة الأمان 1 الحي الجميل عين",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES AL MADINA 2",
+    "NOM_ETABA": "مدارس المدينة 2 عين السبع",
+    "AdresseL": " Km 9 route de Rabat Ain Sebâa",
+    "AdresseA": "كلم9جنوب طريق الدار البيضاء عي",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "monceau",
+    "NOM_ETABA": "مونسو",
+    "AdresseL": "ALLEE AS 14, AL WIFAQ AIN SEBA",
+    "AdresseA": "ممر 14 ، الوفاق عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "charles nicole",
+    "NOM_ETABA": "شارل نيكول",
+    "AdresseL": "NULL",
+    "AdresseA": "ممر الياسمين عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL YOSSR",
+    "NOM_ETABA": "اليسر",
+    "AdresseL": "NULL",
+    "AdresseA": "إقامة علي الحي الجميل ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "pythagore casablanca",
+    "NOM_ETABA": "بيتاغور الدار البيضاء",
+    "AdresseL": "5, bis allée des treilles, Ain",
+    "AdresseA": "رقم5 ممر التراي عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al imtiaz al aoual",
+    "NOM_ETABA": "الامتياز الأول",
+    "AdresseL": "lOTISSEMENT  AMANE GH24 N°194 ",
+    "AdresseA": "تجزئة الأمان رقم 194 عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kaizen",
+    "NOM_ETABA": "كايزن",
+    "AdresseL": "EQS LOT AL AMANE AIN SEBAA",
+    "AdresseA": "مشروع الأمان عين السبع EQs",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al minhaje",
+    "NOM_ETABA": "المنهاج",
+    "AdresseL": "94 rue Hassan barik salouma 1 ",
+    "AdresseA": "رقم 94 زنقة حسن باريك سالوما 1",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FARID AL ANSARI",
+    "NOM_ETABA": "فريد الأنصاري",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السمارة الزنقة 4 الرقم 69 ع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "boudour al yakada",
+    "NOM_ETABA": "بذور اليقظة",
+    "AdresseL": "RESIDENCE DARIS KM9 ROUTE DE R",
+    "AdresseA": "إقامة داريس كلم9 طريق الرباط ع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BELAZUR JUNIOR",
+    "NOM_ETABA": "بيلازير جينيور",
+    "AdresseL": "boulevard 1.quartier oukacha.a",
+    "AdresseA": "شارع1، حي عكاشة عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MYCONOS",
+    "NOM_ETABA": "ميكونوس",
+    "AdresseL": "7-21ALLEEDESPHENIXAINSEBAACASA",
+    "AdresseA": "رقم 7 و 21 ممر فينيكس عين السب",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CALINS ET GALIPETTES",
+    "NOM_ETABA": "كالان إكالبيت",
+    "AdresseL": "NULL",
+    "AdresseA": "إقامة الفردوس عمارة 5 طريق الر",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aniss",
+    "NOM_ETABA": "أنيس الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الأمان عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S JULES RENARD",
+    "NOM_ETABA": "جول رونار",
+    "AdresseL": "LOT 116 BD CHEFCHAOUNI AIN SEB",
+    "AdresseA": "رقم 116 شارع الشفشاوني عين الس",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN PAUL",
+    "NOM_ETABA": "جان بول",
+    "AdresseL": "38 ALLEE DES TAMARIS AIN SEBAA",
+    "AdresseA": "رقم 38 ممر طماريس عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L'EAU VIVE",
+    "NOM_ETABA": "لوفيف",
+    "AdresseL": "LOTISSEMENT AL FIRDAOUS, RUE 7",
+    "AdresseA": "تجزئة الفردوس، زنقة 7، رقم 42 ",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAGRANGE",
+    "NOM_ETABA": "لاكرونج",
+    "AdresseL": "68 RUE PHENIX AIN SEBAA",
+    "AdresseA": "رقم68 زنقة فينيكس عين السبع",
+    "COMMUNE": "Aîn-Sebaâ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

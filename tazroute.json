@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "MOULAY ABDESSLAM  SOUKANE CENTRE ",
+    "NOM_ETABA": "م/م مولاي عبد السلام المركزية",
+    "AdresseL": "DOUAR SOUKAN COMMUNE TAZROUTE",
+    "AdresseA": "دوار السكان جماعة تزروت",
+    "COMMUNE": "Tazroute",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZROUT CENTRE",
+    "NOM_ETABA": "م/م تازروت  المركزية",
+    "AdresseL": "DOUAR TAZROUT COMMUNE TAZROUTE",
+    "AdresseA": "دوار تزروت جماعة تازروت",
+    "COMMUNE": "Tazroute",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

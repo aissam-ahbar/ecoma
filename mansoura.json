@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIJLMASA",
+    "NOM_ETABA": "الثانوية الاعدادية سجلما سة",
+    "AdresseL": "college sijilmasa commune el mansoura chefchaouen",
+    "AdresseA": "اعدادية سجلما سة جما عة المنصورة شفشا و ن",
+    "COMMUNE": "Mansoura",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ABDELALI BEN CHAKROUN AL MANSOURA",
+    "NOM_ETABA": "م/م عبد العالي بنشقرون _المنصورة",
+    "AdresseL": "DOUAR AL MANSOURA C MANSOURA CHEFCHAOUEN",
+    "AdresseA": "دوار المنصورة جماعة المنصورة شفشاون",
+    "COMMUNE": "Mansoura",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TISKALA",
+    "NOM_ETABA": "م/م تسكالة",
+    "AdresseL": "DOUAR TISKALA C MANSOURA CHEFCHAOUEN",
+    "AdresseA": "دوار تسكالة جماعة المنصورة",
+    "COMMUNE": "Mansoura",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUIYAT LHORRACH",
+    "NOM_ETABA": "م/م زاوية الحراش",
+    "AdresseL": "DOUAR ZAOUIYAT LHORRACHCMANSOURACHEFCHAOUEN",
+    "AdresseA": "دوار زاوية الحراش جماعة المنصورة",
+    "COMMUNE": "Mansoura",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIMART",
+    "NOM_ETABA": "م/م تيمارت",
+    "AdresseL": "DOUAR TIMART C MANSOURA CHEFCHAOUEN",
+    "AdresseA": "دوار تيمـارت جماعة المنصورة شفشاون",
+    "COMMUNE": "Mansoura",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAHRA",
+    "NOM_ETABA": "م/م لهرى",
+    "AdresseL": "DOUAR LAHRA MANSOURA sofla commune mansoura",
+    "AdresseA": "دوار لهرى المنصورة السفاى جماعة  المنصورة",
+    "COMMUNE": "Mansoura",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MANSOURA",
+    "NOM_ETABA": "الثانوية التأهيلية المنصورة",
+    "AdresseL": "CENTRE DE LA COMMUNE MANSOURA",
+    "AdresseA": "مركز جماعة المنصورة",
+    "COMMUNE": "Mansoura",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

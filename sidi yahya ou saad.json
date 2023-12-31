@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI YAHYA OU SAAD",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي يحيى وسعد",
+    "AdresseL": "SIDI YAHYA OUSAID CENTRE COMMUNE SIDI YAHYA OUSAAD",
+    "AdresseA": "مركزجماعة سيدي يحيى وسعد",
+    "COMMUNE": "Sidi Yahya Ou Saad",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI YAHIA OU SAAD",
+    "NOM_ETABA": "سيدي يحيى وسعد",
+    "AdresseL": "SIDI YAHIA OUSAAD CENTRE COMMUNE SIDI YAHYA OUSAAD",
+    "AdresseA": "مركز جماعة سيدي يحسى وسعد",
+    "COMMUNE": "Sidi Yahya Ou Saad",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAOULI",
+    "NOM_ETABA": "تاولي",
+    "AdresseL": "DOUAR TAOULI COMMUNE SIDI YAHIA OU SAAD",
+    "AdresseA": "دوار تاولي جماعة سيدي يحيى وسعد",
+    "COMMUNE": "Sidi Yahya Ou Saad",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUTGHADIOUTE",
+    "NOM_ETABA": "بوتغديوت",
+    "AdresseL": "DOUAR BOUTGHADIOUTE COMMUNE SIDI YAHIA OU SAAD",
+    "AdresseA": "دوار بوتغديوت جماعة سيدي يحيى وسعد",
+    "COMMUNE": "Sidi Yahya Ou Saad",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY YACOUB",
+    "NOM_ETABA": "مولاي يعقوب",
+    "AdresseL": "DOUAR MOULAY YACOUB COMMUNE SIDI YAHIA OU SAAD",
+    "AdresseA": "دوار مولاي يعقوب جماعة سيدي يحيى وسعد",
+    "COMMUNE": "Sidi Yahya Ou Saad",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

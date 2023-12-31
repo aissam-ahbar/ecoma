@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE DAKHLA",
+    "NOM_ETABA": "إعدادية الداخلة",
+    "AdresseL": "ZAGGOTA CENTRE   COMMUNE ZAGGOTA",
+    "AdresseA": "زكوطة",
+    "COMMUNE": "Zaggota",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "WALILI",
+    "NOM_ETABA": "وليلي",
+    "AdresseL": "ZAGOTA CENTRE COMMUNE ZAGGOTA",
+    "AdresseA": "جماعة زكوطة",
+    "COMMUNE": "Zaggota",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN BATOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "DOUAR OULAD ZIANE  COMMUNE ZAGGOTA",
+    "AdresseA": "دوار اولاد زيان",
+    "COMMUNE": "Zaggota",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ZAGGOTA",
+    "NOM_ETABA": "ثانوية زكوطة",
+    "AdresseL": "Commune Zaggota",
+    "AdresseA": "جماعة زكوطة",
+    "COMMUNE": "Zaggota",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANWAL",
+    "NOM_ETABA": "الثانوية الإعدادية أنوال",
+    "AdresseL": "Centre anwal Bouchaouene",
+    "AdresseA": "مركز أنوال بوشاون",
+    "COMMUNE": "Bouchaouene",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GHILANE",
+    "NOM_ETABA": "غيلان",
+    "AdresseL": "DOUAR GHILANE",
+    "AdresseA": "دوار غيلان",
+    "COMMUNE": "Bouchaouene",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUTIJOUTE",
+    "NOM_ETABA": "بوتيجوت",
+    "AdresseL": "DOUAR AIT AHMAMOUCHE",
+    "AdresseA": "دوار آيت احماموش",
+    "COMMUNE": "Bouchaouene",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

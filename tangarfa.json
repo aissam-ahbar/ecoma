@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial TANGARFA",
+    "NOM_ETABA": "الثانوية الإعدادية تنكرفا",
+    "AdresseL": " centre COMMUNE TANGARFA",
+    "AdresseA": "مركز جماعة تنكارفا",
+    "COMMUNE": "Tangarfa",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ANOUAL CENTRE TNIN AKDIM",
+    "NOM_ETABA": "م.م أنوال مركزية اتنين اقديم",
+    "AdresseL": "DOUAR TNINE AKDIM",
+    "AdresseA": "دوار اتنين اقديم",
+    "COMMUNE": "Tangarfa",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUED EL MAKHAZINE CENTRE ID BERKA",
+    "NOM_ETABA": "م.م  وادي المخازن مركزية ادبركة",
+    "AdresseL": "DOUAR ID BERKA CENTRE COMMUNE TANGARFA",
+    "AdresseA": "دوار ادبركة مركز جماعة تنكرفا",
+    "COMMUNE": "Tangarfa",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire ABOU BAKR ESSIDIK CENTRE TAGNZA",
+    "NOM_ETABA": "مجموعة مدارس أبو بكر الصديق مركزية تكنزة",
+    "AdresseL": "DOUAR TAGNZA",
+    "AdresseA": "دوار تكنزة",
+    "COMMUNE": "Tangarfa",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire AMGHAR SAID CENTRE SMAHRA",
+    "NOM_ETABA": "مجموعة مدارس أمغار سعيد مركزية السماهرة",
+    "AdresseL": "DOUAR ESSMAHRA",
+    "AdresseA": "دوار السماهرة",
+    "COMMUNE": "Tangarfa",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL MOKAWAMA CENTRE TANGHOULASTE ",
+    "NOM_ETABA": "م.م المقاومة مركزية تنغلاست ",
+    "AdresseL": "DOUAR TANGHOULASTE",
+    "AdresseA": "دوار تنغلاست",
+    "COMMUNE": "Tangarfa",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

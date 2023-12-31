@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "DAR JAMAA",
+    "NOM_ETABA": "دار الجامع",
+    "AdresseL": "DOUAR DAR JAMAA COMMUNE DAR JAMAA",
+    "AdresseA": "دوار دار الجامع جماعة دار الجامع",
+    "COMMUNE": "Dar Jamaa",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT SMILE",
+    "NOM_ETABA": "ايت سميل",
+    "AdresseL": "DOUAR AIT SMILE COMMUNE DAR JAMAA",
+    "AdresseA": "دوار ايت سميل جماعة دار الجامع",
+    "COMMUNE": "Dar Jamaa",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BORDE",
+    "NOM_ETABA": "ايت بورد",
+    "AdresseL": "DOUAR AIT BOURD COMMUNE DAR JAMAA",
+    "AdresseA": "دوار ايت بورد جماعة دار الجامع",
+    "COMMUNE": "Dar Jamaa",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

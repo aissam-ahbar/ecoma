@@ -1,0 +1,1832 @@
+[
+  {
+    "NOM_ETABL": "EL ATLAS",
+    "NOM_ETABA": "الأطلس",
+    "AdresseL": "ROUTE 1100 SIDI MAAROUF OULED HADDOU",
+    "AdresseA": "طريق 1100 سيدي معروف أولاد حدو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL IMAM AL HABTI",
+    "NOM_ETABA": "الإمام الهبطي",
+    "AdresseL": "HADDAOUIA 3 RUE 30 AINCHOK",
+    "AdresseA": "الحداوية 3  زنقة 30 عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELMALEK ESSAADI",
+    "NOM_ETABA": "عبدالمالك السعدي",
+    "AdresseL": "RUE MERJANA LOTMOSTAKBAL SIDI MAAROUF OULED HADOU",
+    "AdresseA": "زنقة مرجانة - تجزئة المستقبل  ،سيدي معروف أولاد حد",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKR ESSEDIK",
+    "NOM_ETABA": "ابوبكر الصديق",
+    "AdresseL": "SIDI MAAROUF OULED HADDOU",
+    "AdresseA": "سيدي معروف اولاد حدو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY ABDERAHMANE",
+    "NOM_ETABA": "مولاي عبدالرحمان",
+    "AdresseL": "BD 2 MARS HAY INARA AIN CHOCK",
+    "AdresseA": "شارع 2 مارس حي  مولاي عبد الله   عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAHCEN OUIDER",
+    "NOM_ETABA": "لحسن اويدار",
+    "AdresseL": "HAY MY ABDALLAH  BD EL QODS AIN CHOK",
+    "AdresseA": "شارع القدس حي مولاي عبداله",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL HOUSNA",
+    "NOM_ETABA": "الحسنى",
+    "AdresseL": "HAY MY ABDELLAH",
+    "AdresseA": "حي مولاي عبد الله زنقة 31  عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "FATIMA AL FIHRIA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "HAY RMILA RUE 14 AIN CHOK",
+    "AdresseA": "حي الرميلة زنقة  14  عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN MAJA",
+    "NOM_ETABA": "ابن ماجة",
+    "AdresseL": "HAY MY ABDELLAH",
+    "AdresseA": "حي مولاي عبدالله عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHAHID MOHAMED BEN MEKKI",
+    "NOM_ETABA": "الشهيد محمد بن المكي",
+    "AdresseL": "lamkansa  Nord AIN CHOCK",
+    "AdresseA": "المكانسة الشمالية ، عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED EL HEIMER",
+    "NOM_ETABA": "احمد الحيمر",
+    "AdresseL": "PISTE TADDARETE DOUR OULAD ETTALEB AIN CHOK",
+    "AdresseA": "أولاد الطالب -تدارت- عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "FATIMA THAMI",
+    "NOM_ETABA": "فاطمة التهامي",
+    "AdresseL": "DOUAR LAMZABIYINE SIDI MASSOUD AIN CHOCK",
+    "AdresseA": "سيدي مسعود ،  دوار لمزبيين",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHEIKH AHMED ALHIBA",
+    "NOM_ETABA": "الشيخ أحمد الهيبة",
+    "AdresseL": "LAMKANSSA Nord  AIN CHOCK",
+    "AdresseA": "المكانسة الشمالية ، عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " MOHAMMED BEKKAL",
+    "NOM_ETABA": "محمد البقال",
+    "AdresseL": "HAY MY ABDELLAH RUE 187",
+    "AdresseA": "حي مولاي عبدالله زنقة 187",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YASMINA",
+    "NOM_ETABA": "ياسمينة",
+    "AdresseL": "HAY YASMINA 4  RUE 68",
+    "AdresseA": "ياسمينة 4 الزنقة 68",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL WAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "HAY MY ABDELLAH BD SEFROU AIN CHOCK",
+    "AdresseA": "حي مولاي عبد الله ، شارع صفرو ، عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL INARA",
+    "NOM_ETABA": "الإنارة",
+    "AdresseL": "angle des bvs alqods et 2 mars",
+    "AdresseA": "ملتقى شارعي القدس و 2مارس",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ACHIR",
+    "NOM_ETABA": "ابن عاشر",
+    "AdresseL": "HAY MY ABDELLAH RUE 101",
+    "AdresseA": "حي مولاي عبد الله،  الزنقة 101",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BECHARD BNOU BORD",
+    "NOM_ETABA": "بشار بن برد",
+    "AdresseL": "HAY MOULAY ABDELLAH RUE 31",
+    "AdresseA": "حي مولاي عبد الله الزنقة 31",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "65 RUE 9 AIN CHOCK ",
+    "AdresseA": "الزنقة 9 الرقم  65 عين الشق  ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUHTOURI",
+    "NOM_ETABA": "البحتري",
+    "AdresseL": "BD BAGHDAD RUE 142 DERB EL KHAIR",
+    "AdresseA": "شارع بغداد الزنقة 142 درب الخير",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN AL MOKAFFAA",
+    "NOM_ETABA": "ابن المقفع",
+    "AdresseL": "RUE 167 BLOC 109 ain chok",
+    "AdresseA": "الزنقة 167 بلوك 10/9 -عين الشق-",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YAAKOUB EL MANSOUR",
+    "NOM_ETABA": "يعقوب المنصور",
+    "AdresseL": " RUE 51 N17  BINE LAMDOUNE",
+    "AdresseA": "الزنقة 51 الرقم 17 بين المدن",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIN LAMDOUNE EL JADIDA",
+    "NOM_ETABA": "بين المدن الجديدة",
+    "AdresseL": "HAY RMILA RUE 35 BINE LAMDOUNE AIN CHOK",
+    "AdresseA": "حي الرميلة الزنقة 35 بين المدن عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM BOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "HAY EL FATH EL INARA III",
+    "AdresseA": "شارع أرفود حي الفتح الإنارة 3",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ADARISSA",
+    "NOM_ETABA": "الأدارسة",
+    "AdresseL": "LOTISSEMENT ERRACHIDIA RUE 10 AL INARA 1",
+    "AdresseA": "تجزئة الراشدية الزنقة 10 الإنارة 1",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN KATIR",
+    "NOM_ETABA": "ابن كثير",
+    "AdresseL": "ROUTE BOUSKOURA SIDI MAAROUF OULED HADDOU",
+    "AdresseA": "طريق بوسكورة سيدي معروف أولاد حدو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MOUTANABI",
+    "NOM_ETABA": "المتنبي",
+    "AdresseL": "ROUTE BOUSKOURA   SIDI MAAROUF OULED HADDOU",
+    "AdresseA": "طريق بوسكورة سيدي معروف أولاد حدو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MASSOUD",
+    "NOM_ETABA": "سيدي مسعود",
+    "AdresseL": "ROUTE NOUACEUR KM 9 SIDI MESOUD",
+    "AdresseA": "طريق النواصر كلم 9 سيدي مسعود",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "route 1100 SIDI MAAROUF OULED HADDOU",
+    "AdresseA": "طريق 1100 سيدي معروف أولاد حدو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SALMANE EL FARISSI",
+    "NOM_ETABA": "سلمان الفارسي",
+    "AdresseL": "SIDI MAAROUF OULED HADDOU",
+    "AdresseA": "سيدي معروف أولاد حدو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NARJIS",
+    "NOM_ETABA": "النرجس",
+    "AdresseL": " Ain Choc YASMINA 4  RUE 48",
+    "AdresseA": "عين الشق ياسمينة 4 زنقة 48",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HADDAOUINE",
+    "NOM_ETABA": "الحديويين",
+    "AdresseL": "LAMKANSA AIN CHOK",
+    "AdresseA": "المكانسة   عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALI BNOU ABI TALEB",
+    "NOM_ETABA": "علي ابن ابي طالب",
+    "AdresseL": "Bd aboubakr el kadiri sidi maarouf ain chock casab",
+    "AdresseA": "   شارع أبو بكر القادري ــ سيدي معروف  ـ عين الشق ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMANE HJIRA",
+    "NOM_ETABA": "عبدالرحمان احجيرة",
+    "AdresseL": "BILAD EL KHAIR HAY LOUSRA AIN CHOK",
+    "AdresseA": "بلاد الخير حي الأسرة عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKADER EL MAZINI",
+    "NOM_ETABA": "عبدالقادر المازني",
+    "AdresseL": "Lotissement ARD EL KHEIR N160 Hay INARA AIN CHOK",
+    "AdresseA": "تجزئة أرض الخير الرقم 161 حي الإنارة -عين الشق-",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ITIHAD AL IFRIQUI",
+    "NOM_ETABA": "الاتحاد الافريقي",
+    "AdresseL": "ROUTE SIDI MESSAOUD  AIN CHOCK",
+    "AdresseA": "طريق سيدي مسعود - عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MAARIFA",
+    "NOM_ETABA": "المعرفة ",
+    "AdresseL": "Boulevard Annakhil résidence les beaux jardins AIN",
+    "AdresseA": "شارع النخيل إقامة الحدائق الجميلة عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NASSER",
+    "NOM_ETABA": "النصر الابتدائية",
+    "AdresseL": "El Mkanssa 3 Ain chock ",
+    "AdresseA": "المكانسة 3، عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole  ABD RAHMAN YOUSSFI",
+    "NOM_ETABA": "مدرسة عبد الرحمان اليوسفي ",
+    "AdresseL": "Lot Hafid - Oulad Rahou . Sidi Marouf . AIN CHOCK",
+    "AdresseA": "تجزئة حافيض - اولاد رحو - سيدي معروف . عمالة عين ا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH EL AYACHI",
+    "NOM_ETABA": "عبدالله العياشي",
+    "AdresseL": "Sidi Maarouf   La Colline2",
+    "AdresseA": "  2 عمالة عين الشق   سيدي معروف.  لاكولين ",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE TÉCHNIQUE ANOUAL",
+    "NOM_ETABA": "الثانوية التأهيلية التقنية أنوال",
+    "AdresseL": "BOULVARD DAKHLLA Haddaouia2 Ain chock ",
+    "AdresseA": "شارع الداخلة ،الحداوية 02 عين الشق",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELKRIM AL KHATTABI",
+    "NOM_ETABA": "عبدالكريم الخطابي",
+    "AdresseL": "jnane californie ain choc",
+    "AdresseA": "جنان كاليفورنيا عين الشق",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBNO ARABI",
+    "NOM_ETABA": "ابن عربي",
+    "AdresseL": "SIDI MAAROUF",
+    "AdresseA": "سيدي معروف",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OTHMANE BEN AAFFANE",
+    "NOM_ETABA": "عثمان ابن عفان",
+    "AdresseL": " SIDI MAAROUF OULED HADDOU",
+    "AdresseA": "سيدي معروف اولاد حدو",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LAMSALLA",
+    "NOM_ETABA": "المصلى",
+    "AdresseL": "HAY MOULAY ABDELLAH Ain chok",
+    "AdresseA": "حي مولاي عبد الله  عين الشق  ",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN ZAYDOUNE",
+    "NOM_ETABA": "ابن زيدون",
+    "AdresseL": "HAY MY ABDELLAH BD TMARA",
+    "AdresseA": "عين الشق  حي مولاي عبد الله شارع اتمارة",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELKHALEK TORRES",
+    "NOM_ETABA": "عبدالخالق الطريس",
+    "AdresseL": "HAY MY ABDELLAH RUE 101",
+    "AdresseA": "حي مولاي عبدالله  زنقة101",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SALAH ADINE ALAYOUBI",
+    "NOM_ETABA": "ثانوية صلاح الدين الأيوبي",
+    "AdresseL": "Hay Florida Sidi Marouf",
+    "AdresseA": "حي فلوريدا سيدي معروف",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOULAY HASSAN",
+    "NOM_ETABA": "ثانوية مولاي الحسن ",
+    "AdresseL": "Mekanssa . Ain chock",
+    "AdresseA": "المكانسة - عين الشق",
+    "COMMUNE": "Aîn-Chock ",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "mahd al irfane",
+    "NOM_ETABA": "مهد العرفان الخصوصية",
+    "AdresseL": "LOTISSEMENT MANDARONA RUE 25 N",
+    "AdresseA": "تجزئة منظرونا زنقة 25 رقم 97 ع",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PEDAGO 2",
+    "NOM_ETABA": "بيداغو 2",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة خمزة البقعة 81 الطابق ال",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "j.kepler",
+    "NOM_ETABA": "مجموعة مدارس ج. كيبلر",
+    "AdresseL": "LOTISSEMENT MABROUKA RUE 100 N",
+    "AdresseA": "تجزئة مبروكة زنقة 100 رقم 8 سي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "VIVANTE",
+    "NOM_ETABA": "مؤسسة فيفانت",
+    "AdresseL": "NULL",
+    "AdresseA": "مشروع تسنيم كاليفورنيا 2 شارع ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSAHWA",
+    "NOM_ETABA": "مؤسسة الصحوة",
+    "AdresseL": "1 lot azahr 1 bd sidi maarouf ",
+    "AdresseA": "تجزئة زهر 1 الرقم 1 سيدي معروف",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DIGISCHOOL",
+    "NOM_ETABA": "ديجيسكول",
+    "AdresseL": "189 191 193 Bd ouled haddou AI",
+    "AdresseA": "شارع اولاد حدو ،حي زكرياء عين ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT BAB ANDALOUSS2",
+    "NOM_ETABA": "مؤسسة باب الأندلس 2 الخصوصية",
+    "AdresseL": "15 RUE HAIFA BD ALKODSS AIN CH",
+    "AdresseA": "15 زنقة حيفا شارع القدس عين ال",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S Berrada",
+    "NOM_ETABA": "مجموعة مدارس برادة الخصوصية ",
+    "AdresseL": "villa vermont,rue 9,n° 16,polo",
+    "AdresseA": "فيلا فرمون ز9 رقم 16 بولو عين ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al karama",
+    "NOM_ETABA": "الكرامة",
+    "AdresseL": "lotissement mona;lot 134;ain c",
+    "AdresseA": "تجزئة موني رقم 134 عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MIRAGE",
+    "NOM_ETABA": "المعراج",
+    "AdresseL": "YASMINA 5 RUE 107 N° 11",
+    "AdresseA": "ياسمينة 5 زنقة 107 رقم 11 عين ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM HANI",
+    "NOM_ETABA": "أم هانئ",
+    "AdresseL": "39 lotissement hamza",
+    "AdresseA": " تجزئة حمزة رقم 39",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "addalil ",
+    "NOM_ETABA": "الدليل",
+    "AdresseL": "55 lot hamra 2 bD AL QODS AIN ",
+    "AdresseA": "تجزئة الحمرا2 رقم 55.شارع القد",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour al maarifa",
+    "NOM_ETABA": "نور المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "300 تجزئة لينا. سيدي معروف",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alhoulm saguir",
+    "NOM_ETABA": "الحلم الصغير",
+    "AdresseL": "lotissement belle vue sidi maa",
+    "AdresseA": "تجزئة المنظر الجميل  سيدي معرو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole al yawm",
+    "NOM_ETABA": "مدرسة اليوم الخصوصية",
+    "AdresseL": "Lotissement El Kholf, Rue 36 N",
+    "AdresseA": "تجزئة الخلف الزنقة 36 الرقم 1س",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "City school",
+    "NOM_ETABA": "سيتي سكول",
+    "AdresseL": "",
+    "AdresseA": "تجزئة لينا 277 سيدي معروف ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole yassamine sidi maarouf",
+    "NOM_ETABA": "الياسمين سيدي معروف",
+    "AdresseL": "LOT LINA RUE 26 N 32 AIN CHOC",
+    "AdresseA": "تجزئة لينا زنقة 26 رقم 32 عين ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S .RIAD",
+    "NOM_ETABA": "مجموعة مدارس رياض",
+    "AdresseL": "boulevard  el hachmi el filali",
+    "AdresseA": "شارع الهاشمي الفيلالي عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALIRTIKA 3",
+    "NOM_ETABA": "الارتقاء 3",
+    "AdresseL": "lot miamar rUE 30 N°67 AIN CHO",
+    "AdresseA": "تجزئة ميامار زنقة 30 رقم 27 عي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE TOULOUSE",
+    "NOM_ETABA": "مؤسسة تولوز الخصوصية",
+    "AdresseL": "Rue 11 n 27 skouma . ain chock",
+    "AdresseA": "زنقة 11 رقم 27 تجزئة سكوما عين",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe  Scolaire  alyawm",
+    "NOM_ETABA": "م م اليوم الخصوصية",
+    "AdresseL": "Lotissement Saada , rue 77 N°3",
+    "AdresseA": "تجزئة  سعادة سيدي معروف زنقة 7",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al khalia 2",
+    "NOM_ETABA": "مؤسسة الخلية 2",
+    "AdresseL": "",
+    "AdresseA": "تجزئة لينا رقم 326 سيدي معروف ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire la seconde maison",
+    "NOM_ETABA": "مجموعة مدارس البيت الثاني ",
+    "AdresseL": " bD zOULIKHA nASRI, ROUTE  110",
+    "AdresseA": " شارع زليخة ناصري طريق 1100 سي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HIBA AL AMINE",
+    "NOM_ETABA": "هبة الأمين",
+    "AdresseL": "lotissemen zhar rue 60 n:2 sid",
+    "AdresseA": "تجزئة الزهر،زنقة 60 رقم 2، سيد",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al jil al jadid",
+    "NOM_ETABA": "الجيل الجديد",
+    "AdresseL": "BD TAH & BD MOHAMED vI N° 01 A",
+    "AdresseA": "  ملتقى شارع محمد السادس و شار",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "montessori",
+    "NOM_ETABA": "مونتيسوري",
+    "AdresseL": "lot hanan n 6 avenu panoramiqu",
+    "AdresseA": "رقم 6 تجزئة حنان شارع المنظر ا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KAFIL",
+    "NOM_ETABA": "الكفيل",
+    "AdresseL": "aIN cHOCK  - hAY eL  HAMRA 2 -",
+    "AdresseA": "تجزئة الحمراء 2 زنقة 9  رقم 43",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hidaya inara",
+    "NOM_ETABA": "الهداية الانارة",
+    "AdresseL": "Bd Meknes Rue 30 lot SAFA I NA",
+    "AdresseA": "تجزئة الصفا 2 شارع مكناس زنقة ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "pedago",
+    "NOM_ETABA": "بيداگو",
+    "AdresseL": "22 Bd Alqods  Lotissement Al h",
+    "AdresseA": "رقم 22 شارع الفدس حي الحمراء ع",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jil ennahda",
+    "NOM_ETABA": "جيل النهضة",
+    "AdresseL": "Lotisement skouma  rue 10 n°35",
+    "AdresseA": "  عين الشق زنقة 10 رقم 35 تجزئ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SAHAT ALKIBAR",
+    "NOM_ETABA": "ساحة الكبار",
+    "AdresseL": "Bd alqods entre gh12.gh13 ain ",
+    "AdresseA": " عين الشقgh12 .gh13شارع القدس ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Pensée",
+    "NOM_ETABA": "الفكر",
+    "AdresseL": "Villa SACEM - N° 20 - Sidi Maa",
+    "AdresseA": "فيلا صاصام - رقم 20 - سيدي معر",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABC",
+    "NOM_ETABA": "الألفباء",
+    "AdresseL": "Residence Majorelle, Route Tad",
+    "AdresseA": "اقامة ماجوريل، شارع  هاشمي الف",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tarik bnou Ziad",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "Lotissement Amrane, Rue 8, N° ",
+    "AdresseA": "تجزئة عمران، زنقة 8 رقم 240-24",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Manar El Khair",
+    "NOM_ETABA": "مجموعة مدارس منار الخير",
+    "AdresseL": "residence koutoubia, Rue 145 I",
+    "AdresseA": "إقامة الكتبية، زنقة 145، عمارة",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Riad",
+    "NOM_ETABA": "مدارس رياض",
+    "AdresseL": "Bd. Tarik Bnou Ziad, lotisseme",
+    "AdresseA": "شارع طارق بن زياد - حي رياض ال",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Horizon",
+    "NOM_ETABA": "الأفق",
+    "AdresseL": "Groupe Addoha Al Moustakbal, G",
+    "AdresseA": "مجموعة الضحى - المستقبل gh 37 ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Fatiha",
+    "NOM_ETABA": "الفاتحة",
+    "AdresseL": "Hay Ennajah, Place Boumerdass ",
+    "AdresseA": "حي النجاح، ساحة بومدراس - سيدي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSAFIR",
+    "NOM_ETABA": "السفير",
+    "AdresseL": "Lotissement Hassan Bd. Tah, N°",
+    "AdresseA": "تجزئة حسن، شارع الطاح، رقم 571",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Majorelle",
+    "NOM_ETABA": "ماجوريل",
+    "AdresseL": "N° 600, Al Kods, Gay El Hamra ",
+    "AdresseA": "رقم 600، شارع القدس، حي الحمرا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANJAL",
+    "NOM_ETABA": "الأنجال",
+    "AdresseL": "bd hifa hamra 2 rue 12 n 12 ha",
+    "AdresseA": "شارع حيفا الحمراء 2 زنقة 12 رق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PERTINENCE",
+    "NOM_ETABA": "م.م.السداد",
+    "AdresseL": "75, rue 1 Lot Inssaf Inara 1 A",
+    "AdresseA": "رقم 75- زنقة 1 تجزئة الإنصاف ا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADAA AL OULOUMe",
+    "NOM_ETABA": "فضاء العلوم",
+    "AdresseL": "BD:BAGHDAD RESIDENCE ELKOUTOUB",
+    "AdresseA": "شارع بغداد إقامة الكتبية عمارة",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire sidi maarouf",
+    "NOM_ETABA": "مجموعة مدارس سيدي معروف",
+    "AdresseL": "333.Lot lina sidi maarouf",
+    "AdresseA": " تجزئة لينا.333 سيدي معروف",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YASSAMINE cALIFORNIE",
+    "NOM_ETABA": "ياسمين كالفورنيا",
+    "AdresseL": "616, lotissement blad el azze ",
+    "AdresseA": "تجزئة بلاد العز، شارع فاس، رقم",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MADINA POLO",
+    "NOM_ETABA": "المدينة بولو",
+    "AdresseL": "52,avenue nador casablanca",
+    "AdresseA": "52،شارع الناظور",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESCALADE  II",
+    "NOM_ETABA": "الإرتقاء  2",
+    "AdresseL": "N 22- Krimat 2 -Bd Dakhla",
+    "AdresseA": " رقم 22، حي الكريمات 2  -شارع ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM AL KAURA  II",
+    "NOM_ETABA": "ام القرى  2",
+    "AdresseL": "Douar lamzabyine ouled moussa-",
+    "AdresseA": "دوار المزابيين اولاد موسى -مقا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OUM",
+    "NOM_ETABA": "الأم",
+    "AdresseL": "lotissment  benlekbir,rue 10 N",
+    "AdresseA": "(تجزئة بن لكبير، زنقة 10 رقم 1",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSEMOU",
+    "NOM_ETABA": "السمو",
+    "AdresseL": "LOT ELMEHDI BLOC A  N°5 SIDI M",
+    "AdresseA": "تجزئة المهدي بلوك أ، رقم 5 ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S JULES FERRY SIDI MAAROUF",
+    "NOM_ETABA": "مجموعة مدارس جول فيري سيدي معروف الخصوصية",
+    "AdresseL": "11,lotissement soufiane sidi m",
+    "AdresseA": "تجزئة سفيان رقم 11 سيدي معروف ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMANE",
+    "NOM_ETABA": "الأمان",
+    "AdresseL": "lotissement zakia 113 sidi maa",
+    "AdresseA": "تجزئة زكية رقم 113 سيدي معروف",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMIRA",
+    "NOM_ETABA": "الأميرة",
+    "AdresseL": "Lotissement Hafid El Kheir Sid",
+    "AdresseA": "العنوان:  تجزئة حافظ الخير سيد",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Charaf",
+    "NOM_ETABA": "مجموعة مدارس شرف",
+    "AdresseL": "Lot. Charaf, N° 29 - Sidi  Maa",
+    "AdresseA": "تجزئة شرف - رقم 29، سيدي معروف",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES SANOUNOU II",
+    "NOM_ETABA": "مدارس السنونو 2",
+    "AdresseL": "N° 25, Lot. ESSALAMA, Sidi Maa",
+    "AdresseA": "رقم 25، تجزئة السلامة  -سيدي م",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAURICE CAREME",
+    "NOM_ETABA": "MAURICE CAREME",
+    "AdresseL": "36. Lakrimate 3,  Ain Chok",
+    "AdresseA": "تجزئة الكريمات 3، رقم 36 - عين",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Decouverte",
+    "NOM_ETABA": "الاكتشاف",
+    "AdresseL": "Ouled Taleb, Rue 70, N° 7 - Ai",
+    "AdresseA": "اولاد طالب، زنقة 70، رقم 7 - ع",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ouzoud II",
+    "NOM_ETABA": "اوزود 2",
+    "AdresseL": "N) 64 et 65, Dar Chaoui, Hay E",
+    "AdresseA": "رقم 64 و 65 دار الشاوي حي الأس",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MARCINELLE SCHOOL",
+    "NOM_ETABA": "مارسينيل سكول الخصوصية ",
+    "AdresseL": "hay krimat rue 29 n° 18 AIN CH",
+    "AdresseA": "رقم 18، زنقة 29، حي لكريمات",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Nayl Essalam",
+    "NOM_ETABA": "نيل السلام ",
+    "AdresseL": "Lot. Siham, N° 70, Bd. Taddart",
+    "AdresseA": "تجزئة سهام، رقم 70، شارع تدارت",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Louai",
+    "NOM_ETABA": "الواعي",
+    "AdresseL": "Lot. Al Adarissa N° 27 - Sidi ",
+    "AdresseA": "تجزئة الأدارسة، رقم 27 - سيدي ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jules Verne",
+    "NOM_ETABA": "جول فيرن",
+    "AdresseL": "N° 276, Lotissement Lina, Sidi",
+    "AdresseA": "رقم 276، تجزئة لينا، سيدي معرو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Ruche",
+    "NOM_ETABA": "الخلية",
+    "AdresseL": "N°273, Lotissement Lina, Sidi ",
+    "AdresseA": "رقم 273، تجزئة لينا، سيدي معرو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Florida",
+    "NOM_ETABA": "فلوريدا",
+    "AdresseL": "6, Lotissement Florida , Sidi ",
+    "AdresseA": "  رقم 6 ، تجزئة فلوريدا امتداد",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bab Al Andalousse",
+    "NOM_ETABA": "باب الأندلس",
+    "AdresseL": "Addamane Prolonge Bd Al Qods, ",
+    "AdresseA": "الضمان، امتداد شارع القدس، عين",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chorouq",
+    "NOM_ETABA": " شروق",
+    "AdresseL": "N° 39, Lotissement Siham, Cali",
+    "AdresseA": "رقم 39، تجزئة سهام، كاليفورنيا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Firdaous Ennour",
+    "NOM_ETABA": " فردوس النور",
+    "AdresseL": "Lotissement Salima,Rue3,N°5 - ",
+    "AdresseA": "تجزئة سليمة، زنقة 3، رقم5 - عي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAURICE CAREME POLO",
+    "NOM_ETABA": "موريس كاريم بولو",
+    "AdresseL": "Rue 9, N° 13, Lotissement verm",
+    "AdresseA": "زنقة 9، رقم 13، تجزئة فورمون -",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Poussins d or",
+    "NOM_ETABA": " الكتاكيت الذهبية",
+    "AdresseL": "Bd Mohamed VI N° 04 - km 7.5 -",
+    "AdresseA": "شارع محمد السادس رقم 04 - كلم ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bouchra khair",
+    "NOM_ETABA": " بشرى الخير الخصوصية",
+    "AdresseL": "Lotissement Bouchra,Rue3 N° 43",
+    "AdresseA": "تجزئة بشرى، زنقة 3 رقم43 -  سي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Adarissa NOUR EL KHEIRE",
+    "NOM_ETABA": " الأدارسة نور الخير الخاصة",
+    "AdresseL": "Lotissement Al Adarissa, N° 12",
+    "AdresseA": " تجزئة الأدارسة، رقم 128 -  سي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Karam",
+    "NOM_ETABA": "الكرم",
+    "AdresseL": "Lotissement My Driss, N 76 Bd ",
+    "AdresseA": "تجزئة مولاي ادريس، 76، شارع ال",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Koutoubia II",
+    "NOM_ETABA": "الكتبية 2",
+    "AdresseL": "Lot. Zakaria, N° 1 El Inara - ",
+    "AdresseA": "تجزئة زكرياء، رقم 1، حي الإنار",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Salah Eddine",
+    "NOM_ETABA": "صلاح الدين",
+    "AdresseL": "Hay My Abdellah, Rue 186, N° 1",
+    "AdresseA": "حي مولاي عبد الله، الزنقة 186،",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT  AL IFADA",
+    "NOM_ETABA": "مؤسسة  الإفــادة",
+    "AdresseL": "N°21  BD OULAD HADDOU LAKRIMAT",
+    "AdresseA": "رقم 21 شارع أولاد حدو الكريمات",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Oumrane",
+    "NOM_ETABA": "مجموعة مدارس العمران",
+    "AdresseL": "Lotissement Selma, BOULVARD SI",
+    "AdresseA": "تجزئة سلمى، شارع سيدي معروف - ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Sanounou I",
+    "NOM_ETABA": " مدرسة السنونو 1",
+    "AdresseL": "N° 131, Lotissement Florida, R",
+    "AdresseA": "رقم 131، تجزئة فلوريدا، طريق س",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Mandarona",
+    "NOM_ETABA": "مجموعة مدارس منظرنا",
+    "AdresseL": "LOT MANDARONA N 238/  SIDI MAA",
+    "AdresseA": "تجزئة منظرنا، رقم 238 - ج. سيد",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "francis valéry",
+    "NOM_ETABA": "مؤسسة فرانسيس فاليري الخصوصية",
+    "AdresseL": "Lotissement Lina, N° 266 - C. ",
+    "AdresseA": "تجزئة لينا، رقم 266 - ج. سيدي ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Oum Al Kaura",
+    "NOM_ETABA": "أم القرى",
+    "AdresseL": "8Rue Saadienne, Californie - A",
+    "AdresseA": "عين الشق    كاليفورنيا  8 زنقة",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut 2 Mars",
+    "NOM_ETABA": "مؤسسة 2 مارس الخصوصية",
+    "AdresseL": "Lotissement Oulahyane, Rue 1, ",
+    "AdresseA": "تجزئة الحيان، زنقة 1، فيلا 34 ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bilal Secondaire",
+    "NOM_ETABA": "مؤسسة بلال",
+    "AdresseL": "N° 12, Rue 22 , Hay Awgrit - A",
+    "AdresseA": "رقم 12، زنقة 22، حي اوكريت - ع",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Californie I",
+    "NOM_ETABA": "كاليفورني 1",
+    "AdresseL": "bd panoramique rue 2 n 4  cali",
+    "AdresseA": "شارع المنظر العام، زنقة 2 رقم ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Berrada",
+    "NOM_ETABA": "مجموعة مدارس برادة",
+    "AdresseL": "Lotis. Vermont, Rue 11, Quarti",
+    "AdresseA": "تجزئة فيرمون، زنقة 11، حي لكري",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Goupe Scolaire Les LYS",
+    "NOM_ETABA": "مجموعة مدارس ليليس",
+    "AdresseL": "N° 472, Bd. Panoramique - C. A",
+    "AdresseA": "رقم 472، شارع المنظر العام - ج",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Pont",
+    "NOM_ETABA": "الجسر",
+    "AdresseL": "  548 bd panoramique  californ",
+    "AdresseA": "رقم 548، شارع المنظر العام، كا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Madina",
+    "NOM_ETABA": "المدينة",
+    "AdresseL": " LOT BELLEVUE 2 RUE 3 CALIFORN",
+    "AdresseA": "تجزئة المنظر الجميل 2 زنقة 3 ك",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Hidaya",
+    "NOM_ETABA": "مجموعة مدارس الهداية",
+    "AdresseL": "Lotissement Chrifa, Rue 13, N°",
+    "AdresseA": "تجزئة شريفة زنقة 13  رقم 4 عين",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Maâhad El Jadid 1",
+    "NOM_ETABA": "مؤسسة المعهد الجديد 1",
+    "AdresseL": "VILLA 25/27, Rue 20, Hay Fath ",
+    "AdresseA": "فيلا 27/25، زنقة 20، حي الفتح ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Khalil",
+    "NOM_ETABA": "الخليــل",
+    "AdresseL": "Rue 30, N° 62-64  KRIMATE AIN ",
+    "AdresseA": "عين الشق  الكريمات زنقة 30 رقم",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ma Marraine",
+    "NOM_ETABA": "مامارين",
+    "AdresseL": "N° 39, Boulevard Dakhla, Inara",
+    "AdresseA": " شارع الداخلة  الانارة 1   رقم",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Californie II",
+    "NOM_ETABA": "كاليفورني  2",
+    "AdresseL": "2, BD PANORAMIQUE  LOT ZINEB",
+    "AdresseA": "2 شارع المنظر العام تجزئة زينب",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Amiria",
+    "NOM_ETABA": "العامرية",
+    "AdresseL": "N° 48, Avenue Nador, Polo - C.",
+    "AdresseA": "رقم 48، شارع الناظور، بولو - ج",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Achbal Ifriqia",
+    "NOM_ETABA": "أشبال افريقيا",
+    "AdresseL": "Boulevard El Haouz. Numéro 1ex",
+    "AdresseA": "شارع الحوز زنقة المارشي،  سابق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Jawaher",
+    "NOM_ETABA": "الجواهر ",
+    "AdresseL": " 3 Lot kikia major lafonta Bd ",
+    "AdresseA": "تجزئة كيكيا ماجور لافونتا شارع",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Errafidine",
+    "NOM_ETABA": " الرافدين",
+    "AdresseL": "bin lemdoune rue 33 n° 20",
+    "AdresseA": "بين المدن زنقة  33 رقم 20",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ouzoud I",
+    "NOM_ETABA": "أوزود 1",
+    "AdresseL": "Lot. Dar El Chaoui, N° 66, Hay",
+    "AdresseA": "تجزئة دار الشاوي، رقم 66، حي ا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mokhtar Soussi",
+    "NOM_ETABA": "المختار السوسي الخصوصية",
+    "AdresseL": "ELOUSSRA 2  RUE 33  N 87/89  A",
+    "AdresseA": "حي الأسرة 2، الزنقة 33، الرقم ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manara",
+    "NOM_ETABA": "المنارة الخاصة",
+    "AdresseL": "N° 149-21 Hay Zguoura - C. Ain",
+    "AdresseA": "رقم 19-20، حي زكاورة - ج. عين ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Lalla Amina",
+    "NOM_ETABA": "سمو الأميرة للا أمينة",
+    "AdresseL": "N° 474, Boulevard Panoramique ",
+    "AdresseA": "474 شارع المنظر العام عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Polo",
+    "NOM_ETABA": " بولو",
+    "AdresseL": "31 PASSAGE OUKAIMEDEN  POLO ",
+    "AdresseA": "محج اتلانتيد، زنقة اوكيمدن، بو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lemrabet",
+    "NOM_ETABA": "المرابط",
+    "AdresseL": "N° 442, Avenue 2 Mars - C. Ain",
+    "AdresseA": "    رقم    442   شارع 2 مارس",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Heures Joyeuses",
+    "NOM_ETABA": "اللحظات السعيدة ",
+    "AdresseL": "N° 88, Rue 12, Lot. Chrifa - C",
+    "AdresseA": "رقم 88 زنقة 12 تجزئة شريفة عين",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Ouissame",
+    "NOM_ETABA": "الوسام",
+    "AdresseL": "Quartier Mandarona, Rue 5, N° ",
+    "AdresseA": "حي منظرونا، زنقة 5، رقم 230 - ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire ALMOULTAKA",
+    "NOM_ETABA": "مجموعة مدارس الملتقى",
+    "AdresseL": " LOT FANFAN RUE 1 N 3  CALIFOR",
+    "AdresseA": "تجزئة فان فان، رقم 3، زنقة 1، ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Nasser",
+    "NOM_ETABA": " ناصر",
+    "AdresseL": "103, RUE 2, LotISSEMENT Chrifa",
+    "AdresseA": "تجزئة الشريفة ، الزنقة 2 ، الر",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bambi la gazelle ",
+    "NOM_ETABA": "بامبي الغزالة",
+    "AdresseL": "LOT MOUNA  RUE 2 N 238 hay ina",
+    "AdresseA": "تجزئة مونة، زنقة 2، رقم 238، ا",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANOUAR ALHIDAYA",
+    "NOM_ETABA": "أنوار الهداية",
+    "AdresseL": "Hay Moulay Abdellah, Rue 164, ",
+    "AdresseA": "    زنقة 164 رقم 36 حي مولاي ع",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al anwar 2",
+    "NOM_ETABA": "الأنوار 2",
+    "AdresseL": "Hay Al Idaa, Boulevard Es-smar",
+    "AdresseA": "حي الإذاعة، شارع السمارة، رقم ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Bab Al Mansour",
+    "NOM_ETABA": "مجموعة مدارس باب المنصور",
+    "AdresseL": "ANGLE RUE 140 ET 39  DERB ELKH",
+    "AdresseA": "ملتقى زنقة 140 و زنقة 39، درب ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Imam Mouslim",
+    "NOM_ETABA": "مدرسة الإمام مسلم",
+    "AdresseL": "LOT ERRACHIDIA RUE 4 N 10 ET 1",
+    "AdresseA": "تجزئة الراشيدية، زنقة 4، رقم 1",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Modèle I",
+    "NOM_ETABA": "النموذجية  1",
+    "AdresseL": "MOSQUEE TAWHID  INARA 2 RUE 5 ",
+    "AdresseA": "مسجد توحيد، حي الإنارة  زنقة 5",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Marcinelle Schoole 2",
+    "NOM_ETABA": "مارسينيل سكول 2",
+    "AdresseL": "LOT VERMONT N 171  RUE5  POLO ",
+    "AdresseA": "تجزئة فيرمون، رقم 171، زنقة 5 ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Maâhad El Jadid II",
+    "NOM_ETABA": "المعهد الجديد 2",
+    "AdresseL": "Villa27 BD Daouha El Fath 3 In",
+    "AdresseA": "فيلا 27 شارع الدوحة  حي الفتح ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Californie  III",
+    "NOM_ETABA": "كاليفورني 3",
+    "AdresseL": "LOT ZINEB N1 CALIFORNIE ",
+    "AdresseA": "تجزئة زينب، رقم 1، كاليفورنيا ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire L Elite",
+    "NOM_ETABA": "مجموعة مدارس الصفوة",
+    "AdresseL": "HAY ELOSRA RUE 50 N56 AIN CHOC",
+    "AdresseA": "حي الاسرة الزنقة50 الرقم 56 عي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GAYA  KAOUKB AL ARD",
+    "NOM_ETABA": "كايا كوكب الأرض",
+    "AdresseL": "RUE KENITRA N6 POLO",
+    "AdresseA": "رقم 6، زنقة القنيطرة، بولو - ج",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Escalade 1",
+    "NOM_ETABA": "الارتقاء 1",
+    "AdresseL": "21 Bd DAKHLA, KRIMAT2   AIN CH",
+    "AdresseA": "21 شارع الداخلة ، حي الكريمات ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN HAYYAN",
+    "NOM_ETABA": "مؤسسة ابن حيان الخصوصية ",
+    "AdresseL": "تجزئة بلكبير الرقم 33 و34 شارع",
+    "AdresseA": "تجزئة بلكبير الرقم 33 و34 شارع",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Pole Academy",
+    "NOM_ETABA": "مؤسسة بول أكاديمي الخصوصية ",
+    "AdresseL": "Avenu Meknes , N 80  Lot Almas",
+    "AdresseA": "تجزئة المسرة شارع مكناس - عين ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "UNIVERSALIS",
+    "NOM_ETABA": "مؤسسة يونفرساليس الخصوصية ",
+    "AdresseL": "Lot Zineb lot 3. Californie Ai",
+    "AdresseA": "تجزئة زينب كاليفورنيا عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PEDIA SCHOOL",
+    "NOM_ETABA": "بيديا سكول",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الداخلة رقم 02 عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSAFIR 3",
+    "NOM_ETABA": "مؤسسة السفير 3 الخصوصية",
+    "AdresseL": "Lot Si Abdel Kader N 705 Avenu",
+    "AdresseA": "تجزئة سي عبد القادر شارع الطاح",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN MOULIN SCHOOL",
+    "NOM_ETABA": "مؤسسة جون مولن سكول الخصوصية",
+    "AdresseL": "Lina 338 Rue 20 N29 Sidi Marro",
+    "AdresseA": "لينا 338 زنقة 20 رقم 29 سيدي م",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE L EVEIL",
+    "NOM_ETABA": "مجموعة مدارس لفاي",
+    "AdresseL": "N°256, BOULVARD ELMEKKI ENNACI",
+    "AdresseA": "رقم 256 شارع المكي الناصري تجز",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "mbc private ",
+    "NOM_ETABA": "ام بي سي بريفات",
+    "AdresseL": "Bd HAIFA a cote Bd  de FES CAL",
+    "AdresseA": "شارع حيفا قرب شارع فاس كالفرني",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MIRABEL ",
+    "NOM_ETABA": "مجموعة مدالرس ميرابيل الخصوصية",
+    "AdresseL": "127 HAY SAADA LOT MARWA SIDI M",
+    "AdresseA": "127 حي السعادة تجزئة مروة سيدي",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OURI 4",
+    "NOM_ETABA": "أوري 4",
+    "AdresseL": "569 BD TAH AIN CHOCK CASABLANC",
+    "AdresseA": "شارع طاح رقم 569 عين الشق ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LEGIRON",
+    "NOM_ETABA": "لوجيغون",
+    "AdresseL": "ANGLE BD AZZAYTOUNE ET BBD ARR",
+    "AdresseA": "شارع الزيتون الحي الحسنى الجنو",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les école Atlantide",
+    "NOM_ETABA": "مدارس أطلنتيد",
+    "AdresseL": "",
+    "AdresseA": "شاريع أطلنتيد رقم 59 عين الشق",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PEPINIERE SCHOOL",
+    "NOM_ETABA": "لاببنيير سكول",
+    "AdresseL": "prolongement 2mars bd douwha ,",
+    "AdresseA": "امتداد 2 مارس مع شارع الدوحة ,",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAURICE CAREME ACCADEMY",
+    "NOM_ETABA": "مؤسسة موريس كاريم اكاديمي الخصوصية",
+    "AdresseL": "Hay lakrimat lot n°26 Ain choc",
+    "AdresseA": "حي الكريمات الرقم 26 عين الشق ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire La Noblesse",
+    "NOM_ETABA": "م م لانوبليس",
+    "AdresseL": "lot lmnaouar av daoha",
+    "AdresseA": "تجزئة المنور شارع الدوحة  عين ",
+    "COMMUNE": "Aîn-Chock",
+    "PROVINCE": "Préf. d’Arr.  Aïn Chock",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SS ALLAL BEN ABDELLAH CENTRE TILOGASSE",
+    "NOM_ETABA": "م.م علال ابن عبد الله مركزية تلوكاس",
+    "AdresseL": "DOUAR TILOGASSE CENTRE COMMUNE ARBAA AIT AHMED",
+    "AdresseA": "دوار تلوكاس مركز جماعة اربعاء ايت احمد",
+    "COMMUNE": "Arbaa Ait Ahmed",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED BAHNINI CENTRE TAGHZOUT",
+    "NOM_ETABA": "م.م احمد باحنيني مركزية تاغزوت",
+    "AdresseL": "DOUAR TAGHZOUT",
+    "AdresseA": "دوار تغزوت",
+    "COMMUNE": "Arbaa Ait Ahmed",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED BEN BOUJMAA CENTRE TINKTTOF",
+    "NOM_ETABA": "م.م احمد بن بوجمعة مركزية تنكطوف",
+    "AdresseL": "DOUAR TINKTTOF",
+    "AdresseA": "دوار تنكطوف",
+    "COMMUNE": "Arbaa Ait Ahmed",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALMOUTANABBI CENTRE AIT WIDIRN",
+    "NOM_ETABA": "م.م المتنبي مركزية ايت وديرن",
+    "AdresseL": "DOUAR AIT WIDIRN",
+    "AdresseA": "دوار ايت وديرن",
+    "COMMUNE": "Arbaa Ait Ahmed",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZZOHOR CENTRE ANMESS",
+    "NOM_ETABA": "م.م الزهور مركزية انمس",
+    "AdresseL": "DOUAR ANMESS",
+    "AdresseA": "دوار انمس",
+    "COMMUNE": "Arbaa Ait Ahmed",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

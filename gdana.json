@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL FAROUQ OMAR BEN AL KHATTAB",
+    "NOM_ETABA": "ثانوية الفاروق عمر بن الخطاب الإعدادية ",
+    "AdresseL": "COLLEGE al farouq omar ben al khattab commune gdan",
+    "AdresseA": "مركز جماعة اكدانة",
+    "COMMUNE": "Gdana",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KHMISS GDANA CENTRE",
+    "NOM_ETABA": "   مركزية خميس كدانة",
+    "AdresseL": "douar elkaria KHMISS GDANA",
+    "AdresseA": "دوار  القرية  خميس كدانة",
+    "COMMUNE": "Gdana",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHERQAOUA CENTRE",
+    "NOM_ETABA": "مركزيةشرقاوة",
+    "AdresseL": "DOUAR CHERQAOUA COMMUNE GDANA",
+    "AdresseA": "شرقاوة كدانة",
+    "COMMUNE": "Gdana",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED BERSS CENTRE",
+    "NOM_ETABA": "مركزية  واد برس",
+    "AdresseL": "DOUAR OUED BERSS COMMUNE GDANA ",
+    "AdresseA": "واد برس   جماعة اكدانة قيادة امزورة",
+    "COMMUNE": "Gdana",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

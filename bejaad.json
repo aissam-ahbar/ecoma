@@ -1,0 +1,332 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED V",
+    "NOM_ETABA": "الثانوية الاعدادية محمد الخامس",
+    "AdresseL": "DERB CHBOUKI MUNICIPALITE BOUJAAD",
+    "AdresseA": "درب  الشبوكي",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABOU ELKACIM ES SEJELMASSI",
+    "NOM_ETABA": "الثانوية الاعدادية ابو  القاسم  السجلماسي",
+    "AdresseL": "derb sultan route beni mellal  BOUJAAD",
+    "AdresseA": "درب السلطان طريق  بني ملال",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUABID CHERKI",
+    "NOM_ETABA": "الثانوية الاعدادية بوعبيد  الشرقي",
+    "AdresseL": "DERB LAKHTATER MUNICIPALITE BOUJAAD",
+    "AdresseA": "درب  القطاطرجنان بن رحال ",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE FKIH SMOUNI",
+    "NOM_ETABA": "مدرسة الفقيه السموني",
+    "AdresseL": "HAY  LAQTATER  MUNICIPALITE Bejaad",
+    "AdresseA": "حي القطاطر العليا",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FATIMA FIHRIYA",
+    "NOM_ETABA": "مدرسة فاطمة الفهرية",
+    "AdresseL": "HAY AL IDARI MUNICIPALITE BOUJAAD",
+    "AdresseA": "الحي الاداري",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TARTOUCHI",
+    "NOM_ETABA": "مدرسة الطرطوشي",
+    "AdresseL": "AVENUE MOHAMMED SAIDI MUNICIPALITE BOUJAAD",
+    "AdresseA": "شارع محمدالسعيدي",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOUTANABBI",
+    "NOM_ETABA": "مدرسة المتنبي",
+    "AdresseL": "QUARTIER SOUK BALADI MUNICIPALITE BOUJAAD",
+    "AdresseA": "درب السوق البلدي",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHEIKH MAATI",
+    "NOM_ETABA": "مدرسة الشيخ المعطي",
+    "AdresseL": "DERB  EL  KHLLOUKYINE  MUNICIPALITE BOUJAAD",
+    "AdresseA": "درب  الخلوقيين",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI SALEH",
+    "NOM_ETABA": "مدرسة سيدي صالح",
+    "AdresseL": "boulevard college mohammedi  MUNICIPALITE BOUJAAD",
+    "AdresseA": "شارع الكوليج المحمدي",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HASSANIA",
+    "NOM_ETABA": "مدرسة الحسنية",
+    "AdresseL": "DERB KHOURIBGA MUNICIPALITE BOUJAAD",
+    "AdresseA": "درب خريبكة-بجعد",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL EL FASSI",
+    "NOM_ETABA": "مدرسة علال الفاسي",
+    "AdresseL": "HAY AL MASSIRA MUNICIPALITE BOUJAAD",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KADI ABDERRAHMANE ELMANSOURI",
+    "NOM_ETABA": "مدرسة القاضي عبد الرحمان المنصوري",
+    "AdresseL": "HAY NAHDA BEJAAD",
+    "AdresseA": "حي النهضة ",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAHID ELHACHMI BEN LAARBI",
+    "NOM_ETABA": "مدرسة الشهيد الهاشمي بن العربي",
+    "AdresseL": "lotissement el hassania bejaad",
+    "AdresseA": "تجزئة الحسنية بجعد",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIBAWAYH",
+    "NOM_ETABA": "مدرسة سيبويه",
+    "AdresseL": "lot ennassim",
+    "AdresseA": "تجزئة النسيم",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL FARABI",
+    "NOM_ETABA": "الثانوية التأهيلية الفارابي",
+    "AdresseL": "QUARTIER ADMINISTRATIF ",
+    "AdresseA": "الحي  الاداري",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BN ROCHD",
+    "NOM_ETABA": "الثانوية التأهيلية ابن رشد",
+    "AdresseL": "ROUTE DE KHENIFRA  ",
+    "AdresseA": "طريق  خنيفرة",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH GUENNOUNE ",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الله كنون ",
+    "AdresseL": "QUARTIER ADMINISTRATIF ",
+    "AdresseA": "الحي  الاداري",
+    "COMMUNE": "Bejaad",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MOHANDISS",
+    "NOM_ETABA": "مجموعة مدارس المهندس",
+    "AdresseL": "75-76 lot annakhil ",
+    "AdresseA": "تجزئة النخيل رقم 75و76 ",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNOUR AL MOHAMMEDI",
+    "NOM_ETABA": "النور المحمدي",
+    "AdresseL": "NULL",
+    "AdresseA": "61 درب الزاوية",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ALLAYINE",
+    "NOM_ETABA": "العلاليين",
+    "AdresseL": "NULL",
+    "AdresseA": "99 درب العلاايين",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANAL",
+    "NOM_ETABA": "المنال",
+    "AdresseL": "NULL",
+    "AdresseA": "137 درب خريبكة",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MALIKA",
+    "NOM_ETABA": "الملائكة",
+    "AdresseL": "NULL",
+    "AdresseA": "63 درب المكتنسة",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAJAH",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "NULL",
+    "AdresseA": "44 حي الداخلة",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hafsa",
+    "NOM_ETABA": "السلاميين",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة السلاميين",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al fath",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة صالح بن قسو",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al ghazali",
+    "NOM_ETABA": "الغزالي",
+    "AdresseL": "NULL",
+    "AdresseA": "05 شارع محمد السعدي",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "khaoula",
+    "NOM_ETABA": "خولة",
+    "AdresseL": "NULL",
+    "AdresseA": "29 جنان برحال",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "attoufoula",
+    "NOM_ETABA": "الطفولة",
+    "AdresseL": "NULL",
+    "AdresseA": "72 درب السلطان",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الامل رقم 102",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHORAFAA",
+    "NOM_ETABA": "الشرفاء",
+    "AdresseL": "29 Bd Al Moujahidine- Bejaad",
+    "AdresseA": "29 شارع المجاهدين - بجعد",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Hamadeous",
+    "NOM_ETABA": "حماديوس",
+    "AdresseL": "Lotissement 1.3 Majd Al Fath",
+    "AdresseA": "  1.3 تجزئة مجد الفتح",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EDUCALAND",
+    "NOM_ETABA": "إيديكلاند ",
+    "AdresseL": "LOT ELAHD ELJADID BEJAAD",
+    "AdresseA": "تجزئة العهد الجديد أبي الجعد ",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "chorouk al fikre",
+    "NOM_ETABA": "شروق الفكر",
+    "AdresseL": "LOT.ECHCHOROUK N°103 BEJAAD",
+    "AdresseA": "تجزئة الشروق الرقم 103 أبي الج",
+    "COMMUNE": "Bejaad ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

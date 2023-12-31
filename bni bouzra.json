@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUHMED",
+    "NOM_ETABA": "الثانوية الاعدادية بواحمد",
+    "AdresseL": "CENTRE BOUHMED COMMUNE BNI BOUZRA",
+    "AdresseA": "مركز بوأحمد جماعة بني بوزرة",
+    "COMMUNE": "Bni Bouzra",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ALI BEN MAIMOUN BOU AHMED",
+    "NOM_ETABA": "م/م علي بن ميمون _بواحمد",
+    "AdresseL": "bou ahmed bni bouzra chehchaoun",
+    "AdresseA": "بوأحمد جماعة بني بوزرة",
+    "COMMUNE": "Bni Bouzra",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ICHERHANE",
+    "NOM_ETABA": "م/م إشرحان",
+    "AdresseL": "DOUAR ICHERHANE C BNI BOUZRA CHEFCHAOUEN",
+    "AdresseA": "دوار إشرحان جماعة بني بوزرة",
+    "COMMUNE": "Bni Bouzra",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANARI",
+    "NOM_ETABA": "م/م أناري",
+    "AdresseL": "DOUAR ANARICBNI BOUZRACHEFCHAOUEN",
+    "AdresseA": "اناري جماعة بني بوزرة",
+    "COMMUNE": "Bni Bouzra",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS JNAN ENNICH",
+    "NOM_ETABA": "م/م جنان النيش",
+    "AdresseL": "DOUAR JNAN ENNICHC BNI BOUZRA CHEFCHAOUEN",
+    "AdresseA": "دوار جنان النيش جماعة بني بوزرة",
+    "COMMUNE": "Bni Bouzra",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AARKOUB",
+    "NOM_ETABA": "م/م أعرقوب",
+    "AdresseL": "DOUAR AARKOUBCBNI BOUZRACHEFCHAOUEN",
+    "AdresseA": "دوار أعرقوب جماعة بني بوزرة",
+    "COMMUNE": "Bni Bouzra",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

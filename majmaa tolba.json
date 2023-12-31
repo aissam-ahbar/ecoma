@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "ABOU BAKR RAZI",
+    "NOM_ETABA": "ابوبكر الرازي",
+    "AdresseL": "AIT BOUHOU COMMUNE MAJMAA TOLBA KIADAT AIT OURIBLE",
+    "AdresseA": "ايت بوهو جماعة مجمع الطلبة قيادة اوريبل",
+    "COMMUNE": "Majmaa Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BARRAJLINE",
+    "NOM_ETABA": "برجلين",
+    "AdresseL": "DOUAR BERRAJLINE COMMUNE MAJMAA TOLBA",
+    "AdresseA": "دوار برجلين  جماعة  مجمع الطلبة",
+    "COMMUNE": "Majmaa Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SMARA",
+    "NOM_ETABA": "السمارة",
+    "AdresseL": "DOUAR AIT sliman COMMUNE MAJMAA TOLBA",
+    "AdresseA": "د ايت سليمان ج مجمع الطلبة",
+    "COMMUNE": "Majmaa Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAFOUDAITE",
+    "NOM_ETABA": "تافودايت",
+    "AdresseL": "DOUAR TAFOUDAITE COMMUNE MAJMAA TOLBA",
+    "AdresseA": "د تافودايتج مجمع الطلبة",
+    "COMMUNE": "Majmaa Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAJMAA TOLBA",
+    "NOM_ETABA": "مجمع الطلبة",
+    "AdresseL": "MAJMAA TOLBA",
+    "AdresseA": "مجمع الطلبة",
+    "COMMUNE": "Majmaa Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

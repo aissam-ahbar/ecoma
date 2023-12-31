@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLÈGIAL OULAD MOUMNA",
+    "NOM_ETABA": "الثانوية الاعدادية اولاد مومنة",
+    "AdresseL": "oulad moumna",
+    "AdresseA": "اولاد مومنة",
+    "COMMUNE": "Oulad Moumna",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD MOUMNA",
+    "NOM_ETABA": "اولاد مومنة",
+    "AdresseL": "DOUAR OULAD MOUMNA COMMUNE OULAD MOUMNA",
+    "AdresseA": "دوار أولاد مـومـنـة جـماعة أولاد المــومـنـة",
+    "COMMUNE": "Oulad Moumna",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMSKSLANE SOUFLA",
+    "NOM_ETABA": "أمسكسلان السفلى",
+    "AdresseL": "DOUAR AMSKSLANE SOUFLA COMMUNE OULAD MOUMNA",
+    "AdresseA": "دوار أمسكسلان السفلى جماعة اولاد مومنة",
+    "COMMUNE": "Oulad Moumna",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD LHADJ CENTRE",
+    "NOM_ETABA": "اولاد الحاج المركزية",
+    "AdresseL": "DOUAR OULAD LHADJ COMMUNE OULAD MOUMNA",
+    "AdresseA": "دوار اولاد الحاج",
+    "COMMUNE": "Oulad Moumna",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DMISSAT",
+    "NOM_ETABA": " الدميسات",
+    "AdresseL": "DOUAR DMISSAT COMMUNE OULAD MOUMNA",
+    "AdresseA": "دوار الدميسات",
+    "COMMUNE": "Oulad Moumna",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ABDELLAH MBAREK",
+    "NOM_ETABA": "اولاد عبد الله مبارك",
+    "AdresseL": "DOUAR ABDELLAH MBAREK COMMUNE OULAD MOUMNA",
+    "AdresseA": "دوار اولاد عبد الله مبارك",
+    "COMMUNE": "Oulad Moumna",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSAFIA",
+    "NOM_ETABA": "الصفية",
+    "AdresseL": "DOUAR ASSAFIA COMMUNE OULAD MOUMNA",
+    "AdresseA": "دوار  الصفية",
+    "COMMUNE": "Oulad Moumna",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "C OTMAN JORIO ",
+    "NOM_ETABA": "إع. عثمان جوريو ",
+    "AdresseL": "NAIMA CENTRE",
+    "AdresseA": "النعيمة المركز",
+    "COMMUNE": "Naima",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ecole ELQADI AYADH",
+    "NOM_ETABA": "مدرسة القاضي عياض",
+    "AdresseL": "CITE COMMERCIALE",
+    "AdresseA": "الحي التجاري",
+    "COMMUNE": "Naima",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

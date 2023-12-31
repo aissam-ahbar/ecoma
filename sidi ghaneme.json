@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S ELHASSAN BNO ALI",
+    "NOM_ETABA": "م.م.الحسن بن علي",
+    "AdresseL": "SOUK HAD AIT ZALTEN SIDI GHANEME",
+    "AdresseA": "سوق حد ايت زلطن  سيدي غانم",
+    "COMMUNE": "Sidi Ghaneme",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S YOUSSEF BNO TACHAFINNE",
+    "NOM_ETABA": "م.م. يوسف بن تاشفين",
+    "AdresseL": "DOUAR ANDJA SIDI GHANEME",
+    "AdresseA": "دوار أندجا سيدي غانم",
+    "COMMUNE": "Sidi Ghaneme",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

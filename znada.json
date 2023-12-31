@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "DRAOUA CENTRE",
+    "NOM_ETABA": "اضراوة المركزية",
+    "AdresseL": "DOUAR DRAOUA COMMUNE ZNADA",
+    "AdresseA": "دوار اضراوة جماعة ازنادة",
+    "COMMUNE": "Znada",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ROUICH CENTRE",
+    "NOM_ETABA": "الرويش المركزية",
+    "AdresseL": "DOUAR ROUICH COMMUNE ZNADA",
+    "AdresseA": "دوار الرويش",
+    "COMMUNE": "Znada",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

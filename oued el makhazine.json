@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  AHMED EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية الاعدادية أحمد المنصور الذهبي",
+    "AdresseL": "oued makhazine",
+    "AdresseA": "وادي المخازن",
+    "COMMUNE": "Oued El Makhazine",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " ZAOUYA",
+    "NOM_ETABA": "الزاوية",
+    "AdresseL": "DOUAR ZAOUYA  COM  OUED EL MAKHAZINE",
+    "AdresseA": "دوارالزاوية  ج/ وادي المخازن",
+    "COMMUNE": "Oued El Makhazine",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

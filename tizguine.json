@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL BOUKHARI",
+    "NOM_ETABA": "الثانوية الاعدادية البخاري",
+    "AdresseL": "KHMISS TIZGUINE",
+    "AdresseA": "خميس تزكين",
+    "COMMUNE": "Tizguine",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIZGUINE",
+    "NOM_ETABA": "تزكين",
+    "AdresseL": "DOUAR TIZGUINE COMMUNE TIZGUINE",
+    "AdresseA": "دوار تزكين جماعة تزكين",
+    "COMMUNE": "Tizguine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMHALLATE",
+    "NOM_ETABA": "لمحلات",
+    "AdresseL": "DOUAR LAMHALLATE COMMUNE TIZGUINE",
+    "AdresseA": "دوار لمحلات جماعة تزكين",
+    "COMMUNE": "Tizguine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

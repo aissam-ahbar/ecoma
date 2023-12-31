@@ -1,0 +1,3162 @@
+[
+  {
+    "NOM_ETABL": "C SIDI MAAFA",
+    "NOM_ETABA": "إع. سيدي معافة",
+    "AdresseL": "sidi maafa RUE abdellah zajli",
+    "AdresseA": "سبدي معافة، شارع عبد الله زجلي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C IBNOU BAJJA",
+    "NOM_ETABA": "إع. ابن باجة",
+    "AdresseL": "hay boudir ; angle RUE MOULAY ISMAIL et rue casabl",
+    "AdresseA": "  وشارع الدار البيضاءحي بودير، ملتقى شارع مولاي اس",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C IBNOU ROCHD",
+    "NOM_ETABA": "إع. ابن رشد",
+    "AdresseL": "DHAR MHALA LAZAREE",
+    "AdresseA": "ظهر لمحلة لازاري",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ABDERRAHMANE BNOU AOUF",
+    "NOM_ETABA": "إع. عبد الرحمان بن عوف",
+    "AdresseL": "BD ABELKHALEK TORES",
+    "AdresseA": "شارع عبد الخالق الطريس",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ABI YOUSSEF EL KINDI",
+    "NOM_ETABA": "إع. أبي يوسف الكندي",
+    "AdresseL": "RUE FATIMA FIHRYA N1",
+    "AdresseA": "شارع فاطمة الفهرية الرقم 1",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ERRIAD",
+    "NOM_ETABA": "إع. الرياض",
+    "AdresseL": "rte zeir BD KDDOUR OUARTASSI",
+    "AdresseA": "طريق زعير، شارع قدور الورطاسي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ALLAL EL FASSI",
+    "NOM_ETABA": "إع. علال الفاسي",
+    "AdresseL": "RUE TAYRET",
+    "AdresseA": "طريق طايرت",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C SIDI YAHYA",
+    "NOM_ETABA": "إع. سيدي يحيى",
+    "AdresseL": "BD HAMZA BEN ABDELMOUTALEB",
+    "AdresseA": "شارع حمزة بن عبد المطلب",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C EL OUAHDA",
+    "NOM_ETABA": "إع. الوحدة",
+    "AdresseL": "BD BIR INZAREN",
+    "AdresseA": "شارع بئر انزران",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ABI INANE EL MARINI",
+    "NOM_ETABA": "إع. أبي عنان المريني",
+    "AdresseL": "LOT ANGAD lazaret",
+    "AdresseA": "حي أنكاد لازاري",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C EL JAHID",
+    "NOM_ETABA": "إع. الجاحظ",
+    "AdresseL": "BD MOHAMED DERFOUFI",
+    "AdresseA": "شارع محمد الدرفوفي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C EL BEKRI",
+    "NOM_ETABA": "إع. البكري",
+    "AdresseL": "BD LIGUE ARABE",
+    "AdresseA": "شارع الجامعة العربية",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C PASTEUR",
+    "NOM_ETABA": "إع. باستور",
+    "AdresseL": "Bd ABDELAZIZ BOUTALEB",
+    "AdresseA": "شارع عبد العزيز بوطالب",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C OKBA BNOU NAFII",
+    "NOM_ETABA": "إع. عقبة بن نافع",
+    "AdresseL": "HAY EL HASSANI  COULOUCH",
+    "AdresseA": "حي الحسني كولوش",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MOHAMMED EDDERFOUFI",
+    "NOM_ETABA": "إع. محمد الدرفوفي",
+    "AdresseL": "BouLevard PRINCE HERITIER MLY ELHASSAN",
+    "AdresseA": "شارع الامير مولاي الحسن",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C IBN EL QADI",
+    "NOM_ETABA": "إع. ابن القاضي",
+    "AdresseL": "BD  ZAID BNOU SOLTANE AL NIHYAN",
+    "AdresseA": "شارع زايد بن سلطان آل نهيان",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ABDELKHALEK ETTORRES",
+    "NOM_ETABA": "إع. عبد الخالق الطريس",
+    "AdresseL": "HY SI LKHDAR   RUE 18 OUJDA",
+    "AdresseA": "حي سي لخضر زنقة 18 وجدة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C EL QODS",
+    "NOM_ETABA": "إع. القدس",
+    "AdresseL": "RUE ESSAKHRA HaY EL qOUDS",
+    "AdresseA": "زنقة الصخرة حي القدس",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C EL MEKKI NASSIRI",
+    "NOM_ETABA": "إع. المكي الناصري",
+    "AdresseL": "hay lmharchi rue A6 lotissement el akkel",
+    "AdresseA": "حي لمحرشي زنقة أ6 تجزئة العاقل",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MALIKA EL FASSI",
+    "NOM_ETABA": "إع. مالكة الفاسي",
+    "AdresseL": "BD OMAR BNOU ALKHAtTAB ENNAJD 1",
+    "AdresseA": "شارع عمر بن الخطاب النجد 1",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MOULAY SMAIL",
+    "NOM_ETABA": "إع. مولاي اسماعيل",
+    "AdresseL": "HAY IBN KHALDOUN",
+    "AdresseA": "حي ابن خلدون",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ABDERRAHMAN HJIRA",
+    "NOM_ETABA": "إع. عبد الرحمان حجيرة",
+    "AdresseL": "Lot El Wahda Route TAZA",
+    "AdresseA": "تجزئة الوحدة طريق تازة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C DAKHLA",
+    "NOM_ETABA": "إع. الداخلة",
+    "AdresseL": "HAY AL AMAL 2 Drafif",
+    "AdresseA": "حي الأمل 2 الدرافيف",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MOHAMMED MESKINE",
+    "NOM_ETABA": "إع. محمد مسكين",
+    "AdresseL": "Hay Enour Bd Sidi Soultane",
+    "AdresseA": "حي النور شارع سيدي سلطان",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MOHAMMED BENAMARA",
+    "NOM_ETABA": "إع. محمد بن عمارة",
+    "AdresseL": "HAY ESSAADA",
+    "AdresseA": "حي السعادة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C TIFARITI",
+    "NOM_ETABA": "إع. تيفاريتي",
+    "AdresseL": "QUARTIER INDUSTRIEL LOT ALBOUSTANE 2",
+    "AdresseA": "الحي الصناعي تجزئة البستان 2",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C GALA",
+    "NOM_ETABA": "إع. كالا",
+    "AdresseL": "SEDRAT BOUAMOUD",
+    "AdresseA": "سدرة بوعمود",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MUSTAFA EL MACHRAFI",
+    "NOM_ETABA": "إع. مصطفى المشرافي",
+    "AdresseL": "HAY NAJD",
+    "AdresseA": "حي النجد",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MOULAY SLIMANE",
+    "NOM_ETABA": "إع. مولاي سليمان",
+    "AdresseL": "HAY ENNASR",
+    "AdresseA": "حي النصر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ABDELMALEK SAADI",
+    "NOM_ETABA": "إع. عبد المالك السعدي",
+    "AdresseL": "quartier   ANNAJD 3",
+    "AdresseA": "حي النجد 3",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial El Guergarat",
+    "NOM_ETABA": "ثانوية الكركرات الإعدادية",
+    "AdresseL": "Lotissement ElFarah Lazaret",
+    "AdresseA": "تجزئة فرح لازاري",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial Fatima El Medersi",
+    "NOM_ETABA": "ثانوية فاطمة المدرسي الإعدادية",
+    "AdresseL": "ROUTE AOUINT SSERRAQ",
+    "AdresseA": "طريق عوينة السراق",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ESSAMMARA",
+    "NOM_ETABA": "إعدادية السمَّارة",
+    "AdresseL": "HAY ESSAMMARA",
+    "AdresseA": "حي السمَّارة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E SIDI ZIANE",
+    "NOM_ETABA": "م. سيدي زيان",
+    "AdresseL": "PLACE SIDI ZIANE N91",
+    "AdresseA": "ساحة سيدي زيان الرقم 91",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OUM EL BANINE",
+    "NOM_ETABA": "م. أم البنين",
+    "AdresseL": "4 DERB OULED AISSA",
+    "AdresseA": "درب أولاد عيسى رقم 4",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E LALLA AMINA",
+    "NOM_ETABA": "م. للا أمينة",
+    "AdresseL": "RUE TAiRET",
+    "AdresseA": "طريق طايرت",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU TOFAIL",
+    "NOM_ETABA": "م. ابن طفيل",
+    "AdresseL": "RUE TAYRET",
+    "AdresseA": "طريق طاريت",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU HAZM",
+    "NOM_ETABA": "م. ابن حزم",
+    "AdresseL": "RUE CHEFCHAOUEN",
+    "AdresseA": "زنقة شفشاون",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU EL KHATIB",
+    "NOM_ETABA": "م. ابن الخطيب",
+    "AdresseL": "BOULEVARD MOURABITINE",
+    "AdresseA": "شارع المرابطين",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E LALLA NAZHA",
+    "NOM_ETABA": "م. للا نزهة",
+    "AdresseL": "RUE ABDELLAH BELHACHMI  COMMUNE OUJDA SIDI ZIANE",
+    "AdresseA": "شارع عبد الله بلهاشمي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E LALLA MERYEM",
+    "NOM_ETABA": "م. للا مريم",
+    "AdresseL": "RUE RABAT N 44",
+    "AdresseA": " رقم 44 طريق الرباط",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMMED V",
+    "NOM_ETABA": "م. محمد الخامس",
+    "AdresseL": "RUE SENEGAL",
+    "AdresseA": "زنقة السينغال",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AICHA OUM EL MOUMININE",
+    "NOM_ETABA": "م. عائشة أم المؤمنين",
+    "AdresseL": "RUE ABDELKHALAK TORRES  COMMUNE OUJDA SIDI ZIANE",
+    "AdresseA": "شارع عبد الخالق الطريس وجدة سيدي زيان",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IMAM EL BOUSSAIRI",
+    "NOM_ETABA": "م. الإمام البوصيري",
+    "AdresseL": "RUE MAAZOUZA",
+    "AdresseA": "زنقة معزوزة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E YAKOUB EL MANSOR",
+    "NOM_ETABA": "م. يعقوب المنصور",
+    "AdresseL": "BD YAACOUB ELMANSOUR",
+    "AdresseA": "شارع يعقوب المنصور",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL FATH",
+    "NOM_ETABA": "م. الفتح",
+    "AdresseL": "HAY ELMASSIRA BD JOZOUR KHALIDAT",
+    "AdresseA": "حي المسيرة شارع جزر الخالدات",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL MOUNTAZAH ELBALADI",
+    "NOM_ETABA": "م. المنتزه البلدي",
+    "AdresseL": "LOT BEN KHIRANE ROUTE AOUAJA",
+    "AdresseA": "تجزئة بنخيران طريق عواجة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ERRIAD",
+    "NOM_ETABA": "م. الرياض",
+    "AdresseL": "BD ALLAL  EL FASSI",
+    "AdresseA": "شارع علال الفاسي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOUATAMID BNOU ABBAD",
+    "NOM_ETABA": "م. المعتمد بن عباد",
+    "AdresseL": "BD  ALLAL EL  FASSI  RIAD",
+    "AdresseA": "شارع علال الفاسي الرياض",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E FATIMA EL FIHRIA",
+    "NOM_ETABA": "م. فاطمة الفهرية",
+    "AdresseL": "DHAR MHALA ARR13",
+    "AdresseA": "ظهر لمحلة المقاطعة13",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BIR ANZARAN",
+    "NOM_ETABA": "م. بئر انزران",
+    "AdresseL": "CITE AOUATIF  LAZARI",
+    "AdresseA": "حي عواطف لازاري",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL FIRDAOUS",
+    "NOM_ETABA": "م. الفردوس",
+    "AdresseL": "DHAR MHALA LOT LAMSIRDI RUE 21",
+    "AdresseA": "ظهر لمحلة تجزئة لمسيردي  زنقة 21",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OUED EL MAKHAZINE",
+    "NOM_ETABA": "م. وادي المخازن",
+    "AdresseL": "HAY MOULAY MILOUD LAZARE",
+    "AdresseA": "حي مولاي الميلود لازاري",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OTMANE BNOU AFFANE",
+    "NOM_ETABA": "م. عثمان بن عفان",
+    "AdresseL": " DHAR LAMHALLA LOT ESSALAM",
+    "AdresseA": "ظهر لمحلة تجزئة السلام",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOUSSA BNOU NOSSAIR",
+    "NOM_ETABA": "م. موسى بن نصير",
+    "AdresseL": "HAY FATH LAZARET",
+    "AdresseA": "حي الفتح لازاري",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL HANANE",
+    "NOM_ETABA": "م. الحنان",
+    "AdresseL": "HAY EL MOUHAMMADI Lot BOUGHANEM",
+    "AdresseA": "حي المحمدي تجزئة بوغانم",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU BASSAM",
+    "NOM_ETABA": "م. ابن بسام",
+    "AdresseL": "HAY EL MOHAMMADI RUE 226",
+    "AdresseA": "حي المحمدي الزنقة 226",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL KHANSSAE",
+    "NOM_ETABA": "م. الخنساء",
+    "AdresseL": "RUE 226 HAY ALMOHAMMADI",
+    "AdresseA": "زنقة 226 الحي المحمدي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TARIK BNOU ZIAD",
+    "NOM_ETABA": "م. طارق بن زياد",
+    "AdresseL": "BD SAADYINE",
+    "AdresseA": "شارع السعديين",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOULAY YOUSSEF",
+    "NOM_ETABA": "م. مولاي يوسف",
+    "AdresseL": " CHAKIB ARSALANE",
+    "AdresseA": "شارع شكيب أرسلان",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OMAR BNOU EL KHATTAB",
+    "NOM_ETABA": "م. عمر بن الخطاب",
+    "AdresseL": "HAY TAKADDOUM",
+    "AdresseA": "حي  التقدم",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TAHA HOUSSAIN",
+    "NOM_ETABA": "م. طه حسين",
+    "AdresseL": "BD MANSOUR DAHBI  HAY EL HASSANI",
+    "AdresseA": "شارع المنصور الذهبي الحي الحسني",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL MAHBES",
+    "NOM_ETABA": "م. المحبس",
+    "AdresseL": "HAY EL HASSANI RUE 142",
+    "AdresseA": "حي الحسني الزنقة 142",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU ADARI",
+    "NOM_ETABA": "م. ابن عذاري",
+    "AdresseL": "HAY EL HASSANI rue142",
+    "AdresseA": "حي الحسني الزنقة 142",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HALIMA ESSAADIA",
+    "NOM_ETABA": "م. حليمة السعدية",
+    "AdresseL": "HAY COULOUCH",
+    "AdresseA": "حي كولوش",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E KHALID BNOU ELOUALID",
+    "NOM_ETABA": "م. خالد بن الوليد",
+    "AdresseL": "RUE SIDI DRISS BOUDIR",
+    "AdresseA": "طريق سيدي ادريس بودير",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E JAMAL EDDINE EL AFGHANI",
+    "NOM_ETABA": "م. جمال الدين الأفغاني",
+    "AdresseL": "HAY MOURITANIA lot boubcher ",
+    "AdresseA": "حي موريطانيا تجزئة بوبشر  ",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E DRISS BEN ZEKRI",
+    "NOM_ETABA": "م. ادريس بنزكري",
+    "AdresseL": "HAY ENNASR",
+    "AdresseA": "حي النصر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL KADISSIA",
+    "NOM_ETABA": "م. القادسية",
+    "AdresseL": "HAY MOHAMED BEN LAKHDAR",
+    "AdresseA": "حي محمد بلخضر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MUSTAPHA SKIKAR",
+    "NOM_ETABA": "م. مصطفى سكيكر",
+    "AdresseL": "HAY NOUR SADRAT BOUAMOUD",
+    "AdresseA": "حي النور سدرة بوعمود",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABI TEMMAM",
+    "NOM_ETABA": "م. أبي تمام",
+    "AdresseL": "RUE TINDOUF  COMMUNE OUJDA OUED NACHEF",
+    "AdresseA": "شارع تندوف",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU HAMDISS",
+    "NOM_ETABA": "م. ابن حمديس",
+    "AdresseL": "RUE ASSAD BNOU FOURAT",
+    "AdresseA": "زنقة أسد ابن الفرات",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E 16 AOUT",
+    "NOM_ETABA": "م. 16 غشت",
+    "AdresseL": "BD ARMEE DE LIBERATION",
+    "AdresseA": "شارع جيش التحرير",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU BATTOTA",
+    "NOM_ETABA": "م. ابن بطوطة",
+    "AdresseL": "HAY SI LAKHDAR B1",
+    "AdresseA": "حي سي لخضر ب1",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL AMAL",
+    "NOM_ETABA": "م. الأمل",
+    "AdresseL": "HAY SI LAKHDAR",
+    "AdresseA": "حي سي لخضرالزنقة ك",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IMAM EL BOUKHARI",
+    "NOM_ETABA": "م. الإمام البخاري",
+    "AdresseL": "HAY SI LAKHDAR  RUE B1",
+    "AdresseA": "حي سي لخصر زنقة ب1",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ESSMARA",
+    "NOM_ETABA": "م. السمارة",
+    "AdresseL": "HAY SI LAKHDAR OUED NACHEF",
+    "AdresseA": "حي سي لخضر واد الناشف",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU ZAIDOUN",
+    "NOM_ETABA": "م. ابن زيدون",
+    "AdresseL": "HAY EL KHALOUFI RUE 16",
+    "AdresseA": "حي الخلوفي  زنقة 16",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL FARABI",
+    "NOM_ETABA": "م. الفارابي",
+    "AdresseL": "HAY BEN AZZI OUED NACHEF",
+    "AdresseA": "حي بن عزي واد الناشف",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AHMED MEKOUAR",
+    "NOM_ETABA": "م. أحمد مكوار",
+    "AdresseL": "HAY OULD CHRIF",
+    "AdresseA": "حي ولد الشريف",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "م. محمد الزرقطوني",
+    "AdresseL": "HAY JOUHARA",
+    "AdresseA": "حي الجوهرة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ESSAKIA EL HAMRA",
+    "NOM_ETABA": "م. الساقية الحمراء",
+    "AdresseL": "HAY JOUHARA",
+    "AdresseA": "حي الجوهرة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMED KHAIR EDDINE",
+    "NOM_ETABA": "م. محمد خير الدين",
+    "AdresseL": "HAY EL HANA",
+    "AdresseA": "حي الهناء",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL QODS",
+    "NOM_ETABA": "م. القدس",
+    "AdresseL": "HAY EL QODS RUE KAFAR KASSEM",
+    "AdresseA": "حي القدس زنقة كفر قاسم",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMED BEN HASSAN EL OUAZZANI",
+    "NOM_ETABA": "م. محمد بن الحسن الوزاني",
+    "AdresseL": "BD MOHAMMED 6",
+    "AdresseA": "شارع محمد السادس",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL MARJANE",
+    "NOM_ETABA": "م. المرجان",
+    "AdresseL": "HAY ESSALAMA LAMHARECH ALAMAL1",
+    "AdresseA": "حي السلامة المحارشي الأمل1",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E SAAD BNOU ABI OUAKASS",
+    "NOM_ETABA": "م. سعد بن أبي وقاص",
+    "AdresseL": "HAY ALMPSTAQBAL",
+    "AdresseA": "حي المستقبل",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL JAOUHARA",
+    "NOM_ETABA": "م. الجوهرة",
+    "AdresseL": "LOT BEN KHIRANE",
+    "AdresseA": "تجزئة بن خيران",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IMAM ALI",
+    "NOM_ETABA": "م. الإمام علي",
+    "AdresseL": "HAY EL  WAHDA",
+    "AdresseA": "حي الوحدة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ZELLAKA",
+    "NOM_ETABA": "م. الزلاقة",
+    "AdresseL": "HAY SI LAKHDAR",
+    "AdresseA": "حي سي لخصر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AMINA BERHILI",
+    "NOM_ETABA": "م. آمنة برحيلي",
+    "AdresseL": "HAY NAJD SIDI YAHYA",
+    "AdresseA": "حي النجد سيدي يحيى",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL MANSOR EDDEHBI",
+    "NOM_ETABA": "م. المنصور الذهبي",
+    "AdresseL": "HAY NAJD SIDI YAHYA",
+    "AdresseA": "حي النجد سيدي يحيى",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ANOUAL ",
+    "NOM_ETABA": "م أنوال",
+    "AdresseL": "HAY elamal LAMHARCHI 2",
+    "AdresseA": "حي الأمل  لمحارشي 2",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ENNASSIM",
+    "NOM_ETABA": "م. النسيم",
+    "AdresseL": "HAY MIR ALI",
+    "AdresseA": "حي المير علي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ANNAJD",
+    "NOM_ETABA": "م. النجد",
+    "AdresseL": "LOTEL HASSANIA SIDI YAHYA",
+    "AdresseA": "التجزئة الحسنية سيدي يحيى",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDESSADEK ELKADIRI ELBOUDCHICHI",
+    "NOM_ETABA": "م. عبد الصادق القادري البودشيشي",
+    "AdresseL": "ROUTE ELAOUNIYA",
+    "AdresseA": "طريق العونية",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL INARA",
+    "NOM_ETABA": "م. الإنارة",
+    "AdresseL": "HAY ESSALAM AOUINTE SERRAK",
+    "AdresseA": "حي السلام عوينت السراق",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL YAMAMA",
+    "NOM_ETABA": "م. اليمامة",
+    "AdresseL": "LOT HAY MD BEN LAKHDAR",
+    "AdresseA": "تجزئة محمد بلخضر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL BOUSTANE",
+    "NOM_ETABA": "م. البستان",
+    "AdresseL": "BD KADDOUR EL OUARTASSI",
+    "AdresseA": "شارع قدور الورطاسي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BENYOUNES EL OUARTASSI",
+    "NOM_ETABA": "م. بنيونس الورطاسي",
+    "AdresseL": "LOT ELYATNI BD MOMMED 5",
+    "AdresseA": "تجزئة الياتني شارع محمد الخامس",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL WAHDA",
+    "NOM_ETABA": "م. الوحدة",
+    "AdresseL": "HAY AL OUAHDA RUE ABOU MOUSSA ACHARI",
+    "AdresseA": "حي الوحدة زنقة أبو موسى الأشعري",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL IRFANE",
+    "NOM_ETABA": "م. العرفان",
+    "AdresseL": "HAY ESSAADA ROUTE AOUINTE SERRAK",
+    "AdresseA": "حي السعادة طريق عوينت السراق",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "م. المختار السوسي",
+    "AdresseL": "HAY ENNOUR RTE SIDI SOLTAN",
+    "AdresseA": "حي النور طريق سيدي سلطان",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "م. صلاح الدين الأيوبي",
+    "AdresseL": "HAY ENNAHDA OUED NACHEF",
+    "AdresseA": "حي النهضة واد الناشف",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E 11 JANVIER",
+    "NOM_ETABA": "م. 11 يناير",
+    "AdresseL": "HAY ESSMARA ",
+    "AdresseA": "حي الصمارة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AHMED CHAOUKI",
+    "NOM_ETABA": "م. أحمد شوقي",
+    "AdresseL": "DOUAR AL JORF LAKHDAR ",
+    "AdresseA": "دوار الجرف الأخضر ",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "م. يوسف بن تاشفين",
+    "AdresseL": "Hay el andalous LOT LAALAJ",
+    "AdresseA": "حي الأندلس تجزئة لعلج",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN KHALDOUN",
+    "NOM_ETABA": "م. ابن خلدون",
+    "AdresseL": "LOT IBN KHADOUN HAY RIADI",
+    "AdresseA": "تجزئة ابن خلدون الحي الرياضي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AHMED BOUKMAKH",
+    "NOM_ETABA": "م. أحمد بوكماخ",
+    "AdresseL": "Rte TAYERT HAY EZZEYTOUN",
+    "AdresseA": "طريق طايرت حي الزيتون",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E CHAHID MOHAMED BENAOUDA",
+    "NOM_ETABA": "م. الشهيد محمد بنعودة",
+    "AdresseL": "HAy ENNAJD 3",
+    "AdresseA": "حي النجد 3",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDELLAH IBRAHIM",
+    "NOM_ETABA": "م.عبدالله إبراهيم",
+    "AdresseL": "HAY ANGAD",
+    "AdresseA": "حي أنكاد",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AHMED CHERKAOUI",
+    "NOM_ETABA": "م. أحمد الشرقاوي",
+    "AdresseL": "HAY AGDAL ",
+    "AdresseA": "حي أكدال",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BENSAID MEHDAOUI",
+    "NOM_ETABA": "م. بنسعيد مهداوي",
+    "AdresseL": "HAY GTAR",
+    "AdresseA": "حي أكطار",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E YASSIR ARAFAT",
+    "NOM_ETABA": "م. ياسر عرفات",
+    "AdresseL": "HAY ENNAHDA 2",
+    "AdresseA": "حي النهضة 2",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E DRISS CHRAIBI",
+    "NOM_ETABA": "م. ادريس الشرايبي",
+    "AdresseL": "HAY ZRARKA",
+    "AdresseA": "حي الزرارقة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU HANBAL",
+    "NOM_ETABA": "م. ابن حنبل",
+    "AdresseL": "HAY EL BEKKAY",
+    "AdresseA": "حي البكاي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMMED LACHHAB",
+    "NOM_ETABA": "م. محمد لشهب",
+    "AdresseL": "HAY ANNAHDA",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HAMANE EL FATOUAKI",
+    "NOM_ETABA": "م. حمان الفطواكي",
+    "AdresseL": "HAY ASSEMARA",
+    "AdresseA": "حي الصمارة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MAHDI EL MANJRA",
+    "NOM_ETABA": "م. المهدي المنجرة",
+    "AdresseL": "HAY ATTOUFAH",
+    "AdresseA": "حي التفاح",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AZIZ AMINE",
+    "NOM_ETABA": "م. عزيز أمين",
+    "AdresseL": "HAY ZGHAMIME",
+    "AdresseA": "حي الزغاميم",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMMED BELHACHMI",
+    "NOM_ETABA": "م. محمد بلهاشمي",
+    "AdresseL": "HAY EL BouSStane II",
+    "AdresseA": "حي البستان 2",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDELAH ECHAFCHAOUNI",
+    "NOM_ETABA": "م. عبد الله الشفشاوني",
+    "AdresseL": "HAY LAMRAHIL",
+    "AdresseA": "حي لمراحيل تجزئة ديار الشرق طريق العونية",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMMED ADLI",
+    "NOM_ETABA": "م. محمد عدلي",
+    "AdresseL": "LOT ANNAHAR",
+    "AdresseA": "تجزئة النهار",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E KACEM JDAYEN",
+    "NOM_ETABA": "م. قاسم جداين",
+    "AdresseL": "HAY JORF LAKHDAR",
+    "AdresseA": "حي الجرف لخضر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E YAHYA ELGOURARI",
+    "NOM_ETABA": "م. يحيى الكوراري",
+    "AdresseL": "HAY ABDELKADER ELBADAOui",
+    "AdresseA": "حي عبدالقادر البدوي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole  Zoulikha Naciri",
+    "NOM_ETABA": "مدرسة زليخة الناصري الابتدائية",
+    "AdresseL": "projet ennasr",
+    "AdresseA": "مشروع النصر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALBOUSTANE 2",
+    "NOM_ETABA": "مدرسة البستان 2",
+    "AdresseL": "lOTISSEMENT ALBOUSTANE 2",
+    "AdresseA": "تجزئة البستان 2",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole  Mohammed El Aarabi",
+    "NOM_ETABA": "مدرسة محمد العرابي الابتدائية",
+    "AdresseL": "Hay AlAmal Mharchi 2",
+    "AdresseA": "حي الأمل لمحرشي 2",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JORF LAKHDAR",
+    "NOM_ETABA": "مدرسة الجرف الاخضر",
+    "AdresseL": "Hay Jorf Lakhdar",
+    "AdresseA": "حي الجرف الاخضر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZOHOUR",
+    "NOM_ETABA": "مدرسة الزهور",
+    "AdresseL": "route jerada ay zohour",
+    "AdresseA": "طريق جرادة حي الزهور",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L MOHAMMED ABED EL JABIRI",
+    "NOM_ETABA": "ثا. محمد عابد الجابري",
+    "AdresseL": "SIDI MAAFA",
+    "AdresseA": "سيدي معافة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L IBN SINA",
+    "NOM_ETABA": "ثا. ابن سينا",
+    "AdresseL": "HAY LBYAYED Bd Allal ElFassi",
+    "AdresseA": "حي لبياييض شارع علال الفاسي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L IBNOU AL HAYTHAM",
+    "NOM_ETABA": "ثا. ابن الهيثم",
+    "AdresseL": "Lot Elboustane Sidi Driss",
+    "AdresseA": "تجزئة البستان سيدي ادريس",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ABDELLAH EL AROUI",
+    "NOM_ETABA": "ثا. عبد الله العروي",
+    "AdresseL": "HAY NAJD 4 SIDI YAHYA",
+    "AdresseA": "حي النجد 4 سيدي يحيى",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ELARBI AL HOUCINI",
+    "NOM_ETABA": "ثا. العربي الحسيني",
+    "AdresseL": "BD FAYSAL BNOU ABDELAZIZ",
+    "AdresseA": "الملعب الشرفي ،شارع فيصل بن عبد العزيز",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L EL QADI BNOU EL ARABI",
+    "NOM_ETABA": "ثا. القاضي ابن العربي",
+    "AdresseL": "HAY EL QODS",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L EL MOUTANABI",
+    "NOM_ETABA": "ثا. المتنبي",
+    "AdresseL": "HAY SI LAKHDAR",
+    "AdresseA": "حي سي لخصر",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L MOHAMMED VI",
+    "NOM_ETABA": "ثا. محمد السادس",
+    "AdresseL": "BD BRAHIM ROUDANI LAZARET",
+    "AdresseA": "شارع إبراهيم الروداني لازاري",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L EL MASSIRA EL KHADRA",
+    "NOM_ETABA": "ثا. المسيرة الخضراء",
+    "AdresseL": "BD HIJAZ",
+    "AdresseA": "شارع الحجاز",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ABDELLAH GUENNOUN",
+    "NOM_ETABA": "ثا. عبد الله كنون",
+    "AdresseL": "ROUTE BOUKNADL HAY EZZAYTOUN",
+    "AdresseA": "طريق بوقنادل حي الزيتون",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Omar Ibn Abdelaziz",
+    "NOM_ETABA": "الثانوية التأهيلية عمر بن عبد العزيز ",
+    "AdresseL": "BD ALLAL BEN ABDELLAH",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ZIRI BNOU ATTIA",
+    "NOM_ETABA": "ثا. زيري بن عطية",
+    "AdresseL": "BOULEVARD YAACOUB ELMANSOUR",
+    "AdresseA": "شارع يعقوب المنصور",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ABDELMOUMEN",
+    "NOM_ETABA": "ثا. عبد المومن",
+    "AdresseL": "RUE JAKARTA",
+    "AdresseA": "زنقة جاكارطا",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ZINEB ENNEFZAOUIA",
+    "NOM_ETABA": "ثا. زينب النفزاوية",
+    "AdresseL": "BD ELHIJAZ",
+    "AdresseA": "شارع الحجاز",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L OUED EDDAHAB",
+    "NOM_ETABA": "ثا. وادي الذهب",
+    "AdresseL": "BD ALAL ELFASSI  DHAR LAMHALLA",
+    "AdresseA": "شارع علال الفاسي ظهر لمحلة",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L MEHDI BEN BARKA",
+    "NOM_ETABA": "ثا. المهدي بنبركة",
+    "AdresseL": "RUE  ICHBILYA",
+    "AdresseA": "زنقة إشبيلية",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L EL MAGHRIB EL ARABI",
+    "NOM_ETABA": "ثا. المغرب العربي",
+    "AdresseL": "BD HASSAN 2 Rte Sidi Yahya",
+    "AdresseA": "شارع الحسن الثاني طريق سيدي يحيى",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L PRINCESSE LALLA ASMAE",
+    "NOM_ETABA": "ثا. للا أسماء",
+    "AdresseL": "BOULEVARD OUED ELMAKHAZINE",
+    "AdresseA": "شارع وادي المخازن",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L SIDI DRISS",
+    "NOM_ETABA": "ثا. سيدي ادريس",
+    "AdresseL": "HaY SIDI DRISS  EL QADI",
+    "AdresseA": "حي سيدي ادريس القاضي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ISLY",
+    "NOM_ETABA": "ثا. إسلي",
+    "AdresseL": "ROUTE AHFIR HAY EL MOHAMMADI",
+    "AdresseA": "طريق أحفير حي المحمدي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L ESSALAM",
+    "NOM_ETABA": "ثا. السلام",
+    "AdresseL": "ROUTE TAZA BOULEVARD MBAREK el bekkay",
+    "AdresseA": "طريق تازة، شارع امبارك البكاي",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L CHARIF EL IDRISSI",
+    "NOM_ETABA": "ثا. الشريف الإدريسي",
+    "AdresseL": "BD ZAYED BNOU SOLTANE",
+    "AdresseA": "شارع زايد ابن سلطان",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L MOUAD BNOU JABAL",
+    "NOM_ETABA": "ثا. معاذ بن جبل",
+    "AdresseL": "HAY hassani",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE LEMHARCHI",
+    "NOM_ETABA": "ثانوية لمحرشي التأهيلية",
+    "AdresseL": "hay mchiwar filaj ngadi ",
+    "AdresseA": "تجزئة مشيور فيلاج النجادي ",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE ESSALAM",
+    "NOM_ETABA": "مركب السلام",
+    "AdresseL": "Lot. AlOmrane ",
+    "AdresseA": "تجزئة العمران",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant Waliye Elâahd ElAmir Moulay ElHas",
+    "NOM_ETABA": "ثانوية ولي العهد الأمير مولاي الحسن التأهيلية",
+    "AdresseL": "Lotissement ElBoustane 3",
+    "AdresseA": "تجزئة البستان 3",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant EL Âahd Eljadid",
+    "NOM_ETABA": "ثانوية العهد الجديد التأهيلية",
+    "AdresseL": "Hay Nahda 2",
+    "AdresseA": "حي النهضة 2",
+    "COMMUNE": "Oujda",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL BADIL ATTARBAOUI 2",
+    "NOM_ETABA": "البديل التربوي 2",
+    "AdresseL": "N8 Rue talha bnou zoubayr lot ",
+    "AdresseA": "تجزئة الوحدة زنقة طلحة بن الزب",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HADIKAT AL IRFANE 2",
+    "NOM_ETABA": "حديقة العرفان 2",
+    "AdresseL": "",
+    "AdresseA": "س2 رقم 35 حي أنكاد",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANAS BNOU MALIK",
+    "NOM_ETABA": "أنس بن مالك",
+    "AdresseL": "lot juillet n°58 hay el qods",
+    "AdresseA": "حي القدس تجزئة يوليوز رقم 58",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la belle progression pour l enseignement",
+    "NOM_ETABA": "لبيل بروغرسيون للتعليم المدرسي الخصوصي",
+    "AdresseL": "bOULEVARd yaacoub elmansour RU",
+    "AdresseA": "شارع يعقوب المنصور زنقة مصر رق",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE GRAND JASMIN",
+    "NOM_ETABA": "الياسمين الكبرى",
+    "AdresseL": "rue afso route la fac",
+    "AdresseA": "طريق الجامعة زنقة أفصو",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR ESSABIL 2",
+    "NOM_ETABA": "دار السبيل 2",
+    "AdresseL": "hay el baladi n°60 lazaret",
+    "AdresseA": "الحي البلدي رقم 60 لازاري",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL MIR",
+    "NOM_ETABA": " المير",
+    "AdresseL": "hay moulay el miloud lazaret",
+    "AdresseA": "حي مولاي الميلود لازاري",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAJABA",
+    "NOM_ETABA": "النجابة",
+    "AdresseL": "",
+    "AdresseA": "زنقة العونية تجزئة البستان 2",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BENMIMOUN 2",
+    "NOM_ETABA": "بنميمون 2",
+    "AdresseL": "",
+    "AdresseA": "شارع الحسن الثاني طريق سيدي يح",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire al- aqsa echarif",
+    "NOM_ETABA": "مجموعة مدارس الأقصى الشريف للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lot Bellaoui N°57",
+    "AdresseA": "تجزئة البلاوي رقم 57 زنقة الجا",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR ASSABIL",
+    "NOM_ETABA": "دار السبيل",
+    "AdresseL": "lot boudchich n° 62 rue a bhar",
+    "AdresseA": " تجزئة بودشيش ظهر لمحلة لازاري",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MINHAJ ATTARBAOUI",
+    "NOM_ETABA": "المنهاج التربوي",
+    "AdresseL": "HAY EL WIDADIA DHAR LEMHALLA N",
+    "AdresseA": "حي الودادية ظهر المحلة رقم 11 ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MORCHID",
+    "NOM_ETABA": "المرشد",
+    "AdresseL": "BD ABDELMALEK ESSAADI",
+    "AdresseA": "شارع عبدالمالك السعدي",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATAIB",
+    "NOM_ETABA": "الطيب",
+    "AdresseL": "67 rue 41 hay alfath 1 bhar la",
+    "AdresseA": "67 طرق 41 حي الفتح ظهر لمحلة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HADIKAT ASSALAM 2",
+    "NOM_ETABA": "حديقة السلام 2",
+    "AdresseL": "N°70 LOT MCHIOUR RUE E8 DHAR L",
+    "AdresseA": "رقم 70؛ تج. مشيور زنقة E8 ظهر ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSOBH",
+    "NOM_ETABA": "الصبح",
+    "AdresseL": "HAY ALHASSANI MER NIGER 2/4",
+    "AdresseA": "حي الحسني ميرنيجر 2/4",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HADIKA ASSAHIRA",
+    "NOM_ETABA": "الحديقة الساحرة",
+    "AdresseL": "N° 26, RUE RAS ASFOUR",
+    "AdresseA": "رقم 26، طريق راس عصفور",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BAYAN",
+    "NOM_ETABA": "البيان",
+    "AdresseL": "35 BD. FAYSAL BNOU ABDELAZIZ",
+    "AdresseA": "35 شارع فيصل بن عبد العزيز",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OUCH ASSAGHIR 2",
+    "NOM_ETABA": "العش الصغير 2",
+    "AdresseL": "HAY EL MOSTAKBAL  RUE MOHAMED ",
+    "AdresseA": "حي المستقبل زنقة محمد القهواجي",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL BACHIR",
+    "NOM_ETABA": "البشير",
+    "AdresseL": "N° 20, RUE BADR",
+    "AdresseA": "رقم 20، زنقة بدر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AHRAM",
+    "NOM_ETABA": "الأهرام",
+    "AdresseL": "LOTISSEMENT IBN KHALDOUN,RUE 2",
+    "AdresseA": "تجزئة ابن خلدون، زنقة2 الرقم 8",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire AFDAL",
+    "NOM_ETABA": "مجموعة مدارس أفضال",
+    "AdresseL": "route ahfir Lotissement El Wah",
+    "AdresseA": " طريق أحفيرتجزئة الوحدة  ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAOUHARAT AL ILM",
+    "NOM_ETABA": "جوهرة العلم",
+    "AdresseL": "hay med bellakhdar bd elfahd n",
+    "AdresseA": "حي محمد بلخضر شارع الفهد رقم 3",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DESCARTES",
+    "NOM_ETABA": "ديكارت",
+    "AdresseL": "Rue Abdelkhalek Toris",
+    "AdresseA": "زنقة عبد الخالق الطريس",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAY ASSAADA",
+    "NOM_ETABA": "حي السعادة",
+    "AdresseL": "Hay Essaâda, Lot Mouhoub N°30 ",
+    "AdresseA": "حي السعادة تجزئة موهوب شارع ال",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YAQIN ATTAKOUA",
+    "NOM_ETABA": "يقين التقوى",
+    "AdresseL": "Tarik Maghnia, Lot Tawfiq N°6",
+    "AdresseA": "طريق مغنية تجزئة توفيق رقم 6",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL OUMMA",
+    "NOM_ETABA": "الأمة",
+    "AdresseL": "N°13 Rue Bouknadel Hay Zaïtoun",
+    "AdresseA": "رقم 13 طريق بوقنادل حي الزيتون",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALICE",
+    "NOM_ETABA": "أليس",
+    "AdresseL": "Boulevard Omar Rifi",
+    "AdresseA": "شارع عمر الريفي",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PYTHAGORE PREPAS",
+    "NOM_ETABA": "بيتاغور بريبا",
+    "AdresseL": "72 RUE NABLOUS ROUTE SIDI MAAF",
+    "AdresseA": "زنقة نابلس طريق سيدي معافة رقم",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JABER BNOU HAYYAN",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "ROUTE AIN BNI MATHAR, HAY ESSA",
+    "AdresseA": "طريق عين بني مطهر، حي السلام",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire EL HAKIM",
+    "NOM_ETABA": "مجموعة مدارس الحكيم",
+    "AdresseL": "BD. ARRAHMA, HAY EL HIKMA -",
+    "AdresseA": " حي الحكمة شارع الرحمة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL BADIA",
+    "NOM_ETABA": "البديع",
+    "AdresseL": "5 RUE MOUHA OUHAMOU -",
+    "AdresseA": "5 زنقة موحا حمو",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE SINANE",
+    "NOM_ETABA": "ملحقة سنان",
+    "AdresseL": "HAY El Hassani,Rue 128A, N°12",
+    "AdresseA": "حي الحسني، زنقة 128أ، رقم 12",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIHAB",
+    "NOM_ETABA": "رحاب",
+    "AdresseL": "N° 88  RUE 4, DHAR LAMHALLA LA",
+    "AdresseA": "رقم 88، زنقة 4، ظهر لمحلة لازا",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GHOSNE EZZAITOUN",
+    "NOM_ETABA": "غصن الزيتون",
+    "AdresseL": "N° 23, RUE TINDOUF -",
+    "AdresseA": "رقم 25، زنقة تيندوف -",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Riyad ElAassi",
+    "NOM_ETABA": "مجموعة رياض العاصي",
+    "AdresseL": "HAY EL MASSIRA, RUE OUED EDDAH",
+    "AdresseA": "حي المسيرة، زنقة واد الذهب، رق",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOUNDOUS",
+    "NOM_ETABA": "سندس",
+    "AdresseL": "BD KADA NADRAM M20 HAY EL WAHD",
+    "AdresseA": "شارع قادة نضرام م 20 حي الوحدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BADIL ATTARBAOUI",
+    "NOM_ETABA": "البديل التربوي",
+    "AdresseL": "LOTISSEMENT EL WAHDA, 19-21, R",
+    "AdresseA": "تجزئة الوحدة19-21، زنقة معاذ ب",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL YASMINE",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "RUE TAMESNA, N° 43",
+    "AdresseA": "زنقة تامسنة، رقم 43",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HOUDA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "BD KADOUR EL OUARTASSI LOT TAL",
+    "AdresseA": " شارع قدور الورطاسي، تجزئة الط",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "N° 11, HAY AL OUEDADIA",
+    "AdresseA": "رقم 11، حي الودادية",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSABIL",
+    "NOM_ETABA": "السبيل",
+    "AdresseL": "ROUTE ZAIR, N° 14 LAZARI",
+    "AdresseA": "طريق زعير، رقم 14 لازاري",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "N° 297, BOULEVARD DERFOUFI",
+    "AdresseA": "رقم 297، شارع الدرفوفي",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BEN MIMOUN",
+    "NOM_ETABA": "بن ميمون",
+    "AdresseL": "LOTISSEMENT BEN MIMOUN, Rte Si",
+    "AdresseA": "تجزئة بن ميمون، طريق سيدي يحيى",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BEN ALI",
+    "NOM_ETABA": "بنعلي",
+    "AdresseL": "RUE EL KHALIL HAY AL QODS -",
+    "AdresseA": "زنقة الخليل حي القدس -",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANAHEL",
+    "NOM_ETABA": "المناهل",
+    "AdresseL": "24 RUE ALMIRAAGE",
+    "AdresseA": "24 شارع المعراج",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANAL",
+    "NOM_ETABA": "المنال",
+    "AdresseL": "BOULEVARD MOHAMED 6 N°5Bis",
+    "AdresseA": "شارع محمد السادس الرقم 5 مكرر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Dar el-amana",
+    "NOM_ETABA": "دار الأمانة",
+    "AdresseL": "LOT Militaire, Rue Abi Ayoub N",
+    "AdresseA": "التجزئة العسكرية، زنقة أبي أيو",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTINE",
+    "NOM_ETABA": "التين",
+    "AdresseL": " 16 RUE ADOUHA HAY AL ANDALOUS",
+    "AdresseA": "16، زنقة الضحى، حي الأندلس",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTEFL",
+    "NOM_ETABA": "الطفل",
+    "AdresseL": "HAY AL HOBOUSSE, RUE AOUAJA LA",
+    "AdresseA": "حي الحبوس، زنقة عواجة لازاري",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR ANNAJAH",
+    "NOM_ETABA": "نور النجاح",
+    "AdresseL": "hay alqods rue alkholwa n° 27",
+    "AdresseA": "حي القدس زنقة الخلوة رقم 27",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARROMAISSAE",
+    "NOM_ETABA": "الرميساء",
+    "AdresseL": "71, BOULEVARD HASSAN 2",
+    "AdresseA": "71، شارع الحسن الثاني",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OUALID",
+    "NOM_ETABA": "الوليد",
+    "AdresseL": "RUE ZAITOUNE, N° 13",
+    "AdresseA": "طريق الزيتون، رقم 13",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IKRAE",
+    "NOM_ETABA": "إقرأ",
+    "AdresseL": "N° 48, BOULEVARD ABDEL MALEK A",
+    "AdresseA": "رقم 48، شارع عبد المالك السعدي",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IRIS",
+    "NOM_ETABA": "إيريس",
+    "AdresseL": "LOT IRIS BD OUM RABII N°581",
+    "AdresseA": "تجزئة إيريس زنقة واد أم الربيع",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OUROUBA",
+    "NOM_ETABA": "العروبة",
+    "AdresseL": "N° 21, RUE ENNAHDA",
+    "AdresseA": "رقم 21، زنقة النهضة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE AL OUROUBA",
+    "NOM_ETABA": "ملحقة العروبة",
+    "AdresseL": "N° 28 RUE AL KADISSIA",
+    "AdresseA": "رقم 28، زنقة القادسية",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "11 BOULEVARD IBN SINA",
+    "AdresseA": "11 شارع ابن سينا",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES GENIES",
+    "NOM_ETABA": "لِجيني",
+    "AdresseL": "Rue ElHijaz: N° 2",
+    "AdresseA": " شارع الحجاز رقم 2",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HADIKAT AL IRFANE",
+    "NOM_ETABA": "حديقة العرفان",
+    "AdresseL": "20 BOULEVARD ALLAL AL FASSI -D",
+    "AdresseA": "شارع علال الفاسي -ظهر لمحلة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire INYAS",
+    "NOM_ETABA": "المجموعة التربوية إنياس",
+    "AdresseL": "BOULEVARD MOHAMED 6",
+    "AdresseA": "شارع محمد السادس",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IKHAE",
+    "NOM_ETABA": "الإخاء",
+    "AdresseL": "3 RUE Mehdaoui bensid (TAIRET)",
+    "AdresseA": "3 زنقة المهداوي بنسعيد ( طايرت",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IQBAL",
+    "NOM_ETABA": "إقبال",
+    "AdresseL": "RUE HAMZA IBN ABDELMOUTTALIB",
+    "AdresseA": "زنقة حمزة بن عبد المطلب",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe RIAD 2",
+    "NOM_ETABA": "مجموعة الرياض 2",
+    "AdresseL": "BOULEVARD YAACOUB EL MANSOUR N",
+    "AdresseA": "شارع يعقوب المنصور رقم 102",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL MOHAMMADIA",
+    "NOM_ETABA": "المحمدية",
+    "AdresseL": "RUE MAAZOUZA",
+    "AdresseA": "طريق معزوزة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAARIF",
+    "NOM_ETABA": "المعارف",
+    "AdresseL": "26 BOULEVAD ECHEFCHAOUNI",
+    "AdresseA": "26 - شارع الشفشاوني",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ISMAIL",
+    "NOM_ETABA": "مولاي إسماعيل",
+    "AdresseL": "4, RUE AL BOUSSAIRI",
+    "AdresseA": "زنقة البصيري -4",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SINANE",
+    "NOM_ETABA": "سنان",
+    "AdresseL": "18, RUE BEN HAMDISS (Imm Zenda",
+    "AdresseA": "18، زنقة ابن حمديس (عمارة زندا",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAHAL",
+    "NOM_ETABA": "رحال",
+    "AdresseL": "LOT. MILITAIRE N°564",
+    "AdresseA": "التجزئة العسكرية رقم 564",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ORIENTAL",
+    "NOM_ETABA": "لوريونطال",
+    "AdresseL": "ROUTE TAZA",
+    "AdresseA": "طريق تازة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MANBAE",
+    "NOM_ETABA": "مجموعة مدارس المنبع",
+    "AdresseL": "Lot. La Coline Route la Cacult",
+    "AdresseA": "تجزئة لكولين رقم 1 طريق الجامع",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Sabil Al Falah",
+    "NOM_ETABA": "مجموعة مدارس سبيل الفلاح",
+    "AdresseL": "Lot Al Boustane Rte El Aounia",
+    "AdresseA": "تجزئة البستان طريق العونية",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABDELMALEK IBN ZOHR",
+    "NOM_ETABA": "عبد الملك بن زهر",
+    "AdresseL": "Lot. Tazaghine  E4/E5; Rte El ",
+    "AdresseA": "تجزئة تازاغين E4/E5 طريق العون",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANOUAR",
+    "NOM_ETABA": "الأنوار",
+    "AdresseL": "",
+    "AdresseA": "زنقة الرملة حدائق سيدي معافة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jean Jacques Rousseau",
+    "NOM_ETABA": "جون جاك روسو",
+    "AdresseL": "NULL",
+    "AdresseA": "3 زاوية جعفر بن عطية وبني مرين",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Bayt Al Ilm",
+    "NOM_ETABA": "مجموعة مدارس بيت العلم",
+    "AdresseL": "N°17 Rue minbar4 Lot alkaoutar",
+    "AdresseA": "رقم 17 زنقة المنبر4 تجزئة الكو",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hamza",
+    "NOM_ETABA": "حمزة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الحسني الزنقة 127 رقم 17 وج",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IRFANE",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "N° 8 Route Tayert Lot Laalaj",
+    "AdresseA": "طريق طايرت تجزئىة لعلج رقم 8",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE JARDIN D EVEIL",
+    "NOM_ETABA": "لوجاردان ديفيي",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق أحفير تجزئة الوحدة رقم 93",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "afnane",
+    "NOM_ETABA": "أفنان",
+    "AdresseL": "NULL",
+    "AdresseA": "س24 حي الجوهرة وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRAJAE",
+    "NOM_ETABA": "الرجاء",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق عوينت السراق، زنقة ب6/9 ح",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zohor al mostakbal",
+    "NOM_ETABA": "زهور المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "حي عواطف س3 رقم6 وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baraime al amal",
+    "NOM_ETABA": "براعم الأمل",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي المحمدي زنقة 202 رقم 65 و",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al ikhlass littifl",
+    "NOM_ETABA": "الإخلاص للطفل",
+    "AdresseL": "NULL",
+    "AdresseA": "حي محمد بلخضر شارع مشرع حمادي ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TARIK AL HIDAYA",
+    "NOM_ETABA": "طريق الهداية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة العامري طريق العونية رقم",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KORRAT AL AIN",
+    "NOM_ETABA": "قرة العين",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة س 1/3 طريق عوينات السراق ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fondation Lala ASMAE Des sourds",
+    "NOM_ETABA": "مؤسسة للا أسماء للصم",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATANOUIR",
+    "NOM_ETABA": "التنوير",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المير علي زنقة 2 رقم 19",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BELYAZID",
+    "NOM_ETABA": "بليزيد",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 34 زنقة مليلية",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAYMAE",
+    "NOM_ETABA": "شيماء",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 41 زنقة الروضة حي المستقبل",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "daouhate al atffal",
+    "NOM_ETABA": "دوحة الأطفال",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 397 حي انكاد لا زاري",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAB ARRAYANE",
+    "NOM_ETABA": "باب الريان",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 27 زنقة هـ 9 الحي الرياضي ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire label reussite",
+    "NOM_ETABA": "م/م علامة النجاح",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 62 تجزئة قيسي حي الوحدة طر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "brahim",
+    "NOM_ETABA": "ابراهيم",
+    "AdresseL": "NULL",
+    "AdresseA": "35 زنقة واد امليل وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jaber ibn hayan prescolaire",
+    "NOM_ETABA": "جابر بن حيان للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق عين بني مطهر حي السلام ب2",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al majde2",
+    "NOM_ETABA": "المجد2",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة e رقم 34 لازاري وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al hady",
+    "NOM_ETABA": "كتاب الهدي",
+    "AdresseL": "",
+    "AdresseA": "طريق عوينة السراقس4/15 وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ahlam al assaffir",
+    "NOM_ETABA": "أخلام العصافير",
+    "AdresseL": "NULL",
+    "AdresseA": "حي سي لخضر زنقة 4 رقم 27",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "skiker",
+    "NOM_ETABA": "سكيكر",
+    "AdresseL": "NULL",
+    "AdresseA": "134 زنقة أحمد البوشيخي وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "mOULAY ALI CHRIF",
+    "NOM_ETABA": "مولاي علي الشريف",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة الغزوات رقم 39 وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al amal toffola",
+    "NOM_ETABA": "الأمل للطفولة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة عزيزي  حي اكدال ب 90 وجد",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "boujnane",
+    "NOM_ETABA": "بوجنان",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الموقف م 3 رقم 59 وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arriyade",
+    "NOM_ETABA": "الرياض",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع علال الفاسي تجزئة السهلي ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bahi",
+    "NOM_ETABA": "باهي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الطلحاوي زنقة أ3 رقم 12 ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annour prescolaire",
+    "NOM_ETABA": "النور الأولي",
+    "AdresseL": "N° 23 bis Rue Kanitra",
+    "AdresseA": "رقم 23 مكرر زنقة القنيطرة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al maarifa",
+    "NOM_ETABA": "المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق مغنية تجزئة البخاري زنقة ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rizk du prescolaire",
+    "NOM_ETABA": "رزق للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق تازة تجزئة بوبو زنقة م 10",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annaouras",
+    "NOM_ETABA": "النورس",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام طريق عين بني مطهر زن",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALBARAIM",
+    "NOM_ETABA": "البراعم",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الطوبة الخارجي214/8 وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSAADA 1",
+    "NOM_ETABA": "1السعادة",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق سيدي يحيى تجزئة كودان رقم",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALFIRDAOUS",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 11 شارع يوسف بن تاشفين",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALWOROUD",
+    "NOM_ETABA": "الورود",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 5 زنقة مليلية وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSADIK",
+    "NOM_ETABA": "الصديق",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 3 ساحة الكتبية وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assaada",
+    "NOM_ETABA": "السعادة",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق بودير حي التنيس زنقة ب 4/",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al fosha",
+    "NOM_ETABA": "الفصحى",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق الشهداء رقم 3 مكرر وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAGHDAD ",
+    "NOM_ETABA": "بغداد",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق عين بني مطهر حي السلام ب ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achiffae",
+    "NOM_ETABA": "شفاء",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الحبوس ا9 رقم 26 وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "salma",
+    "NOM_ETABA": "سلمى",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق عين بني مطهر تجزئة ابن خل",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "amri ",
+    "NOM_ETABA": "عامري للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "ظهر المحلة تجزئة الفتح  زنقة ب",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAHAB",
+    "NOM_ETABA": "ذهب",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة س 6/62 تجزئة السلام 2لزار",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annajjat",
+    "NOM_ETABA": "النجاة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الدزيري طريق بودير زنقة 301",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "douae",
+    "NOM_ETABA": "دعاء",
+    "AdresseL": "NULL",
+    "AdresseA": "ظهر لمحلة تجزئة موهوب أ8 رقم 9",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hadaik al atfal al makssam",
+    "NOM_ETABA": "حدائق الأطفال المقسم",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 10 جرش شارع يعقوب المنصور ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAOULA",
+    "NOM_ETABA": "العلى",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة ه 6 رقم 12 تجزئة بوشير طر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL GHAZALLA",
+    "NOM_ETABA": "الغزالة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي سي لخضر تجزئة ارغيون زنقة18",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALFORAT",
+    "NOM_ETABA": "الفرات",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 23 الزنقة 117 الحي الحسني",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL WISSAL",
+    "NOM_ETABA": "الوصال",
+    "AdresseL": "NULL",
+    "AdresseA": "حي التقدم زنقة أم الربيع رقم 7",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الأمل للتربية والتعليم",
+    "AdresseL": "NULL",
+    "AdresseA": "الزنقة 7 رقم 15 حي بام سيدي يح",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANAMIL",
+    "NOM_ETABA": "الأنامل",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 37/18 حي المير علي وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBTISAMAT ESSALAM",
+    "NOM_ETABA": "ابتسامة السلام",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام زنقة أ 18 رقم 74 ظهر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHANAE",
+    "NOM_ETABA": "الهناء",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 13 زنقة الأقحوان حي الأندل",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUSTANE ALMAARIFA",
+    "NOM_ETABA": "بستان المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "ظهر المحلة تجزئة الفتح زنقة ب ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSANABIL",
+    "NOM_ETABA": "السنابل",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الفتح زنقة ب 42 رقم 181 وجد",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUADI EDDAHAB ",
+    "NOM_ETABA": "وادي الذهب",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق العونية تجزئة موهوب رقم 3",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMOHIB",
+    "NOM_ETABA": "المحب",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الرياض زنقة ش 3 رقم 83 وجدة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "koudane",
+    "NOM_ETABA": "كودان",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة كوذان ودادية السعادة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire ANDRE GIDE",
+    "NOM_ETABA": "مجموعة مدارس أندري جيد",
+    "AdresseL": "Lot Riad Isly2 N°465",
+    "AdresseA": "تجزئة رياض اسلي 2 رقم البقعة 4",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire BAB ARRAYANE",
+    "NOM_ETABA": "مجموعة مدارس باب الريان",
+    "AdresseL": "Rte Elaounia, Lot Douhi, N°14",
+    "AdresseA": "طريق العونية، تجزئة الدوحي، رق",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire LA REFERENCE",
+    "NOM_ETABA": "مجموعة مدارس لريفرنس",
+    "AdresseL": "Bd, Hassan II, LOT Satr Allah",
+    "AdresseA": "شارع الحسن الثاني، تجزئة ستر ا",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Espace des Sciences",
+    "NOM_ETABA": "مجموعة مدارس فضاء العلوم",
+    "AdresseL": "Bd HASSAN II N°1 SIDI YAHYA",
+    "AdresseA": "شارع الحسن الثاني رقم 1 سيدي ي",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRAID",
+    "NOM_ETABA": "الرائد",
+    "AdresseL": "Lot arrida Rte Sidi Yahiya N°6",
+    "AdresseA": "تجزئة الرضى طريق سيدي يحيى رقم",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARBAOUI PRIVATE SCHOOL",
+    "NOM_ETABA": "عرباوي بريفايت سكول",
+    "AdresseL": "LOT ELFATH DHAR LMHALLA N°1",
+    "AdresseA": "رقم1 تجزئة الفتح ظهر لمحلة",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IRCHAD",
+    "NOM_ETABA": "الإرشاد",
+    "AdresseL": "n:61; Rue F9;Hay Tennis",
+    "AdresseA": "رقم 61 زنقة ف9 حي التنس",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANDRINEO",
+    "NOM_ETABA": "ساندرينيو",
+    "AdresseL": "Angle Rue Khnata & Assila 7",
+    "AdresseA": "7 زاوية زنقة خناتة وأصيلا",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Hadikat Essalam",
+    "NOM_ETABA": "حديقة السلام",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة السلام زنقة أ7 رقم 26 ظه",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENASSR",
+    "NOM_ETABA": "النصر ",
+    "AdresseL": "Hay nasr",
+    "AdresseA": "حي النصر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Maary",
+    "NOM_ETABA": "المعري",
+    "AdresseL": "NULL",
+    "AdresseA": "34 زنقة المعري",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Azhar Education et Enseignement",
+    "NOM_ETABA": "الأزهر للتربية والتعليم",
+    "AdresseL": "NULL",
+    "AdresseA": "31 زنقة بلكرد",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Bouchra",
+    "NOM_ETABA": "البشرى",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم4 شارع بنقدور بودير",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Kouttab Laila",
+    "NOM_ETABA": "كتاب ليلى",
+    "AdresseL": "NULL",
+    "AdresseA": "21 زنقة ايناون",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Elites",
+    "NOM_ETABA": "ليزيليت",
+    "AdresseL": "NULL",
+    "AdresseA": "213؛ تجزئة عوينة السراق، طريق ",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Aux Tout Petits",
+    "NOM_ETABA": "عند الصغار",
+    "AdresseL": "NULL",
+    "AdresseA": "73 شارع سيدي محمد بن عبدالله",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHOUROUK",
+    "NOM_ETABA": "شروق",
+    "AdresseL": "",
+    "AdresseA": "طريق طايرت تجزئة الحاج حميدة ر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Perle Du Savoir",
+    "NOM_ETABA": "جوهرة المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "104 تجزئة la belle oujda  طريق",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Petits Papillons",
+    "NOM_ETABA": "الفراشات الصغيرة",
+    "AdresseL": "NULL",
+    "AdresseA": "ظهر لمحلة تجزئة السلام زنقة أ7",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L horizon oriental",
+    "NOM_ETABA": "لوريزون أوريونطال",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة لبياييض رقم 84 الصفاء طر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق طايرت تجزئة طلحاوي زأ3 رق",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAMS",
+    "NOM_ETABA": "شمس",
+    "AdresseL": "HAY AL AMAL 1, LAMHARCHI 1, B4",
+    "AdresseA": "حي الأمل 1, لمحرشي 1, زنقة 4 ر",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Petits Prodiges",
+    "NOM_ETABA": "لي بوتي بروديج",
+    "AdresseL": "Lotissement Parc Isly",
+    "AdresseA": "تجزئة منتزه إسلي",
+    "COMMUNE": "Oujda ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

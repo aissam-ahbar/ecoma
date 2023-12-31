@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "الثانوية الاعدادية يوسف بن تاشفين",
+    "AdresseL": "COMMUNE MOULAY BOUSSELHAM",
+    "AdresseA": "جماعة مولاي بوسلهام",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LMARJA ZARKA",
+    "NOM_ETABA": "الثانوية الإعدادية المرجة الزرقاء",
+    "AdresseL": "dlalha moulay bousselham",
+    "AdresseA": "مولاي بوسلهام الدلالحة",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY BOUSSELHAM",
+    "NOM_ETABA": "مولاي بوسلهام",
+    "AdresseL": "MOULAY BOUSSELHAM CENTRE",
+    "AdresseA": "مولاي بوسلهام  المركز",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI DAR AL GHIFARI",
+    "NOM_ETABA": " أبي ذر الغفاري",
+    "AdresseL": "DOUAR ZAOUIA MY BOUSELHAM",
+    "AdresseA": "دوار الزاوية مولاى بوسلهام",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED RAFAA",
+    "NOM_ETABA": "اولاد رافع",
+    "AdresseL": "DOUAR OULED RAFAA  COM  MY BOUSELHAM",
+    "AdresseA": "دوار اولاد رافع  ج/مولاى بوسلهام",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS COOPERATIVE ENNASR",
+    "NOM_ETABA": "م,م تعاونية النصر",
+    "AdresseL": "COOPERATIVE ENNASR",
+    "AdresseA": "تعاونية النصر",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " MACHRA HDER",
+    "NOM_ETABA": "مشرع احضر",
+    "AdresseL": "DOUAR DLALHA COMMUNE MOULAY BOUSSELHAM",
+    "AdresseA": "دوار الدلالحة  ج/ مولاى بوسلهام",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AGUIL LAKBAR",
+    "NOM_ETABA": "اولاد عكيل الكبار",
+    "AdresseL": "DOUAR OULED AGUIL LAKBAR COM MY BOUSELHAM",
+    "AdresseA": "دواراولاد عكيل ج/ مولاى بوسلهام",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ROUMI",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الرومي",
+    "AdresseL": "CENTRE DLALHA",
+    "AdresseA": "مركز الدلالحة",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "al manare attarbawi",
+    "NOM_ETABA": "المنار التربوي ",
+    "AdresseL": "Lotissement mimoza nr 67",
+    "AdresseA": "تجزئة ميموزة رقم 67",
+    "COMMUNE": "Moulay Bousselham",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

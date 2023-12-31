@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "C AOULOUZ",
+    "NOM_ETABA": "ثإ. اولوز",
+    "AdresseL": "CENTRE AOULOUZ CERCLE OULAD BERHIL",
+    "AdresseA": "بلدية أولوز دائرة اولادبرحيل",
+    "COMMUNE": "Aoulouz",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL MASSAMIDA",
+    "NOM_ETABA": "م.م المصامدة",
+    "AdresseL": "DOUAR   TIMILT C AOULOUZ",
+    "AdresseA": "د. تملت",
+    "COMMUNE": "Aoulouz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OMAR IBN ELKHATTAB",
+    "NOM_ETABA": "م.م عمر ابن الخطاب",
+    "AdresseL": "DOUAR   TAMEGOUTE C AOULOUZ",
+    "AdresseA": "د. تمكوت",
+    "COMMUNE": "Aoulouz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMARI",
+    "NOM_ETABA": "م.م أماري",
+    "AdresseL": "DOUAR   igdad Commune AOULOUZ taroudant",
+    "AdresseA": "دوار اكضاض بلدية أولوز  عمالة تارودانت",
+    "COMMUNE": "Aoulouz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ELLOUZ",
+    "NOM_ETABA": "م. اللوز",
+    "AdresseL": "CENTRE AOULOUZ",
+    "AdresseA": "مركز اولوز",
+    "COMMUNE": "Aoulouz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AOULOUZ ",
+    "NOM_ETABA": "ثأ. أولوز ",
+    "AdresseL": "tagadirt aoulouz",
+    "AdresseA": "تكاديرت أولوز",
+    "COMMUNE": "Aoulouz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "toudert",
+    "NOM_ETABA": "تودرت الخاصة",
+    "AdresseL": "Lot heritiers rezguini municip",
+    "AdresseA": "تجزئة ورثة الرزكيني بلدية أولو",
+    "COMMUNE": "Aoulouz ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al massira",
+    "NOM_ETABA": "مؤسسة المسيرة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار البور أولوز",
+    "COMMUNE": "Aoulouz ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

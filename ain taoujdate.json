@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN BATTOUTA",
+    "NOM_ETABA": " الثانوية الإعدادية ابن بطوطة",
+    "AdresseL": "HAY JRADI ain TAOUJdATE",
+    "AdresseA": "حي جرادي عين  تاوجدات",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARIK IBN ZIYAD",
+    "NOM_ETABA": "الثانوية الإعدادية طارق ابن زياد",
+    "AdresseL": "Narjis 2 ",
+    "AdresseA": "نرجس 2",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALI IBN ABI TALEB",
+    "NOM_ETABA": "م علي بن ابي طالب",
+    "AdresseL": "HAY ELBASSATINE TAOUJTATE",
+    "AdresseA": "حي البساتين تاوجطات",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KADI AYAD",
+    "NOM_ETABA": "م القاضي عياض",
+    "AdresseL": " AIN TAOUJDATE",
+    "AdresseA": "عين تاوجطات  شارع ابن سينا",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL QUODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "HAY EL KODS TAOUJDATE",
+    "AdresseA": "حي القدس تاوجطات",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAADA",
+    "NOM_ETABA": "السعادة",
+    "AdresseL": " TAOUJDATE CENTRE",
+    "AdresseA": "تاوجطات المركز",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NARJISSE",
+    "NOM_ETABA": "النرجس",
+    "AdresseL": "TAOUJDATE",
+    "AdresseA": "تاوجطات",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCeE qualifiant 11 JANVIER",
+    "NOM_ETABA": "ثانوية 11 يناير التأهيلية",
+    "AdresseL": "HAY ENARJISS 1 AIN TAOUJDATE",
+    "AdresseA": "حي النرجس1، عين تاوجطات",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "NOUVEAU LYCEE QUALIFIANT TAOUJTAT",
+    "NOM_ETABA": "ثانوية تاوجطات الجديدة التأهيلية",
+    "AdresseL": "AIN TAOUJTATE",
+    "AdresseA": "عين تاوجطات",
+    "COMMUNE": "Ain Taoujdate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AFAQ AL JIL ASSAID",
+    "NOM_ETABA": "آفاق الجيل الصاعد",
+    "AdresseL": "Hay al qods i 306 ain taoujdat",
+    "AdresseA": "حي القدس 1 رقم 306 تاوجدات الح",
+    "COMMUNE": "Ain Taoujdate ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TALAIA   ARRISSALA",
+    "NOM_ETABA": "طلائع الرسالة",
+    "AdresseL": "lotissement marjana  taoujtate",
+    "AdresseA": "تجزئة مرجانة  عين تاوجطات",
+    "COMMUNE": "Ain Taoujdate ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Riad Al Maarifa",
+    "NOM_ETABA": "معهد رياض المعرفة",
+    "AdresseL": "N° 7, Rue El Masbah -Ain Taouj",
+    "AdresseA": "رقم 7، زنقة المسبح - عين تاوجط",
+    "COMMUNE": "Ain Taoujdate ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRISSALA",
+    "NOM_ETABA": "الرسالة",
+    "AdresseL": "N° 125/127,126/128 Lotissement",
+    "AdresseA": "رقم125/126/127/128، تجزئة وليل",
+    "COMMUNE": "Ain Taoujdate ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rihab annour",
+    "NOM_ETABA": " مؤسسة رحاب النور",
+    "AdresseL": "lotissement karim 151 taoujtat",
+    "AdresseA": "تجزئة  كريم رقم  151  عين تاوج",
+    "COMMUNE": "Ain Taoujdate ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire mi manana",
+    "NOM_ETABA": "ممجموعة مدارس مي منانة",
+    "AdresseL": "hay agdal",
+    "AdresseA": "حي أكدال تاوجدات",
+    "COMMUNE": "Ain Taoujdate ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LA TYPIQUEE",
+    "NOM_ETABA": "مدرسة لاتيبيك الخصوصية",
+    "AdresseL": "N° 151 Cité Assalam 2",
+    "AdresseA": "رقم 151 تجزئة السلام 2 ",
+    "COMMUNE": "Ain Taoujdate ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

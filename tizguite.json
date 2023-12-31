@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL AMAL",
+    "NOM_ETABA": "ثانوية الامل الاعدادية ",
+    "AdresseL": "ain lahnouch centre",
+    "AdresseA": " عين الحنوش المركز",
+    "COMMUNE": "Tizguite",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AIT LAHCEN OUBRAHIM CENTRE",
+    "NOM_ETABA": "  م م أيت لحسن أوبراهيم المركزية",
+    "AdresseL": "DOUAR AIT LAHSSEN OUBRAHIM COMMUNE TIZGUITE",
+    "AdresseA": "دوار أيت لحسن أوبراهيم جماعة تزكيت",
+    "COMMUNE": "Tizguite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUIAT SIDI ABDESLAM CENTRE",
+    "NOM_ETABA": "م م زاوية سيدي عبد السلام المركزية",
+    "AdresseL": " ZAOUIAT SIDI ABDESSALAM COMMUNE tizguit",
+    "AdresseA": "دوار زاوية سيدي عبد السلام جماعة تزكيت",
+    "COMMUNE": "Tizguite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN LAHNOUCH CENTRE",
+    "NOM_ETABA": "م م عين الحنوش المركزية",
+    "AdresseL": "AIN LAHNOUCH AIT HAMMAD COMMUNE TIZGUITE",
+    "AdresseA": "عين لحنوش جماعة تزكيت",
+    "COMMUNE": "Tizguite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RAWD RIAD ASSALIHIN",
+    "NOM_ETABA": "روض رياض الصالحين الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة جنان الأطلس جماعة تيزكيت",
+    "COMMUNE": "Tizguite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

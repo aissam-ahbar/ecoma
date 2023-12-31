@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOUKHTAR SOUSSI",
+    "NOM_ETABA": "ثانوية المختار السوسي الاعدادية",
+    "AdresseL": "16 BD  HASSAN II    TATA",
+    "AdresseA": "طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM AL BOUKHARI",
+    "NOM_ETABA": "ثانوية الإمام البخاري الاعدادية",
+    "AdresseL": "AGADIR LHNA TATA",
+    "AdresseA": "اكادير الهناء طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALFARABI",
+    "NOM_ETABA": "ثانوية الفارابي الإعدادية",
+    "AdresseL": "QUARTIER AL KASSABA",
+    "AdresseA": "حي القصبة",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E. ANNAKHIL",
+    "NOM_ETABA": "م. النخيل",
+    "AdresseL": "AVENU HASSAN 2 TATA",
+    "AdresseA": "شارع الحسن2 طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. EL JADIDA",
+    "NOM_ETABA": "م. الجديدة",
+    "AdresseL": "BD MOHAMED V CENTRE TATA",
+    "AdresseA": "ش.محمد5  مركز طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. IBNOU SINA",
+    "NOM_ETABA": "م. ابن سينا",
+    "AdresseL": "EL KASBA  CENTRE TATA",
+    "AdresseA": "القصبة طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AGADIR LEHNA",
+    "NOM_ETABA": "م/م اكادير الهناء",
+    "AdresseL": "DOUAR  AGADIR LEHNA  TATA",
+    "AdresseA": "دوار اكادير الهناء طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E.ZERKTOUNI",
+    "NOM_ETABA": "م. الزرقطوني",
+    "AdresseL": "ENNAHDA  TATA",
+    "AdresseA": "حي النهضة طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED VI",
+    "NOM_ETABA": "ثانوية محمد السادس التأهيلية",
+    "AdresseL": "lotissement alkassaba tata",
+    "AdresseA": "تجزئة القصبة طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  ALJADIDA",
+    "NOM_ETABA": "ثانوية الجديدة التاهيلية",
+    "AdresseL": "CENTRE  TATA",
+    "AdresseA": "طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL BEN ABDALLAH",
+    "NOM_ETABA": "ثانوية علال بن عبد الله التأهيلية",
+    "AdresseL": "CENTRE  TATA",
+    "AdresseA": "طاطا",
+    "COMMUNE": "Tata",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BARAAIM AL MOSTAKBALE",
+    "NOM_ETABA": "براعم المستقبل",
+    "AdresseL": "Rue El Ouahate Douar Jdid",
+    "AdresseA": "زنقة الواحات دوار جديد",
+    "COMMUNE": "Tata ",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "OUM AZZA",
+    "NOM_ETABA": "ام عزة",
+    "AdresseL": "OUM AZZA CENTRE",
+    "AdresseA": "ام عزة المركز",
+    "COMMUNE": "Oumazza",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MED CHERIF",
+    "NOM_ETABA": "سيدي محمد الشريف",
+    "AdresseL": "DOUAR EL FOUKARA COMMUNE OUM AZZA",
+    "AdresseA": "دوار الفقراء ام عزة",
+    "COMMUNE": "Oumazza",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

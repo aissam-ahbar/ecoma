@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLÈGE GUENFOUDA",
+    "NOM_ETABA": "إعدادية قنفودة ",
+    "AdresseL": "guenfouda",
+    "AdresseA": "قنفودة",
+    "COMMUNE": "Guenfouda",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BAIDAK ",
+    "NOM_ETABA": "م/م البيدق",
+    "AdresseL": "CENTRE GUENFOUDA COMMUNE GUENFOUDA",
+    "AdresseA": "قنفودة المركز",
+    "COMMUNE": "Guenfouda",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S TADOUAOUT CENTRE",
+    "NOM_ETABA": "م/م تادواوت المركز",
+    "AdresseL": "DOUAR ELKHALOUFINE COMMUNE GUENFOUDA",
+    "AdresseA": "دوار الخلوفيين",
+    "COMMUNE": "Guenfouda",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

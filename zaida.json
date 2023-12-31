@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "ECOLE ZAIDA",
+    "NOM_ETABA": "مدرسة زايدة",
+    "AdresseL": "HAY AIT ALI COMMUNE ZAIDA",
+    "AdresseA": "حي ايت علي جماعة زايدة",
+    "COMMUNE": "Zaida",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOULAAJOULE",
+    "NOM_ETABA": "بولعجول",
+    "AdresseL": "DOUAR BOULAAJOULE COMMUNE ZAIDA",
+    "AdresseA": "دوار بولعجول جماعة زايدة",
+    "COMMUNE": "Zaida",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MOULI",
+    "NOM_ETABA": "ايت مولي",
+    "AdresseL": "DOUAR AIT MOULI COMMUNE ZAIDA",
+    "AdresseA": "دوار ايت مولي جماعة زايدة",
+    "COMMUNE": "Zaida",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TACHROUT",
+    "NOM_ETABA": "تاشروت",
+    "AdresseL": "DOUAR TACHROUT COMMUNE ZAIDA",
+    "AdresseA": "دوار تاشروت جماعة زايدة",
+    "COMMUNE": "Zaida",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAMELLAHT",
+    "NOM_ETABA": "مدرسة تاملاحت",
+    "AdresseL": "CITEE TAMELAHT COMMUNE ZAIDA",
+    "AdresseA": "حي تاملاحت جماعة زايدة",
+    "COMMUNE": "Zaida",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECR ZAIDA",
+    "NOM_ETABA": "مدرسة كم زايدة",
+    "AdresseL": "quartier cite des cadres  commune ZAIDA",
+    "AdresseA": "حي الاطر جماعة زايدة",
+    "COMMUNE": "Zaida",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL FARAH",
+    "NOM_ETABA": "مدرسة  الفرح",
+    "AdresseL": "DOUAR HSSINI ZAIDA",
+    "AdresseA": "دوار حسيني زايدة",
+    "COMMUNE": "Zaida",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZAIDA",
+    "NOM_ETABA": "الثانوية التأهيلية زايدة ",
+    "AdresseL": "ROUTE DE KHENIFRA COMMUNE ZAIDA",
+    "AdresseA": "طريق خنيفرة جماعة زايدة",
+    "COMMUNE": "Zaida",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

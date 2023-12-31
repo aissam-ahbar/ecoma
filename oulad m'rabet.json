@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S ELMOURABITINE",
+    "NOM_ETABA": "م.م.المرابطين",
+    "AdresseL": "OULAD MRABET",
+    "AdresseA": " اولاد امرابط",
+    "COMMUNE": "Oulad M'Rabet",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OMAR BNOU ELKHATAB",
+    "NOM_ETABA": "م.م.عمر بن الخطاب",
+    "AdresseL": "DOUAR LOUAD OULAD MRABET",
+    "AdresseA": "دوار الواد جماعة اولاد امرابط الصويرة",
+    "COMMUNE": "Oulad M'Rabet",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

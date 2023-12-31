@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL  OULED HASSOUNE",
+    "NOM_ETABA": "الثانوية الاعدادية اولاد حسون",
+    "AdresseL": "commune ouled hassoune hamri",
+    "AdresseA": "جماعة اولاد حسون حمري",
+    "COMMUNE": "Oulad Hassoune Hamri",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MOURABITINE CENTRE",
+    "NOM_ETABA": "المرابطين المركزية",
+    "AdresseL": "DOUAR LAMRABTINE COMMUNE OULED HASSOUNE HAMRI",
+    "AdresseA": "دوار المرابطين",
+    "COMMUNE": "Oulad Hassoune Hamri",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD HASSOUNE CENTRE",
+    "NOM_ETABA": "اولاد حسون حمري المركزية",
+    "AdresseL": "DOUAR OULED HASSOUNE HIMRI",
+    "AdresseA": "دوار اولاد حسون حمري",
+    "COMMUNE": "Oulad Hassoune Hamri",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI KARROUM CENTRE",
+    "NOM_ETABA": "سيدي كروم المركزية",
+    "AdresseL": "DOUAR SIDI KARROUM COMMUNE OULED HASSOUNE HAMRI",
+    "AdresseA": "دوار سيدي كروم جماعة اولاد حسون حمري",
+    "COMMUNE": "Oulad Hassoune Hamri",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BA CENTRE",
+    "NOM_ETABA": "اولاد با المركزية",
+    "AdresseL": "DOUAR OULED BA OULED HASSOUNE HEMRI",
+    "AdresseA": "دوار اولاد با",
+    "COMMUNE": "Oulad Hassoune Hamri",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

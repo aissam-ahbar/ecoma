@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "S S TAGHDDOUTE",
+    "NOM_ETABA": "م.م. تغدوت",
+    "AdresseL": "OUISSELSATE",
+    "AdresseA": "وسلسات",
+    "COMMUNE": "Ouisselsate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OUINTEJGUAL",
+    "NOM_ETABA": "م.م. وينتجكال",
+    "AdresseL": "ouissilsate",
+    "AdresseA": "وسلسات",
+    "COMMUNE": "Ouisselsate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TISLITE",
+    "NOM_ETABA": "م.م. تسليت",
+    "AdresseL": "DOUAR TISLITE OUISSELSATE TAZNAKHTE ",
+    "AdresseA": "دوار تسليت جماعة وسلسات",
+    "COMMUNE": "Ouisselsate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAFOUNANTE",
+    "NOM_ETABA": "م.م. تفونانت",
+    "AdresseL": "TAZNAKHTE",
+    "AdresseA": "دوار تفونانت قيادة و  جماعة وسلسات",
+    "COMMUNE": "Ouisselsate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "  S S TASSATIFT",
+    "NOM_ETABA": "م.م. تاستيفت",
+    "AdresseL": "TAZNAKHTE",
+    "AdresseA": "دوار تاستيفت جماعة وسلسات",
+    "COMMUNE": "Ouisselsate",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

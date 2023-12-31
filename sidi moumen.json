@@ -1,0 +1,1702 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELHANSALI",
+    "NOM_ETABA": "الثانوية الاعدادية الحنصالي",
+    "AdresseL": "ESSALAM1 SIDI MOUMEN SIDI BERNOUSSI",
+    "AdresseA": "السلام1 سيدي مومن سيدي البرنوصي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN II",
+    "NOM_ETABA": "الثانوية الاعدادية الحسن الثاني",
+    "AdresseL": "HAY AL AZHAR  AHL LOGHLAM  sidi moumen",
+    "AdresseA": "حي الأزهار أهل الغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE MOULAY ABDELWAHED ALAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي عبد الواحد العلوي ",
+    "AdresseL": "BD HOUSSINE SOUSSI carriere toma SIDI MOUMEN",
+    "AdresseA": "لشارع الحسين السوسي كريان طوما سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI MOUMEN",
+    "NOM_ETABA": "لثانوية الاعدادية سيدي مومن",
+    "AdresseL": "rue13  bloc 6 SIDI MOUMEN jdid",
+    "AdresseA": "الزنقة 13 المجموعة 6 سيدي مومن الجديد",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU HAZM",
+    "NOM_ETABA": "الثانوية الاعدادية ابن حزم",
+    "AdresseL": "BD LAKOUTTA JARDIN HOUMANE SIDI MOUMEN",
+    "AdresseA": "شارع لاكوطا حديقة حمان سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "  LYCEE COLLEGIAL AL FAKIH AL QORI",
+    "NOM_ETABA": "الثانوية الاعدادية الفقيه القري",
+    "AdresseL": "BD LAQOUTA SIDI MOUMEN laqdim",
+    "AdresseA": "شارع لاكوطا سيدي مومن القديم",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ATTACHAROUK",
+    "NOM_ETABA": "الثانوية الاعدادية التشارك",
+    "AdresseL": "HAY al manzeh SIDI MOUMEN",
+    "AdresseA": "حي المنزه سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRIHANI",
+    "NOM_ETABA": "الثانوية الاعدادية الريحاني",
+    "AdresseL": " rue amzil moha SIDI MOUMEN",
+    "AdresseA": "زنقة امزيل موحا سيدي مزمن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU SINA",
+    "NOM_ETABA": "الثانوية الاعدادية ابن سينا",
+    "AdresseL": "BOULVARD ABDELLAH IBRAHIM SIDI MOUMEN",
+    "AdresseA": "شارع عبدالله ابراهيم سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNOU KHALDOUNE",
+    "NOM_ETABA": "الثانوية الاعدادية ابن خلدون",
+    "AdresseL": "SIDI MOUMEN",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH GUENNOUN",
+    "NOM_ETABA": "الثانوية الإعدادية عبدالله كنون",
+    "AdresseL": "av  houcine soussi sidi moumen",
+    "AdresseA": "شارع الحسين السوسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANASSI",
+    "NOM_ETABA": "الثانوية الاعدادية أناسي",
+    "AdresseL": "41 cite  ANASSI sidi moumen",
+    "AdresseA": "41 حي أناسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH IBRAHIM",
+    "NOM_ETABA": "الثانوية الاعدادية عبد الله إبراهيم",
+    "AdresseL": "hay anassi  sidi moumen",
+    "AdresseA": "حي أناسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNAIM",
+    "NOM_ETABA": "الثانوية الإعدادية النعيم",
+    "AdresseL": "lot annaim sidi moumen",
+    "AdresseA": "تجزئة النعيم سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AMINA BENT WAHB",
+    "NOM_ETABA": "الثانوية الاعدادية أمنة بنت وهب",
+    "AdresseL": "SIDI MOUMEN",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL MALIKA ELFASSI",
+    "NOM_ETABA": "الثانوية الاعدادية مليكة الفاسي",
+    "AdresseL": "HAY ANASSI",
+    "AdresseA": "حي أناسي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SAKANI",
+    "NOM_ETABA": "لثانوية الاعدادية سكني",
+    "AdresseL": "hay elazhar sidi moumen",
+    "AdresseA": "حي الأزهر سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH EL AYACHI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله العياشي",
+    "AdresseL": "Sidi Moumen",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TOURIA SAKAT",
+    "NOM_ETABA": "لثانوية الاعدادية ثريا السقاط",
+    "AdresseL": "Sidi Moumen",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ESSALAM",
+    "NOM_ETABA": "الثانوية الاعدادية السلام",
+    "AdresseL": "Sidi Moumen",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID HASSAN ESSAGHIR",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد حسن الصغير",
+    "AdresseL": "BD HOSSINE ESSOUSSI HAY ECHARAF SIDI MOUMEN",
+    "AdresseA": "حي الشرف سيدي مومن شارع الحسين السوسي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL CHAHID  AHMED  ERRACHIDI",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد أحمد الراشدي",
+    "AdresseL": "AV HOUSSINE SOUSSI SIDI MOUMEN",
+    "AdresseA": "شارع الحسين السوسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL BOUHTOURI",
+    "NOM_ETABA": "الثانوية الاعدادية البحتري",
+    "AdresseL": "alazhar ahl loghlam sidi moumen",
+    "AdresseA": "الأزهر - أهل لغلام - سيدي مومن  ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU BADIS",
+    "NOM_ETABA": "المدرسة الابتدائية ابن باديس",
+    "AdresseL": "BOULEVARD NASSIBA BENT KAAB SIDI MOUMEN JDID",
+    "AdresseA": "شارع نسيبة بنت كعب سيدي مومن الجديد",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ERHAMNA",
+    "NOM_ETABA": "المدرسة الابتدائية الرحامنة",
+    "AdresseL": "BOULEVARD HOUCEINE ASSOUSSI SIDI MOUMEN",
+    "AdresseA": "شارع الحسين السوسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUSSA BNOU NOUSSAIR",
+    "NOM_ETABA": "المدرسة الابتدائية موسى بن نصير",
+    "AdresseL": "bpulevard elhoussin soussi SIDI MOUMEN",
+    "AdresseA": "شارع الحسين السوسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUED AL MAKHAZINE",
+    "NOM_ETABA": "المدرسة الإبتدائية وادي المخازن",
+    "AdresseL": "rue amzil mouha groupe 6 SIDI MOUMEN JDID",
+    "AdresseA": "زنقة امزيل موحا مجموعة 7 سيدي مومن الجديد",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL KADI AYAD",
+    "NOM_ETABA": "المدرسة الإبتدائية القاضي عياض",
+    "AdresseL": "BOULEVARD MY HICHAM SIDI MOUMEN",
+    "AdresseA": "شارع مولاي هشام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU TOFAIL",
+    "NOM_ETABA": "المدرسة الابتدائية ابن طفيل",
+    "AdresseL": "boulevard hassan el SOUSSI  SIDI MOUMEN",
+    "AdresseA": "شارع حسن السوسي  سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BNOU NAFIS",
+    "NOM_ETABA": "المدرسة الابتدائية ابن النفيس",
+    "AdresseL": "HAY al oualaa SIDI MOUMEN",
+    "AdresseA": "حي الولاء سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELKRIM AL KHATTABI",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الكريم الخطابي",
+    "AdresseL": "HAY SIDI MOUMEN JDID",
+    "AdresseA": "حي سيدي مومن الجديد",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  3 MARS",
+    "NOM_ETABA": "المدرسة الإبتدائية 3 مارس",
+    "AdresseL": "HAY RAKBOUT  SIDI MOUMEN JDID",
+    "AdresseA": "حي الركبوت سيدي مومن الجديد",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL JOULANE",
+    "NOM_ETABA": "المدرسة الإبتدائية الجولان",
+    "AdresseL": "HAY el walaa tranche 6  ATTACHAROUK SIDI MOUMEN",
+    "AdresseA": "حي الولاء الشطر 6 التشارك سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JAMAL EDDINE AL AFGHANI",
+    "NOM_ETABA": " المدرسة الابتدائية جمال الدين الأفغاني",
+    "AdresseL": "HAY eL WALAA  SIDI MOUMEN",
+    "AdresseA": "حي الولاء  سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNASR",
+    "NOM_ETABA": "المدرسة الابتدائية النصر",
+    "AdresseL": "LOTANNASR  yamna SIDI MOUMEN",
+    "AdresseA": "تجزئة النصر ويامنة سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU ZAYDOUNE",
+    "NOM_ETABA": "المدرسة الابتدائية ابن زيدون",
+    "AdresseL": "rue 11  SIDI MOUMEN",
+    "AdresseA": "الزنقة 11 سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MED BELHASSAN AL OUAZZANI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد بلحسن الوزاني",
+    "AdresseL": "HAY el houria  SIDI MOUMEN",
+    "AdresseA": "حي الحرية سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EZZAHRAOUI",
+    "NOM_ETABA": "المدرسة الابتدائية الزهراوي",
+    "AdresseL": " AHL LOGHLAM SIDI MOUMEN",
+    "AdresseA": "أهل الغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL AZHAR",
+    "NOM_ETABA": "المدرسة الإبتدائية الأزهار",
+    "AdresseL": "tranche 3  1 hay alazhar",
+    "AdresseA": "شطر 3/1 حي الأزهار ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU HANI",
+    "NOM_ETABA": "المدرسة الابتدائية ابن هانئ",
+    "AdresseL": "route 107 km 14 ahl loughlam sidi bernoussi",
+    "AdresseA": "الطريق 107 كلم 14 أهل الغلام سيدي البرنوصي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHL LOUGHLAM CHARKIA",
+    "NOM_ETABA": "المدرسة الإبتدائية أهل الغلام الشرقية",
+    "AdresseL": "DOUAR AHL LOGHLAM BERNOUSSI",
+    "AdresseA": "دوار أهل الغلام  البرنوصي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL JAHED",
+    "NOM_ETABA": "المدرسة الإبتدائية الجاحظ",
+    "AdresseL": "rue 16 SIDI MOUMEN elkadim",
+    "AdresseA": "زنقة 16 سيدي مومن القديم",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  11 JANVIER",
+    "NOM_ETABA": "المدرسة الإبتدائية 11 يناير",
+    "AdresseL": "PANORAMA AHL LOGHLAM sidi moumen",
+    "AdresseA": "حي  بانوراما أهل لغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "المدرسة الإبتدائية المسيرة الخضراء",
+    "AdresseL": "HAY ANASSI COMMUNE  SIDI MOUMEN",
+    "AdresseA": "حي أناسي جماعة سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUED EDDAHAB",
+    "NOM_ETABA": "المدرسة الإبتدائية وادي الذهب",
+    "AdresseL": "HAY ANASSI COMMUNE sidi moumen bd assalam",
+    "AdresseA": "حي أناسي شارع السلام  جماعة سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ESSMARA",
+    "NOM_ETABA": "المدرسة الابتدائية السمارة",
+    "AdresseL": "HAY ANNASSI  AHL LOGHLAM sidi moumen",
+    "AdresseA": "حي أناسي  أهل الغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HALIMA SAADIA",
+    "NOM_ETABA": "المدرسة الابتدائية حليمة السعدية",
+    "AdresseL": "HAY  walili   SIDI MOUMEN",
+    "AdresseA": "حي وليلي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUM AYMEN",
+    "NOM_ETABA": "المدرسة الإبتدائية أم أيمن",
+    "AdresseL": "WALAA SIDI MOUMEN TACHAROUK ",
+    "AdresseA": "الولاء سيدي مومن التشارك ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   AL WAHDA",
+    "NOM_ETABA": "المدرسة الإبتدائية الوحدة",
+    "AdresseL": "residence  ANASSI ahl loughlam sidi moumen",
+    "AdresseA": "المركب السكني أناسي أهل الغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAAYOUNE",
+    "NOM_ETABA": "المدرسة الابتدائية العيون",
+    "AdresseL": "hay MADINATI  ahl loughlam sidi moumen",
+    "AdresseA": "حي مدينتي أهل لغلام سيدي البرنوصي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   AL KODS",
+    "NOM_ETABA": "المدرسة الإبتدائية القدس",
+    "AdresseL": "residence el bayda sidi moumen",
+    "AdresseA": "إقامة البيضاء سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDERRAHIM BOUABIDE",
+    "NOM_ETABA": "المدرسة الإبتدائية عبدالرحيم بوعبيد",
+    "AdresseL": "SIDI MOUMEN DELEGATION SIDI BERNOUSSI",
+    "AdresseA": "مقاطعة سيدي مومن / نيابة سيدي البرنوصي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AZIZ AMINE",
+    "NOM_ETABA": "المدرسة الإبتدائية عزيز أمين",
+    "AdresseL": "près de la nouvelle mosquee anassi2 sidi moumen",
+    "AdresseA": "قرب مسجد الأندلس اناسي2 سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL KHANSAE",
+    "NOM_ETABA": "المدرسة الإبتدائية الخنساء",
+    "AdresseL": "ahlloghlam sidi moumen",
+    "AdresseA": "اهل لغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED AMZIANE",
+    "NOM_ETABA": " المدرسة الابتدائية محمد أمزيان",
+    "AdresseL": "essalam 2 tranche w  ahl loughlam sidi moumen",
+    "AdresseA": "السلام 2 الشطر(وو) أهل الغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED ZARKTOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الزرقطوني",
+    "AdresseL": "projet essalam ahl loghlam sidi moumen",
+    "AdresseA": "مشروع السلام -  أهل الغلام - سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUM SALAMA",
+    "NOM_ETABA": "المدرسة الإبتدائية أم سلمة",
+    "AdresseL": "SIDI MOUMEN",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED EL WADIAA EL ASSAFI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الوديع الآسفي",
+    "AdresseL": "salam 1 tranche b sidi moumen",
+    "AdresseA": "السلام 1, شطر ب ،سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNAHDA",
+    "NOM_ETABA": "المدرسة الإبتدائية النهضة",
+    "AdresseL": "ECOLE Ennahda  RESIDENCE ENNAHDA  BERNOUSSI",
+    "AdresseA": "مدرسة النهضة حي النهضة ج سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ELFAJR",
+    "NOM_ETABA": "المدرسة الإبتدائية الفجر",
+    "AdresseL": "QUARTIER EL FAJR SIDI MOUMEN BERNOUSSI",
+    "AdresseA": "حي الفجر(الشعبي للاسكان) سيدي مومن سيدي البرنوصي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM BOUKHARI",
+    "NOM_ETABA": "المدرسة الابتدائية الإمام البخاري",
+    "AdresseL": "HAY ANASSI",
+    "AdresseA": "حي أناسي مقاطعة سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHALID BNOU ELWALID",
+    "NOM_ETABA": "المدرسة الابتدائية خالد بن الوليد",
+    "AdresseL": "Riad al barnoussi alliance darna",
+    "AdresseA": "رياض البرنوصي اليانس دارنا",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BNOU ROCHD",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن رشد",
+    "AdresseL": "HAY ENNAHDA ",
+    "AdresseA": "اقامة النهضة، سيدي البرنوصي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  RABIA EL ADAOUIA",
+    "NOM_ETABA": "المدرسة الإبتدائية رابعة العدوية",
+    "AdresseL": "LOT ENNAHDA 2",
+    "AdresseA": "إقامة النهضة 2",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BNOU KATIR",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن كثير",
+    "AdresseL": "LOT BADR",
+    "AdresseA": "إقامة بدر ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNAIM",
+    "NOM_ETABA": "المدرسة الإبتدائية النعيم",
+    "AdresseL": "RES ENNAIM Ahl laghlam SIDI MOUMEN",
+    "AdresseA": "تجزئة النعيم النعيم أهل لغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELOUAHED EL ALAOUI",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الواحد العلوي",
+    "AdresseL": "BOULEVARD ALHOUSSINE ASSOUSSI SIDI MOUMEN",
+    "AdresseA": "شارع الحسين السوسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNAJMA",
+    "NOM_ETABA": "المدرسة الإبتدائية النجمة",
+    "AdresseL": "RES NEJMAT SIDI MOUMEN",
+    "AdresseA": "إقامة نجمة سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED CHAOUKI",
+    "NOM_ETABA": "المدرسة الإبتدائية أحمد شوقي",
+    "AdresseL": "sidi moumen",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BNOU HICHAM",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن هشام ",
+    "AdresseL": "hay Anassi  extention ahl ghlam",
+    "AdresseA": " مدرسة ابن  هشام حي أناسي التوسعة أهل الغلام ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED AABID ELJABRI",
+    "NOM_ETABA": "المدرسة الإبتدائية محمد عابد الجابري",
+    "AdresseL": "HAY ANASSI",
+    "AdresseA": "حي أناسي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED MAA ELAININE",
+    "NOM_ETABA": "المدرسة الإبتدائية محمد ماء العينين",
+    "AdresseL": "SIDI MOUMEN",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNASSIM",
+    "NOM_ETABA": "المدرسة الإبتدائية النسيم",
+    "AdresseL": "SIDI MOUMEN",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL ATLAS",
+    "NOM_ETABA": "المدرسة الإبتدائية الأطلس",
+    "AdresseL": "BAB ANASSI SID MOUMEN",
+    "AdresseA": "باب أناسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNAKHIL",
+    "NOM_ETABA": "المدرسة الإبتدائية النخيل",
+    "AdresseL": "ALIANCE DARNA SIDI MOUMEN",
+    "AdresseA": "أليانس دارنا سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ERRAYANE",
+    "NOM_ETABA": "الثانوية التأهيلية الريان",
+    "AdresseL": "SIDI MOUMEN",
+    "AdresseA": "سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ERRAZI",
+    "NOM_ETABA": "الثانوية التأهيلية الرازي",
+    "AdresseL": "route de chabbou SIDI MOUMEN",
+    "AdresseA": "طريق الشابو سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ATLAS",
+    "NOM_ETABA": " الثانوية التأهيلية أطلس",
+    "AdresseL": "BAB ANASSI SIDI MOUMEN",
+    "AdresseA": "باب أناسي شارع محمد زفزاف سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT MOHAMMED VI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس ",
+    "AdresseL": "bd al adarissa SIDI MOUMEN",
+    "AdresseA": "شارع الأدارسة سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL AKKAD",
+    "NOM_ETABA": "الثانوية التأهيلية العقاد",
+    "AdresseL": "hay el oualaa attacharouk sidi moumen",
+    "AdresseA": "حي الولاء التشارك سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ADDAKHLA",
+    "NOM_ETABA": "الثانوية التأهيلية الداخلة",
+    "AdresseL": "ACHARAF SIDI MOUMEN",
+    "AdresseA": "الشرف سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBNOU AL HAITAM",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الهيثم",
+    "AdresseL": "HAY ELKARYA SIDI MOUMEN JDID",
+    "AdresseA": "حي القرية سيدي مومن الجديد",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT MOHAMED VI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس أناسي",
+    "AdresseL": "AHL LOGHLAM ANASSI",
+    "AdresseA": "أهل الغلام أناسي",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT KHADIJA OUM AL MOUMININE",
+    "NOM_ETABA": "الثانوية التأهيلية خديجة أم المؤمنين",
+    "AdresseL": "bd houcine soussi SIDI MOUMEN",
+    "AdresseA": "شارع الحسين السوسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ALAZHAR",
+    "NOM_ETABA": "الثانوية التأهيلية الأزهر",
+    "AdresseL": "hay al azhar sidi moumen",
+    "AdresseA": "حي الأزهر سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT HASSAN BNOU TABIT",
+    "NOM_ETABA": "الثانوية التأهيلية حسان بن تابث",
+    "AdresseL": "rue 9 hay al otour sidi moumen",
+    "AdresseA": "زنقة 9 حي العطور سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية التأهيلية المنصور الذهبي",
+    "AdresseL": "boulevard houcine assoussi SIDI MOUMEN",
+    "AdresseA": " شارع حسين السوسي سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ZINEB ENAFZAWIA",
+    "NOM_ETABA": "الثانوية التأهيلية زينب النفزاوية",
+    "AdresseL": "HAY ESSALAM AHL LAGHLAM Sidi Moumen",
+    "AdresseA": "حي السلام اهل الغلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ALLAL BEN ABDELLAH ",
+    "NOM_ETABA": "الثانوية التأهيلية علال بن عبد الله",
+    "AdresseL": "boulevard jamal addorra SIDI MOUMEN ",
+    "AdresseA": "شارع جمال الدرة سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT CHAHID DRISS ELHRIZI",
+    "NOM_ETABA": "الثانوية التأهيلية الشهيد ادريس الحريزي",
+    "AdresseL": "boulevard al maghrib al arabi Quartier El Azhar",
+    "AdresseA": "شارع المغرب العربي حي الأزهر",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT MOULAY YOUSSEF",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي يوسف",
+    "AdresseL": "Hay Panorama Ahl loughlam sidi moumen",
+    "AdresseA": "حي بانوراما - أهل الغلام - سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ABDEL KHALEK TORRES",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الخالق الطريس",
+    "AdresseL": "Bd Omar Ibn Al Khattab SIDI MOUMEN",
+    "AdresseA": "شارع عمر بن الخطاب سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FATIMA EL FIHRIA",
+    "NOM_ETABA": "الثانوية التأهيلية فاطمة الفهرية",
+    "AdresseL": "SIDI MOUMEN gr6 rue 13",
+    "AdresseA": "مجموعة 6 زنقة 13 سيدي مومن",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT WALLADA",
+    "NOM_ETABA": "الثانوية التأهيلية ولادة",
+    "AdresseL": "boulevard mohamed zefzaf HAY ANASSI",
+    "AdresseA": "شارع محمد زفزاف حي أناسي",
+    "COMMUNE": "Sidi Moumen ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Al Ghazi Al Idrissi",
+    "NOM_ETABA": "الغازي الإدريسي",
+    "AdresseL": "Lotissement Houda N° 3 Rue 6 S",
+    "AdresseA": "تجزئة هدى رقم 3 زنقة 6  سيدي م",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Manar",
+    "NOM_ETABA": "مجموعة مدارس المنار",
+    "AdresseL": "Hay Rahmani Rue 17 N° 71  Sidi",
+    "AdresseA": "حي الرحماني زنقة 17 رقم 71 سيد",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire La Confiance",
+    "NOM_ETABA": "مجموعة مدارس الثقة",
+    "AdresseL": "Lotissement Warda Rue 29 N° 29",
+    "AdresseA": "تجزئة الوردة زنقة 29 رقم 29  س",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Okad",
+    "NOM_ETABA": "مجموعة مدارس عكاظ",
+    "AdresseL": "Lot. Ennasr Yamna, Rue 9-10, N",
+    "AdresseA": "تجزئة النصر يامنة، زنقة 9-10، ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ettakadoum",
+    "NOM_ETABA": "التقدم",
+    "AdresseL": "Groupe Al Azhar, Lot I4025, C.",
+    "AdresseA": "تجزئة الأزهر بقعة I4052 ج أهل ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHBAL EL KHOLAFAA",
+    "NOM_ETABA": "أشبال الخلفاء",
+    "AdresseL": "Lotissement Al Otour, Rue 5, N",
+    "AdresseA": " تجزئة العطور، زنقة 5، رقم 3 -",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire al hadika",
+    "NOM_ETABA": "مجموعة مدارس الحديقة ",
+    "AdresseL": "Lotissement Hadika, Rue 17, N°",
+    "AdresseA": "تجزئة الحديقة2، زنقة 17، رقم 2",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Majd Essalame",
+    "NOM_ETABA": "مجد السلام الخاصة",
+    "AdresseL": "Lotissement Al Hadika, Rue 7, ",
+    "AdresseA": "تجزئة الحديقة، زنقة 7، رقم 24 ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALBORJE ELJADIDE",
+    "NOM_ETABA": "مؤسسة البرج الجديد",
+    "AdresseL": "Lotissement Al Hadika 1, Rue 2",
+    "AdresseA": "تجزئة الحديقة 1، زنقة 2، رقم 4",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAARIF Al Infitah",
+    "NOM_ETABA": "معارف الإنفتاح الخاصة",
+    "AdresseL": "Hay Lala Meriam 2, N° 8 & 9 - ",
+    "AdresseA": "حي لالة مريم 2، رقم 8 و 9 - ج.",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Lilage",
+    "NOM_ETABA": "مدرسة الليلج",
+    "AdresseL": "N° 30, zaouia 1/4 - C. U. Sidi",
+    "AdresseA": "رقم 30، الزاوية1/4، - ج. ح. سي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Badr",
+    "NOM_ETABA": "مجموعة مدارس بدر",
+    "AdresseL": "Lot. N° 4231, Partie I4, El Az",
+    "AdresseA": "البقعة رقم 4231، شطر 4، الأزهر",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Tanwir",
+    "NOM_ETABA": "مجموعة مدارس التنوير",
+    "AdresseL": "N° 36, Bd TM 164, Hay Al Azhar",
+    "AdresseA": "رقم 36، شارع 164، حي الأزهر",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fathi Junior",
+    "NOM_ETABA": "أشبال فتحي",
+    "AdresseL": "Lotissement Al Hadika, Rue 12,",
+    "AdresseA": " تجزئة الحديقة، الزنقة 12،الرق",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA NOUVELLE SOURCE ",
+    "NOM_ETABA": "المنبع الجديد",
+    "AdresseL": "N° 30, Lot. El Warda, Rue 22 -",
+    "AdresseA": "رقم30، تجزئة الوردة،زنقة  22 -",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSATE",
+    "NOM_ETABA": "إنصات",
+    "AdresseL": "ahl lghlam essalam 2 rue 16 n2",
+    "AdresseA": "أهل الغلام السلام 2 زنقة 16 رق",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RISSALAT BADR",
+    "NOM_ETABA": "رسالة بدر",
+    "AdresseL": "lot. assafa tr.12 sidi moumen",
+    "AdresseA": "تجزئة  الصفا  شطر 12 سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA NOUVELLE RESSOURCE",
+    "NOM_ETABA": "مجموعة مدارس المورد الجديد",
+    "AdresseL": "Lotissement LINA n 17.18.19.20",
+    "AdresseA": "إقامة لينا 17-18-19-20 سيدي مو",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Nobel assalam",
+    "NOM_ETABA": "مؤسسة نوبل السلام",
+    "AdresseL": "lot attacharouk 35 bd mohamed ",
+    "AdresseA": "تجزئة التشارك م 35 شارع محمد ز",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE OTTOUR 2",
+    "NOM_ETABA": "مجموعة مدارس عطور 2",
+    "AdresseL": "HAY OTTOUR RUE 1 N° 32 SIDI MO",
+    "AdresseA": "حي  عطور  الزنقة 1 الرقم 32 سي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alisbah",
+    "NOM_ETABA": "الإصباح",
+    "AdresseL": "lotissement al azhar 4233",
+    "AdresseA": "4233 تجزئة الأزهار",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire panorama",
+    "NOM_ETABA": "مجموعة مدارس بانوراما",
+    "AdresseL": "Hay el walaa, lotissement ec5 ",
+    "AdresseA": "     قطاع 2 التشارك سيدي مومن ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement NOUR EL WAFAAe",
+    "NOM_ETABA": "مؤسسة نور الوفاء الخاصة ",
+    "AdresseL": "11 lotissement lina sidi moume",
+    "AdresseA": "تجزئة لينا رقم 11 سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTAFAOUK",
+    "NOM_ETABA": "التفوق",
+    "AdresseL": "LOT. JAWHARA RUE 19 N° 24 SIDI",
+    "AdresseA": "تجزئة الجوهرة الزنقة 19 الرقم ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire benjelloun",
+    "NOM_ETABA": "مجموعة مدارس بنجلون",
+    "AdresseL": "lotissement al hadika residenc",
+    "AdresseA": "تجزئة الحديقة  إقامة شالة 2 سي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire hani",
+    "NOM_ETABA": "مجموعة مدارس هاني",
+    "AdresseL": "19-20 sakani ahl loughlam sidi",
+    "AdresseA": "حي سكني رقم 19 و 20 أهل الغلام",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire intilaka",
+    "NOM_ETABA": "مجموعة مدارس الإنطلاقة",
+    "AdresseL": "azhar b2716 SIDI BERNOUSSI",
+    "AdresseA": "تجزئة الأزهر ب 2716 سيدي البرن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecoles almilad",
+    "NOM_ETABA": "مدارس الميلاد",
+    "AdresseL": "113-115 Hay Douma groupe 5 rue",
+    "AdresseA": "حي الدومة المجموعة 5 الزنقة 8 ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "dar al hikma montazah",
+    "NOM_ETABA": "دار الحكمة المنتزه",
+    "AdresseL": "eac 10 sidi mOuMEN Tacharouk",
+    "AdresseA": "EAC10سيدي مومن التشاروك",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Wiaame",
+    "NOM_ETABA": "مجموعة مدارس الوئام",
+    "AdresseL": "N° 12, Angle Rue 13 et Rue 15 ",
+    "AdresseA": "رقم 12، زاوية الزنقة 13 و الزن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Didi",
+    "NOM_ETABA": "مجموعة مدارس ديدي",
+    "AdresseL": "Lot. Al Hamd, Rue 4, N° 17 - S",
+    "AdresseA": "تجزئة الحمد، الزنقة 4 الرقم 17",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Assawab",
+    "NOM_ETABA": "الصواب",
+    "AdresseL": "Hay Rekbout, Rue 19, N° 92/96 ",
+    "AdresseA": "حي الركبوت، زنقة 19 الرقم 96/9",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE OTTOUR 1",
+    "NOM_ETABA": "مجموعة مدارس عطور 1",
+    "AdresseL": "Lot. Ottour, Rue 3, N° 22 - Si",
+    "AdresseA": "تجزئة عطور، الزنقة 3 رقم 23 - ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Attakadoum",
+    "NOM_ETABA": "التقدم",
+    "AdresseL": "Hay Al Azhar, Lot. I4026, Ahl ",
+    "AdresseA": "حي الازهار، بقعة 4026 ا بلدية ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Warda",
+    "NOM_ETABA": "الوردة",
+    "AdresseL": "Lot. Al Warda, Rue 26, N° 6 - ",
+    "AdresseA": "تجزئة الوردة، زنقة 26 رقم 6 - ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJYAD",
+    "NOM_ETABA": "أجياد",
+    "AdresseL": "HAY EL AZHAR TR 4 AHL LOUGHLAM",
+    "AdresseA": "حي الأزهر الشطر 4 أهل الغلام",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire ALBORJE",
+    "NOM_ETABA": "مجموعة مدارس البرج",
+    "AdresseL": "LOT LINA  LOT N° 1 SIDI MOUMEN",
+    "AdresseA": "تجزئة لينا  البقعة رقم 1 سيدي ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA CONFIANCE",
+    "NOM_ETABA": "التقة",
+    "AdresseL": "0 db warda  etg rd sidi moumen",
+    "AdresseA": "0 d b تجزئة الوردة سيدي مومن ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LA TOUR EFFEL",
+    "NOM_ETABA": "مدرسة برج ايفل",
+    "AdresseL": "SIDI MOUMEN SEC 3 LOT EC 7 HAY",
+    "AdresseA": "عملية تجهيز سيدي مومن القطاع 3",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IKHOUANE ESSAFA",
+    "NOM_ETABA": "إخوان الصفا",
+    "AdresseL": "lot sarazin N° 15 Sidi moumen ",
+    "AdresseA": "حي سرزان رقم 15 سيدي مومن  ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAM ALMAAREFA",
+    "NOM_ETABA": "عالم المعرفة",
+    "AdresseL": "hay rahmani rue 24 n 94",
+    "AdresseA": "حي الرحماني زنقة24 رقم94 سيدي ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L OCEAN ATLANTIQUE",
+    "NOM_ETABA": "المحيط الأطلسي",
+    "AdresseL": "HAY ELAZHAR GH11",
+    "AdresseA": "حي الأزهر المجموعة 11",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PERFORMANCE",
+    "NOM_ETABA": "الإنتصار",
+    "AdresseL": "LOTISSEMENT ESSABAH RUE 17 N° ",
+    "AdresseA": "إقامة الصباح زنقة 17 الرقم 35 ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire outou elilm",
+    "NOM_ETABA": "مجموعة مدارس أتوا العلم",
+    "AdresseL": "lot. agdal trs263/261/259 sidi",
+    "AdresseA": "تجزئة أكدال زنقة 19 بقع 259/26",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BEKKAH ",
+    "NOM_ETABA": "مؤسسة بكة",
+    "AdresseL": "rue lacota lot. jawhara sidi m",
+    "AdresseA": "شارع لكوطا تجزئة جوهرة سيدي مو",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement francis valery",
+    "NOM_ETABA": "مؤسسة فرانسيس فاليري",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة أكدال بقع 85-86-87 سيدي ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MALAK ALAZRAK",
+    "NOM_ETABA": "مدرسة الملاك الأزرق",
+    "AdresseL": "elhadika 1 lot. 13 rue 2 sidi ",
+    "AdresseA": "الحديقة 1 البقعة 13 زنقة 2 سيد",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire khawater",
+    "NOM_ETABA": "مجموعة مدارس خواطر",
+    "AdresseL": "lotissement agdal rue 10 numer",
+    "AdresseA": "تجزئة أكدال الرقم 149-151 زنقة",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LEON FOUCAUT",
+    "NOM_ETABA": "مجموعة مدارس ليون فوكو",
+    "AdresseL": "lot. agdal rue21 N°68 sidi mou",
+    "AdresseA": "تجزئة أكدال زنقة 21 الرقم 68 س",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE  BABYL",
+    "NOM_ETABA": "مجموعة مدارس بابل",
+    "AdresseL": "24 lot annouamania km10 ahl lo",
+    "AdresseA": "24تجزئة النعمانية أهل الغلام ك",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire tour eiffel",
+    "NOM_ETABA": "مجموعة مدارس برج إيفل",
+    "AdresseL": "lot.elhadika challa hay elwala",
+    "AdresseA": "تجزئة الحديقة إقامة شالة حي ال",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement alaila",
+    "NOM_ETABA": "مؤسسة العائلة",
+    "AdresseL": "LOT. NASSER RUE MED ZEFZAF N°1",
+    "AdresseA": "تجزئة ناصر شارع محمد زفزاف الر",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tilal elbaida",
+    "NOM_ETABA": "تلال البيضاء",
+    "AdresseL": "complexe résidentiel albadr km",
+    "AdresseA": "المجمع السكني البدر كلم 12 الط",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "inara tarbaouia",
+    "NOM_ETABA": "الإنارة التربوية",
+    "AdresseL": " hay alazhar n° I 4039 sidi mo",
+    "AdresseA": "حي الأزهر رقم إ 4039 سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE HONORE DE BALZAC",
+    "NOM_ETABA": "مجموعة مدارس أونوري دي بلزاك",
+    "AdresseL": "lot.noorcity sidi moumen bd me",
+    "AdresseA": "تجزئة نور سيتي سيدي مومن شارع ",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUSTANE AL MALAIKA",
+    "NOM_ETABA": "بستان الملائكة",
+    "AdresseL": "Av. ahmed zafzaf secteur 1 lot",
+    "AdresseA": "شارع أحمد الزفزاف تجزئة 1 البق",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MORJANA",
+    "NOM_ETABA": "مرجانة",
+    "AdresseL": "lot. al hamd , n° 23 sidi moum",
+    "AdresseA": "تجزئة الحمد رقم 23 سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABOUAB ADAR ALBAIDA",
+    "NOM_ETABA": "أبواب الدار البيضاء",
+    "AdresseL": "lOTISSEMENT MOHJA N°21 AHL LGH",
+    "AdresseA": "تجزئة مهجة رقم البقعة 21 أهل ا",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ECOLES LAHLOU",
+    "NOM_ETABA": "مدارس لحلو",
+    "AdresseL": "jnane elbernoussi ahl loughlam",
+    "AdresseA": "اجنان البرنوصي أهل الغلام الأز",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN COCTEAU",
+    "NOM_ETABA": "مؤسسة جون كوكتو الخصوصية",
+    "AdresseL": "lot. sijilmassa2 imm. 1 et 2 s",
+    "AdresseA": "إقامة سجلماسة 2 عمارة 1 و 2 سي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement el mehdi el mandjra",
+    "NOM_ETABA": "مؤسسة المهدي المنجرة",
+    "AdresseL": "hay tacharouk alwalaa s. m cas",
+    "AdresseA": "حي التشارك (الولاء) سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole al khalifa",
+    "NOM_ETABA": "مدرسة الخليفة",
+    "AdresseL": "al AZHAR tr i4, BD ATTADAMOUN ",
+    "AdresseA": "حي الأزهر شطر 4إ زنقة 31 رقم 4",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire al iktissab",
+    "NOM_ETABA": "مجموعة مدارس الإكتساب",
+    "AdresseL": "lot. al amane 1 rue 11 sidi mo",
+    "AdresseA": "تجزئة الأمان 1 زنقة 11 سيدي مو",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire souhail",
+    "NOM_ETABA": "مجموعة مدارس سهيل",
+    "AdresseL": "LOTISSENEMT ENNAIM RUE  2 N° 3",
+    "AdresseA": "تجزئة النعيم الرقم 384 سيدي مو",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BAB ALMANSOUR2",
+    "NOM_ETABA": "مجموعة مدارس باب المنصور 2",
+    "AdresseL": "ANGLE BDOKBAIBNOU NAFIA ET BD ",
+    "AdresseA": "ملتقى شارع عقبة بن نافع مع شار",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement nour essafa",
+    "NOM_ETABA": "مؤسسة نور الصفا",
+    "AdresseL": "LOT YASSINE 1 ET 2 HAY ESSABAH",
+    "AdresseA": "تجزئة ياسين 1 و 2 حي الصباح سي",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement nour al-ailm",
+    "NOM_ETABA": "مؤسسة  نور العلم",
+    "AdresseL": "lotissement alhamed n70 sidi m",
+    "AdresseA": "تجزئة الحمد رقم 70 سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire jean cocteau 2",
+    "NOM_ETABA": "مجموعة مدارس جون كوكطو 2",
+    "AdresseL": "NULL",
+    "AdresseA": "التشاركT4A مجموعة 9 تجزئة الكو",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire arthur rimbaud",
+    "NOM_ETABA": "مجموعة مدارس ارتير رامبو",
+    "AdresseL": "NULL",
+    "AdresseA": "المجمع السكني أحلام سيدي مومن",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement leon foucaut1",
+    "NOM_ETABA": "مؤسسة ليون فوكو1",
+    "AdresseL": "hay agdal rue22 n67 sidi moumm",
+    "AdresseA": "حي أكدال زنقة 22 رقم 67 سيدي م",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement MOUKASSI",
+    "NOM_ETABA": "مؤسسة مكاسي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الركبوت الزنقة 3 الرقم 29 س",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el boussairi school",
+    "NOM_ETABA": "مؤسسة البصيري سكول",
+    "AdresseL": "N 29 LOTISSEMENT SALAM 1 TRANC",
+    "AdresseA": "29، تجزئة السلام 1 الشطر س سيد",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole viva",
+    "NOM_ETABA": "مؤسسة فيفا الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "ديار الهناء 3 مجموعة ب 2 عمارة",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT COLBERT ANEXE",
+    "NOM_ETABA": "معهد كولبير الخاص ملحق",
+    "AdresseL": "BD MOHAMMED ZEFZAF",
+    "AdresseA": "شارع محمد زفزاف",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARTHUR RIMBAUD KIDS",
+    "NOM_ETABA": "ارتير رامبو كيدز",
+    "AdresseL": "LOT. AHLAM TR. 1 GROUPE 7 IMM.",
+    "AdresseA": "تجزئة أحلام الشطر 1 مجمع 7 الع",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA BELLE SOURCE ",
+    "NOM_ETABA": "لبيل سوغس",
+    "AdresseL": "LOT. ELWRDA RUE22 N°20",
+    "AdresseA": "تجزئة الوردة الزنقة22 الرقم 20",
+    "COMMUNE": "Sidi Moumen",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

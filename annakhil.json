@@ -1,0 +1,142 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM ALI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام علي",
+    "AdresseL": "AINE ETTI MUNICIPALITE ANNAKHIL MARRAKECH",
+    "AdresseA": "عين إيطي مقاطعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM AL FADL",
+    "NOM_ETABA": "مدرسة أم الفضل",
+    "AdresseL": "DAR TOUNSI MUNICIPALITE ANNAKHIL",
+    "AdresseA": "دار التونسي مقاطعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LAKHILI",
+    "NOM_ETABA": "مدرسة الكحيلي",
+    "AdresseL": "DOUAR ALMASSI LAKHILI MUNICIPANNAKHIL",
+    "AdresseA": "دوار الماسي الكحيلي مقاطعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAIB LAMRINI",
+    "NOM_ETABA": "مدرسة الطيب المريني",
+    "AdresseL": "HAY AINE ETTI MUNICIPALITE ANNAKHIL",
+    "AdresseA": "حي عين إيطي مقاطعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMASNA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس تامسنة المركزية",
+    "AdresseL": "DOUAR TAMASNA MUNICIPALITE ANNAKHIL",
+    "AdresseA": "دوار تامسنة مقاطعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ENNAKHIL CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس النخيل المركزية",
+    "AdresseL": "DOUAR TALLAGHTE MUNICIPALITE ENNAKHIL",
+    "AdresseA": "دوار تلاغت مقاطعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED AL HANSALI",
+    "NOM_ETABA": "مدرسة محمد الحنصالي",
+    "AdresseL": "LOTISSEMENT zohour2 MUNICIP ANNKHIL",
+    "AdresseA": "تجزئة الزهور 2مقاطعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ETTORAYYA ",
+    "NOM_ETABA": "مدرسة الثريا الابتدائية",
+    "AdresseL": "COMMUNE ANNAKHIL",
+    "AdresseA": "جماعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DAR ETTOUNSI",
+    "NOM_ETABA": "الثانوية التاهيلية دار التونسي",
+    "AdresseL": "COMMUNE ANNAKHIL",
+    "AdresseA": "جماعة النخيل",
+    "COMMUNE": "Annakhil ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL MAMOUNE ENS PRESCO",
+    "NOM_ETABA": "مؤسسة مامون للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "الزهور1 رقم 542 مقاطعة النخيل",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT tibat zohor ENS preSCO",
+    "NOM_ETABA": "مؤسسة طيبة الزهور للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "الزهور 1 رقم 540 عين إيطي مراك",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANNAJAH POUR ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة النجاح للتعليم الأولي الخصوصي",
+    "AdresseL": "N°1 AARSET BOUMENKAR",
+    "AdresseA": "رقم 1 عرضة بومنقار",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DILAL ANNAKHIL POUR L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "ظلال النخيل للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة بلقاضي 1 الشطر 1 رقم 314",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NISRINE ENS SCO PRESCO",
+    "NOM_ETABA": "مؤسسة نسرين للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة كنون الشمالي رقم 221",
+    "COMMUNE": "Annakhil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

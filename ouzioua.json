@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C OUZIOUA ",
+    "NOM_ETABA": "ثإ. أوزيوة ",
+    "AdresseL": "CENTRE C OUZIOUA",
+    "AdresseA": "مركز جماعة أزيوة",
+    "COMMUNE": "Ouzioua",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL INBIAATH",
+    "NOM_ETABA": "م.م الانبعاث",
+    "AdresseL": "DOUAR   ASGOUN C HOUZIOUA",
+    "AdresseA": "د.أسكون",
+    "COMMUNE": "Ouzioua",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IGUISSEL",
+    "NOM_ETABA": "م.م إكيسل",
+    "AdresseL": "DOUAR   IGUISSEL C HOUZIOUA",
+    "AdresseA": "د. إكيسل جماعة أوزيوة تارودانت",
+    "COMMUNE": "Ouzioua",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALJAHID",
+    "NOM_ETABA": "م.م الجاحظ",
+    "AdresseL": "DOUAR   TABIA COMMUNE OUZIOUA",
+    "AdresseA": "دوار تابية- جماعة أوزيوة",
+    "COMMUNE": "Ouzioua",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MEHDI BEN BARKA",
+    "NOM_ETABA": "الثانوية التأهيلية المهدي بنبركة",
+    "AdresseL": "COMMUNE OUZIOUA",
+    "AdresseA": "جماعة أوزيوة",
+    "COMMUNE": "Ouzioua",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

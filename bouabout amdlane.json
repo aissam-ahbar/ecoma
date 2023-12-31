@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ANZAMER",
+    "NOM_ETABA": "أنزمر",
+    "AdresseL": "DOUAR ANZAMER COMMUNE AMDLANE",
+    "AdresseA": "دوار أنزامر",
+    "COMMUNE": "Bouabout Amdlane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGNGUEMTE",
+    "NOM_ETABA": "تكنكمت",
+    "AdresseL": "DOUAR TAGNGUEMTE COM AMDLANE",
+    "AdresseA": "دوار  تكنكمت",
+    "COMMUNE": "Bouabout Amdlane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMEDLANE",
+    "NOM_ETABA": "أمدلان",
+    "AdresseL": "DOUAR OUAGNGMT COMMUNE BOUABOUT AMDLANE",
+    "AdresseA": "دوار  واكنكمت جماعة  بوابوض أمدلان",
+    "COMMUNE": "Bouabout Amdlane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OMAR",
+    "NOM_ETABA": "ايت عمر",
+    "AdresseL": "DOUAR AIT OMAR COMMUNE BOUABOUT AMDLANE",
+    "AdresseA": "دوار  ايت عمر جماعة بوابوض أمدلان",
+    "COMMUNE": "Bouabout Amdlane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

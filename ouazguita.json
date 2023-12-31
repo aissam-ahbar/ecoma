@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OUZGUITA",
+    "NOM_ETABA": "وزكيطة",
+    "AdresseL": "DOUAR FRASS COMMUNE OUAZGUITA",
+    "AdresseA": "دوار فراس جماعة اوزكيطة",
+    "COMMUNE": "Ouazguita",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGDOUR KIK",
+    "NOM_ETABA": "اكدوركيك",
+    "AdresseL": "DOUAR AGDOUR KIK COMMUNE OUZGUITA",
+    "AdresseA": "دوار اكدوركيك جماعة اوزكيطة",
+    "COMMUNE": "Ouazguita",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAGADIRT",
+    "NOM_ETABA": "مركزية تكاديرت",
+    "AdresseL": "DOUAR TAGADIRTE COMMUNE ameghras",
+    "AdresseA": "دوار لوبار- جماعة أمغراس ",
+    "COMMUNE": "Ouazguita",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

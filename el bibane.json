@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL AL BIBANE",
+    "NOM_ETABA": "ثانوية البيبان الإعدادية",
+    "AdresseL": "DOUAR AIN BARDA COMMUNE AL BIBANE",
+    "AdresseA": "دوار عين باردة - جماعة  البيبان",
+    "COMMUNE": "El Bibane",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AIN BARDA",
+    "NOM_ETABA": "م/م  عين باردة",
+    "AdresseL": "DOUAR AIN BARDA COMMUNE EL BIBAN GHAFSSAI",
+    "AdresseA": "دوار  عين باردة- جماعة البيبان - غفساي",
+    "COMMUNE": "El Bibane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S RKIBA",
+    "NOM_ETABA": "م/م الركيبة",
+    "AdresseL": "DOUAR RKIBA COMMUNE EL BIBANE GHAFSSAI",
+    "AdresseA": "دوار الركيبة - جماعة البيبان - غفساي",
+    "COMMUNE": "El Bibane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

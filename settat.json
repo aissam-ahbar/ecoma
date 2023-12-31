@@ -1,0 +1,912 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ISMAIL",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي إسماعيل",
+    "AdresseL": "BOULEVARD MOHAMMED V SETTAT",
+    "AdresseA": "شارع محمد الخامس سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي عبد الله",
+    "AdresseL": "HAY MEBROUKA COMMUNE SETTAT",
+    "AdresseA": "حي مبروكة سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAAROUSSIA",
+    "NOM_ETABA": "الثانوية الإعدادية العروسية",
+    "AdresseL": "BOLEVARD IBN SINA COMMUNE SETTAT",
+    "AdresseA": "شارع ابن سينا سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SMARA",
+    "NOM_ETABA": "الثانوية الإعداديةالسمارة",
+    "AdresseL": "BOULEVARD CHENGUITE  quartier smaala COMMUNE SETTA",
+    "AdresseA": "شارع شنكيط حي السماعلة جماعة سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL AL MASSIRA",
+    "NOM_ETABA": "ثانوية المسيرة الخضراء الإعدادية ",
+    "AdresseL": "HAY ELFARAH COMMUNE SETTAT",
+    "AdresseA": "شارع طه حسين الفرح 1 سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOJAMAA EL KHEIR",
+    "NOM_ETABA": "ثانوية مجمع الخير الإعدادية",
+    "AdresseL": "lotissement mojamaa el kheir",
+    "AdresseA": "تجزئة مجمع الخير سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL MOHAMMED ABED ALJABERI",
+    "NOM_ETABA": "ثانوية محمد عابد الجابري الإعدادية",
+    "AdresseL": "quartier assalam",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY ABDELLAH",
+    "NOM_ETABA": "مدرسة مولاي عبدالله",
+    "AdresseL": "RUE MOULAY ABDELLAH",
+    "AdresseA": "زنقة مولاي عبدالله",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 20 AOUT",
+    "NOM_ETABA": " مدرسة 20 غشت",
+    "AdresseL": "HAY CHEIKH COMMUNE SETTAT",
+    "AdresseA": "حي قطع الشيخ",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUAD ELMAKHAZIN",
+    "NOM_ETABA": "مدرسة وادي المخازن",
+    "AdresseL": "BD GENERAL ELKATTANI COMMUNE SETTAT",
+    "AdresseA": "شارع الجنرال الكتاني",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUAD EDDAHAB",
+    "NOM_ETABA": "مدرسة واد الدهب",
+    "AdresseL": "HAY KAMAL 2 bd errYad N 9",
+    "AdresseA": "حي كمال 2 شارع الرياض الرقم 9",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BIR ANZARAN",
+    "NOM_ETABA": "مدرسة بئر انزران",
+    "AdresseL": "HAY LES ABATOIRES",
+    "AdresseA": "حي البطوار",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MABROUKA",
+    "NOM_ETABA": "مدرسة مبروكة",
+    "AdresseL": "HAY MABROUKA",
+    "AdresseA": "حي مبروكة زنقة موريطانيا الرقم 5 سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OMAR BNOU ALKHATTAB",
+    "NOM_ETABA": "مدرسة عمر بن الخطاب",
+    "AdresseL": "HAY PAM COMMUNE SETTAT",
+    "AdresseA": "حي بام",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ATTATBIKIA",
+    "NOM_ETABA": "مدرسة التطبيقية",
+    "AdresseL": "nzalat lemqadem elmaati SETTAT   derb omar settat",
+    "AdresseA": "نزالة المقدم المعطي درب عمر  سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN BASSAM",
+    "NOM_ETABA": "مدرسة ابن بسام",
+    "AdresseL": "BOULEVARD CHENGUIT 144 smaala ",
+    "AdresseA": "شارع شنقيط",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ETTAOUHID",
+    "NOM_ETABA": "مدرسة التوحيد",
+    "AdresseL": "HAY MIMOUNA COMMUNE SETTAT",
+    "AdresseA": "حي ميمونة",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU TACHFIN",
+    "NOM_ETABA": "مدرسة ابن تاشفين",
+    "AdresseL": "BOULEVARD mohamed V SETTAT",
+    "AdresseA": "شارع محمد الخامس سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TARIK BNOU ZIAD",
+    "NOM_ETABA": "مدرسة طارق بن زياد",
+    "AdresseL": "HAY SIDI ABD EL KRIM",
+    "AdresseA": "حي سيدي عبدالكريم",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELKHAYR",
+    "NOM_ETABA": "مدرسة الخير",
+    "AdresseL": "LOTISSEMENT EL KHAIR COMMUNE SETTAT",
+    "AdresseA": "تجزئة الخير",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FARAH",
+    "NOM_ETABA": "مدرسة الفرح",
+    "AdresseL": "HAY EL FARAH COMMUNE SETTAT",
+    "AdresseA": "حي الفرح",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL BALADIA",
+    "NOM_ETABA": "مدرسة البلدية",
+    "AdresseL": "LOTISSEMENT AL BALADIA SETTAT",
+    "AdresseA": "تجزئة مجمع الخير",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI ABDELKRIM",
+    "NOM_ETABA": "مدرسة سيدي عبد الكريم",
+    "AdresseL": "quartier moujamaa el khayr seTTAT",
+    "AdresseA": "حي مجمع الخير سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL IMAM MALEK",
+    "NOM_ETABA": "مدرسة الإمام مالك",
+    "AdresseL": "HAY MABROUKA COMMUNE SETTAT",
+    "AdresseA": "حي مبروكة سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOUAD BEN JABAL",
+    "NOM_ETABA": "مدرسة معاد بن جبل",
+    "AdresseL": "Settat",
+    "AdresseA": "سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELKRIM EL KHATIB",
+    "NOM_ETABA": "مدرسة عبدالكريم الخطيب",
+    "AdresseL": "HAY ESSALAM TRANCHE 3 SETTAT",
+    "AdresseA": "حي السلام الشطر 3 سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "ثانوية علال بن عبدالله التأهيلية",
+    "AdresseL": "hay SARAH 2",
+    "AdresseA": "حي الفرح_2",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN AL KHATIB",
+    "NOM_ETABA": "ثانوية ابن الخطيب التاهيلية ",
+    "AdresseL": "quartier   SIDI ABDELKARIM  RUE IBN SINA HAY PAM  ",
+    "AdresseA": " حي سيدي عبد الكريم-شارع ابن سينا - سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT AL AMAL",
+    "NOM_ETABA": "ثانوية الأمل التأهيلية",
+    "AdresseL": "Settat",
+    "AdresseA": "سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBN ABBAD",
+    "NOM_ETABA": "ثانوية ابن عباد التأهيلية",
+    "AdresseL": "bd larbi louadi  SETTAT",
+    "AdresseA": "شارع العربي الوادي -  سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ALQODS",
+    "NOM_ETABA": "الثانوية التأهيلية القدس",
+    "AdresseL": "HAY QEILEZ oulad ArroussT",
+    "AdresseA": "حي قيلز أولاد عروس",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Technique",
+    "NOM_ETABA": "الثانوية التقنية",
+    "AdresseL": "HAY EL AMAL COMMUNE SETTAT",
+    "AdresseA": "حي الأمل بلدية سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ERRAZI",
+    "NOM_ETABA": "الثانوية التأهيلية الرازي",
+    "AdresseL": "BOULEVARD DES FAR COMMUNE SETTAT",
+    "AdresseA": "شارع الجيش الملكي بلدية سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABD ERRAHMANE ALYOUSSEFI",
+    "NOM_ETABA": "ثانوية عبد الرحمان اليوسفي التأهيلية",
+    "AdresseL": "Lotissement Assalam",
+    "AdresseA": "حي السلام بلدية سطات",
+    "COMMUNE": "Settat",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "gs al jawhara zarqaa",
+    "NOM_ETABA": "مم الجوهرة الزرقاء",
+    "AdresseL": "e1 Hay essalam 1 tranche ",
+    "AdresseA": "حي السلام الشطر الأول رقم E1",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "paul Morand",
+    "NOM_ETABA": "بول موغان الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "ودادية أطلس",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "allikae 2",
+    "NOM_ETABA": "اللقاء 2",
+    "AdresseL": "lotissement mitah el kheir n 1",
+    "AdresseA": "تجزئة مفتاح الخير بقعة رقم 116",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS prix nobel",
+    "NOM_ETABA": "م.م جائزة نوبل الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الاتقان رقم البقعة E106",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gs henri rousseau",
+    "NOM_ETABA": "م.م هنري روسو الخاصة",
+    "AdresseL": "QUARTIER AMANI",
+    "AdresseA": "تجزئة أماني",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut naim al attfal",
+    "NOM_ETABA": "مؤسسة نعيم الاطفال",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 2 رقم 42 حي البطوار",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "E. assil al maghribi",
+    "NOM_ETABA": "م.الأصيل المغربي",
+    "AdresseL": "NULL",
+    "AdresseA": "درب عمر زنقة مولاي ادريس رقم 7",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole attanmia",
+    "NOM_ETABA": "م. التنمية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة التنمية رقم 8",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARISS ANNOUR OUA TANWIR",
+    "NOM_ETABA": "مدارس النور و التنوير 2 الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تعاونية الاقامة السكنية بقعة 9",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole omouma",
+    "NOM_ETABA": "مدرسة الامومة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة بشار الخير رقم 52",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jawahir al kamal",
+    "NOM_ETABA": "جواهر الكمال",
+    "AdresseL": "NULL",
+    "AdresseA": "الكمال 2 رقم 527 بلوك ب ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAWD MAMAN AMINA",
+    "NOM_ETABA": "روض ماما أمينة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الخير زنقة عبد الرحمان المخ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Kids",
+    "NOM_ETABA": "كيدز",
+    "AdresseL": "NULL",
+    "AdresseA": "36 زنقة زيد بن عفان الكنانط ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MaMa kabira",
+    "NOM_ETABA": "ماما كبيرة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي مبروكة ممر تيشكا رقم 7 ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire alabrar2",
+    "NOM_ETABA": "م.م الابرار 2",
+    "AdresseL": "NULL",
+    "AdresseA": "سطات",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire riad al hamd",
+    "NOM_ETABA": "مؤسسة رياض الحمد",
+    "AdresseL": "Bd 9 juillet hay el kheir",
+    "AdresseA": "تجزئة الخير 9 يوليوز الخير",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire Archipel",
+    "NOM_ETABA": "م.م أرشبيل الخاصة",
+    "AdresseL": "",
+    "AdresseA": "تجزئة المنار طريق بن احمد",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Madariss annour oua tanwir",
+    "NOM_ETABA": "مدارس النور والتنوير الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة جومانة ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Collège et Lycée Settat",
+    "NOM_ETABA": "الثانوية الإعدادية و التأهيلية سطات الخصوصية",
+    "AdresseL": "243,ABDERRAHMANE SKIREJ,SETTAT",
+    "AdresseA": "243،شارع عبد الرحمن اسكيرج سطا",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire les oscars",
+    "NOM_ETABA": "م..م أوسكار",
+    "AdresseL": "boulevard nakhil hay nahda set",
+    "AdresseA": "حي النهضة السطاتية شارع النخيل",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire les cerisiers",
+    "NOM_ETABA": "م/م حب الملوك",
+    "AdresseL": "lotissement les cerisiers rout",
+    "AdresseA": "تجزئة حب الملوك شارع بوشعيب بل",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el wissal",
+    "NOM_ETABA": "الوصال",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 105 تجزئة عين نزاغ ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "s/s bouabid charkki",
+    "NOM_ETABA": "م/م بوعبيد الشرقي",
+    "AdresseL": "lotissement ghizlane n°102 ROU",
+    "AdresseA": "إقامة غزلان الرقم 102 طريق بن ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KHADRA II",
+    "NOM_ETABA": "الخضراء 2",
+    "AdresseL": "GS KHADRAA II",
+    "AdresseA": "تجزئة الطويل حي السلام",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el kiassi",
+    "NOM_ETABA": "القياسي",
+    "AdresseL": "n° 204 majmaa el khair 2° tran",
+    "AdresseA": "الرقم 204 مجمع الخير الشطر الث",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BISMI ALLAH II",
+    "NOM_ETABA": "بسم الله 2",
+    "AdresseL": "Hay_r.s.s alwouan B.P787 SETTA",
+    "AdresseA": "حي علوان رقم ص,ب,787سطات",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE AL WOROUD",
+    "NOM_ETABA": "مجموعة الورود",
+    "AdresseL": "21 latissement hatim-bd hassan",
+    "AdresseA": "21 تجزئة حاتم شارع الحسن الثان",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bismillah",
+    "NOM_ETABA": "بسم الله",
+    "AdresseL": "Lot. Al Wahda Farah 1",
+    "AdresseA": "تجزئة الوحدة فرح 1",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Abrar",
+    "NOM_ETABA": " مجموعة مدارس الأبرار الخاصة",
+    "AdresseL": "N° 1230, Hay Kamal 2, Bloc C, ",
+    "AdresseA": "رقم1230، شارع الجنرال الكتاني ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Echareka",
+    "NOM_ETABA": "الشارقة",
+    "AdresseL": "N° 49, Bd. Maghreb Arabi, Hay ",
+    "AdresseA": "رقم 49، شارع المغرب العربي، حي",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAM AL MAARIFA",
+    "NOM_ETABA": "عالم المعرفة",
+    "AdresseL": "lotissement tamassna 2 SETTAT",
+    "AdresseA": "تجزئة تامسنا2 سطات ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EL WAHA",
+    "NOM_ETABA": "مجموعة مدارس الواحة",
+    "AdresseL": "bv allal ben abd allah n 253 s",
+    "AdresseA": "شارع علال بن عبد الله رقم 253 ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR EL MITAK",
+    "NOM_ETABA": "دار الميثاق",
+    "AdresseL": "َAvenue 3 Mars lotissement El ",
+    "AdresseA": "شارع 3 مارس تجزئة الخير- سطات",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Azzaitoune",
+    "NOM_ETABA": " م.م الزيتون",
+    "AdresseL": " quartier administratif settat",
+    "AdresseA": "الحي الاداري سطات",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Petit Monde",
+    "NOM_ETABA": "العالم الصغير",
+    "AdresseL": "hay el farah 1  settat",
+    "AdresseA": " حي الفرح1 سطات",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Guennoun",
+    "NOM_ETABA": "كنون",
+    "AdresseL": "rue sidi msahel Quartier chEik",
+    "AdresseA": " زنقة سيدي امساهل حي الشيخ سطا",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecoles de la Chaouia",
+    "NOM_ETABA": " مدارس الشاوية",
+    "AdresseL": "Angle Bd Al Khansa Qu.Lagnanet",
+    "AdresseA": " شارع الخنساءحي الكنانط سطات",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Bouchra",
+    "NOM_ETABA": " م.م بشرى",
+    "AdresseL": "boulevard skirj",
+    "AdresseA": "شارع اسكيرج ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Basma",
+    "NOM_ETABA": "بسمة ",
+    "AdresseL": "N°23  place my el hassane",
+    "AdresseA": "الرقم 23 ساحة مولاي الحسن",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Misbah",
+    "NOM_ETABA": " المصباح",
+    "AdresseL": "quartier al farah settat ",
+    "AdresseA": "حي الفرح سطات ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire notre paradis ",
+    "NOM_ETABA": "مجموعة مدارس جنتنا",
+    "AdresseL": "N° 241(237), Bd. Abderrahman S",
+    "AdresseA": "رقم 241(237)، شارع عبد الرحمن ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Khadraa",
+    "NOM_ETABA": "خضراء",
+    "AdresseL": "Rue Ammane, N°19, Hay ElKassam",
+    "AdresseA": "رقم 19، زنقة عمان، حي القسم",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibn Al HAYTAM",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "Rue Ibn El Bassir - Farah 1 - ",
+    "AdresseA": "زنقة ابن البصير",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Oula",
+    "NOM_ETABA": "العلا",
+    "AdresseL": " Bd Mansour Dahbi Smaala",
+    "AdresseA": " شارع المنصور الدهبي  السماعلة",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "E. Rabab",
+    "NOM_ETABA": "مدرسة رباب",
+    "AdresseL": "NULL",
+    "AdresseA": "إقامة المنتزه عمارة 6 رقم 9 طر",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "pasteur collinee",
+    "NOM_ETABA": "باستور كولين الخاصة",
+    "AdresseL": "Lot La Colline Land ",
+    "AdresseA": "تجزئة لاكولين لاند ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gs vincent van goghe",
+    "NOM_ETABA": "م م  فانسو فان كوغ الخاصة",
+    "AdresseL": "89, Lotissement Erriad El Ali",
+    "AdresseA": "9 تجزئة الرياض العالي",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zad al maarife",
+    "NOM_ETABA": "زاد المعارف الخصوصية",
+    "AdresseL": "bd 3mars, n° f78, quartier elk",
+    "AdresseA": "ف 78 شارع 3 مارس حي الخير",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gs l hermitage du petit mondee",
+    "NOM_ETABA": "م م لارميطاج العالم الصغير الخاصة",
+    "AdresseL": "Lot EP tranche 1 lot Miftah el",
+    "AdresseA": "تجزئة مفتاح الخير الشطر 1",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "edgard morine",
+    "NOM_ETABA": "إدكارد موران الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "ودادية النسيم",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la plume",
+    "NOM_ETABA": "لابليم",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الفرح تعاونية جيهان رقم 35 ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bienveillance montessori",
+    "NOM_ETABA": "بيان فويونس مونتسوري",
+    "AdresseL": "NULL",
+    "AdresseA": "حي كمال بلوك أ رقم 48 ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM ALHILLAL",
+    "NOM_ETABA": "براعم الهلال الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "دار محمود العمارة 8 الرقم 3 طر",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACACIA PRESCOLAIRE",
+    "NOM_ETABA": "أكاسيا للتعليم الأولي",
+    "AdresseL": "QUARTIER KAMAL 2 BLOC D NUMERO",
+    "AdresseA": "حي كمال 2، بلوك د رقم 1440 ",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL ITIMAD ACADEMY",
+    "NOM_ETABA": "مجموعة مدارس الاعتماد أكاديمي",
+    "AdresseL": "10 lot miftah alkhair tranche ",
+    "AdresseA": "10 تجزئة مفتاح الخير الشطر 2 ا",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecolee Palais des Anges ",
+    "NOM_ETABA": "مؤسسة بلي دي زونج الخصوصية",
+    "AdresseL": "hay alfarah rissala no 1 ",
+    "AdresseA": "حي الفرح الرسالة رقم 1",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole RUSSELL Le Britanique",
+    "NOM_ETABA": "مؤسسة روسيل لو بريطانيك",
+    "AdresseL": "Bd Hassan 2, Residence Al Amal",
+    "AdresseA": "شارع الحسن الثاني، إقامة الأمل",
+    "COMMUNE": "Settat ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MALKAA AL WIDANE",
+    "NOM_ETABA": "الثانوية الإعدادية ملقى الويدان",
+    "AdresseL": "commune malkaa alwidane",
+    "AdresseA": "جماعة ملقى الويدان",
+    "COMMUNE": "Melg El Ouidane",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LARBAA",
+    "NOM_ETABA": "لرباع",
+    "AdresseL": "DOUAR OULAD YCHCHOU MELG EL OUIDANE",
+    "AdresseA": "دوار اولاد يشو ملقى الويدان",
+    "COMMUNE": "Melg El Ouidane",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALOUATE",
+    "NOM_ETABA": "تالوات",
+    "AdresseL": "DOUAR OULAD HAMMOU MELG EL OUIDANE",
+    "AdresseA": "دوار اولاد حمو ملقى الويدان",
+    "COMMUNE": "Melg El Ouidane",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MALGA ELOUIDANE SS",
+    "NOM_ETABA": "ملقى الويدان مجموعة مدرسية ",
+    "AdresseL": "COMMUNE DE MELG EL OUIDANE",
+    "AdresseA": "جماعة ملقى الويدان",
+    "COMMUNE": "Melg El Ouidane",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "ABDERRAHMANE BNOU AOUF",
+    "NOM_ETABA": "عبد الرحمن بن عوف",
+    "AdresseL": "AIT IKKOU CENTRE",
+    "AdresseA": "ايت يكو المركز",
+    "COMMUNE": "Ait Ikkou",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SAKIA LHAMRA",
+    "NOM_ETABA": "الساقية الحمراء",
+    "AdresseL": "SEBT AIT IKKOU CENTRE COMMUNE AIT IKOU",
+    "AdresseA": "سبت ايت يكو",
+    "COMMUNE": "Ait Ikkou",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OMAR",
+    "NOM_ETABA": "ايت عمر",
+    "AdresseL": "DOUAR AIT OMAR COMMUNE AIT IKOU",
+    "AdresseA": "دوار ايت عمر جماعة ايت يكو",
+    "COMMUNE": "Ait Ikkou",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ZBAYER",
+    "NOM_ETABA": "ايت زباير",
+    "AdresseL": "DOUAR AIT ZBAYER COMMUNE AIT IKOU",
+    "AdresseA": "د ايت زباير ج ايت يكو",
+    "COMMUNE": "Ait Ikkou",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUMAAJOUN",
+    "NOM_ETABA": "بومعجون",
+    "AdresseL": "DOUAR BENYAZGHA COMMUNE AIT IKOU CERCLE OULMES",
+    "AdresseA": "دوار بنيازغى ج ايت يكو دائرة والماس",
+    "COMMUNE": "Ait Ikkou",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

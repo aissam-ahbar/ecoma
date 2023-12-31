@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH BEN ALYAZID SAADI",
+    "NOM_ETABA": "التانوية الإعدادية عبدالله بن اليزيد السعدي",
+    "AdresseL": "centre ait rkha",
+    "AdresseA": "مركز ايت الرخاء",
+    "COMMUNE": "Ait Erkha",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ANAAMA CENTRE TNINE AIT ERKHA",
+    "NOM_ETABA": "مجموعة مدارس النعمة مركزية اتنين ايت الرخاء",
+    "AdresseL": "CENTRE COMMUNE TNIN AIT RKHA",
+    "AdresseA": "مركز جماعة اتنين ايت الرخاء",
+    "COMMUNE": "Ait Erkha",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ABD EL JALIL EL KABBAJ CENTRE TAK",
+    "NOM_ETABA": "مجموعة مدارس عبد الجليل القباج مركزية تكنسا ",
+    "AdresseL": "DOUAR takounssa",
+    "AdresseA": "دوار تكنسا",
+    "COMMUNE": "Ait Erkha",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire AL RAZI CENTRE OKRZ",
+    "NOM_ETABA": "مجموعة مدارس الرازي مركزية اوكرز",
+    "AdresseL": "DOUAR OKRZ",
+    "AdresseA": "دوار اوكرز",
+    "COMMUNE": "Ait Erkha",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIT ERKHA",
+    "NOM_ETABA": "الثانوية التأهيلية أيت الرخاء",
+    "AdresseL": "COMMUNE AIT ERKHA CENTRE",
+    "AdresseA": "جماعة أيت الرخاء المركز",
+    "COMMUNE": "Ait Erkha",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL OKHOWA",
+    "NOM_ETABA": "الثانوية الاعدادية الاخوة",
+    "AdresseL": "OULED ABI RAHMA COMMUNE AMMEUR SEFLIA",
+    "AdresseA": "أولاد بورحمة جماعة عامر السفلية",
+    "COMMUNE": "Ameur Seflia",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI HAMID EL GHAZALI",
+    "NOM_ETABA": "الثانوية الإعدادية أبي حامد الغزالي ",
+    "AdresseL": "commune AMEUR SEFLIA",
+    "AdresseA": " جماعة عامر السفلية",
+    "COMMUNE": "Ameur Seflia",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDLLATIF IMANI",
+    "NOM_ETABA": "عبد اللطيف العيماني",
+    "AdresseL": "DOUAR OULED BOURAHMA COMMUNE AMEUR SAFLIA",
+    "AdresseA": "دوار اولاد بورحمة جماعة عامر السفلية",
+    "COMMUNE": "Ameur Seflia",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BEN IICHE",
+    "NOM_ETABA": "اولاد بنعيش",
+    "AdresseL": "DOUAR OULED BEN IICHE COMMUNE AMEUR SAFLIA",
+    "AdresseA": "دوار اولاد بنعييش جماعة عامر السفلية",
+    "COMMUNE": "Ameur Seflia",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRKABI",
+    "NOM_ETABA": "الركابي",
+    "AdresseL": "DOUAR ERRKABI  COMMUNE AMEUR SAFLIA",
+    "AdresseA": "دوار الركابي جماعة عامر السفلية",
+    "COMMUNE": "Ameur Seflia",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BEN DAOUD",
+    "NOM_ETABA": "سيدي بنداود",
+    "AdresseL": "DOUAR SIDI BEN DAOUD AMEUR SAFLIA",
+    "AdresseA": "دوار سيدي بنداود جماعة عامر السفلية",
+    "COMMUNE": "Ameur Seflia",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KACEMIYINE",
+    "NOM_ETABA": "القاسميين",
+    "AdresseL": "DOUAR EL KACEMIYINE  COMMUNE AMEUR SAFLIA",
+    "AdresseA": "دوار القاسميين جماعة عامر السفلية",
+    "COMMUNE": "Ameur Seflia",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

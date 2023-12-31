@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "AL MOUKHTAR SOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "TOUROUG",
+    "AdresseA": "توروك",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL IGLI",
+    "NOM_ETABA": "اكلي",
+    "AdresseL": "ksar IGLI  commune mellab",
+    "AdresseA": "قصر إگلي جماعة ملعب",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF AZOUAOUI",
+    "NOM_ETABA": "يوسف أزواوي",
+    "AdresseL": "MELAAB GOULMIMA",
+    "AdresseA": "ملعب كلميمة",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IGLI",
+    "NOM_ETABA": "اكلي",
+    "AdresseL": "KSAR IGLI MELAAB GOULMIMA",
+    "AdresseA": "قصر اكلي ملعب كلميمة",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MARROUTCHA",
+    "NOM_ETABA": "مروتشة",
+    "AdresseL": "KSAR MARROUTCHA MELAAB tinjdad",
+    "AdresseA": "قصر مروتشة ملعب تنجداد",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MALLAB",
+    "NOM_ETABA": "ملعب",
+    "AdresseL": "MELLAB TINEJDAD",
+    "AdresseA": "مركز ملعب ملعب تنجداد",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUROUG",
+    "NOM_ETABA": "توروك",
+    "AdresseL": "KSAR TOUROUG MELLAB",
+    "AdresseA": "قصر توروك ملعب",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUKHITE",
+    "NOM_ETABA": "اوخيت",
+    "AdresseL": "KSAR OUKHITE MELAAB",
+    "AdresseA": "قصر اوخيت ملعب",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AITOULHOU",
+    "NOM_ETABA": "ايت اولحو",
+    "AdresseL": "KSAR AIT OULHOU MELAAB",
+    "AdresseA": "قصر ايت اولحو ملعب",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMGANE",
+    "NOM_ETABA": "امكان",
+    "AdresseL": "KSAR AMGANE MELAAB",
+    "AdresseA": "قصر امكان ملعب",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AHMAD OU BAHADDOU",
+    "NOM_ETABA": "الثانوية التأهيلية حماد او باحدو",
+    "AdresseL": "MeLLAB",
+    "AdresseA": "ملعب",
+    "COMMUNE": "Melaab",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,1412 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI MOHAMED BEN ABDELLAH",
+    "NOM_ETABA": "ثانوية سيدي محمد بن عبد الله الاعدادية",
+    "AdresseL": "RUE EL MOUKAOUAMA ",
+    "AdresseA": "شارع المقاومة ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MOUJAHID EL AYYACHI",
+    "NOM_ETABA": "ثانوية المجاهد العياشي الاعدادية",
+    "AdresseL": "RUE EL MOUJAHID EL AYACHI ",
+    "AdresseA": "شارع المجاهد العياشي ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HALIMA ESSAADIA",
+    "NOM_ETABA": "ثانوية حليمة السعدية الاعدادية",
+    "AdresseL": "AVENUE ibn toumarte",
+    "AdresseA": "شارع ابن تومرت",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LALLA MARIEM",
+    "NOM_ETABA": "ثانوية للا مريم الاعدادية",
+    "AdresseL": "RUE ABOU CHOUAIB DOUKALI ",
+    "AdresseA": "شارع ابو شعيب الدكالي",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDERRAHMANE DOUKKALI",
+    "NOM_ETABA": "ثانوية عبد الرحمان الدكالي الاعدادية ",
+    "AdresseL": "AVENUE MOHAMED TRII  ",
+    "AdresseA": "شارع محمد التريعي",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED EL HANSALI",
+    "NOM_ETABA": "ثانوية محمد الحنصالي الاعدادية",
+    "AdresseL": "RUE VAREINEs ",
+    "AdresseA": "شارع فارين ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MANAR",
+    "NOM_ETABA": "ثانوية المنار الاعدادية",
+    "AdresseL": "ROUTE SIDI BOUZID",
+    "AdresseA": "الثانوية الاعدادية طريق سيدي بوزيد ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKARIM EL KHATTABI",
+    "NOM_ETABA": "ثانوية عبد الكريم الخطابي الاعدادية",
+    "AdresseL": "RUE PIERRE BRANE PLATEAU",
+    "AdresseA": "زنقة بيير بران النجد ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 3 MARS",
+    "NOM_ETABA": "ثانوية 3 مارس الاعدادية ",
+    "AdresseL": "HAY EL mailha",
+    "AdresseA": "حي الميلحة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ESSAADA",
+    "NOM_ETABA": "الثانوية الإعدادية السعادة ",
+    "AdresseL": "Quartier Essaada",
+    "AdresseA": "حي السعادة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ETTRII MIXTE",
+    "NOM_ETABA": "مدرسة التريعي مختلطة",
+    "AdresseL": "BOULEVARD MOHAMED ETTRII",
+    "AdresseA": "شارع  محمد التريعي",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ETTRII FILLES",
+    "NOM_ETABA": "مدرسة التريعي بنات",
+    "AdresseL": "BOULEVARD 20 AOUT RUE SI MOHAMED ESSAADI ",
+    "AdresseA": "شارع 20 غشت درب محمد الشيخ السعدي",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "مدرسة المنصور الذهبي",
+    "AdresseL": "1 rue Zemmour ",
+    "AdresseA": "زنقة زمور رقم 1 ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL FAKIH EL HATTABE",
+    "NOM_ETABA": "مدرسة الفقيه الحطاب",
+    "AdresseL": "RUE ABDERRAHMANE ADDAKHIL",
+    "AdresseA": "شارع عبد الرحمان الداخل",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CENTRALE EL JADIDA",
+    "NOM_ETABA": "مركزية الجديدة",
+    "AdresseL": "RUE HASSAN II ",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMMED VI",
+    "NOM_ETABA": "مدرسة محمد السادس",
+    "AdresseL": "BOULEVARD MOHAMED ERRAFII ",
+    "AdresseA": "شارع محمد الرافعي",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL FAKIH ETTADILI",
+    "NOM_ETABA": "مدرسة الفقيه التادلي",
+    "AdresseL": "RUE IMAME BASRI ",
+    "AdresseA": "زنقة الإمام البصري",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA AMINA",
+    "NOM_ETABA": "مدرسة للا آمنة",
+    "AdresseL": "DERB EL HAJAR ",
+    "AdresseA": "درب الحجار",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH BEN ECHARKI",
+    "NOM_ETABA": "مدرسة عبد الله بن الشرقي",
+    "AdresseL": "KODIATE BEN IDRISS ",
+    "AdresseA": "كدية بن إدريس",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MOUKAOUAMA",
+    "NOM_ETABA": "مدرسة المقاومة",
+    "AdresseL": "BOULEVARD MOUKAOUAMA ",
+    "AdresseA": "شارع المقاومة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI MOUSSA",
+    "NOM_ETABA": "مدرسة سيدي موسى",
+    "AdresseL": "RUE IBN EL KHATIB EL QODS ",
+    "AdresseA": "نهج ابن الخطيب كدية بن إدريس",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BRIJA",
+    "NOM_ETABA": "مدرسة البريجة",
+    "AdresseL": "RUE SEFROU ",
+    "AdresseA": "زنقة صفرو",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MANAR",
+    "NOM_ETABA": "مدرسة المنار ",
+    "AdresseL": "BOULEVARD DOUKKALA ",
+    "AdresseA": "نهج دكالة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN RACHIK KAYRAOUANI",
+    "NOM_ETABA": "مدرسة ابن رشيق القيرواني",
+    "AdresseL": "RUE TARIK IBN ZIYAD",
+    "AdresseA": "زنقة طارق بن زياد",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELMOUMEN EL MOUAHIDI",
+    "NOM_ETABA": "مدرسة عبد المومن الموحدي",
+    "AdresseL": "HAY ESSAADA ",
+    "AdresseA": "حي السعادة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MOUTANABBI",
+    "NOM_ETABA": "مدرسة المتنبي",
+    "AdresseL": "ESSAADA 3 ",
+    "AdresseA": "السعادة الثالثة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI BOUZID",
+    "NOM_ETABA": "مدرسة سيدي بوزيد",
+    "AdresseL": "HAY JAOUHARA ",
+    "AdresseA": "حي جوهرة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA ZAHRA",
+    "NOM_ETABA": "مدرسة للا زهرة",
+    "AdresseL": "LOTISSEMENT LAMOUILHA ",
+    "AdresseA": "تجزئة مويلحة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED EL FASSI",
+    "NOM_ETABA": "مدرسة محمد الفاسي",
+    "AdresseL": "ROUTE MOULAY ABDELLAH",
+    "AdresseA": "شارع الأميرمولاي عبد الله",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LGHORBA",
+    "NOM_ETABA": "مدرسة الغربة",
+    "AdresseL": "DOUAR LGHORBA ",
+    "AdresseA": "دوار الغربة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBRAHIM ROUDANI",
+    "NOM_ETABA": "مدرسة إبراهيم الروداني",
+    "AdresseL": "BOULVARD ESSALAME ",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE D APPLICATION",
+    "NOM_ETABA": "المدرسة التطبيقية",
+    "AdresseL": "Bd ALAOUIYINE hay LMATAR",
+    "AdresseA": "شارع العلويين حي المطار",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA SALMA",
+    "NOM_ETABA": "مدرسة للا سلمى",
+    "AdresseL": "HAY ALMATAR ",
+    "AdresseA": "حي المطار ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE MOHAMMED ELHANIOUI",
+    "NOM_ETABA": "مدرسة محمد الهنيوي ",
+    "AdresseL": "Résidence Nama 2 route 301 ",
+    "AdresseA": "إقامة نعمة 2 طريق 301 ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN HAZM",
+    "NOM_ETABA": "مدرسة ابن حزم",
+    "AdresseL": "QUARTEIR MELK CHEIKH",
+    "AdresseA": "حي ملك الشيخ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED ERRAFII",
+    "NOM_ETABA": "ثانوية محمد الرافعي التأهيلية",
+    "AdresseL": "RUE MOULAY DRISS",
+    "AdresseA": "زنقة مولاي ادريس",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL KADI AYAD",
+    "NOM_ETABA": " ثانوية القاضي عياض التأهيلية",
+    "AdresseL": "AVENUE ATTAHRIR N 82",
+    "AdresseA": "نهج التحرير الرقم 82",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUN",
+    "NOM_ETABA": " ثانوية ابن خلدون التأهيلية",
+    "AdresseL": "AVENUE IBN KHALDOUN ",
+    "AdresseA": "شارع بن خلدون",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE ERRAZI",
+    "NOM_ETABA": "ثانوية الرازي التأهيلية التقنية",
+    "AdresseL": "KOUDAITE BEN IDRISS ",
+    "AdresseA": "شارع النخيل ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU CHOUAIB DOUKKALI",
+    "NOM_ETABA": "ثانوية أبي شعيب الدكالي التأهيلية",
+    "AdresseL": "AVENUE AHMED CHAOUKI ",
+    "AdresseA": "شارع أحمد شوقي",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BIR ANZARANE",
+    "NOM_ETABA": "ثانوية بئر أنزران التأهيلية",
+    "AdresseL": "AVENUE VARENNE ",
+    "AdresseA": "نهج فارين ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL QODS",
+    "NOM_ETABA": "ثانوية القدس التأهيلية",
+    "AdresseL": "NAHJ DOUKKALA",
+    "AdresseA": "نهج دكالة ",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ANNAJD",
+    "NOM_ETABA": "ثانوية النجد التأهيلية",
+    "AdresseL": "quartier ANNAJD",
+    "AdresseA": "حي النجد",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DES METIERS DE L HOTELLERIE ET DU",
+    "NOM_ETABA": "الثانوية التاهيلية لمهن الفندقة والسياحة",
+    "AdresseL": "AVENUE DES NATIONS UNIES",
+    "AdresseA": "شارع الامم المتحدة",
+    "COMMUNE": "El Jadida",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "college-LYCEE  ange bleu",
+    "NOM_ETABA": "الثانوية التأهيلية والثانوية الاعدادية الملاك الازرق",
+    "AdresseL": "35 Avenue Ibn Toumert ",
+    "AdresseA": "شارع ابن تومرت 35",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "collége IHSANE",
+    "NOM_ETABA": "إعدادية إحسان3",
+    "AdresseL": "N° 158, hay salam",
+    "AdresseA": "رقم  158 حي السلام",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée El Khawarizmi",
+    "NOM_ETABA": "ثانوية الخوارزمي الخاصة",
+    "AdresseL": "Avenue Med.Rafai, N° 35 ",
+    "AdresseA": "شارع محمد الرافعي، رقم 35 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée El Qods",
+    "NOM_ETABA": "ثانوية القدس",
+    "AdresseL": "Rue 252, N° 2 ",
+    "AdresseA": "زنقة 252، رقم 2 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée Ibn Rochd",
+    "NOM_ETABA": "ثانوية ابن رشد",
+    "AdresseL": "N° 12, Abdelkarim El Khattabi",
+    "AdresseA": "رقم 12، عبد الكريم الخطابي",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM AL QORA",
+    "NOM_ETABA": "مدرسة أم القرى",
+    "AdresseL": "Lotissement Al Hilal 1 SAADA I",
+    "AdresseA": "تجزئة الهلال 1 السعادة 3 الرقم",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole  ajyal el jawhara",
+    "NOM_ETABA": "م.أجيال الجوهرة",
+    "AdresseL": "N° 198, Lotissement Jaouhara ",
+    "AdresseA": "رقم 198، تجزئة الجوهرة",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole shiraz",
+    "NOM_ETABA": "مدرسة شيراز",
+    "AdresseL": "24 Boulevard Moukaouma",
+    "AdresseA": "24  شارع المقاومة ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jardin d Enfants L Ange Bleu",
+    "NOM_ETABA": "روض الملاك الأزرق",
+    "AdresseL": "N° 144, Boulevard Hassan II",
+    "AdresseA": "رقم 144، شارع الحسن الثاني",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Safaa Hassania",
+    "NOM_ETABA": "مدرسة الصفاء الحسنية",
+    "AdresseL": "Boulevard Mohamed V",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Ihssane2",
+    "NOM_ETABA": "مدارس إحسان الخاصة 2",
+    "AdresseL": "N° 202, Boulevard chahid loudy",
+    "AdresseA": "رق 202 ، شارع الشهيد لوديي",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Jazira SCHOOL",
+    "NOM_ETABA": "الجزيرة سكول الخصوصية",
+    "AdresseL": "N° 12, Boulevard MOHAMED Trii ",
+    "AdresseA": "رقم 12، شارع  محمد التريعي ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DE BORDEAUX",
+    "NOM_ETABA": "مجموعة مدارس بوردو الخصوصية",
+    "AdresseL": "LOT.NOURA.HAY AL AMAL",
+    "AdresseA": "تجزئة نورة، حي الأمل",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ATTAKWA",
+    "NOM_ETABA": "مؤسسة التقوى",
+    "AdresseL": "Lotissement Addachra, Sidi Mou",
+    "AdresseA": "تجزئة الدشرة، سيدي موسى",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole OUM ERRABII",
+    "NOM_ETABA": "مدرسة أم الربيع",
+    "AdresseL": "Avenue Al MAssira, N°17",
+    "AdresseA": " شارع المسيرة الرقم17 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole TAHDIB",
+    "NOM_ETABA": "مدرسة التهذيب",
+    "AdresseL": "N° 6, Rue Liban",
+    "AdresseA": "رقم 6، زنقة لبنان ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANAHIL",
+    "NOM_ETABA": "المناهل",
+    "AdresseL": "Lotissement Al Jaouhara, N° 15",
+    "AdresseA": "151 تجزئة الجوهرة، رقم ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ARRISSALA",
+    "NOM_ETABA": "مجموعة مدارس الرسالة",
+    "AdresseL": "Lotissement Al Hilal N°23 ASSA",
+    "AdresseA": "تجزئة الهلال الرقم 23 السعادة ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole ennour",
+    "NOM_ETABA": "مؤسسة النور",
+    "AdresseL": "Angle N° 29 et 32, Essaada 3",
+    "AdresseA": "زاوية رقم 29 و 32، السعادة 3",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le paradis des petits",
+    "NOM_ETABA": "جنة الصغار",
+    "AdresseL": "lot rania california",
+    "AdresseA": "تجزئة رانيا كاليفورنيا",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire essanabil 1",
+    "NOM_ETABA": "مجموعة مدارس السنابل 1",
+    "AdresseL": "AVENUE IBNOU BADISS CHATEAU D ",
+    "AdresseA": " شارع ابن بادس   خزان المياه",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole douaâ",
+    "NOM_ETABA": "مدرسة دعاء",
+    "AdresseL": "N° 125, nahj abdelkarim ben ta",
+    "AdresseA": "رقم 125، نهج عبد الكريم بن تاب",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ILYASS",
+    "NOM_ETABA": "مجموعة مدارس إلياس",
+    "AdresseL": "121 Route de Sidi Bouzid ",
+    "AdresseA": "121 طريق سيدي بوزيد  ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ILIAS AL AMININE",
+    "NOM_ETABA": "مدرسة إلياس الأمينيين",
+    "AdresseL": "N° 3, Avenue El Moukawama  ",
+    "AdresseA": "رقم 3، شارع المقاومة ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COLLEGE EXCELLENCE",
+    "NOM_ETABA": "الثانوية الإعدادية التفوق",
+    "AdresseL": "N° 73, Avenue MOHAMED rafii ",
+    "AdresseA": "رقم73، شارع محمد الرافعي",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Firdaous",
+    "NOM_ETABA": "     مجموعة مدارس الفردوس",
+    "AdresseL": "RUE IBN HABOUS N°30 LOT EL QOD",
+    "AdresseA": "رقم30  زنقة ابن حبوس حي القدس",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire azzaytouna",
+    "NOM_ETABA": "مجموعة مدارس الزيتونة",
+    "AdresseL": "HAY ESSALAM  B P3024",
+    "AdresseA": "حي السلام ص البريد 3024",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE CHAWKI",
+    "NOM_ETABA": "ثانوية شوقي",
+    "AdresseL": "33-Bd MOUHAMMED 6 IMM OSCAR ",
+    "AdresseA": "33،شارع محمد السادس عمارة أسكا",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jardin Tata Zahia",
+    "NOM_ETABA": "روض طاطا الزاهية",
+    "AdresseL": "RUE VICTOR HUGO, N°8",
+    "AdresseA": " زنقة فيكتور هوغو، رقم 8",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Ange Bleu",
+    "NOM_ETABA": " مدرسة الملاك الأزرق",
+    "AdresseL": " avenue ibn toumerte",
+    "AdresseA": " نهج ابن تومرت ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire EL JADIDA",
+    "NOM_ETABA": " مجموعة مدارس الجديدة",
+    "AdresseL": "Secteur 3 angle Avenue \"A\" rue",
+    "AdresseA": "منطقة 3 ملتقى شارع أ زنقة رقم ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AZZAITOUNA",
+    "NOM_ETABA": "مجموعة مدارس الزيتونة الخاصة",
+    "AdresseL": "hay ESSALAM",
+    "AdresseA": " حي السلام ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zahias scool",
+    "NOM_ETABA": "زهياز سكول",
+    "AdresseL": "2 rue fes ",
+    "AdresseA": "2 زنقة فاس",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ILE MONTEREAL",
+    "NOM_ETABA": "جزيرة منتريال",
+    "AdresseL": "Rue J n°35",
+    "AdresseA": "الزنقة ج الرقم 35 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NID DES ANGES",
+    "NOM_ETABA": "عش الملائكة",
+    "AdresseL": "lot fadl allah n 12 ",
+    "AdresseA": "تجزئة فضل الله الرقم 12 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el ghadir",
+    "NOM_ETABA": "الغدير",
+    "AdresseL": "hay el manar zone 2 . n°74 ",
+    "AdresseA": "74، تجزئة المنار، المنطقة 2  ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al kalima attaiba",
+    "NOM_ETABA": "الكلمة الطيبة",
+    "AdresseL": "lottissement essalam 319 V ",
+    "AdresseA": "319 V حي السلام",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAZOTA",
+    "NOM_ETABA": "مدرسة طازوطا",
+    "AdresseL": "lot ESSALAM  im 51  ",
+    "AdresseA": "حي السلام عمارة 51",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IHSANE I",
+    "NOM_ETABA": "إحسان 1",
+    "AdresseL": "LOT HAKIMA 4 SIDI MOUSSA",
+    "AdresseA": "تجزئة حكيمة4 سيدي موسى",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ATTIRMIDI",
+    "NOM_ETABA": "مجموعة مدارس الترمذي",
+    "AdresseL": "av jabrane khalil jabrane",
+    "AdresseA": "شارع جبران خليل جبران",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA FONTAINE",
+    "NOM_ETABA": "لافنتين",
+    "AdresseL": "bd jebrane khalil jebrane ",
+    "AdresseA": "شارع جبران خليل جبران",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GDGSR ",
+    "NOM_ETABA": "التدبير المفوض   مجموعة مدارس الإقامة",
+    "AdresseL": "14, quartier brija ",
+    "AdresseA": "14 حي البريجة ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NIZAR KABBANI",
+    "NOM_ETABA": "مدرسة نزار قباني",
+    "AdresseL": "LOT. AYA N°100",
+    "AdresseA": "تجزئة آية رقم 100 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL BADAIL",
+    "NOM_ETABA": "مدرسة البدائل",
+    "AdresseL": "11 lot al hilal ",
+    "AdresseA": "تجزئة الهلال رقم 11 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BASSMA ",
+    "NOM_ETABA": "مدرسة بسمة",
+    "AdresseL": "01 lotissement chems ",
+    "AdresseA": "تجزئة شمس رقم 1 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOBADARA",
+    "NOM_ETABA": "المبادرة",
+    "AdresseL": "NAJDE 2 BLOC S",
+    "AdresseA": "النجد 2 بلوك س",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ARC EN Ciel",
+    "NOM_ETABA": "قوس قزح",
+    "AdresseL": "Lotissement Touiresse 2 N° 7",
+    "AdresseA": "تجزئة النورس 2 الرقم 7",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMINE",
+    "NOM_ETABA": "أمين",
+    "AdresseL": "ruen°32 Tranche 3 av jabrane k",
+    "AdresseA": "زنقة 32 الشطر 3 شارع جبران خلي",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TALAII AL GHAD",
+    "NOM_ETABA": "مدرسة طلائع الغد",
+    "AdresseL": "LOTISSEMENT ASMAA I N°K milk a",
+    "AdresseA": "تجزئة أسماء 1 رقم ك ملك الشيخ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement ISBAHE",
+    "NOM_ETABA": "مؤسسة إصباح",
+    "AdresseL": "ROUte sidi Bouzid Av 31 secteu",
+    "AdresseA": "شارع رقم 31 منطقة 3  طريق سيدي",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LAVOISIER",
+    "NOM_ETABA": "مجموعة مدارس لافوازيي",
+    "AdresseL": "LOTISSEMENT B2 & B7 BD i ENNAJ",
+    "AdresseA": "إقامة النجد ب 2 و ب 7 شارع ي ا",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN BADDIS",
+    "NOM_ETABA": "ابن باديس",
+    "AdresseL": "BOULVARD IBN BADIS",
+    "AdresseA": "شارع ابن باديس",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EXCELLENCE JUNIOR",
+    "NOM_ETABA": "اكسيلونس جنيور الخصوصية",
+    "AdresseL": "Avenue KASEM EZHIRI HAY EL MAT",
+    "AdresseA": " شارع قاسم الزهيري حي المطار ا",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achbal oum el kora 2",
+    "NOM_ETABA": "أشبال أم القرى",
+    "AdresseL": "k lot belkbir av 1",
+    "AdresseA": "1 تجزئة بلكبير شارع k ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al maarifa",
+    "NOM_ETABA": "المعرفة",
+    "AdresseL": "lot salam 1 n°760",
+    "AdresseA": "760 1تجزئة السلام  ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les arbustes",
+    "NOM_ETABA": "الشجيرات",
+    "AdresseL": "Lot hakima rue 13 n 140",
+    "AdresseA": "تجزئة حكيمة زنقة 13 رقم 140  ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "school academy ",
+    "NOM_ETABA": "سكول أكاديمية",
+    "AdresseL": "angle 32 av jabrane khalil jab",
+    "AdresseA": "زاوية 32 شارع جبران خليل جبران",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "essanabil 2",
+    "NOM_ETABA": "السنابل الخصوصي 2",
+    "AdresseL": "lot. Salsabil N° 1",
+    "AdresseA": "تجزئة سلسبيل 1",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL BREIJA SCHOOL",
+    "NOM_ETABA": "البريجة سكول",
+    "AdresseL": "49 rue sefrou",
+    "AdresseA": "49 زنقة صفرو",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL KAMAL",
+    "NOM_ETABA": "الكمال",
+    "AdresseL": "rue balistrino N5 ",
+    "AdresseA": "زنقة باليسترينو رقم 5",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire al oubour",
+    "NOM_ETABA": "مجموعة مدارس العبور",
+    "AdresseL": "lot manar zone 3 n°74",
+    "AdresseA": "تجزئة المنار المنطقة 3 الرقم 7",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jacques majorelle",
+    "NOM_ETABA": "جاك ماجوريل",
+    "AdresseL": "rue chahid rachidi  numero 46",
+    "AdresseA": "46 زنقة الشهيد الراشدي",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "mondrian",
+    "NOM_ETABA": "موندريان",
+    "AdresseL": "Résidence PaLMIERS 8, Hay EL M",
+    "AdresseA": "إقامة النخيل 8 حي المطار",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Group Scolaire Fadaa Almaarifa",
+    "NOM_ETABA": "فضاء المعرفة",
+    "AdresseL": "LOT 18 WASSAT EL JADIDA HAY EL",
+    "AdresseA": "تجزئة 18 وسط الجديدة حي المطار",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "polagora",
+    "NOM_ETABA": "بولاكورا",
+    "AdresseL": "angle av bir anzarane et av f",
+    "AdresseA": "  f زاوية شارع  بئر أنزران وشا",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISEMENT GERMINAL",
+    "NOM_ETABA": "مؤسسة جرمنال الخصوصية",
+    "AdresseL": "6 aVENUE LOT 129 CHAHID CHEFCH",
+    "AdresseA": "الرقم  6 بقعة 129 شارع الشهيد ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gestion deleguee groupe elbilie",
+    "NOM_ETABA": "التدبير المفوض لمجموعة مدارس إلبيليا الخصوصية",
+    "AdresseL": "Avenue ALLAL  AL FASSI ",
+    "AdresseA": "شارع علال الفاسي",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES MARRONNIERS",
+    "NOM_ETABA": "ليمارونيي",
+    "AdresseL": "lot al asdikaa av bethoven 16",
+    "AdresseA": "16 تجزئة الأصدقاء  شارع بتهوفن",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YASSAMINE EL JADIDA",
+    "NOM_ETABA": "ياسمين الجديدة",
+    "AdresseL": "lot ouassat el jadida lot n°37",
+    "AdresseA": "تجزئة وسط الجديدة بقعة رقم 37 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LADY MARIA",
+    "NOM_ETABA": "مؤسسة ليدي ماريا",
+    "AdresseL": "nahj rif n°225 qods",
+    "AdresseA": "الرقم 225 نهج الريف القدس",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IYAKA NASTAAINE",
+    "NOM_ETABA": "مؤسسة إياك نستعين الخصوصية",
+    "AdresseL": "najd 1 ",
+    "AdresseA": "زاوية زنقة I و H  نجد 1",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FADELAE",
+    "NOM_ETABA": "مؤسسة الفضيلة الخصوصية",
+    "AdresseL": "lot harraz n°69",
+    "AdresseA": "69 تجزئة الحراز الرقم",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole anaoma",
+    "NOM_ETABA": "مؤسسة النعومة",
+    "AdresseL": "saada 1 n°282",
+    "AdresseA": "السعادة 1 الرقم 282",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN TOUMERTE",
+    "NOM_ETABA": "مؤسسة ابن تومرت الخصوصية",
+    "AdresseL": "av ibn toumert n°6",
+    "AdresseA": "6 شارع ابن تومرت",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LE PARADIS DES PETITS JUNIORSE",
+    "NOM_ETABA": "مؤسسة لباردي دي بوتي جينوير الخصوصية",
+    "AdresseL": "lot qods n°401",
+    "AdresseA": "تجزئة القدس رقم 401",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALIBTIKARE",
+    "NOM_ETABA": "مؤسسة الابتكار الخصوصية",
+    "AdresseL": "n°1 saada 3 moultaka rue n°32 ",
+    "AdresseA": " ملتقى زنقة 32 وشارع H رقم 1 ا",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TOYOUR MONTREALE",
+    "NOM_ETABA": "مؤسسة طيور مونتريال الخصوصية",
+    "AdresseL": "rue omar ben abdelaziz hay qod",
+    "AdresseA": "128 زنقة عمر بن عبد العزيز حي ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole lili",
+    "NOM_ETABA": "مؤسسة ليلي",
+    "AdresseL": "lot toubkal 16",
+    "AdresseA": "تجزئة توبقال 16",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHEMSE AL MAARIFAE",
+    "NOM_ETABA": "مؤسسة شمس المعرفة خصوصي",
+    "AdresseL": "hay salam n°116",
+    "AdresseA": "116 حي السلام",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MHAMED EL MALAKI",
+    "NOM_ETABA": "امحمد الملكي",
+    "AdresseL": "rue el mourabitine n°15",
+    "AdresseA": "زنقة المرابطين، رقم 15",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE HAVRE",
+    "NOM_ETABA": "لوهافر",
+    "AdresseL": "lot nakhil 1",
+    "AdresseA": "تجزئة النخيل 1",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SAFDI",
+    "NOM_ETABA": "الصفدي الخصوصية",
+    "AdresseL": "hay salam v 19",
+    "AdresseA": "حي السلام  v 19",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "moubadara 2",
+    "NOM_ETABA": "المبادرة 2 الخصوصية",
+    "AdresseL": "LOT HIBA N91 ",
+    "AdresseA": "تجزئة هبة رقم 91",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al ikhlas",
+    "NOM_ETABA": "الإخلاص الخصوصية",
+    "AdresseL": "douar ghorba",
+    "AdresseA": "دوار الغربة",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "injaz",
+    "NOM_ETABA": "إنجاز الخصوصية",
+    "AdresseL": "rue n°1 lot yakout 1",
+    "AdresseA": "1 زنقة 1 نجزئة الياقوت",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT WAHATE ADDARS",
+    "NOM_ETABA": "مؤسسة واحة الدرس",
+    "AdresseL": "lot hajja yazza 2 n°40",
+    "AdresseA": "تجزئة الحاجة يزة 2 رقم 40 ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALAE CHAOUI",
+    "NOM_ETABA": "مؤسسة آلاء الشاوي",
+    "AdresseL": "hay salam n°480",
+    "AdresseA": "حي السلام الرقم 480",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL ALBAB",
+    "NOM_ETABA": "مدارس الألباب الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار ابراهيم رقم 16 الجديدة",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ERRIDA",
+    "NOM_ETABA": "مؤسسة الرضى الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة العروسي زنقة المشرك رقم ",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FADAA ANNAJAH 1",
+    "NOM_ETABA": "مؤسسة فضاء النجاح 1 الخصوصية",
+    "AdresseL": "LOTISSEMENT CENTRE D EL JADIDA",
+    "AdresseA": "1-4V-9 تجزئة وسط الجديدة رقم",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANNOBALAA",
+    "NOM_ETABA": "مؤسسة النبلاء الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المطار إقامة نهى رقم 72",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BIG HUG SCHOOL",
+    "NOM_ETABA": "بيغ هاغ سكول الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النسيم رقم 23-24",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MON ANGE",
+    "NOM_ETABA": "مو نوج الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تعاونية الأندلس شارع بئر انزرا",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES JARDINS VERTS",
+    "NOM_ETABA": "لي جاردان فير",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع بن باديس تجزئة القدس بقعة",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LA PLUMERECHA",
+    "NOM_ETABA": "مؤسسة لا بليمريشة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 123 شارع عمر بن عبد العزيز",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANNASR",
+    "NOM_ETABA": "مؤسسة النصر الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 25 تجزئة النصر",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ZAHRAT AL MOSTAKBAL",
+    "NOM_ETABA": "مؤسسة زهرات المستقبل الخصوصية",
+    "AdresseL": "CENTRE D EL JADIDA LOT D31 RES",
+    "AdresseA": "وسط الجديدة تجزئة د 31 إقامة ا",
+    "COMMUNE": "El Jadida ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

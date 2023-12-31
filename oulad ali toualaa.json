@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AMR BEN MOHAMED BEN ALI",
+    "NOM_ETABA": "الثانوية الإعدادية عمرو بن محمد بن علي",
+    "AdresseL": "COMMUNE OULED ALI TOUALAA centre",
+    "AdresseA": "جماعة أولاد علي الطوالع المركز",
+    "COMMUNE": "Oulad Ali Toualaa",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S TOUALAA CENTRE",
+    "NOM_ETABA": "م/م الطوالع المركزية",
+    "AdresseL": "CENTRE TOUALAA COMMUNE OULED ALI TOUALAA",
+    "AdresseA": "مركز الطوالع جماعة اولاد علي الطوالع",
+    "COMMUNE": "Oulad Ali Toualaa",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL INBIAAT CENTRE",
+    "NOM_ETABA": "م/م الانبعات المركزية",
+    "AdresseL": "DOUAR MAKRATE COMMUNE OULED ALI TOUALAA",
+    "AdresseA": "دوار المكرط جماعة اولاد علي الطوالع",
+    "COMMUNE": "Oulad Ali Toualaa",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

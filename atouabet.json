@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED AMINE",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد أمين",
+    "AdresseL": "centre commune etouabet",
+    "AdresseA": "مركز جماعة التوابت",
+    "COMMUNE": "Atouabet",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ROUAHLA",
+    "NOM_ETABA": "م/م الرواحلة",
+    "AdresseL": "DOUAR ROUAHLA COMMUNE ATOUABET",
+    "AdresseA": "دوار الرواحلة جماعة التوابت",
+    "COMMUNE": "Atouabet",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EL GHAREK",
+    "NOM_ETABA": "م/م الواد الغارق",
+    "AdresseL": "DOUAR  OUED ELGHAREK COM TOUABET cercle gzoula",
+    "AdresseA": "دوار الواد الغارق جماعة التوابت  دائرة جزولة",
+    "COMMUNE": "Atouabet",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BERRAKT ERRADI",
+    "NOM_ETABA": "م/م براكة الراضي",
+    "AdresseL": "BERRAKT ERRADI COMMUNE ATOUABET",
+    "AdresseA": "براكة الراضي جماعة التوابت",
+    "COMMUNE": "Atouabet",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

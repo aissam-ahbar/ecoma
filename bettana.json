@@ -1,0 +1,472 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNO ROCHD",
+    "NOM_ETABA": "الثانوية الإعدادية ابن رشد",
+    "AdresseL": "HAY MY ISMAIL COMMUNE DE BETTANA",
+    "AdresseA": "حي مولاي إسماعيل جماعة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR IBN EL KHATTAB",
+    "NOM_ETABA": " الثانوية الإعدادية عمر بن الخطاب",
+    "AdresseL": "RUE  BEN GUERIR COMMUNE DE BETTANA",
+    "AdresseA": "طريق إبن جرير بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HAMZA IBN ABDELMOUTTALEB",
+    "NOM_ETABA": " الثانوية الإعدادية حمزة بن عبد المطلب",
+    "AdresseL": "AV ALMASSIRA ALKHADRA COMMUNE DE BETTANA",
+    "AdresseA": "شارع المسيرة الخضراء جماعة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL JAHID",
+    "NOM_ETABA": "الثانوية الإعدادية الجاحظ",
+    "AdresseL": "AV ALBOUGHAZ HAY ESSALAM COMMUNE DE BETTANA",
+    "AdresseA": "شارع البوغاز حي السلام جماعة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHALID IBN EL WALID",
+    "NOM_ETABA": " الثانوية الإعدادية خالد بن الوليد",
+    "AdresseL": "HAY ESSALAM COMMUNE DE BETTANA",
+    "AdresseA": "حي السلام جماعة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM ALI",
+    "NOM_ETABA": " الثانوية الإعدادية الإمام علي",
+    "AdresseL": "HAY ESSALAM COMMUNE DE BETTANA",
+    "AdresseA": "حي السلام جماعة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MAA ALAYNAYNE",
+    "NOM_ETABA": "الثانوية الإعدادية ماء العينين",
+    "AdresseL": "HAY MOULAY ISMAIL BETTANA",
+    "AdresseA": "حي مولاي اسماعيل  - بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED AZIZ LAHBABI",
+    "NOM_ETABA": " الثانوية الإعدادية محمد عزيز الحبابي",
+    "AdresseL": "Commune BettanaHay Essalam",
+    "AdresseA": "جماعة بطانة حي السلام",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL WALI SIDI BEN ACHIR",
+    "NOM_ETABA": "مدرسة الولي سيدي بن عاشر",
+    "AdresseL": "AV MASSIRA KHADRA COMMUNE DE BETANA",
+    "AdresseA": "شارع المسيرة الخضراء بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED ABDOU",
+    "NOM_ETABA": "مدرسة محمد عبده",
+    "AdresseL": "COMMUNE DE BETANA",
+    "AdresseA": "جماعة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN KHALDOUN",
+    "NOM_ETABA": "مدرسة إبن خلدون",
+    "AdresseL": "COMMUNE DE BETTANA",
+    "AdresseA": "بطانة حي السلام",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED BEN ABDENBI",
+    "NOM_ETABA": "مدرسة أحمد بنعبد النبي",
+    "AdresseL": "AV LMASSIRA LKHADRA COMMUNE DE BETTANA",
+    "AdresseA": "شارع المسيرة الخضراء - بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN TOFAIL",
+    "NOM_ETABA": "مدرسة ابن طفيل",
+    "AdresseL": "AV ARIANA HAY ESSALAM COMMUNE DE BETTANA",
+    "AdresseA": "شارع أريانة حي السلام",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN HAZM",
+    "NOM_ETABA": "مدرسة ابن حزم",
+    "AdresseL": "AVENUE ALMILAHA SECTEUR 6 HAY ESSALAM",
+    "AdresseA": "شارع الملاحة قطاع 6 - حي السلام",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM TABARI",
+    "NOM_ETABA": "مدرسة الامام الطبري",
+    "AdresseL": "HAY MY ISMAIL COMMUNE DE BETTANA",
+    "AdresseA": "حي مولاي اسماعيل",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOUFTI  ABOUBAKER ZNIBER",
+    "NOM_ETABA": "مدرسة المفتي أبو بكر زنيبر",
+    "AdresseL": "HAY ESSALAM COMMUNE DE BETTANA",
+    "AdresseA": "حي السلام جماعة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED EZZIRAOUI",
+    "NOM_ETABA": "مدرسة محمد الزيراوي",
+    "AdresseL": "HAY MY ISMAIL  COMMUNE DE BETTANA",
+    "AdresseA": "حي مولاي اسماعيل  - بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY ESSALAM",
+    "NOM_ETABA": "مدرسة حي السلام",
+    "AdresseL": "secteur 11 Extention Hay Essalam  Sale",
+    "AdresseA": "سكتور 11 إضافي - حي السلام - سلا",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED EL KASSIMI",
+    "NOM_ETABA": "مدرسة محمد القاسمي",
+    "AdresseL": "Commune Bettana",
+    "AdresseA": "جماعة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Selmane Al-Farissi",
+    "NOM_ETABA": "الثانوية التأهيلية سلمان الفارسي  ",
+    "AdresseL": "AV ALMASSIRA ALKHADRA COMMUNE DE BETTANA",
+    "AdresseA": "شارع المسيرة الخضراء جماعة بطانة",
+    "COMMUNE": "Bettana ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FAKIH MOHAMED EL MRINI",
+    "NOM_ETABA": " الثانوية التأهيلية الفقيه  محمد المريني",
+    "AdresseL": "HAY ESSALAM COMMUNE DE BETTANA",
+    "AdresseA": "حي السلام جماعة بطانة",
+    "COMMUNE": "Bettana ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAFKIH MOHAMMED BEN ABI BAKR TITO",
+    "NOM_ETABA": "الثانوية التأهيلية الفقيه محمد بن أبي بكر التطواني",
+    "AdresseL": "AV SAKIA HAMRA COMMUNE DE BETTANA HAY ESSALAM",
+    "AdresseA": " شارع الساقية الحمراء جماعة بطانة - حي السلام",
+    "COMMUNE": "Bettana ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY TAYEB ALAOUI",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي الطيب العلوي",
+    "AdresseL": "COMMUNE DE BETTANA",
+    "AdresseA": "جماعة بطانة",
+    "COMMUNE": "Bettana ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED BEL HASSAN EL OUAZZANI",
+    "NOM_ETABA": " الثانوية التأهيلية محمد بن الحسن الوزاني",
+    "AdresseL": "HAY MOULAY  ISMAIL ",
+    "AdresseA": "حي مولاي إسماعيل",
+    "COMMUNE": "Bettana ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LE JARDIN DE LA PAIX",
+    "NOM_ETABA": "حديقة السلام الخصوصية",
+    "AdresseL": "n1642 secteur 12 hay essalam",
+    "AdresseA": "رقم 1642 سكتور 12 حي السلام ",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HIBA ERRACHAD NINOSMILE",
+    "NOM_ETABA": "هبة الرشاد نينيوسمايل",
+    "AdresseL": "n112 secteur 1 avenue chouhada",
+    "AdresseA": "رقم 112 سكتور 1 شارع الشهداء ح",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COLLEGE NOUR ALGHAD",
+    "NOM_ETABA": "إعدادية نور الغد الخصوصية",
+    "AdresseL": "secteur 8 n 992 hay essalam",
+    "AdresseA": "سكتور 8 رقم 992 حي السلام ",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AL AMANA SALE",
+    "NOM_ETABA": "اعدادية الأمانة سلا الخصوصية",
+    "AdresseL": "secteur 9 hay essalam ",
+    "AdresseA": "قطاع 6 حي السلام الطابق الأرضي",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL AMANA SALE",
+    "NOM_ETABA": "ثانوية الأمانة سلا الخصوصية",
+    "AdresseL": "seceur hay essalm ",
+    "AdresseA": "قطاع حي السلام الطابق الثاني",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUSTANE AL FIRDAOUSS",
+    "NOM_ETABA": "بستان الفردوس الخاصة",
+    "AdresseL": "hay essalm idafi bloc 11 n 447",
+    "AdresseA": "حي السلام الإضافي بلوك 11 رقم ",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT EL HARTI",
+    "NOM_ETABA": "معهد الحارثي",
+    "AdresseL": "LOT AMAR IMM 2 N 15 BETTANA",
+    "AdresseA": "تجزئة عمار 2 رقم 15 بطانة الطا",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIDA AMINE",
+    "NOM_ETABA": "رضا أمين",
+    "AdresseL": "N 617 HAY MOULAY ISMAIL SECTEU",
+    "AdresseA": "رقم 617 حي مولاي اسماعيل سكتور",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA LUMIERE DES ANGES",
+    "NOM_ETABA": "لاليميير دي أونج",
+    "AdresseL": "N 750 AVENUE ANDALUS SECTEUR 3",
+    "AdresseA": "رقم 750 شارع الأندلس قطاع 3 ال",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FULLA",
+    "NOM_ETABA": "فلة",
+    "AdresseL": "RUE EL ROOUAD BETTANA 19",
+    "AdresseA": "19 زنقة الرويض بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA CLEF DE L AVENIR",
+    "NOM_ETABA": "مفتاح المستقبل",
+    "AdresseL": "lot miftah saada BLOCK 19 BETT",
+    "AdresseA": "تجزئة مفتاح السعادة بلوك19",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANDALUS",
+    "NOM_ETABA": "الأندلس",
+    "AdresseL": "villa n 22 hay essalam",
+    "AdresseA": "فيلا رقم22 حي السلام",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ASSAFOUA SALE",
+    "NOM_ETABA": "إعدادية الصفوة سلا الخصوصية",
+    "AdresseL": "avenue allal fassi secteur 5 h",
+    "AdresseA": "شارع علال الفاسي قطاع 5 حي الس",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE EDUCATIF ALLAL AOUAD",
+    "NOM_ETABA": "المجمع التربوي علال عواد الخاص",
+    "AdresseL": "av madyouna bettana",
+    "AdresseA": "شارع مديونة بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMANA",
+    "NOM_ETABA": "اللأمانة",
+    "AdresseL": "Secteur 6 Hay Salam B.P. 1594 ",
+    "AdresseA": "سكتور 6 حي السلام - بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL WAFAَA  AHMED MOUTEA",
+    "NOM_ETABA": "معهد الوفاء أحمد مطيع",
+    "AdresseL": "Lotissement Riad - Bettana N° ",
+    "AdresseA": "63/64/65/66 تجزئة الرياض - بطا",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KADISSIA",
+    "NOM_ETABA": "القادسية",
+    "AdresseL": "Villa Saada Secteur 1 Hay Sala",
+    "AdresseA": "فيلا السعادة سكتور 1 حي السلام",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHIYAM",
+    "NOM_ETABA": "الخيام",
+    "AdresseL": "HAY ESSALAM Rue Mokhtar Soussi",
+    "AdresseA": "حي السلام زنقة المختار السوسي ",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IKHLAS",
+    "NOM_ETABA": "الإخلاص",
+    "AdresseL": "N° 1002 Rue de Marrakech Hay S",
+    "AdresseA": "رقم 1002 طريق مراكش حي السلام ",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ASSAFOUA SALE",
+    "NOM_ETABA": "ثانوية الصفوة سلا الخصوصية",
+    "AdresseL": "Boulevard Allal Al Fassi Hay S",
+    "AdresseA": "شارع علال الفاسي حي السلام - ب",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSAFAE",
+    "NOM_ETABA": "الصفاء",
+    "AdresseL": "Boulevard Achouhada Hay Salam ",
+    "AdresseA": "شارع الشهداء حي السلام - بطانة",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IDEN SCHOOL",
+    "NOM_ETABA": "ايدن سكول",
+    "AdresseL": "rue alsanabil villa 211 secteu",
+    "AdresseA": "زنقة السنابل فيلا 211 سكتور 1 ",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL AMANA HAY MOULAY ISMAIL",
+    "NOM_ETABA": "معهد الأمانة حي مولاي إسماعيل",
+    "AdresseL": "Hay  moulay ismail-  C.U. Bett",
+    "AdresseA": "قطاع 2 حي مولاي إسماعيل",
+    "COMMUNE": "Bettana",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

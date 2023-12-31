@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZAOUIAT AHANSAL",
+    "NOM_ETABA": "ثانوية زاوية احنصال الاعدادية",
+    "AdresseL": "CENTRE COM ZAOUIAT AHANSAL",
+    "AdresseA": "مركز جماعة زاوية احنصال",
+    "COMMUNE": "Zaouiat Ahansal",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE ZAOUIT AHNSAL",
+    "NOM_ETABA": "مركزية زاوية احنصال",
+    "AdresseL": "ZAOUIAt aHANSAL CENTRE",
+    "AdresseA": "مركز زاوية احنصال",
+    "COMMUNE": "Zaouiat Ahansal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIGHANIMIN  ",
+    "NOM_ETABA": "مركزية تيغانمين",
+    "AdresseL": "DOUAR TIGHANIMIN",
+    "AdresseA": "دوار تيغانمين ",
+    "COMMUNE": "Zaouiat Ahansal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIGHIGHIT ZNATI",
+    "NOM_ETABA": "مركزية تغيغيت زناتي",
+    "AdresseL": "DOUAR TIGHIGHIT ZNATI ",
+    "AdresseA": "دوار تغيغيت زناتي",
+    "COMMUNE": "Zaouiat Ahansal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE BOUKHADEL",
+    "NOM_ETABA": " مركزية بوخادل",
+    "AdresseL": "DOUAR BOUKHADEL",
+    "AdresseA": "دوار بوخادل ",
+    "COMMUNE": "Zaouiat Ahansal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

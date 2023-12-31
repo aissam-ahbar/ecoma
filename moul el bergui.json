@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OTHMANE IBN AFFANE",
+    "NOM_ETABA": "الثانوية الإعدادية عثمان بن عفان",
+    "AdresseL": "MOUL EL BARGUI COMMUNE MOUL EL BARGUI",
+    "AdresseA": "مول البركي  - المركز",
+    "COMMUNE": "Moul El Bergui",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOUL EL BERGUI",
+    "NOM_ETABA": "م/م مول البركي",
+    "AdresseL": "MOUL EL BARGUI  COMMUNE MOUL EL BARGUI",
+    "AdresseA": "مول البركي  جماعة مول البركي",
+    "COMMUNE": "Moul El Bergui",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAAALA",
+    "NOM_ETABA": "م/م الشعاعلة",
+    "AdresseL": "DOUAR ECHAALA COMMUNE MOUL EL BERGUI SAFI",
+    "AdresseA": "دوار الشعاعلة  جماعة مول البركي آسفي",
+    "COMMUNE": "Moul El Bergui",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LAGHZAOUNA",
+    "NOM_ETABA": " م/م الغزاونة",
+    "AdresseL": "DOUAR LAGHZAOUNA COMMUNE MOUL EL BERGUI",
+    "AdresseA": "دوار الغزاونة  جماعة مول البركي",
+    "COMMUNE": "Moul El Bergui",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU LHAITAM",
+    "NOM_ETABA": "م/م ابن الهيثم",
+    "AdresseL": "DOUAR EL IDARSSA COMMUNE MOUL EL BERGUI",
+    "AdresseA": "دوار الادارسة جماعة مول البركي",
+    "COMMUNE": "Moul El Bergui",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

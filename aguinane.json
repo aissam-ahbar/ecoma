@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S/S AGUINANE",
+    "NOM_ETABA": "م/م اكينان",
+    "AdresseL": "DOUAR AGUINANE  TATA",
+    "AdresseA": "دوار اكينان طاطا",
+    "COMMUNE": "Aguinane",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S EL AINE",
+    "NOM_ETABA": "م/م العين",
+    "AdresseL": "DOUAR EL AINE COMMUNE AGUINANE  ",
+    "AdresseA": "دوار العين جماعة أكينان ",
+    "COMMUNE": "Aguinane",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS ALMAJD CENTRE TIMJADE",
+    "NOM_ETABA": "م.م المجد مركزية تيمجاض",
+    "AdresseL": "DOUAR TIMJADE",
+    "AdresseA": "دوار تيمجاض",
+    "COMMUNE": "Sidi Bouabdelli",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABO HASSOUN ESSAMLALI CENTRE TAFRAOUT AIT DAOUD",
+    "NOM_ETABA": "م.م ابو حسون السملالي مركزية تافراوت ايت داود",
+    "AdresseL": "DOUAR TAFRAOUT AIT DAOUD SIDI BOU ABDELLI",
+    "AdresseA": "دوار تافراوت ايت داود سيدي بوعبدلي",
+    "COMMUNE": "Sidi Bouabdelli",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALKARM CENTRE AGHMMOUR",
+    "NOM_ETABA": "م.م الكرم مركزية اغمور",
+    "AdresseL": "DOUAR AGHMMOUR",
+    "AdresseA": "دوار اغمور",
+    "COMMUNE": "Sidi Bouabdelli",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL BENABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية علال بن عبد الله",
+    "AdresseL": "TAOURIRT route oujda",
+    "AdresseA": "تاوريرت طريق وجدة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BADR",
+    "NOM_ETABA": "الثانوية الإعدادية بدر",
+    "AdresseL": "ROUTE DE DEBDOU",
+    "AdresseA": "طريق دبدو",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED ZA",
+    "NOM_ETABA": "الثانوية الإعدادية واد زا",
+    "AdresseL": "BOULEVARD ALLAL BEN ABDELLAH",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN SYNA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن سينا",
+    "AdresseL": "LOTISSEMENT EL Mokhtar soussi",
+    "AdresseA": "تجزئة المختارالسوسي",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKHALEK TORRES",
+    "NOM_ETABA": "الثانوية الإعدادية عبدالخالق الطريس",
+    "AdresseL": "Lotissement alouahda",
+    "AdresseA": "تجزئة الوحدة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lyceE collegial eSSALAM",
+    "NOM_ETABA": "الثانوية الإعدادية السلام",
+    "AdresseL": "Hay rahma",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLEGIAL HOMMANE EL FATOUAKI",
+    "NOM_ETABA": "الثانوية الإعدادية حمان الفطواكي",
+    "AdresseL": "HAY MOUJNIBA TAOURIRT",
+    "AdresseA": "حي موجنيبة تاوريرت",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  MOHAMMED VI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد السادس",
+    "AdresseL": "Taourirt Centre",
+    "AdresseA": "تاوريرت المدينة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "مدرسة علال بن عبد الله",
+    "AdresseL": "BOULEVARD ALLAL BEN ABDELLAH",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL OUAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "LOTISSEMENT EL MASSIRA ",
+    "AdresseA": "تجزئة المسيرة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRAZI",
+    "NOM_ETABA": "الرازي",
+    "AdresseL": "RUE BOUJDOUR HAY jdid",
+    "AdresseA": "زنقة بوجدور",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IRFANE",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "AVENUE ALLAL EL FASSI",
+    "AdresseA": "شارع علال الفاسي",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "المسيرة الخضراء",
+    "AdresseL": "HAY ELMASSIRA",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUJDOUR",
+    "NOM_ETABA": "بوجدور",
+    "AdresseL": "LOTISSEMENT EL MASSIRA",
+    "AdresseA": "تجزئة المسيرة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "HAY TAKADDOUM",
+    "AdresseA": "حي التقدم",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "HAY CHOUHADA ROUTE DEBDOU",
+    "AdresseA": "حي الشهداء شارع مولاي عبد الله طريق دبدو",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "20 AOUT",
+    "NOM_ETABA": "20 غشت",
+    "AdresseL": "HAY TAKADDOUM",
+    "AdresseA": "حي التقدم",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ANDALIB",
+    "NOM_ETABA": "العندليب",
+    "AdresseL": "HAY ENNAHDA",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM MOUSLIM",
+    "NOM_ETABA": "الامام مسلم",
+    "AdresseL": "lotissement annasr - lakrarma",
+    "AdresseA": "تجزئة النصر لكرارمة ",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU AL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "quartier mokhtar soussi",
+    "AdresseA": "حي المختار السوسي - تاوريرت",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAKADDOUM",
+    "NOM_ETABA": "التقدم",
+    "AdresseL": "Quartier takaddoum",
+    "AdresseA": "حي التقدم",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED BEN HACHMI",
+    "NOM_ETABA": "محمد بن الهاشمي",
+    "AdresseL": "HAY MOUJNIBA",
+    "AdresseA": "حي موجنيبة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM AL GHAZALI",
+    "NOM_ETABA": "الإمام الغزالي",
+    "AdresseL": "hay almoukhtar assousi",
+    "AdresseA": "حي المختار السوسي",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الامل",
+    "AdresseL": "HAY   LAMHARIG     TAOURIRT",
+    "AdresseA": "حي المحاريك    تاوريرت",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ALI CHARIF",
+    "NOM_ETABA": "مولاي علي الشريف",
+    "AdresseL": "Hay assalam",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "HAY LAMHARIG TAOURIRT",
+    "AdresseA": "حي لمحاريك تاوريرت",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ROUCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "Lotissement El Qods",
+    "AdresseA": "تجزئة القدس",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNASSIM1",
+    "NOM_ETABA": "النسيم1",
+    "AdresseL": "LOTISSEMENT ENNASSIM",
+    "AdresseA": "تجزئة النسيم",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE PRINCE MOULAY EL HASSAN",
+    "NOM_ETABA": "مدرسة ولي العهد الأمير مولاي الحسن",
+    "AdresseL": "Lot My Ali Cherif extension 2",
+    "AdresseA": "تجزئة مولاي علي الشريف (تمديد 2))",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MARINIYINNE",
+    "NOM_ETABA": "الثانوية التاهيلية المرينيين",
+    "AdresseL": "LOT NASSIME TAOURIRT",
+    "AdresseA": " تجزئة النسيم تاوريرت",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL FATH",
+    "NOM_ETABA": "الثانوية التأهيلية الفتح",
+    "AdresseL": "HAY EL PAM",
+    "AdresseA": "حي البام",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SALAH EDDINE EL AYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الايوبي",
+    "AdresseL": "ROUTE DE DEBDOU",
+    "AdresseA": "طريق دبدو",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MAGHREB AL ARABI",
+    "NOM_ETABA": "الثانوية التأهيلية المغرب العربي",
+    "AdresseL": "RUE DU MAGHREB ARABI",
+    "AdresseA": "طريق المغرب العربي",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد",
+    "AdresseL": "754 RUE DAKHLA HAY TAKADDOUM TAOURIRT",
+    "AdresseA": "تجزئة النسيم",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABD ELAZIZ MAZIANE BELFQIH",
+    "NOM_ETABA": "ثانوية عبد العزيز مزيان بلفقيه",
+    "AdresseL": "Lotissement el massira",
+    "AdresseA": "تجزئة المسيرة",
+    "COMMUNE": "Taourirt",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "el manahil 01",
+    "NOM_ETABA": "المناهل 01",
+    "AdresseL": "",
+    "AdresseA": "حي المحاريك 03 زنقة 01",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL MANAHIL 03",
+    "NOM_ETABA": "المناهل 03",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المحاريك",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL MANAHIL 02",
+    "NOM_ETABA": "المناهل 02",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المحاريك 3 الرقم 12",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KATTER NADA",
+    "NOM_ETABA": "قطر الندى",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 325 تجزئة القدس تاوريرت",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rissalat  el nouha",
+    "NOM_ETABA": "رسالة النهى",
+    "AdresseL": "angle rue hansali et bd des fa",
+    "AdresseA": "تقاطق شارع الجيش الملكي وزنقة ",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "toyour jannat al- oloum",
+    "NOM_ETABA": "طيور جنة العلوم للتعليم المدرسي الخصوصي",
+    "AdresseL": "Hay PAM .LOT N263",
+    "AdresseA": "حي الشهداء رقم 263",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAYMOUN 2",
+    "NOM_ETABA": "الليمون2",
+    "AdresseL": "401 Hay Ennahda taourirt",
+    "AdresseA": "401 حي النهضة ",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El manahil",
+    "NOM_ETABA": "المناهل",
+    "AdresseL": "N°629 Rue El wahda Lotissement",
+    "AdresseA": " رقم 629 زنقة الوحدة تجزئة الم",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sindibad",
+    "NOM_ETABA": "السندباد",
+    "AdresseL": "Rue sefrou, n° 1387, Nouveau q",
+    "AdresseA": " زنقة صفرو ، رقم 1387 ،الحي ال",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Baraime",
+    "NOM_ETABA": "البراعم",
+    "AdresseL": " hay mly ali chrif n° 29",
+    "AdresseA": "حي  - ج.ح. تاوريرت",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "diae alouloum",
+    "NOM_ETABA": "ضياء العلوم",
+    "AdresseL": "N° 271 LOTS ENNASER TAOURIRT",
+    "AdresseA": "تجزئة النصر الرقم 271 تاوريرت",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "l andalous",
+    "NOM_ETABA": "الاندلس",
+    "AdresseL": "LOT NASSIM 1 N 223 TAOURIRT",
+    "AdresseA": "تجزئة النسيم 223 تاوريرت",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "eL MiCHAAL",
+    "NOM_ETABA": "المشعل",
+    "AdresseL": "41 lotissement widad",
+    "AdresseA": "تجزئة وداد رقم 41",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAYMOUN3",
+    "NOM_ETABA": "الليمون3",
+    "AdresseL": "zaouiat boulevard zrektouni et",
+    "AdresseA": "   زاوية شارع الزرقطوني و زنقة",
+    "COMMUNE": "Taourirt ",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

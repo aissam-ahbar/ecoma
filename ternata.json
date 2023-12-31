@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "SS ELOUAHA",
+    "NOM_ETABA": "م.م الواحة",
+    "AdresseL": "S S EL OUAHA C TERNATA",
+    "AdresseA": "م.م الواحة جماعة ترناتة",
+    "COMMUNE": "Ternata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZLAG",
+    "NOM_ETABA": "م.م أزلاك",
+    "AdresseL": "DOUAR LAMKATRA C R TERNATA",
+    "AdresseA": "المكاثرة",
+    "COMMUNE": "Ternata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELARROUMIATE",
+    "NOM_ETABA": "م.م العروميات",
+    "AdresseL": "DOUAR LAAROUMIATE Commune TERNATA province zagora",
+    "AdresseA": "دوار العروميات جماعة ترناتة إقليم زاكورة",
+    "COMMUNE": "Ternata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL FAIJA  LAMGHADER ",
+    "NOM_ETABA": "م.م الفايجة  لمغادر المركزية",
+    "AdresseL": "DOUAR LAMGHADER CTERNATA",
+    "AdresseA": "لمغادر",
+    "COMMUNE": "Ternata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALQODS",
+    "NOM_ETABA": "مدرسة القدس",
+    "AdresseL": "DOUAR ELAAROUMIYATE",
+    "AdresseA": "دوار العروميات",
+    "COMMUNE": "Ternata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  TARNATA",
+    "NOM_ETABA": "الثانوية الثأهيلية ترناتة",
+    "AdresseL": "DOUAR tisrgat",
+    "AdresseA": "تسركات",
+    "COMMUNE": "Ternata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

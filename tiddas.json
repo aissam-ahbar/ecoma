@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "IDRISS 1",
+    "NOM_ETABA": "ادريس للاول",
+    "AdresseL": "CENTRE TIDDAS",
+    "AdresseA": "تيداس المركز",
+    "COMMUNE": "Tiddas",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED EL KAMEL",
+    "NOM_ETABA": "محمد الكامل",
+    "AdresseL": "hay lagare TIDDAS centre  -khemisset",
+    "AdresseA": "حي لاكار تيداس المركز -الخميسات",
+    "COMMUNE": "Tiddas",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "18-nov.",
+    "NOM_ETABA": "18 نونبر",
+    "AdresseL": "DOUAR AIT BOUHOU COMMUNE TIDDAS",
+    "AdresseA": "دوار ايت بوهو ج تيداس",
+    "COMMUNE": "Tiddas",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT YAHYA LHARCHA",
+    "NOM_ETABA": "ايت يحيى الحرشة",
+    "AdresseL": "DOUAR AIT YAHYA LHARCHA COMMUNE TIDDAS",
+    "AdresseA": "آيت يحيى الحرشة /جماعة تيداس",
+    "COMMUNE": "Tiddas",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BOUMAKSA",
+    "NOM_ETABA": "ايت بومكسى",
+    "AdresseL": "DOUAR AIT BOUMAKSA COMMUNE TIDDAS",
+    "AdresseA": "د ايت بومكسى ج تيداس",
+    "COMMUNE": "Tiddas",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BANI ZOULIT",
+    "NOM_ETABA": "بني زوليت",
+    "AdresseL": "DOUAR BANI ZOULIT COMMUNE TIDDAS",
+    "AdresseA": "د بني زوليت ج تيداس",
+    "COMMUNE": "Tiddas",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELMAKEK SAADI",
+    "NOM_ETABA": "عبد المالك السعدي",
+    "AdresseL": "Douar Ait Yahya al harcha",
+    "AdresseA": "دوار آيت يحيى الحرشة ",
+    "COMMUNE": "Tiddas",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "PRINCE MOULAY RACHID",
+    "NOM_ETABA": "الامير مولاي رشيد",
+    "AdresseL": "CENTRE TIDDAS COMMUNE TIDDAS",
+    "AdresseA": "تيداس المركز",
+    "COMMUNE": "Tiddas",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

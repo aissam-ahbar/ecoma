@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "EZZBIRATE CENTRE",
+    "NOM_ETABA": "مركزية الزبيرات",
+    "AdresseL": "DOUAR EZZBIRATE COMMUNE OULAD SEBBAH",
+    "AdresseA": "دوار الزبيرات اولاد صباح",
+    "COMMUNE": "Ouled Cebbah",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ETTBIB CENTRE",
+    "NOM_ETABA": "مركزية اولاد الطبيب",
+    "AdresseL": "douar oulad mhamed bensliman",
+    "AdresseA": "دوار اولاد محمد بنسليمان",
+    "COMMUNE": "Ouled Cebbah",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

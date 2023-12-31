@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S/S AIT IDDIR",
+    "NOM_ETABA": "م/م ايت ادير ",
+    "AdresseL": "DOUAR  AGEROUJ SIDI AHMED ESSAYEH",
+    "AdresseA": "دوار أكروج سيدي احمد السايح",
+    "COMMUNE": "Sidi Ahmed Essayeh",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S SIDI AAMER",
+    "NOM_ETABA": "م/م سيدي عمر",
+    "AdresseL": "DOUAR SIDI AAMAR SIDI AHMED ESSAYEH",
+    "AdresseA": "دوار سيدي عمرو جماعة سيدي أحمد السايح سميمو",
+    "COMMUNE": "Sidi Ahmed Essayeh",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TABOULAAOUANT",
+    "NOM_ETABA": "م م تابولعوانت",
+    "AdresseL": "DOUAR TABOULAAOUANT SIDI AHMED ESSAYEH",
+    "AdresseA": "دوار تبولعوانت جماعة سيدي احمد السايح",
+    "COMMUNE": "Sidi Ahmed Essayeh",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

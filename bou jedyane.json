@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "HASSAN II CENTRE AMGADI",
+    "NOM_ETABA": "الحسن الثاني المركز [ أمكادي]",
+    "AdresseL": "DOUAR MGADI COMMUNE BOU JEDYANE",
+    "AdresseA": "دوار أمكادي جماعة بوجديان",
+    "COMMUNE": "Bou Jedyane",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM MALEK CENTRE ZAHJOUKA",
+    "NOM_ETABA": "م/م الإمام مالك المركز",
+    "AdresseL": "DOUAR ZAHJOUKA COMMUNE BOU JEDYANE CDT TATOFT",
+    "AdresseA": "دوار زهجوكة جماعة بوجديان قيادة تطفت دائرة اللوكوس",
+    "COMMUNE": "Bou Jedyane",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAZIB SEFLI CENTRE",
+    "NOM_ETABA": "العزيب السفلي المركز",
+    "AdresseL": "DOUAR LAAZIB SEFLI COMMUNE BOU JEDYANE",
+    "AdresseA": "دوار العزيب السفلي جماعة بوجديان",
+    "COMMUNE": "Bou Jedyane",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR DOUAR CENTRE",
+    "NOM_ETABA": "بئر الدوار المركز",
+    "AdresseL": "DOUAR BIR DOUAR COMMUNE BOUJEDIANE",
+    "AdresseA": "  دوار بير الدوار جماعة بوجديان قيادة تطفت",
+    "COMMUNE": "Bou Jedyane",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUSSEFRA CENTRE",
+    "NOM_ETABA": "م/م سيدي بوصفرة",
+    "AdresseL": "DOUAR SIDI BOUSSEFRA COMMUNE BOUJEDYANE",
+    "AdresseA": "دوار سيدي بوصفرة جماعة بوجديان",
+    "COMMUNE": "Bou Jedyane",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

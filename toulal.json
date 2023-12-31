@@ -1,0 +1,142 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial IBN HAMDOUNE KERTILI",
+    "NOM_ETABA": "الثانوية الإعدادية إبن حمدون الكرتيلي",
+    "AdresseL": "TOULAL COMMUNE TOULAL",
+    "AdresseA": "تولال",
+    "COMMUNE": "Toulal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL HAFID BEN HAJAR",
+    "NOM_ETABA": "الحافظ بن حجر",
+    "AdresseL": "RUE N 1 COMMUNE TOULAL",
+    "AdresseA": "  زنقة 1  تولال ",
+    "COMMUNE": "Toulal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TOULAL",
+    "NOM_ETABA": "مدرسة تولال",
+    "AdresseL": "TOULAL COMMUNE TOULAL",
+    "AdresseA": "تولال",
+    "COMMUNE": "Toulal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL OUAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "RUE N 1 LAHROUCH COMMUNE TOULAL",
+    "AdresseA": "تولال",
+    "COMMUNE": "Toulal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RIAD TOULAL",
+    "NOM_ETABA": "رياض تولال",
+    "AdresseL": "RIAD TOULAL COMMUNE DE TOULAL",
+    "AdresseA": "رياض تولال جماعة تولال",
+    "COMMUNE": "Toulal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant TOULAL",
+    "NOM_ETABA": "الثانوية التأهيلية تولال",
+    "AdresseL": "quartier toulal",
+    "AdresseA": "حي تولال",
+    "COMMUNE": "Toulal",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL AFAK",
+    "NOM_ETABA": "الأفاق",
+    "AdresseL": "80 - LOT EL FATH -TOULAL",
+    "AdresseA": "رقم 80 - تجزئة الفتح - تولال",
+    "COMMUNE": "Toulal ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RIAD TOULAL",
+    "NOM_ETABA": "مؤسسة رياض تولال",
+    "AdresseL": "N°17 lot hiba toulal",
+    "AdresseA": "رقم 17 تجزئة هبة تولال",
+    "COMMUNE": "Toulal ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE RIHAB TAKOUINE",
+    "NOM_ETABA": "مجموعة مدارس رحاب التكوين",
+    "AdresseL": "42, lot badr el kheir 1 - riad",
+    "AdresseA": "بدر الخير رقم 42 رياض تولال",
+    "COMMUNE": "Toulal ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire lahcen des sciences",
+    "NOM_ETABA": "مجموعة مدارس لحسن  دي سيونس",
+    "AdresseL": "QUARTIER LAHROUCHE TOULAL",
+    "AdresseA": "حي لحروش تولال مكناس",
+    "COMMUNE": "Toulal ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PRIMARY SCHOOL",
+    "NOM_ETABA": "بريماري سكول",
+    "AdresseL": "",
+    "AdresseA": "رياض تولال 1الرقم 321",
+    "COMMUNE": "Toulal ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PORTAIL DU SAVOIR",
+    "NOM_ETABA": "لوبورطاي دو صافوار",
+    "AdresseL": "riad toulal 2 nr 116i",
+    "AdresseA": "  i116 رياض تولال 2  رقم ",
+    "COMMUNE": "Toulal ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD AL MAARIF",
+    "NOM_ETABA": "رياض المعارف",
+    "AdresseL": "RIAD TOULAL 1 N°121",
+    "AdresseA": "الرقم 121 رياض تولال 1",
+    "COMMUNE": "Toulal ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE PASTEUR ET LA FONTAINE",
+    "NOM_ETABA": "مؤسسة باستور إلافونطين ",
+    "AdresseL": "N° 584 LOT RIAD TOULAL II",
+    "AdresseA": "الرقم 584 تجزئة رياض تولال 2",
+    "COMMUNE": "Toulal ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

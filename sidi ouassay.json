@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "E ENSEINGNEMENT ORIGINEL",
+    "NOM_ETABA": "م. التعليم الأصيل",
+    "AdresseL": "SIDI OUASSAY",
+    "AdresseA": "مركز سوق ثلاثاء ماسة",
+    "COMMUNE": "Sidi Ouassay",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUED MASSA",
+    "NOM_ETABA": "م.م وادي ماسة",
+    "AdresseL": "DOUAR tigmmi lejdid COMMUNE de sidi wassay MASSA",
+    "AdresseA": "حي تكمي الجديد جماعة سيدي وساي ماسة",
+    "COMMUNE": "Sidi Ouassay",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS RIBAT MASSA",
+    "NOM_ETABA": "م.م  رباط ماسة",
+    "AdresseL": "DOUAR AGHBALOU COMMUNE MASSA",
+    "AdresseA": "مركز أغبالو ماسة",
+    "COMMUNE": "Sidi Ouassay",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL ARBI AL BANAI",
+    "NOM_ETABA": "ثأ. العربي  البناي",
+    "AdresseL": " HAY LHARCH  AGHBALOU  SIDI WASSAY",
+    "AdresseA": "حي الحرش أغبالو سيدي وساي",
+    "COMMUNE": "Sidi Ouassay",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

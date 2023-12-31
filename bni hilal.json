@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL EL BAROUDI",
+    "NOM_ETABA": "ثانوية البارودي الإعدادية",
+    "AdresseL": "CENTRE  COMMUNE BNI HILAL",
+    "AdresseA": "مركز جماعة بني هلال",
+    "COMMUNE": "Bni Hilal",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BNI HLAL",
+    "NOM_ETABA": "بني هلال",
+    "AdresseL": "SOUK BNI HLAL COMMUNE BNI HILAL",
+    "AdresseA": "سوق بني هلال ج بني هلال",
+    "COMMUNE": "Bni Hilal",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHRARID",
+    "NOM_ETABA": "الشراريد",
+    "AdresseL": "DOUAR CHRARID COMMUNE BNI HILAL",
+    "AdresseA": "دوار الشراريد جماعة بني هلال",
+    "COMMUNE": "Bni Hilal",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZYAYNA",
+    "NOM_ETABA": "الزياينة",
+    "AdresseL": "DOUAR OULED ZID COMMUNE BNI HILAL",
+    "AdresseA": "دوار أولاد زيد ج بني هلال",
+    "COMMUNE": "Bni Hilal",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOUAAMA",
+    "NOM_ETABA": "النواعمة",
+    "AdresseL": "DOUAR NOUAAMA COMMUNE BNI HILAL",
+    "AdresseA": "دوار النواعمة جماعة بني هلال",
+    "COMMUNE": "Bni Hilal",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BNI HILAL",
+    "NOM_ETABA": "الثانوية التأهيلية بني هلال",
+    "AdresseL": "Commune Bni Hilal",
+    "AdresseA": "جماعة بني هلال",
+    "COMMUNE": "Bni Hilal",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

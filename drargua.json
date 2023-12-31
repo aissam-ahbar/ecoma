@@ -1,0 +1,312 @@
+[
+  {
+    "NOM_ETABL": "LC TAGADIRT NAABADOU",
+    "NOM_ETABA": "ثانوية تكاديرت نعبادو الإعدادية",
+    "AdresseL": "DOUAR  TAGADIRT NAABADOU  COMMUNE DRARGA",
+    "AdresseA": "دوار تكاديرت نعبادو جماعة الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC ALI IBN ABI TALEB",
+    "NOM_ETABA": "ثانوية علي بن أبي طالب الإعدادية",
+    "AdresseL": "DOUAR  TAMAIT IZDER       COMMUNE DRARGA",
+    "AdresseA": "دوار تمعيت ازدار  جماعة الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC LAGOUIRA",
+    "NOM_ETABA": "ثانوية الكويرة الإعدادية",
+    "AdresseL": "DOUAR  LAGOUIRA          COMMUNE  DRARGA",
+    "AdresseA": "دوار الكويرة  جماعة الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC SIDI YAHYA",
+    "NOM_ETABA": "ثانوية سيدي يحيى الإعدادية",
+    "AdresseL": "DRARGA",
+    "AdresseA": "الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC ALMAWAHIB",
+    "NOM_ETABA": "ثانوية المواهب الإعدادية",
+    "AdresseL": "HAY MSguINA  DRARGA",
+    "AdresseA": "تجزئة مسكينة الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E AL IMAM  CHAFII",
+    "NOM_ETABA": "م.الإمـام الشافعــي",
+    "AdresseL": "Hay el moustakbal        COMMUNE  DRARGA",
+    "AdresseA": "حي المستقبل- الدراركة   جماعـة الدراركـة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OUED SOUSS",
+    "NOM_ETABA": "م.واد سوس",
+    "AdresseL": "DOUAR  TAGADIRT N ABADOU      COMMUNE  DRARGA",
+    "AdresseA": "دوار تكـاديـرت نعبـادو  جماعـة الدراركــة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E DAR BOUBKER DAR BOUBKER",
+    "NOM_ETABA": "م دار بـوبكـر",
+    "AdresseL": "DOUAR  DAR BOUBKER      COMMUNE  DRARGA",
+    "AdresseA": "دوار تكمي نبوبكـر  جماعـة الدراركـة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL  HIDAYA TAMAIT IZDER",
+    "NOM_ETABA": "م.م الهداية-تمعيــت إزدار",
+    "AdresseL": "DOUAR  TAMAIT IZDER      COMMUNE  DRARGA",
+    "AdresseA": "دوار تماعيــت ازدار  جماعـة الدراركـة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TADOUARTE",
+    "NOM_ETABA": "م تـدوارت",
+    "AdresseL": "DOUAR  TADOUART        COMMUNE  DRARGA",
+    "AdresseA": "دوار تـدوارت جماعـة الدراركــة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL HANSALI",
+    "NOM_ETABA": "م.الحنصالــي",
+    "AdresseL": "DOUAR  DRARGA         COMMUNE  DRARGA",
+    "AdresseA": "مركـز  جـمـاعـة الدراركـة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAGADIRT NIDOUBELLA TAGADIRT NIDOUBELLA",
+    "NOM_ETABA": "م.م تكاديرت ندوبلا-تكاديـرت ندوبـتلا",
+    "AdresseL": "DOUAR  TAGADIRT NIDOUBELLA      COMMUNE  DRARGA",
+    "AdresseA": "دوار تكاديـرت ندوبـلا  جماعـة الدراركـة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL ABBASSYINE AZRARAG",
+    "NOM_ETABA": "م.م العباسيين-ازراراك",
+    "AdresseL": "DOUAR  AZRARAG          COMMUNE  DRARGA",
+    "AdresseA": "دوار ازراراك جماعـة الدراركـة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASSAADYINE AMALOU",
+    "NOM_ETABA": "م.م السعديين-أمـالـو",
+    "AdresseL": "DOUAR  AMALOU          COMMUNE  DRARGA",
+    "AdresseA": "دوار أمـالـو  جماعـة الدراركـة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL FIRDAOUS",
+    "NOM_ETABA": "م. الفــردوس",
+    "AdresseL": "HAY ALMASSIRA  ALGOUIRACOMMUNE DRARGA",
+    "AdresseA": "حي المسيرة الدراركة المركز",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL YAMAMA",
+    "NOM_ETABA": "م.اليمامة",
+    "AdresseL": "Lotissement Msguina   Commune Drarga",
+    "AdresseA": "تجزئة مسكينة  جماعة الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E.ALYASSAMINE",
+    "NOM_ETABA": "م.الياسمين",
+    "AdresseL": "TAGADIRTE NAABADO",
+    "AdresseA": "تكاديرت نعبادو الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. ALMOUAHIDINE",
+    "NOM_ETABA": "مدرسة الموحدين الابتدائية",
+    "AdresseL": "Douar Laarab TamaIte  Drarga  agadir",
+    "AdresseA": "دوار العرب تماعيت الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IGUIDAR ELJADIDA",
+    "NOM_ETABA": "م. إكيدار الجديدة",
+    "AdresseL": "Drarga",
+    "AdresseA": "الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LQ ERRAZI",
+    "NOM_ETABA": "ثانوية الرازي التأهيلية",
+    "AdresseL": "DOUAR TAGADIRTE NAABADO ",
+    "AdresseA": "تكاديرت نعبادو الدراركة اكادير ",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ SIDI EL HAJ SAID",
+    "NOM_ETABA": "ثانوية سيدي الحاج سعيد التأهيلية",
+    "AdresseL": "DRARGA CENTRE        COMMUNE  DRARGA",
+    "AdresseA": "مركز الدراركة  جماعة الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL MANZIL ASSAGHIRE",
+    "NOM_ETABA": "مؤسسة المنزل الصغير للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة تمدولت، رقم 163",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ALFAHDE",
+    "NOM_ETABA": "مؤسسة الفهد الخصوصية",
+    "AdresseL": "DRARGA",
+    "AdresseA": "دار بوبكر، القطاع 7",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AALAM ATTEFL PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة عالم الطفل للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة مولاي، رقم 28، الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ALBAINAE",
+    "NOM_ETABA": "مؤسسة البينة الخصوصية",
+    "AdresseL": "N° 705 hay msguina",
+    "AdresseA": "رقم 705 تجزئة مسكينة ",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ibnou nafiss attarbaouia",
+    "NOM_ETABA": "مؤسسة ابن النفيس التربوية",
+    "AdresseL": "lotissement alimam drarga",
+    "AdresseA": "تجزئة أليمام الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut alhadaf ennabil",
+    "NOM_ETABA": "مؤسسة الهدف النبيل  الخاصة",
+    "AdresseL": "SECTEUR 6 TAGADIRET DRARGA AGA",
+    "AdresseA": "سكتور 6 دوار تكديرت نعبادو الد",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole rami",
+    "NOM_ETABA": "مؤسسة الرامي",
+    "AdresseL": "",
+    "AdresseA": "دوار تكديرت نعبادو الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ait Elfassi",
+    "NOM_ETABA": "أيت الفاسي",
+    "AdresseL": "cite aitelfassi tagadirt naaba",
+    "AdresseA": "حي أيت الفاسي تكاديرت نعبادو ا",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " INSTITUTION TAJ AL MAARIFAE",
+    "NOM_ETABA": "مؤسسة تاج المعرفة",
+    "AdresseL": "lotissement moulay - drarga",
+    "AdresseA": "تجزئة مولاي  الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "malik ibn anass",
+    "NOM_ETABA": "مالك بن أنس",
+    "AdresseL": "centre drarga  commune drarga",
+    "AdresseA": "مركز الدراركة   جماعة الدراركة",
+    "COMMUNE": "Drargua",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

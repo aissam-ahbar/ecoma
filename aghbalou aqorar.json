@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial AGHBALOU AQORAR",
+    "NOM_ETABA": "ثانوية اغبالو اقورار الإعدادية",
+    "AdresseL": "Aghbalou aqorar centre",
+    "AdresseA": "اغبالو اقورار المركز",
+    "COMMUNE": "Aghbalou Aqorar",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss 14 AOUT Centre",
+    "NOM_ETABA": "م/م 14 غشت-المركز",
+    "AdresseL": "AGHBALOU AKOURAR centre",
+    "AdresseA": "أغبالو أقورار المركز",
+    "COMMUNE": "Aghbalou Aqorar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss 16 NOVEMBRE Centre",
+    "NOM_ETABA": "م/م 16 نونبر-المركز",
+    "AdresseL": "DOUAR AYOUN SMAR",
+    "AdresseA": "دوار عيون السمار",
+    "COMMUNE": "Aghbalou Aqorar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss COOPERATIVE MOHAMMEDIA Centre",
+    "NOM_ETABA": "م/م التعاونية المحمدية-المركز",
+    "AdresseL": "douar COOPMOHAMADIA",
+    "AdresseA": "دوار التعاونية المحمدية",
+    "COMMUNE": "Aghbalou Aqorar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIN KADI Centre",
+    "NOM_ETABA": "م/م عين القاضي-المركز",
+    "AdresseL": "DOUAR AIN  KADI",
+    "AdresseA": "دوار عين القاضي",
+    "COMMUNE": "Aghbalou Aqorar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss ISSBAINE Centre",
+    "NOM_ETABA": "م/م إسباعين-المركز",
+    "AdresseL": "DOUAR ISSBAINE",
+    "AdresseA": "دوار إسباعين",
+    "COMMUNE": "Aghbalou Aqorar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

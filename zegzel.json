@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "AL OUAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "Lot wawallout",
+    "AdresseA": "تجزئة واواللوت",
+    "COMMUNE": "Zegzel",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL JOULANE",
+    "NOM_ETABA": "الجولان",
+    "AdresseL": "DOUAR WAWALLOUT COMMUNE DE ZEGZEL",
+    "AdresseA": "دوار واواللوت جماعة زكزل",
+    "COMMUNE": "Zegzel",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZAGHINE",
+    "NOM_ETABA": "تزاغين",
+    "AdresseL": "DOUAR TAZAGHINE COMMUNE DE ZEGZEL",
+    "AdresseA": "دوار تزغين جماعة زكزل",
+    "COMMUNE": "Zegzel",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED ABDOU",
+    "NOM_ETABA": "محمد عبده",
+    "AdresseL": "DOUAR SLIMANIA ZEGZEL",
+    "AdresseA": "دوار السليمانية  جماعة زكزل",
+    "COMMUNE": "Zegzel",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JAARA",
+    "NOM_ETABA": "جعرة",
+    "AdresseL": "DOUAR JAARA COMMUNE DE ZEGZEL",
+    "AdresseA": "دوار جعرة جماعة  زكزل",
+    "COMMUNE": "Zegzel",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BORJ WAWALLOUT",
+    "NOM_ETABA": "برج واواللوت",
+    "AdresseL": "LOT BORJ WAWALLOUT ",
+    "AdresseA": "تجزئة واواللوت",
+    "COMMUNE": "Zegzel",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

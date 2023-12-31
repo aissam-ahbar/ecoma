@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "AL BAROUDI",
+    "NOM_ETABA": "البارودي",
+    "AdresseL": "CENTRE Khemis Sidi Yahya COMMUNE Khemis Sidi Yahya",
+    "AdresseA": "خميس سيدي يحيى المركز جماعة خميس سيدي يحيى",
+    "COMMUNE": "Khemis Sidi Yahya",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AMR BANOU ZAKRI",
+    "NOM_ETABA": "عمرو بنو زكري",
+    "AdresseL": "CENTRE  COMMUNE  KHEMISS  AIT OUAHI",
+    "AdresseA": "ج خميس آيت واحي المركز",
+    "COMMUNE": "Khemis Sidi Yahya",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZWIJA",
+    "NOM_ETABA": "الزويجة",
+    "AdresseL": "DOUAR AIT BOUCHOU  COMMUNE AIT OUAHI",
+    "AdresseA": "د ايت بوشو ج سيدي يحيى",
+    "COMMUNE": "Khemis Sidi Yahya",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LISSAN EDDINE BNOU LKHATIB",
+    "NOM_ETABA": "لسان الدين بن الخطيب",
+    "AdresseL": "CENTRE commune khemis sidi yaya",
+    "AdresseA": "مركز جماعة خميس سيدي يحيى",
+    "COMMUNE": "Khemis Sidi Yahya",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANOUAL",
+    "NOM_ETABA": "الثانوية الإعدادية أنوال",
+    "AdresseL": "hay el qods ",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MAHDI ELMANJRA",
+    "NOM_ETABA": "الثانوية الإعدادية المهدي المنجرة",
+    "AdresseL": "AL AAROUI",
+    "AdresseA": "العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNAJAH",
+    "NOM_ETABA": "الثانوية الإعدادية النجاح",
+    "AdresseL": "Rue Smara BP  214 Al Aroui   NADOR",
+    "AdresseA": "شارع اسمارة ص ب : 214 العروي  -  الناظور",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YAAKOUB EL MANSOUR",
+    "NOM_ETABA": "الثانوية الإعدادية يعقوب المنصور",
+    "AdresseL": "RUE QATAR  MUNICIPALITE AL AAROUI PROVINCE DE NADO",
+    "AdresseA": " زنقة قطر - بلدية العروي  - عمالة الناظور ",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL ARROUIT 2",
+    "NOM_ETABA": "الثانوية الإعدادية العروي 2",
+    "AdresseL": "MUNICIPALITE AROUIT CENTRE",
+    "AdresseA": "العروي المركز",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHARIF AMEZZIANE",
+    "NOM_ETABA": "المدرسة الابتدائية الشريف محمد امزيان",
+    "AdresseL": "CITE MARCHE MUNICIPALITE AROUIT",
+    "AdresseA": "شارع المسيرة           العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OQBA IBN NAFIE",
+    "NOM_ETABA": "المدرسة الابتدائية عقبة بن نافع",
+    "AdresseL": "rue alkhansaa",
+    "AdresseA": "شارع الخنساء ",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN BATTOUTA",
+    "NOM_ETABA": "المدرسة الابتدائية ابن بطوطة",
+    "AdresseL": "MUNICIPALITE AL AAROUI CENTRE",
+    "AdresseA": "العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU ZAIDOUNE",
+    "NOM_ETABA": "المدرسة الابتدائية ابن زيدون",
+    "AdresseL": "RUE AL HOURRIYA MUNICIPALITE AL AAROUI",
+    "AdresseA": "شارع الحرية          العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AQQAD",
+    "NOM_ETABA": "المدرسة الابتدائية العقاد",
+    "AdresseL": "RUE DES NATIONS UNIES MUNICIPALITE LAROUIT",
+    "AdresseA": "شارع الامم المتحدة  ص ب 14      العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY BOULAGHMANE",
+    "NOM_ETABA": "المدرسة الابتدائية حي بويلغمان",
+    "AdresseL": "RUE ALLAL BEN ABDELLAH MUNICIPALITE LAROUIT",
+    "AdresseA": "شارع علال بن عبد الله        العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY EL JADID",
+    "NOM_ETABA": "المدرسة الابتدائية الحي الجديد",
+    "AdresseL": "bd allal ben abdellah",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUAZZAJ",
+    "NOM_ETABA": "المدرسة الابتدائية وازاج",
+    "AdresseL": "HAY OUAZZAJ COMMUNE AL AAROUI",
+    "AdresseA": "وزاج جماعة العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY AL FATH",
+    "NOM_ETABA": "المدرسة الابتدائية حي الفتح",
+    "AdresseL": "AL ARUI CENTRE",
+    "AdresseA": "العروي المركز",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY EL JADID 2",
+    "NOM_ETABA": "المدرسة الابتدائية الحي الجديد 2",
+    "AdresseL": "Al Aaroui",
+    "AdresseA": "العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FATIMA AL FIHRIA",
+    "NOM_ETABA": "المدرسة الابتدائية فاطمة الفهرية",
+    "AdresseL": "POLE URBAIN AL AAROUIT",
+    "AdresseA": "القطب الحضري العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU ALHAITAM",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الهيثم",
+    "AdresseL": "AROUIT CENTRE",
+    "AdresseA": "ص ب 52 العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU NAFIS",
+    "NOM_ETABA": "الثانوية التأهيلية ابن نفيس",
+    "AdresseL": "AROUI",
+    "AdresseA": "العروي",
+    "COMMUNE": "Al Aaroui",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "manahil al ilm",
+    "NOM_ETABA": "مناهل العلم",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة العمران العروي",
+    "COMMUNE": "Al Aaroui ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HOUDA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "hay souk al aroui",
+    "AdresseA": "حي السوق  بلدية العروي",
+    "COMMUNE": "Al Aaroui ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al manbaa",
+    "NOM_ETABA": "المنبع",
+    "AdresseL": "hay al qods al aroui",
+    "AdresseA": "حي القدس العروي",
+    "COMMUNE": "Al Aaroui ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el yamama zerkae",
+    "NOM_ETABA": "اليمامة الزرقاء",
+    "AdresseL": "Rue ennassim",
+    "AdresseA": "زنقة النسيم رقم : 14 و 15 العر",
+    "COMMUNE": "Al Aaroui ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL FATH ARUIT",
+    "NOM_ETABA": "الفتح عروي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الشباب العروي",
+    "COMMUNE": "Al Aaroui ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Younes",
+    "NOM_ETABA": "يونس",
+    "AdresseL": "av med5.al aroui - nador",
+    "AdresseA": "شارع محمد الخامس، رقم 107، الع",
+    "COMMUNE": "Al Aaroui ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

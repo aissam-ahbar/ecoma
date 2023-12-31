@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "CPI JAAFRA",
+    "NOM_ETABA": "المركب التربوي المندمج الجعافرة",
+    "AdresseL": "Commune Jaafra",
+    "AdresseA": "جماعة الجعافرة",
+    "COMMUNE": "Jaafra",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JAAFRA CENTRE",
+    "NOM_ETABA": "الجعافرة المركزية",
+    "AdresseL": "COMMUNE JAAFRA DOUAR JAAFRA",
+    "AdresseA": "دوار الجعافرة",
+    "COMMUNE": "Jaafra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD KHLIFA CENTRE",
+    "NOM_ETABA": "اولاد خليفة المركزية",
+    "AdresseL": "DOUAR OULED KHLIFA COMMUNE JAAFRA",
+    "AdresseA": "دوار اولاد خليفة",
+    "COMMUNE": "Jaafra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD OUGGAD CENTRE",
+    "NOM_ETABA": "اولاد وكاد المركزية",
+    "AdresseL": "DOUAR OULED OUGGAD COMMUNE JAAFRA",
+    "AdresseA": "دوار اولاد وكاد جماعة الجعافرة",
+    "COMMUNE": "Jaafra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMTAGUIL CENTRE",
+    "NOM_ETABA": "لمتاكيل المركزية",
+    "AdresseL": "DOUAR LAMTAGUIL ELBIR JDID COMMUNE JAAFRA",
+    "AdresseA": "دوار لمتاكيل البير الجديد جماعة الجعافرة",
+    "COMMUNE": "Jaafra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

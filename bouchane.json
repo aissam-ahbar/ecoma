@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "CPI BOUCHANE",
+    "NOM_ETABA": "المركب التربوي المندمج بوشان",
+    "AdresseL": "CR Bouchane",
+    "AdresseA": "جماعة بوشان",
+    "COMMUNE": "Bouchane",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOUCHANE CENTRE",
+    "NOM_ETABA": "بوشان المركزية",
+    "AdresseL": "ITNAINE BOUCHANE",
+    "AdresseA": "اثنين بوشان",
+    "COMMUNE": "Bouchane",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MOUSSA OU HMAD CENTRE",
+    "NOM_ETABA": "ايت مو سى واحماد المركزية",
+    "AdresseL": "DOUAR AIT MOUSSA OUHMAD COMMUNE BOUCHANE",
+    "AdresseA": "دوار ايت موسى واحماد",
+    "COMMUNE": "Bouchane",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHLIH CENTRE",
+    "NOM_ETABA": "الشليح المركزية",
+    "AdresseL": "DOUAR CHLIH COMMUNE BOUCHANE",
+    "AdresseA": "دوار الشليح",
+    "COMMUNE": "Bouchane",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BOUCHANE",
+    "NOM_ETABA": " الثانوية التأهيلية بوشان",
+    "AdresseL": "COMMUNE BOUCHANE",
+    "AdresseA": "جماعة بوشان",
+    "COMMUNE": "Bouchane",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

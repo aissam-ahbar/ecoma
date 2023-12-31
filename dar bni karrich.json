@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ASSAYIDA AL HORRA",
+    "NOM_ETABA": "الثانوية الإعدادية السيدة الحرة",
+    "AdresseL": "CENTRE COMMUNE BEN KARRICH",
+    "AdresseA": "دار بن قريش",
+    "COMMUNE": "Dar Bni Karrich",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BEN KARICHE",
+    "NOM_ETABA": "م.م بنقريش",
+    "AdresseL": "COMMUNE DAR BEN KARICH ",
+    "AdresseA": "جماعة دار بنقريش ",
+    "COMMUNE": "Dar Bni Karrich",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR AL KHAYATE",
+    "NOM_ETABA": "م.م دار الخياط",
+    "AdresseL": "DOUAR DAR AL KHAYATE C DAR BEN KARRICH  TETOUAN",
+    "AdresseA": "دوار دار الخياط",
+    "COMMUNE": "Dar Bni Karrich",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ALI AL-MANDRI",
+    "NOM_ETABA": " الثانوية التأهيلية علي المنظري",
+    "AdresseL": "commune bni karrich",
+    "AdresseA": "جماعة بن قريش",
+    "COMMUNE": "Dar Bni Karrich",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

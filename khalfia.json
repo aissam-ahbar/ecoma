@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "OULED ABDELLAH CENTRE",
+    "NOM_ETABA": "مركزية اولاد عبد الله",
+    "AdresseL": "OULED ABDELLAH COMMUNE AL KHALFIA",
+    "AdresseA": "جماعة  الخلفية",
+    "COMMUNE": "Khalfia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED HASSOUNE CENTRE",
+    "NOM_ETABA": "مركزية اولاد حسون",
+    "AdresseL": "OULED HASSOUNE COMMUNE AL KHALFIA",
+    "AdresseA": "جماعة  الخلفية",
+    "COMMUNE": "Khalfia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE YOUSSEF IBNOU TACHFINE",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين التأهيلية",
+    "AdresseL": "OULED ABDELLAH COMMUNE AL KHALFIA",
+    "AdresseA": "اولاد عبد الله جماعة خلفية",
+    "COMMUNE": "Khalfia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE  EL MOUAHIDINE",
+    "NOM_ETABA": "ثانوية الموحدين التأهيلية",
+    "AdresseL": "OULED HASSOUNE COMMUNE AL KHALFIA",
+    "AdresseA": "اولاد حسون جماعة الخلفية",
+    "COMMUNE": "Khalfia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

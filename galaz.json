@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL GALAZ",
+    "NOM_ETABA": "ثانوية كلاز الإعدادية",
+    "AdresseL": "CENTRE COMMUNE GALAZ GHAFSSAI",
+    "AdresseA": "مركز جماعة كلاز-غفساي",
+    "COMMUNE": "Galaz",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS GALAZ",
+    "NOM_ETABA": "م/م  كلاز",
+    "AdresseL": "COMMUNE RURAL GALAZ CENTRE GHAFSSAI",
+    "AdresseA": "جماعة كلاز - غفساي",
+    "COMMUNE": "Galaz",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BNI BOUZOULATE",
+    "NOM_ETABA": "م/م  بني بوزولات",
+    "AdresseL": "DOUAR BNI BOUZOULATE COMMUNE  GALAZ GHAFSSAI",
+    "AdresseA": "دوار  بني بوزولات  جماعة كلاز -غفساي",
+    "COMMUNE": "Galaz",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BNI MHAMMED",
+    "NOM_ETABA": "م/م  بني امحمد",
+    "AdresseL": "DOUAR BNI MHAMMED COMMUNE GALAZ GHAFSSAI",
+    "AdresseA": "دوار بني امحمد  جماعة كلاز -غفساي",
+    "COMMUNE": "Galaz",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULAD KROUN",
+    "NOM_ETABA": "م/م  اولاد قرون",
+    "AdresseL": "DOUAR EL KLIAA COMMUNE GALAZ CERCLE GHAFSSAI TAOUN",
+    "AdresseA": " دوار  القليعة اولاد قرون جماعة كلاز دائرة غفساي ت",
+    "COMMUNE": "Galaz",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN ZAMZAM",
+    "NOM_ETABA": "م/م  عين زمزم",
+    "AdresseL": "DOUAR AIN ZAMZEM COMMUNE  GALAZ GHAFSSAI",
+    "AdresseA": "دوارعين زمزم جماعة كلاز -غفساي",
+    "COMMUNE": "Galaz",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUAGGASSATE",
+    "NOM_ETABA": "م/م  وكٌاسات",
+    "AdresseL": "DOUAR OUGASSATE COMMUNE GALAZ GHAFSSAI",
+    "AdresseA": "دوارأوكاسات جماعة كلاز -غفساي",
+    "COMMUNE": "Galaz",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCE QUALIFIANT EL AHD ELJADID",
+    "NOM_ETABA": "ثانوية العهد الجديد التأهيلية",
+    "AdresseL": "Galaz centre",
+    "AdresseA": "كلاز المركز",
+    "COMMUNE": "Galaz",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

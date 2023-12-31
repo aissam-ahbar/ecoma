@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL EZZAYTOUNA",
+    "NOM_ETABA": "ثانوية الزيتونة الإعدادية ",
+    "AdresseL": "COMMUNE EL MECHREK SIDI BENNOUR",
+    "AdresseA": "جماعة المشرك سيدي بنور",
+    "COMMUNE": "Lmechrek",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL KOUDIA",
+    "NOM_ETABA": "الكدية",
+    "AdresseL": "DOUAR RIOUNI COMMUNE MECHREK",
+    "AdresseA": "دوار الريوني ج المشرك",
+    "COMMUNE": "Lmechrek",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMOUISSATE",
+    "NOM_ETABA": "لمويسات",
+    "AdresseL": "DOUAR LAGHRIBATE COMMUNE LMECHREK",
+    "AdresseA": "دوار لغريبات ج المشرك",
+    "COMMUNE": "Lmechrek",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHLAFTA",
+    "NOM_ETABA": "الحلافتة",
+    "AdresseL": "DOUAR LAHlAFTA COMMUNE EL MACHREK",
+    "AdresseA": "دوار الحلافتة ج المشرك",
+    "COMMUNE": "Lmechrek",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

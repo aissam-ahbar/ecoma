@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULAD SELMANE",
+    "NOM_ETABA": "الثانوية الإعدادية اولاد سلمان",
+    "AdresseL": "CENTRE COMMUNE OULAD SELMANE",
+    "AdresseA": "مركز جماعة اولاد سلمان",
+    "COMMUNE": "Ouled Salmane",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "RIBATE CHEIKH",
+    "NOM_ETABA": "م/م رباط الشيخ",
+    "AdresseL": "RIBATE CHEIKH COMMUNE OULED SALMANE",
+    "AdresseA": "رباط الشيخ  جماعة اولاد سلمان",
+    "COMMUNE": "Ouled Salmane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHMAMCHA",
+    "NOM_ETABA": "م/م الحمامشة",
+    "AdresseL": "DOUAR LAHMAmcHA COMMUNE OULED SALMANE",
+    "AdresseA": "دوار الحمامشة جماعة أولاد سلمان",
+    "COMMUNE": "Ouled Salmane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ABDELOUASSAA",
+    "NOM_ETABA": "م/م اولاد عبد الواسع",
+    "AdresseL": " douar OULED ABDELOUASSAA COMMUNE OULED SALMANE",
+    "AdresseA": "دوار اولاد عبد الواسع جماعة اولاد سلمان",
+    "COMMUNE": "Ouled Salmane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHSASNA",
+    "NOM_ETABA": "م/م الحساسنة",
+    "AdresseL": "DOUAR 0ULED BELKADI COMMUNE OULED SALMANE",
+    "AdresseA": "دواراولاد بلقاضي  جماعة أولاد سلمان",
+    "COMMUNE": "Ouled Salmane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAAKRA",
+    "NOM_ETABA": "م/م الدعاكرة",
+    "AdresseL": "DOUAR DAAKRA COMMUNE OULED SALMANE",
+    "AdresseA": "دوار الدعاكرة جماعة اولاد سلمان",
+    "COMMUNE": "Ouled Salmane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

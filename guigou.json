@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 3 MARS",
+    "NOM_ETABA": "الثانوية الإعدادية 3 مارس",
+    "AdresseL": "GUIGOU CENTRE",
+    "AdresseA": "كيكو المركز",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN TOUFAIL",
+    "NOM_ETABA": "الثانوية الإعدادية ابن طفيل",
+    "AdresseL": "DR AIT HAMZA",
+    "AdresseA": "دوار ايت حمزة",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GUIGOU CENTRE",
+    "NOM_ETABA": "كيكو المركز",
+    "AdresseL": "DOUAR AIT FRIGOU COMMUNE GUIGOU",
+    "AdresseA": "دوار ايت فريكو جماعة كيكو",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIGHBOULA",
+    "NOM_ETABA": "تيغبولة",
+    "AdresseL": "DOUAR TIGHBOULA COMMUNE GUIGOU",
+    "AdresseA": "دوارتيغبولة جماعة كيكو",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HAMZA",
+    "NOM_ETABA": "ايت حمزة",
+    "AdresseL": "DOUAR AIT HAMZA COMMUNE GUIGOU",
+    "AdresseA": "دوار ايت حمزة",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT IKHLEF",
+    "NOM_ETABA": "ايت يخلف",
+    "AdresseL": "DOUAR AIT IKHLEF AIT HAMZA COMMUNE GUIGOU",
+    "AdresseA": "دوار ايت يخلف  ايت حمزة  جماعة كيكو",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ALMIS GUIGOU",
+    "NOM_ETABA": "ايت الميس كيكو",
+    "AdresseL": "GUIGOU CENTRE COMMUNE GUIGOU",
+    "AdresseA": "كيكو المركز جماعة كيكو",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGHZOUT",
+    "NOM_ETABA": "تغزوت",
+    "AdresseL": "DOUAR TAGHZOUT COMMUNE GUIGOU",
+    "AdresseA": "دوار تغزوت جماعة كيكو",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU BAKR ERRAZI",
+    "NOM_ETABA": "الثانوية التأهيلية أبو بكر الرازي",
+    "AdresseL": "GUIGOU CENTRE",
+    "AdresseA": "كيكو المركز",
+    "COMMUNE": "Guigou",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

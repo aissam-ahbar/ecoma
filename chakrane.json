@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 20 AOUT",
+    "NOM_ETABA": "ثانوية 20 غشت الإعدادية",
+    "AdresseL": "CHAKRANE",
+    "AdresseA": "شقران",
+    "COMMUNE": "Chakrane",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHAKRANE",
+    "NOM_ETABA": "شقران",
+    "AdresseL": "DOUAR CHAKRANE COMMUNE CHAKRANE",
+    "AdresseA": "دوار شقران جماعة  شقران",
+    "COMMUNE": "Chakrane",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAFSASTE",
+    "NOM_ETABA": "نفساست",
+    "AdresseL": "DOUAR TAFSASTE COMMUNE CHAKRANE",
+    "AdresseA": "دوارنفساست جماعة شقران",
+    "COMMUNE": "Chakrane",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSAMAR HAUT",
+    "NOM_ETABA": "اسمار الأعلى",
+    "AdresseL": "DOUAR ASSAMAR HAUT COMMUNE CHAKRANE",
+    "AdresseA": "دوارسمار جماعة شقران ",
+    "COMMUNE": "Chakrane",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  LAHDARA",
+    "NOM_ETABA": "الثانوية الإعدادية لهدارة",
+    "AdresseL": "LAHDARA CENTRE",
+    "AdresseA": "لهدارة المركز",
+    "COMMUNE": "Arekmane",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE   AL FATH",
+    "NOM_ETABA": "المدرسة الابتدائية الفتح",
+    "AdresseL": "COPERATIVE AL FATH COMMUNE AREKMANE",
+    "AdresseA": "تعاونية الفتح أركمان",
+    "COMMUNE": "Arekmane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE QARIA AREKMANE",
+    "NOM_ETABA": "مجموعة مدارس قرية أركمان",
+    "AdresseL": "COMMUNE KARIAT AREKMANE CENTRE",
+    "AdresseA": "جماعة اركمان",
+    "COMMUNE": "Arekmane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE LAHDARA",
+    "NOM_ETABA": "مجموعة مدارس لهدارة",
+    "AdresseL": "DOUAR LAHDARA COMMUNE AREKMANE",
+    "AdresseA": "دوار لهدارة جماعة أركمان",
+    "COMMUNE": "Arekmane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE MY ALI CHARIF",
+    "NOM_ETABA": "مجموعة مدارس مولاي علي الشريف",
+    "AdresseL": "DOUAR LAHDARA AREKMANE",
+    "AdresseA": "دوار لحضارة جماعة أركمان",
+    "COMMUNE": "Arekmane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ALWAHDA",
+    "NOM_ETABA": "مجموعة مدارس الوحدة",
+    "AdresseL": "DOUAR BOUGHRIBA COMMUNE  AREKMANE",
+    "AdresseA": "دوار بوغريبة جماعة أركمان",
+    "COMMUNE": "Arekmane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE BOUYAKHBACH",
+    "NOM_ETABA": "مجموعة مدارس بويخباش",
+    "AdresseL": "DOUAR BOUYAKHBACH COMMUNE AREKMANE",
+    "AdresseA": "بويخباش اركمان",
+    "COMMUNE": "Arekmane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOQADDAME BOUZIANE",
+    "NOM_ETABA": "الثانوية التأهيلية مقدم بوزيان",
+    "AdresseL": "cooperative fath KARIAT AREKMANE",
+    "AdresseA": "تعاونية فتح قرية اركمان",
+    "COMMUNE": "Arekmane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

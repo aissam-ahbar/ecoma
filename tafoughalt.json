@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "TAFOUGHALT",
+    "NOM_ETABA": "تافوغالت",
+    "AdresseL": "COLLEGE TAFOURALT COMMUNE DE TAFOUGHALT",
+    "AdresseA": "ثانوية تافوغالت  جماعة تافوغالت",
+    "COMMUNE": "Tafoughalt",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN JARIR TABARI",
+    "NOM_ETABA": "ابن جرير الطبري",
+    "AdresseL": "COMMUNE DE TAFOrALT",
+    "AdresseA": "تافوغالت المركز",
+    "COMMUNE": "Tafoughalt",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TGHASROUT",
+    "NOM_ETABA": "تغاسروت",
+    "AdresseL": "DOUAR TGHASROUT COMMUNE DE TAFOUGHALT",
+    "AdresseA": "دوار تغاسروت تافوغالت",
+    "COMMUNE": "Tafoughalt",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

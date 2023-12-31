@@ -1,0 +1,222 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial Allal El Fassi",
+    "NOM_ETABA": "الثانوية الاعدادية علال الفاسي",
+    "AdresseL": "Ben Ahmed",
+    "AdresseA": "ابن أحمد",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANWAL",
+    "NOM_ETABA": "الثانوية الاعدادية أنوال",
+    "AdresseL": "COMMMUNE BEN AHMED",
+    "AdresseA": "بلدية بن أحمد",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANAS BNOU MALEK",
+    "NOM_ETABA": "ثانوية  أنس بن مالك الإعدادية",
+    "AdresseL": "BOULEVARD KHOURIBGA COMMUNE BEN AHMED",
+    "AdresseA": "طريق خريبكة ابن احمد",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED VI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد السادس",
+    "AdresseL": "BOULEVARD LALLA AMINA COMMUNE BEN AHMED",
+    "AdresseA": "شارع للا مينة بلدية ابن احمد",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OQBA BNOU NAFII",
+    "NOM_ETABA": "مدرسة عقبة بن نافع",
+    "AdresseL": "derb LHAJ ben taghi ben ahmed",
+    "AdresseA": " ابن أحمد درب الحاج بن التاغي",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED 6",
+    "NOM_ETABA": "مدرسة محمد السادس",
+    "AdresseL": "RUE ALMASSJID QUARTIER PAM1",
+    "AdresseA": "زنقة المسجد  حي بام1",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FATIMA AL FIHRIA",
+    "NOM_ETABA": "مدرسة فاطمة الفهرية",
+    "AdresseL": "QUARTIER ADMINISTRATIF",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALWAHDA",
+    "NOM_ETABA": "مدرسة الوحدة",
+    "AdresseL": "derb belaidi",
+    "AdresseA": "درب بالعايدي",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ACHAHID ROCHDI",
+    "NOM_ETABA": "مدرسة الشهيد رشدي",
+    "AdresseL": "HAY RAJA",
+    "AdresseA": "حي الرجاء",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZAOUIA CENTRE",
+    "NOM_ETABA": "مركزية الزاوية",
+    "AdresseL": "DOUAR EZAOUIA  ",
+    "AdresseA": "دوار الزاوية التاغية - ابن أحمد",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT BAJJA",
+    "NOM_ETABA": "الثانوية التأهيلية باجة",
+    "AdresseL": "bd ibnou toufail COMMUNE BEN AHMED",
+    "AdresseA": "شارع إبن طفيل",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL KHAIZORANE",
+    "NOM_ETABA": "الثانوية التأهيلية  الخيزران",
+    "AdresseL": "QUARTIER ADMINISTRATIF",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Ben Ahmed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Groupe SCOLAIRE nour ESSALAM",
+    "NOM_ETABA": " مجموعة مدارس نور السلام ",
+    "AdresseL": "hay nour route casa blanca",
+    "AdresseA": "طريق الدارالبيضاء حي النور ",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AHMED CHAWKI 2",
+    "NOM_ETABA": "احمد شوقي 2",
+    "AdresseL": "",
+    "AdresseA": "زنقة محاميد الغزلان . تجزئة ال",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nouressalam annexe 2",
+    "NOM_ETABA": "نور السلام الملحقة 2 الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الرجاء إقامة الرجاء ",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IkraA",
+    "NOM_ETABA": " اقرا",
+    "AdresseL": "405-LOTISSEMENT EL ISLAH",
+    "AdresseA": "تجزئة الإصلاح- الرقم 405",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANABIL EL INBIAT",
+    "NOM_ETABA": "سنابل الإنبعاث",
+    "AdresseL": "derb My  youssef",
+    "AdresseA": "درب مولاي  يوسف",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "N° 404 lot Islah",
+    "AdresseA": "الرقم 404 تجزئة الاصلاح",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "S/S EL KAFAA",
+    "NOM_ETABA": "م/م الكفاءة",
+    "AdresseL": "99 zone indutriel be ahmed",
+    "AdresseA": "الحي الصناعي 99",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gs almanbaie",
+    "NOM_ETABA": "م م المنبع",
+    "AdresseL": "NULL",
+    "AdresseA": "8 زنقة البروج درب سي لحسن ",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole nouressalam prescolaire",
+    "NOM_ETABA": "مدرسة نور السلام للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "   زنقة الإمام مالك رقم 08 حي ",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ahmed chawki prescolaire",
+    "NOM_ETABA": "احمد شوقي للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "229 تجزئة الاصلاح ",
+    "COMMUNE": "Ben Ahmed ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

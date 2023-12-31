@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "secteur scolaire AOUINT TORKOZ ",
+    "NOM_ETABA": "مجموعة مدارس عوينة تركز الابتدائية",
+    "AdresseL": "aOUINT LAHNA CENTRE",
+    "AdresseA": "عوينة لهنا المركز",
+    "COMMUNE": "Aouint Lahna",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE  qualifiant AOUINAT LAHNA",
+    "NOM_ETABA": "الثانوية التأهيلية عوينىة الهنا",
+    "AdresseL": "commune rural aouint lahna",
+    "AdresseA": "جماعة عوينة لهنا",
+    "COMMUNE": "Aouint Lahna",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

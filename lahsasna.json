@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LEHSASNA CENTRE",
+    "NOM_ETABA": "مركزية الحساسنة",
+    "AdresseL": "DOUAR LAAOUISSATE COMMUNE LAHSSASSNA",
+    "AdresseA": "دوار لعويسات جماعة الحساسنة",
+    "COMMUNE": "Lahsasna",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BELAHCEN CENTRE",
+    "NOM_ETABA": "مركزية اولاد بلحسن",
+    "AdresseL": "DOUAR OULAD BELHCEN COMMUNE LAHSSASSNA",
+    "AdresseA": "دوار اولاد بلحسن جماعة الحساسنة",
+    "COMMUNE": "Lahsasna",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

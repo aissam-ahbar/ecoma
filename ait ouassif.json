@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Tabarkhachte",
+    "NOM_ETABA": "الثانوية الإعدادية تبرخاشت",
+    "AdresseL": " COMMUNE AIT OUASSIF tinghir",
+    "AdresseA": "  جماعة ايت واسيف تنغير",
+    "COMMUNE": "Ait Ouassif",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS.TABARKHACHTE",
+    "NOM_ETABA": "م.م تبرخاشت",
+    "AdresseL": "TABARKHACHTE KALAATE MGOUNA tinghir",
+    "AdresseA": "تبرخاشت قلعة امكونة",
+    "COMMUNE": "Ait Ouassif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT KHIAR",
+    "NOM_ETABA": "م م ايت خيار",
+    "AdresseL": "AIT KHIAR KALAAT MGOUNA TINGHIR",
+    "AdresseA": "ايت خيار قلعة امكونة تنغير",
+    "COMMUNE": "Ait Ouassif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HDIDA",
+    "NOM_ETABA": "م م حديدة",
+    "AdresseL": "HDIDA KALLAAT MGOUNA",
+    "AdresseA": "حديدة قلعة مكونة",
+    "COMMUNE": "Ait Ouassif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

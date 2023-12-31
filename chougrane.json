@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KADISSIA",
+    "NOM_ETABA": "الثانوية الاعدادية القادسية",
+    "AdresseL": "CENTRE COMMUNECHOUGRANE CERCLE BEJAAD",
+    "AdresseA": "مركز  جماعة  الشكران",
+    "COMMUNE": "Chougrane",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS CHOUGRANE",
+    "NOM_ETABA": "م/م الشكران",
+    "AdresseL": "DOUAR AIT LAYACHI   COMMUNE CHOUGRANE",
+    "AdresseA": "دوار  ايت  العياشي",
+    "COMMUNE": "Chougrane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HAMRINE",
+    "NOM_ETABA": "م/م حمرين",
+    "AdresseL": "DOUAR AIT BOUCHTA COMMUNE CHOUGRANE",
+    "AdresseA": "دوار ايت بوشتى",
+    "COMMUNE": "Chougrane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

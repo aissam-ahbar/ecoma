@@ -1,0 +1,172 @@
+[
+  {
+    "NOM_ETABL": "lycée collégial ibn sina",
+    "NOM_ETABA": "الثانوية الإعدادية ابن سينا",
+    "AdresseL": "Hay Tihouna ",
+    "AdresseA": "حي تيحونا",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Province: Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée COLLéGIAL AL MASSIRA ALKHADRA",
+    "NOM_ETABA": "الثانوية الإعدادية المسيرة الخضراء",
+    "AdresseL": "ASSA CENTRE HAY MY ISMAIL COMMUNE ASSA",
+    "AdresseA": "حي المولى اسماعيل، بلدية آسا، آسا المركز",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Province: Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée collégial ALLAL AL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "HAY ELFILAHI AVENUE MOHAMED V",
+    "AdresseA": "الحي الفلاحي ، شارع الحسن الثاني",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Province: Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "école  moulay ismail",
+    "NOM_ETABA": "المدرسة الإبتدائية مولاي اسماعيل",
+    "AdresseL": "ASSA CENTRE HAY MY ISMAIL AV my rachid",
+    "AdresseA": "حي المولى اسماعيل -أسا المركز-",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "école  19 mai",
+    "NOM_ETABA": "المدرسة الإبتدائية 19 ماي",
+    "AdresseL": "quartier administratif aSSA CENTRE",
+    "AdresseA": "  الحي الإداري, آسا المركز",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire 3 MARS ",
+    "NOM_ETABA": "مجموعة مدارس 3 مارس الابتدائية",
+    "AdresseL": "Hay elfilahi  ASSACENTRE",
+    "AdresseA": "الحي الفلاحي , آسا المركز",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "éCOLE  TARIK IBN ZIAD",
+    "NOM_ETABA": "المدرسة الإبتدائية طارق ابن زياد",
+    "AdresseL": "ASSA CENTRE",
+    "AdresseA": "آسا المركز",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "école  MERKALA",
+    "NOM_ETABA": "المدرسة الإبتدائية مركالة",
+    "AdresseL": "ASSA CENTRE HAY TIHOUNA",
+    "AdresseA": "تيحونا , آسا المركز",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "école  MOHAMED VI",
+    "NOM_ETABA": "المدرسة الإبتدائية محمد السادس",
+    "AdresseL": "quARTIER ADMINISTRATIve",
+    "AdresseA": "الحي الأداري",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY AL MOUSTACHFA",
+    "NOM_ETABA": "مدرسة حي المستشفى الابتدائية",
+    "AdresseL": "Hay Al Moustachfa",
+    "AdresseA": "حي المستشفى اسا",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY AL HASSAN",
+    "NOM_ETABA": "مدرسة مولاي الحسن الابتدائية",
+    "AdresseL": "HAY TEHOUNA",
+    "AdresseA": "حي تيحونة",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycee qualifiant OKBA IBNOU NAFIE",
+    "NOM_ETABA": "الثانوية التأهيلية عقبة بن نافع",
+    "AdresseL": "AVENUE 19 MAI HAY IDARI",
+    "AdresseA": "شارع 19 ماي الحي الإداري",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycee QUALIFIANT oued essafa ",
+    "NOM_ETABA": "الثانوية التأهيلية وادي الصفا",
+    "AdresseL": "cité agricole assa",
+    "AdresseA": "الحي الفلاحي - أســــــــا",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ROCHD",
+    "NOM_ETABA": "الثانوية التأهيلية إبن رشد",
+    "AdresseL": "Hay Idari Assa centre ",
+    "AdresseA": "الحي الاداري اسا ",
+    "COMMUNE": "Assa",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSMENT CHOAA LMAARIFAA  DE L ENSEIGNEMENT SCOALIRE PRI",
+    "NOM_ETABA": "مؤسسة شعاع المعرفة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Avenu hassan 2 assa centre",
+    "AdresseA": "شارع الحسن الثاني الرئيسي قرب ",
+    "COMMUNE": "Assa ",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SAJA DE L ENSEIGNEMENT SCOALIREE",
+    "NOM_ETABA": "مؤسسة سجى للتعليم المدرسي الخصوصي",
+    "AdresseL": "Rue SAAIDIA QUARTIER ZAOUIA TI",
+    "AdresseA": "زنقة السعيدية حي الزاوية التيج",
+    "COMMUNE": "Assa ",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSMENT NAMA  DE L ENSEIGNEMENT SCOALIREE",
+    "NOM_ETABA": "مؤسسة نماء للتعليم  المدرسي الخصوصي",
+    "AdresseL": "avenue molay rchid assa",
+    "AdresseA": "شارع مولاي رشيد",
+    "COMMUNE": "Assa ",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  }
+]

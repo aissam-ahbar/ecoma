@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C IBNOU BATOUTA",
+    "NOM_ETABA": "إع. ابن بطوطة",
+    "AdresseL": "TEMSAMENE CENTRE",
+    "AdresseA": "تمسمان المركز",
+    "COMMUNE": "Temsamane",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TEMSAMANE",
+    "NOM_ETABA": "م م تمسمان",
+    "AdresseL": "DOUAR IOUTEN  COMMUNE TEMSAMENE",
+    "AdresseA": "دوار ايعوتن تمسمان الدريوش",
+    "COMMUNE": "Temsamane",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUCHANEN",
+    "NOM_ETABA": "م.م اوشانن",
+    "AdresseL": "DOUAR OUCHANEN COMMUNE TEMSAMENE",
+    "AdresseA": "اوشانن تمسمان",
+    "COMMUNE": "Temsamane",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI BOUYAQOB",
+    "NOM_ETABA": "م م بني بويعقوب",
+    "AdresseL": "DOUAR BNIBOUYAQOB COMMUNE TEMSAMENE",
+    "AdresseA": "بني بويعقوب",
+    "COMMUNE": "Temsamane",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TEMSAMANE ",
+    "NOM_ETABA": "ثانوية تمسمان التأهيلية",
+    "AdresseL": "COMMUNE TEMSAMANE CENTRE",
+    "AdresseA": "جماعة تمسمان - كرونة المركز",
+    "COMMUNE": "Temsamane",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLegial al hassan BEN MOHAMED DAKIK",
+    "NOM_ETABA": "الثانوية الإعدادية الحسن بن محمد الدكيك",
+    "AdresseL": "commune sebt nabour",
+    "AdresseA": "مركز جماعة سبت النابور",
+    "COMMUNE": "Sebt Ennabour",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL AMAL CENTRE NABOUR",
+    "NOM_ETABA": "مجموعة مدارس الأمل مركزية النابور",
+    "AdresseL": "CENTRE COMMUNE SEBT NABOUR",
+    "AdresseA": "مركز جماعة السبت النابور",
+    "COMMUNE": "Sebt Ennabour",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TAJAJT CENTRE TAJJAJT",
+    "NOM_ETABA": "مجموعة مدارس تجاجت مركزية تجاجت",
+    "AdresseL": "DOUAR TAJJAJT",
+    "AdresseA": "دوار تجاجت",
+    "COMMUNE": "Sebt Ennabour",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE SIDI AAZA CENTRE FOUZART",
+    "NOM_ETABA": "مجموعة مدارس سيدي اعزا مركزية فوزارت",
+    "AdresseL": "DOUAR FOUZART",
+    "AdresseA": "دوار فوزارت",
+    "COMMUNE": "Sebt Ennabour",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL ALAOUIYYINE CENTRE TACHBANIT A",
+    "NOM_ETABA": "مجموعة مدارس العلويين مركزية تشبنيت ايت كرمون",
+    "AdresseL": "DOUARTACHBANIT  AIT KARMOUNE S",
+    "AdresseA": "دوار تشبنيت ايت كرمون",
+    "COMMUNE": "Sebt Ennabour",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

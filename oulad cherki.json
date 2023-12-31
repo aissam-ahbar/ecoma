@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL OULAD CHERKI",
+    "NOM_ETABA": "الثانوية الاعدادية اولاد الشرقي",
+    "AdresseL": "commune ouled cherki",
+    "AdresseA": "جماعة اولاد الشرقي",
+    "COMMUNE": "Oulad Cherki",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD CHARKI CENTRE",
+    "NOM_ETABA": "اولاد الشرقي المركزية",
+    "AdresseL": "DOUAR OULED CHARKI COMMUNE OULED CHERKI",
+    "AdresseA": "دوار اولاد الشرقي",
+    "COMMUNE": "Oulad Cherki",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUIA CENTRE",
+    "NOM_ETABA": "الزاوية المركزية",
+    "AdresseL": "DOUAR ZAOUIATE ALI NOUITI COMMUNE OULED CHERKI",
+    "AdresseA": "   دوار زاوية سيدي علي النويتي",
+    "COMMUNE": "Oulad Cherki",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

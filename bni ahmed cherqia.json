@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS LEMAASRA",
+    "NOM_ETABA": "م/م لمعاصرا",
+    "AdresseL": "DOUAR LEMAASRACBNI AHMED CHERQIACHEFCHAOUEN",
+    "AdresseA": "دوار لمعاصرا بني احمد الشرقية",
+    "COMMUNE": "Bni Ahmed Cherqia",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALANDAOUD",
+    "NOM_ETABA": "م/م تلانداوود",
+    "AdresseL": "DOUAR TALANDAOUD CBNI AHMED cherquia",
+    "AdresseA": "دوار تلنداود جماعة بني أحمد الشرقية",
+    "COMMUNE": "Bni Ahmed Cherqia",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDERRAHMAN SAHRAOUI TALIOUANE",
+    "NOM_ETABA": "م/م عبد الرحمان الصحراوي _ تلوان ",
+    "AdresseL": "DOUAR TALIOUANE bni ahmed cherqia CHEFCHAOUEN",
+    "AdresseA": "دوار تلوان جماعة بني أحمد الشرقية شفشاون",
+    "COMMUNE": "Bni Ahmed Cherqia",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HAJ MOHAMED BEN HSAIN EL HADRI",
+    "NOM_ETABA": " الثانوية التأهيلية الحاج محمد بن احساين الحضري",
+    "AdresseL": "BNI AHMEDCBNI AHMED CHERQIACHEFCHAOUEN",
+    "AdresseA": "بني أحمد جماعة بني أحمد الشرقية  شفشاون",
+    "COMMUNE": "Bni Ahmed Cherqia",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

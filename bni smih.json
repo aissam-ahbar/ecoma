@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNI SMIH",
+    "NOM_ETABA": "الثانوية الإعدادية بني سميح",
+    "AdresseL": "commune bni smih chefchaouen",
+    "AdresseA": "جماعة بني سميح شفشاون",
+    "COMMUNE": "Bni Smih",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AHMED BENHANI BNI SMIH",
+    "NOM_ETABA": "أحمد بنهاني _بني سميح",
+    "AdresseL": "SOUK SEBTCBNI SMIHCHEFCHAOUEN",
+    "AdresseA": "سوق السبت  جماعة بني سميح",
+    "COMMUNE": "Bni Smih",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI SEDRAT",
+    "NOM_ETABA": "م/م بني صدرات",
+    "AdresseL": "DOUAR BNI SEDRATCBNI SMIHCHEFCHAOUEN",
+    "AdresseA": "دوار بني صدرات جماعة بني سميح",
+    "COMMUNE": "Bni Smih",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HASSAN AHAYZOUNE TAZROUT",
+    "NOM_ETABA": "م/م حسن أحيزون _تزروت",
+    "AdresseL": "DOUAR TAZROUTCBNI SMIHCHEFCHAOUEN",
+    "AdresseA": "دوار تزروت جماعة أبني سميح",
+    "COMMUNE": "Bni Smih",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMLAOUK",
+    "NOM_ETABA": "م/م أملاوك",
+    "AdresseL": "DOUAR AMLAOUK C.BNI SMIH CHEFCHAOUEN",
+    "AdresseA": "دوار أملاوك جماعة بني سميح",
+    "COMMUNE": "Bni Smih",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IKOURRANE",
+    "NOM_ETABA": "م/م إقوران",
+    "AdresseL": "DOUAR IKOURRANE CR/BNI SMIH CHEFCHAOUEN",
+    "AdresseA": "دوار إقوران جماعة بني سميح",
+    "COMMUNE": "Bni Smih",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZDEMTE",
+    "NOM_ETABA": "م/م زدمت",
+    "AdresseL": "DOUAR ZDEMTE C BNI SMIH CHEFCHAOUEN",
+    "AdresseA": "دوار زدمت جماعة بني سميح",
+    "COMMUNE": "Bni Smih",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant Bni Smih",
+    "NOM_ETABA": "الثانوية التأهيلية بني سميح",
+    "AdresseL": "centre de la commune",
+    "AdresseA": "مركز الجماعة",
+    "COMMUNE": "Bni Smih",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

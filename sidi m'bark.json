@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "lycee collegial siDI MBAREK",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي مبارك",
+    "AdresseL": "centre commune sidi mbarek",
+    "AdresseA": "مركز جماعة سيدي مبارك",
+    "COMMUNE": "Sidi M'Bark",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL KHAWARIZMI CENTRE IDBAIZ",
+    "NOM_ETABA": "مجموعة مدارس الخوارزمي مركزية ادبعيز",
+    "AdresseL": "DOUAR IDBAIZ",
+    "AdresseA": "دوار ادبعيز",
+    "COMMUNE": "Sidi M'Bark",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL FARABI CENTRE SIDI DAOUD",
+    "NOM_ETABA": "مجموعة مدارس الفارابي مركزية سيدي داود",
+    "AdresseL": "DOUAR SIDI DAOUD",
+    "AdresseA": "سيدي داود",
+    "COMMUNE": "Sidi M'Bark",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE IBNOU BASSAME CENTRE TATAROUSTE",
+    "NOM_ETABA": "مجموعة مدارس ابن بسام مركزية تطروست",
+    "AdresseL": "DOUAR TATAROUSTE",
+    "AdresseA": "دوار تطروست",
+    "COMMUNE": "Sidi M'Bark",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL HANSSALI CENTRE IKOURAYNE AIT ",
+    "NOM_ETABA": "مجموعة مدارس الحنصالي مركزية اكورين ايت علي",
+    "AdresseL": "DOUAR IKOURAYNE  AIT ALI",
+    "AdresseA": "دوار اكورين ايت علي",
+    "COMMUNE": "Sidi M'Bark",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE IBNOU BAJJA CENTRE ID NACER",
+    "NOM_ETABA": "مجموعة مدارس ابن باجة مركزية ادناصر",
+    "AdresseL": "DOUAR ID NACER",
+    "AdresseA": "دوار ادناصر",
+    "COMMUNE": "Sidi M'Bark",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

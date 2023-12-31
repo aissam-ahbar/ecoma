@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ATTASSAMOH",
+    "NOM_ETABA": "الثانوية الاعدادية التسامح",
+    "AdresseL": "douar ouled talabe zamran sid taybi",
+    "AdresseA": "دوار أولاد الطالب الزمراني سدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MACHATILE",
+    "NOM_ETABA": "الثانوية الإعدادية المشاتل",
+    "AdresseL": "SIDI TAIBI",
+    "AdresseA": "سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI TAIBI",
+    "NOM_ETABA": "  الثانوية الاعدادية سيدي الطيبي",
+    "AdresseL": "COMMUNE SIDI TAIBICENTRE",
+    "AdresseA": "جماعة سيدي الطيبي المركز",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI TAIBI 1",
+    "NOM_ETABA": "سيدي الطيبي 1",
+    "AdresseL": "SIDI TAIBI CENTRE   COMMUNE SIDI TAIBI",
+    "AdresseA": "جماعة سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED MOUSSA",
+    "NOM_ETABA": "اولاد موسى",
+    "AdresseL": "DOUAR OULED MOUSSA   COMMUNE SIDI TAIBI",
+    "AdresseA": "دوار اولاد موسى ج/ سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED TALEB",
+    "NOM_ETABA": "اولاد الطالب",
+    "AdresseL": "DOUAR OULED TALEB    COMMUNE SIDI TAIBI",
+    "AdresseA": "دوار اولاد الطالب الشرقية ج/ سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI TAYBI 2",
+    "NOM_ETABA": "سيدي الطيبي 2",
+    "AdresseL": "COMMUNE SIDI TAIBI",
+    "AdresseA": "ج/سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED NCER",
+    "NOM_ETABA": "اولاد انصر",
+    "AdresseL": "sidi taibi centre",
+    "AdresseA": "مركزسيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " AL BASSATINE",
+    "NOM_ETABA": "البساتين",
+    "AdresseL": "SIDI TAIBI CENTRE",
+    "AdresseA": "مركز سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAKHIL",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "SIDI TAIBI CENTRE",
+    "AdresseA": "مركز سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANOUAL",
+    "NOM_ETABA": "م/م أنوال",
+    "AdresseL": "centre sidi taibi",
+    "AdresseA": "مركز سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED BOUKMAKH",
+    "NOM_ETABA": "أحمد بوكماخ",
+    "AdresseL": "SIDI TAIBI CENTRE",
+    "AdresseA": "مركز سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL ANOUAR",
+    "NOM_ETABA": " الثانوية التأهيلية الأنوار",
+    "AdresseL": "SIDI TAIBI CENTRE",
+    "AdresseA": "سيدي الطيبي المركز",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL KHALIL",
+    "NOM_ETABA": "الخليل",
+    "AdresseL": "sidi taibi",
+    "AdresseA": "سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire val d aoste",
+    "NOM_ETABA": "المجموعة المدرسية فال داوست الخاصة ",
+    "AdresseL": "secteur 5 n° 61 - SIDI TAIBI",
+    "AdresseA": "قطاع 5 رقم 61 سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire ilm albayane",
+    "NOM_ETABA": "مجموعة مدارس علم البيان الخصوصية",
+    "AdresseL": "141 secteur 8 sidi taibi kenit",
+    "AdresseA": "رقم 141 سكتور 8 سيدي الطيبي",
+    "COMMUNE": "Sidi Taibi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

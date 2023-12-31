@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF BNOU TACHFINE",
+    "NOM_ETABA": "الثانوية الاعدادية يوسف بن تاشفين",
+    "AdresseL": "CENTRE DE BAB TAZA COMMUNE BAB TAZA",
+    "AdresseA": "مركز باب تازة جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ALLAL BEN ABDELLAH BAB TAZA",
+    "NOM_ETABA": "م/م علال بن عبد الله _باب تازة",
+    "AdresseL": "centre babtaza",
+    "AdresseA": "باب تازة المركز جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI ZID",
+    "NOM_ETABA": "م/م بني زيد",
+    "AdresseL": "DOUAR BNI ZID BAB TAZACHEFCHAOUEN",
+    "AdresseA": "دوار بني زيد جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI MOUSSA MAGOU",
+    "NOM_ETABA": "م/م سيدي موسى _ماكو",
+    "AdresseL": "DOUAR MAGOU BAB TAZA CHEFCHAOUEN",
+    "AdresseA": "دوار ماكو جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMEGRI",
+    "NOM_ETABA": "م/م أمكري",
+    "AdresseL": "DOUAR AMEGRI C BAB TAZA CHEFCHAOUEN",
+    "AdresseA": "دوار أمكري جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI YALSOU LAGHZANA",
+    "NOM_ETABA": "م/م سيدي يلصو _ لخزانة",
+    "AdresseL": "DOUAR LAKHZANACBAB TAZACHEFCHAOUEN",
+    "AdresseA": "دوار لخزانة جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HAJ AHMED ASLANI BOUZTAT",
+    "NOM_ETABA": "م/م الحاج احمد العسلاني _بوزطاط",
+    "AdresseL": "DOUAR BOUZTATCBAB TAZACHEFCHAOUEN",
+    "AdresseA": "دوار بوزطاط جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TINGHAYA EL GHARBIA",
+    "NOM_ETABA": "م/م تنغاية الغربية",
+    "AdresseL": "DOUAR TINGHAYA C BAB TAZA CHEFCHAOUEN",
+    "AdresseA": "دوار تنغاية جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL WAHDA AL IFRIQUIA",
+    "NOM_ETABA": "الثانوية التأهيلية الوحدة الإفريقية",
+    "AdresseL": "BAB TAZA COMMUNE BAB TAZA CHEFCHAOUEN",
+    "AdresseA": "باب تازة جماعة باب تازة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "DARWICH POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "درويش للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز باب تازة حي بن ديرة",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement KANZ ALHIKMA",
+    "NOM_ETABA": "مؤسسة كنز الحكمة الخصوصية",
+    "AdresseL": "CENTRE BAB TAZA CHEFCHAOEN",
+    "AdresseA": "مركز باب تازة شفشاون",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAHMOUD DEROUICH",
+    "NOM_ETABA": "محمود درويش",
+    "AdresseL": "BAB TAZA CENTRE CHEFCHAOUEN",
+    "AdresseA": "باب تازة المركز اقليم شفشاون",
+    "COMMUNE": "Bab Taza",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

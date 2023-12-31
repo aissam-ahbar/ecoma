@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Ait Ali Ouiko",
+    "NOM_ETABA": "الثانوية الإعدادية أيت علي ويكو",
+    "AdresseL": "DOUAR AIT ATTOU OUIKO",
+    "AdresseA": "دوارايت عتو ويكو تلمي",
+    "COMMUNE": "Tilmi",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collégial Tilmi ",
+    "NOM_ETABA": "الثانوية الاعدادية تلمي",
+    "AdresseL": "tilmi",
+    "AdresseA": "تلمي",
+    "COMMUNE": "Tilmi",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AIT MORGHAD",
+    "NOM_ETABA": "م.م ايت مرغاد",
+    "AdresseL": "AIT MARGHAD TILMI tinghir",
+    "AdresseA": "ايت مرغاد تلمي تنغير",
+    "COMMUNE": "Tilmi",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUDJAM",
+    "NOM_ETABA": "م.م بودجام",
+    "AdresseL": "TILMI MSMRIR ",
+    "AdresseA": "تلمي امسمرير",
+    "COMMUNE": "Tilmi",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT OUAATIK",
+    "NOM_ETABA": "م.م ايت واعتيق",
+    "AdresseL": "Douar Ait ouaatik -Ait marghad -CR Tilmi -Tinghir",
+    "AdresseA": "دوار ايت اعتيق -ايت مرغاد -جماعة تلمي -تنغير",
+    "COMMUNE": "Tilmi",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT ALI OUIKKOU",
+    "NOM_ETABA": "م.م ايت علي ويكو",
+    "AdresseL": "tilm tinghir ",
+    "AdresseA": "ايت علي ويكو",
+    "COMMUNE": "Tilmi",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

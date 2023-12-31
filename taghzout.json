@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE TAGHZOUT",
+    "NOM_ETABA": "اع. تغزوت",
+    "AdresseL": "COMMUNE TAGHZOUT",
+    "AdresseA": "جماعة تغزوت",
+    "COMMUNE": "Taghzout",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAGHZOUT",
+    "NOM_ETABA": "م/م تغزوت",
+    "AdresseL": "DOUAR TAGHZOUT COMMUNE TAGHZOUT",
+    "AdresseA": "دوار تغزوت جماعة تغزوت",
+    "COMMUNE": "Taghzout",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI YAKHLEF",
+    "NOM_ETABA": "بني يخلف",
+    "AdresseL": "DOUAR BNI YAKHLEF COMMUNE TAGHZOUT",
+    "AdresseA": "دوار بني يخلف جماعة تغزوت",
+    "COMMUNE": "Taghzout",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

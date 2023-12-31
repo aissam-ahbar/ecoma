@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ALI CHERIF",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي علي الشريف",
+    "AdresseL": "SBAA AIYOUN CENTRE",
+    "AdresseA": "سبع عيون المركز",
+    "COMMUNE": "Sabaa Aiyoun",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU ROCHD",
+    "NOM_ETABA": "الثانوية الإعدادية ابن رشد",
+    "AdresseL": "HAY SAADA",
+    "AdresseA": "حي السعادة",
+    "COMMUNE": "Sabaa Aiyoun",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOUKHTAR SOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "HAY BOURAY SBAA AIYOUN",
+    "AdresseA": "حي بوراي سبع عيون",
+    "COMMUNE": "Sabaa Aiyoun",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN TOUFAIL",
+    "NOM_ETABA": "ابن طفيل",
+    "AdresseL": "HAY PAM SBAA AIYOUN",
+    "AdresseA": "حي بام سبع عيون",
+    "COMMUNE": "Sabaa Aiyoun",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR EL BAIDA",
+    "NOM_ETABA": "الدار البيضاء",
+    "AdresseL": "SABAA AIYOUN",
+    "AdresseA": "سبع عيون",
+    "COMMUNE": "Sabaa Aiyoun",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT YAHYA",
+    "NOM_ETABA": "ايت يحيى",
+    "AdresseL": "SBAA AYOUN",
+    "AdresseA": "سبع عيون",
+    "COMMUNE": "Sabaa Aiyoun",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZRAKTOUNI",
+    "NOM_ETABA": "الزرقطوني",
+    "AdresseL": "HAY OUED DAHABE SBAA AYOUN",
+    "AdresseA": "حي واد الدهب سبع عيون",
+    "COMMUNE": "Sabaa Aiyoun",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycee qualifiant IBN SINA",
+    "NOM_ETABA": "ثانوية ابن سينا التأهيلية",
+    "AdresseL": "HAY AGDAL SBAA AIYOUN",
+    "AdresseA": "حي اكدال سبع عيون",
+    "COMMUNE": "Sabaa Aiyoun",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BARAIME AL GHAD",
+    "NOM_ETABA": "براعم الغد",
+    "AdresseL": "05/06 HAY AGDAL ",
+    "AdresseA": "حي اكدال رقم 5 و 6",
+    "COMMUNE": "Sabaa Aiyoun ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "boulough  al maram",
+    "NOM_ETABA": "بلوغ المرام",
+    "AdresseL": "hay agdal 10 SBAA AYOUN",
+    "AdresseA": "حي أكدال  رقم10     سبع عيون",
+    "COMMUNE": "Sabaa Aiyoun ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les doues",
+    "NOM_ETABA": "ليدوي",
+    "AdresseL": "el marzoukia  n° 9 sbaa ayoun",
+    "AdresseA": "المرزوقية  رقم9 سبع عيون",
+    "COMMUNE": "Sabaa Aiyoun ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZOHOUR ALBOUSTANE",
+    "NOM_ETABA": "مدرسة زهور البستان الخاصة",
+    "AdresseL": "LOTISMENT AL BOUSTANE N296",
+    "AdresseA": "تجزئة البستان رقم 296",
+    "COMMUNE": "Sabaa Aiyoun ",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

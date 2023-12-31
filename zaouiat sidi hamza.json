@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZAOUIT SIDI HAMZA",
+    "NOM_ETABA": " الثانوية الاعدادية زاوية سيدي حمزة",
+    "AdresseL": "zaouit sidi hamza centre",
+    "AdresseA": "زاوية سيدي حمزة المركز",
+    "COMMUNE": "Zaouiat Sidi Hamza",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " S/S ABI SALIM ALAYACHI",
+    "NOM_ETABA": "  م/م ابي سليم العياشي",
+    "AdresseL": "ZAOUIYA SIDI HAMZA RICH",
+    "AdresseA": "زاوية سيدي حمزة الريش",
+    "COMMUNE": "Zaouiat Sidi Hamza",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " S/S ABDELMOUMENE",
+    "NOM_ETABA": "  م/م عبد المومن",
+    "AdresseL": "KSAR TAZROUFTE ZAOUIT SIDI HAMZA RICH",
+    "AdresseA": "قصر تازروفت زاوية سيدي حمزة",
+    "COMMUNE": "Zaouiat Sidi Hamza",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

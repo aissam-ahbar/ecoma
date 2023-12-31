@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "TRAIBA CENTRE",
+    "NOM_ETABA": "الترايبة المركز",
+    "AdresseL": " TRAIBA COMMUNE TRAIBA",
+    "AdresseA": "اترايبة جماعة اترايبة",
+    "COMMUNE": "Traiba",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KHARROUBA CENTRE",
+    "NOM_ETABA": "الخروبة المركز",
+    "AdresseL": "DOUA EL KHARROUBA COMMUNE TRAIBA",
+    "AdresseA": "دوارالخروبة  جماعة الترايبة",
+    "COMMUNE": "Traiba",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAB JANANE CENTRE",
+    "NOM_ETABA": "باب جنان المركز",
+    "AdresseL": "BAB JANANE COMMUNE TRAIBA",
+    "AdresseA": "دوارباب جنان  جماعة الترايبة",
+    "COMMUNE": "Traiba",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JAMLILA CENTRE",
+    "NOM_ETABA": "الجمليلة المركز",
+    "AdresseL": "DOUAR JAMLILA COMMUNE TRAIBA",
+    "AdresseA": "الجمليلة المركز جماعة الترايبة",
+    "COMMUNE": "Traiba",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

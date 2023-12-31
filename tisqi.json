@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "CENTRE TISQUI",
+    "NOM_ETABA": "مركزية تسقي",
+    "AdresseL": "CENTRE COMMUNE TISQUI AIT AATAB",
+    "AdresseA": "مركز جماعة تسقي ايت اعتاب",
+    "COMMUNE": "Tisqi",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ASSAMSSIL",
+    "NOM_ETABA": "مركزية اسمسيل",
+    "AdresseL": "DOUAR OULAD MAAMER commune tisqui",
+    "AdresseA": "دوار اولاد معمر ",
+    "COMMUNE": "Tisqi",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

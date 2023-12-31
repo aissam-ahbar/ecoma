@@ -1,0 +1,1082 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RIDA ESSLAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية رضى السلاوي",
+    "AdresseL": "sala  jadida   hssaine",
+    "AdresseA": "سلا الجديدة   الحي الملكي  احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMAGHRIB ALARABI",
+    "NOM_ETABA": "الثانوية الإعدادية المغرب العربي",
+    "AdresseL": "sala aljadida",
+    "AdresseA": "سلا الجديدة",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL HIZAM AL AKHDAR",
+    "NOM_ETABA": "الثانوية الإعدادية الحزام الأخضر",
+    "AdresseL": "COMMUNE HSAINE",
+    "AdresseA": "جماعة احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAAYOUN",
+    "NOM_ETABA": "الثانوية الإعدادية العيون",
+    "AdresseL": "AV MY RACHID COMMUNE DE HSAINE",
+    "AdresseA": "القرية جماعة احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM MALEK",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مالك",
+    "AdresseL": "secteur3 hay safae karia sale",
+    "AdresseA": "سكتور3 حي الصفاء القرية  سلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL BOUSTANE",
+    "NOM_ETABA": " الثانوية الإعدادية البستان",
+    "AdresseL": "av My Abellah hay Nahda HSAINE ELQUARIA",
+    "AdresseA": "شارع مولاي عبد اله حي النهظة احصين سلا        ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKABIR ELKHATIBI",
+    "NOM_ETABA": " الثانوية الإعدادية عبد الكبير الخطيبي",
+    "AdresseL": "HSAINE ELQUARIA AV MOULAY RACHID",
+    "AdresseA": "القرية جماعة احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED BEL YAMANI",
+    "NOM_ETABA": " الثانوية الإعدادية أحمد بليمني",
+    "AdresseL": "CITE ROYALE H SAINE",
+    "AdresseA": "الحي الملكي أحصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HALIMA ASSAADIA",
+    "NOM_ETABA": "الثانوية الإعدادية حليمة السعدية",
+    "AdresseL": "KARIAT OULED MOUSSA COMMUNE HSSAINE",
+    "AdresseA": "لقرية احصينا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH GUENNOUN",
+    "NOM_ETABA": " الثانوية الإعدادية عبد الله كنون",
+    "AdresseL": "CITE ROYALE COMMUNE DE HSAINE",
+    "AdresseA": "الحي الملكي أحصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL BEN ABDELLAH",
+    "NOM_ETABA": " الثانوية الإعدادية علال بن عبد الله",
+    "AdresseL": "CITE ROYALE COMMUNE DE HSAINE",
+    "AdresseA": "الحي الملكي أحصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDERRAHMAN IBN AOUF",
+    "NOM_ETABA": "مدرسة عبد الرحمان بن عوف",
+    "AdresseL": "HAY ESSAFAE  COMMUNE DE HSAINE",
+    "AdresseA": "[ جماعة احصين  حي الصفاء ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAHID MOHAMED HIANI",
+    "NOM_ETABA": "مدرسة الشهيد محمد الحياني",
+    "AdresseL": "AV MY ABDELLAH ALKARIA COMMUNE DE HSAINE",
+    "AdresseA": "شارع مولاي عبد الله",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL KINDI",
+    "NOM_ETABA": "مدرسة الكندي",
+    "AdresseL": "HAY RACHAD EL KARIA  SALE",
+    "AdresseA": "حي الرشاد شارع مولاي عبد الله القرية احصين- سلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BOUCHAIB EL HRIZI",
+    "NOM_ETABA": "مدرسة بوشعيب  الحريزي",
+    "AdresseL": "AVENUE Med 5 SECTEUR 4 SALE",
+    "AdresseA": "شارع محمد الخامس قطاع 4 القرية - سلا - احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AMER ESSOUFLA",
+    "NOM_ETABA": "مدرسة عامر السفلى",
+    "AdresseL": "HAY EL KIFAH AV AL MASSIRA  COMMUNE DE HSAINE",
+    "AdresseA": "حي الكفاح شارع المسيرة - القرية - جماعة احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HSAINE",
+    "NOM_ETABA": "مدرسة احصين",
+    "AdresseL": "AVE AL MASSIRA EL KHADRA SEC7 KARIAT OULAD MOUSSA",
+    "AdresseA": "شارع المسيرة الخضراء سكتور 7 قرية اولاد موسى احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHARIF EL IDRISSI",
+    "NOM_ETABA": "مدرسة الشريف الادريسي",
+    "AdresseL": "HAY ES SAFAE SECTEUR 3  HSAIN  SALE",
+    "AdresseA": "حي الصفاء سكتور 3 احصين - سلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN SGHIR",
+    "NOM_ETABA": "مدرسة حسن الصغير",
+    "AdresseL": "AV MY ABDELLAH HAY AL FARAH COMMUNE DE HSAINE",
+    "AdresseA": "حي الفرح",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELKARIM GHALLAB",
+    "NOM_ETABA": "مدرسة عبد الكريم غلاب",
+    "AdresseL": "AV MY ABDELHAFID  COMMUNE DE HSAINE",
+    "AdresseA": "شارع مولاي عبد الحفيظ قطاع 4 - جماعة احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BIR ANZARANE",
+    "NOM_ETABA": " مدرسة بئر انزران",
+    "AdresseL": "HAY ANNASR ALKARIA COMMUNE DE HSAINE",
+    "AdresseA": "حي النصر قطاع 8 القرية سلا ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YAAKOUB AL MANSOUR",
+    "NOM_ETABA": "مدرسة يعقوب المنصور",
+    "AdresseL": "HAY SSAFAAE HSSAIN",
+    "AdresseA": "حي الصفاء -  احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OTHMANE BNOU AFFAN",
+    "NOM_ETABA": "مدرسة عثمان بن عفان",
+    "AdresseL": "HAY EL WAHDA HSSAIN   SALE",
+    "AdresseA": "حي الوحدة احصين - سلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " OULAD HLAL",
+    "NOM_ETABA": "اولاد هلال المركزية",
+    "AdresseL": "OULAD HLAL CENTRE HSSEIN  SALE",
+    "AdresseA": "اولاد هلال المركزية احصين - سلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SIDI HMIDA",
+    "NOM_ETABA": "مجموعة مدارس سيدي حميدة",
+    "AdresseL": "douar riah  HsSAINE COMMUNE DE HsSAINE",
+    "AdresseA": "دوار الرياح احصين ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED BAROUDI",
+    "NOM_ETABA": "مدرسة محمد البارودي",
+    "AdresseL": "RUE FKIH TETOUANI",
+    "AdresseA": "الحي الملكي",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ASSADIK BELARBI",
+    "NOM_ETABA": "مدرسة الصديق بلعربي",
+    "AdresseL": "BOULVARD FKIH DOUKALI HAY MALAKI",
+    "AdresseA": "الحي الملكي",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAHID ALI BEN TAHAR BIH",
+    "NOM_ETABA": "مدرسة الشهيد علي بن الطاهر ابيه",
+    "AdresseL": "KM 7 ROUTE BRIBRI OULJA  SALE",
+    "AdresseA": "الكلم 7  طربق الولجة - سلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR IBN ABDELAZIZ",
+    "NOM_ETABA": "مدرسة عمر بن عبد العزيز",
+    "AdresseL": "CITE ROYALE COMMUNE DE HSAINE",
+    "AdresseA": "الحي الملكي أحصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JAMAL EDDINE LAMHIYAOUI",
+    "NOM_ETABA": "مدرسة جمال الدين المهياوي",
+    "AdresseL": "HAY EL WALAA EL KARIA",
+    "AdresseA": "حي الولاء القرية",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ROKAYA BINT ARRASSOUL",
+    "NOM_ETABA": "مدرسة رقية بنت الرسول",
+    "AdresseL": "KARIAT OULAD MOUSSA  HSSAINE",
+    "AdresseA": "قرية أولاد موسى - احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI ABDELLAH BEN HASSOUN",
+    "NOM_ETABA": "مدرسة سيدي عبد الله بن حسون",
+    "AdresseL": "ALLEE ABOU BAKER AAOUAD  SALE al jadida",
+    "AdresseA": "ممر ابو بكر عواد - سلا الجديدة",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED CHRIF AMEZYANE",
+    "NOM_ETABA": " مدرسة محمد الشريف أمزيان",
+    "AdresseL": "AV ABDERRAHIM BOUABID CITE ROYAL",
+    "AdresseA": "شارع عبد الرحيم بوعبيد الحي الملكي سلا الجديدة",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED BEL YAMANI",
+    "NOM_ETABA": "مدرسة احمد بليمني",
+    "AdresseL": "Avenue abderrahim bouabid  SALE",
+    "AdresseA": "شارع عبد الرحيم بوعبيد - سلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  11 JANVIER",
+    "NOM_ETABA": "مدرسة 11يناير",
+    "AdresseL": " passage marrakech avenue atlas sala jadida",
+    "AdresseA": "ممر مراكش شارع الأطلس سلا الجديدة",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIBAOUIH",
+    "NOM_ETABA": " مدرسة سيبويه",
+    "AdresseL": "sala jadida ",
+    "AdresseA": "سلاالحدبدة",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED TAIMMADE",
+    "NOM_ETABA": "مدرسة محمد  تيمد",
+    "AdresseL": "pres souk elkhamis HSAIN ",
+    "AdresseA": " احصين .اتجزئة سوق الخميس",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TOURIA SEKKAT",
+    "NOM_ETABA": "مدرسة ثريا السقاط",
+    "AdresseL": "Commune Hssaine",
+    "AdresseA": "جماعة احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MOUTANABI",
+    "NOM_ETABA": " الثانوية التأهيلية المتنبي",
+    "AdresseL": "KARIAT OULAD MOUSSA COMMUNE DE HSAINE",
+    "AdresseA": "القرية جماعة احصين",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL AL FASSI",
+    "NOM_ETABA": " الثانوية التأهيلية علال الفاسي",
+    "AdresseL": "CITE ROYALE COMMUNE DE HSAINE",
+    "AdresseA": "الحي الملكي  سلا الجديدة",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT GHANDI",
+    "NOM_ETABA": " الثانوية التأهيلية غاندي",
+    "AdresseL": "HAY EL WAHDA SECTEUR 7 KARIAT OULED MOUSSA",
+    "AdresseA": "حي الوحدة قطاع 7 - قرية أولاد موسى",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": " الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": " CITE ROYAL HSSAINE",
+    "AdresseA": "الحي الملكي  سلا الجديدة",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MANDAR EL JAMIL",
+    "NOM_ETABA": " الثانوية التأهيلية المنظر الجميل",
+    "AdresseL": "HSSAIN SALA",
+    "AdresseA": "جماعة احصين",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUHA OUHAMOU EZZAYANI",
+    "NOM_ETABA": " الثانوية التأهيلية موحى أوحمو الزياني ",
+    "AdresseL": "KARIAT  HSSAINE",
+    "AdresseA": "القرية احصين",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABI CHOUAIB DOUKALI",
+    "NOM_ETABA": " الثانوية التأهيلية ابي شعيب الدكالي",
+    "AdresseL": "sale hssain",
+    "AdresseA": "سلا احصين",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED VI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس ",
+    "AdresseL": "hay malaky sala aljadida",
+    "AdresseA": "الحي الملكي سلا الجديدة",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED ELBARDOUZI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد البردوزي",
+    "AdresseL": "AVENUE MOHAMED BENALI EDDOKKALI COMMUNE DE HSAINE ",
+    "AdresseA": "شارع محمد بنعلي الدكالي مقاطعة احصين   سلا الجديدة",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT JABER IBN HAYANE",
+    "NOM_ETABA": "الثانوية التأهيلية جابر بن حيان",
+    "AdresseL": "Secteur 8 Hay nasr KARIAT",
+    "AdresseA": "قطاع 8 حي النصر القرية",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KADI AYAD",
+    "NOM_ETABA": "الثانوية التأهيلية القاضي عياض",
+    "AdresseL": "KARIAT OULAD MOUSSA SECTEUR 8 HAY NASR",
+    "AdresseA": "قرية أولاد موسى سكتور 8 حي النصر ",
+    "COMMUNE": "Hssaine ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT EL FARISS",
+    "NOM_ETABA": " معهد الفارس",
+    "AdresseL": " Sala Al Jadida - AVENUE ABDER",
+    "AdresseA": "سلا الجديدة  شارع عبدالرحيم بو",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PYRAMIDE",
+    "NOM_ETABA": "لابيراميد",
+    "AdresseL": "N°789 zone villa sala-al-jadid",
+    "AdresseA": "رقم 789 تجزئة الفيلات سلا الجد",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE SCOLAIRE KHALIL ABDELHAFID",
+    "NOM_ETABA": "المركب المدرسي خليل عبد الحفيظ",
+    "AdresseL": "Sala Jadida CHARIA AL OUROBA",
+    "AdresseA": "سلا الجديدة شارع العروبة",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARISS SALA AL JADIDA",
+    "NOM_ETABA": "مدارس سلا الجديدة",
+    "AdresseL": "El Hay El Malaky , Sala El Jad",
+    "AdresseA": "شارع عبد الرحيم بوعبيد 18 الحي",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES NOBLES",
+    "NOM_ETABA": "مجموعة مدارس النبلاء",
+    "AdresseL": "El Hay Al Malaky Sala Al Jadid",
+    "AdresseA": "ممر أبو بكر القادري الحي الملك",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ROCHD",
+    "NOM_ETABA": "الرشد",
+    "AdresseL": "El Hay El Malaky, Sala Al Jadi",
+    "AdresseA": "رقم 9 ممر مكناس الحي الملكي اح",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNADIR",
+    "NOM_ETABA": "الندير",
+    "AdresseL": "lotissement villas n 133  sala",
+    "AdresseA": "تجزئة الفيلات رقم 133 سلا الجد",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL AMAL",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "39 loT villas sala jadida ",
+    "AdresseA": "رقم 39 تجزئة الفيلات",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DE L ACADEMIE MOHAMMED6 DE FOOTBALL",
+    "NOM_ETABA": "المجموعة المدرسية لإكاديمية محمد السادس لكرة القدم",
+    "AdresseL": "douar sidi hmida sala jadida a",
+    "AdresseA": "دوار رباح سيدي حميدة سلا الجدي",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AHL HSSAINE",
+    "NOM_ETABA": "أهل احصين",
+    "AdresseL": "lotissement fath el kheir n° 4",
+    "AdresseA": "تجزئة فتح الخير رقم 04 حي البر",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL AMANA SALA-AL-JADIDA",
+    "NOM_ETABA": "الأمانة سلا الجديدة",
+    "AdresseL": "av mohamed 5 sala jadida ahsai",
+    "AdresseA": "شارع محمد الخامس سلا الجديدة أ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN DE LAFONTAINE",
+    "NOM_ETABA": "جون دو لافونتين",
+    "AdresseL": "hay malaki lot villa n 40",
+    "AdresseA": "    الحي الملكي تجزئة الفيلات ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT ADAM",
+    "NOM_ETABA": "معهد آدم الخصوصي",
+    "AdresseL": "372 lot villas sala aljadida ",
+    "AdresseA": " رقم 372 تجزئة الفيلات ،سلا ال",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL QODS",
+    "NOM_ETABA": " معهد القدس",
+    "AdresseL": "Km 5 Route de Meknès - Hssaine",
+    "AdresseA": "كلم 5 طريق مكناس - احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARREDA",
+    "NOM_ETABA": "الرضى",
+    "AdresseL": "Boulevard Al Abtal Secteur 4 H",
+    "AdresseA": "شارع الأبطال سكتور 4 حي البركة",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE MOHAMED KHALIL",
+    "NOM_ETABA": "المركب محمد خليل",
+    "AdresseL": "Boulevard Abderrahim Bouabid C",
+    "AdresseA": "شارع عبد الرحيم بوعبيد الحي ال",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAHD AL MAARIFA",
+    "NOM_ETABA": "مهد المعرفة",
+    "AdresseL": "N° 151, Lot. Rouwayd, Hay El F",
+    "AdresseA": "رقم 151، تجزئة رويد، حي الفرخ ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HIRAE",
+    "NOM_ETABA": "حيراء",
+    "AdresseL": "Rue Al Massira, Secteur 7, Hay",
+    "AdresseA": "زنقة المسيرة، سيكتور 7، حي الو",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL NOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "Rue Sidi Belyout, Hay El Barak",
+    "AdresseA": "زنقة سيدي بليوط، حي البركة - ج",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WALILI",
+    "NOM_ETABA": "وليلي",
+    "AdresseL": "Av. My Abdel Allah, Rue Ain Al",
+    "AdresseA": "شارع مولاي عبد الله، زنقة العي",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE OUM EL KORA",
+    "NOM_ETABA": "المركب التربوي أم القرى",
+    "AdresseL": "Lotis. Essalam- Kariat Oulad M",
+    "AdresseA": "تجزئة السلام قرية اولاد موسى -",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES ACHBAL KARAOUIENEES",
+    "NOM_ETABA": "مدارس أشبال القرويين الخصوصية",
+    "AdresseL": "lot Reda - hssaine - sale",
+    "AdresseA": "تجزئة الرضى احصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AHL HSAINE 2",
+    "NOM_ETABA": "أهل أحصين 2",
+    "AdresseL": "lot fath lkhir n 84 et 85 hay ",
+    "AdresseA": "تجزئة الفتح الخير رقم 84 و 85ح",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "n 304 lot villa salé jadida",
+    "AdresseA": "رقم 304 تجزئة الفيلات سلا الجد",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT JENINE",
+    "NOM_ETABA": "معهد جنين",
+    "AdresseL": "av principale n 31 awlad hlal ",
+    "AdresseA": "31 شارع أولاد اهلال الرئيسي سل",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES ALROCHD2",
+    "NOM_ETABA": "مدارس الرشد 2",
+    "AdresseL": "LOT VILLA N 988 SALA JADIDA",
+    "AdresseA": "تجزئة الفيلات رقم 988 سلا الجد",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE RHAFIRI ABDELMAJID",
+    "NOM_ETABA": "مجموعة مدارس غفيري عبد المجيد الخصوصية",
+    "AdresseL": "lot villa n 423 sala jadida",
+    "AdresseA": "تجزئة الفيلات رقم 423 سلا الجد",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AHL HSSAIN ANNEXE2",
+    "NOM_ETABA": "أهل أحصين الملحقة الثانية",
+    "AdresseL": "av prince sisdi mohamed secteu",
+    "AdresseA": "شارع الأمير سيدي محمد قطاع 5 ح",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOROUJ",
+    "NOM_ETABA": "المروج",
+    "AdresseL": "LOT VILLA N 763 SALA JADIDA",
+    "AdresseA": "تجزئة الفيلات الرقم 763 سلا ال",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSAAD",
+    "NOM_ETABA": "السعد",
+    "AdresseL": "RUE TAFRAOUT N 16 HAY FARAH KA",
+    "AdresseA": "زنقة تافراوت رقم 16 حي الفرح ا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FADILA",
+    "NOM_ETABA": "الفضيلة",
+    "AdresseL": "RUE KALAA MAGOUNA N 11 HAY FAR",
+    "AdresseA": "زنقة قلعة مكونة رقم 11 حي الفر",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZOUZFANA",
+    "NOM_ETABA": "زوزفانة",
+    "AdresseL": "AVENUE LAL MERIEM IMM DOHA N 4",
+    "AdresseA": "شارع للا مريم العمارة الضحى رق",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BAHAE",
+    "NOM_ETABA": "البهاء",
+    "AdresseL": "RUE MASMOUDA N 21 HAY OUAHDA K",
+    "AdresseA": "زنقة مصمودة رقم 21 حي الوحدة ا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASOUMOUD",
+    "NOM_ETABA": "الصمود",
+    "AdresseL": "RUE TAROUAL N 8 HAY KIFAH KARY",
+    "AdresseA": "زنقة تروال رقم8 حي الكفاح القر",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AHMED",
+    "NOM_ETABA": "أحمد",
+    "AdresseL": "LOT CHARIF N 37 AOULAD HILAL S",
+    "AdresseA": "تجزئة الشريف رقم 37 اولاد أهلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMANHAL",
+    "NOM_ETABA": "المنهل",
+    "AdresseL": "LOT FATH EL KHIR HAY FARAH n 1",
+    "AdresseA": "تجزئة فتح الخير رقم 10 حي الفر",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HATIM",
+    "NOM_ETABA": "حاتم",
+    "AdresseL": "AV MOHAMED BEN HASSAN IMM 42 N",
+    "AdresseA": "شارع محمد بن الحسن عمارة 42 رق",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIHAB",
+    "NOM_ETABA": "رحاب",
+    "AdresseL": "IMM 25 REZ DAE CHAUSS2E SALA J",
+    "AdresseA": "عمارة 25 الطابق السفلي سلا الج",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUCH AL MALAIKA",
+    "NOM_ETABA": "عش الملائكة",
+    "AdresseL": "av mohamed 5 53 n 3 sala jadid",
+    "AdresseA": "شارع محمد الخامس 53 رقم 3 سلا ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AILM WA AL MAARIFA",
+    "NOM_ETABA": "العلم والمعرفة",
+    "AdresseL": "RUE AIN ASSARDOUN HAY NAHDA N ",
+    "AdresseA": "زنقة عين أسردون حي النهضة رقم ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL AMAL",
+    "NOM_ETABA": "براعم الأمل",
+    "AdresseL": "N 21 RUE KIKOU HAY AMAL KARYA ",
+    "AdresseA": "رقم 21 زنقة كيكو حي الأمل القر",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JABAL AL AYACHI",
+    "NOM_ETABA": "جبل العياشي",
+    "AdresseL": "RUE AIN DAFALI 37 HAY NAHDA KA",
+    "AdresseA": "زنقة عين الدفالي 37 حي النهضة ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TOYOUR ESSALAM",
+    "NOM_ETABA": "طيور السلام",
+    "AdresseL": "rue jbel hebri hay ennasr kari",
+    "AdresseA": "زنقة جبل هبري حي النصر القرية ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SAAD",
+    "NOM_ETABA": "سعد",
+    "AdresseL": "N 1RUE SANHAJA HAY OUAHDA KARY",
+    "AdresseA": "رقم 1 زنقة صنهاجة حي الوحدة ال",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JANAT EL AZHAR",
+    "NOM_ETABA": "جنة الأزهر",
+    "AdresseL": "N 127 AVENUE EZARKTOUNI SECTEU",
+    "AdresseA": "رقم 127 شارع الزرقطوني قطاع 4 ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM ERRABIE",
+    "NOM_ETABA": "أم الربيع",
+    "AdresseL": "RUE JBEL HABRI HAY EL NASR KAR",
+    "AdresseA": "زنقة جبل  هيبري حي النصر القري",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AHD JADID",
+    "NOM_ETABA": "العهد الجديد",
+    "AdresseL": "n 22 rue sebta secteur 6 hay k",
+    "AdresseA": "رقم22 زنقة سبتة سكتور 6 حي الك",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AJIAL AL GHAD",
+    "NOM_ETABA": "مجموعة مدارس أجيال الغد الخصوصية",
+    "AdresseL": "LOT SAFAE 4 HSSAINE",
+    "AdresseA": "تجزئة الصفاء 4 أحصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAHD AL MAARIFA- ANNEXE",
+    "NOM_ETABA": "مهد المعرفة الخصوصية- الملحقة ",
+    "AdresseL": "n 128 et 130 lot erouid hssain",
+    "AdresseA": "رقم 128 و 130 تجزئة الرويض أحص",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "UNIVERSITE INTERNATIONALE DE RABAT",
+    "NOM_ETABA": "الجامعة الدولية الرباط",
+    "AdresseL": "technopolis rocade 11100 sala ",
+    "AdresseA": "تكنوبوليس روكاد 11100 سلا الجد",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PASSERELLE DU SUCCES",
+    "NOM_ETABA": "جسر النجاح الخصوصية ",
+    "AdresseL": "residence maamoura n 129 hssai",
+    "AdresseA": "129 تجزئة معمورة احصاين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL JAZARI",
+    "NOM_ETABA": "مجموعة مدارس الجزري",
+    "AdresseL": "rue jarf n 1 hay farah karia",
+    "AdresseA": "زنقة الجرق رقم 1 حي الفرح الفر",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL AMANA SALA JADIDA",
+    "NOM_ETABA": "ثانوية الأمانة سلا الجديدة",
+    "AdresseL": "av mohamed 5 sala jadida ",
+    "AdresseA": "شارع محمد الخامس سلا الجديدة س",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIREE AL ABAYROUNI",
+    "NOM_ETABA": "مجموعة مدارس البيروني الخصوصية",
+    "AdresseL": "lot aymane avenue moulay rachi",
+    "AdresseA": "تجزئة أيمن شارع مولاي رشيد احص",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EMILE ZOLA SALE",
+    "NOM_ETABA": "مجموعة مدارس إيميل زولا سلا الخاصة",
+    "AdresseL": "lot hay fath hay bassatine",
+    "AdresseA": "تجزئة فتح الله حي البساتين ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NEJJAR TECHNOPOLIS",
+    "NOM_ETABA": "مجموعة مدارس النجار تكنوبوليس الخصوصية",
+    "AdresseL": "lot dahr lghrib hssaine 50",
+    "AdresseA": "50 تجزئة ظهر غريب أحصين",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES PETITS ANGES BIEN AIMESE",
+    "NOM_ETABA": "الملائكة الصغار المحبوبة",
+    "AdresseL": "residence maamoura n 27 imm 9 ",
+    "AdresseA": "إقامة معمورة رقم 27 العمارة 9 ",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE GARDENIA",
+    "NOM_ETABA": "مجموعة مدارس غاردينيا الخصوصية",
+    "AdresseL": "N 22 LOTISSEMENT ISSAM  HSSAIN",
+    "AdresseA": "رقم 22 تجزئة عصام احصين سلا ال",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JISR AL MAARIFAE",
+    "NOM_ETABA": "مجموعة مدارس جسر المعرفة الخصوصي",
+    "AdresseL": "groupe scolaire jisr al maarif",
+    "AdresseA": "تجزئة 24 شارع الحسن الثاني سلا",
+    "COMMUNE": "Hssaine",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

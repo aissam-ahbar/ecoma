@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "DAR OUM SOLTANE CENTRE",
+    "NOM_ETABA": "دار ام السلطان المركز",
+    "AdresseL": "DAR OUM SOLTANE centre  COMMUNE DAR OUM SOLTANE",
+    "AdresseA": "دار ام السلطان  مركز جماعة دار أم السلطان مكناس ",
+    "COMMUNE": "Dar Oum Soltane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ABBA CENTRE",
+    "NOM_ETABA": "ايت عبة المركز",
+    "AdresseL": "DOUAR AIT ABBA COMMUNE DAR OUM SOLTANE",
+    "AdresseA": "دوار ايت عبة جماعة دار ام السلطان مكناس",
+    "COMMUNE": "Dar Oum Soltane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

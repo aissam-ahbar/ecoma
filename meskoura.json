@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OULAD HAMOU CENTRE",
+    "NOM_ETABA": "مركزية اولاد حمو",
+    "AdresseL": "DOUAR OULAD HAMMOU COMMUNE MESKOURA",
+    "AdresseA": "دوار اولاد حمو مسكورة",
+    "COMMUNE": "Meskoura",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELKHADRA CENTRE",
+    "NOM_ETABA": "مركزية الخضراء",
+    "AdresseL": "DOUAR taaounia EL KHADRA COMMUNE MESKOURA",
+    "AdresseA": "دوار تعاونية الخضراء - جماعة مسكورة - دائرة البروج",
+    "COMMUNE": "Meskoura",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNASSIRIA CENTRE",
+    "NOM_ETABA": "مركزية الناصرية",
+    "AdresseL": "DOUAR ETAAOUNIA ENASSIRIA COMMUNE MESKOURA",
+    "AdresseA": "التعاونية الناصرية مسكورة",
+    "COMMUNE": "Meskoura",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

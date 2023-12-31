@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ALI YAATA",
+    "NOM_ETABA": "الثانوية الإعدادية علي يعتة",
+    "AdresseL": "COMMUNE IMINTLIT",
+    "AdresseA": "جماعة إيمي نتليت",
+    "COMMUNE": "Imi N'Tlit",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S  ELJOULANE",
+    "NOM_ETABA": "م.م. الجولان",
+    "AdresseL": "SOUK TNIN IMINTLIT IMINTLIT",
+    "AdresseA": "سوق إمنتليت إمنتليت",
+    "COMMUNE": "Imi N'Tlit",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AL IMAME MOUSLIM",
+    "NOM_ETABA": "م.م.الإمام مسلم",
+    "AdresseL": "DOUAR AZMAI IMINTLIT",
+    "AdresseA": "دوار أزماي إمنتليت",
+    "COMMUNE": "Imi N'Tlit",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IBELLATEN",
+    "NOM_ETABA": "م.م إبلاتن",
+    "AdresseL": "DOUAR IBELLATEN Commune IMINTLIT",
+    "AdresseA": "دوار إبلاتن جماعة إيمي نتليت",
+    "COMMUNE": "Imi N'Tlit",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

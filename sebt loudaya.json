@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE  ALLAL LOUDIYI",
+    "NOM_ETABA": "الثانوية الاعدادية علال الوديي",
+    "AdresseL": "CENTRE DE LA COMMUNE RURALE DE SEBT LOUDAYA",
+    "AdresseA": "مركز جماعة سبت الاوداية",
+    "COMMUNE": "Sebt Loudaya",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SEBTE LAOUDAYA CENTRE",
+    "NOM_ETABA": "سبت الوداية المركز",
+    "AdresseL": "CENTRE DE LA COMMUNE SEBTE LOUDAYA",
+    "AdresseA": "مركز جماعة سبت الوداية",
+    "COMMUNE": "Sebt Loudaya",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEN TALHA CENTRE",
+    "NOM_ETABA": "بنطلحة المركز",
+    "AdresseL": "DOUAR BEN TALHA COMMUNE SEBTE LAOUDAYA",
+    "AdresseA": "دوار بنطلحة سبت الوداية",
+    "COMMUNE": "Sebt Loudaya",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIYADA CENTRE",
+    "NOM_ETABA": "بياضة المركز",
+    "AdresseL": "DOUAR OULAD MAATI COMMUNE SEBTE LOUDAYA",
+    "AdresseA": "     دوار اولاد المعطي جماعة سبت الوداية",
+    "COMMUNE": "Sebt Loudaya",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMRA CENTRE",
+    "NOM_ETABA": "ثمرة المركز",
+    "AdresseL": "DOUAR TAMRA COMMUNE SEBTE LOUDAYA",
+    "AdresseA": "دوار ثمرة سبت الوداية",
+    "COMMUNE": "Sebt Loudaya",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHBANATE CENTRE",
+    "NOM_ETABA": "الشبانات المركز",
+    "AdresseL": "DOUAR CHBANATE COMMUNE SEBTE LOUDAYA",
+    "AdresseA": "دوار الشبانات سبت الوداية",
+    "COMMUNE": "Sebt Loudaya",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BIHICH",
+    "NOM_ETABA": "اولاد بهيش",
+    "AdresseL": "DOUAR OULAD BIHICH COMMUNE SEBT LOUDAYA",
+    "AdresseA": "دوار اولاد بهيش سبت الوداية",
+    "COMMUNE": "Sebt Loudaya",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKBIR EL FASSI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الكبير الفاسي",
+    "AdresseL": "CENTRE COMMUNE SEBT LOUDAYA",
+    "AdresseA": "مركز جماعة سبت الوداية",
+    "COMMUNE": "Sebt Loudaya",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

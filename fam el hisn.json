@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BANI",
+    "NOM_ETABA": "ثانوية باني الاعدادية",
+    "AdresseL": "FOUM EL HISNE  TATA",
+    "AdresseA": "فم الحصن",
+    "COMMUNE": "Fam El Hisn",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E.IBRAHIM TAMANARTI",
+    "NOM_ETABA": "م. ابراهيم الثمنارتي",
+    "AdresseL": "CENTRE FaM EL HISNE  TATA",
+    "AdresseA": "فم الحصن طاطا",
+    "COMMUNE": "Fam El Hisn",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. ICHT",
+    "NOM_ETABA": "م. اشت",
+    "AdresseL": "DOUAR ICHT COMMUNE DE FAM ELHISN PROVINCE TATA",
+    "AdresseA": "دوار إشت، جماعة فم الحصن، إقليم طاطا",
+    "COMMUNE": "Fam El Hisn",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S IMI OUGADIR",
+    "NOM_ETABA": "م/م امي اكادير",
+    "AdresseL": "DOUAR IMI OUGADIR FaM EL HISN  TATA",
+    "AdresseA": "دوار إمي أكادير فم الحصن طاطا",
+    "COMMUNE": "Fam El Hisn",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. OMAR IBNOU AL KHATTAB",
+    "NOM_ETABA": "م. عمر بن الخطاب",
+    "AdresseL": "Fam ELHISN  TATA",
+    "AdresseA": "فم الحصن طاطا",
+    "COMMUNE": "Fam El Hisn",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ASSALAM",
+    "NOM_ETABA": "ثانوية السلام التأهيلية",
+    "AdresseL": "fam el hisn",
+    "AdresseA": "فم الحصن",
+    "COMMUNE": "Fam El Hisn",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SS OULAD HOUMAD",
+    "NOM_ETABA": "م.م اولاد هماد",
+    "AdresseL": "DOUAR OULAD HOUMMAD CSIDI AHMED OU AMAR",
+    "AdresseA": "د. اولاد هماد جماعة سيدي حماد اوعمر ",
+    "COMMUNE": "Sidi Ahmed Ou Amar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALBA",
+    "NOM_ETABA": "م.م الطلبة",
+    "AdresseL": "DOUAR TOLBA SIDI AHMED OU AMAR",
+    "AdresseA": "دوار الطلبة",
+    "COMMUNE": "Sidi Ahmed Ou Amar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI AHMED OUMER",
+    "NOM_ETABA": "م.م سيدي أحمد اوعمر",
+    "AdresseL": "SS SIDI AHMED OUMER COMMUNE SIDI AHMED OUMER",
+    "AdresseA": "م/م سيدي أحمد اوعمر جماعة سيدي أحمد اوعمر",
+    "COMMUNE": "Sidi Ahmed Ou Amar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KADI AYAD",
+    "NOM_ETABA": "م.م القاضي عياض",
+    "AdresseL": "DOUAR AIT HAMMOU C SIDI AHMED OU AMAR",
+    "AdresseA": "دوار آيت حمو جماعة سدي احماد اوعمر",
+    "COMMUNE": "Sidi Ahmed Ou Amar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant SIDI HMAD OU AMER",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي احمد اوعمر",
+    "AdresseL": "COMMUNE SIDI HMAD OU AMER",
+    "AdresseA": "جماعة سيدي احمد أوعمر",
+    "COMMUNE": "Sidi Ahmed Ou Amar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

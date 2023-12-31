@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MASSIRA",
+    "NOM_ETABA": "ثانوية المسيرة الاعدادية",
+    "AdresseL": "CENTRE AKKAIGHANE  TATA",
+    "AdresseA": "مركز اقايغان",
+    "COMMUNE": "Akka Ighane",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S AKKAIGHANE",
+    "NOM_ETABA": "م/م اقا ايغان",
+    "AdresseL": "DOUAR AKKAIGHANE  TATA",
+    "AdresseA": "دوار اقاايغان طاطا",
+    "COMMUNE": "Akka Ighane",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S OULAD ALI",
+    "NOM_ETABA": "م/م اولاد علي",
+    "AdresseL": "DOUAR oulad ali AKKAIGHANE  ",
+    "AdresseA": "دوار اولاد علي",
+    "COMMUNE": "Akka Ighane",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LAGSOUR",
+    "NOM_ETABA": "م/م الكصور",
+    "AdresseL": "LAGSOUR  AKKAIGHANE  TATA",
+    "AdresseA": "لكصور اقا ليغان طاطا",
+    "COMMUNE": "Akka Ighane",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AKKA IGUIRNE",
+    "NOM_ETABA": "م/م اقا ايكرن",
+    "AdresseL": "AKKAIGUERN",
+    "AdresseA": "اقاايكرن طاطا",
+    "COMMUNE": "Akka Ighane",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AKKA IGHANE",
+    "NOM_ETABA": "ثانوية اقا ايغان التأهيلية",
+    "AdresseL": "CENTRE AKKAIGHANE",
+    "AdresseA": "مركز اقا ايغان",
+    "COMMUNE": "Akka Ighane",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

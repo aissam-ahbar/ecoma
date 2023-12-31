@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "C ESSAADA",
+    "NOM_ETABA": "ثإ.السعادة",
+    "AdresseL": "CENTRE COMMUNE EL FAID",
+    "AdresseA": "مركز جماعة الفيض",
+    "COMMUNE": "El Faid",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ELFARABI",
+    "NOM_ETABA": "م.م الفرابي",
+    "AdresseL": "DOUAR   AGADIR IZNAGUEN C EL FAID",
+    "AdresseA": "دوار أكادير نزناكن جماعة الفايض",
+    "COMMUNE": "El Faid",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT BOUZMANE",
+    "NOM_ETABA": "م.م ايت بوزمان",
+    "AdresseL": "DOUAR   AIT BOUZMAN C AL FAID",
+    "AdresseA": " دوار ايت بوزمان جماعة الفايض اقليم تارودانت ",
+    "COMMUNE": "El Faid",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AQID ELALLAM",
+    "NOM_ETABA": "م.م العقيد العلام",
+    "AdresseL": "DOUAR   AIT MOUSSA C AL FAID AOULOUZ",
+    "AdresseA": "دوار ايت موسى جماعة الفيض",
+    "COMMUNE": "El Faid",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMAM MOUSLIM",
+    "NOM_ETABA": "م.م الامام مسلم",
+    "AdresseL": "DOUAR   TANAMROUTE Commune  eL FAID taroudant",
+    "AdresseA": " دوار تنمروت جماعة الفيض تارودانت",
+    "COMMUNE": "El Faid",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELKINDI",
+    "NOM_ETABA": "م.م الكندي",
+    "AdresseL": "DOUAR   TABIA NIMAOUN C AL FAID",
+    "AdresseA": "دوار تابيا نماون جماعة الفيض",
+    "COMMUNE": "El Faid",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

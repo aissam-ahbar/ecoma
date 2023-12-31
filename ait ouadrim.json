@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS AYOUSSIMN",
+    "NOM_ETABA": "م م  ايوسيمن",
+    "AdresseL": "DOUAR AYOUSSIMN COMMUNE AIT OUADRIM",
+    "AdresseA": "دوار إيوسيمن",
+    "COMMUNE": "Ait Ouadrim",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAOURIRTE IBOULKA",
+    "NOM_ETABA": "م م  توريرت إبولكا",
+    "AdresseL": "DOUAR TAOURIRTE IBOULKA AIT OUADRIM",
+    "AdresseA": "دوار توريرت إيبولكا",
+    "COMMUNE": "Ait Ouadrim",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

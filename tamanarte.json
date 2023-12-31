@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAYOUNE",
+    "NOM_ETABA": "ثانوية العيون الاعدادية",
+    "AdresseL": "DOUAR AGUERDE TAMANARTE",
+    "AdresseA": "تمنارت",
+    "COMMUNE": "Tamanarte",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E. AGUERDE",
+    "NOM_ETABA": "م. اكرض",
+    "AdresseL": "DOUAR AGUERD TAMANARTE  TATA",
+    "AdresseA": "د.اكرض تمنارت طاطا",
+    "COMMUNE": "Tamanarte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AIT ALI",
+    "NOM_ETABA": "م/م ايت علي",
+    "AdresseL": "DOUAR tislguit AIT ALI TAMANARTE  TATA",
+    "AdresseA": "دوار.تسلكيت ايت علي تمنارت ططا",
+    "COMMUNE": "Tamanarte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. IGHIR OUGHNAINE",
+    "NOM_ETABA": "م. اغير اغناين",
+    "AdresseL": "DOUAR IGHIR OUGHNAINE TAMANARTE  TATA",
+    "AdresseA": "دوار اغير اغناين تمنارت طاطا",
+    "COMMUNE": "Tamanarte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S EL KASBA",
+    "NOM_ETABA": "م/م القصبة",
+    "AdresseL": "DOUAR EL KASBA  TAMANARTE  TATA",
+    "AdresseA": "د.القصبة تمنارت طاطا",
+    "COMMUNE": "Tamanarte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S SMOUGUENE",
+    "NOM_ETABA": "م/م اسموكن",
+    "AdresseL": "DOUAR SMOUGUENE TAMANARTE  TATA",
+    "AdresseA": "دواراسموكن تمنارت طاطا",
+    "COMMUNE": "Tamanarte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAMANARTE",
+    "NOM_ETABA": "ثانوية تمنارت التأهيلية",
+    "AdresseL": "TAMANARTE",
+    "AdresseA": "تمنارت",
+    "COMMUNE": "Tamanarte",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

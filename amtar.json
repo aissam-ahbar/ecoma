@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AMTAR",
+    "NOM_ETABA": "الثانوية الاعدادية أمتار",
+    "AdresseL": "COMMUNE AMTAR",
+    "AdresseA": "جماعة أمتار",
+    "COMMUNE": "Amtar",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS HASSAN EL OUAZZANE AMTAR",
+    "NOM_ETABA": "م/م الحسن الوزان _أمتار",
+    "AdresseL": "DOUAR AMTARCAMTARCHEFCHAOUEN",
+    "AdresseA": "امتار المركز جماعة أمتار",
+    "COMMUNE": "Amtar",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZGHAR MOUSSA",
+    "NOM_ETABA": "م/م أزغار موسى",
+    "AdresseL": "DOUAR AZGHAR MOUSSACAMTARCHEFCHAOUEN",
+    "AdresseA": "دوار أزغار موسى جماعة أمتار",
+    "COMMUNE": "Amtar",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABOU INANE EL MARINI ATAZA",
+    "NOM_ETABA": "م/م ابو عنان المريني _اتازا",
+    "AdresseL": "DOUAR ATAZA C AMTAR CHEFCHAOUEN",
+    "AdresseA": "دوار اتازا جماعة أمتار",
+    "COMMUNE": "Amtar",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIGHSSOUANE",
+    "NOM_ETABA": "م/م تغسوان",
+    "AdresseL": "DOUAR TIGHESSOUANECAMTARCHEFCHAOUEN",
+    "AdresseA": "دوار تغسوان جماعة أمتار",
+    "COMMUNE": "Amtar",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S ENNALIYINE",
+    "NOM_ETABA": "م/م الناليين",
+    "AdresseL": "DOUAR ENNALIYINECAMTARCHEFCHAOUEN",
+    "AdresseA": "دوار الناليين جماعة أمتار",
+    "COMMUNE": "Amtar",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AMTAR",
+    "NOM_ETABA": "المدرسة الإبتدائية أمتار",
+    "AdresseL": "CENTRE DE LA COMMUNE AMTAR",
+    "AdresseA": "مركز جماعة أمتار",
+    "COMMUNE": "Amtar",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AMTAR",
+    "NOM_ETABA": "الثانوية التأهيلية أمتار",
+    "AdresseL": "CENTRE DE LA COMMUNE AMTAR",
+    "AdresseA": "مركز الجماعة أمتار",
+    "COMMUNE": "Amtar",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

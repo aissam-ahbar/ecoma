@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ZIOU CENTRE",
+    "NOM_ETABA": "مركزية زيو",
+    "AdresseL": "ZAIOU  SIDI ABDELKARIME",
+    "AdresseA": "زايو سيدي عبد الكريم",
+    "COMMUNE": "Ain Dorbane-Lahlaf",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHLAF CENTRE",
+    "NOM_ETABA": "مركزية لحلاف",
+    "AdresseL": "DOUAR ouled MOUSSA LAHLAF COMMUNE ain DORBANE LAHL",
+    "AdresseA": "دوار أولاد موسى لحلاف ،جماعة عين الضربان-لحلاف",
+    "COMMUNE": "Ain Dorbane-Lahlaf",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AMRo CENTRE",
+    "NOM_ETABA": "مركزية اولاد عمرو",
+    "AdresseL": "DOUAR OULADE AMER COMMUNE AIN DORBANE LAHLAF",
+    "AdresseA": "دوار اولاد عمرو جماعة عين الضربان لحلاف",
+    "COMMUNE": "Ain Dorbane-Lahlaf",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHMAITIYINE CENTRE",
+    "NOM_ETABA": "مركزية الشميطيين",
+    "AdresseL": "DOUAR CHMAITIYINE COMMUNE  AIN dorbane lahlaf",
+    "AdresseA": "دوار الشميطيين جماعة عين الضربان لحلاف",
+    "COMMUNE": "Ain Dorbane-Lahlaf",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN SINA",
+    "NOM_ETABA": "ثانوية ابن سينا الاعدادية",
+    "AdresseL": "DOUAR TABIA ",
+    "AdresseA": "دوار تابية",
+    "COMMUNE": "Tabia",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY RACHID",
+    "NOM_ETABA": "ثانوية مولاي رشيد الإعدادية",
+    "AdresseL": "DOUAR TISLIT ",
+    "AdresseA": "دوار تسليت ",
+    "COMMUNE": "Tabia",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE TABIA",
+    "NOM_ETABA": "مركزية تابية",
+    "AdresseL": "DOUAR TABIA",
+    "AdresseA": "دوار تابية ",
+    "COMMUNE": "Tabia",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TISLIT",
+    "NOM_ETABA": "مركزية تسليت",
+    "AdresseL": "DOUAR TISLIT  ",
+    "AdresseA": "دوار تسليت",
+    "COMMUNE": "Tabia",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALJOULANE",
+    "NOM_ETABA": "م.م الجولان",
+    "AdresseL": "DOUAR   TAOURIRTE  C TABIA",
+    "AdresseA": "دوار تاوريرت جماعة تابيا",
+    "COMMUNE": "Tabia",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

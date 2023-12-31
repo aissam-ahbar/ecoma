@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SS  BADDOU",
+    "NOM_ETABA": "م.م  بادو",
+    "AdresseL": "KSAR TIRGA ASSOUL ",
+    "AdresseA": "قصر تيركة اسول  ",
+    "COMMUNE": "Assoul",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  SIDI BOUYAAKOUB",
+    "NOM_ETABA": "م.م  سيدي بويعقوب",
+    "AdresseL": "KSAR ASSOUL CENTRE ASSOUL",
+    "AdresseA": "قصر اسول المركز اسول",
+    "COMMUNE": "Assoul",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  AGOURAY",
+    "NOM_ETABA": "م.م اكوراي",
+    "AdresseL": "KSAR AGOURAY ASSOUL",
+    "AdresseA": "اكوراي اسول",
+    "COMMUNE": "Assoul",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  AMOUGUER",
+    "NOM_ETABA": "م.م اموكر",
+    "AdresseL": "KSAR AMOUGUER ASSOUL tinghir",
+    "AdresseA": "قصر اموكر اسول تنغير",
+    "COMMUNE": "Assoul",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  CHARIF EL IDRISSI",
+    "NOM_ETABA": "الثانوية التأهيلية  الشريف الادريسي",
+    "AdresseL": "ASSOUL CENTRE",
+    "AdresseA": "مركز اسول",
+    "COMMUNE": "Assoul",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

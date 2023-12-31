@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALAMAL",
+    "NOM_ETABA": "ثانوية الامل الاعدادية",
+    "AdresseL": "citi bibiyo SIDI BOUBKER",
+    "AdresseA": "حي بيبيو سيدي بوبكر",
+    "COMMUNE": "Sidi Boubker",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL AL - AMAL",
+    "NOM_ETABA": "ثا. الأمـــــل الإعدادية",
+    "AdresseL": "centre Sidi Boubker",
+    "AdresseA": "مركز سيدي بوبكر",
+    "COMMUNE": "Sidi Boubker",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S IBN TOUMART CENTRE",
+    "NOM_ETABA": "م/م إبن تومرت المركز",
+    "AdresseL": "SIDI BOUBKER COMMUNE SIDI BOUBKER",
+    "AdresseA": "سيدي بوبكر المركز",
+    "COMMUNE": "Sidi Boubker",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUBKER CENTRE",
+    "NOM_ETABA": "سيدي بوبكر المركزية",
+    "AdresseL": "DOUAR OULED BRAHIM COMMUNE SIDI BOUBKER",
+    "AdresseA": "اولاد ابراهيم",
+    "COMMUNE": "Sidi Boubker",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD HAMMOUCH CENTRE",
+    "NOM_ETABA": "اولاد حموش المركزية",
+    "AdresseL": "DOUAR OULED HAMMOUCH COMMUNE SIDI BOUBKER",
+    "AdresseA": "اولاد حموش",
+    "COMMUNE": "Sidi Boubker",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DRIOUKATE CENTRE",
+    "NOM_ETABA": "الدريوكات المركزية",
+    "AdresseL": "DOUAR DRIOUkATE COMMUNE SIDI BOUBKER",
+    "AdresseA": "دوار الدريوكات جماعة سيدي بوبكر",
+    "COMMUNE": "Sidi Boubker",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUZID CENTRE",
+    "NOM_ETABA": "اولاد بوزيد المركزية",
+    "AdresseL": "DOUAR OULED BOU ZAID COMMUNE SIDI BOU BKER",
+    "AdresseA": "دوار اولاد بوزيد",
+    "COMMUNE": "Sidi Boubker",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

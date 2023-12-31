@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "IKKAWEN (COLLEGE)",
+    "NOM_ETABA": "اكاون",
+    "AdresseL": "CENTRE ABDELGHAYA SOUAHEL COM ABDELGHAYA SOUAHEL",
+    "AdresseA": "اكاون جماعة عبد الغاية السواحل",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SOUAHEL",
+    "NOM_ETABA": "السواحل",
+    "AdresseL": "DOUAR SOUAHEL COMMUNE ABDELGHAYA SOUAHEL",
+    "AdresseA": "دوارافرسيوة جماعة عبد الغاية السواحل قيادة  اكاون",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI AHMED",
+    "NOM_ETABA": "بني احمد",
+    "AdresseL": "DOUAR BNI AHMED COMMUNE ABDELGHAYA SOUAHEL",
+    "AdresseA": "دوار بني احمد جماعة عبد الغاية السواحل",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALGHOUNT",
+    "NOM_ETABA": "تلغونت",
+    "AdresseL": "DOUAR TALGHOUNT COMMUNE ABDELGHAYA SOUAHEL",
+    "AdresseA": "دوار تلغونت جماعة عبد الغاية السواحل",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IKAWEN",
+    "NOM_ETABA": "اكاون",
+    "AdresseL": "DOUAR IKAWEN COMMUNE ABDELGHAYA SOUAHEL",
+    "AdresseA": "دوار اكاون جماعة عبد الغاية السواحل",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI HASSAN",
+    "NOM_ETABA": "بني حسان",
+    "AdresseL": "DOUAR BNI HASSAN COMMUNE ABDELGHAYA SOUAHEL",
+    "AdresseA": "دوار بني حسان جماعة عبد الغاية السواحل",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MANSAF",
+    "NOM_ETABA": "المنصف",
+    "AdresseL": "DOUAR AL MANSAF COMMUNE ABDELGHAYA SOUAHEL",
+    "AdresseA": "دوار المنصف جماعة عبد الغاية السواحل",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAZIB CHEKKARA",
+    "NOM_ETABA": "لعزيب اشقارة",
+    "AdresseL": "DOUAR LAAZIB CHEKKARA COMMUNE ABDELGHAYA SOUAHEL",
+    "AdresseA": "دوارلعزيب اشقارة جماعة عبد الغاية السواحل",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TARIK AL WAHDA",
+    "NOM_ETABA": "ثانوية طريق الوحدة التأهيلية",
+    "AdresseL": "ABDELGHAYA SOUAHAL",
+    "AdresseA": "عبد الغاية السواحل",
+    "COMMUNE": "Abdelghaya Souahel",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

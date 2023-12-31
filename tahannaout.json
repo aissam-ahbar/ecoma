@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL ERRAZI",
+    "NOM_ETABA": "ثانوية الرازي الإعدادية",
+    "AdresseL": "Tahannaout Centre",
+    "AdresseA": "بلدية تحناوت",
+    "COMMUNE": "Tahannaout",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ALMAJD",
+    "NOM_ETABA": "الثانوية الإعدادية إعدادية المجد",
+    "AdresseL": "TAHANAOUT",
+    "AdresseA": "تحناوت",
+    "COMMUNE": "Tahannaout",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "المسيرة الخضراء",
+    "AdresseL": "CENTRE TAHANAOUT COMMUNE TAHANAOUT",
+    "AdresseA": "مركز تحناوت جماعة تحناوت",
+    "COMMUNE": "Tahannaout",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HABOUS",
+    "NOM_ETABA": "ابن حبوس",
+    "AdresseL": "CENTRE TAHANAOUT COMMUNE TAHANAOUT",
+    "AdresseA": "مركز تحناوت جماعة تحناوت",
+    "COMMUNE": "Tahannaout",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL KAYRAOUANE",
+    "NOM_ETABA": "مدرسة القيروان",
+    "AdresseL": "LOTISSEMENT al kairaouanekairaouane",
+    "AdresseA": "تجزئة القيروان",
+    "COMMUNE": "Tahannaout",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TOUBKAL",
+    "NOM_ETABA": "الثانوية التأهيلية توبقال",
+    "AdresseL": "CENTRE TAHANNAOUT COMMUNE TAHANNAOUTE",
+    "AdresseA": "مركز تحناوت جماعة تحناوت",
+    "COMMUNE": "Tahannaout",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BIR ANZARANE",
+    "NOM_ETABA": "الثانوية التأهيلية بئر انزران",
+    "AdresseL": "CENTRE TAHANNAOUTE COMMUNE TAHANNAOUTE",
+    "AdresseA": "مركز تحناوت جماعة تحناوت",
+    "COMMUNE": "Tahannaout",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OUIRGANE POUR L ENSEIGNEMENTE ",
+    "NOM_ETABA": "ويركان للتعليم الخصوصي",
+    "AdresseL": "Province Du haouz Sidi mohamed",
+    "AdresseA": "دوار سيدي محمد اوفارس تحناوت",
+    "COMMUNE": "Tahannaout ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALKAYRAOUANE",
+    "NOM_ETABA": "القيروان للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة القيروان رقم 245 تحناوت",
+    "COMMUNE": "Tahannaout ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAWD GHIZLANE",
+    "NOM_ETABA": "روض غزلان",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز تحناوت درب دجلة رقم16",
+    "COMMUNE": "Tahannaout ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manar",
+    "NOM_ETABA": "المنار",
+    "AdresseL": "CENTRE TAHANNAOUTE",
+    "AdresseA": "مركز تحناوت",
+    "COMMUNE": "Tahannaout ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TISLIT",
+    "NOM_ETABA": "تيسليت",
+    "AdresseL": "LOT TISSLIT N 263-298 ",
+    "AdresseA": "تجزئة تسليت رقم 263-298",
+    "COMMUNE": "Tahannaout ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DOHA PRESCOLAIRE",
+    "NOM_ETABA": " مؤسسة ضحي للتعليم الأولي الخصوصي",
+    "AdresseL": "LOTISSEMENT KAYRAWAN 177 TAHAN",
+    "AdresseA": "تجزئة القيروان 177 تحناوت",
+    "COMMUNE": "Tahannaout ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "OTHMANE BNOU AFFANE",
+    "NOM_ETABA": "عثمان بن عفان",
+    "AdresseL": "TZAIASTE CENTRE  COMMUNE DE BOUGHRIBA",
+    "AdresseA": "اتزايست المركز. جماعة بوغريبة",
+    "COMMUNE": "Boughriba",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU HAZM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "IBNOU HAZM COMMUNE DE BOUGHRIBA",
+    "AdresseA": "ابن حزم مركز اتزايست جماعة بوغريبة",
+    "COMMUNE": "Boughriba",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ACHOUHADA",
+    "NOM_ETABA": "الشهداء",
+    "AdresseL": "ACHOUHADA COMMUNE DE BOUGHRIBA",
+    "AdresseA": "الشهداء   جماعة بوغريبة",
+    "COMMUNE": "Boughriba",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAID BNOU THABIT",
+    "NOM_ETABA": "زبد بن ثابت",
+    "AdresseL": "DOUAR ELHAMRI AIN EL BIDA COMMUNE DE BOUGHRIBA",
+    "AdresseA": "دوار الحمري جماعة بوغريبة",
+    "COMMUNE": "Boughriba",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAAD BNOU OUBADA",
+    "NOM_ETABA": "سعد بن عبادة",
+    "AdresseL": "OUED LAKHMISS COMMUNE DE BOUGHRIBA",
+    "AdresseA": "واد الخميس  جماعة بوغريبة",
+    "COMMUNE": "Boughriba",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUBKER",
+    "NOM_ETABA": "أولاد بوبكر",
+    "AdresseL": "DOUAR OULAD BOUBKER COMMUNE DE BOUGHRIBA",
+    "AdresseA": "دوار اولاد بوبكر جماعة بوغربة",
+    "COMMUNE": "Boughriba",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI ATIA",
+    "NOM_ETABA": "بني عطية",
+    "AdresseL": "DOUAR BNI ATIA COMMUNE BOUGHRIBA",
+    "AdresseA": "دوار بني عطية جماعة بوغريبة",
+    "COMMUNE": "Boughriba",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

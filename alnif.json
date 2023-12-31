@@ -1,0 +1,152 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Bougafer",
+    "NOM_ETABA": "الثانوية الإعدادية بوكافر",
+    "AdresseL": "ALNIF CENTRE",
+    "AdresseA": "النبف  المركز",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collégial Maarakate Oued Al makhazine",
+    "NOM_ETABA": "الثانوية الإعدادية معركة وادي المخازن",
+    "AdresseL": "AZEKOUR ALNIF",
+    "AdresseA": "ازقـــــــــــور النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E SAGHRO1",
+    "NOM_ETABA": "م.صغرو 1",
+    "AdresseL": "ALNIF CENTRE",
+    "AdresseA": "النيف المركز",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALWAHA",
+    "NOM_ETABA": "مجموعة مدارس الواحة",
+    "AdresseL": "DOUAR AIT LAHBIB ALNIF",
+    "AdresseA": "دوار ايت لحبيب النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SAGHRO 2",
+    "NOM_ETABA": "م.م صغرو 2",
+    "AdresseL": "DOUAR TIGUIRNA ALNIF",
+    "AdresseA": "دوار تكيرنا النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  AIT ZEGGANE",
+    "NOM_ETABA": "م.م ايت زكان",
+    "AdresseL": "KSAR AIT ZEGGANE ALNIF TINGHIR",
+    "AdresseA": "قصر ايت زكان النيف تنغير",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL HASSANE DAKHIL",
+    "NOM_ETABA": "م.م الحسن الداخل",
+    "AdresseL": "DOUAR AZEKKOUR ALNIF",
+    "AdresseA": "دوار ازقور النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TOUGHZA",
+    "NOM_ETABA": "م.م توغزا",
+    "AdresseL": "DOUAR TOUGHZA ALNIF",
+    "AdresseA": "دوار توغزا النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ARREG",
+    "NOM_ETABA": "م.م الرك",
+    "AdresseL": "KSAR ACHBAROU ALNIF",
+    "AdresseA": "قصراشبارو",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAAOMART",
+    "NOM_ETABA": "م.م تعمارت",
+    "AdresseL": "DOUAR TAOMARTE ALNIF",
+    "AdresseA": "د وار تعمارت النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMSSAAD",
+    "NOM_ETABA": "م.م أمسعد",
+    "AdresseL": "KSAR AMMAR ALNIF tinghir",
+    "AdresseA": "قصر عمار تنغير",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT IAZZA",
+    "NOM_ETABA": "م م. ايت إعزى",
+    "AdresseL": "KSAR TOUFASmam commune ALNIF",
+    "AdresseA": "قصر توفسمام  جماعة النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASSIMOURE",
+    "NOM_ETABA": "م.م أسيمور",
+    "AdresseL": "DOUAR TABOURIKTE",
+    "AdresseA": "دوار تبوريكت",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MIMARIGHANE",
+    "NOM_ETABA": "م.م ميماريغن",
+    "AdresseL": "KSAR MIMARIGHANE ALNIF",
+    "AdresseA": "قصر ميماريغن النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED VI ",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس ",
+    "AdresseL": "CENTRE ALNIF TINGHIR",
+    "AdresseA": "مركز النيف",
+    "COMMUNE": "Alnif",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

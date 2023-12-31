@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL OULED ALI MANSOUR",
+    "NOM_ETABA": "الثانوية الإعدادية اولاد علي منصور",
+    "AdresseL": "douar ouled ali eloued",
+    "AdresseA": "دوار اولاد علي الواد",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE OMAR IBNOU EL KHATTAB COLLEGIAL",
+    "NOM_ETABA": "ثانوية عمر بن الخطاب الاعدادية",
+    "AdresseL": "CENTRE BRADIA COMMUNE BRADIA",
+    "AdresseA": "مركز البرادية جماعة البرادية",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE BRADIA CENTRE",
+    "NOM_ETABA": " م.الـــبـــراديـــــــة المركزية",
+    "AdresseL": "CENTRE BRADIA COMMUNE BRADIA",
+    "AdresseA": "         جـمــاعـــة  الـبـــراديـــــة",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED DRISS",
+    "NOM_ETABA": "م. اولاد ادريس",
+    "AdresseL": "OULED DRISS COMMUNE BRADIA",
+    "AdresseA": "جماعة  البرادية",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED GHANEM CENTRE",
+    "NOM_ETABA": "مركزية اولاد غانم",
+    "AdresseL": "OULED GHANEM COMMUNE BRADIA",
+    "AdresseA": "جماعة  البرادية",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ALI CENTRE",
+    "NOM_ETABA": "مركزية اولاد علي",
+    "AdresseL": "OULED ALI COMMUNE BRADIA",
+    "AdresseA": "جماعة  البرادية أولاد علي",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAJANNA CENTRE",
+    "NOM_ETABA": "مركزية العجانة",
+    "AdresseL": "LAAJANNA COMMUNE BRADIA",
+    "AdresseA": "جماعة  البرادية",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAL SOUSS 1 CENTRE",
+    "NOM_ETABA": "مركزية اهل سوس",
+    "AdresseL": "HAL SOUSS 1 COMMUNE BRADIA",
+    "AdresseA": "جماعة  البرادية",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LEBRADIA EL JADIDA",
+    "NOM_ETABA": "مدرسة لبراديا الجديدة",
+    "AdresseL": "touimiya HAY EL FATH LEBRADIA CENTRE",
+    "AdresseA": "اتويميا حي الفتح مركز البرادية",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ANNASR",
+    "NOM_ETABA": "ثانوية النصر التأهيلية",
+    "AdresseL": "CENTRE BRADIA",
+    "AdresseA": "البرادية المركز",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OULED DRISS",
+    "NOM_ETABA": "ثانوية  اولاد ادريس التأهيلية ",
+    "AdresseL": "COMMUNE RURALE BRADIA",
+    "AdresseA": "جماعة برادية",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "al jarass 1",
+    "NOM_ETABA": "الجرس1",
+    "AdresseL": "NULL",
+    "AdresseA": "197تجزئة التقدم لبراديا الفقيه",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Firdaous",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "rue zerktouni HAD BRADIA",
+    "AdresseA": "الزرقطوني حد البرادية",
+    "COMMUNE": "Bradia",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

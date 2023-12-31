@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial CHARIF AL IDRISSI",
+    "NOM_ETABA": "ثانوية الشريف الإدريسي الإعدادية",
+    "AdresseL": "MUNICIPALITE IMOUZER KANDAR",
+    "AdresseA": "بلدية إيموزار كندر",
+    "COMMUNE": "Imouzzer Kandar",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collégial Driss Benzekri",
+    "NOM_ETABA": "ثانوية ادريس بنزكري الإعدادية",
+    "AdresseL": "Hay Mchacha",
+    "AdresseA": "حي مشاشة",
+    "COMMUNE": "Imouzzer Kandar",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ecole EL MOKHTAR SOUSSI",
+    "NOM_ETABA": "مدرسة المختار السوسي",
+    "AdresseL": "MUNICIPALITE  IMOUZER  KANDAR",
+    "AdresseA": "بلدية إيموزار كندر",
+    "COMMUNE": "Imouzzer Kandar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole EL HANSSALI",
+    "NOM_ETABA": "مدرسة الحنصالي",
+    "AdresseL": "SEHB  ADDI IMOUZER KANDAR",
+    "AdresseA": "سهب عدي إيموزار كندر",
+    "COMMUNE": "Imouzzer Kandar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole EL FARABI",
+    "NOM_ETABA": "مدرسة الفارابي",
+    "AdresseL": "MUNICIPALITE IMOUZER KANDAR",
+    "AdresseA": "بلدية إيموزار كندر",
+    "COMMUNE": "Imouzzer Kandar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole IBNOU ROCHD",
+    "NOM_ETABA": "مدرسة ابن رشد",
+    "AdresseL": "HAY ALLA OUICHOU  IMOUZER KANDAR",
+    "AdresseA": "حي علا ويشو بلدية إيموزار كندر",
+    "COMMUNE": "Imouzzer Kandar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole IBNOU TOFAYL",
+    "NOM_ETABA": "مدرسة إبن طفيل",
+    "AdresseL": "Hay Amaarad  Imouzzar kandar",
+    "AdresseA": "حي أمعراض - إيموزار كندر",
+    "COMMUNE": "Imouzzer Kandar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant MOHAMED VI",
+    "NOM_ETABA": "ثانوية محمد السادس التأهيلية",
+    "AdresseL": "MUNICIPALITE    IMOUZER  KANDAR",
+    "AdresseA": "بلدية إيموزار كندر",
+    "COMMUNE": "Imouzzer Kandar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Ibnou El Haytam",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "N° 60ROUTE IFRANE IMOUZER Kand",
+    "AdresseA": "رقم 60،طريق إفران - أيموزار كن",
+    "COMMUNE": "Imouzzer Kandar ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Salah Eddine",
+    "NOM_ETABA": "صلاح الدين",
+    "AdresseL": "N° 12, Avenue Ait Sbaa - Imouz",
+    "AdresseA": "رقم 12، شارع أيت السبع - إيموز",
+    "COMMUNE": "Imouzzer Kandar ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MODERNE EL OUEFAE",
+    "NOM_ETABA": "المدرسة الحديثة الوفاء الخصوصية",
+    "AdresseL": "quartier alla oycho",
+    "AdresseA": "حي علا ايشو",
+    "COMMUNE": "Imouzzer Kandar ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZAYZAFOUNEE",
+    "NOM_ETABA": "الزيزفون الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة فاس حي هبري إيموزار كندر ",
+    "COMMUNE": "Imouzzer Kandar ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

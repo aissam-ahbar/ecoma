@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE CHBANATE",
+    "NOM_ETABA": "إعدادية الشبانات ",
+    "AdresseL": "Commune chbanate",
+    "AdresseA": "جماعة الشبانات",
+    "COMMUNE": "Chbanate",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELOUHED AL MORRAKCHI",
+    "NOM_ETABA": "عبد الواحد المراكشي",
+    "AdresseL": "DOUAR DRID SOUK LHAD  COMMUNE CHBANATE",
+    "AdresseA": "دوار اضريد سوق الحد",
+    "COMMUNE": "Chbanate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHANSAE",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "DOUAR OULAD BOUGHADDOU  COMMUNE CHBANATE",
+    "AdresseA": "دوار أولاد بوغدو",
+    "COMMUNE": "Chbanate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL IMAM CHAFII",
+    "NOM_ETABA": "الامام الشافعي",
+    "AdresseL": "COOPERATIVE ARRACHAD COMMUNE CHBANATE",
+    "AdresseA": "تعاونية الرشاد",
+    "COMMUNE": "Chbanate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "COOPERATIVE AL AMAL",
+    "NOM_ETABA": "تعاونية الأمل",
+    "AdresseL": "COOPERATIVE AL AMAL  COMMUNE CHBANATE",
+    "AdresseA": "جماعة الشبانات",
+    "COMMUNE": "Chbanate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

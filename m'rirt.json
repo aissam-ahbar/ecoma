@@ -1,0 +1,212 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL JABIR BNOU HAYANE",
+    "NOM_ETABA": "الثانوية الإعدادية جابر بن حيان",
+    "AdresseL": "route de meknes mrirt",
+    "AdresseA": "طريق مكناس مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MOUQAOUAMA",
+    "NOM_ETABA": "الثانوية الإعدادية المقاومة",
+    "AdresseL": "ait hajjou municipalite mrirt",
+    "AdresseA": "ايت حجو بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOUMANE EL FATOUAKI",
+    "NOM_ETABA": "الثانوية الإعدادية حمان الفطواكي",
+    "AdresseL": "QUARTIER TAHAJJAOUITE MUNICIPALITE MRIRT",
+    "AdresseA": "حي تاحجاويت بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ENNASSER",
+    "NOM_ETABA": "النصر",
+    "AdresseL": "QUARTIER BOULECHFAR MUNICIPALITE MRIRT",
+    "AdresseA": "حي بولشفار بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EL MAKHAZINE",
+    "NOM_ETABA": "وادي المخازن",
+    "AdresseL": "BOULEVARD MOHAMED V MUNICIPALITE MRIRT",
+    "AdresseA": "شارع محمد الخامس بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FIDDIA",
+    "NOM_ETABA": "الفضية",
+    "AdresseL": "QUARTIER TAHAJJAOUIT MUNICIPALITE MRIRT",
+    "AdresseA": "حي تاحجاويت بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MOU",
+    "NOM_ETABA": "ايت مو",
+    "AdresseL": "HAY GhARNATA  MUNCIPALITE MRIRT",
+    "AdresseA": "حي غرناطة بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HAJJOU",
+    "NOM_ETABA": "ايت حجو",
+    "AdresseL": "QUARTIER AIT HAJJOU MUNICIPALITE MRIRT",
+    "AdresseA": "حي ايت حجو بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAHAJJAWITE",
+    "NOM_ETABA": "تاحجاويت",
+    "AdresseL": "ROUTE HAMMANE EL FATOUAKI MRIRT",
+    "AdresseA": "شارع حمان الفطواكي مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ELOUAFI",
+    "NOM_ETABA": "محمد الوافي",
+    "AdresseL": " Quattier ait mou Mrirt ",
+    "AdresseA": "حي ايت مو  مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUM ERBIA",
+    "NOM_ETABA": "الثانوية التأهيلية ام الربيع",
+    "AdresseL": "ROUTE DE MEKNES MUNICIPALITE MRIRT",
+    "AdresseA": "طريق مكناس بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MAJD",
+    "NOM_ETABA": "الثانوية التأهيلية المجد",
+    "AdresseL": " ROUTE EL HAMMAMA MRIRT",
+    "AdresseA": "طريق الحمام بلدية مريرت",
+    "COMMUNE": "M'Rirt",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES LAUREATS",
+    "NOM_ETABA": "مجموعة مدارس ليلوريا",
+    "AdresseL": "114 , rue Moulay Rachid . M'ri",
+    "AdresseA": "114 شارع مولاي رشيد مريرت خنيف",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUJABAE",
+    "NOM_ETABA": "النجباء",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بولشفار2 زنقة 6 رقم 321 ",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Asdikae",
+    "NOM_ETABA": "الأصدقاء",
+    "AdresseL": "Hay Albassatine, Rue Alhouria,",
+    "AdresseA": "حي البساتين، زنقة الحرية، رقم ",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "RUE 15 HAYEL MOUASSASSA N 373 ",
+    "AdresseA": "زنقة15 حي المؤسسة رقم 373 مرير",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "Hay mahatta rue 2 n 83 mrirt",
+    "AdresseA": "حي المحطة زنقة2 رقم83 مريرت",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMAL ALGHAD",
+    "NOM_ETABA": "امل الغد",
+    "AdresseL": "HAY EL FARAH RUE MOSSALLA N 10",
+    "AdresseA": "حي الفرح زنقة المصلى رقم 109 م",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAAMOUM",
+    "NOM_ETABA": "جعموم",
+    "AdresseL": "hay el mahatta n° 7 Mrirt",
+    "AdresseA": "حي المحطة رقم 7 مريرت",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aziza",
+    "NOM_ETABA": "عزيزة",
+    "AdresseL": "rue 18 n 336 hay ouhoud",
+    "AdresseA": "زنقة 18 رقم 336 حي احد ",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZAHRAT ALMADAINE",
+    "NOM_ETABA": "زهرة المدائن",
+    "AdresseL": "61, HAY ENNAHDA N° 6- M Rirt",
+    "AdresseA": "حي النهضة رقم 6 -مريرت 61  ",
+    "COMMUNE": "M'Rirt ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

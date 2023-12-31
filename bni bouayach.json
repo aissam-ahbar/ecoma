@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "OQBA BNOU NAFIE (COLLEGE)",
+    "NOM_ETABA": "عقبة بن نافع",
+    "AdresseL": " QUARTIER ALHORIA BNI BOUAYACH",
+    "AdresseA": "حي الحرية بني بوعياش",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BNI BOUAYACH",
+    "NOM_ETABA": "بني بو عياش",
+    "AdresseL": "QUARTIER 2  BENI BOUAYACH",
+    "AdresseA": "الحي الثاني بني بوعياش",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU KHALDOUN",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "B.P 119 BENIBOUAYACH .32050",
+    "AdresseA": "شارع محمد السادس   بني بوعياش  الحسيمة",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NEKKOUR",
+    "NOM_ETABA": "النكور",
+    "AdresseL": "HAY BOUGHARMAN BNI BOUAYACH",
+    "AdresseA": " بني بوعياش ـ حي بوغرمان ",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBOULAY",
+    "NOM_ETABA": "ابولاي",
+    "AdresseL": " rue moulay ismail QUARTIER2",
+    "AdresseA": "شارع المولاى اسماعيل- الحي الأول",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU BATOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "HAY AGADIR BNI BOUAYACH",
+    "AdresseA": "حي اكادير",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DHAR OUBARANE",
+    "NOM_ETABA": "مدرسة دهار اوبران الإبتدائية",
+    "AdresseL": "hay boughrman bni bouayach ",
+    "AdresseA": "حي بوغرمان بني بوعياش",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL KHAWARIZMI ",
+    "NOM_ETABA": "ثانوية الخوارزمي",
+    "AdresseL": "2EME QARTIER BNI BOUAYACH",
+    "AdresseA": "الحي الثاني بني بوعياش",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBNOU ROCHD ",
+    "NOM_ETABA": " ثانوية ابن رشد",
+    "AdresseL": "AL HAY ALJADID BNI BOUAYACH",
+    "AdresseA": "الحي الجديد بني بوعياش",
+    "COMMUNE": "Bni Bouayach",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TIFLI DE ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة طفلي الخصوصية ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بوسلامة بني بوعياش الحسيمة",
+    "COMMUNE": "Bni Bouayach ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

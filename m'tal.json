@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ENNASR",
+    "NOM_ETABA": "ثانوية النصر الإعدادية",
+    "AdresseL": "centre mtal cercle sidi bennour",
+    "AdresseA": "مركز امطل - دائرة سيدي بنور",
+    "COMMUNE": "M'Tal",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "M TAL",
+    "NOM_ETABA": "امطل",
+    "AdresseL": "DOUAR SIDI RAHAL COMMUNE M TAL",
+    "AdresseA": "دوار سيدي رحال ج امطل",
+    "COMMUNE": "M'Tal",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAOUISSATE",
+    "NOM_ETABA": "العويسات",
+    "AdresseL": "DOUAR el koubaa COMMUNE M TAL",
+    "AdresseA": "دوار القوبع جماعة امطل",
+    "COMMUNE": "M'Tal",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ECHAOUIA",
+    "NOM_ETABA": "اولاد الشاوية",
+    "AdresseL": "DOUAR OULED CHAOUIA COMMUNE MTAL",
+    "AdresseA": "دوار اولاد الشاوية ج امطل",
+    "COMMUNE": "M'Tal",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

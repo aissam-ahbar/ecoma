@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS WADI ELMAKHAZINE",
+    "NOM_ETABA": "م.م وادي المخازن",
+    "AdresseL": "DOUAR   aitamentsidi abdallah ousaid",
+    "AdresseA": "دوار ايت تامنت جماعة سيدي عبد الله اوسعيد",
+    "COMMUNE": "Sidi Abdellah Ou Said",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS FALGHOUSS",
+    "NOM_ETABA": "م.م فلغوس",
+    "AdresseL": "DOUAR   FALGHOUSS C SIDI ABDALLAH OU SAID",
+    "AdresseA": "دوار فلغوس جماعة سيدي عبد الله اوسعيد",
+    "COMMUNE": "Sidi Abdellah Ou Said",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

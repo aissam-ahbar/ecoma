@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL HASSAN 2",
+    "NOM_ETABA": "ثانوية الحسن الثاني الإعدادية",
+    "AdresseL": "COMMUNE LAMKANSA KARIA BA MOHAMED  TAOUNATE",
+    "AdresseA": "جماعة المكانسة - قرية با محمد",
+    "COMMUNE": "Mkansa",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ABDELMALEK SAADI",
+    "NOM_ETABA": "م/م  عبد المالك السعدي",
+    "AdresseL": "DOUAR KRAROUA COMMUNE MKANSA KARIA BA MOHAMED",
+    "AdresseA": "دواركراروة  جماعة المكانسة - القرية",
+    "COMMUNE": "Mkansa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD  BOULAHOUANE",
+    "NOM_ETABA": "م/م  اولاد بولهوان",
+    "AdresseL": "DOUAR OULAD BOULAHOUANE COMMUNE  MKANSA KARIA",
+    "AdresseA": "دوارولاد بو لهوان   جماعة المكانسة - القرية",
+    "COMMUNE": "Mkansa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED ABID AL JABIRI",
+    "NOM_ETABA": "م/م  محمد عابد الجابري",
+    "AdresseL": "DOUAR KELLABA COMMUNE  MKANSA KARIA",
+    "AdresseA": "دوارقلابة   جماعة المكانسة - القرية",
+    "COMMUNE": "Mkansa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OMARATE",
+    "NOM_ETABA": "م/م  عمارات",
+    "AdresseL": "DOUAR OMARATE COMMUNE  MKANSA KARIA BA MOHAMED",
+    "AdresseA": "دوارعمارات   جماعة المكانسة - القرية",
+    "COMMUNE": "Mkansa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL AJAJRA",
+    "NOM_ETABA": "م/م  العجاجرة",
+    "AdresseL": "DOUAR EL AJAJRA COMMUNE  MKANSA KARIA",
+    "AdresseA": "دوارالعجاجرة   جماعة المكانسة - القرية",
+    "COMMUNE": "Mkansa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OULED BELGHALI COM",
+    "NOM_ETABA": "مدرسة اولاد بلغالي.كم",
+    "AdresseL": "MedersatcomOuled Belghali",
+    "AdresseA": "اولاد بلغالي-المكانسة",
+    "COMMUNE": "Mkansa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL IMAM EL BOUKHARI",
+    "NOM_ETABA": "ثانوية الامام البخاري التأهيلية",
+    "AdresseL": "Centre Commune Mkansa",
+    "AdresseA": "مركز جماعة المكانسة",
+    "COMMUNE": "Mkansa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

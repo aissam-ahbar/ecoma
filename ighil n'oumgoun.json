@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Alamdoune",
+    "NOM_ETABA": "الثانوية الإعدادية ألمدون",
+    "AdresseL": "Ighil Noumgoune",
+    "AdresseA": "إغيل نمكون",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALATLAS",
+    "NOM_ETABA": "الثانوية الاعدادية الاطلس",
+    "AdresseL": "IGHIL NOUMGOUN",
+    "AdresseA": "اغيل نمكون",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BOUTAGHRARE",
+    "NOM_ETABA": "م.م بوتغرار",
+    "AdresseL": "BOUTAGHRARE KALAAT MGOUNA ",
+    "AdresseA": "قلعة مكونة",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IGHREM AKDIM",
+    "NOM_ETABA": "م.م اغرم اقديم",
+    "AdresseL": "IGHREM AKDIM KELLAAT MGGOUNA tinghir",
+    "AdresseA": "دوار اغرم اقديم جماعة إغيل نومكون تنغير",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGOUTI",
+    "NOM_ETABA": "م.م اكوتي",
+    "AdresseL": "AGOUTI KALAAT MGOUNA TINGHIR",
+    "AdresseA": "قلعة مكونة",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT ZAKRI",
+    "NOM_ETABA": "م.م ايت زكري",
+    "AdresseL": "AIT ZAKRI KALAAT MGOUNA OUARZAZATE",
+    "AdresseA": "أيت زكري قلعة مكونة",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT TOUMART",
+    "NOM_ETABA": "م.م ايت تومرت",
+    "AdresseL": "AIT TOUMART  IGHIL N OUMGOUN  KELAAT  MGOUNA TINGH",
+    "AdresseA": "ايت تومرت  جماعة اغيل نمكون قلعة امكونة تنغير",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SS  ALAMDOUNE",
+    "NOM_ETABA": "م.م ألمدون",
+    "AdresseL": "ALAMDOUNE  COMMUNE IGHIL NOUMGOUN",
+    "AdresseA": "دوار ألمدون جماعة إغيل نومكون",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMAJGUAGUE",
+    "NOM_ETABA": "م م امجكاك",
+    "AdresseL": "AMAJGUAGUE KALAAT MGGOUNA tinghir",
+    "AdresseA": "أمجكاك قلعة مكونة تنغير",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUZIGHEMT",
+    "NOM_ETABA": "م م اوزيغمت",
+    "AdresseL": "OUZIGHIMTE KALAAT MGGOUNA  TINGHIR",
+    "AdresseA": "اوزيغمت قلعة مكونة تنغير",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IGHIL N OUMGOUN",
+    "NOM_ETABA": "الثانوية التأهيلية اغيل نمكون",
+    "AdresseL": "ighil n oumgoun",
+    "AdresseA": "اغيل نمكون",
+    "COMMUNE": "Ighil N'Oumgoun",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

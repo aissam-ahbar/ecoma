@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "BSIBISSA CENTRE",
+    "NOM_ETABA": "ابسيبيسة المركزية",
+    "AdresseL": "DOUAR EL AZZABA COMMUNE SIDI EL HATTAB",
+    "AdresseA": "دوار العزابة",
+    "COMMUNE": "Sidi El Hattab",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEKNADDA CENTRE",
+    "NOM_ETABA": "لكنادة المركزية",
+    "AdresseL": "DOUAR LAKNADA COMMUNE SIDI EL HATTAB",
+    "AdresseA": "  دوار لكنادة جماعة سيدي الحطاب",
+    "COMMUNE": "Sidi El Hattab",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI EL HATTAB CENTRE",
+    "NOM_ETABA": "سيدي الحطاب المركزية",
+    "AdresseL": "DOUAR SIDI EL HATTAB COMMUNE SIDI HATTAB",
+    "AdresseA": "دوار سيدي الحطاب",
+    "COMMUNE": "Sidi El Hattab",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

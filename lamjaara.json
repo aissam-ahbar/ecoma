@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI BAKR ARRAZI",
+    "NOM_ETABA": "الثانوية الإعدادية ابي بكر الرازي",
+    "AdresseL": "AIN DORRIJ CENTRE COMMUNE LAMJAARA",
+    "AdresseA": "عين دريج",
+    "COMMUNE": "Lamjaara",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS JAAFAR BNOU ATIA",
+    "NOM_ETABA": "م م جعفر بن عطية",
+    "AdresseL": "LAMJAARA CENTRE COMMUNE LAMJAARA",
+    "AdresseA": "دوار المجاعرة",
+    "COMMUNE": "Lamjaara",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SED LOUAHDA",
+    "NOM_ETABA": "م م سد الوحدة",
+    "AdresseL": "SED LOUAHDA  COMMUNE LAMJAARA",
+    "AdresseA": "سد الوحدة",
+    "COMMUNE": "Lamjaara",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Abou el Kacem Chebbi",
+    "NOM_ETABA": "مجموعة مدارس أبي القاسم الشابي",
+    "AdresseL": "AIN DORRIJ CENTRE COMMUNE LAMJAARA",
+    "AdresseA": "مركز عين دريج",
+    "COMMUNE": "Lamjaara",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOSSAB IBN OMAIR",
+    "NOM_ETABA": "م م مصعب ابن عمير",
+    "AdresseL": "DOUAR TARFANIA COMMUNE LAMJAARA",
+    "AdresseA": "دوار -الطرفانية جماعة المجاعرة -",
+    "COMMUNE": "Lamjaara",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUAD BNOU JABAL",
+    "NOM_ETABA": "الثانوية التاهيلية معاد بن جبل",
+    "AdresseL": "AIN DORRIJ CENTRE  COMMUNE LAMJAARA",
+    "AdresseA": "عين دريج",
+    "COMMUNE": "Lamjaara",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BAGHDAD",
+    "NOM_ETABA": "مجموعة مدارس بغداد",
+    "AdresseL": "CENTRE AIN DOURIJE",
+    "AdresseA": "مركز عين دريج",
+    "COMMUNE": "Lamjaara",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

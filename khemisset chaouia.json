@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "KHMISSAT CHAOUIA CENTRE",
+    "NOM_ETABA": "مركزية خميسات الشاوية",
+    "AdresseL": "COMMUNE KHMISSAT CHAOUIA",
+    "AdresseA": "خميسات الشاوية",
+    "COMMUNE": "Khemisset Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD JMIL CENTRE",
+    "NOM_ETABA": "مركزية اولاد جميل",
+    "AdresseL": "DOUAR OULAD JMIL COMMUNE KHMISSET CHAOUIA",
+    "AdresseA": "اولاد جميل خميسات الشاوية",
+    "COMMUNE": "Khemisset Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZMAMRA CENTRE",
+    "NOM_ETABA": "مركزية الزمامرة",
+    "AdresseL": "EZMAMRA COMMUNE KHMISSET CHAOUIA",
+    "AdresseA": "م,م الزمامرة جماعة خميسات الشاوية",
+    "COMMUNE": "Khemisset Chaouia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

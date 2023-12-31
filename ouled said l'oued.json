@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OULED SAID",
+    "NOM_ETABA": "ثانوية اولاد سعيد الإعدادية",
+    "AdresseL": "CENTRE OULED SAID L OUED",
+    "AdresseA": "مركز اولاد سعيد الواد",
+    "COMMUNE": "Ouled Said L'Oued",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED SMAIL CENTRE",
+    "NOM_ETABA": "مركزية اولاد اسماعيل",
+    "AdresseL": "OULED SMAIL COMMUNE OULED SAID L OUED",
+    "AdresseA": "جماعة  اولاد اسعيد",
+    "COMMUNE": "Ouled Said L'Oued",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SAID CENTRE",
+    "NOM_ETABA": "مركزية اولاد سعيد",
+    "AdresseL": " COMMUNE OULED SAID L OUED",
+    "AdresseA": "جماعة  اولاد اسعيد الواد",
+    "COMMUNE": "Ouled Said L'Oued",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE OULED SAID ",
+    "NOM_ETABA": "   ثانوية اولاد سعيد  التاهيلية",
+    "AdresseL": "ouled said eloued",
+    "AdresseA": "اولاد سعيد الواد",
+    "COMMUNE": "Ouled Said L'Oued",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ACHOROK ",
+    "NOM_ETABA": "مجموعة مدارس الشروق",
+    "AdresseL": "douar ouled ain nass ouled sai",
+    "AdresseA": "دوار اولاد عين ناس اولاد سعيد ",
+    "COMMUNE": "Ouled Said L'Oued",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

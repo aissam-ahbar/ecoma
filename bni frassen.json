@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "BNI FRASSEN CENTRE",
+    "NOM_ETABA": "بني فراسن المركز",
+    "AdresseL": "BNI FRASSEN CENTRE COMMUNE BNI FRASSEN",
+    "AdresseA": "بني فراسن المركز جماعة بني فراسن",
+    "COMMUNE": "Bni Frassen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MRILOU CENTRE",
+    "NOM_ETABA": "مريلو المركز",
+    "AdresseL": " DOUAR OULED MBAREK COMMUNE BNI FRASSEN",
+    "AdresseA": "دوار أولاد امبارك جماعة بني فراسن",
+    "COMMUNE": "Bni Frassen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TFAZA CENTRE",
+    "NOM_ETABA": "تفازة المركز",
+    "AdresseL": "DOUAR TFAZA COMMUNE BNI FRASSEN OUED AMLIL",
+    "AdresseA": "دوار تفازة جماعة بني فراسن وادي أمليل",
+    "COMMUNE": "Bni Frassen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SEBT LAKDIM CENTRE",
+    "NOM_ETABA": "السبت القديم المركز",
+    "AdresseL": "SEBT LAKDIM COMMUNE BNI FRASSEN",
+    "AdresseA": "السبت القديم جماعة بني فراسن",
+    "COMMUNE": "Bni Frassen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOUAOUER CENTRE",
+    "NOM_ETABA": "الدواور المركز",
+    "AdresseL": "DOUAR DOUAOUER COMMUNE BNI FRASSEN",
+    "AdresseA": "دوار الدواور جماعة بني فراسن",
+    "COMMUNE": "Bni Frassen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AMER CENTRE",
+    "NOM_ETABA": "اولاد عامر المركز",
+    "AdresseL": "DOUAR OULED AMER COMMUNE BNI FRASSEN",
+    "AdresseA": "دوار اولاد عامر جماعة بني فراسن",
+    "COMMUNE": "Bni Frassen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant BENI FRASSEN",
+    "NOM_ETABA": "الثانوية التأهيلية بني فراسن ",
+    "AdresseL": "BNI FRASSEN CENTRE",
+    "AdresseA": "بني فراسن المركز",
+    "COMMUNE": "Bni Frassen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

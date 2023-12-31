@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAZARTE",
+    "NOM_ETABA": "الثانوية الإعدادية تزارت",
+    "AdresseL": "TAZARTE",
+    "AdresseA": "تزارت",
+    "COMMUNE": "Tazart",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TAZARTE",
+    "NOM_ETABA": "تازارت",
+    "AdresseL": "DOUAR TAZARTE COMMUNE TAZART",
+    "AdresseA": "دوار تازارت جماعة تازارت",
+    "COMMUNE": "Tazart",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " TIZAGHTE",
+    "NOM_ETABA": " مركزية تيزغت",
+    "AdresseL": "DOUAR TIZAGHT COMMUNE TAZART",
+    "AdresseA": ".دوار تيزغت جماعة تزارت. قيادة تزارت",
+    "COMMUNE": "Tazart",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGHBALOU TAZART",
+    "NOM_ETABA": "اغبالو_تزارت",
+    "AdresseL": " AGHBALOU COMMUNE TAZART",
+    "AdresseA": " اغبالو جماعة تزارت",
+    "COMMUNE": "Tazart",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IHRISSANE",
+    "NOM_ETABA": "اهريصان",
+    "AdresseL": "DOUAR IHRISSANE COMMUNE TAZART",
+    "AdresseA": "دوار اهريصان جماعة تزارت",
+    "COMMUNE": "Tazart",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMARIGHNE",
+    "NOM_ETABA": "اماريغان",
+    "AdresseL": "DOUAR AIT DAOUD COMMUNE TAZART",
+    "AdresseA": "دوار ايت داود جماعة تازارت",
+    "COMMUNE": "Tazart",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

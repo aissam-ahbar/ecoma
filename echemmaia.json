@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SULTAN MOULAY EL HASSAN",
+    "NOM_ETABA": " الثانوية الإعدادية السلطان مولاي الحسن",
+    "AdresseL": "QUARTIER ADMINISTRATIF ECHEMAIA",
+    "AdresseA": "الحي الاداري الشماعية",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZOUBEIR IBN EL AOUAM",
+    "NOM_ETABA": "الثانوية الإعدادية الزبير بن العوام",
+    "AdresseL": "ROUTE CHICHAOUA",
+    "AdresseA": "طريق شيشاوة ",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MEHDI BENOUNA",
+    "NOM_ETABA": "مدرسة المهدي بنونة",
+    "AdresseL": "QUARTIER ADMINISTRATIF",
+    "AdresseA": "الحي  الاداري",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED EL BOUAMRANI",
+    "NOM_ETABA": "مدرسة محمد البوعمراني",
+    "AdresseL": "QUARTIER ADMINISTRATIF",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED BOULIFA",
+    "NOM_ETABA": "مدرسة محمد بوليفة",
+    "AdresseL": "DERB ELHAJJAJ SOUIKA  CHEMAIA",
+    "AdresseA": "درب الحجاج السويقة الشماعية",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE KHEMISS ZIMA",
+    "NOM_ETABA": "مركزية خميس زيمة ",
+    "AdresseL": "SOUK KHMISS ZIMA CHEMAIA",
+    "AdresseA": "سوق خميس زيمة الشماعية",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ATTABRI",
+    "NOM_ETABA": "مدرسة الطبري",
+    "AdresseL": "HAY LHERECH",
+    "AdresseA": "حي الحرش",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL QODS",
+    "NOM_ETABA": "الثانوية التأهيلية القدس ",
+    "AdresseL": "ROUTE CHICHAOUA ECHEMAIA",
+    "AdresseA": "طريق شيشاوة الشماعية",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 30 JUILLET",
+    "NOM_ETABA": "الثانوية التأهيلية 30 يوليوز",
+    "AdresseL": "CENTRE ECHEMMAIA",
+    "AdresseA": "مركز الشماعية",
+    "COMMUNE": "Echemmaia",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire Araich pour l enseignement",
+    "NOM_ETABA": "مجموعة مدارس عريش للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 334 مكاديم",
+    "COMMUNE": "Echemmaia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADAE TARBIYA POUR l ENSEIGNEMENT",
+    "NOM_ETABA": "فضاء التربية للتعليم الخصوصي",
+    "AdresseL": "hay khalifa bd chefchaoun",
+    "AdresseA": "حي الخليفة شارع شفشاون ",
+    "COMMUNE": "Echemmaia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAWHARAT SINDIBAD POUR L'ENSEIGNEMENT",
+    "NOM_ETABA": "جوهرة سندباد للتعليم المدرسي الخصوصي",
+    "AdresseL": "n 204/205 lotissement lemgadim",
+    "AdresseA": "204-205 تجزئة لمكاديم",
+    "COMMUNE": "Echemmaia ",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

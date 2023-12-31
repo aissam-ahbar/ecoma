@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial SANHAJA",
+    "NOM_ETABA": "ثانوية صنهاجة الإعدادية",
+    "AdresseL": "Douar sanhaja COMMUNE RURALE sidi youssef ",
+    "AdresseA": "دوار صنهاجة جماعة سيدي يوسف بن احمد",
+    "COMMUNE": "Sidi YoussefBen Ahmed",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss MOUHA OUHAMOU EZZIANI Centre",
+    "NOM_ETABA": "م/م موحى اوحمو الزياني-المركز",
+    "AdresseL": "DOUAR TAJANAT sidi yousef ben ahmed pr SEFROU",
+    "AdresseA": "دوار تجنات سيدي يوسف بن احمد اقليم صفرو",
+    "COMMUNE": "Sidi YoussefBen Ahmed",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss SANHAJA Centre",
+    "NOM_ETABA": "م/م صنهاجة-المركز",
+    "AdresseL": "DOUAR SANHAJA",
+    "AdresseA": "دوار صنهاجة",
+    "COMMUNE": "Sidi YoussefBen Ahmed",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIT TALEB Centre",
+    "NOM_ETABA": "م/م أيت الطالب -المركز",
+    "AdresseL": "AIT TALEB",
+    "AdresseA": "أيت الطالب",
+    "COMMUNE": "Sidi YoussefBen Ahmed",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

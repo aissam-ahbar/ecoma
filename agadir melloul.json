@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "C AGADIR MELLOUL",
+    "NOM_ETABA": " ثإ.أكدير ملول ",
+    "AdresseL": "CENTRE COMMUNE AGADIR MELLOUL",
+    "AdresseA": " جماعة أكادير ملول  ",
+    "COMMUNE": "Agadir Melloul",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AGADIR MELLOUL",
+    "NOM_ETABA": "م.م اكدير ملول",
+    "AdresseL": "DOUAR   TAMELLAKOUTE C AGADIR MELLOUL",
+    "AdresseA": "دوار تملاكوت جماعة  اكدير ملول",
+    "COMMUNE": "Agadir Melloul",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUKMAKH",
+    "NOM_ETABA": "م.م بوكماخ",
+    "AdresseL": "DOUAR   TINIRDEL C AGADIR MELLOUL",
+    "AdresseA": "د.تنردل",
+    "COMMUNE": "Agadir Melloul",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN KHALDOUN",
+    "NOM_ETABA": "م.م ابن خلدون",
+    "AdresseL": "DOUAR   ANZOUR COMMUNE AGADIR MELLOUL",
+    "AdresseA": "دوار أنزور جماعة اكادير ملول",
+    "COMMUNE": "Agadir Melloul",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMAM CHAFII",
+    "NOM_ETABA": "م.م الإمام الشافعي",
+    "AdresseL": "DOUAR   ASSERRARREGH C AGADIR MELLOUL",
+    "AdresseA": "دوار أسرارغ جماعة أكادير ملول",
+    "COMMUNE": "Agadir Melloul",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN ELHASSAN ELOUAZZANI",
+    "NOM_ETABA": "م.م إبن الحسن الوزاني",
+    "AdresseL": "DOUAR   TIZGUI LEMGHARTINE C AGADIR MELLOUL",
+    "AdresseA": "د- تزكي المغارطين",
+    "COMMUNE": "Agadir Melloul",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN BATTOUTA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن بطوطة",
+    "AdresseL": "ICHAMRAREN CERCLE MTOUGA ",
+    "AdresseA": " اشمرارن دائرة متوكة شيشاوة",
+    "COMMUNE": "Ichamraren",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TAOURA",
+    "NOM_ETABA": "تاورة",
+    "AdresseL": "DOUAR TAOURA COMMUNE ICHAMRAREN",
+    "AdresseA": "دوار تاورة",
+    "COMMUNE": "Ichamraren",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TISKERT",
+    "NOM_ETABA": "تسكرت",
+    "AdresseL": "DOUAR TISKERT COMMUNE ICHAMRAREN",
+    "AdresseA": "دوار  تسكرت",
+    "COMMUNE": "Ichamraren",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TLAT ICHAMRAREN",
+    "NOM_ETABA": "ثلاث اشمرارن",
+    "AdresseL": "DOUAR TLAT ICHAMRAREN COMMUNE ICHAMRAREN",
+    "AdresseA": "دوار  ثلاث اشمرارن",
+    "COMMUNE": "Ichamraren",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RBAT",
+    "NOM_ETABA": "الرباط",
+    "AdresseL": "DOUAR RBAT IDA OUMRZOUG COMMUNE ICHAMRAREN",
+    "AdresseA": "دوار رباط إدا ومرزوك",
+    "COMMUNE": "Ichamraren",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGADIR ELGHACHI2",
+    "NOM_ETABA": "أكادير الغاشي 2",
+    "AdresseL": "DOUAR AGADIR ELGHACHI COMMUNE ICHAMRAREN",
+    "AdresseA": "دوار  أكادير الغاشي  جماعة اشمرارن",
+    "COMMUNE": "Ichamraren",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

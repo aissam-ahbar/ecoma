@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C SIDI OUAZIZ ",
+    "NOM_ETABA": "ثإ. سيدي واعزيز   ",
+    "AdresseL": "douar oiwftout sidi ouaziz",
+    "AdresseA": "دوار واوفتوت سيدي واعزيز",
+    "COMMUNE": "Sidi Ouaaziz",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SIDI OUAZIZ",
+    "NOM_ETABA": "م.م سيدي وعزيزي",
+    "AdresseL": "DOUAR   AIT ALI C SIDI WAAZIZ",
+    "AdresseA": "دوار أيت علي سيدي واعزيز",
+    "COMMUNE": "Sidi Ouaaziz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT SAYH",
+    "NOM_ETABA": "م.م ايت السايح",
+    "AdresseL": "DOUAR   AIT OUSSAYH C SIDI WAAZIZ",
+    "AdresseA": "دوار. ايت السايح",
+    "COMMUNE": "Sidi Ouaaziz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ATTAQADDOUM",
+    "NOM_ETABA": "م.م التقدم",
+    "AdresseL": "DOUAR   BOUZAAOUD C SIDI OUAAZIZ",
+    "AdresseA": "دوار بوزعوض جماعة سيدي واعزيز",
+    "COMMUNE": "Sidi Ouaaziz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TISSAFINE",
+    "NOM_ETABA": "م.م تسافين",
+    "AdresseL": "DOUAR   AIT HADDOU TISSAFFINE C SIDI WAAZIZ",
+    "AdresseA": "د. ايت حدو تسافين",
+    "COMMUNE": "Sidi Ouaaziz",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

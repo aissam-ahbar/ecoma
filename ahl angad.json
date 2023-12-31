@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "SS OULED AYYAD  CENTRE",
+    "NOM_ETABA": "م/م أولاد عياد - المركز",
+    "AdresseL": "OULED AYYAD  AHL ANGAD",
+    "AdresseA": "أولاد عياد أهل أنجاد",
+    "COMMUNE": "Ahl Angad",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E RABIA ADAOUYA",
+    "NOM_ETABA": "م. رابعة العدوية",
+    "AdresseL": "DOUAR OULED ENNASSER  COMMUNE AHL ANGAD",
+    "AdresseA": "دوار أولاد الناصر جماعة أهل أنجاد",
+    "COMMUNE": "Ahl Angad",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMAM CHAFII  CENTRE",
+    "NOM_ETABA": "م/م الإمام الشافعي - المركز",
+    "AdresseL": "ROUTE AOUINAT  AIN ESSARRAK  COMMUNE AHL ANGAD",
+    "AdresseA": "عوينة السراق أهل أنجاد",
+    "COMMUNE": "Ahl Angad",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BADRE  CENTRE",
+    "NOM_ETABA": "م/م بدر - المركز",
+    "AdresseL": "DOUAR BOUCHTAT  COMMUNE AHL ANGAD",
+    "AdresseA": "دوار بوشطاط جماعة أهل أنجاد",
+    "COMMUNE": "Ahl Angad",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MEHDI BEN TOUMERT  CENTRE",
+    "NOM_ETABA": "م/م المهدي بن تومرت - المركز",
+    "AdresseL": " DOUAR OULAD MIMOUN HOUARA AHL ANGAD",
+    "AdresseA": "دوار أولاد ميمون فرقة هوارة أهل أنجاد",
+    "COMMUNE": "Ahl Angad",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU RACHIQ",
+    "NOM_ETABA": "م. ابن رشيق",
+    "AdresseL": "HAY EL HAMRA SIDI YAHYA",
+    "AdresseA": "حي الحمراء سيدي يحيى",
+    "COMMUNE": "Ahl Angad",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "م. علال بن عبد الله",
+    "AdresseL": "HAY LGUIATENE",
+    "AdresseA": "حي لكياطين ",
+    "COMMUNE": "Ahl Angad",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS IBN ARDOUN TALAMBOTE",
+    "NOM_ETABA": "م/م ابن عرضون _تلمبوط",
+    "AdresseL": "TALAMBOT Commune TALAMBOT CHEFCHAOUEN",
+    "AdresseA": "تلمبوط المركز جماعة تلمبوط",
+    "COMMUNE": "Talambote",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALKALAA",
+    "NOM_ETABA": "م/م القلعة",
+    "AdresseL": "DOUAR AL KALAA C TALAMBOT CHEFCHAOUEN",
+    "AdresseA": "دوار القلعة جماعة تلمبوط",
+    "COMMUNE": "Talambote",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI M HAMED",
+    "NOM_ETABA": "م/م بني محمد",
+    "AdresseL": "DOUAR BNI MHAMEDCTALAMBOTCHEFCHAOUEN",
+    "AdresseA": "دوار بني محمد جماعة تلمبوط",
+    "COMMUNE": "Talambote",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

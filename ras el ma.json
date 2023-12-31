@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULAD HADDOU",
+    "NOM_ETABA": "مجموعة مدارس أولاد حدو",
+    "AdresseL": "HAY ALMOHAMMADI RAS EL MA",
+    "AdresseA": "الحي المحمدي-رأس الماء",
+    "COMMUNE": "Ras El Ma",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOKHTAR ASSOUSSI",
+    "NOM_ETABA": "المدرسة الابتدائية المختار السوسي",
+    "AdresseL": "COMMUNE RAS AL MA CENTRE",
+    "AdresseA": "جماعة رأس الماء المركز",
+    "COMMUNE": "Ras El Ma",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  RAS ALMA",
+    "NOM_ETABA": "الثانوية التأهيلية راس الماء",
+    "AdresseL": "RAS ALMA CENTRE",
+    "AdresseA": "راس الماء",
+    "COMMUNE": "Ras El Ma",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

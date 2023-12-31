@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "AL INBIAAT",
+    "NOM_ETABA": "الانبعاث",
+    "AdresseL": "DOUAR AIT BOUAZZA COMMUNE MQAM TOLBA",
+    "AdresseA": "دوار آيت بوعزة جماعة مقام الطلبة",
+    "COMMUNE": "M'qam Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI LAHCEN",
+    "NOM_ETABA": "سيدي لحسن",
+    "AdresseL": "DOUAR ait ben mossa COMMUNE MQAM TOLBA",
+    "AdresseA": "دوار ايت بن موسى ج مقام الطلبة",
+    "COMMUNE": "M'qam Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "عمر بن عبد العزيز",
+    "AdresseL": "DOUAR AIT OMAR COMMUNE MQAM TOLBA",
+    "AdresseA": "دوار آيت عمر جماعة مقام الطلبة",
+    "COMMUNE": "M'qam Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BOUAZZA OUSAID",
+    "NOM_ETABA": "آيت بوعزة أوسعيد",
+    "AdresseL": "DOUAR AIT BOUAZZA BEN SAAD COMMUNE MQAM TOLBA",
+    "AdresseA": "آيت بوعزة  أوسعيد- جماعة مقام الطلبة",
+    "COMMUNE": "M'qam Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU AL ATHIR",
+    "NOM_ETABA": "ابن الأثير",
+    "AdresseL": "COMMUNE M QAM TOLBA",
+    "AdresseA": "مقام الطلبة المركز",
+    "COMMUNE": "M'qam Tolba",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ECHATI",
+    "NOM_ETABA": "الثانوية الإعدادية الشاطىء",
+    "AdresseL": " bD  elyazidi   ALMARSA ",
+    "AdresseA": "شارع اليزيدي / المرسى",
+    "COMMUNE": "El Marsa",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUHAMED 6",
+    "NOM_ETABA": "المدرسة الإبتدائية محمد السادس",
+    "AdresseL": "ALMARSA CENTRE",
+    "AdresseA": "المرسى المركز",
+    "COMMUNE": "El Marsa",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE COM AL MARSSA",
+    "NOM_ETABA": "مدرسة كم المرسى",
+    "AdresseL": "Hay Al Massira rue lalla asma Al Marsa",
+    "AdresseA": "حي المسيرة المرسى شارع لالة أسماء",
+    "COMMUNE": "El Marsa",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT TAFOUDART",
+    "NOM_ETABA": "المدرسة الإبتدائية معركة تافودارت",
+    "AdresseL": "RUE DRISS EL HARTI Bp 90  eL MARSA   ",
+    "AdresseA": "شارع ادريس الحارثي ص.ب  90     المرسى",
+    "COMMUNE": "El Marsa",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE  AL MOKHTAR ASSOUSSI",
+    "NOM_ETABA": "المدرسة الإبتدائية المختار السوسي",
+    "AdresseL": "Commune Al Marssa",
+    "AdresseA": "جماعة المرسى",
+    "COMMUNE": "El Marsa",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MARSA",
+    "NOM_ETABA": "الثانوية التأهيلية المرسى",
+    "AdresseL": "Av mouhamed yazidi",
+    "AdresseA": "شارع محمد يازيدي",
+    "COMMUNE": "El Marsa",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "almanbat",
+    "NOM_ETABA": "المنبت",
+    "AdresseL": "NULL",
+    "AdresseA": "رفم 1325 شارع 20 غشت المرسى ",
+    "COMMUNE": "El Marsa ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la perle bleue",
+    "NOM_ETABA": "اللؤلة الزرقاء",
+    "AdresseL": "rue oualy alaahd 47N°01 almars",
+    "AdresseA": "شارع ولي العهد العمارة 47 الرق",
+    "COMMUNE": "El Marsa ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al alam assaghir",
+    "NOM_ETABA": "العالم الصغير",
+    "AdresseL": "rue youssef ibn tachfine",
+    "AdresseA": "زنقة يوسف بن تاشفين ",
+    "COMMUNE": "El Marsa ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement le future de l enfantee",
+    "NOM_ETABA": "مستقبل الطفل",
+    "AdresseL": "lot al massira alkhadra rue es",
+    "AdresseA": "تجزئة المسيرة زنقة الصويرة  رق",
+    "COMMUNE": "El Marsa ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALILHAM",
+    "NOM_ETABA": "الإلهام",
+    "AdresseL": "Lotissement el massira el khad",
+    "AdresseA": "تجزئة المسيرة الخضراء زنقة دبي",
+    "COMMUNE": "El Marsa ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sanabil Al Aatae",
+    "NOM_ETABA": "سنابل العطاء",
+    "AdresseL": "Av. Mohamed El Yazidi, Al Mars",
+    "AdresseA": "شارع محمد اليازيدي، المرسى",
+    "COMMUNE": "El Marsa ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Imam Malik (Annexe El Marsa)",
+    "NOM_ETABA": "الإمام مالك (ملحقة المرسى)",
+    "AdresseL": "Av. Abdelaziz Ben Driss, Hay A",
+    "AdresseA": "شارع عبد العزيز بن ادريس، حي ا",
+    "COMMUNE": "El Marsa ",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  }
+]

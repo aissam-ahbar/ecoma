@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL DRISS BEN ZAKRI",
+    "NOM_ETABA": "الثانوية الإعدادية ادريس بنزكري",
+    "AdresseL": "CENTRE COMMUNE CHAHDA",
+    "AdresseA": "مركز جماعة الشهدة",
+    "COMMUNE": "Chahda",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHEHDA",
+    "NOM_ETABA": "م/م الشهدة",
+    "AdresseL": "DOUAR CHEHDA COMMUNE chahda",
+    "AdresseA": "دوار الشهدة  جماعة الشهدة",
+    "COMMUNE": "Chahda",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LOUGAGDA",
+    "NOM_ETABA": "م/م لوكاكدة",
+    "AdresseL": "DOUAR LOUGAGDA COMMUNE chahda ",
+    "AdresseA": "دوار لوكاكدة  جماعة الشهدة",
+    "COMMUNE": "Chahda",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S BNI DGHOUGH",
+    "NOM_ETABA": "م/م بني دغوغ",
+    "AdresseL": "DOUAR BNI DGHOUGHCOMMUNE chahda",
+    "AdresseA": "دوار بني دغوغ  جماعة شهدة",
+    "COMMUNE": "Chahda",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

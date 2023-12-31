@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE TAMSAOUT ",
+    "NOM_ETABA": "تانوية تمساوت الإعدادية",
+    "AdresseL": "commune rural tamsaoute",
+    "AdresseA": "الجماعة القروية تمساوت",
+    "COMMUNE": "Tamsaout",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAMSAOUT",
+    "NOM_ETABA": "م.م تامساوت",
+    "AdresseL": "DOUAR TAMSAOUT COMMUNE TAMSAOUT",
+    "AdresseA": "دوار تامساوت جماعة نمساوت",
+    "COMMUNE": "Tamsaout",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSOUL",
+    "NOM_ETABA": "اسول",
+    "AdresseL": "DOUAR ASSOUL COMMUNE TAMSAOUT",
+    "AdresseA": "دوار اسول جماعة نمساوت",
+    "COMMUNE": "Tamsaout",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BARNASS",
+    "NOM_ETABA": "برناص",
+    "AdresseL": "DOUAR BARNASS COMMUNE TAMSAOUT",
+    "AdresseA": "دوار برناص جماعة نمساوت",
+    "COMMUNE": "Tamsaout",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ARGUIOUEN",
+    "NOM_ETABA": "اركيون",
+    "AdresseL": "DOUAR ARGUIOUEN COMMUNE TAMSAOUT",
+    "AdresseA": "دوار اركيون جماعة نمساوت",
+    "COMMUNE": "Tamsaout",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

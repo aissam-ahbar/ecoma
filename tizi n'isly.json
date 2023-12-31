@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "ِCOLLEGE TIZI NISLY",
+    "NOM_ETABA": "ثانوية تيزي نسلي الإعدادية",
+    "AdresseL": "Tizi Nisly centre",
+    "AdresseA": "مركز تيزي نسلي",
+    "COMMUNE": "Tizi N'Isly",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIZI CENTRE",
+    "NOM_ETABA": "مركزية تيزي نسلي",
+    "AdresseL": "TIZI NISLY CENTRE",
+    "AdresseA": "تيزي نسلي المركز",
+    "COMMUNE": "Tizi N'Isly",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIHOUNA AIT IDIR",
+    "NOM_ETABA": "مركزية تحونة ايت ايدير",
+    "AdresseL": "TIHOUNA AIT IDIR COMMUNE TIZI N ISLY",
+    "AdresseA": "تيزي نسلي",
+    "COMMUNE": "Tizi N'Isly",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AMOUGUER",
+    "NOM_ETABA": "مركزية أموكر",
+    "AdresseL": "AMOUGUER COMMUNE TIZI N ISLY",
+    "AdresseA": "تيزي نسلي",
+    "COMMUNE": "Tizi N'Isly",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ATTOUFFAH",
+    "NOM_ETABA": "ثانوية التفاح التأهيلية",
+    "AdresseL": "CENTRE TIZI NISLI",
+    "AdresseA": "مركز تيزي نسلي",
+    "COMMUNE": "Tizi N'Isly",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

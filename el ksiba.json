@@ -1,0 +1,152 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE MOHA OU SAID",
+    "NOM_ETABA": "ثانوية موحا و سعيد الأعدادية",
+    "AdresseL": "bd hassan 2  EL KSIBA",
+    "AdresseA": "شارع الحسن 2   القصيبة",
+    "COMMUNE": "El Ksiba",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUM EL MOUMININE",
+    "NOM_ETABA": "م ام المؤمنين",
+    "AdresseL": "CENTRE EL KSIBA",
+    "AdresseA": "بلدية  القصيبة",
+    "COMMUNE": "El Ksiba",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KSIBA AL GHARBYA",
+    "NOM_ETABA": "م القصيبة الغربية",
+    "AdresseL": "CENTRE EL KSIBA",
+    "AdresseA": "بلدية  القصيبة",
+    "COMMUNE": "El Ksiba",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KSIBA CHARKYA",
+    "NOM_ETABA": "م القصيبة الشرقية",
+    "AdresseL": "quartier administratif elksiba",
+    "AdresseA": "الحي الاداري بالقصيبة",
+    "COMMUNE": "El Ksiba",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANAS IBNOU MALIK",
+    "NOM_ETABA": "م انس بن مالك",
+    "AdresseL": "HAY IGuIG EL KSIBA",
+    "AdresseA": "بلدية  القصيبة",
+    "COMMUNE": "El Ksiba",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TAREK IBNOU ZYAD",
+    "NOM_ETABA": "ثانوية طارق بن زياد التأهيلية",
+    "AdresseL": "Boulevard  MOHAMED V IGUIGUE",
+    "AdresseA": "شارع محمد الخامس ، إكيك",
+    "COMMUNE": "El Ksiba",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IGUIG",
+    "NOM_ETABA": "  ثانوية إكيك التأهيلية",
+    "AdresseL": "Hay Iguig elksiba",
+    "AdresseA": "حي إكيك، القصيبة",
+    "COMMUNE": "El Ksiba",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Majd El Maarifa",
+    "NOM_ETABA": "مجد المعرقة",
+    "AdresseL": "bd mohamed 5 ",
+    "AdresseA": "شارع محمد الخامس ",
+    "COMMUNE": "El Ksiba ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire majd al maarifa 1",
+    "NOM_ETABA": "مجموعة مدارس مجد المعرفة 1",
+    "AdresseL": "AV. Mohamed V Hay Sidi Abdelaa",
+    "AdresseA": "شارع محمد الخامس حي سيدي عبد ا",
+    "COMMUNE": "El Ksiba ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Maraman",
+    "NOM_ETABA": "مرامان الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الأمل حي النصر القصيبة ",
+    "COMMUNE": "El Ksiba ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Riyad Alfajr",
+    "NOM_ETABA": "رياض الفجر",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بويشاض(الامل) الزنقة 4 الرق",
+    "COMMUNE": "El Ksiba ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR  ALHIDAYA",
+    "NOM_ETABA": "نور الهداية ",
+    "AdresseL": "Rue Hassanii, elksiba",
+    "AdresseA": "شارع الحسن الثاني الزنقة 19 ال",
+    "COMMUNE": "El Ksiba ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la fontaine",
+    "NOM_ETABA": "لافونتين",
+    "AdresseL": "",
+    "AdresseA": "حي النصر الرقم 35 الزنقة 5",
+    "COMMUNE": "El Ksiba ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LINA",
+    "NOM_ETABA": "لينة",
+    "AdresseL": "N° 29 LOTISSEMENT OUTALHA BD M",
+    "AdresseA": "الرقم 29 شارع محمد الخامس تجزئ",
+    "COMMUNE": "El Ksiba ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achourouk",
+    "NOM_ETABA": "الشروق",
+    "AdresseL": "NULL",
+    "AdresseA": "5 تجزئة الوفاء حي ام الظهر",
+    "COMMUNE": "El Ksiba ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

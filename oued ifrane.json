@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "lycee collegial AL FARABI",
+    "NOM_ETABA": "ثانوية الفارابي الاعدادية",
+    "AdresseL": "SOUK EL HAD COMMUNE OUED IFRANE",
+    "AdresseA": "جماعة واد افران",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BILAL BNOU RABAH",
+    "NOM_ETABA": "مدرسة بلال بن رباح الابتدائية",
+    "AdresseL": "SOUK AL HAD CENTRE  COMMUNE OUED IFRANE",
+    "AdresseA": "سوق الأحد المركز جماعة واد إفران",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss ZAOUIAT OUAD IFRANE centre",
+    "NOM_ETABA": "م م زاوية واد إفران المركزية",
+    "AdresseL": "ZAOUIAT OUAD IFRANE  COMMUNE OUED IFRANE",
+    "AdresseA": "زاوية واد إفران جماعة واد إفران",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss ASSAKA centre",
+    "NOM_ETABA": " م م أصاكا المركزية",
+    "AdresseL": "DOUAR ASSAKA COMMUNE OUED IFRANE",
+    "AdresseA": "دوار أصاكا جماعة واد إفران",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss SIDI BEL KHIR AMGHAS centre",
+    "NOM_ETABA": "م م سيدي بلخير أمغاس المركزية",
+    "AdresseL": "DOUAR SIDI BEL KHIR  COMMUNE OUED IFRANE",
+    "AdresseA": "دوار سيدي بلخير جماعة واد إفران",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGDAL CENTRE",
+    "NOM_ETABA": "م م أكدال المركزية",
+    "AdresseL": "AGDAL COMMUNE OUED IFRANE",
+    "AdresseA": "أكدال جماعة واد إفران",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SANOUAL CENTRE",
+    "NOM_ETABA": "م م سنوال المركزية ",
+    "AdresseL": "DOUAR SANOUAL COMMUNE OUED IFRANE",
+    "AdresseA": "سنوال جماعة واد إفران",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "COM OUAD IFRANE",
+    "NOM_ETABA": "كم واد إفران",
+    "AdresseL": "SOUK AL HAD CENTRE COMMUNE OUAD IFRANE",
+    "AdresseA": "سوق الأحد المركز جماعة واد إفران",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUED IFRANE",
+    "NOM_ETABA": "الثانوية التأهيلية واد افران",
+    "AdresseL": "oued ifrane centre",
+    "AdresseA": "واد افران المركز",
+    "COMMUNE": "Oued Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

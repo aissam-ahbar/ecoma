@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "AL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "CENTRE SIDI ABDERRAZAK COMMUNE SIDI ABDERRAZAK",
+    "AdresseA": "مركز سيدي عبد الرزاق",
+    "COMMUNE": "Sidi Abderrazak",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKR SEDDIK",
+    "NOM_ETABA": "ابو بكر الصديق",
+    "AdresseL": "DOUAR AIT ISSA COMMUNE SIDI ABDERRAZAK",
+    "AdresseA": "دوار ايت عيسى ج سيدعبد الرزاق",
+    "COMMUNE": "Sidi Abderrazak",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR ANZARAN",
+    "NOM_ETABA": "بئر انزران",
+    "AdresseL": "DOUAR AIT ABD NBI COMMUNE SIDI ABDERRAZAK",
+    "AdresseA": "دوار ايت عبدالنبي ج سيدي عبدالرزاق",
+    "COMMUNE": "Sidi Abderrazak",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LHASSAN LYOUSSI",
+    "NOM_ETABA": "لحسن اليوسي",
+    "AdresseL": "DOUAR AIT ALI KHEZZANE COMMUNE SIDI ABDERRAZAK",
+    "AdresseA": "د ايت خزان ج سيدي عبد الرزاق",
+    "COMMUNE": "Sidi Abderrazak",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN SAADA",
+    "NOM_ETABA": "عين سعادة",
+    "AdresseL": "DOUAR AIT ABD NBI  COMMUNE SIDI ABDERRAZAK",
+    "AdresseA": "دوار ايت عبد النبي حماعة سيدي عبدالرزاق",
+    "COMMUNE": "Sidi Abderrazak",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI ABDERRAZZAK",
+    "NOM_ETABA": "ثانوية سيدي عبد الرزاق",
+    "AdresseL": "SIDI ABDERRAZZAK",
+    "AdresseA": "سيدي عبد الرزاق",
+    "COMMUNE": "Sidi Abderrazak",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

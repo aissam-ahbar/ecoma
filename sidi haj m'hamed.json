@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S BAB MANSOURA",
+    "NOM_ETABA": "م/م  باب منصورة",
+    "AdresseL": "DOUAR BAB MANSOURA COMMUNE SIDI HAJ MHAMED GHAFSS",
+    "AdresseA": "دوار باب المنصورة جماعة سيدي الحاج امحمد غفساي",
+    "COMMUNE": "Sidi Haj M'hamed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHAHRIRA",
+    "NOM_ETABA": "م/م شهريرة الابتدائية",
+    "AdresseL": "Douar CHAHRIRA  Commune Sidi Haj Mhamed",
+    "AdresseA": "دوار شهريرة جماعة سيدي الحاج امحمد دائرة غفساي",
+    "COMMUNE": "Sidi Haj M'hamed",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

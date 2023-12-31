@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN BASSAM",
+    "NOM_ETABA": "الثانوية الإعدادية ابن بسام",
+    "AdresseL": "COMMUNE EL KOUDIA EL BEIDA",
+    "AdresseA": "جماعة الكدية البيضاء",
+    "COMMUNE": "El Koudia El Beida",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ALHAFAYA",
+    "NOM_ETABA": "م.م الحفايا",
+    "AdresseL": "DOUAR   EL KOUDIA CELKOUDIA",
+    "AdresseA": "د. الكدية",
+    "COMMUNE": "El Koudia El Beida",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SALAH EDDINE AL AYOUBI ",
+    "NOM_ETABA": "م.م صلاح الدين الأيوبي",
+    "AdresseL": "DOUAR   LAGROUNE CEL KOUDIA",
+    "AdresseA": "د. الكرون",
+    "COMMUNE": "El Koudia El Beida",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MAARRI",
+    "NOM_ETABA": "م.م المعري",
+    "AdresseL": "DOUAR   ILALA COM   L KOUDIA LBAYDA",
+    "AdresseA": "د. ايلالة جماعة الكدية البيضاء",
+    "COMMUNE": "El Koudia El Beida",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHARIF IDRISSI",
+    "NOM_ETABA": "م.م الشريف الإدريسي",
+    "AdresseL": "DOUAR   BOUKHACHBA EL KOUDIA baida",
+    "AdresseA": "دوار بوخشبة",
+    "COMMUNE": "El Koudia El Beida",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole el gueroune",
+    "NOM_ETABA": "مدرسة الكرون",
+    "AdresseL": "douar el gueroune",
+    "AdresseA": "دوار الكرون",
+    "COMMUNE": "El Koudia El Beida",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL MAJD",
+    "NOM_ETABA": "ثأ.المجد",
+    "AdresseL": "DOUAR   EL KOUDIA COMMUNE AL KOUDIA AL BEIDA",
+    "AdresseA": "جماعة الكدية",
+    "COMMUNE": "El Koudia El Beida",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "bousslim",
+    "NOM_ETABA": " بوسليم",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الكدية البيضاء",
+    "COMMUNE": "El Koudia El Beida",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

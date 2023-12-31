@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "TIFOUGHALINE",
+    "NOM_ETABA": "تيفوغالين",
+    "AdresseL": "DOUAR TIFOUGHALINE COMMUNE BOUKACHMIR",
+    "AdresseA": "د تيفوغالين ج بوقشمير",
+    "COMMUNE": "Bouqachmir",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT KRAD",
+    "NOM_ETABA": "ايت كراض",
+    "AdresseL": "DOUAR AIT KRADE COMMUNE BOUKACHMIR",
+    "AdresseA": "د ايت كراض ج بوقشمير",
+    "COMMUNE": "Bouqachmir",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

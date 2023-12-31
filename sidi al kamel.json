@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE EL KINDI",
+    "NOM_ETABA": "إعدادية الكندي",
+    "AdresseL": "SIDI ELKAMEL CENTRE COMMUNE SIDI ALKAMEL",
+    "AdresseA": "سيدي الكامل",
+    "COMMUNE": "Sidi Al Kamel",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN AL KHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "   COMMUNE SIDI AL KAMEL",
+    "AdresseA": " دوار لقراط جماعة سيدي الكامل",
+    "COMMUNE": "Sidi Al Kamel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD GHIDA",
+    "NOM_ETABA": "اولاد غيدة",
+    "AdresseL": "DOUAR OULAD RHIDA COMMUNE SIDI AL KAMEL",
+    "AdresseA": "  دوار اولاد غيدة جماعة سيدي الكامل",
+    "COMMUNE": "Sidi Al Kamel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI LKAMEL",
+    "NOM_ETABA": "سيدي الكامل",
+    "AdresseL": "DOUAR LABGHAGHRA  COMMUNE SIDI AL KAMEL",
+    "AdresseA": "دوار لبغاغرا",
+    "COMMUNE": "Sidi Al Kamel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BANASSA",
+    "NOM_ETABA": "بناصا",
+    "AdresseL": "DOUAR triaat  COMMUNE SIDI AL KAMEL",
+    "AdresseA": "دوار التريعات جماعة سيدي الكامل",
+    "COMMUNE": "Sidi Al Kamel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL WAFAE",
+    "NOM_ETABA": "ثانوية الوفاء",
+    "AdresseL": "SIDI EL KAMEL",
+    "AdresseA": "سيدي الكامل",
+    "COMMUNE": "Sidi Al Kamel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

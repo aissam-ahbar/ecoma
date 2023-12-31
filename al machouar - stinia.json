@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "IBNOU ACHIR",
+    "NOM_ETABA": "ابن عاشر",
+    "AdresseL": "N 5 BAB ERRAYS  COMMUNE AL MACHOIR STINIA",
+    "AdresseA": "باب الرايس رقم 5ساحة مولاي اسماعيل مكناس",
+    "COMMUNE": "Al Machouar - Stinia",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAME AL BOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "N 5 PLACE LALLA OUDA COMMUNE AL MACHOIR STINIA",
+    "AdresseA": "للا عودة",
+    "COMMUNE": "Al Machouar - Stinia",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

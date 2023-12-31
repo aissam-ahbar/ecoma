@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  BNI SIDEL JBEL",
+    "NOM_ETABA": "الثانوية الإعدادية بني سدال الجبل",
+    "AdresseL": "BNI SIDEL JBEL CENTRE",
+    "AdresseA": "بني سدال الجبل مركز",
+    "COMMUNE": "Bni Sidel Jbel",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE BNI SIDAL",
+    "NOM_ETABA": "مجموعة مدارس بني سيدال",
+    "AdresseL": "DOUAR TLAT JABAL COMMUNE BENI SIDEL JBEL",
+    "AdresseA": "دوار اثلاث الجبل",
+    "COMMUNE": "Bni Sidel Jbel",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TANOUT ARROMAN",
+    "NOM_ETABA": "مجموعة مدارس تانوت الرمان",
+    "AdresseL": "DOUAR JDID COMMUNE BNI SIDEL JBEL",
+    "AdresseA": "دوار الجديد بني سيدال",
+    "COMMUNE": "Bni Sidel Jbel",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ABOU ALKASSIM ACHABBI",
+    "NOM_ETABA": "مجموعة مدارس أبو القاسم الشابي",
+    "AdresseL": "DOUAR AGHIL OUMADGHAR COMMUNE BENI SIDEL JBEL",
+    "AdresseA": "دوار اغيل اومدغار",
+    "COMMUNE": "Bni Sidel Jbel",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

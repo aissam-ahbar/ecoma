@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL OMAR BEN JELLOUN",
+    "NOM_ETABA": "الثانوية الإعدادية عمر ابن جلون",
+    "AdresseL": "COMMUNE AIN BAIDA CENTRE",
+    "AdresseA": "جماعة عين بيضاء المركز",
+    "COMMUNE": "Ain Beida",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AHMAD AMINE",
+    "NOM_ETABA": "م م احمد أمين",
+    "AdresseL": "DOUAR AIN BAIDA COMM AIN BEIDA",
+    "AdresseA": "دوار عين بيضاء جماعة عين بيضاء",
+    "COMMUNE": "Ain Beida",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Ahmed Chawki",
+    "NOM_ETABA": "مجموعة مدارس أحمد شوقي",
+    "AdresseL": "DOUAR KALAAT BNI ROTENCAIN BEIDACHEFCHAOUEN",
+    "AdresseA": "قلعة بني روتن /جماعة عين بيضاء",
+    "COMMUNE": "Ain Beida",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS El Mariniyine",
+    "NOM_ETABA": "مجموعة مدارس المرينيين",
+    "AdresseL": "DOUAR harrara ain beida   OUEZZANE",
+    "AdresseA": "دوارهرارة جماعةعين بيضاء",
+    "COMMUNE": "Ain Beida",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  BANI YITENA",
+    "NOM_ETABA": "م م بني ايتنا",
+    "AdresseL": "DR   KALAAT  SABBANA Com AIN BEIDA  ",
+    "AdresseA": "دوار قلعة صبانة جماعة عين بيضاء ",
+    "COMMUNE": "Ain Beida",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIN BEIDA",
+    "NOM_ETABA": "الثانوية التأهيلية عين بيضاء",
+    "AdresseL": "COMMUNE AIN BEIDA",
+    "AdresseA": "جماعة عين بيضاء",
+    "COMMUNE": "Ain Beida",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

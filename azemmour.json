@@ -1,0 +1,212 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MASSAB",
+    "NOM_ETABA": "ثانوية المصب الاعدادية",
+    "AdresseL": "hay oum errabia",
+    "AdresseA": "حي أم الربيع ",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  EL BIKRI",
+    "NOM_ETABA": "ثانوية البكري الاعدادية",
+    "AdresseL": "AVENUE MOULAY LHASSAN ",
+    "AdresseA": "نهج مولاي الحسن الأول",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LALLA HASNA",
+    "NOM_ETABA": "ثانوية للا حسناء الاعدادية",
+    "AdresseL": "HAY PAM ",
+    "AdresseA": "حي بام ",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN HAMDISSE",
+    "NOM_ETABA": "مدرسة ابن حمديس",
+    "AdresseL": "AVENUE MOULAY  eLHASSANE  I  ",
+    "AdresseA": "شارع مولاي الحسن الأول",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA AICHA EL BAHRIA",
+    "NOM_ETABA": "مدرسة للا عائشة البحرية",
+    "AdresseL": "BOULEVARD MOHAMED V ",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MAHDI IBN TOUMERT",
+    "NOM_ETABA": "مدرسة المهدي بن تومرت",
+    "AdresseL": "ROUTE DE LA PLAGE ",
+    "AdresseA": "طريق الشاطئ",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL FAKIH ERRADI",
+    "NOM_ETABA": " مدرسة الفقيه الراضي ",
+    "AdresseL": "CITE EL AMAL RUE 8 ",
+    "AdresseA": "حي الأمل",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL IMAM MALEK",
+    "NOM_ETABA": "مدرسة الإمام مالك",
+    "AdresseL": "LOTISSEMENT OUM ERRABIAA ",
+    "AdresseA": "تجزئة أم الربيع",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNAKHIL",
+    "NOM_ETABA": "مدرسة النخيل",
+    "AdresseL": "derb lhadj taybi elhoufra ",
+    "AdresseA": "درب الحاج الطيبي الحفرة ",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUM ERRABIA",
+    "NOM_ETABA": " ثانوية أم الربيع التأهيلية",
+    "AdresseL": "HAY EL AMAL ",
+    "AdresseA": "حي الأمل ",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY BOUCHAIB",
+    "NOM_ETABA": "ثانوية مولاي بوشعيب التأهيلية",
+    "AdresseL": "ROUTE LAMSAlLA ",
+    "AdresseA": "طريق المصلى ",
+    "COMMUNE": "Azemmour",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SANHAJAE",
+    "NOM_ETABA": "مؤسسة صنهاجة الخصوصية",
+    "AdresseL": "hay amal rue 10 n°3",
+    "AdresseA": "حي الأمل الزنقة 10 الرقم 3",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOULMAJDE",
+    "NOM_ETABA": "مدرسة أبو المجد الخاصة",
+    "AdresseL": "lot ouifak n°8 rue n°8",
+    "AdresseA": "تجزئة الوفاق رقم 8 الزنقة 8",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jean perrin",
+    "NOM_ETABA": "جان بيران",
+    "AdresseL": "lot jad n°2",
+    "AdresseA": "تجزئة جاد  رقم 2",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole bachil",
+    "NOM_ETABA": "مؤسسة باشل للتعليم الخاص",
+    "AdresseL": "av mohammed v",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AKHAWAYNE",
+    "NOM_ETABA": "الأخوين",
+    "AdresseL": "lot najib 2 n 10 - 11  ",
+    "AdresseA": "تجزئة نجيب 2 رقم 10 - 11  ",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire AL AMAL AL JADID",
+    "NOM_ETABA": "مجموعة مدارس الأمل الجديد",
+    "AdresseL": "avennue c ",
+    "AdresseA": " c شارع ",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SAYARH",
+    "NOM_ETABA": "مجموعة  مدارس الصايغ",
+    "AdresseL": "ROUTE LAMSSALA",
+    "AdresseA": "طريق المصلى",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Amal",
+    "NOM_ETABA": "مؤسسة الأمل",
+    "AdresseL": "Hay Amal , Rue 3, N°1أHOUMAN F",
+    "AdresseA": "حي الأمل، الزنقة 3، الرقم 1 حم",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire AL Baraime",
+    "NOM_ETABA": "مجموعة مدارس  البراعم الخاصة",
+    "AdresseL": "BOULEVARD MOUHAMMED   V  ",
+    "AdresseA": "شارع محمد الخامس ",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Anoir",
+    "NOM_ETABA": "مدرسة الأنوار",
+    "AdresseL": "Quartier AL Amal, N° 17 - RUE ",
+    "AdresseA": "حي الأمل، رقم 17 - زنقة محمد ا",
+    "COMMUNE": "Azemmour ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

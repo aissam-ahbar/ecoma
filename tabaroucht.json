@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "CENTRE TABAROCHTE",
+    "NOM_ETABA": "مركزية تباروشت",
+    "AdresseL": "DOUAR TAZEROUALT ",
+    "AdresseA": "دوار تزروالت",
+    "COMMUNE": "Tabaroucht",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTR TAKNARYOUTE",
+    "NOM_ETABA": "مركزية تكناريوت",
+    "AdresseL": "DOUAR AIT TAMEJOUTE TAKNARYOUTE ",
+    "AdresseA": "دوار ايت تمجوط تكناريوت",
+    "COMMUNE": "Tabaroucht",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

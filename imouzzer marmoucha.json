@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "IMMOUZZAR MARMOUCHA",
+    "NOM_ETABA": "ايموزار  مرموشة",
+    "AdresseL": "IMOUZER MARMOUCHA CENTRE",
+    "AdresseA": "ايموزار مرموشة المركز",
+    "COMMUNE": "Imouzzer Marmoucha",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KOUDS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "hay taghrout immouzer marmoucha",
+    "AdresseA": "حي تاغروت ايموزار مرموشة ",
+    "COMMUNE": "Imouzzer Marmoucha",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMOUZZER MARMOUCHA COM",
+    "NOM_ETABA": " إيموزار مرموشة.كم",
+    "AdresseL": "municipalité imouzzer marmoucha",
+    "AdresseA": "بلدية ايموزار مرموشة",
+    "COMMUNE": "Imouzzer Marmoucha",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 2 OCTOBRE",
+    "NOM_ETABA": "الثانوية التأهيلية 2 أكتوبر",
+    "AdresseL": "IMOUZER MARMOUCHA CENTRE",
+    "AdresseA": "ايموزار مرموشة المركز",
+    "COMMUNE": "Imouzzer Marmoucha",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Bouramdane",
+    "NOM_ETABA": "بورمضان",
+    "AdresseL": "LOTISSEMENT 2 OCTOBRE IMOUZZER",
+    "AdresseA": "تجزئة 2 اكتوبر ايموزار مرموشة ",
+    "COMMUNE": "Imouzzer Marmoucha ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAMADAN",
+    "NOM_ETABA": "رمضان",
+    "AdresseL": "centre imouzzer marmoucha",
+    "AdresseA": "إيموزار مرموشة",
+    "COMMUNE": "Imouzzer Marmoucha ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

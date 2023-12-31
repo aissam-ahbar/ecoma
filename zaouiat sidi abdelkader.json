@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE EZZAOUIA",
+    "NOM_ETABA": "اع. الزاوية",
+    "AdresseL": "COMMUNE ZAOUIAT SIDI ABD EL KADER",
+    "AdresseA": "جماعة زاوية سيدي عبد القادر",
+    "COMMUNE": "Zaouiat Sidi Abdelkader",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUIA",
+    "NOM_ETABA": "م/م الزاوية",
+    "AdresseL": "DOUAR ZAOUIA COMMUNE ZAOUIT SIDI ABDELKADER",
+    "AdresseA": "دوار الزاوية جماعة زاوية سيدي عبد القادر",
+    "COMMUNE": "Zaouiat Sidi Abdelkader",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGHZAR AISSA",
+    "NOM_ETABA": "اغزار عيسى",
+    "AdresseL": "DOUAR AGHZAR AISSA COMMUNE ZAOUIT SIDI ABDELKADER",
+    "AdresseA": "دوار اغزار عيسى  جماعة زاوية سيدي عبد القادر",
+    "COMMUNE": "Zaouiat Sidi Abdelkader",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMCHAT",
+    "NOM_ETABA": "تمشطت",
+    "AdresseL": "DOUAR TAMCHAT COMMUNE ZAOUIT SIDI ABDELKADER",
+    "AdresseA": "دوار تمشطت جماعة زاوية سيدي عبد القادر",
+    "COMMUNE": "Zaouiat Sidi Abdelkader",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

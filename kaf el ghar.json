@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial AL AMAL",
+    "NOM_ETABA": "الثانوية الإعدادية الأمل",
+    "AdresseL": "centre kaf el ghar",
+    "AdresseA": "مركز كاف الغار",
+    "COMMUNE": "Kaf El Ghar",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KAF EL GHAR CENTRE",
+    "NOM_ETABA": "كهف الغار المركز",
+    "AdresseL": " KAF EL GHAR CENTRE COMMUNE KAF AL GHAR",
+    "AdresseA": "كهف الغار المركز",
+    "COMMUNE": "Kaf El Ghar",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAITOUNA CENTRE",
+    "NOM_ETABA": "الزيتونة المركز",
+    "AdresseL": "DOUAR ZAITOUNA COMMUNE KAF AL GHAR",
+    "AdresseA": "دوارالزيتونة  جماعة كهف الغار",
+    "COMMUNE": "Kaf El Ghar",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SEMAMDA CENTRE",
+    "NOM_ETABA": "الصمامدة المركز",
+    "AdresseL": "COMMUNE KAF EL GHAR ",
+    "AdresseA": "دوار  الصمامدة المركز جماعة كهف الغار",
+    "COMMUNE": "Kaf El Ghar",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUSSALEM CENTRE",
+    "NOM_ETABA": "سيدي بوسالم المركز",
+    "AdresseL": "DOUAR SIDI BOUSSALEM COMMUNE KAF AL GHAR",
+    "AdresseA": "دوار  سيدي بوسالم المركزجماعة كاف الغار",
+    "COMMUNE": "Kaf El Ghar",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAAIR ALHAMRA",
+    "NOM_ETABA": "ثانوية شاعر الحمراء الإعدادية",
+    "AdresseL": "FOUM JEMAA CENTRE",
+    "AdresseA": "فم الجمعة المركز",
+    "COMMUNE": "Foum Jemaa",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI MOHAMED BEN ABDELLAH",
+    "NOM_ETABA": "مدرسة سيدي محمد بن عبد الله",
+    "AdresseL": "CENTRE FOUM JEMAA  ",
+    "AdresseA": "مركز فم الجمعة",
+    "COMMUNE": "Foum Jemaa",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FOM JEMAA",
+    "NOM_ETABA": "مدرسة فم الجمعة",
+    "AdresseL": "CENTRE FOUM JEMAA",
+    "AdresseA": "مركز فم الجمعة",
+    "COMMUNE": "Foum Jemaa",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT MALEK",
+    "NOM_ETABA": "مركزية آيت مالك",
+    "AdresseL": "DOUAR AIT MALEK",
+    "AdresseA": "دوار ايت مالك",
+    "COMMUNE": "Foum Jemaa",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUED EL ABID",
+    "NOM_ETABA": "ثانوية واد العبيد التأهيلية",
+    "AdresseL": "CENTRE FOUM JEMAA",
+    "AdresseA": "مركز فم الجمعة",
+    "COMMUNE": "Foum Jemaa",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

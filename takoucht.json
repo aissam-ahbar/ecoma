@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S TAKOUCHET",
+    "NOM_ETABA": " م م تكوشت",
+    "AdresseL": "DOUAR TASSILA OUGADIR TAKOUCHT",
+    "AdresseA": "دوار تسيلا اكادير تكوشت",
+    "COMMUNE": "Takoucht",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ASSADIAINE",
+    "NOM_ETABA": "م م. السعديين",
+    "AdresseL": "DOUAR TAMJOUT TAKOUCHT",
+    "AdresseA": "دوار تمجوت تكوشت",
+    "COMMUNE": "Takoucht",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

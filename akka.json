@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AKKA",
+    "NOM_ETABA": "ثانوية اقا الاعدادية",
+    "AdresseL": "AKKA  TATA",
+    "AdresseA": "بلدية اقا",
+    "COMMUNE": "Akka",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E. EL KALAA",
+    "NOM_ETABA": "م. القلعة",
+    "AdresseL": "AKKA  CENTRE   TATA",
+    "AdresseA": "مركز أقا طاطا",
+    "COMMUNE": "Akka",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AGADIR OUZROU",
+    "NOM_ETABA": "م/م اكادير اوزرو",
+    "AdresseL": "DOUAR AGADIR OUZROU  AKKA  TATA",
+    "AdresseA": "دوار اكادير ازرو اقا  طاطا",
+    "COMMUNE": "Akka",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. AL WAHDA",
+    "NOM_ETABA": "م.الوحدة",
+    "AdresseL": "CENTRE AKKA",
+    "AdresseA": "أقا المركز",
+    "COMMUNE": "Akka",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MANSOUR DAHABI",
+    "NOM_ETABA": "ثانوية المنصور الذهبي التأهيلية",
+    "AdresseL": "CENTRE AKKA  TATA",
+    "AdresseA": "مركز أقا",
+    "COMMUNE": "Akka",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

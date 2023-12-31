@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZZAITOUNE",
+    "NOM_ETABA": "ثانوية الزيتون الاعدادية",
+    "AdresseL": "DOUAR TAFADEJNA ",
+    "AdresseA": "دوار تفدجنة ",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE WAZENTE",
+    "NOM_ETABA": "مركزية وازنت",
+    "AdresseL": "DOUAR WAZENTE",
+    "AdresseA": "دوار وازنت",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE OUAOULA",
+    "NOM_ETABA": "مركزية واولى",
+    "AdresseL": "COMMUNE OUAOULA CENTRE",
+    "AdresseA": "مركز جماعة واولى ",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IGARDANE",
+    "NOM_ETABA": "مركزية اكرضان",
+    "AdresseL": "DOUAR IGARDANE C.R OUAOULA AZILAL",
+    "AdresseA": " دوار اكرضان جماعة واولى  دائرة ولتانة أزيلال",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE BOUANTER",
+    "NOM_ETABA": "مركزية بوعنتر",
+    "AdresseL": "DOUAR BOUANTER ",
+    "AdresseA": "دوار بوعنتر",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AMALOU",
+    "NOM_ETABA": "مركزية امالو",
+    "AdresseL": "DOUAR tachwarite",
+    "AdresseA": "دوار تشواريت",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TALGHEMT",
+    "NOM_ETABA": "مركزية تلغمت",
+    "AdresseL": "DOUAR TALGHEMT",
+    "AdresseA": "دوار تلغمت ",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAFDEJINA COM ",
+    "NOM_ETABA": "مدرسة تفدجينة كم ",
+    "AdresseL": "douar tafdejina ",
+    "AdresseA": "دوار تفدجينة",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  OUAOULA",
+    "NOM_ETABA": "ثانوية واولى التأهيلية",
+    "AdresseL": "commune  ouaoula",
+    "AdresseA": "مركز جماعة واولى",
+    "COMMUNE": "Ouaoula",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

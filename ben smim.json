@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BEN MSIM",
+    "NOM_ETABA": "ثانوية بن الصميم الإعدادية",
+    "AdresseL": "commune de ben smim route de meknes",
+    "AdresseA": "جماعة بن الصميم طريق مكناس",
+    "COMMUNE": "Ben Smim",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " SS BEN SMIM CENTRE",
+    "NOM_ETABA": " م م بن صميم المركزية",
+    "AdresseL": "BEN SMIM COMMUNE BEN SMIM",
+    "AdresseA": "بن صميم جماعة بن صميم",
+    "COMMUNE": "Ben Smim",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMROUS CENTRE",
+    "NOM_ETABA": "م م عمروس المركزية",
+    "AdresseL": "DOUAR AMROUS COMMUNE BEN SMIM",
+    "AdresseA": "عمروس جماعة بن صميم",
+    "COMMUNE": "Ben Smim",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUGMAS CENTRE",
+    "NOM_ETABA": "م م أوكماس المركزية",
+    "AdresseL": "OUGMAS COMMUNE BEN SMIM",
+    "AdresseA": "أوكماس جماعة بن صميم",
+    "COMMUNE": "Ben Smim",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

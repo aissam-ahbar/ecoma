@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABOU BAKER ESSEDDIK",
+    "NOM_ETABA": "الثانوية الإعدادية أبو بكر الصديق",
+    "AdresseL": "CENTRE COMMUNE RIAH",
+    "AdresseA": "مركز جماعة رياح",
+    "COMMUNE": "Riah",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JAMAAT RIAH CENTRE",
+    "NOM_ETABA": "مركزية جمعة الرياح",
+    "AdresseL": "JAMAAT RIAH",
+    "AdresseA": "جمعة الرياح",
+    "COMMUNE": "Riah",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHERKAOUA CENTRE",
+    "NOM_ETABA": "مركزية شرقاوة",
+    "AdresseL": "DOUAR CHERKAOUA  COMMUNE RIAH",
+    "AdresseA": "شرقاوة الرياح",
+    "COMMUNE": "Riah",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNOURE DE L ENSEIGNEMENT PRIMAIRE",
+    "NOM_ETABA": "مؤسسة النور الخصوصية للتعليم الابتدائي",
+    "AdresseL": "jemaa riah berrechid",
+    "AdresseA": "جماعة رياح طريق 3606",
+    "COMMUNE": "Riah",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

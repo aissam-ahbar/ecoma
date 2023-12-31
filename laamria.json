@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "BNI AMER",
+    "NOM_ETABA": "بني عامر",
+    "AdresseL": "DOUAR OULED LAARBI BEN AMEUR COMMUNE LAAMRIA",
+    "AdresseA": "دوار اولاد العربي ج العامرية",
+    "COMMUNE": "Laamria",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KANTRA",
+    "NOM_ETABA": "القنطرة",
+    "AdresseL": "DOUAR OULED EL GHAZI COMMUNE LAAMRIA",
+    "AdresseA": "دوار اولاد الغازي جماعة العامرية",
+    "COMMUNE": "Laamria",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JDOUD",
+    "NOM_ETABA": "الجدد",
+    "AdresseL": "DOUAR JDOUD COMMUNE LAAMRIA",
+    "AdresseA": "دوار أولاد مالك جماعة العامرية",
+    "COMMUNE": "Laamria",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

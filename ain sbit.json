@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "IMAM BOUSSAIRI",
+    "NOM_ETABA": "ثانوية الإمام البوصيري الإعدادية",
+    "AdresseL": "CENTRE AIN SBIT COMMUNE AIN SBIT",
+    "AdresseA": "عين السبيت المركز",
+    "COMMUNE": "Ain Sbit",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT SGHIR",
+    "NOM_ETABA": "ايت الصغير",
+    "AdresseL": "DOUAR AIT SGHIR COMMUNE AIN SBITE",
+    "AdresseA": "دوار ايت الصغير ج عين السبيت",
+    "COMMUNE": "Ain Sbit",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL EL FASSI",
+    "NOM_ETABA": "علال الفاسي",
+    "AdresseL": "CENTRE AIN SBIT COMMUNE AIN SBIT",
+    "AdresseA": "عين السبيت المركز",
+    "COMMUNE": "Ain Sbit",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTAOUHID",
+    "NOM_ETABA": "التوحيد",
+    "AdresseL": "AIN SBIT",
+    "AdresseA": "عين السبيت",
+    "COMMUNE": "Ain Sbit",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

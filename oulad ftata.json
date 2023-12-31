@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULAD FTATA",
+    "NOM_ETABA": "الثانوية الاعدادية اولاد فتاتة",
+    "AdresseL": "centre de la commune ",
+    "AdresseA": "مركز الجماعة",
+    "COMMUNE": "Oulad Ftata",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULED FTATA",
+    "NOM_ETABA": "م/م أولاد افتاتة",
+    "AdresseL": "DOUAR AIT EL HAJ CENTRE COMMUNE OULED FTATA",
+    "AdresseA": "دوار  ايت  الحاج",
+    "COMMUNE": "Oulad Ftata",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

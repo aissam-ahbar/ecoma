@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS OULAD ALI  CENTRE",
+    "NOM_ETABA": "م/م أولاد علي المركزية",
+    "AdresseL": "DOUAR MGOUNE COMMUNE RDADNA OULED MALEK",
+    "AdresseA": "دوار مكون جماعة الردادنة اولاد مالك",
+    "COMMUNE": "Rdadna Oulad Malek",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S OULED BEN SMAIL CENTRE",
+    "NOM_ETABA": "م/م اولاد بن اسماعيل المركزية",
+    "AdresseL": "OULED BEN SMAIL COMMUNE RDADNA OULED MALEK",
+    "AdresseA": "اولاد بن اسماعيل جماعة الردادنة اولاد مالك",
+    "COMMUNE": "Rdadna Oulad Malek",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

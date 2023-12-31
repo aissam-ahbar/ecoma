@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية الاعدادية علال بن عبد الله",
+    "AdresseL": "SOUIHLA",
+    "AdresseA": "السويهلة",
+    "COMMUNE": "Souihla",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ss SOUIHLA centrale",
+    "NOM_ETABA": "مجموعة مدارس السويهلة المركزية",
+    "AdresseL": "SOUIHLA",
+    "AdresseA": "السويهلة",
+    "COMMUNE": "Souihla",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss IBN NAFISSE centrale",
+    "NOM_ETABA": "مجموعة مدارس ابن النفيس المركزية",
+    "AdresseL": "D RAGUEB  COMMUNE SOUIHLA",
+    "AdresseA": "دوار الراكب ج السويهلة",
+    "COMMUNE": "Souihla",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss SID CHEIKH centrale",
+    "NOM_ETABA": "مجموعة مدارس سيد الشيخ المركزية",
+    "AdresseL": "DOUAR SID CHEIKH C SOUIHLA",
+    "AdresseA": "دوار سيد الشيخ ج السويهلة",
+    "COMMUNE": "Souihla",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss EL HAJ EL ARBI centrale",
+    "NOM_ETABA": "مجموعة مدارس الحاج العربي المركزية",
+    "AdresseL": "DOUAR EL HAJ EL ARBI CSOUIHLA",
+    "AdresseA": "دوار الحاج العربي ج السويهلة",
+    "COMMUNE": "Souihla",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss AIT KOUFI centrale",
+    "NOM_ETABA": "مجموعة مدارس أيت كوفي المركزية",
+    "AdresseL": "DOUAR AIT BRAHIM  COMMUNE  SOUIHLA",
+    "AdresseA": "دوار أيت ايت ابراهيم ج السويهلة",
+    "COMMUNE": "Souihla",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss MELOUAN centrale",
+    "NOM_ETABA": "مجموعة مدارس ملوان المركزية",
+    "AdresseL": "DOUAR MELOUAN   COM SOUIHLA",
+    "AdresseA": "دوار ملوان ج السويهلة",
+    "COMMUNE": "Souihla",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL AMAL ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الأمل للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "دوار الضرك السويهلة",
+    "COMMUNE": "Souihla",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

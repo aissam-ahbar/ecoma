@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S EL ZAOUIYA",
+    "NOM_ETABA": "م.م. الزاوية",
+    "AdresseL": "ZAOUIT SIDI ABDELJALIL  COMMUNE SIDI ABDELJALIL",
+    "AdresseA": "زاوية سيدي عبد الجليل جماعة سيدي عبدالجليل ",
+    "COMMUNE": "Sidi Abdeljalil",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S  LAKHOUADRA",
+    "NOM_ETABA": "م.م لخواضرة",
+    "AdresseL": "DOUAR LAKHOUADRA SIDI BADELJALIL",
+    "AdresseA": "دوار الخواضرة جماعة سيدي عبد الجليل",
+    "COMMUNE": "Sidi Abdeljalil",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

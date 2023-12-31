@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial ZITOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية الزيتون",
+    "AdresseL": "DOUAR ZWALET COMMUNE DKHISSA",
+    "AdresseA": "الزوالت الدخيسة",
+    "COMMUNE": "Dkhissa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ZWALAT",
+    "NOM_ETABA": "زوالط",
+    "AdresseL": "DOUAR ZWALAT COMMUNE DKHISSA",
+    "AdresseA": "دوار زوالط الدخيسة",
+    "COMMUNE": "Dkhissa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMKHATIR",
+    "NOM_ETABA": "المخاطير",
+    "AdresseL": "DOUAR LAMKHATIR COMMUNE DKHISSA",
+    "AdresseA": "دوار المخاطير جماعة الدخيسة",
+    "COMMUNE": "Dkhissa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD NCIR",
+    "NOM_ETABA": "اولاد نصير المركز",
+    "AdresseL": "DOUAR OULAD NCIR COMMUNE DKHISSA",
+    "AdresseA": "اولاد نصير دوار تامسنة طريق مولاي ادريس",
+    "COMMUNE": "Dkhissa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "WARZIGHA",
+    "NOM_ETABA": "ورزيغة  المركز",
+    "AdresseL": "DOUAR WARZIGHA COMMUNE DKHISSA",
+    "AdresseA": "دوار ورزيغة  جماعة الدخيسة",
+    "COMMUNE": "Dkhissa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOHA",
+    "NOM_ETABA": "الضحى",
+    "AdresseL": "commune dkhissa",
+    "AdresseA": "جماعة الدخيسة",
+    "COMMUNE": "Dkhissa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZWALET EL JADIDA",
+    "NOM_ETABA": "الزوالط الجديدة",
+    "AdresseL": "CENTRE ZWALET COMMUNE DKHISSA",
+    "AdresseA": "مركز الزوالط جماعة الدخيسة",
+    "COMMUNE": "Dkhissa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

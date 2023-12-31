@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AMESRA",
+    "NOM_ETABA": "الثانوية الإعدادية أمسرا",
+    "AdresseL": "DOUAR AMESRA COMMUNE IFRANE AS",
+    "AdresseA": "دوار امسرا جماعة  افران اطلس الصغير",
+    "COMMUNE": "Ifrane Atlas Saghir",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BIR INZARANE",
+    "NOM_ETABA": "الثانوية الإعدادية بئر إنزران",
+    "AdresseL": "centre  COMMUNE IFRANE AS",
+    "AdresseA": "افران الاطلس الصغير",
+    "COMMUNE": "Ifrane Atlas Saghir",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S CHEIKH MADANI NACIRI",
+    "NOM_ETABA": "م م الشيخ المدني الناصري",
+    "AdresseL": "DOUAR TANKERT IFRANE atlas saghir",
+    "AdresseA": "دوار تنكرت افران الاطلس الصغير",
+    "COMMUNE": "Ifrane Atlas Saghir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAHER IFRANI",
+    "NOM_ETABA": "م م الطاهر الافراني",
+    "AdresseL": "IFRANE AS CENTRE",
+    "AdresseA": "افران اطلس الصغير",
+    "COMMUNE": "Ifrane Atlas Saghir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S FQUIH MOHAMED BEN AHMED",
+    "NOM_ETABA": "م م الفقيه محمد بن احمد",
+    "AdresseL": "DOUAR AMESRA   COMMUNE IFRANE ANTI ATLAS",
+    "AdresseA": "دوار امسرا  جماعة افران اطاس الصغير",
+    "COMMUNE": "Ifrane Atlas Saghir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IBNOU TOUFAIL",
+    "NOM_ETABA": "م م ابن طفيل",
+    "AdresseL": "CENTRE IFRANE  IFRANE AS",
+    "AdresseA": "مركز إفران الأطلس الصغير",
+    "COMMUNE": "Ifrane Atlas Saghir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AGHBALOU",
+    "NOM_ETABA": "م م اغبالو",
+    "AdresseL": "AGHBALOU IFRANE AS",
+    "AdresseA": "اغبالو  افران اطلس الصغير",
+    "COMMUNE": "Ifrane Atlas Saghir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MAKHTAR ASSOUSSI",
+    "NOM_ETABA": "الثانوية التأهيلية المختار السوسي",
+    "AdresseL": "CENTRE IFRANE ATLAS SAGHIR ",
+    "AdresseA": "مركز افران الأطلس الصغير",
+    "COMMUNE": "Ifrane Atlas Saghir",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

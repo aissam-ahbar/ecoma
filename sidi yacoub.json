@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KHAWARIZMI",
+    "NOM_ETABA": "ثانوية الخوارزمي الاعدادية",
+    "AdresseL": "Centre Commune Sidi Yakoub ",
+    "AdresseA": "مركز جماعة سيدي يعقوب ",
+    "COMMUNE": "Sidi Yacoub",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE AHFOUR",
+    "NOM_ETABA": "مركزية احفور",
+    "AdresseL": "machyakhat ait ihda fetwaka ",
+    "AdresseA": "مشيخة ايت اهدى فطواكة ",
+    "COMMUNE": "Sidi Yacoub",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SIDI YAAKOUB",
+    "NOM_ETABA": "مركزية سيدي يعقوب",
+    "AdresseL": "CENTRE COMMUNE SIDI YAAKOUB ",
+    "AdresseA": "مركز جماعة سيدي يعقوب",
+    "COMMUNE": "Sidi Yacoub",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT MENSOUR",
+    "NOM_ETABA": "مركزية آيت منصور",
+    "AdresseL": "DOUAR AIT MANSOUR",
+    "AdresseA": "دوار ايت منصور",
+    "COMMUNE": "Sidi Yacoub",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

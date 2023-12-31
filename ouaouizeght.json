@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED VI OUAOUIZEGHT ",
+    "NOM_ETABA": "ثانوية محمد السادس الإعدادية واويزغت",
+    "AdresseL": "COMMUNE OUAOUIZEGHT CENTRE",
+    "AdresseA": "مركز جماعة واويزغت ",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL NAHDA",
+    "NOM_ETABA": "ثانوية النهضة الاعدادية",
+    "AdresseL": "CENTRE COMMUNE OUAOUIZGHT",
+    "AdresseA": "مركز جماعة واويزغت",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE DAOUDI SAID",
+    "NOM_ETABA": "مدرسة الداودي سعيد",
+    "AdresseL": "QUARTIER AIT DAOUD ",
+    "AdresseA": "حي أيت داود",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CENTRALE OUAWIZAGHT",
+    "NOM_ETABA": "المدرسة المركزية واويزغت",
+    "AdresseL": "CENTRE COMMUNE OUAOUIZEGHT  ",
+    "AdresseA": "مركز جماعة واويزغت",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL BOUHAIRA",
+    "NOM_ETABA": "مدرسة البحيرة",
+    "AdresseL": "COMMUNE OUAOUIZEGHT CENTRE  ",
+    "AdresseA": "مركز جماعة واويزغت",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SIDI MHEND OUMHEND",
+    "NOM_ETABA": "مركزية سيدي امحند اومحند",
+    "AdresseL": "DOUAR AIT SIDI MHEND ",
+    "AdresseA": "دوار أيت سيدي امحند  ",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ELHADADA",
+    "NOM_ETABA": "مركزية الحدادة",
+    "AdresseL": "DOUAR ELHADADA",
+    "AdresseA": "دوار الحدادة ",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUAOUIZEGHT ",
+    "NOM_ETABA": "ثانوية واويزغت التأهيلية",
+    "AdresseL": "ROUTE TILOUGUITE ",
+    "AdresseA": "طريق تيلوكيت ",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "collège foroua nakhil",
+    "NOM_ETABA": "اعدادية فروع النخيل",
+    "AdresseL": "hay ait daoud ouaouizeght",
+    "AdresseA": "حي ايت داود واويزغت",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAKHIL",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "DOUAR IMZAOURED CENTRE COMMUNE",
+    "AdresseA": "دوار إمزاورد قرب السوق مركز جم",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MALRAUX",
+    "NOM_ETABA": "مالرو",
+    "AdresseL": "douAr ihitassen ouaouizerth ce",
+    "AdresseA": "دوار ايحتاسن واويزغت ازيلال",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL JABAL",
+    "NOM_ETABA": "الجبل",
+    "AdresseL": "douar ait daoud ouaouizerth",
+    "AdresseA": " دوار أيت داوود واويزغت",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANHAL ",
+    "NOM_ETABA": "المنهل ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي ايت داوود واويزغت",
+    "COMMUNE": "Ouaouizeght",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

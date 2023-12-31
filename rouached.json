@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ROUACHED",
+    "NOM_ETABA": "الثانوية الاعدادية الرواشد",
+    "AdresseL": "centre commune rouached",
+    "AdresseA": "مركزجماعة الرواشد",
+    "COMMUNE": "Rouached",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ROUACHED",
+    "NOM_ETABA": "م/م الرواشد",
+    "AdresseL": "DOUAR LAQDADRA COMMUNE ROUACHED",
+    "AdresseA": "دوار  القدادرة",
+    "COMMUNE": "Rouached",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DCHER",
+    "NOM_ETABA": "م/م الدشر",
+    "AdresseL": "DOUAR AIT SI ALI   COMMUNE ROUACHED",
+    "AdresseA": "دوار  ايت  سي  علي",
+    "COMMUNE": "Rouached",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

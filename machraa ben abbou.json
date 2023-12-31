@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKRIM EL KHATTABI",
+    "NOM_ETABA": "ثانوية عبدالكريم الخطابي الإعدادية",
+    "AdresseL": "commune machraa ben abbou",
+    "AdresseA": "جماعة مشرع بن عبو",
+    "COMMUNE": "Machraa Ben Abbou",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MACHRAA BEN ABBOU CENTRE",
+    "NOM_ETABA": "مركزية مشرع بن عبو",
+    "AdresseL": "COMMUNE MACHRAA BEN ABBOU",
+    "AdresseA": "مشرع بن عبو المركز",
+    "COMMUNE": "Machraa Ben Abbou",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " EL ARBI BATMA CENTRE",
+    "NOM_ETABA": "مركزية العربي باطما",
+    "AdresseL": "DOUAR ECHOUGUA COMMUNE MACHRAA BEN ABBOU",
+    "AdresseA": "دوار الشكة",
+    "COMMUNE": "Machraa Ben Abbou",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MOUSSA CENTRE",
+    "NOM_ETABA": "مركزية اولاد موسى",
+    "AdresseL": "DOUAR OULAD MOUSSA COMMUNE MACHRAA BEN ABBOU",
+    "AdresseA": "اولاد موسى مشرع بنن عبو",
+    "COMMUNE": "Machraa Ben Abbou",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

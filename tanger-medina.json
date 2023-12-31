@@ -1,0 +1,1672 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KASBA",
+    "NOM_ETABA": "الثانوية الاعدادية القصبة",
+    "AdresseL": "AVENUE KASBAH N21 BP 933 COMMUNE TANGER",
+    "AdresseA": "طريق القصبة رقم 21",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN EL ABBAR",
+    "NOM_ETABA": "الثانوية الاعدادية ابن الأبار",
+    "AdresseL": "RUE IBN AL ABBAR COMMUNE TANGER",
+    "AdresseA": "شارع ابن الأبار",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AICHA OUM AL MOUMININE",
+    "NOM_ETABA": "الثانوية الاعدادية عائشة أم المؤمنين",
+    "AdresseL": "15 RUE HASNOUNA BP 1585 COMMUNE TANGER",
+    "AdresseA": "زنقة حسنونة، رقم 15، طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MAA AL AININ",
+    "NOM_ETABA": "الثانوية الاعدادية ماء العينين",
+    "AdresseL": "AVENUE HASSAN ii ROUTE BOUARAKIA COMMUNE TANGER",
+    "AdresseA": "شارع الحسن الثاني. طريق بوعراقية",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED V",
+    "NOM_ETABA": "الثانوية الاعدادية محمد الخامس",
+    "AdresseL": "RUE D ANGLETERRE N40 COMMUNE TANGER",
+    "AdresseA": "زنقة إنجلترا ص.ب 236",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR IBN ABDELAZIZ",
+    "NOM_ETABA": "الثانوية الاعدادية عمر بن عبد العزيز",
+    "AdresseL": "AVENUE IMAM MOUSLIM DRADEB COMMUNE TANGER",
+    "AdresseA": "شارع الإمام مسلم",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ROCHD",
+    "NOM_ETABA": "الثانوية الاعدادية ابن رشد",
+    "AdresseL": "HAY EL FARAH COMMUNE TANGER",
+    "AdresseA": "حي الفرح فال فلوري",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARIK IBN ZIAD",
+    "NOM_ETABA": "الثانوية الاعدادية طارق بن زياد",
+    "AdresseL": "3 RUE DE LA RESISTANCE COMMUNE TANGER",
+    "AdresseA": "3 شارع المقاومة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL JABIR BNOU HAYYANE",
+    "NOM_ETABA": "الثانوية الاعدادية جابر بن حيان",
+    "AdresseL": "groupe résidentiel Al Irfane 1 Boukhalef- Tanger",
+    "AdresseA": "-  مجمع العرفان 1 بوخالف - طنجة  ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANOUAL",
+    "NOM_ETABA": "الثانوية الإعدادية أنوال",
+    "AdresseL": "alirfane2 boukhalafe",
+    "AdresseA": "العرفان2 بوخالف",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BADR",
+    "NOM_ETABA": "الثانوية الإعدادية بدر",
+    "AdresseL": "QUARTIER MESNANA",
+    "AdresseA": "حي مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN BAJA",
+    "NOM_ETABA": "الثانوية الاعدادية ابن باجة",
+    "AdresseL": "SORINORD MARJANE",
+    "AdresseA": "سورينور مرجان",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ALBAYTAR",
+    "NOM_ETABA": "الثانوية الإعدادية ابن البيطار",
+    "AdresseL": "RAHRAH",
+    "AdresseA": "الرهراه",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TOURIA ECHAOUI",
+    "NOM_ETABA": "الثانوية الاعدادية تورية الشاوي",
+    "AdresseL": "Avenue Ligue Arabe Route Achakar Tanger",
+    "AdresseA": "شارع الجامعة العربية طريق أشقار طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAFSA OUM  ALMOUMININE",
+    "NOM_ETABA": "مدرسة حفصة أم المؤمنين الابتدائية",
+    "AdresseL": "HAY MARCHAN RUE EL KORTOBI COMMUNE TANGER",
+    "AdresseA": "شارع القرطبي مرشان",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHANSAA",
+    "NOM_ETABA": "مدرسة الخنساء الابتدائية",
+    "AdresseL": "HAY MARCHAN AVMOHAMED HAJ TAZI COMMUNE TANGER",
+    "AdresseA": "3 شارع الحاج محمد التازي مرشان",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH GUENNOUN",
+    "NOM_ETABA": "مدرسة عبد الله كنون الابتدائية",
+    "AdresseL": "45 RUE KACEM GUENOUN COMMUNE TANGER",
+    "AdresseA": "شارع قاسم كنون رقم 45 طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FATIMA FIHRIA",
+    "NOM_ETABA": "مدرسة فاطمة الفهرية الابتدائية",
+    "AdresseL": "RUE BEN ABOU N18 KASBAH COMMUNE TANGER",
+    "AdresseA": "زنقة ابن عبو رقم 22",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OKBA IBN NAFIE",
+    "NOM_ETABA": "مدرسة عقبة بن نافع الابتدائية",
+    "AdresseL": "AVENUE MABARRA N54 COMMUNE TANGER",
+    "AdresseA": "شارع المبرة رقم 54 خوصفات",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN PREMIER",
+    "NOM_ETABA": "مدرسة الحسن الأول الابتدائية",
+    "AdresseL": "AVENUE HASSAN PREMIER nO 50 COMMUNE TANGER",
+    "AdresseA": "شارع الحسن الأول رقم 50 خوصفات طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN HOSSARI",
+    "NOM_ETABA": "مدرسة الحسن الحصري الابتدائية",
+    "AdresseL": "48 AVENUE SALAH EDINE AYOUBI COMMUNE TANGER",
+    "AdresseA": "48 شارع صلاح الدين الأيوبي",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZAIDOUN",
+    "NOM_ETABA": "مدرسة ابن زيدون الابتدائية",
+    "AdresseL": "RUE DES AMOUREUX COMMUNE TANGER",
+    "AdresseA": "شارع العشاق",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KADI AYAD",
+    "NOM_ETABA": "مدرسة القاضي عياض الابتدائية",
+    "AdresseL": "TARIK EL JABAL DRADEB COMMUNE TANGER",
+    "AdresseA": "شارع الإمام مسلم طريق الجبل الدرادب",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SOUKAINA",
+    "NOM_ETABA": "مدرسة سكينة الابتدائية",
+    "AdresseL": "TARIK EL JABAL DRADEB COMMUNE TANGER",
+    "AdresseA": "طريق الجبل الدرادب",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  9 AVRIL",
+    "NOM_ETABA": "مدرسة 9 أبريل الابتدائية",
+    "AdresseL": "RUE BANAFSAJ COMMUNE TANGER",
+    "AdresseA": "شارع البنفسج",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU ACHIR",
+    "NOM_ETABA": "مدرسة ابن عاشر الابتدائية",
+    "AdresseL": "RUE JAMAA MEKRAA COMMUNE TANGER",
+    "AdresseA": "طريق الجبل جامع المقراع",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDERRAHMAN ANEGAY",
+    "NOM_ETABA": "مدرسة عبد الرحمن أنكاي الابتدائية",
+    "AdresseL": "AVSIDI MOHAMED BEN ABDELLAH COMMUNE TANGER",
+    "AdresseA": "شارع محمد بن عبد الله عين اقطيوط",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED CHAOUKI",
+    "NOM_ETABA": "مدرسة أحمد شوقي الابتدائية",
+    "AdresseL": "AV LA RESISTANCE PLACE AFRIQUE ",
+    "AdresseA": "شارع المقاومة ، ساحة إفريقيا رقم 1",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUJAHIDIN",
+    "NOM_ETABA": "مدرسة المجاهدين الابتدائية",
+    "AdresseL": "RUE MOUJAHIDIN COMMUNE TANGER",
+    "AdresseA": "طريق المجاهدين",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUAD IBN JABAL",
+    "NOM_ETABA": "مدرسة معاذ بن جبل الابتدائية",
+    "AdresseL": "quartier MESNANA ROUTE ZIATEN COMMUNE TANGER",
+    "AdresseA": "بوطريقة حي مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HALIMA SAADIA",
+    "NOM_ETABA": "مدرسة حليمة السعدية الابتدائية",
+    "AdresseL": "AZIB HADJ KADOUR RTE DE RABAT COMMUNE TANGER",
+    "AdresseA": "عزيب الحاج قدور شارع الشفافية   طريق الرباط     طن",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE JBILA",
+    "NOM_ETABA": "المجموعة المدرسية الجبيلة",
+    "AdresseL": "QUARTIER JBILA COMMUNE TANGER MEDINA",
+    "AdresseA": "حي الجبيلة جماعة طنجة المدينة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI HORAYRA",
+    "NOM_ETABA": "مدرسة أبو هريرة الابتدائية",
+    "AdresseL": "quartier RAHRAH boubana",
+    "AdresseA": "حي الرهراه-بوبانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FARAHIDI",
+    "NOM_ETABA": "مدرسة الفراهدي الابتدائية",
+    "AdresseL": "DOUAR ZIATEN COMMUNE TANGER",
+    "AdresseA": "حي الزياتن",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN TAYMIYYA",
+    "NOM_ETABA": "مدرسة إبن تيمية الابتدائية",
+    "AdresseL": "MEDCHAR BOUKHALEF COMMUNE TANGER",
+    "AdresseA": "مدشر بوخالف جماعة بوخالف",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  11 JANVIER",
+    "NOM_ETABA": "مدرسة 11 يناير الابتدائية",
+    "AdresseL": "ROUTE ZIATEN MESNANA COMMUNE TANGER ",
+    "AdresseA": "طريق الزياتن جماعة طنجة المدينة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AMAL",
+    "NOM_ETABA": "مدرسة الأمل الابتدائية",
+    "AdresseL": "quartier MESNANA ROUTE ZIATEN COMMUNE TANGER",
+    "AdresseA": "حي مسنانة طريق الزياتن",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  THOURIA SEKKAT",
+    "NOM_ETABA": "مدرسة ثريا السقاط الابتدائية",
+    "AdresseL": "ecole  thouria sekkat route achakar COMMUN",
+    "AdresseA": " مدرسة ثريا السقاط طريق أشقار جماعة طنجة المدينة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN 2",
+    "NOM_ETABA": "مدرسة الحسن الثاني الابتدائية",
+    "AdresseL": "AZIB L HAJ KADDOURROUTE DE RABATTANGER",
+    "AdresseA": "عزيب الحاج قدور زنقة الشفافية طريق الرباط طنجة ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOUHITE",
+    "NOM_ETABA": "مدرسة المحيط الابتدائية",
+    "AdresseL": "Lot al mouhite boukhalef",
+    "AdresseA": "تجزئة المحيط بوخالف",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL IRFANE",
+    "NOM_ETABA": "مدرسة العرفان الابتدائية",
+    "AdresseL": "lot al irfane 1  tanger",
+    "AdresseA": "حي العرفان 1 طنجة المدينة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL KORTOBI",
+    "NOM_ETABA": "مدرسة القرطبي الابتدائية",
+    "AdresseL": "mesnana",
+    "AdresseA": "مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL KINDI",
+    "NOM_ETABA": "مدرسة الكندي الابتدائية",
+    "AdresseL": "MESNANA",
+    "AdresseA": "مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAHA HOUSSEIN",
+    "NOM_ETABA": "مدرسة طه حسين الابتدائية",
+    "AdresseL": "lotissement lotinord ",
+    "AdresseA": "اقامة لوتنور - المقاطعة الحضرية 8 - طنجة المدينة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI DAR AL GHIFARI",
+    "NOM_ETABA": "مدرسة أبي ذر الغفاري الابتدائية",
+    "AdresseL": "MESNANA",
+    "AdresseA": "مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED SABILA",
+    "NOM_ETABA": "مدرسة محمد سبيلا الابتدائية",
+    "AdresseL": "ALIRFANE2 BOUKHALEF   TANGER",
+    "AdresseA": "العرفان2 ، بوخالف طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ATTAHADI",
+    "NOM_ETABA": "مدرسة التحدي الابتدائية",
+    "AdresseL": "RAHRAH",
+    "AdresseA": "الرهراه",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ORIGINEL MOULAY SLIMANE ",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي سليمان للتعليم الأصيل",
+    "AdresseL": "RUE EL MOUJAHIDINE COMMUNE TANGER",
+    "AdresseA": "زنقة المجاهدين",
+    "COMMUNE": "Tanger-Médina ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Moulay Hassan",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي الحسن ",
+    "AdresseL": "RUE DES AMOUREUX COMMUNE TANGER",
+    "AdresseA": "شارع العشاق",
+    "COMMUNE": "Tanger-Médina ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZAINAB NAFZAOUIYA",
+    "NOM_ETABA": "الثانوية التأهيلية زينب النفزاوية",
+    "AdresseL": "AV HASSAN PREMIER  COMMUNE TANGER MEDINA",
+    "AdresseA": "شارع الحسن الأول  جماعة طنجة المدينة",
+    "COMMUNE": "Tanger-Médina ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE MOULAY YOUSSEF",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي يوسف التقنية ",
+    "AdresseL": "AVENUE IBN TAYMIA COMMUNE TANGER",
+    "AdresseA": "شارع ابن تيمية",
+    "COMMUNE": "Tanger-Médina ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد",
+    "AdresseL": "RUE DES AMOUREUX COMMUNE TANGER",
+    "AdresseA": "زنقة العشاق",
+    "COMMUNE": "Tanger-Médina ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN BATTOUTA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن بطوطة",
+    "AdresseL": "52 RUE ALLAL BEN ABDELLAH BP 136 COMMUNE TANGER",
+    "AdresseA": "52 زنقة علال بن عبد الله",
+    "COMMUNE": "Tanger-Médina ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL JAMAI",
+    "NOM_ETABA": "الثانوية التأهيلية الجامعي",
+    "AdresseL": "BOUKHALEF",
+    "AdresseA": "بوخالف",
+    "COMMUNE": "Tanger-Médina ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL HANSALI",
+    "NOM_ETABA": "الثانوية التأهيلية الحنصالي",
+    "AdresseL": "mesnana route de ziaten",
+    "AdresseA": "مسنانة طريق الزياتن",
+    "COMMUNE": "Tanger-Médina ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ROSEVELT PRIVATE SCHOOL 2",
+    "NOM_ETABA": "إعدادية  روزفلت الخاصة 2 الخصوصية",
+    "AdresseL": "Avenue nador al Tamira 2 n 6 t",
+    "AdresseA": "زنقة الناظور. التاميرة2 رقم 6 ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alpha ecole",
+    "NOM_ETABA": "مدرسة ألفا",
+    "AdresseL": "quartier moujahidine lot 5440 ",
+    "AdresseA": "طريق المجاهدين تجزئة 5440",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BADRANE",
+    "NOM_ETABA": "بدران الخصوصية",
+    "AdresseL": "Lotissement al bassatine route",
+    "AdresseA": "تجزئة البساتين، الطريق المؤدية",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANOUAR AL BASMALA",
+    "NOM_ETABA": "أنوار البسملة",
+    "AdresseL": "AVENUE FES  N 60 ",
+    "AdresseA": " شارع فاس رقم 60",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BERTRAND RUSSELL",
+    "NOM_ETABA": "المجموعة المدرسية  برتران روسيل الخصوصية",
+    "AdresseL": "lot el basatin eziaten 45b tan",
+    "AdresseA": "تجزئة البساتين الزياتين ب 45 ط",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "moubdioun",
+    "NOM_ETABA": "مبدعون",
+    "AdresseL": "lot. richard 87",
+    "AdresseA": "87 تجزئة ريشارد",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES CANARIES D OR",
+    "NOM_ETABA": "الكناري الذهبية",
+    "AdresseL": "124 LOT HAMIDA MESNANA TANGER",
+    "AdresseA": "رقم 124 تجزئة   حمييدة  مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nibras al amal",
+    "NOM_ETABA": "نبراس الأمل",
+    "AdresseL": "lot 192  Hay Al  Mouhit   Tang",
+    "AdresseA": "تجزئة المحيط رقم 192",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee joumoua",
+    "NOM_ETABA": "جمعة الخاصة",
+    "AdresseL": "84 , av mohamed 6 branes 1, ta",
+    "AdresseA": "رقم 84 شارع محمد السادس، طريق ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HADIFA 3",
+    "NOM_ETABA": "الهادفة 3",
+    "AdresseL": "Av Mly Rachid Lot Ribh 2 n° 10",
+    "AdresseA": "رقم 10 تجزئة الربح 2 شارع مولا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les bleuets",
+    "NOM_ETABA": "روض الاطفال لبلوي",
+    "AdresseL": "JARDIN D ENFANTS LES BLEUETS",
+    "AdresseA": "21 زنقة الخوارزمي الحي الإداري",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE VERDIER",
+    "NOM_ETABA": "الخضير",
+    "AdresseL": "av moulay rachid val fleuri",
+    "AdresseA": "شارع مولاي رشيد فال فلولري ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LABECEDAIRE",
+    "NOM_ETABA": "لبيسيدير",
+    "AdresseL": "rue mahatma ghandi.res sanabil",
+    "AdresseA": "زنقة مهاتماغندي اقامة السنابل ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL YASSMIN",
+    "NOM_ETABA": "براعم الياسمين",
+    "AdresseL": "prince heritier n°95",
+    "AdresseA": "رقم 95شارع ولي العهد",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L EVEIL DES SENS",
+    "NOM_ETABA": "ليفايل د سونس",
+    "AdresseL": "37 rUE MANSOUR DAHBI RDC N°1 T",
+    "AdresseA": "رقم 37 رقم 1 زنقة المنصور الذه",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Empreintes Eternelles",
+    "NOM_ETABA": "اانبخانط ايترنيل",
+    "AdresseL": "no 304 boukhalef",
+    "AdresseA": " رقم 304 بوخالف ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le vivier",
+    "NOM_ETABA": "لوفيفي",
+    "AdresseL": "BD.MLYRACHID LOTISSEMENT WIFAQ",
+    "AdresseA": "تجزئة الوفاق قطعة رقم 6",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WALADI",
+    "NOM_ETABA": "ولدي",
+    "AdresseL": "COMPLEXE mESNANA blok n 17 n 1",
+    "AdresseA": "رقم 1 بلوك 17 المجمع السكني أي",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHCHATER ASSAGHIR",
+    "NOM_ETABA": "الشاطر الصغير",
+    "AdresseL": "HAY MOUJAHIDINE LOT FATH N°188",
+    "AdresseA": "رقم 188 تجزئة الفتح حي المجاهد",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chaperon Rouge",
+    "NOM_ETABA": "شابغون غوج",
+    "AdresseL": "15 RUE IBN HAYTAM QUARTIER ADM",
+    "AdresseA": "رقم 15 زنقة ابن الهيثم الحي ال",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les jardins de Marchane",
+    "NOM_ETABA": "حدائق مرشان",
+    "AdresseL": "avenue hassan 2 n°139",
+    "AdresseA": "رقم 139 شارع الحسن الثاني",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "savoir Créche Maternelle",
+    "NOM_ETABA": "سافوار  كريش  ماطرنيل",
+    "AdresseL": "rue sidi amar n19 tanger",
+    "AdresseA": "رقم 19 سيدي عمار سوق البقر ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KINDI",
+    "NOM_ETABA": "الكندي",
+    "AdresseL": "4, rue kindi  Tanger",
+    "AdresseA": "رقم 4 زنقة الكندي ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ETOILES DE DEMAIN",
+    "NOM_ETABA": "نجوم الغد",
+    "AdresseL": "17 RUE SENHAJA N1.TANGER",
+    "AdresseA": "شارع صنهاجة رقم 17 الطابق الأر",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR AL HIDAYA",
+    "NOM_ETABA": "نور الهداية",
+    "AdresseL": "rue al karia.n°60 merchane",
+    "AdresseA": "زنقة القرية رقم 60 مرشان",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARIJ",
+    "NOM_ETABA": "أريج",
+    "AdresseL": "8 rue de la résistance",
+    "AdresseA": "رقم 8 شارع المقاومة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAIBA",
+    "NOM_ETABA": "طيبة",
+    "AdresseL": "route moujahidin n°13",
+    "AdresseA": "طريق المجاهدين رقم13",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JANATI",
+    "NOM_ETABA": "جنتي",
+    "AdresseL": "26 Rue Zayzafoune lot. Narjis ",
+    "AdresseA": "26 زنقة الزيزفون تجزئة النرجس ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "apprendre autrement",
+    "NOM_ETABA": "ابغوندغ اوطخومو",
+    "AdresseL": "LOTISSEMENT MOUJAHIDINE n°13 V",
+    "AdresseA": "حي الجاهدين فال فلوري رقم 13",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BOUKHARI",
+    "NOM_ETABA": "البخاري",
+    "AdresseL": "av moulay rachid, QUARTIER FAR",
+    "AdresseA": "شارع مولاي رشيد حي فرح    مجمع",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAHANI 2",
+    "NOM_ETABA": "المهاني 2 الخصوصية",
+    "AdresseL": "AVENUE IMAMA TARMIDI N 35 MEST",
+    "AdresseA": "شارع الامام الترميذي رقم 35 مس",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SADA  NAJAHE",
+    "NOM_ETABA": "صدى النجاح الخصوصية",
+    "AdresseL": "lots golf mojahidine 299 tange",
+    "AdresseA": "كولف 299 حي المجاهدين حي البقا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM JABAL TARIK",
+    "NOM_ETABA": "براعم جبل طارق",
+    "AdresseL": "rue imouzzar n°56 r montagne ",
+    "AdresseA": "زنقة إيموزار، رقم56",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jile biladi",
+    "NOM_ETABA": "جيل بلادي",
+    "AdresseL": "rUE MOULAY RACHID MESNANA",
+    "AdresseA": "شارع مولاي رشيد مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la palmeraie",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "Secteur Al Abouab Rue BAB RIH ",
+    "AdresseA": "قطاع الأبواب –زنقة باب الريح -",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al yousr",
+    "NOM_ETABA": "اليسر",
+    "AdresseL": "lot al fartakh;n°13 ",
+    "AdresseA": "تجزئة الفرطاخ رقم 13 طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le grand abecedaire",
+    "NOM_ETABA": "لوغران أبيسيدير",
+    "AdresseL": "sidi al boukhari lot karima.vi",
+    "AdresseA": "سيدي ألبخاري تجزئة كريمة فيلا ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al hadifa2",
+    "NOM_ETABA": "الهادفة2",
+    "AdresseL": "av. My rachid,lot ribh 2, n°6,",
+    "AdresseA": "شارع مولاي رشيد تجزئة الربح2 ر",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAHANI",
+    "NOM_ETABA": "المهاني الخصوصية",
+    "AdresseL": "rue moulay rachid lot arrizk n",
+    "AdresseA": "شارع مولاي رشيد. تجزئة الرزق ر",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le rosier",
+    "NOM_ETABA": "لو روسيي",
+    "AdresseL": "lot. faraj branes 3 n°80 ",
+    "AdresseA": "تجزئة الفرج البرانص3 رقم 80",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT FADAE AL MAARIFA",
+    "NOM_ETABA": "معهد فضاء المعرفة الخصوصية",
+    "AdresseL": "Boubana Rahrah",
+    "AdresseA": "بوبانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FAJR ASSABAH",
+    "NOM_ETABA": "فجر الصباح الخصوصية",
+    "AdresseL": "Avenue moulay rachid complexe ",
+    "AdresseA": "شارع مولاي رشيد. مركب حدائق فا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BABY ACADEMY",
+    "NOM_ETABA": "اكاديمية الاطفال الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "اقامة عايدة  رقم 1",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IFRIQUIA 2 ",
+    "NOM_ETABA": "مدرسة افريقيا 2 الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "المجمع السكني .طريق الرباط",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "asma nour",
+    "NOM_ETABA": "أسما نور",
+    "AdresseL": "MOHAMED LARBI EL MESSARI",
+    "AdresseA": "شارع محمد العربي المساري مسنان",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE L HORIZON",
+    "NOM_ETABA": "لوريزون",
+    "AdresseL": "branes2 nr.15 Avenue des pista",
+    "AdresseA": "برانس 2،رقم 15 شارع الفستق",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "A PETITS PAS",
+    "NOM_ETABA": "أبوتي با",
+    "AdresseL": "N° 40 AVENUE ANDALOUS ANGLE AV",
+    "AdresseA": "رقم 40 شارع الأندلس زاوية شارع",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE PAUL VALERY TANGER",
+    "NOM_ETABA": "المجموعة المدرسية بول فالري طنجة",
+    "AdresseL": "2 rue de belgique tanger",
+    "AdresseA": "رقم 2 ، زنقة بلجيكا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN AL BAYTAR AL ANDALOUSSI",
+    "NOM_ETABA": "ابن البيطار الاندلسي الخصوصية",
+    "AdresseL": "rue AHMED AL MOKRI (EX BARCALO",
+    "AdresseA": "اشارع احمد المقري رقم 32 ( برش",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IFRIQUIA 1",
+    "NOM_ETABA": "مدرسة افريقيا 1",
+    "AdresseL": "G.h Marjane route rabat tanger",
+    "AdresseA": "المجمع السكني مرجان طريق الربا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JARDIN BLEU",
+    "NOM_ETABA": "¨جاردان بلو",
+    "AdresseL": "HAY ZYATIN.COMPLEXE AL MANZAH ",
+    "AdresseA": "حي الزياتن، مجمع المنزه فيلا ر",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "savoir primaire",
+    "NOM_ETABA": "سافوار بريمار",
+    "AdresseL": "rUE SIDI AMAR N 21 TANGER",
+    "AdresseA": "زنقة سيدي أعمار رقم 21 طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ADDAAMISSE",
+    "NOM_ETABA": "الدعامس",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النجاح مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EURECOLE JUNIOR",
+    "NOM_ETABA": "اوريكول جينيور",
+    "AdresseL": "Quartier Californie, 22 rue Ad",
+    "AdresseA": "زنقة ادولف فيسر  رقم 22 كاليفو",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "croque soleil",
+    "NOM_ETABA": "كروك سوليي",
+    "AdresseL": "NULL",
+    "AdresseA": "عمارة34  .طريق الربط طنجة LES ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESPRIT CLASSES PREPAS",
+    "NOM_ETABA": "إيسبري كلاس بريبا",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة طارق رقم 26 درادب",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAHA EL AMINE",
+    "NOM_ETABA": "طه الامين",
+    "AdresseL": "NULL",
+    "AdresseA": "مسنانة كولف الطابق السفلي رقم ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL WEFFAK 1",
+    "NOM_ETABA": "مدرسة الوفاق 1",
+    "AdresseL": "QUARTIER AL MAALIM SECTEUR ALQ",
+    "AdresseA": "حي المعالم قطاع القصبات زنقة ق",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUVELLE  ECOLE  FRANCAISE",
+    "NOM_ETABA": "المدرسة الجديدة الفرنسية",
+    "AdresseL": " 21 , abi chouaib doukali lot.",
+    "AdresseA": " شارع أبي شعيب الدكالي رقم 21 ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL IMAM CHADILI",
+    "NOM_ETABA": "ثانوية الإمام الشاذلي الخصوصية",
+    "AdresseL": "N° 42, Boulevard Fès 1er étage",
+    "AdresseA": "رقم 42، شارع فاس الطابق الأول ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annour",
+    "NOM_ETABA": "النـور",
+    "AdresseL": "Route Ain Lhayani, Bd Imam Haf",
+    "AdresseA": "طريق عين الحياني، شارع الإمام ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JABAL TARIK",
+    "NOM_ETABA": "جبـل طارق الخصوصية",
+    "AdresseL": "N° 49, Boulevard Jabal Tarik -",
+    "AdresseA": "رقم 49، شارع جبل طارق - طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Moulay Abdelaziz",
+    "NOM_ETABA": "معهـد مـولاي عبد العزيـز",
+    "AdresseL": "val Fleuri, Avenue My RACHID -",
+    "AdresseA": "فال فلوري،شارع مولاي رشيد - طن",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al Houda",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "N° 1, Boulevard hbib Bourguiba",
+    "AdresseA": "رقم 1، شارع الحبيب بورقيبة - ط",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ahram",
+    "NOM_ETABA": "الأهـرام",
+    "AdresseL": "val Fleuri, quartier al farah,",
+    "AdresseA": "فال فلوري، حي الفرح، - طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Agharass",
+    "NOM_ETABA": "أغراس",
+    "AdresseL": "Boulevard Moulay Rachid n°14 V",
+    "AdresseA": "شارع مولاي رشيد رقم 14 فال فلو",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Moustakbal",
+    "NOM_ETABA": "المستقبل الخاصة",
+    "AdresseL": "N° 44, Avenue Prince Héritier ",
+    "AdresseA": "رقم 44، شارع ولي العهد - طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chaibia Islamia",
+    "NOM_ETABA": "الشعبية الإسلامية",
+    "AdresseL": "Rue Tijania, N° 5, Tanger",
+    "AdresseA": "طريق التيجانية، رقم 5   طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jamâa Kabir",
+    "NOM_ETABA": "الجامع الكبيـر",
+    "AdresseL": "Rue de la Mer, N° 28 - Tanger",
+    "AdresseA": "طريق البحر، رقم 28 - طنجة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les lumieres",
+    "NOM_ETABA": "الأنـوار",
+    "AdresseL": "N° 2 RIBH 2 AVENUE MY RACHID, ",
+    "AdresseA": "رقم2 ربح 2، شارع مولاي رشيد فا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Babel",
+    "NOM_ETABA": "بابـل",
+    "AdresseL": "N° 23, Ibn Marhal, Place Mozar",
+    "AdresseA": "رقم 23، شارع ابن المرحل - ساحة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibn Zohr",
+    "NOM_ETABA": "ابن زهـر",
+    "AdresseL": "Avenue My RACHID, Lot. Rizq, N",
+    "AdresseA": "طريق المطار القديمة، تجزئة رزق",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE CHAMS",
+    "NOM_ETABA": "مجموعة مدارس الشمس الخصوصية",
+    "AdresseL": "Route de la Grotte d Hercule, ",
+    "AdresseA": "طريق مغارة هرقا، الزياتين - طن",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE ABOU BAKR LAMTOUNI",
+    "NOM_ETABA": "ثانوية أبو بكـر اللمثونـي الخصوصية",
+    "AdresseL": "Boulevard Jabal Tarik, N° 44 -",
+    "AdresseA": "شارع جبل طارق، رقم 44 - ج. طنج",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tighouri",
+    "NOM_ETABA": "ثغر",
+    "AdresseL": "Quartier Val Fleuri, av. My Ra",
+    "AdresseA": "حي فال فلوري، شارع مولاي رشيد،",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALISKANDARIA ANNAMOUDAJIA",
+    "NOM_ETABA": "الإسكندرية النموذجية الخصوصية",
+    "AdresseL": "147 Bis Quatier California",
+    "AdresseA": "147 مكرر تجزئة كالفورنيا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMANA",
+    "NOM_ETABA": "الأمانة الخصوصية",
+    "AdresseL": "1 RUE IBN ZAYDOUNE",
+    "AdresseA": " 1 شارع ابن زيدون",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Petit Prince",
+    "NOM_ETABA": "الأمير الصغير",
+    "AdresseL": "Rue Prince Heritier, N° 90 - T",
+    "AdresseA": "شارع ولي العهد، رقم 90 - طنجة ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " YANBOE ANNOUR 2",
+    "NOM_ETABA": "ينبوع النور 2 الخصوصية",
+    "AdresseL": "07, Rue imam kastalani",
+    "AdresseA": "شارع الإمام القسطلاني رقم 7",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARISS TINJIS",
+    "NOM_ETABA": "مدارس طنجيس الخصوصية",
+    "AdresseL": "Km 5.5 Route de Rabat Ziaten T",
+    "AdresseA": "طريق الرباط كلم 5.5 الزياتن",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOL. 3° GENERATION",
+    "NOM_ETABA": "الجيل الثالث",
+    "AdresseL": "angle rue sayed kotb et rue Al",
+    "AdresseA": "ملتقى شرع سيد قطب و شارع اليمن",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CLAIR MATIN",
+    "NOM_ETABA": "كلير ماتان",
+    "AdresseL": "11 rue al gisiras",
+    "AdresseA": "11 زنقة الجزيرة الخضراء",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOPHOS",
+    "NOM_ETABA": "صوفوص",
+    "AdresseL": "17 rue mouatek roudani",
+    "AdresseA": "17 شارع الامام القسطلاني",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ARSALANE",
+    "NOM_ETABA": "محمد أرسلان الخصوصية",
+    "AdresseL": "Av. Moulay Rachid VAl Fleuri",
+    "AdresseA": "شارع مولاي رشيد فال فلوري",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HADIFA",
+    "NOM_ETABA": "الهادفة الخصوصية",
+    "AdresseL": "38 rue moujahidine ",
+    "AdresseA": "رقم 38 حي المجاهدين",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hassanain",
+    "NOM_ETABA": "الحسنين",
+    "AdresseL": "rahrah",
+    "AdresseA": "حي الرهراه",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assanabil",
+    "NOM_ETABA": "السنابل",
+    "AdresseL": "av.moulay rachid route de raba",
+    "AdresseA": "شارع مولاي رشيد طريق الرباط",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire sidk walkitab",
+    "NOM_ETABA": "مجموعة مدارس الصدق والكتاب",
+    "AdresseL": "Rue Sanhaj Av My Youssef (ex- ",
+    "AdresseA": "زنقة صنهاجة شارع مولاي يوسف",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "roosevelt",
+    "NOM_ETABA": "روزفلت",
+    "AdresseL": "Hay Al Woroud, N° 1, Jamaa Mak",
+    "AdresseA": "زنفة الورود , رقم 1 جامع المقر",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FEDERICO GARCIA LORCA",
+    "NOM_ETABA": "فيديريكو غارسيا لوركا الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 14 ملتقى شارع إدريس الول و",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE CHATEAU DES ANGES",
+    "NOM_ETABA": "قصر الملائكة",
+    "AdresseL": "route d 'aviation complexe lei",
+    "AdresseA": "طريق المطار. المجمع السكني  لي",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HANAN OME",
+    "NOM_ETABA": "حنان الأم",
+    "AdresseL": "NULL",
+    "AdresseA": "اقامة الصفاء بلوك س1 رقم 2",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "QASR ALMALAIKA",
+    "NOM_ETABA": "قصر الملائكة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بوخالف",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L UNIVERS DES MIGNONS",
+    "NOM_ETABA": "لونيفير دي مينيون",
+    "AdresseL": "NULL",
+    "AdresseA": "مدشر البرانص مسنانة المركب الس",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EVEREST SCHOOLS",
+    "NOM_ETABA": "إفرست سكولز",
+    "AdresseL": "NULL",
+    "AdresseA": "كاليفورنيا شارع الناظور فيلا ا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "A GRAND PAS",
+    "NOM_ETABA": "أ كغوند با",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المجاهدين تجزئة المنصور رقم",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL HASSAN IBN AL HAITAM",
+    "NOM_ETABA": "مجموعة مدارس الحسن بن الهيثم",
+    "AdresseL": "AV. IBN HASSAN CHADILI N25",
+    "AdresseA": "شارع ابي الحسن الشاذلي رقم 25",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE TANGERINE",
+    "NOM_ETABA": "المجموعة المدرسية طنجرين",
+    "AdresseL": "Bv Moulay Rachid Quartier Mesn",
+    "AdresseA": "شارع مولاي رشيد حي مسنانة",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HRAJEM",
+    "NOM_ETABA": "مدرسة حراجم",
+    "AdresseL": "NULL",
+    "AdresseA": "المركب السكني مسك الليل قرب مر",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMANA AL ELMEYA",
+    "NOM_ETABA": "الأمانة العلمية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الخير 2 رقم 179",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES PETITS CALINS",
+    "NOM_ETABA": "لي بوتي كلان",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الفتح رقم 42 المجاهدين",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ROUAD ALMAARIFAE",
+    "NOM_ETABA": "مدرسة رواد المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "العرفان 1مجموعة 31عمارة 318الط",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA MARIONNETTE",
+    "NOM_ETABA": "لا ماغيونيت",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 3 تجزئة الفرطاخ (النخلة) ط",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELBILIA SKOLAR",
+    "NOM_ETABA": "ايلبيليا سكولار",
+    "AdresseL": "NULL",
+    "AdresseA": "باب الاندلس الشطر الثاني بوخال",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT PETITE RACINE",
+    "NOM_ETABA": "معهد بوتيت غاسين",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة وندال عمارة وندال رقم 6",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA CLE DE L AVENIR",
+    "NOM_ETABA": "لا كلي دو لافونيغ",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 25 عين الحياني رقم 8",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA LICORNE BLANCHE",
+    "NOM_ETABA": "لا ليكورن بلونش",
+    "AdresseL": "COMPLEXE SALAM ZIATEN ROUTE AC",
+    "AdresseA": "مركب السلام الزياتن طريق اشقار",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE L'UNIVERS",
+    "NOM_ETABA": "المجموعة المدرسية لونيفير",
+    "AdresseL": "N8 RUE FARABI RES. PALACE N°6A",
+    "AdresseA": "ر8 زنقة القارابي اقامة بالاص ر",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BRIN D'OLIVIER",
+    "NOM_ETABA": "بران دوليفيي",
+    "AdresseL": "DOUAR ZIATEN",
+    "AdresseA": "دوار الزياتن",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MES PREMIERS COPAINS",
+    "NOM_ETABA": "مي بروميي كوبان",
+    "AdresseL": "RUE MAOUTHOUK ROUDANI N14",
+    "AdresseA": "زنقة موثوق الروداني رقم 14",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L'ICONE SCIENTIFIQUE",
+    "NOM_ETABA": "ليكون سيونتيفيك",
+    "AdresseL": "MISTERKHOUCH AV. MOULAY RACHID",
+    "AdresseA": "مسترخوش شارع مولاي رشيد تجزئة ",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MODERN INTERNATIONAL SCHOOL",
+    "NOM_ETABA": "مودرن إنترناسيونال سكول",
+    "AdresseL": "N2 RUE SCOFASCO RUE ALBOUKHARI",
+    "AdresseA": "رقم2 زنقة سكوفاسكو زنقة البوخا",
+    "COMMUNE": "Tanger-Médina",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

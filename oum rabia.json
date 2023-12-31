@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BRAHIM RAJI",
+    "NOM_ETABA": " الثانوية الإعدادية ابراهيم الراجي",
+    "AdresseL": "TANFNITE CENTRE",
+    "AdresseA": "تانفنيت المركز",
+    "COMMUNE": "Oum Rabia",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIQLITE",
+    "NOM_ETABA": "تيقليت",
+    "AdresseL": "DOUAR TIQLITE COMMUNE OUM RABIA",
+    "AdresseA": "دوار تيقليت جماعة ام الربيع",
+    "COMMUNE": "Oum Rabia",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUM RABIA",
+    "NOM_ETABA": "ام الربيع",
+    "AdresseL": "DOUAR AIT BOUZAOUIT COMMUNE OUM RABIA",
+    "AdresseA": "دوار ايت بوالزاويت جماعة ام الربيع",
+    "COMMUNE": "Oum Rabia",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KSAR AZIZA",
+    "NOM_ETABA": "قصر عزيزة",
+    "AdresseL": "DOUAR AIT AZIZA COMMUNE OUM RABIA",
+    "AdresseA": "دوار ايت عزيزة جماعة ام الربيع",
+    "COMMUNE": "Oum Rabia",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FELLATE",
+    "NOM_ETABA": "فلات",
+    "AdresseL": "DOUAR FELLATE AIT BOUARIF COMMUNE OUM RABIA",
+    "AdresseA": "دوار فلات ايت بوعريف جماعة ام الربيع",
+    "COMMUNE": "Oum Rabia",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

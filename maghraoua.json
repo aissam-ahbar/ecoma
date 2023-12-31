@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MEGHRAOUA",
+    "NOM_ETABA": "الثانوية الإعدادية مغراوة",
+    "AdresseL": "MAGHRAOUA CENTRE",
+    "AdresseA": "مغراوة المركز",
+    "COMMUNE": "Maghraoua",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ELANSAR CENTRE",
+    "NOM_ETABA": "العنصر المركز",
+    "AdresseL": "DOUAR EL ANSAR COMMUNE MAGHRAOUA ",
+    "AdresseA": "دوار العنصر جماعة مغراوة ",
+    "COMMUNE": "Maghraoua",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TMOURGHOUTE CENTRE",
+    "NOM_ETABA": "تمورغوت المركز",
+    "AdresseL": "DOUAR TMOURGHOUTE COMMUNE MAGHRAOUA ",
+    "AdresseA": "دوار تمورغوت جماعة مغراوة ",
+    "COMMUNE": "Maghraoua",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TLAJDOUTE CENTRE",
+    "NOM_ETABA": "تلاجدوت المركز",
+    "AdresseL": "DOUAR TALAJDOUT COMMUNE MAGHRAOUA",
+    "AdresseA": "دوار تلاجدوت جماعة مغراوة    تازة",
+    "COMMUNE": "Maghraoua",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

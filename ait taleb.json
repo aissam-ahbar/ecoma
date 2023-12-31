@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "TADLA CHERKIA CENTRE",
+    "NOM_ETABA": "تادلة الشر قية المركزية",
+    "AdresseL": "DOUAR TADELA CHERKI COMMUNE AIT TALEB",
+    "AdresseA": "   دوار تادلة الشرقي جماعة آيت الطالب",
+    "COMMUNE": "Ait Taleb",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LOUTRACH CENTRE",
+    "NOM_ETABA": "الطرش المركزية",
+    "AdresseL": "DOUAR TROUCH COMMUNE AIT TALEB BOUCHAN",
+    "AdresseA": "دوار الطرش",
+    "COMMUNE": "Ait Taleb",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELMA BARED CENTRE",
+    "NOM_ETABA": "الماء البارد المركزية",
+    "AdresseL": "JAMAAT LMA BARED COMMUNE AIT TALEB",
+    "AdresseA": "دوار الماء البارد",
+    "COMMUNE": "Ait Taleb",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HAOUZZIA CENTRE",
+    "NOM_ETABA": "الحوزية المركزية",
+    "AdresseL": "DOUAR EL HAOUZZIA COMMUNE AIT TALEB",
+    "AdresseA": "دوار الحوزية",
+    "COMMUNE": "Ait Taleb",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

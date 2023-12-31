@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "BNI OUKIL CENTRE",
+    "NOM_ETABA": "مركزية  بني وكيل",
+    "AdresseL": "CENTRE BNI OUKIL COMMUNE BNI OUKIL",
+    "AdresseA": "بني وكيل",
+    "COMMUNE": "Bni Oukil",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ZYANE 1 CENTRE",
+    "NOM_ETABA": "مركزية اولاد زيان",
+    "AdresseL": "OULED ZYANE 1 COMMUNE BNI OUKIL",
+    "AdresseA": "بني وكيل",
+    "COMMUNE": "Bni Oukil",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LACHHOUB 1 CENTRE",
+    "NOM_ETABA": "مركزيةالشهب",
+    "AdresseL": "LACHHOUB 1 COMMUNE BNI OUKIL",
+    "AdresseA": "لشهب جماعة بني وكيل",
+    "COMMUNE": "Bni Oukil",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "ثا.صلاح الدين الأيوبي التأهيلية",
+    "AdresseL": "commun bni okil",
+    "AdresseA": "الفقيه بن صالح جماعة بني وكيل",
+    "COMMUNE": "Bni Oukil",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGE AL HOUCINE BNOU ALI",
+    "NOM_ETABA": "الثانوية الإعدادية الحسين ابن علي",
+    "AdresseL": "CENTRE AIN CHKEF",
+    "AdresseA": "مركز عين السقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " COLLEGE AL HASSANE AL AWAL",
+    "NOM_ETABA": " إعدادية الحسن الأول",
+    "AdresseL": "COMMUNE RAS EL MAE",
+    "AdresseA": "مركز جماعة رأس الماء",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED CHAOUKI",
+    "NOM_ETABA": "الثانوية الاعدادية احمد شوقي",
+    "AdresseL": "COMMUNE AIN CHEKF",
+    "AdresseA": "جماعة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED EL HANSALI",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد الحنصالي",
+    "AdresseL": "LOTISSEMENT ETADAMOUN AIN CHEKF",
+    "AdresseA": "تجزئة التضامن عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MOHAMMED ZERKTOUNI",
+    "NOM_ETABA": "الثانوية الاعدادية محمد الزرقطوني",
+    "AdresseL": "CENTRE DE LA COMMUNE DE AINE CHKAFMOULAY YACOUB",
+    "AdresseA": "مركز جماعة عين الشقف مولاي يعقوب",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE 20 AOUT",
+    "NOM_ETABA": "مدرسة 20 غشت",
+    "AdresseL": "CENTRE DE LA COMMUNE DE AIN CHKAF",
+    "AdresseA": "مركز جماعة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUSSALAH CENTRE",
+    "NOM_ETABA": "اولاد بوصالح المركز",
+    "AdresseL": "DOUAR OULAD BOUSSALEH COMMUNE AIN CHKAF",
+    "AdresseA": "دوار اولاد بوصالح عينه الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALBABDA CENTRE",
+    "NOM_ETABA": "اللبابدة المركز",
+    "AdresseL": "DOUAR LBABDA COMMUNE AIN CHKAF",
+    "AdresseA": "دوار اللبابدة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RAS EL MAE",
+    "NOM_ETABA": "مدرسة راس الماء",
+    "AdresseL": "DOUAR EL KOUBANIA RAS EL MAE COMMUNE AINE CHKAF",
+    "AdresseA": "دوار الكبانية راس الماء عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAHATTA CENTRE",
+    "NOM_ETABA": "المحطة المركز",
+    "AdresseL": "RAS EL MAE  COMMUNE AINE CHKAF",
+    "AdresseA": "راس الماء عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EZLILIGUE ",
+    "NOM_ETABA": "مدرسة الزليليك",
+    "AdresseL": "DOUAR EZLILIGUE COMMUNE AINE CHKAF",
+    "AdresseA": "دوار الزليليك عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN AL BAYDA CENTRE",
+    "NOM_ETABA": "عين بيضة المركز",
+    "AdresseL": "DOUAR AIN BAYDA COMMUNE AINE CHKAF",
+    "AdresseA": "دوار عين بيضة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZAOUYA ",
+    "NOM_ETABA": "مدرسة الزاوية",
+    "AdresseL": "DOUAR LAKHRABCHA COMMUNE AINE CHKAF",
+    "AdresseA": "دوار الخرابشة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MAALLA",
+    "NOM_ETABA": "اولاد امعلا",
+    "AdresseL": "DOUAR OULAD MAALLA COMMUNE AINE CHKAF",
+    "AdresseA": "دوار اولاد امعلا عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULAD M HAMED ",
+    "NOM_ETABA": "مدرسة اولاد امحمد ",
+    "AdresseL": "DOUAR OULAD M HAMED COMMUNE AINE CHKAF",
+    "AdresseA": "دوار اولاد امحمد عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED ENJA CENTRE",
+    "NOM_ETABA": "وادي النجاة المركز",
+    "AdresseL": " KM 20 ROUTE FESMEKNES COMMUNE AIN CHKEF",
+    "AdresseA": "  كلم 20 طريق فاس - مكناس عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHALID BEN EL WALID",
+    "NOM_ETABA": "مدرسة خالد بن الوليد",
+    "AdresseL": "Centre de la commune Ain Chkef",
+    "AdresseA": "مركز عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL JAHID ",
+    "NOM_ETABA": "مدرسة الجاحظ",
+    "AdresseL": "RAS EL MAE AIN CHKEF",
+    "AdresseA": "رأس الماء عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SALAH EDDINE EL AYOUBI",
+    "NOM_ETABA": "مدرسة صلاح الدين الايوبي",
+    "AdresseL": "COMMUNE AIN CHEKF",
+    "AdresseA": "جماعة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BILAL BNO RABAH",
+    "NOM_ETABA": "مدرسة بلال بن رباح",
+    "AdresseL": "DOUAR OULAD HASSOUNE AIN CHEKF",
+    "AdresseA": "دوار اولاد حسون عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI DAR EL GHIFARI",
+    "NOM_ETABA": "مدرسة ابي ذر الغفاري",
+    "AdresseL": "HAY EL INBIAAT 2RAS EL MAE",
+    "AdresseA": "حي الانبعاث 2 رأس الماء",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAOUFIQ EL HAKIM",
+    "NOM_ETABA": "مدرسة توفيق الحكيم",
+    "AdresseL": "CENTRE COMMUNE AIN CHEKF",
+    "AdresseA": "مركز جماعة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE  AHMED ZAKI EL ALAOUI",
+    "NOM_ETABA": "الثانوية التأهيلية أحمد زكي العلوي",
+    "AdresseL": "CENTRE DE LA COMMUNE RURALE  AIN CHKEFF",
+    "AdresseA": "مركز جماعة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BASSATINE",
+    "NOM_ETABA": "الثانوية التأهيلية البساتين",
+    "AdresseL": "centre ras el mae commune ain chkef",
+    "AdresseA": "مركز رأس الماء جماعة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAKADDOUM",
+    "NOM_ETABA": "الثانوية التأهيلية التقدم",
+    "AdresseL": "centre commune AIN CHKEF",
+    "AdresseA": "مركز جماعة عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 18 NOVEMBRE",
+    "NOM_ETABA": "الثانوية التأهيلية 18 نونبر",
+    "AdresseL": "HAY AL INBIAAT RAS EL MAE AIN CHKEF",
+    "AdresseA": "حي الانبعاث راس الماء عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "source d information",
+    "NOM_ETABA": "سورس دانفورماسيون",
+    "AdresseL": "r 26 jnane 1 ain chkef",
+    "AdresseA": "جنان 1 عين الشقف r 26",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE DU BON SENS",
+    "NOM_ETABA": "مدرسة بونسونس",
+    "AdresseL": "N°51z LOTISSEMENT EL JENANE AI",
+    "AdresseA": "رقم 51 ز تجزئة الجنان عين الشق",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EUGENE DELACROIX",
+    "NOM_ETABA": "مجموعة مدرسية اوجين دولاكروا",
+    "AdresseL": "lotissement olivret 2-2 ka rou",
+    "AdresseA": "تجزئة اوليفري 2-2 ك أ طريق عين",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LES PETITS ECOLIERSE",
+    "NOM_ETABA": "مدرسة التعلمين الصغار الخاصة",
+    "AdresseL": "pole urbain hay inbiaat 2 N°lo",
+    "AdresseA": " جماعة عين الشقف EQ16  القطب ا",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SUPER NANY",
+    "NOM_ETABA": "سوبيرناني",
+    "AdresseL": "",
+    "AdresseA": " C2تجزئة الجنان عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TALAIE AL MOBDIEINE",
+    "NOM_ETABA": "طلائع المبدعين",
+    "AdresseL": "NULL",
+    "AdresseA": "عين الشقف",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LOUIS MARTIN",
+    "NOM_ETABA": "مجموعة مدارس لويس مارتن للتعليم المدرسي الخصوصي",
+    "AdresseL": "E 29 LOTISSEMENT AL JINANE AIN",
+    "AdresseA": "رقم E 29 تجزئة الجنان عين الشق",
+    "COMMUNE": "Ain Chkef",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

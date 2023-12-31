@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "SS YOUSSEF TLIDI TANAKOUB",
+    "NOM_ETABA": "م/م يوسف التليدي _تنقوب",
+    "AdresseL": "TANAKOUBCTANAKOUBCHEFCHAOUEN",
+    "AdresseA": "تنقوب المركز جماعة تنقوب",
+    "COMMUNE": "Tanaqoub",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMAM MALEK ZAOUIA",
+    "NOM_ETABA": "م/م الامام مالك _الزاوية",
+    "AdresseL": "ZAOUIA TANAKOUB CHEFCHAOUEN",
+    "AdresseA": "دوار الزاوية جماعة تنقوب",
+    "COMMUNE": "Tanaqoub",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZAGHR BNI TLID AZEGHAR",
+    "NOM_ETABA": "م/م ازغار بني تليد _  أزغار",
+    "AdresseL": "DOUAR AZAGHAR TANAQOUB CHEFCHAOUEN",
+    "AdresseA": "دوار أزغار جماعة تنقوب",
+    "COMMUNE": "Tanaqoub",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELMSALLA",
+    "NOM_ETABA": "م/م المصلى",
+    "AdresseL": "DOUAR ELMASALLA COMMUNE tanakoub",
+    "AdresseA": "دوار المصلى جماعة تنقوب",
+    "COMMUNE": "Tanaqoub",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KALAA TANAKOUB",
+    "NOM_ETABA": "م/م قلعة تنقوب",
+    "AdresseL": "DOUAR EL KALAA COMMUNE TANAQOUB",
+    "AdresseA": "دوار القلعة جماعة تنقوب",
+    "COMMUNE": "Tanaqoub",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AOULAD BEN ALLAL",
+    "NOM_ETABA": "مدرسة أولاد بن علال",
+    "AdresseL": "DOUAR aOULAD BEN ALLAL TANAQOUB",
+    "AdresseA": "دوار أولاد بن علال جماعة تنقوب",
+    "COMMUNE": "Tanaqoub",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHEIKH MOHAMED ASSEBANE",
+    "NOM_ETABA": "الثانوية التأهيلية الشيخ محمد أصبان",
+    "AdresseL": "COMMUNE TANAKOUB CENTRE",
+    "AdresseA": "جماعة تنقوب المركز",
+    "COMMUNE": "Tanaqoub",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "NOM_ETABL": "ALBATHAE",
+    "NOM_ETABA": "البطحاء",
+    "AdresseL": "HAY ANNASR ain aouda",
+    "AdresseA": "حي النصر - قطاع 5 - عين عودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE ABDELFATTAH SABBATA COLLEGIAL",
+    "NOM_ETABA": "ثانوية عبد الفتاح سباطة الإعدادية",
+    "AdresseL": "Lotissement Alfirdaous AIN EL AOUDA",
+    "AdresseA": "تجزئة الفردوس عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AMMAR BNO YASSER",
+    "NOM_ETABA": "عمار بن ياسر",
+    "AdresseL": "Hay tadamoune AIN EL AOUDA",
+    "AdresseA": "حي التضامن عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LARBI BENJILALI",
+    "NOM_ETABA": "المقاوم العربي بن الجيلالي",
+    "AdresseL": "AIN EL OUADA",
+    "AdresseA": "ASSAFA",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MAE EL AYNAYNE",
+    "NOM_ETABA": "ماء العينين",
+    "AdresseL": "AL FADL",
+    "AdresseA": "الفضل",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MAJD",
+    "NOM_ETABA": "المجد",
+    "AdresseL": "HAY alfadl ain alaouda",
+    "AdresseA": "حي الفضل عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ATTANMIA",
+    "NOM_ETABA": "التنمية",
+    "AdresseL": "hay ennassr",
+    "AdresseA": "حي النصر",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AZIZ AMINE",
+    "NOM_ETABA": "عزيزامين",
+    "AdresseL": "AIN AOUDA CENTRE",
+    "AdresseA": "عين العودة المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI ELMADANI BEL HOUSNI",
+    "NOM_ETABA": "سيدي المدني بلحسني",
+    "AdresseL": "AIN EL AOUDA CENTRE",
+    "AdresseA": "عين العودة المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MEHDI BEN ABOUD",
+    "NOM_ETABA": "المهدي بن عبود",
+    "AdresseL": "AIN AOUDA CENTRE",
+    "AdresseA": "عين العودة المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ANWAL",
+    "NOM_ETABA": "انوال",
+    "AdresseL": "AIN AOUDA CENTRE",
+    "AdresseA": "عين العودة المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH IBN YASSIN",
+    "NOM_ETABA": "عبد الله بن ياسين",
+    "AdresseL": "AIN AOUDA  CENTRE",
+    "AdresseA": "عين العودة المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAAD IBN ABI WAKKASS",
+    "NOM_ETABA": "سعد بن أبي وقاص",
+    "AdresseL": "AIN EL AOUDA CENTRE",
+    "AdresseA": "عين العودة المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED AL  MAKHAZINE",
+    "NOM_ETABA": "وادي المخازن",
+    "AdresseL": "AIN AOUDA CENTRE",
+    "AdresseA": "عين العودة المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDEL KHALEK TORRES",
+    "NOM_ETABA": "عبد الخالق الطريس",
+    "AdresseL": "AIN AOUDA",
+    "AdresseA": "عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EN NASSER",
+    "NOM_ETABA": "النصر",
+    "AdresseL": "AIN AOUDA CENTRE",
+    "AdresseA": "عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTADAMOUNE",
+    "NOM_ETABA": "مدرسة التضامن",
+    "AdresseL": "Hay  Nasr secteur 9",
+    "AdresseA": "حي النصر سكتور 9 ",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED ALJAWHARI",
+    "NOM_ETABA": "مدرسة المقاوم محمد الجوهري",
+    "AdresseL": "ville de firdaous ain ouda",
+    "AdresseA": "مدينة الفردوس عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN ALHAYATE",
+    "NOM_ETABA": "عين الحياة",
+    "AdresseL": "AIN AOUDA",
+    "AdresseA": "عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOULIKHA NASRI",
+    "NOM_ETABA": "زليخة نصري",
+    "AdresseL": "Lotissement Alliance Darna AIN EL AOUDA",
+    "AdresseA": "تجزئة اليانص دارنا عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY SLIMANE",
+    "NOM_ETABA": "مولاي سليمان",
+    "AdresseL": "lot annassim",
+    "AdresseA": "تجزئة النسيم",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FADL",
+    "NOM_ETABA": "الفضل",
+    "AdresseL": " LOTISSEMENT AL FADL COMMUNE AIN OUADA",
+    "AdresseA": "تجزئة الفضل بلدية عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSAFAE",
+    "NOM_ETABA": "الصفاء",
+    "AdresseL": "HAY AIN AOUDA",
+    "AdresseA": "حي عين عودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI AL KACEM CHABI",
+    "NOM_ETABA": "أبي القاسم الشابي",
+    "AdresseL": " ecole  ABI AL KACEM CHABI AIN OUADA",
+    "AdresseA": "مدرسة ابي القاسم الشابي بلدية عين العودة ",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM CHFII",
+    "NOM_ETABA": "الإمام الشافعي",
+    "AdresseL": "AL FADL",
+    "AdresseA": "الفضل",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALHA BNOU OUBAID ALLAH",
+    "NOM_ETABA": "طلحة بن عبيد الله",
+    "AdresseL": "AL FADL",
+    "AdresseA": "الفضل",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ATLAS",
+    "NOM_ETABA": "الأطلس",
+    "AdresseL": "ATLAS",
+    "AdresseA": "الأطلس",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MANSOUR EDDAHBI",
+    "NOM_ETABA": "المنصور الدهبي",
+    "AdresseL": "LOT OULAD ZAER ",
+    "AdresseA": "تجزشة اولاد زعير ",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMANE EDDAKHIL",
+    "NOM_ETABA": "عبد الرحمان الداخل",
+    "AdresseL": "quartier ennasser  SEC 01  AIN AOUDA CENTRE",
+    "AdresseA": "حي النصر - سكتور 01 - عين العودة -  المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "KADI AYADE",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "AIN AOUDA CENTRE",
+    "AdresseA": "عين العودة المركز",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "KHADIJA EL OUFIR",
+    "NOM_ETABA": "خديجة العوفير",
+    "AdresseL": "ASSAFA",
+    "AdresseA": "الصفا",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN AL ROUMI",
+    "NOM_ETABA": "ابن الرومي",
+    "AdresseL": "AL FADL",
+    "AdresseA": "الفضل",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ANNAKHILE",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": " al firdaous ain alouda",
+    "AdresseA": "تجزئة الفردوس عين العودة",
+    "COMMUNE": "Ain El Aouda",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "numidia",
+    "NOM_ETABA": "نوميديا ",
+    "AdresseL": "1388,lot. ouled zaer",
+    "AdresseA": "1388 اولاد زعير",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut scientifique ain aouda",
+    "NOM_ETABA": "المعهد العلمي عين عودة الخصوصي",
+    "AdresseL": "lotissement sidi Laarbi ain ao",
+    "AdresseA": " 2521 تجزئة سيدي العربي عين عو",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE IBN ARABI",
+    "NOM_ETABA": "م/م ابن عربي",
+    "AdresseL": "1108 oulad zaer ",
+    "AdresseA": "تجزئة اولاد زعير",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole nour al nahdda",
+    "NOM_ETABA": "مؤسسة نور النهضة الخصوصية",
+    "AdresseL": "158, secteur2,hay ennasr",
+    "AdresseA": "حي النصر, رقم 158 قطاع 2 عين ع",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement \"madariss al amal almaarifi\" litaalim alaouali",
+    "NOM_ETABA": "مؤسسة \"مدارس الأمل المعرفي\" للتعليم الأولي",
+    "AdresseL": "143,lotissement annasr",
+    "AdresseA": "143 تجزئة النصر عين عودة",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almorakab atarbaoui almanzeh ",
+    "NOM_ETABA": "المركب التربوي المنزه الخصوصي",
+    "AdresseL": "LOT ANNASR SECTEUR 7 NO 9 AIN ",
+    "AdresseA": "تجزئة النصر سكتور 7 رقم 9  عين",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAOUHARAT EL AMAL AL MAARIFI",
+    "NOM_ETABA": "جوهرة الأمل المعرفي الخاصة",
+    "AdresseL": "hay ennasr n 26 secteur 2 ain ",
+    "AdresseA": "حي النصر 26 سكتور 2 عين عودة",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S JILL TADAMON",
+    "NOM_ETABA": "مجموعة مدارس جيل التضامن الخصوصية",
+    "AdresseL": "933,lotissement oulad zaer",
+    "AdresseA": "تجزئة اولاد زعير.933 ",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "maternelle bensalleme",
+    "NOM_ETABA": "روض بنسلام الخصوصي",
+    "AdresseL": "lot ain ouald zaer",
+    "AdresseA": "1065،تجزئة اولاد زعير",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Amal almaarifi",
+    "NOM_ETABA": "االأمل المعرفي ",
+    "AdresseL": "Lot. Al Amal  N° 25 - Ain El A",
+    "AdresseA": "حي الأمل، رقم 25 - عين العودة",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire ibn arabi 1",
+    "NOM_ETABA": "مجموعة مدارس ابن عربي",
+    "AdresseL": "278 hay alamal",
+    "AdresseA": "رفم 278 حي الأمل",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolire Al Ahd Aljadid attarbaoui",
+    "NOM_ETABA": "مدارس العهد الجديد التربوي",
+    "AdresseL": "N° 18, Lotissement En-nasr - A",
+    "AdresseA": "رقم 18، تجزئة النصر - عين العو",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAMS ASSABAH",
+    "NOM_ETABA": "شمس الصباح",
+    "AdresseL": "Lotissement annasr n 34-33",
+    "AdresseA": "تجزئة النصر رقم -33-34 ",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JOUHAD EDUCATION D'ENSEIGNEMENT",
+    "NOM_ETABA": "مجموعة مدارس جوهاد للتربية و التعليم الخصوصي",
+    "AdresseL": "N° 41 et 43 secteur 03 hay ann",
+    "AdresseA": "رقم 41و 43 قطاع 03 حي النصر عي",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "success a.a",
+    "NOM_ETABA": "ساكسس أ.أ",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 90 تجزئة الوئام عين العودة",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe zaer al amine",
+    "NOM_ETABA": "مجموعة زعير الأمين الخصوصية",
+    "AdresseL": "LOT OULAD ZAER N°873 AIN AOUDA",
+    "AdresseA": "رقم 873, حي أولاد زعير ,عين عو",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "khouchane denseignement ",
+    "NOM_ETABA": "خشان للتعليم الخصوصي",
+    "AdresseL": "hay al firdaous n-680 TRACHE 2",
+    "AdresseA": "حي الفردوس رقم 680 شطر 2 عين ا",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire laithe",
+    "NOM_ETABA": "مجموعة مدارس ليث",
+    "AdresseL": "NULL",
+    "AdresseA": "حي سيدي العربي ",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire laithe",
+    "NOM_ETABA": "المجموعة المدرسية ليث الخصوصية",
+    "AdresseL": "hay sidi laarbi",
+    "AdresseA": "حي سيدي العربي ",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut scientifical smart school",
+    "NOM_ETABA": "آنستيتي سيونتفكال سمارت سكول الخصوصية",
+    "AdresseL": "N°60 QUARTIER ENNASR SECTEUR 1",
+    "AdresseA": "رقم 60 حي النصر قطاع 1",
+    "COMMUNE": "Ain El Aouda ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

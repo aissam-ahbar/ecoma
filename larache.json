@@ -1,0 +1,892 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE AL WAFAE",
+    "NOM_ETABA": "الثانوية الإعدادية الوفاء ",
+    "AdresseL": "hay chaabane 2",
+    "AdresseA": "حي شعبان 2",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE HASSAN II ",
+    "NOM_ETABA": "الثانوية الإعدادية الحسن الثاني  ",
+    "AdresseL": "HAY EL JADID AVENUE LEQAIR COMMUNE LARACHE  ",
+    "AdresseA": "الحي الجديد - شارع القاهرة",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE IMAM MALEK",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مالك ",
+    "AdresseL": "AVENUe  MYISMAIL COMMUNE LARACHE",
+    "AdresseA": "شارع مولاي اسماعيل",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE OUED EL MAKHAZINE ",
+    "NOM_ETABA": "الثانوية الإعدادية وادي المخازن  ",
+    "AdresseL": "AVENUe  IBN ZAIDOUNE COMMUNE LARACHE",
+    "AdresseA": "شارع ابن زيدون",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE ABDELKRIM ELKHATTABI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بن عبدالكريم الخطابي ",
+    "AdresseL": "LOT SALAM  COMMUNE LARACHE",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU SINAA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن سينا ",
+    "AdresseL": "LOTISSEMENT AL MAGHIRIB ALJADID",
+    "AdresseA": "تجزئة المغرب الجديد",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAREK IBN ZIAD",
+    "NOM_ETABA": "مدرسة طارق بن زياد",
+    "AdresseL": "AVENUE hassan 2  rue luxus OMMUNE LARACHE",
+    "AdresseA": "شارع الحسن 2 ز لكسوس",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MEHDI BEN TOUMARTE",
+    "NOM_ETABA": "مدرسة المهدي بن تومرت",
+    "AdresseL": "AVENUe  MEHDI IBN TOUMARTE COMMUNE LARACHE",
+    "AdresseA": "شارع المهدي بم تومرت",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOATAMID BEN ABBAD",
+    "NOM_ETABA": "مدرسة المعتمد بن عباد",
+    "AdresseL": "HAY EL JADID COMMUNE LARACHE",
+    "AdresseA": "مدرسة المعتمد بن عباد الحي الجديد",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELMALEK ESSAADI",
+    "NOM_ETABA": "مدرسة عبدالمالك السعدي",
+    "AdresseL": "HAY MHASSHASS COMMUNE LARACHE",
+    "AdresseA": "حي المحصحص",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU  KHALDOUN LARACHE",
+    "NOM_ETABA": "مدرسة ابن خلدون العرائش",
+    "AdresseL": "AVENUe  MOHAMED BEN ABDALLAH COMMUNE LARACHE",
+    "AdresseA": "شارع محمد بن عبدالله",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU  ZAIDOUN",
+    "NOM_ETABA": "مدرسة ابن زيدون",
+    "AdresseL": "AVENUe  MY DRISS EL AZHAR COMMUNE LARACHE",
+    "AdresseA": "شارع مولاي ادريس الأزهر",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ECHCHARIF EL IDRISSI",
+    "NOM_ETABA": "مدرسة الشريف الإدريسي",
+    "AdresseL": "AVENUE  ABDELMOUMEN IBN ALI COMMUNE LARACHE",
+    "AdresseA": "شارع عبدالمومن بن علي",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA MENNANA",
+    "NOM_ETABA": "مدرسة لالة منانة",
+    "AdresseL": "RUE ZALAKA COMMUNE LARACHE",
+    "AdresseA": "زنقة الزلاقة",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED V",
+    "NOM_ETABA": "مدرسة محمد الخامس الاؤلى",
+    "AdresseL": "AVENUe  IBN KHATIB COMMUNE LARACHE",
+    "AdresseA": "شارع ابن الخطيب",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU HAZEM",
+    "NOM_ETABA": "مدرسة ابن حزم",
+    "AdresseL": "AVENUe  MY ABDESSLAM COMMUNE LARACHE",
+    "AdresseA": "شارع مولاي عبدالسلام",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY ABESSLAM",
+    "NOM_ETABA": "مدرسة مولاي عبدالسلام",
+    "AdresseL": "AVENU 2MARS N1 COMMUNE LARACHE",
+    "AdresseA": "شارع 2 مارس رقم 1",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUKBA IBNOU  NAFAE",
+    "NOM_ETABA": "مدرسة عقبة بن نافع",
+    "AdresseL": "AVENUe  OKBA BEN NAFIE COMMUNE LARACHE",
+    "AdresseA": "شارع عقبة بن نافع",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM GHAZALI",
+    "NOM_ETABA": "مدرسة الإمام الغزالي",
+    "AdresseL": "BD CAIR LOT ESSMARA COMMUNE LARACHE",
+    "AdresseA": "شارع القاهرة قرب تجزئة السمارة",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED V MIXTE",
+    "NOM_ETABA": "مدرسة محمد الخامس المختلطة",
+    "AdresseL": "AVENUE DES FAR COMMUNE LARACHE",
+    "AdresseA": "شارع الجيش الملكي",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED BEN  RADI SLAOUI",
+    "NOM_ETABA": "مدرسة محمد بن  الراضي السلاوي",
+    "AdresseL": "LOT WAFAE COMMUNE LARACHE",
+    "AdresseA": "تجزئة الوفاء",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LISSANE EDDINE IBNOU EL KHATIB",
+    "NOM_ETABA": "مدرسة لسان الدين بن الخطيب",
+    "AdresseL": "AVENUe IBN KHATIB COMMUNE LARACHE",
+    "AdresseA": "شارع ابن الخطيب",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOAAD BNOU JABAL",
+    "NOM_ETABA": "مدرسة معاد بن جبل",
+    "AdresseL": "LOT CHAABANE1 COMMUNE LARACHE",
+    "AdresseA": "تجزئة شعبان",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELKHALAK TORRES",
+    "NOM_ETABA": "مدرسة عبدالخالق الطريس",
+    "AdresseL": "LOT CDG  LARACHE",
+    "AdresseA": "تجزئة صندوق الايداع و التدبير",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE BEGGARA  ",
+    "NOM_ETABA": " مدرسة بكارة",
+    "AdresseL": "DOUAR BEGGARA COMMUNE LARACHE",
+    "AdresseA": "دوار بكارة",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE REKKADA",
+    "NOM_ETABA": "مدرسة رقادة",
+    "AdresseL": "DOUAR REKADA COMMUNE LARACHE",
+    "AdresseA": "  - جماعة العرائش حي رقادة",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL GHDIRA   ",
+    "NOM_ETABA": "مدرسة الغديرة",
+    "AdresseL": "DOUAR LAGHDIRA COMMUNE LARACHE",
+    "AdresseA": "دوار لغديرة جماعة العرائش",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDALLAH GUENOUNE",
+    "NOM_ETABA": "مدرسة عبدالله كنون",
+    "AdresseL": "lotissement kodia COMMUNE LARACHE",
+    "AdresseA": "تجزئة الكدية",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED BELHASSAN EL OUAZZANI",
+    "NOM_ETABA": "مدرسة محمد بلحسن الوزاني",
+    "AdresseL": "LOTISSEMENT MAGHREB JADID COMMUNE LARACHE",
+    "AdresseA": "تجزئة المغرب الجديد",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL KHAOUARIZMI",
+    "NOM_ETABA": "مدرسة الخوارزمي",
+    "AdresseL": "lot maghreb el jadid",
+    "AdresseA": "تجزئة المغرب الجديد ",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDESSAMAD ELKANFAOUI",
+    "NOM_ETABA": "مدرسة عبد الصمد الكنفاوي",
+    "AdresseL": "LOTISSEMENT ALMAGHREB ELJADID",
+    "AdresseA": "تجزئة المغرب الجديد",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MEDRASET COM",
+    "NOM_ETABA": "مدرسة .كم",
+    "AdresseL": "quartier al manar 1 ",
+    "AdresseA": "حي المنار 1",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ÉCOLE AMAL",
+    "NOM_ETABA": "مدرسة الأمل",
+    "AdresseL": "manar2",
+    "AdresseA": "المنار 2",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MANAR",
+    "NOM_ETABA": "مدرسة المنار",
+    "AdresseL": "hay al manar 3 ",
+    "AdresseA": "حي المنار 3",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE",
+    "NOM_ETABA": "الثانوية التأهيلية التقنية",
+    "AdresseL": "LOTISSEMENT ALMAGHREB ALJADID",
+    "AdresseA": "تجزئة المغرب الجديد",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU BATOUTA",
+    "NOM_ETABA": "الثانوية  التأهيلية ابن بطوطة",
+    "AdresseL": "LOTISSEMENT CHAABANE2  LARACHE",
+    "AdresseA": "تجزئة شعبان العرائش",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELALI BEN CHEKROUN",
+    "NOM_ETABA": "الثانوية التأهيلية عبدالعالي بن شقرون",
+    "AdresseL": "HAY EL JADID COMMUNE LARACHE",
+    "AdresseA": "الحي الجديد العرائش",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MAA LAAYNINE",
+    "NOM_ETABA": "الثانوية التأهيلية ماء العينين",
+    "AdresseL": "AVENUe OMAR IBN ABDELAZIZ COMMUNE LARACHE",
+    "AdresseA": "شارع عمر بن عبدالعزيز",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY MOHAMED BEN ABDALLAH",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي محمد بن عبدالله",
+    "AdresseL": "AVENUe omar bno abdraziz  COMMUNE LARACHE",
+    "AdresseA": "شارع عمر بن عبدالعزيز",
+    "COMMUNE": "Larache",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Oiseaux du Paradis",
+    "NOM_ETABA": "طيور الجنة",
+    "AdresseL": "10ABOU KACEM ZIYANI",
+    "AdresseA": "10 ابو قاسم الزياني",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE L ELITE",
+    "NOM_ETABA": "مدرسة النخبة",
+    "AdresseL": "Maghreb El Jadid n° 495",
+    "AdresseA": "تجزئة المغرب الجديد رقم 495 ",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Arkam",
+    "NOM_ETABA": "مدرسة الأرقم",
+    "AdresseL": "Lotissement Chaaban, Km 3 rout",
+    "AdresseA": "تجزئة شعبان، كلم 3 طريق الرباط",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Naforate Larache",
+    "NOM_ETABA": "نافورة العرائش",
+    "AdresseL": "Lotissement Smara, N° 30",
+    "AdresseA": "تجزئة السمارة، رقم 30",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " aya loukus",
+    "NOM_ETABA": "أية لوكوس",
+    "AdresseL": "Lotisselent C.D.G. ",
+    "AdresseA": "تجزئة صندوق الإيداع والتدبير",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT ASSALAM",
+    "NOM_ETABA": "معهد السلام",
+    "AdresseL": "Lotissement Yassemina",
+    "AdresseA": "تجزئة ياسمينة حي السلام ",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARIS JOUDOUR AL MAARIFA",
+    "NOM_ETABA": "مدارس جذور المعرفة",
+    "AdresseL": "1648 Lotissement Maghreb El Ja",
+    "AdresseA": "1648 تجزئة المغرب الجديد العرا",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAITI PRESCOLAIRE",
+    "NOM_ETABA": "بيتي للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "67 عمر ابن الخطاب",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAHABA PRESCOLAIRE",
+    "NOM_ETABA": "المحبة للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "37 شعبان 2",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IMAN PRESCOLAIRE",
+    "NOM_ETABA": "الايمان للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "114 مولاي محمد بن عبد الله ",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHAIR PRESCOLAIRE",
+    "NOM_ETABA": "الخير للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "846 تجزئة شعبان ",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FONDATION MOHAMED 6 PRESCOLAIRE",
+    "NOM_ETABA": "محمد السادس للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة مغرب الجديد",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almotaki",
+    "NOM_ETABA": "المتقي للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع عقبة بن نافع درب الفخ رقم",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kendra school",
+    "NOM_ETABA": "كيندرا سكوول",
+    "AdresseL": "lotissement alwafaa n° 161",
+    "AdresseA": "تجزئة الوفاء رقم 161",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almountaha",
+    "NOM_ETABA": "المنتهى للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع عمر بن عبد العزيز رقم 22",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "errazi",
+    "NOM_ETABA": "الرازي",
+    "AdresseL": "LOTS MAGHREB AL JADID  N°2076 ",
+    "AdresseA": "تجزئة المغرب الجديد رقم 2076",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANA ALMOSSTAKBAL",
+    "NOM_ETABA": "أنا المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المنزه رقم 14 سيدي العرب",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MINARET DE L OCEAN",
+    "NOM_ETABA": "مناري دو لوصيون",
+    "AdresseL": "",
+    "AdresseA": "تجزئة المحيط رقم 1067 و 1070 ",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " LIXUS CENTER",
+    "NOM_ETABA": "لكسوس سانتر",
+    "AdresseL": "lot nasser larache",
+    "AdresseA": "تجزئة نصر رقم1",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRAYANE",
+    "NOM_ETABA": "الريان",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع سور الإشارة، رقم 135",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IMANE",
+    "NOM_ETABA": "الإيمان",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة كنزة 1، رقم 47",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTAOUHID 1ER",
+    "NOM_ETABA": "التوحيد الأول",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة شعبان 1، رقم 616",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTAOUHID",
+    "NOM_ETABA": "التوحيد",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوفاء، رقم 258",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JARDINS DES CONNAISSANCES",
+    "NOM_ETABA": "رياض المعارف",
+    "AdresseL": "",
+    "AdresseA": "زنقة حسن كنون، رقم 9",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HALA ",
+    "NOM_ETABA": "هالة ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الرحمة، رقم 311",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OISEAUX DU PARADI 2",
+    "NOM_ETABA": "طيور الجنة 2",
+    "AdresseL": "NULL",
+    "AdresseA": "23 شارع خالد بن الوليد",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES PAPILLONS BLANCS",
+    "NOM_ETABA": "الفراشات البيضاء",
+    "AdresseL": "NULL",
+    "AdresseA": "04 زنقة الخرطوم",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE NENUPHAR BLANC",
+    "NOM_ETABA": "نينوفار بلون",
+    "AdresseL": "Avenue Okba Ben Nafie N°14",
+    "AdresseA": "شارع عقبة بن نافع، رقم 14",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAJD",
+    "NOM_ETABA": "المجد",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة عين العاطي، رقم 82",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL JIL ASSAID",
+    "NOM_ETABA": "الجيل الصاعد",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة صندوق الإيداع والتدبير ر",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRIHAB ",
+    "NOM_ETABA": "الرحاب",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المغرب الجديد، رقم 1091",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PETITE GENERATION",
+    "NOM_ETABA": "الجيل الصغير",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة واكريم، رقم 101",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JISR AL BARAIM",
+    "NOM_ETABA": "جسر البراعم",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة شعبان 2، رقم 192",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABABIL",
+    "NOM_ETABA": "أبابيل",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع عقبة بن نافع",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAJLAE",
+    "NOM_ETABA": "نجلاء",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوفاء، فيلا سارة، رقم 10",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL KHAYR",
+    "NOM_ETABA": "الخير",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة شعبان 1، رقم 963",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ECOLES ANNOKHBA",
+    "NOM_ETABA": "مدارس النخبة",
+    "AdresseL": "lot.maghrib al jadid 947",
+    "AdresseA": "947 تجزئة المغرب الجديد",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole al khalil",
+    "NOM_ETABA": "مؤسسة الخليل",
+    "AdresseL": "Lot. Maghreb El Jadid 1742 ",
+    "AdresseA": "تجزئة المغرب الجديد 1742",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAFORATE LARACHE ANNEXE",
+    "NOM_ETABA": "نافورة العرائش الملحقة",
+    "AdresseL": "Lot Smara N° 9 Larache",
+    "AdresseA": "تجزئة السمارة رقم 9 العرائش",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOURANNE",
+    "NOM_ETABA": "نوران",
+    "AdresseL": "LOTISSEMENT AIN LAATI N° 77",
+    "AdresseA": "تجزئة عين العاطي رقم 77",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ICHRAKAT ALARAEICH",
+    "NOM_ETABA": "إشراقة العرائش",
+    "AdresseL": "avenue bahnini n°194",
+    "AdresseA": "شارع باحنيني رقم 194",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL JILE ANACHIE",
+    "NOM_ETABA": "الجيل الناشئ",
+    "AdresseL": "Lot El Ghoubre N°19",
+    "AdresseA": "تجزئة الغوبري رقم 19",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAEM EL HAY",
+    "NOM_ETABA": "براعم الحي",
+    "AdresseL": "LOTISSEMENT CHAABANE 1 N° 456",
+    "AdresseA": "تجزئة شعبان 1 رقم 456",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rawnad",
+    "NOM_ETABA": "الروند",
+    "AdresseL": "NULL",
+    "AdresseA": "زاوية شارع المقاومة و شارع ابن",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NASSIM ATTOFOULA",
+    "NOM_ETABA": "نسيم الطفولة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة شعبان 1 رقم 568",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARCO DES COLORES",
+    "NOM_ETABA": "أركو دي كولورز",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الوفاء رقم 265",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "atfal arrihab",
+    "NOM_ETABA": "أطفال الرحاب",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المغرب الجديد رقم 122",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rabie alghad",
+    "NOM_ETABA": "ربيع الغد",
+    "AdresseL": "NULL",
+    "AdresseA": "  شارع ز1 تجزئة اسمارة رقم 38",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annassim",
+    "NOM_ETABA": "النسيم",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة فاس رقم 3",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEEMA LRC",
+    "NOM_ETABA": "النعمة لرس",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة السمارة رقم 224 العرائش",
+    "COMMUNE": "Larache ",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

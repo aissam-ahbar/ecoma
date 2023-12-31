@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MZOURA ",
+    "NOM_ETABA": "ثانوية  امزورة الإعدادية",
+    "AdresseL": "COMMUNE MZOURA",
+    "AdresseA": "جماعة مزورة",
+    "COMMUNE": "Mzoura",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MZOURA CENTRE",
+    "NOM_ETABA": " مركزية مزورة",
+    "AdresseL": "COMMUNE MZOURA",
+    "AdresseA": "حد مزورة",
+    "COMMUNE": "Mzoura",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI YAKHLEF CENTRE",
+    "NOM_ETABA": "مركزية بني يخلف",
+    "AdresseL": "DOUAR BNI YAKHLEF COMMUNE MZOURA",
+    "AdresseA": " دوار بني يخلف جماعة امزورة",
+    "COMMUNE": "Mzoura",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EDDCHIRA CENTRE",
+    "NOM_ETABA": "مركزية الدشرة",
+    "AdresseL": " EDDACHRA  COMMUNE MZOURA",
+    "AdresseA": "الدشرة جماعة امزورة",
+    "COMMUNE": "Mzoura",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEKRAIM CENTRE",
+    "NOM_ETABA": "مركزية الكرايم",
+    "AdresseL": "DOUAR LEKRAIM COMMUNE MZOURA",
+    "AdresseA": "م/م الكرايم جماعة امزورة",
+    "COMMUNE": "Mzoura",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

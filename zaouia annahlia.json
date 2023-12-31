@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN TOUMERTE",
+    "NOM_ETABA": "الثانوية الإعدادية ابن تومرت",
+    "AdresseL": "DOUAR IRIK ZAOUIA  ENNAHLIA ",
+    "AdresseA": "دوار إريق الزاوية النحلية   ",
+    "COMMUNE": "Zaouia Annahlia",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "L BORJ CENTRE",
+    "NOM_ETABA": "البرج المركزية",
+    "AdresseL": "DOUAR LBORJ COMMUNE ZAOUIA ANNAHLIA",
+    "AdresseA": "دوار البرج",
+    "COMMUNE": "Zaouia Annahlia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGDAL",
+    "NOM_ETABA": "أكدال",
+    "AdresseL": "DOUAR AGDAL COMMUNE ZAOUIA ANNAHLIA",
+    "AdresseA": "دوار أكدال",
+    "COMMUNE": "Zaouia Annahlia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNOUBOUGHE",
+    "NOM_ETABA": "النبوغ",
+    "AdresseL": "DOUAR IRIQ OULOUI COMMUNE ZAOUIA ANNAHLIA",
+    "AdresseA": "دوار  إريق العلوي",
+    "COMMUNE": "Zaouia Annahlia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALOUIJDANE",
+    "NOM_ETABA": "الوجدان",
+    "AdresseL": "DOUAR ALOUIJDANE COMMUNE ZAOUIA ENNAHLIA",
+    "AdresseA": "دوارالوجدان جماعة الزاوية النحلية",
+    "COMMUNE": "Zaouia Annahlia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S EL RIYAD",
+    "NOM_ETABA": "م.م. الرياض",
+    "AdresseL": "DOUAR idrazen SIDI HMAD OUHAMED",
+    "AdresseA": "دوار ادرازن سيدي احمد اوحامد",
+    "COMMUNE": "Sidi Hmad Ou Hamed",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI AHMED OUHAMED",
+    "NOM_ETABA": "م/م سيدي احمد اوحامد ",
+    "AdresseL": "commune sidi ahmed ouhamd",
+    "AdresseA": "جماعة سيدي احمد اوحامد ",
+    "COMMUNE": "Sidi Hmad Ou Hamed",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

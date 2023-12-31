@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUIZAKARNE ",
+    "NOM_ETABA": "الثانوية الإعدادية بويزكارن",
+    "AdresseL": "HAY EL MASSIRA",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED CHIKH",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الشيخ",
+    "AdresseL": "MUNICIPALITE BUIZAKARNE  PROVINCE GUELMIM",
+    "AdresseA": "بلدية بويزكارن",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY MASSIRA",
+    "NOM_ETABA": "المدرسة الابندائية حي المسيرة",
+    "AdresseL": "BOUIZAKARNE CENTRE",
+    "AdresseA": "بويزكارن المركز",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALLAL BEN ABDALLAH",
+    "NOM_ETABA": "المدرسة الابتدائية علال بن عبدالله",
+    "AdresseL": "B0UIZAKARNE CENTRE  PROVINCE GUELMIM",
+    "AdresseA": "بويزكارن المركز",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MADANI LAKHSASSI",
+    "NOM_ETABA": "المدرسة الابتدائية المدني الاخصاصي",
+    "AdresseL": "BUIZAKARNE CENTRE  PROVINCE GUELMIM",
+    "AdresseA": "بويزكارن المركز",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN 1",
+    "NOM_ETABA": "المدرسة الابتدائية الحسن الاول",
+    "AdresseL": "BUIZAKARNE CENTRE PROVINCE GUELMIM",
+    "AdresseA": "بويزكارن المركز",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AMAL",
+    "NOM_ETABA": "المدرسة الابتدائية الأمل",
+    "AdresseL": "QUARTIER AL AMAL 1 BOUIZAKARNE",
+    "AdresseA": "حي الأمل 1، بويزكارن",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "BoUIZAKARNE CENTRE",
+    "AdresseA": "مركز بويزكارن",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHEIKH  ALJAYH BEN CHEIKH  MAELAI",
+    "NOM_ETABA": "ثانوية الشيخ الجيه بن الشيخ ماء العينين التأهيلية",
+    "AdresseL": "HAY ELMASSIRA",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Bouizakarne",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENTASSAADYINE DE L ENSEIGNEMENT SCOLAIREE",
+    "NOM_ETABA": "مؤسسة السعديين للتعليم المدرسي الخصوصي",
+    "AdresseL": "av mohamed v",
+    "AdresseA": "شارع محمد الخامس  ",
+    "COMMUNE": "Bouizakarne ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASSAADYINE ANNEXEE",
+    "NOM_ETABA": "مؤسسة ملحقة السعديين للتعليم المدرسي الخصوصي",
+    "AdresseL": "HAY AL AMAL 1",
+    "AdresseA": "حي الأمل 1",
+    "COMMUNE": "Bouizakarne ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AMIN SAAD DE L ENSEIGNEMENT SCOLAIREE",
+    "NOM_ETABA": "مؤسسة أمين سعد للتعليم المدرسي الخصوصي ",
+    "AdresseL": "Rue  Abderrahman El bouizakarn",
+    "AdresseA": "زنقة عبدالرحمان البويزكارني حي",
+    "COMMUNE": "Bouizakarne ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DAR ALMAARIF DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة دار المعارف للتعليم المدرسي الخصوصي",
+    "AdresseL": "RUE REHALLE ELMSSKINI Quartier",
+    "AdresseA": "زنقة رحال المسكيني الحي الإدار",
+    "COMMUNE": "Bouizakarne ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  }
+]

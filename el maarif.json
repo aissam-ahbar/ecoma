@@ -1,0 +1,1212 @@
+[
+  {
+    "NOM_ETABL": "IBN HABOUS",
+    "NOM_ETABA": "ابن حبوس",
+    "AdresseL": "27 BD AL MASSIRA AL KHADRA  COMMUNE MAARIF",
+    "AdresseA": "27 شارع المسيرة الخضراء جماعة المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "RUE 1 LOTS LES ARENES MAARIF  COMMUNE MAARIF",
+    "AdresseA": "1 زنقة لزاغين المعاريف جماعة المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "1 RUE MUSTAPHAchoukri PITCHOU  COMMUNE MAARIF",
+    "AdresseA": " زنقة مصطفى  شكري بيتشو جماعة المعاريف1",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GHANDI",
+    "NOM_ETABA": "غاندي",
+    "AdresseL": "RUE ABOU HASSAN SAGHIR MAARIF  COMMUNE MAARIF",
+    "AdresseA": "زنقة أبو حسن صغير المعاريف جماعة المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KHADIJA OUM AL MOUMININE",
+    "NOM_ETABA": "خديجة أم المؤمنين",
+    "AdresseL": "1 RUE RODIN PALMIER   COMMUNE MAARIF",
+    "AdresseA": "1 زنقة النخيل جماعة المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "FATIMA  AAZIR ANNAJD",
+    "NOM_ETABA": "فاطمة اعزير النجد       ",
+    "AdresseL": "RUE FRANCOIS PONSARD  COMMUNE MAARIF",
+    "AdresseA": "زنقة فرانسوا بونصار جماعة المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S I B A W E I H",
+    "NOM_ETABA": "سيبويه",
+    "AdresseL": "Bd STENDHAL MAARIF  COMMUNE MAARIF",
+    "AdresseA": "شارع ستاندال- ج. المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AN NASR",
+    "NOM_ETABA": "النصر",
+    "AdresseL": "BD ANWAL   HAY RAJA COMMUNE MAARIF",
+    "AdresseA": "شارع انوال  حي الرجاء جماعة المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "02-mars",
+    "NOM_ETABA": "2 مارس",
+    "AdresseL": "AVENUE 2MARS  COMMUNE MAARIF",
+    "AdresseA": "شارع 2 مارس جماعة المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ATTABARI",
+    "NOM_ETABA": "الطبري",
+    "AdresseL": "76 RUE OUSSAMA BNOU ZAIDCOMMUNE MAARIF",
+    "AdresseA": "76 زنقة  أسامة بن زيد",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM MALIK",
+    "NOM_ETABA": "الإمام مالك",
+    "AdresseL": "RUE MUSTAPHA CHOKRI PETCHOUMAARIF",
+    "AdresseA": "زنقة مصطفى شكري المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAKINA BENT AL HOSSEIN",
+    "NOM_ETABA": "سكينة بنت الحسين",
+    "AdresseL": "RUE SOUMAYA DERB GHALEF  COMMUNE MAARIF",
+    "AdresseA": "زنقة سمية درب غلف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZINEB ANNAFZOUIA",
+    "NOM_ETABA": "زينب النفزاوية",
+    "AdresseL": "rue alkadissia derb ghalef maarif",
+    "AdresseA": "زنقة القاديسية درب غلف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA AMINA",
+    "NOM_ETABA": "لالة أمينة",
+    "AdresseL": "21 RUE KAFR KACEM DERB GHALEF COMMUNE MAARIF",
+    "AdresseA": "زنقة كفر قاسم درب غلف رقم 21 البيضاء",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNAKHIL MIXTE",
+    "NOM_ETABA": "النخيل بنين",
+    "AdresseL": "4 RUE BAITE LAHEM CITE PALMIERSMAARIF",
+    "AdresseA": "4 زنقة بيت لحم حي النخيل المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALBACHIRI  GARCONS",
+    "NOM_ETABA": "البشيري بنين",
+    "AdresseL": "RUE AHMED ELKADMIRICITE PLATEAU  COMMUNE MAARIF",
+    "AdresseA": "زنقة احمد القدميريحي البطحاء المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOUKAOUIM ALOUADIBI",
+    "NOM_ETABA": "المقاوم الوديبي",
+    "AdresseL": "RUE MALLARME CITE ALBATHA COMMUNE MAARIF",
+    "AdresseA": "زنقة ستيفان ملارمي فال فلوري المعاريف  البيضاء",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ACHIKH KHALIL",
+    "NOM_ETABA": "الشيخ الخليل",
+    "AdresseL": "32 BD ABDERRAHIM BOUABIDOUASIS  COMMUNE MAARIF",
+    "AdresseA": "شارع عبد الرحيم بوعبيد الوزيس 32",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID BEN ALOUALID",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "DERB BACHKOU ROUTE 109 COMMUNE MAARIF",
+    "AdresseA": "109 طريق مكة باشكو",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH GUENNOUN",
+    "NOM_ETABA": "عبد الله كنون",
+    "AdresseL": "BD ANOUAL ALLEE LA LYRE    COMMUNE MAARIF",
+    "AdresseA": "ممر لالير شارع أنوال  المعاريف ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL OUAHA",
+    "NOM_ETABA": "الواحة",
+    "AdresseL": "RUE AHMED KADMIRI COMMUNE MAARIF",
+    "AdresseA": "زنقة أحمد القدميري المعاريف",
+    "COMMUNE": "El Maarif ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ABDELLAH",
+    "NOM_ETABA": "الأمير مولاي عبد الله",
+    "AdresseL": "35 BD MODIBO KEITA COMMUNE MAARIF",
+    "AdresseA": "35 شارع موديبوكيتا المعاريف",
+    "COMMUNE": "El Maarif ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELKRIM LAHLOU",
+    "NOM_ETABA": "عبد الكريم لحلو",
+    "AdresseL": "147 BD MY IDRISS PREMIER COMMUNE MAARIF",
+    "AdresseA": "147 زنقة مولاي إدريس الأول المعاريف",
+    "COMMUNE": "El Maarif ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM AL BOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "RUE SAVOIE COMMUNE MAARIF",
+    "AdresseA": "زنقة سافوا المعاريف",
+    "COMMUNE": "El Maarif ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ZERYAB",
+    "NOM_ETABA": "زرياب",
+    "AdresseL": "BD IBN SINA MAARIF",
+    "AdresseA": "شارع ابن سينا",
+    "COMMUNE": "El Maarif ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "carree junior ",
+    "NOM_ETABA": "مربع الأشبال",
+    "AdresseL": "NULL",
+    "AdresseA": "زاوية زنقة روستاند و زنقة كارد",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bodour tofoula",
+    "NOM_ETABA": "بذور الطفولة",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة كورلي الوازيس",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE CHARLES PEGUY",
+    "NOM_ETABA": "ثانوية شارل بيكي",
+    "AdresseL": "NULL",
+    "AdresseA": "12 زنقة الرويسي الوازيس ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le roseau junior",
+    "NOM_ETABA": "لوروزو جينيور",
+    "AdresseL": "23 RUE DES TABORS OASIS",
+    "AdresseA": "زنقة طابور الوازيس 23",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNOUR 3 ",
+    "NOM_ETABA": "النور3",
+    "AdresseL": "3bd modibo keita",
+    "AdresseA": "شارع مودي بوكيتا",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la marelle",
+    "NOM_ETABA": "لاماريل",
+    "AdresseL": "17, Rue El Hatimi , Quartier P",
+    "AdresseA": "17 زنقة الحاتمي حي بلاطو",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "charlemagne",
+    "NOM_ETABA": "شارلمان",
+    "AdresseL": "NULL",
+    "AdresseA": "748 شارع مودي بوكيتا حي المستش",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al-atfal al-motamayezoun",
+    "NOM_ETABA": "الأطفال المتميزون الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "زاوية اكسياس وشارع طريق الجديد",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RENE magritte",
+    "NOM_ETABA": "ريني ماكريت",
+    "AdresseL": "15 rue Abderrahmane Abi Leila",
+    "AdresseA": "15 زنقة عبد الرحمان أبي ليلى",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Alexander Fleming",
+    "NOM_ETABA": "ألكسندر فليمينك",
+    "AdresseL": "8, rue 9 juillet, Franceville,",
+    "AdresseA": "زنقة 9 يوليوز فرانس فيل مقاطعة",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la cite ghandi",
+    "NOM_ETABA": "لاسيتي غاندي",
+    "AdresseL": "3, BD GHANDI MAARIF CASABLANCA",
+    "AdresseA": "3 شارع غاندي المعاريف رسم C/90",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HARMONIA",
+    "NOM_ETABA": "أرمونيا",
+    "AdresseL": "4 rue mabillon, val fleuri, ma",
+    "AdresseA": "رقم 4 شارع مابليون فال فلوري م",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "charles peguy",
+    "NOM_ETABA": "شارل بيكي",
+    "AdresseL": "RUE ROUISSE OASIS",
+    "AdresseA": "زنقة الرويس الوازيس",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les cracks",
+    "NOM_ETABA": "لكراك",
+    "AdresseL": "NULL",
+    "AdresseA": "9زنقة لرولط بولو ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Paul bert",
+    "NOM_ETABA": "بول بير",
+    "AdresseL": "45, Bvd Taddart 20100 Casablan",
+    "AdresseA": "45 شارع تادارت",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire pierre corneille",
+    "NOM_ETABA": "مجموعة مدارس بيير كورنيي",
+    "AdresseL": "9 rue abdesslam amir quartier ",
+    "AdresseA": "9 زنقة عبد السلام عامر حي البط",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Saint exupery",
+    "NOM_ETABA": "سان إكزوبيري",
+    "AdresseL": "6 Angle rue des Éperviers، Rue",
+    "AdresseA": "المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Royal Enseignement",
+    "NOM_ETABA": "المعهد الملكي العلمي",
+    "AdresseL": "N° 22, Rue Socrate - C. Maarif",
+    "AdresseA": "رقم 22، زنقة سقراط - ج. المعار",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ANFA",
+    "NOM_ETABA": "مجموعة مدارس انفا",
+    "AdresseL": "81, Bd Ghandi",
+    "AdresseA": "شارع غاندي رقم 81     ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL KHALIL",
+    "NOM_ETABA": "الخليل",
+    "AdresseL": "N° 223, Bd Bir Anzarane - C. M",
+    "AdresseA": "رقم 223، شارع بئر أنزران - ج. ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TAZI II",
+    "NOM_ETABA": "التازي 2",
+    "AdresseL": "Boulevard Ibnou Sina - C. Maar",
+    "AdresseA": "شارع ابن سينا - ج. المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Le Cedre",
+    "NOM_ETABA": "مجموعة مدارس الأرز",
+    "AdresseL": "16/18/20 Mohamed Bahi Palmier ",
+    "AdresseA": " زنقة احمد باهي 16 18 20 حي ال",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AGDAL",
+    "NOM_ETABA": "اكدال",
+    "AdresseL": "N° 7, Rue Ahmed el kadmiri, Ci",
+    "AdresseA": "  زنقة أحمد القدميري  الرقم 7 ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT EN-NOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "Bd. Bir Anzarane, Rue Kadi Iya",
+    "AdresseA": "شارع بئر أنزران، زنقة القاضي إ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE YASSAMINE",
+    "NOM_ETABA": "ياسمين",
+    "AdresseL": "N° 04 Bis, Impasse de la Rue d",
+    "AdresseA": "رقم 04 مكرر، زنقة لابي، الوازي",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABDELMOUMEN",
+    "NOM_ETABA": "عبد المومن",
+    "AdresseL": "N° 2, Allée des pleades France",
+    "AdresseA": "رقم 2،ليبلياد، فرانسفيل - ج. ا",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ROMANDIE",
+    "NOM_ETABA": "روماندي",
+    "AdresseL": "N° 4, Rue Abou Hassan Assghir ",
+    "AdresseA": "رقم 4، زنقة أبو الحسن الصغير -",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Errachidia",
+    "NOM_ETABA": "مؤسسة الرشيدية",
+    "AdresseL": "N° 97, Boulevard Anwal - C. Ma",
+    "AdresseA": "رقم 97، شارع أنوال - ج. المعار",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE LA PLEIADE",
+    "NOM_ETABA": "الديوان",
+    "AdresseL": "N° 3, Rue La Mutualité, Quarti",
+    "AdresseA": "رقم 3، زنقة التعاضدية، حي راسي",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution En-nour",
+    "NOM_ETABA": "معهد النور",
+    "AdresseL": "Boulevard Bir Anzarane, Rue Ca",
+    "AdresseA": "شارع بئر أنزران، زنقة القاضي إ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Tazi 2e",
+    "NOM_ETABA": "مؤسسة التازي 2 الحرة",
+    "AdresseL": "2bd ibnou sina -",
+    "AdresseA": "   شارع ابن سينا رقم 2 الدار ا",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Balabil du Palmier",
+    "NOM_ETABA": "مدرسة البلابل",
+    "AdresseL": "N° 17 bis, Rue Al Khansa, Hay ",
+    "AdresseA": "رقم 17 مكرر، زنقة الخنساء، حي ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE CEDRE",
+    "NOM_ETABA": "الارز",
+    "AdresseL": "19 bd mohamed bahi",
+    "AdresseA": "رقم 19 شارع محمد باهي",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole al madina ghandi",
+    "NOM_ETABA": "مدرسة المدينة غاندي",
+    "AdresseL": "N° 36 Bis, Boulevard Ghandi - ",
+    "AdresseA": "رقم 36 مكرر، شارع غاندي  ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Carmel Saint Joseph",
+    "NOM_ETABA": "مدرسة كارمل سان جوزيف",
+    "AdresseL": "N° 56, Boulevard Abderrahim Bo",
+    "AdresseA": "رقم 56، شارع عبد الرحيم بوعبيد",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Quartier Oasise",
+    "NOM_ETABA": "مدرسة حي الوازيس الخاصة",
+    "AdresseL": "6, Rue  Des Rossignols, Bd. Ab",
+    "AdresseA": " رقم 6 زنقة دي روسينيول، شارع ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G SCOLAIRE RAHMOUNI POTENTIEL",
+    "NOM_ETABA": "الرحموني الجهد",
+    "AdresseL": "N° 10, Rue Des Roitelets, Oasi",
+    "AdresseA": "رقم 10، زنقة ارواتلي، الوازيس ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Andaloussi",
+    "NOM_ETABA": "مدرسة الأندلسي",
+    "AdresseL": "N° 36, Rue LAARBI DOUGHMI fran",
+    "AdresseA": "36 .زنقة العربي الدغمي  فرانس ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE YASSAMINE  MATERNELLE",
+    "NOM_ETABA": "م.م.ياسمين -التعليم الأولي-",
+    "AdresseL": "4 BIS RUE DE LA PIE RIVIERA OA",
+    "AdresseA": "4 زنقة الهدهد ريفييرا الوازيس",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COURS SUBRINI",
+    "NOM_ETABA": "سوبريني",
+    "AdresseL": "N° 13, Stephane Malarmé, Derb ",
+    "AdresseA": "رقم 13، ستيفان ملارمي، درب غلف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Abdelmoumene",
+    "NOM_ETABA": "عبد المومن الحرة",
+    "AdresseL": "N° 2, Avenue Des Pleiades Fran",
+    "AdresseA": "رقم 2، نهج ليبلياد فرانس فيل -",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Dar El Hanane",
+    "NOM_ETABA": "مدرسة دار الحنان",
+    "AdresseL": "N° 29, Allée Chant Des Oiseaux",
+    "AdresseA": "رقم 29، زنقة غناء الطيور، ليرم",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Dar El Hanane - Annexe",
+    "NOM_ETABA": "مدرسة دار الحنان - ملحقة",
+    "AdresseL": "N° 39, Allée Chant des Oiseaux",
+    "AdresseA": "رقم 39، ممرغناء الطيور، ليرميط",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Omar El Farouk",
+    "NOM_ETABA": "عمر الفاروق",
+    "AdresseL": "Bd el hachimi el filali Ex.Tad",
+    "AdresseA": "شارع الهاشمي الفيلالي تادارت س",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Bennis El Khayame",
+    "NOM_ETABA": "مؤسسة بنيس الخيام الخصوصية",
+    "AdresseL": "N° 40, Rue de l herault Polo -",
+    "AdresseA": "رقم 40، زنقة ليغولت بولو - ج. ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Tahar Sebti",
+    "NOM_ETABA": "مؤسسة الطاهر السبتي",
+    "AdresseL": "N° 100, Boulevard Modibokeita ",
+    "AdresseA": "رقم 100، شارع موديبوكيتا - ج. ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "A.J.F.M. et Le Petit Monde",
+    "NOM_ETABA": "جمعية مستقبل الفتاة المغربية والعالم الصغير",
+    "AdresseL": "N° 32, Angle Rue Saon et Liser",
+    "AdresseA": "رقم 32، زاوية لصاون و ليزير ، ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Charles de Foucaud",
+    "NOM_ETABA": "مؤسسة شارل فوكو",
+    "AdresseL": "N° 115, Boulevard My Idriss 1 ",
+    "AdresseA": "رقم 115، شارع مولاي إدريس الأو",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAZUR JUNIOR",
+    "NOM_ETABA": "لازور جينيور",
+    "AdresseL": "N° 12, Rue La Vezere, Polo - C",
+    "AdresseA": "رقم 12، زنقة لافسير، بولو - ج.",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Abrar",
+    "NOM_ETABA": "مدرسة الأبرار",
+    "AdresseL": "N° 25, Allée de Lion, L Hermit",
+    "AdresseA": "رقم 25، شارع الأسد، ليرميطاج، ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Arnone De Moy",
+    "NOM_ETABA": "أرنون دمواي",
+    "AdresseL": "N° 3&7 Rue de Roussillon - C. ",
+    "AdresseA": "رقم 3، زنقة روسيون - ج. المعار",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION JABRIE",
+    "NOM_ETABA": "الجابري",
+    "AdresseL": "N° 5, Rue d Arménie, Quartier ",
+    "AdresseA": "رقم 5، زنقة أرمينيا، حي المستش",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHARLES BERNARD",
+    "NOM_ETABA": "مؤسسة شارل برنار الخصوصية",
+    "AdresseL": "N° 72, Avenue de l Hermitage -",
+    "AdresseA": "رقم 72، شارع لارميطاج - ج. الم",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR AL INBIAAT",
+    "NOM_ETABA": "نور الانبعاث",
+    "AdresseL": "N° 11, Rue Golo Polo - C. Maar",
+    "AdresseA": "رقم 11، زنقة كولو بولو - ج. ال",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mamma Habiba",
+    "NOM_ETABA": "ماما حبيبة",
+    "AdresseL": "Route Secondaire 109, Bachkou ",
+    "AdresseA": "الطريق الثانوية 109، باشكو - ج",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES  MALAIKA",
+    "NOM_ETABA": "ملايكة",
+    "AdresseL": "N° 5, Angle Bd. Ghandi et Rue ",
+    "AdresseA": "رقم 5، زاوية شارع غاندي و زنقة",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL HIKMA",
+    "NOM_ETABA": "الحكمة",
+    "AdresseL": "N° 24, Rue Amyot, Quartier Des",
+    "AdresseA": "رقم 24، زنقة أميوط، حي المستشف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CAMILLE CLAUDEL",
+    "NOM_ETABA": "كاميل كلودل الخصوصية",
+    "AdresseL": "bd hachimi el filali n° 125, B",
+    "AdresseA": "شارع الهاشمي الفلالي رقم 125 ب",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Al Hakim",
+    "NOM_ETABA": "معهد الحكيم",
+    "AdresseL": "Boulevard Modibokeita, Bagatel",
+    "AdresseA": "شارع موديبوكيتا، بكاطيل - ج. ا",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Eddaoudia",
+    "NOM_ETABA": "مؤسسة الداودية",
+    "AdresseL": "Angle Bd. Anoual et Bd. Alexan",
+    "AdresseA": "زاوية شارع أنوال و شارع الإسكن",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Le Roseau",
+    "NOM_ETABA": "مدرسة لوروزو",
+    "AdresseL": "17,Rue lakamata loisis c-maari",
+    "AdresseA": "17,زنقة لاكرامطا الوازيس ج-الم",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Ribambelle 1",
+    "NOM_ETABA": "لاربيامبيل 1",
+    "AdresseL": "N° 15, angle Rue de la securit",
+    "AdresseA": "15،زنقة الضمان الاجتماعي و أبو",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Ribambelle 2",
+    "NOM_ETABA": "لاريبامبيل 2",
+    "AdresseL": "N° 34, Angle Avenue Hermitage ",
+    "AdresseA": "رقم 34، زاوية شارع لارميطاج و ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Paul eluard",
+    "NOM_ETABA": "بول إلوار",
+    "AdresseL": "N° 8, Rue Des Flammants Rivier",
+    "AdresseA": "رقم 8، زنقة فلامان ريفييرا - ج",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MANHAL",
+    "NOM_ETABA": "المنهل",
+    "AdresseL": "N° 40, Boulevard Nador Polo - ",
+    "AdresseA": "رقم 40، شارع الناظور بولو - ج.",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Le Sommet",
+    "NOM_ETABA": "مجموعة مدارس القمة",
+    "AdresseL": "N° 27 Bis, Allée De Persée - C",
+    "AdresseA": "رقم 27 مكرر، ممر دي بيرسي - ج.",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tournesol",
+    "NOM_ETABA": "زهرة الشمس",
+    "AdresseL": "N° 1, Rue De La Pie Oasis .",
+    "AdresseA": "رقم 1، زنقة لابي الوازيس ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Taiba",
+    "NOM_ETABA": "مؤسسة طيبة",
+    "AdresseL": "N° 77, Rue Abou Dabi Oasis - C",
+    "AdresseA": "رقم 77، زنقة أبو ظبي الوازيس -",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L Ile Aux Trésors",
+    "NOM_ETABA": "جزيرة الكنوز",
+    "AdresseL": "N° 59, Rue France ville, Oasis",
+    "AdresseA": "رقم 59، زنقة فرانسفيل، الوازيس",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Lutins",
+    "NOM_ETABA": "لي لوتان",
+    "AdresseL": "N° 17 Bis, Rue Des Moineau, Oa",
+    "AdresseA": "رقم 17 مكرر، زنقة موانو، الواز",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Khansa",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "N° 13, Rue Al Khansa, Quartier",
+    "AdresseA": "رقم 13، زنقة الخنساء، حي النخي",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole La Fontaine",
+    "NOM_ETABA": "روض الساقية",
+    "AdresseL": "N 12. RUE IBNOU KHILLIKANE , C",
+    "AdresseA": "12, زنقة خلكان ج.المعاريف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE RIVIERA ASSALAM",
+    "NOM_ETABA": "ريفيرا السلام",
+    "AdresseL": "36, Rue Clément Marot, Quartie",
+    "AdresseA": "زنقة كليمان مارو، حي ريفييرا -",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Babarland",
+    "NOM_ETABA": "مؤسسة بابارلاند",
+    "AdresseL": "N° 12, Rue De Lucerne, Quartie",
+    "AdresseA": "رقم 12، زنقة لوسيرن، حي المستش",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INTERNATONAL SCOOL OF MORROCCO",
+    "NOM_ETABA": " انترناسيونال سكول أوف مروكو",
+    "AdresseL": "N° 3, Impasse Jules Gros, Oasi",
+    "AdresseA": "رقم 3، ممر جيل غرو الوازيس الم",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE GEORGE O NEIL II",
+    "NOM_ETABA": "مجموعة مدارس جورج أونيل 2",
+    "AdresseL": "8, rue saria ibnou zounaim qua",
+    "AdresseA": " زنقة سارية ابن زنيم الرقم 8 ح",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARHOUMY",
+    "NOM_ETABA": "البرهومي",
+    "AdresseL": "14 RUE BEN JILALI TAJ EDDINE M",
+    "AdresseA": "زنقة بن الجيلالي تاج الدين الم",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES PETITES MAINS",
+    "NOM_ETABA": "الأيادي الصغيرة",
+    "AdresseL": "casa",
+    "AdresseA": "الدار البيضاء",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Petits Coeurs",
+    "NOM_ETABA": "القلوب الصغيرة",
+    "AdresseL": "N° 4, Résidence Al Bayda, Bd. ",
+    "AdresseA": "رقم 4، اقامة البيضاء، شارع يعق",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ECOLES LA PALMERAIE",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "20 Rue ABOU ISHAK CHIRAZI  - M",
+    "AdresseA": "زنقة أبو اسحاق الشيرازي رقم 20",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Caramel",
+    "NOM_ETABA": "كراميل",
+    "AdresseL": "N° 45, Bd Ghandi, Rue Ibn Haze",
+    "AdresseA": "رقم45، شارع غاندي، زنقة ابن حز",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRAHIK",
+    "NOM_ETABA": "الرحيق",
+    "AdresseL": "2 RUE DE TARNE BD NADOR  CASA",
+    "AdresseA": "2 زنقة طارن الناظور البيضاء",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAWD AL AZHAR",
+    "NOM_ETABA": "روض الأزهار",
+    "AdresseL": "Boulevard Yacoub El Mansour, R",
+    "AdresseA": "شارع يعقوب المنصور إقامة البيض",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADAA ALMAARIFA",
+    "NOM_ETABA": "فضاء المعرفة",
+    "AdresseL": "44 rue imam awzaii",
+    "AdresseA": "زنقة اإمام الأوزاعي44 ، المعار",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LOUIS BERTRAND",
+    "NOM_ETABA": "لويس برطران",
+    "AdresseL": "80 rue des Papillons OASIS",
+    "AdresseA": " زنقة الفراشات رقم 80 الوازيس ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES COCONS",
+    "NOM_ETABA": " لي كوكون",
+    "AdresseL": "53 rue ibnou hazm lotissement ",
+    "AdresseA": "رقم 53 زنقة ابن حزم شانتيمار ا",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "yassamine oasis",
+    "NOM_ETABA": "ياسمين  الوازيس",
+    "AdresseL": "7 rue de la pie riviera oasis ",
+    "AdresseA": "زنقة 7 لابي ريفييرا الوازيس ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la mission",
+    "NOM_ETABA": "المهمة",
+    "AdresseL": "BOULEVARD ABDERRAHIM BOUABID N",
+    "AdresseA": "92 شارع عبد الرحيم بوعبيد الوا",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LEON L'AFRICAIN ELEMENTAIRE VELODROME",
+    "NOM_ETABA": "ليون أفريكان إلمونتير فيلودروم",
+    "AdresseL": "Angle Rue ibn Sanaani et Rue O",
+    "AdresseA": "زاوية زنقة ابن الصنعاني و زنقة",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "charlemagne 2",
+    "NOM_ETABA": "شرلمان 2",
+    "AdresseL": "2.Rue de l imam boussairi, Fra",
+    "AdresseA": "حي فرانس فيل زاوية زنقة الإمام",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LE CEDRE3",
+    "NOM_ETABA": "مجموعة مدارس لوسيدر3",
+    "AdresseL": "40, boulevard Mohamed Abdou an",
+    "AdresseA": "40 شارع محمد عبدو زاوية زنقة ز",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DYNAMIQUE",
+    "NOM_ETABA": "ديناميك",
+    "AdresseL": "NULL",
+    "AdresseA": "3 زنقة لاسيكال، حي الوازيس أنف",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les creatifs",
+    "NOM_ETABA": "لي كرياتيف",
+    "AdresseL": "24 Rue Imam Mouslim (Angle Ibr",
+    "AdresseA": "زاوية زنقة إمام مسلم وزنقة ارب",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire jean bodel ",
+    "NOM_ETABA": "مجموعة مدارس جان بودل",
+    "AdresseL": "NULL",
+    "AdresseA": " شارع ستندال 15",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire avicenna",
+    "NOM_ETABA": "مجموعة مدارس أفيسينا",
+    "AdresseL": "5 RUE DES PALMIERS , Oasis",
+    "AdresseA": "5 ، زنقة النخيل ، الوازيس",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HECTOR MALOT",
+    "NOM_ETABA": "هيكطور مالو",
+    "AdresseL": "NULL",
+    "AdresseA": "40 زنقة عبد الرزاق حكم- فرانس ",
+    "COMMUNE": "El Maarif",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

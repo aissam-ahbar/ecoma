@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDELSAN",
+    "NOM_ETABA": "الثانوية الإعدادية ادلسان",
+    "AdresseL": "COMMUNE IDELSANE",
+    "AdresseA": "جماعة ادلسان",
+    "COMMUNE": "Idelsane",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S IDELSANE",
+    "NOM_ETABA": "م.م. ادلسان",
+    "AdresseL": "IDELSANE SKOURA  OUARZAZATE",
+    "AdresseA": "إدلسان  سكورة  ورزازات",
+    "COMMUNE": "Idelsane",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ELHOURIA",
+    "NOM_ETABA": " م.م. الحرية",
+    "AdresseL": " Idelsane",
+    "AdresseA": "ادلسان",
+    "COMMUNE": "Idelsane",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

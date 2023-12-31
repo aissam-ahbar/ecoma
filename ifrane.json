@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ARZ",
+    "NOM_ETABA": "ثانوية الأرز الاعدادية",
+    "AdresseL": "BOULEVARD MOHAMED VI cité ryad IFRANE",
+    "AdresseA": "شارع محمد السادس حي الرياض ",
+    "COMMUNE": "Ifrane",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  RIAD",
+    "NOM_ETABA": "مدرسة الرياض الإبتدائية",
+    "AdresseL": "B P 188 Hay Riad  ifrane",
+    "AdresseA": "حي الرياض ص ب 188 إفران",
+    "COMMUNE": "Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ASSALAM",
+    "NOM_ETABA": "مدرسة السلام الإبتدائية",
+    "AdresseL": "HAY ASSALAM IFRANE",
+    "AdresseA": "حي السلام إفران",
+    "COMMUNE": "Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANNASR",
+    "NOM_ETABA": "مدرسة النصر الابتدائية",
+    "AdresseL": "HAY EL ATLAS IFRANE",
+    "AdresseA": "حي الأطلس إفران",
+    "COMMUNE": "Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BIR ANZARANE",
+    "NOM_ETABA": "مدرسة بئر أنزران الإبتدائية",
+    "AdresseL": "HAY BIR INZARANE  COMMUNE IFRANE",
+    "AdresseA": "حي بئر أنزران إفران",
+    "COMMUNE": "Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL AL FASSI",
+    "NOM_ETABA": "ثانـويــة عـلال الفـــاسي الـتـــأهيــلـيـــة",
+    "AdresseL": "QUARTIER  AL ATLAS IFRANE",
+    "AdresseA": "حي الاطلس إفران",
+    "COMMUNE": "Ifrane",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Donald's School Ifrane",
+    "NOM_ETABA": "دونالد سكول إفران",
+    "AdresseL": "Villa Sounia, Rue Narjis Hay R",
+    "AdresseA": "فيلا سونيا، طريق النرجس حي الر",
+    "COMMUNE": "Ifrane ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSANAOUBAR",
+    "NOM_ETABA": "الصنوبر",
+    "AdresseL": "Zankat Ecole de Police, Hay Ch",
+    "AdresseA": "زنقة مدرسة الشرطة، حي الشباب",
+    "COMMUNE": "Ifrane ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lina School",
+    "NOM_ETABA": "لينة سكول",
+    "AdresseL": "hay el arz n°5 ifrane ",
+    "AdresseA": " حي الأرز رقم 5 افران",
+    "COMMUNE": "Ifrane ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le murier",
+    "NOM_ETABA": "لوموريي",
+    "AdresseL": "BELLE VUE 3",
+    "AdresseA": "رقم 140 المنظر الجميل 3",
+    "COMMUNE": "Ifrane ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ِchaperon rouge",
+    "NOM_ETABA": "شابوغون غوج",
+    "AdresseL": "hay riad rue tarik ibn ziyad i",
+    "AdresseA": "حي الرياض شارع طارق بن زياد إف",
+    "COMMUNE": "Ifrane ",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

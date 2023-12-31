@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ACHAHID EL HAJ JILALI SAQI",
+    "NOM_ETABA": "ثا نوية الشهيد الحاج الجيلالي الساقي الإعدادية",
+    "AdresseL": "LYCEE lycee COLLEGIAL achahid el haj jilali saqi",
+    "AdresseA": "ثانوية الشهيد الحاج الجيلالي الساقي الاعدادية",
+    "COMMUNE": "Lakhzazra",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LEKHZAZRA CENTRE",
+    "NOM_ETABA": "مركزية الخزازرة",
+    "AdresseL": " COMMUNE LEKHZAZRA",
+    "AdresseA": "جماعة الخزازرة",
+    "COMMUNE": "Lakhzazra",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KASBA OD.HADDA CENTRE",
+    "NOM_ETABA": "مركزية قصبة ولد حادة",
+    "AdresseL": "DOUAR OULAD BOUAAZA COMMUNE LEKHZAZRA",
+    "AdresseA": "دوار اولاد بوعزة جماعة الخزازرة",
+    "COMMUNE": "Lakhzazra",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN EL BAIDA CENTRE",
+    "NOM_ETABA": "مركزية العين البيضاء",
+    "AdresseL": "elain elbaida COMMUNE LAKHZAZRA",
+    "AdresseA": "العين البيضاء جماعة الخزازرة",
+    "COMMUNE": "Lakhzazra",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

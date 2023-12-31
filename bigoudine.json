@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS BIGOUDINE ",
+    "NOM_ETABA": "م.م بيكودين",
+    "AdresseL": "BARAGE ABDELMOUMEN CBIGOUDINE",
+    "AdresseA": "سد عبد المومن",
+    "COMMUNE": "Bigoudine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 11 JANVIER",
+    "NOM_ETABA": "         م.م يناير11",
+    "AdresseL": "DOUAR   TARWA YASSINE CBIGOUDIne",
+    "AdresseA": "د.تارواياسين.ج.بيكودين ",
+    "COMMUNE": "Bigoudine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALWAFAA",
+    "NOM_ETABA": "م.م الوفاء",
+    "AdresseL": "DOUAR   TASSADAMTE CBIGOUDINE",
+    "AdresseA": "د. تسدامت",
+    "COMMUNE": "Bigoudine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

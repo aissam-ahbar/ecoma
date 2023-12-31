@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI INANE EL MARINI",
+    "NOM_ETABA": "الثانوية الإعدادية أبي عنان المريني",
+    "AdresseL": "CENTRE CR EL ATEF OULED MHAMED",
+    "AdresseA": " مركز جماعة العطف اولاد امحمد",
+    "COMMUNE": "El Atef",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DRIBINA",
+    "NOM_ETABA": "ادريبينة",
+    "AdresseL": "COMMUNE ELATEF CERCLE DEBDOU",
+    "AdresseA": "جماعة العطف دائرة دبدو",
+    "COMMUNE": "El Atef",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

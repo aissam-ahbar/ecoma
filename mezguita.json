@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL  MEZGUITA",
+    "NOM_ETABA": "الثانوية الإعدادية مزكيطة ",
+    "AdresseL": "Commune Mezguita agdz zagora",
+    "AdresseA": "جماعة مزكيطة - مركز أكــــــــــدز",
+    "COMMUNE": "Mezguita",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAMNOUGALTE",
+    "NOM_ETABA": "م.م تمنوكالت",
+    "AdresseL": "DOUAR TAMNOUGALTE CMEZGUITA",
+    "AdresseA": "تمنوكالت",
+    "COMMUNE": "Mezguita",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALATE",
+    "NOM_ETABA": "م.م ثلاث",
+    "AdresseL": "DOUAR TALATE CMAZGUITA",
+    "AdresseA": "ثلاث/ مزكيطة",
+    "COMMUNE": "Mezguita",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BEN SINA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن سينا",
+    "AdresseL": "MEZGUITA  AGREZ",
+    "AdresseA": "مزكيطة -  أكدز",
+    "COMMUNE": "Mezguita",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

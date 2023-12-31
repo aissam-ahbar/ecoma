@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULOUYA",
+    "NOM_ETABA": "الثانوية الإعدادية ملوية",
+    "AdresseL": "DOUAR TANDIT 16 COMMUNE FRITISSA",
+    "AdresseA": "دوار تانديت 16 جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ASSALAM",
+    "NOM_ETABA": "الثانوية الإعدادية السلام",
+    "AdresseL": "FRITISSA",
+    "AdresseA": "افريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TANDIT 1",
+    "NOM_ETABA": "تانديت 1",
+    "AdresseL": "DOUAR TANDIT 18 COMMUNE LAFRITISSA",
+    "AdresseA": "دوار تانديت 18 جماعة لقريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANDIT 22",
+    "NOM_ETABA": "تانديت22",
+    "AdresseL": "DOUAR TANDIT 22 COMMUNE LAFRITISSA",
+    "AdresseA": "دوار تانديت 22 جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANDIT 30",
+    "NOM_ETABA": "تانديت30",
+    "AdresseL": "DOUAR TANDIT 30 COMMUNE FRITISSA",
+    "AdresseA": "دوار تانديت30 جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANDIT 26",
+    "NOM_ETABA": "تانديت26",
+    "AdresseL": "DOUAR TANDIT 26 COMMUNE FRITISSA",
+    "AdresseA": "دوار تانديت26 جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AAYOUCH",
+    "NOM_ETABA": "عيوش",
+    "AdresseL": "DOUAR AAYOUCH COMMUNE FRITISSA",
+    "AdresseA": "دوار عيوش جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESKHOUNA",
+    "NOM_ETABA": "السخونة",
+    "AdresseL": "DOUAR ESKHOUNA COMMUNE FRITISSA",
+    "AdresseA": "دوار السخونة جماعة الفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANDIT 11",
+    "NOM_ETABA": "تانديت 11",
+    "AdresseL": " TANDIT 11 BP 67COMMUNE FRITISSA",
+    "AdresseA": " تانديت11  ص.ب 67جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANDIT 14",
+    "NOM_ETABA": "تانديت 14",
+    "AdresseL": "DOUAR TANDIT 14 COMMUNE FRITISSA",
+    "AdresseA": "دوار تانديت 14 جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BELSAFRAT",
+    "NOM_ETABA": "بلصفرات",
+    "AdresseL": "DOUAR BELSAFRAT COMMUNE FRITISSA",
+    "AdresseA": "دوار بلصفرات جماعة افريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAFRITISSA",
+    "NOM_ETABA": "لفريطيسة",
+    "AdresseL": "DOUAR LAFRITISSA COMMUNE FRITISSA",
+    "AdresseA": "دوار لفريطيسة جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AAYD",
+    "NOM_ETABA": "اولاد عايد",
+    "AdresseL": "DOUAR OULAD AAYD COMMUNE FRITISSA",
+    "AdresseA": "دوار اولاد عايد جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BELKASMAT",
+    "NOM_ETABA": "بلقاسمات",
+    "AdresseL": "DOUAR BELKASMAT COMMUNE FRITISSA",
+    "AdresseA": "دوار بلقاسمات جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RAGGOU",
+    "NOM_ETABA": "ركو",
+    "AdresseL": "DOUAR RAGGOU COMMUNE FRITISSA",
+    "AdresseA": "دوار ركو جماعة لفريطيسة",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OMAR IBN AL KHATTAB",
+    "NOM_ETABA": "الثانوية التأهيلية عمر بن الخطاب",
+    "AdresseL": "TANDIT 19 COMMUNE FRITISSA  BOULMANE",
+    "AdresseA": "تانديت 19 جماعة افريطيسة  اقليم بولمان",
+    "COMMUNE": "Fritissa",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

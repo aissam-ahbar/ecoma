@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AJROUM",
+    "NOM_ETABA": "الثانوية الإعدادية ابن اجروم",
+    "AdresseL": "JAHJOUH EL HAJEB",
+    "AdresseA": "جحجوح الحاجب",
+    "COMMUNE": "Jahjouh",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL INBIAT",
+    "NOM_ETABA": "الانبعاث",
+    "AdresseL": "ecole el inbiat sabet JAJOUH",
+    "AdresseA": "مدرسة الانبعاث سبت جحجوح",
+    "COMMUNE": "Jahjouh",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JAHJOUH",
+    "NOM_ETABA": "جحجوح",
+    "AdresseL": "JAHJOUH",
+    "AdresseA": "جحجوح",
+    "COMMUNE": "Jahjouh",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL YOUSSOUFIA",
+    "NOM_ETABA": "اليوسفية",
+    "AdresseL": "COOPERATIVE YOUSSOUFIA JAHJOUH",
+    "AdresseA": "تعاونية اليوسفية جحجوح",
+    "COMMUNE": "Jahjouh",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT JAHJOUH",
+    "NOM_ETABA": "ثانوية جحجوح التأهيلية",
+    "AdresseL": "JAHJOUH",
+    "AdresseA": "جحجوح",
+    "COMMUNE": "Jahjouh",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

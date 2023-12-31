@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TENSIFT",
+    "NOM_ETABA": "الثانوية الإعدادية تانسيفت",
+    "AdresseL": "DOUAR OULAD BELAAGUID CR OUHAT SIDI BRAHIM MRKECH",
+    "AdresseA": "دوار اولاد بلعقيد جماعة واحة سيدي ابراهيم",
+    "COMMUNE": "Ouahat Sidi Brahim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL HOUSNA",
+    "NOM_ETABA": "الثانوية الإعدادية الحسنى",
+    "AdresseL": "CR OUAHAT SIDI BRAHIM",
+    "AdresseA": "جماعة واحة سيدي ابراهيم",
+    "COMMUNE": "Ouahat Sidi Brahim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULAD BELAAGUID CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس أولاد بلعكيد المركزية",
+    "AdresseL": "DOUAR OULAD BELAAGUID CR OUHAT SIDI BRAHIM MRKECH",
+    "AdresseA": "دوار أولاد بلعكيد جماعة واحة سيدي إبراهيم",
+    "COMMUNE": "Ouahat Sidi Brahim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD BEN RAHMOUNE CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس اولاد بنرحمون المركزية",
+    "AdresseL": "DOUAR OULAD BEN RAHMOUNE CR OUHAT SIDI BRAHIM",
+    "AdresseA": "دوار اولاد بنرحمون جماعة واحة سيدي ابراهيم",
+    "COMMUNE": "Ouahat Sidi Brahim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL OUAHA",
+    "NOM_ETABA": "مدرسة الواحة",
+    "AdresseL": "OULED BELLAGUID CR OUAHAT SIDI BRAHIM MRKECH",
+    "AdresseA": "اولاد بلعكيد ج, واحة سيدي ابراهيم مراكش",
+    "COMMUNE": "Ouahat Sidi Brahim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MANHAL",
+    "NOM_ETABA": "مدرسة المنهل",
+    "AdresseL": "OUAHAT SIDI BRAHIM",
+    "AdresseA": "واحة سيدي إبراهيم",
+    "COMMUNE": "Ouahat Sidi Brahim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL OUAHA",
+    "NOM_ETABA": "الثانوية التأهيلية الواحة ",
+    "AdresseL": "OUAHAT SIDI BRAHIM",
+    "AdresseA": "واحة سيدي إبراهيم",
+    "COMMUNE": "Ouahat Sidi Brahim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSMENT zahrat al ouaha ENS SCO",
+    "NOM_ETABA": "مؤسسة زهرة الواحة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Wahat sidi Brahim Belaaguid",
+    "AdresseA": "دوار بالعكيد واحة سيدي ابراهيم",
+    "COMMUNE": "Ouahat Sidi Brahim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

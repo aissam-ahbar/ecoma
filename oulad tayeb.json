@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOAD IBN JABAL",
+    "NOM_ETABA": "الثانوية الإعدادية معاذ بن جبل",
+    "AdresseL": "commune rural oulad tayeb",
+    "AdresseA": "الجماعة القروية معاذ بن جبل",
+    "COMMUNE": "Oulad Tayeb",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire OULED TYEB",
+    "NOM_ETABA": "م م أولاد الطيب المركز",
+    "AdresseL": "ROUTE Imouzar Km95 SAIS",
+    "AdresseA": "طريق ايموزار كلم 9,5 سايس",
+    "COMMUNE": "Oulad Tayeb",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire OULED TAYEB SOUFLA",
+    "NOM_ETABA": "م م أولاد الطيب السفلى",
+    "AdresseL": "RTE DIMOUZZER KM 8 SAIS",
+    "AdresseA": "طريق إيموزار كلم 8",
+    "COMMUNE": "Oulad Tayeb",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire OULED BOUABID",
+    "NOM_ETABA": "م م أولاد بوعبيد المركز",
+    "AdresseL": "OULED bouabid  essmae",
+    "AdresseA": "أولاد بوعبيد الصمعة",
+    "COMMUNE": "Oulad Tayeb",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire HCHALFA",
+    "NOM_ETABA": "م م الحشالفة",
+    "AdresseL": "DOUAR HCHALFA FES SAIS",
+    "AdresseA": "دوار الحشالفة أولاد الطيب  فاس سايس ",
+    "COMMUNE": "Oulad Tayeb",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "gs fes saiss",
+    "NOM_ETABA": "مجموعة مدارس فاس سايس الخصوصية",
+    "AdresseL": "ouled taib haut",
+    "AdresseA": "دوار اولاد الطيب",
+    "COMMUNE": "Oulad Tayeb",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ATLAS",
+    "NOM_ETABA": "ثانوية الأطلس الإعدادية",
+    "AdresseL": "Commune Zmrane",
+    "AdresseA": "جماعة زمران",
+    "COMMUNE": "Zemrane",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD FETTAM CENTRE",
+    "NOM_ETABA": "اولاد فطام المركزية",
+    "AdresseL": "DOUAR OULAD FETTAM COMMUNE ZEMRANE ",
+    "AdresseA": "دوار اولاد فطام  جماعة زمران ",
+    "COMMUNE": "Zemrane",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD KHLIFA CENTRE",
+    "NOM_ETABA": "اولاد اخليفة المركزية",
+    "AdresseL": "DOUAR OULAD KHLIFA COMMUNE ZEMRANE ELGHARBI",
+    "AdresseA": "دوار اولاد اخليفة جماعة زمران الغربية",
+    "COMMUNE": "Zemrane",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAMIRATE CENTRE",
+    "NOM_ETABA": "لعميرات المركزية  ",
+    "AdresseL": "DOUAR LAAMIRATE COMMUNE ZEMRANE",
+    "AdresseA": "دوار لعميرات جماعة زمران",
+    "COMMUNE": "Zemrane",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AAMOUCH CENTRE",
+    "NOM_ETABA": "اولاد عموش المركزية",
+    "AdresseL": "DOUAR OULED AMOUCH COMMUNE ZEMRANE",
+    "AdresseA": "دوار اولاد عموش جماعة زمران",
+    "COMMUNE": "Zemrane",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

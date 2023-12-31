@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL FARABI",
+    "NOM_ETABA": "الثانوية الإعدادية الفارابي",
+    "AdresseL": "LAAKARTA COMMUNE AYIR",
+    "AdresseA": "العكارطة جماعة ايير",
+    "COMMUNE": "Ayir",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AYIR",
+    "NOM_ETABA": "م/م أيير",
+    "AdresseL": "DOUAR KASBAT AYIR COMMUNE AYIR",
+    "AdresseA": "دوار قصبة أيير جماعة أيير",
+    "COMMUNE": "Ayir",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKOUASSMA",
+    "NOM_ETABA": "م/م القواسمة",
+    "AdresseL": "DOUAR LAKOUASSMA COMMUNE AYIR",
+    "AdresseA": "دوار القواسمة  جماعة أيير",
+    "COMMUNE": "Ayir",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAKARTA",
+    "NOM_ETABA": "مدرسة العكارطة",
+    "AdresseL": "DOUAR LAAKARTA COMMUNE AYIR",
+    "AdresseA": "دوار العكارطة جماعة أيير",
+    "COMMUNE": "Ayir",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUIATE ERRADI",
+    "NOM_ETABA": "م/م زاوية الراضي",
+    "AdresseL": "ZAOUIATE ERRADI COMMUNE AYIR",
+    "AdresseA": "زاوية الراضي جماعة أيير",
+    "COMMUNE": "Ayir",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAABABDA",
+    "NOM_ETABA": "م/م العبابدة",
+    "AdresseL": "DOUAR LAABABDA COMMUNE AYIR",
+    "AdresseA": "دوار العبابدة جماعة ايير",
+    "COMMUNE": "Ayir",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUAARISS",
+    "NOM_ETABA": "م/م اولاد بوعريس",
+    "AdresseL": "DOUAR LAGHOUALEM COMMUNE AYIR",
+    "AdresseA": "دوار الغوالم جماعة ايير",
+    "COMMUNE": "Ayir",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUATAMID BNOU ABBAD",
+    "NOM_ETABA": "الثانوية التأهيلية المعتمد بن عباد",
+    "AdresseL": "COMMUNE AYIR CERCLE HRARA ",
+    "AdresseA": "جماعة أيير دائرة حرارة",
+    "COMMUNE": "Ayir",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

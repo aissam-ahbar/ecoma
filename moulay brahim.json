@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MY BRAHIM",
+    "NOM_ETABA": "الثانوية الاعدادية مولاي ابراهيم",
+    "AdresseL": "CENTRE MOULAY BRAHIM",
+    "AdresseA": "مركز مولاي ابراهيم",
+    "COMMUNE": "Moulay Brahim",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY BRAHIM",
+    "NOM_ETABA": "مولاي ابراهيم",
+    "AdresseL": "CENTRE MY BRAHIM COMMUNE MY BRAHIM",
+    "AdresseA": "مركز مولاي ابراهيم",
+    "COMMUNE": "Moulay Brahim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KIK",
+    "NOM_ETABA": "كيك",
+    "AdresseL": "DOUAR TIOUILI KIK COMMUNE MY BRAHIM",
+    "AdresseA": "دوار تيوليكيك جماعة مولاي ابراهيم",
+    "COMMUNE": "Moulay Brahim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGUER N OUMAAD",
+    "NOM_ETABA": "اكر نومعاد",
+    "AdresseL": "DOUAR IGUER NOUMAAD COMMUNE MY BRAHIM",
+    "AdresseA": "دوار اكر نومعاد جماعة مولاي ابراهيم",
+    "COMMUNE": "Moulay Brahim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGADIR TASSAOUTE",
+    "NOM_ETABA": "اكادير تساوت",
+    "AdresseL": "DOUAR AGADIR TASSAOUT COMMUNE MY BRAHIM",
+    "AdresseA": "دوار اكادير تساوت جماعة مولاي ابراهيم",
+    "COMMUNE": "Moulay Brahim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

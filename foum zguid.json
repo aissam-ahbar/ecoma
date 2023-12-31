@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL FOUM ZGUID",
+    "NOM_ETABA": "  ثانوية فم  زكيد الإعدادية ",
+    "AdresseL": "FOUM ZGUID  TATA",
+    "AdresseA": "فم زكيد",
+    "COMMUNE": "Foum Zguid",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E.FOUM ZGUID",
+    "NOM_ETABA": "م. فم زكيد",
+    "AdresseL": "CENTRE FOUM ZGUID   TATA",
+    "AdresseA": "فم زكيد طاطا",
+    "COMMUNE": "Foum Zguid",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LAMHAMIDE",
+    "NOM_ETABA": "م/م لمحاميد",
+    "AdresseL": "DOUAR LAMHAMIDE  FOUM ZGUID  TATA",
+    "AdresseA": "د.لمحاميد فم زكيد طاطا",
+    "COMMUNE": "Foum Zguid",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S SMIRA",
+    "NOM_ETABA": "م/م السميرة",
+    "AdresseL": "DOUAR  SMIRA  FOUM ZGUID   TATA",
+    "AdresseA": "دوار السميرة فم زكيد طاطا",
+    "COMMUNE": "Foum Zguid",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S IRIKI",
+    "NOM_ETABA": "م/م اريقي",
+    "AdresseL": "DOUAR BOUGUIR  FOUM ZGUID    TATA",
+    "AdresseA": "د.بوكير فم زكيد طاطا",
+    "COMMUNE": "Foum Zguid",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E.ABOUBAKER RAZI",
+    "NOM_ETABA": "م. ابوبكر الرازي",
+    "AdresseL": "  HAY ELWAHDA FOUM ZGUID ",
+    "AdresseA": "حي الوحدة فم زكبد",
+    "COMMUNE": "Foum Zguid",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU KHALDOUNE",
+    "NOM_ETABA": "ثانوية ابن خلدون التأهيلية",
+    "AdresseL": "CENTRE  FOUM ZGUID  TATA",
+    "AdresseA": "مركز بلدية فم زكيد",
+    "COMMUNE": "Foum Zguid",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

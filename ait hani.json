@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS ZAID OUHMAD",
+    "NOM_ETABA": "م.م  زايد أحماد",
+    "AdresseL": "KSAR AIT HANI ASSOUL",
+    "AdresseA": "قصر ايت هاني اسول",
+    "COMMUNE": "Ait Hani",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMTETOUCHTE",
+    "NOM_ETABA": "م.م تامتتوشت",
+    "AdresseL": "KSAR TAMTETOUCHTE AIT HANI ASSOUL",
+    "AdresseA": "قصر تامتتوشت ايت هاني اسول",
+    "COMMUNE": "Ait Hani",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  AL BAYHAKI",
+    "NOM_ETABA": "م.م البيهقي",
+    "AdresseL": "KSAR TAYAJOUTE AIT HANI ASOUL",
+    "AdresseA": "قصر تايجوت  ايت هاني اسول",
+    "COMMUNE": "Ait Hani",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ESSALAM",
+    "NOM_ETABA": "الثانوية التأهيلية السلام",
+    "AdresseL": "AIT HANI centre",
+    "AdresseA": "ايت هاني المركز",
+    "COMMUNE": "Ait Hani",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

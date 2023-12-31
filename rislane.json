@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "RISLANE",
+    "NOM_ETABA": "رسلان",
+    "AdresseL": "COMMUNE DE RISLANE",
+    "AdresseA": "   جماعة رسلان",
+    "COMMUNE": "Rislane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAJOUINE",
+    "NOM_ETABA": "تجوين",
+    "AdresseL": "COMMUNE DE RISLANE",
+    "AdresseA": "جماعة رسلان",
+    "COMMUNE": "Rislane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE FATIMA AZZAHRA",
+    "NOM_ETABA": "الثانوية التأهيلية فاطمة الزهراء",
+    "AdresseL": "83 BD VICTOR HUGO   EL MECHOUAR",
+    "AdresseA": "زاوية شارع فيكتور هيغو والامام القسطلاني",
+    "COMMUNE": "Mechouar de Casablanca",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire La Résidence II",
+    "NOM_ETABA": "مجموعة مدارس الإقامة 2",
+    "AdresseL": "N° 36, Rue Ibn Toumert - Mers ",
+    "AdresseA": "رقم 36، زنقة ابن تومرت - مرس ا",
+    "COMMUNE": "Mechouar de Casablanca ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Erable-Institut My Idriss Al Azhar",
+    "NOM_ETABA": "إيرابل - معهد مولاي إدريس الأزهر",
+    "AdresseL": "N° 8-12, Avenue Ahmed Figuigui",
+    "AdresseA": "رقم 8-12، شارع أحمد الفكيكي - ",
+    "COMMUNE": "Mechouar de Casablanca ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LE CHEMIN VERT ",
+    "NOM_ETABA": "مؤسسة الطريق الأخضر ",
+    "AdresseL": "N° 29, bd Omar El Idrissi - Mé",
+    "AdresseA": "رقم 29، زنقة شارع عمر الإدريسي",
+    "COMMUNE": "Mechouar de Casablanca ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE Groupe Scolaire La Résidence 4",
+    "NOM_ETABA": "ملحقة مجموعة مدارس الإقامة 4",
+    "AdresseL": "N° 3, Rue Eddabbas  -  Méchoua",
+    "AdresseA": "رقم 3، زنقة الدباس - مشوار الد",
+    "COMMUNE": "Mechouar de Casablanca ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Omar El Idrissi - Annexe",
+    "NOM_ETABA": "مدرسة عمر الإدريسي - ملحقة",
+    "AdresseL": "N° 4, Rue Plateau Du Kliere - ",
+    "AdresseA": "رقم 4، زنقة بلاطو دي كليير - م",
+    "COMMUNE": "Mechouar de Casablanca ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE Racine",
+    "NOM_ETABA": "مؤسسة راسين",
+    "AdresseL": "Quartier Des Habous, Rue 15, N",
+    "AdresseA": "حي الإحباس، زنقة 15، رقم 10 - ",
+    "COMMUNE": "Mechouar de Casablanca ",
+    "PROVINCE": "Préf. d’Arr. Al Fida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

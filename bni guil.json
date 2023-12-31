@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "JEBOUB",
+    "NOM_ETABA": "الجبوب",
+    "AdresseL": "JEBOUB RKINET NAAME",
+    "AdresseA": "الجبوب ركنة النعام",
+    "COMMUNE": "Bni Guil",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ARRID",
+    "NOM_ETABA": "عريض",
+    "AdresseL": "DOUAR ARRID",
+    "AdresseA": "دوار عريض",
+    "COMMUNE": "Bni Guil",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKBAB",
+    "NOM_ETABA": "لقباب",
+    "AdresseL": "DOUAR LAKBAB",
+    "AdresseA": "دوار لقباب",
+    "COMMUNE": "Bni Guil",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

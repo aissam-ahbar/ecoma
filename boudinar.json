@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IJETTI ",
+    "NOM_ETABA": "الثانوية الإعدادية إجطي",
+    "AdresseL": "Ijetti Boudinar driouach",
+    "AdresseA": "دوار اجطي جماعة بودينار اقليم الدريوش",
+    "COMMUNE": "Boudinar",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS DHAR BRANE",
+    "NOM_ETABA": "م م دهار ابران",
+    "AdresseL": "COMMUNE BOUDINAR CENTRE",
+    "AdresseA": "جماعة بودينار المركز",
+    "COMMUNE": "Boudinar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ENNASER",
+    "NOM_ETABA": "م م النصر",
+    "AdresseL": "DOUAR AKHACHAB AMGHAR COMMUNE BOUDINAR",
+    "AdresseA": "اخشاب امغار بودينار",
+    "COMMUNE": "Boudinar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SECTEUR SCOLAIRE IJATTI",
+    "NOM_ETABA": "مجموعة مدارس اجطـي",
+    "AdresseL": "DOUAR IJATTI COMMUNE  BOUDINAR",
+    "AdresseA": "اجطي بودينار",
+    "COMMUNE": "Boudinar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BOUDINER",
+    "NOM_ETABA": "ثانوية بودينار التأهيلية",
+    "AdresseL": "COMMUNE BOUDINAR",
+    "AdresseA": "جماعة بودينار",
+    "COMMUNE": "Boudinar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

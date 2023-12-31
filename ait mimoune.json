@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "EL JAHID",
+    "NOM_ETABA": "الجاحظ",
+    "AdresseL": "HAD AIT MIMOUN",
+    "AdresseA": "حد ايت ميمون",
+    "COMMUNE": "Ait Mimoune",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TAAOUNIA",
+    "NOM_ETABA": "التعاونية",
+    "AdresseL": "TAAOUNIA MOULAY ALI COMMUNE AIT MIMOUN",
+    "AdresseA": "تعاونية م علي ج ايت ميمون",
+    "COMMUNE": "Ait Mimoune",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULJAT SOULTANE",
+    "NOM_ETABA": "ولجة السلطان",
+    "AdresseL": "QARIAT OUALJAT SOULTANE COMMUNE AIT MIMOUN",
+    "AdresseA": "ولجة السلطان جماعة ايت ميمون",
+    "COMMUNE": "Ait Mimoune",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIZITINE",
+    "NOM_ETABA": "تيزيطين",
+    "AdresseL": "DOUAR TIZITINE COMMUNE AIT MIMOUN",
+    "AdresseA": "د تيزطين ج ايت ميمون",
+    "COMMUNE": "Ait Mimoune",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

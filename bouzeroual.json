@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS EZZOURGANE",
+    "NOM_ETABA": "م.م الزركان",
+    "AdresseL": "DOUAR tikchtat bouzroual",
+    "AdresseA": "دوار تكشطات جماعة بوزروال",
+    "COMMUNE": "Bouzeroual",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AKHALOUF ",
+    "NOM_ETABA": "م.م أخلوف",
+    "AdresseL": "DOUAR AKHALOUF CBOUZEROUAL",
+    "AdresseA": "أخلوف بوزروال",
+    "COMMUNE": "Bouzeroual",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BOUZAROUAL",
+    "NOM_ETABA": "الثانوية التأهيلية بوزروال",
+    "AdresseL": "BOUZAROUALTINZOULINE",
+    "AdresseA": "بوزروال/ تينزولين",
+    "COMMUNE": "Bouzeroual",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

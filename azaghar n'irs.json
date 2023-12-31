@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C NIRS",
+    "NOM_ETABA": " ثإ.نيرس",
+    "AdresseL": "CENTRE COMMUNE AZAGHAR N IRS",
+    "AdresseA": "مركز جماعة أزغار نيرس",
+    "COMMUNE": "Azaghar N'Irs",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MOUSSA IBN NOUSSAIR",
+    "NOM_ETABA": "م.م موسى بن نصير",
+    "AdresseL": "DOUAR   TALAT NTALGHMINE  C AZAGHAR NIRS",
+    "AdresseA": "دوار ثلاث نتلغمين جماعة ازغار نيرس تارودانت",
+    "COMMUNE": "Azaghar N'Irs",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELBOUSSIRI",
+    "NOM_ETABA": "م.م البوصيري",
+    "AdresseL": "DOUAR ISLANE C AZAGHAR NIRS ighrem",
+    "AdresseA": "دوار إسلان جماعة أزغارنيرس إيغرم",
+    "COMMUNE": "Azaghar N'Irs",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBAKIZN",
+    "NOM_ETABA": "م.م اباكيزن",
+    "AdresseL": "DOUAR   IBAKIZENE C AZAGHAR NIRS",
+    "AdresseA": "د. إباكيزن جماعة ازاغارنيرس",
+    "COMMUNE": "Azaghar N'Irs",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALFIRDAOUS",
+    "NOM_ETABA": "م.م الفردوس",
+    "AdresseL": "DOUAR   IMI NWADAY C AZAGHAR NIRS",
+    "AdresseA": "دوار إمي نواداي جماعة أزغار نيرس تارودانت",
+    "COMMUNE": "Azaghar N'Irs",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

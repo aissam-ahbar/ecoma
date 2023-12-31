@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "IBNOU LKHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "  Boite Postale 359",
+    "AdresseA": "ص ب  359 ",
+    "COMMUNE": "Aklim",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TARIQ IBN ZIYAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "COMMUNE AKLIM",
+    "AdresseA": "جماعة أكليم",
+    "COMMUNE": "Aklim",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUM AYMANE",
+    "NOM_ETABA": "أم أيمن",
+    "AdresseL": "ecole oum aymane Hay 6",
+    "AdresseA": "مدرسة أم أيمن حي 6 أكليم",
+    "COMMUNE": "Aklim",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM AL BOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "ECOLE IMAM ALBOUKHARI",
+    "AdresseA": " مدرسة الإمام البخاري",
+    "COMMUNE": "Aklim",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETTAL",
+    "NOM_ETABA": "التل",
+    "AdresseL": "AKLIM CENTRE",
+    "AdresseA": "حي 6 ص ب 108",
+    "COMMUNE": "Aklim",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN BATOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "MUNICIPALITE AKLIM",
+    "AdresseA": "أكليم",
+    "COMMUNE": "Aklim",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUZID",
+    "NOM_ETABA": "سيدي بوزيد",
+    "AdresseL": "HAY 1 N 31 AKLIM",
+    "AdresseA": "رقم 31، الحي 1",
+    "COMMUNE": "Aklim ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

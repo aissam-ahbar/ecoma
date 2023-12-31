@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LC NABLOS",
+    "NOM_ETABA": " ثانوية نابلس الإعدادية",
+    "AdresseL": "CENTRE TAGHAZOUT",
+    "AdresseA": "تغازوت المركز",
+    "COMMUNE": "Taghazout",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL IMAM AL BOUSSAIRI TAGHAZOUT",
+    "NOM_ETABA": "م.م الإمام البصيري-تغــازوت",
+    "AdresseL": "DOUAR  TAGHAZOUT           COMMUNE  TAGHAZOUT",
+    "AdresseA": "دوار تغـازوت  جماعـة تغـازوت",
+    "COMMUNE": "Taghazout",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI SAID OUHMAD IKOUZA",
+    "NOM_ETABA": "م.م سيدي سعيد اوحماد-إكـــوزا",
+    "AdresseL": "DOUAR  IKOUZA             COMMUNE  TAGHAZOUT",
+    "AdresseA": "دوار اكــوزا  جماعــة تغـازوت",
+    "COMMUNE": "Taghazout",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SOUK SEBT AOURGA",
+    "NOM_ETABA": "م.م سوق السبت-أوركا",
+    "AdresseL": "DOUAR  AOURGA             COMMUNE  TAGHAZOUT",
+    "AdresseA": "دوار أوركـا  جماعـة تغـازوت",
+    "COMMUNE": "Taghazout",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

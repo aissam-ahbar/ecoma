@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL OUIDANE",
+    "NOM_ETABA": "الثانوية الإعدادية الويدان",
+    "AdresseL": "CHOUITARE COMMUNE ALOUIDANE PROVINCE MARRAKECH",
+    "AdresseA": "الشويطر جماعة الويدان",
+    "COMMUNE": "Alouidane",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TOUIHINA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس الطويحينة المركزية",
+    "AdresseL": "KM 13 PRINCIPALE 31 CR ALOUIDANE PROV MARRAKECK",
+    "AdresseA": "كم 13الطريق الرئيسية31 جماعة الويدان",
+    "COMMUNE": "Alouidane",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ENNOUR CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس النور المركزية",
+    "AdresseL": "DOUAR OULAD AL GARNE CR ALOUIDANE PR MARRAKECH",
+    "AdresseA": "دوار اولاد الكرن جماعة الويدان",
+    "COMMUNE": "Alouidane",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHOUITARE CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس الشويطر المركزية",
+    "AdresseL": "DOUAR CHOUITARE CR ALOUIDANE PROV MARRAKECH",
+    "AdresseA": "ددوار الشويطر جماعة الويدان",
+    "COMMUNE": "Alouidane",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAMHAMDIA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس المحمدية المركزية",
+    "AdresseL": "DOUAR LAMHAMDIA CR ALOUIDANE PROV MARRAKECH",
+    "AdresseA": "دوار المحمدية جماعة الويدان",
+    "COMMUNE": "Alouidane",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BAB AL ATLAS CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس باب الأطلس المركزية",
+    "AdresseL": "DOUAR lagribat CR ALOUIDANE PROV MARRAKECH",
+    "AdresseA": "دوار لكريبات جماعة الويدان",
+    "COMMUNE": "Alouidane",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

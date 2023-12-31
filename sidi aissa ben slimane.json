@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL SIDI AISSA BEN SLIMANE",
+    "NOM_ETABA": "ثانوية سيدي عيسى بن سليمان الاعدادية",
+    "AdresseL": "COMMUNE SIDI AISSA BENSLIMANE",
+    "AdresseA": "جماعة سيدي عيسى بن سليمان",
+    "COMMUNE": "Sidi Aissa Ben Slimane",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD ALI EL JOUMOUAA CENTRE",
+    "NOM_ETABA": "اولاد علي الجمعة المركزية",
+    "AdresseL": "DOUAR OULED ALI EL JOUMOAA SIDI AISSA BEN SLIMANE",
+    "AdresseA": "دوار اولاد علي الجمعة المركزية سيدي عيسى بن سليمان",
+    "COMMUNE": "Sidi Aissa Ben Slimane",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SIDI AISSA CENTRE",
+    "NOM_ETABA": "اولاد سيدي عيسى المركزية",
+    "AdresseL": "COMMUNE SIDI AISSA BEN SLIMANE",
+    "AdresseA": "جماعة سيدي عيسى بن سليمان",
+    "COMMUNE": "Sidi Aissa Ben Slimane",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BRAHIM SIDI AISSA BEN SLIMANE CENTRE",
+    "NOM_ETABA": "مركزية اولاد ابراهيم - سيدي عيسى بنسليمان ",
+    "AdresseL": "DOUAR OULAD BRAHIM SIDI AISSA BEN SLAIMANE",
+    "AdresseA": "دوار اولاد ابراهيم جماعة سيدي عيسى بن سليمان",
+    "COMMUNE": "Sidi Aissa Ben Slimane",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUAMA ECOLE DU  CENTRE",
+    "NOM_ETABA": "التوامة المركزية",
+    "AdresseL": "DOUAR SIDI MOHAMED TOUMI ",
+    "AdresseA": "دوار سيدي محمد التومي  ",
+    "COMMUNE": "Sidi Aissa Ben Slimane",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

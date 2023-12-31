@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ATLAS",
+    "NOM_ETABA": "الثانوية الإعدادية الاطلس",
+    "AdresseL": "centre commune smiA",
+    "AdresseA": "مركز جماعة الصميعة",
+    "COMMUNE": "Smià",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BAB SOUK CHAJRA CENTRE",
+    "NOM_ETABA": "باب سوق الشجرة المركز",
+    "AdresseL": "BAB SOUK CHAJRA COMMUNE SMIA",
+    "AdresseA": " دوارباب سوق الشجرة جماعة الصميعة",
+    "COMMUNE": "Smià",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MEHDI BEN TOUMARTE CENTRE",
+    "NOM_ETABA": "المهدي بن تومرت المركز",
+    "AdresseL": " SMIAA COMMUNE SMIA",
+    "AdresseA": "الصميعة جماعة الصميعة",
+    "COMMUNE": "Smià",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED JAMAA CENTRE",
+    "NOM_ETABA": "وادالجمعة المركز",
+    "AdresseL": "OUED JAMAA COMMUNE SMIA",
+    "AdresseA": "واد الجمعة جماعة الصميعة",
+    "COMMUNE": "Smià",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

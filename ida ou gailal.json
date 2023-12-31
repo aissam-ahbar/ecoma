@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS OQBA IBN NAFIA",
+    "NOM_ETABA": "م.م عقبة بن نافع",
+    "AdresseL": "SOUK LETNINE C IDA OUGAILAL",
+    "AdresseA": "د. سوق الاثنين جما عة اذاوكيلال",
+    "COMMUNE": "Ida Ou Gailal",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EZZALLAKA",
+    "NOM_ETABA": "م.م الزلاقة",
+    "AdresseL": "DOUAR   TALAMTE C IDA OU GAILAL",
+    "AdresseA": "دوار تلامت  جماعة إداوكيلال",
+    "COMMUNE": "Ida Ou Gailal",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

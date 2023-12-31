@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SIDI MOUSSA BEN ALI",
+    "NOM_ETABA": "إعدادية سيدي موسى بن علي",
+    "AdresseL": "CENTRE SIDI MOUSSA BEN ALI COMMUNE SMOUSSA BALI",
+    "AdresseA": "جماعة سيدي موسى بن علي",
+    "COMMUNE": "Sidi Moussa Ben Ali",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI MOUSSA BEN ALI",
+    "NOM_ETABA": "سيدي موسى بن علي",
+    "AdresseL": "SIDI MOUSSA BEN ALI COMMUNE SIDI MOUSSA BEN ALI",
+    "AdresseA": "سيدي موسى بن علي",
+    "COMMUNE": "Sidi Moussa Ben Ali",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI LARBI",
+    "NOM_ETABA": "سيدي العربي",
+    "AdresseL": "SIDI LARBI COMMUNE SIDI MOUSSA BEN ALI",
+    "AdresseA": "سيدي العربي جماعة س موسى بن علي",
+    "COMMUNE": "Sidi Moussa Ben Ali",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH ALAROUI",
+    "NOM_ETABA": "عبد الله العروي",
+    "AdresseL": "SIDI MOUSSA BEN ALI",
+    "AdresseA": "سيدي موسى بن علي",
+    "COMMUNE": "Sidi Moussa Ben Ali",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "PIERRE AUGUSTIN",
+    "NOM_ETABA": "بيير أوغيستان الخصوصية",
+    "AdresseL": "lot ben youssef sidi moussa be",
+    "AdresseA": "تجزئة ابن يوسف سيدي موسى بن عل",
+    "COMMUNE": "Sidi Moussa Ben Ali",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anNOUR AIN LAMGHABAR",
+    "NOM_ETABA": "النور عين المغبر الخصوصية",
+    "AdresseL": "commune sidi moussa ben ali",
+    "AdresseA": "جماعة سيدي موسى بن علي",
+    "COMMUNE": "Sidi Moussa Ben Ali",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

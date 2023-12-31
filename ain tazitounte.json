@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ASSERRATOU",
+    "NOM_ETABA": "أسراتو",
+    "AdresseL": "DOUAR ASSERRATOU COMMUNE AIN TAZITOUNTE",
+    "AdresseA": "  دوار  أسراتو دائرة امنتانوت إقليم شيشاوة ",
+    "COMMUNE": "Ain Tazitounte",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGRED",
+    "NOM_ETABA": "أكرض",
+    "AdresseL": "DOUAR IGRED COMMUNE AIN TAZITOUNTE",
+    "AdresseA": "دوار أكرض جماعة عين تزتونت",
+    "COMMUNE": "Ain Tazitounte",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAARD",
+    "NOM_ETABA": "امعرض",
+    "AdresseL": "DOUAR MAARD COMMUNE AIN TAZITOUNTE",
+    "AdresseA": "دوار  امعرض",
+    "COMMUNE": "Ain Tazitounte",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUNBAINE",
+    "NOM_ETABA": "بونباين",
+    "AdresseL": "DOUAR BOUNBAINE COMMUNE AIN TAZITOUNTE",
+    "AdresseA": "دوار  بونباين",
+    "COMMUNE": "Ain Tazitounte",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

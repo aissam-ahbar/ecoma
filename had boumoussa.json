@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABOU TAMMAM",
+    "NOM_ETABA": "ثانوية أبو تمام الإعدادية",
+    "AdresseL": "COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "جماعة  حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HAD BUMOUSSA",
+    "NOM_ETABA": "م  حد بوموسى",
+    "AdresseL": "HAD BOUMOUSSA CENTRE",
+    "AdresseA": "جماعة حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARMAST CENTRE",
+    "NOM_ETABA": "مركزية تارماست",
+    "AdresseL": "TARMAST COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "جماعة حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AL AFIA CENTRE",
+    "NOM_ETABA": "مركزية أولاد العافية",
+    "AdresseL": "OULED EL AFiA COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "جماعة حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAADADCHA CENTRE",
+    "NOM_ETABA": "مركزية العدادشة",
+    "AdresseL": "LAADADCHA COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "جماعة حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED RMICH CENTRE",
+    "NOM_ETABA": "مركزية اولاد ارميش",
+    "AdresseL": "OULeD RMICH COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "جماعة حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE OULED AISSA ELOUAD",
+    "NOM_ETABA": "مركزية أولاد عيسى الواد",
+    "AdresseL": "OULED AISSA COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "جماعة حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SOLTANE CENTRE",
+    "NOM_ETABA": "مركزية أولاد سلطان",
+    "AdresseL": "OULED SOLTANE COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "جماعة حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAKIA AL HAMRA CENTRE",
+    "NOM_ETABA": "مركزية الساقية الحمراء",
+    "AdresseL": " OULED MBAREK  COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "جماعة حد بو موسى ، دائرة سوق السبت",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHALID BNO ELOUALID",
+    "NOM_ETABA": "مدرسة خالد بن الوليد",
+    "AdresseL": "DOUAR HAD BOUMOUSSA COMMUNE HAD BOUMOUSSA",
+    "AdresseA": "دوار اولاد عيسى جماعة حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OUM ERRABIE",
+    "NOM_ETABA": "ثانوية أم الربيع التأهيلية",
+    "AdresseL": "CENTRE HAD BOUMOUSSA",
+    "AdresseA": "مركز حد بوموسى",
+    "COMMUNE": "Had Boumoussa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE TAFETACHTE",
+    "NOM_ETABA": " الثانوية الإعدادية تفتاشت",
+    "AdresseL": "CENTRE DE TAFETTACHT",
+    "AdresseA": "مركز تفتاشت",
+    "COMMUNE": "Tafetachte",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL IBN  ABDELLAH",
+    "NOM_ETABA": "م,علال بن عبد الله",
+    "AdresseL": "CENTRE DE TAFETTACHT",
+    "AdresseA": "مركز جماعة تفتاشت",
+    "COMMUNE": "Tafetachte",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAFATACHET",
+    "NOM_ETABA": "م.م. تفتاشت",
+    "AdresseL": "DOUAR LABADKHA TAFETTACHTE",
+    "AdresseA": "دوار لبادخة تفتاشت",
+    "COMMUNE": "Tafetachte",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL AMAL",
+    "NOM_ETABA": "الثانوية التأهيلية الأمل",
+    "AdresseL": "TAFTACHT",
+    "AdresseA": "تافتاشت",
+    "COMMUNE": "Tafetachte",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

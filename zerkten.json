@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZERKTEN",
+    "NOM_ETABA": "الثانوية الإعدادية زرقطن",
+    "AdresseL": "DR IMEDSSEN C R ZERKTEN",
+    "AdresseA": "دوار امدسن، جماعة زرقطن، إقليم الحوز",
+    "COMMUNE": "Zerkten",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE TADDARTE",
+    "NOM_ETABA": "  مركزية تدارت",
+    "AdresseL": "DOUAR TADARTE COMMUNE ZERKTEN TOUAMA",
+    "AdresseA": "دوار تدارت جماعة زرقطن",
+    "COMMUNE": "Zerkten",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALNIF",
+    "NOM_ETABA": "تالنيف",
+    "AdresseL": "DOUAR TALLNIF COMMUNE ZERKTEN",
+    "AdresseA": "دوار تالنيف جماعة زرقطن",
+    "COMMUNE": "Zerkten",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGHI",
+    "NOM_ETABA": "اغي",
+    "AdresseL": "DOUAR IGHI COMMUNE ZERKTEN",
+    "AdresseA": "دوار اكركما جماعة زرقطن",
+    "COMMUNE": "Zerkten",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGHOULASTE",
+    "NOM_ETABA": "تغولاست",
+    "AdresseL": "DOUAR TAGHOULASTE COMMUNE ZERKTEN",
+    "AdresseA": "دوار تغولاست جماعة زرقطن",
+    "COMMUNE": "Zerkten",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZERKTENE",
+    "NOM_ETABA": "زرقطن",
+    "AdresseL": "CENTRE ZERKTAN COMMUNE ZERKTAN",
+    "AdresseA": "مركز رزقطن جماعة زرقطن",
+    "COMMUNE": "Zerkten",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAFGA",
+    "NOM_ETABA": "تافكا",
+    "AdresseL": "DOUAR ABHIR COMMUNE ZERKTEN",
+    "AdresseA": "دوار ابحير جماعة زرقطن",
+    "COMMUNE": "Zerkten",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ISOUAL",
+    "NOM_ETABA": "اسوال",
+    "AdresseL": "DOUAR TITOULA COMMUNE ZERKTEN",
+    "AdresseA": "دوار تيتولا جماعة زرقطن",
+    "COMMUNE": "Zerkten",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

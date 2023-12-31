@@ -1,0 +1,322 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial BAYROUNI",
+    "NOM_ETABA": "الثانوية الإعدادية البيروني",
+    "AdresseL": "HAY ENNASR RUE LARACHE  OUISLANE",
+    "AdresseA": "حي النصر ،زنقة العرائش ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial OTMANE BEN AFANE",
+    "NOM_ETABA": "الثانوية الإعدادية عثمان بن عفان",
+    "AdresseL": "LOTISSEMENT AL WAHDA COMMUNE OUISLANE",
+    "AdresseA": "تجزئة الوحدة ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial AMALE",
+    "NOM_ETABA": "الثانوية الإعدادية الأمل",
+    "AdresseL": "QUARTIER RYAD  WISLANE",
+    "AdresseA": "حي الرياض ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial OUISLANE 1",
+    "NOM_ETABA": "الثانوية الإعدادية ويسلان 1",
+    "AdresseL": "riad al omrane  ouislane2",
+    "AdresseA": "رياض العمران ويسلان2",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial EL YASSAMINE",
+    "NOM_ETABA": "الثانوية الإعدادية الياسمين",
+    "AdresseL": "hay riad wisslane ",
+    "AdresseA": "حي رياض ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial ZINEB NEFZAOUIA",
+    "NOM_ETABA": "الثانوية الإعدادية زينب النفزاوية",
+    "AdresseL": "HAY RIAD OUISLANE",
+    "AdresseA": "حي الرياض ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MAAMAL AL ISMANT",
+    "NOM_ETABA": "معمل الإسمنت",
+    "AdresseL": "RUE ELMASSIRA  COMMUNE OUISLANE",
+    "AdresseA": "شارع المسيرة بلدية وسلان ",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH GUENNOUN",
+    "NOM_ETABA": "عبد الله كنون",
+    "AdresseL": "BD MASSIRA COMMUNE OUISLANE",
+    "AdresseA": "شارع المسيرة ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAKIB ARSALANE",
+    "NOM_ETABA": "شكيب أرسلان",
+    "AdresseL": "rue taza hay el amal wislane",
+    "AdresseA": "زنقة تازة حي الامل وسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR LKHYAME",
+    "NOM_ETABA": "عمر الخيام",
+    "AdresseL": "reyad wislane 2 commune wislane",
+    "AdresseA": "رياض ويسلان 2 جماعة ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "11-janv.",
+    "NOM_ETABA": "11 يناير",
+    "AdresseL": "HAY RIYAD  OUISLANE",
+    "AdresseA": "حي الرياض ويسلان مكناس",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY LAHCEN HIZOUNI",
+    "NOM_ETABA": "مولاي لحسن حيزوني",
+    "AdresseL": "HAY ESSALAM  COMMUNE OUISLANE",
+    "AdresseA": "حي السلام ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMR BNOU ASSE",
+    "NOM_ETABA": "عمرو بن العاص",
+    "AdresseL": "hay alizdihar COMMUNE WISLANE",
+    "AdresseA": "حى الازدهار  ويسلان   ",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAHDI BNOU TOUMART WISLANE",
+    "NOM_ETABA": "المهدي بن تومرت ويسلان",
+    "AdresseL": "ECOLE MAHDI BNOU TOUMART WISLANE",
+    "AdresseA": "مدرسة المهدي بن تومرت ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTANMIA",
+    "NOM_ETABA": "التنمية",
+    "AdresseL": "école ATTANMIA  hay attanmia  Wislane ",
+    "AdresseA": "مدرسة التنمية - حي التنمية - ويسلان ",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MADRASSA EL JADIDA",
+    "NOM_ETABA": "المدرسة الجديدة",
+    "AdresseL": "RIAD OUiSLANE",
+    "AdresseA": "رياض ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH BEN MASSAOUD",
+    "NOM_ETABA": "مدرسة عبد الله بن مسعود",
+    "AdresseL": "COMMUNE OUISLANE",
+    "AdresseA": "جماعة ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant MOHAMMED V",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "LOT AL OUAHDA OUISLANE",
+    "AdresseA": "نجزئة الوحدة ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant OUED EL MAKHAZINE",
+    "NOM_ETABA": "الثانوية التأهيلية واد المخازن",
+    "AdresseL": "DOUAR SOUSSI WISLANE",
+    "AdresseA": "دوار السوسي  ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant AL KINDI",
+    "NOM_ETABA": "الثانوية التأهيلية الكندي",
+    "AdresseL": "LOT AL OMRAN 3 OUISLAN",
+    "AdresseA": "تجزئة العمران 3 ويسلان",
+    "COMMUNE": "Ouislane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOUASSASSATE IBNI ",
+    "NOM_ETABA": "مؤسسة إبني",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة أسفي حي النصر ويسلان",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KAWTAR",
+    "NOM_ETABA": "الكوثر",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الوحدة الرقم 139 درب 10 ",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE SCOLAIRE JOHN ELLIS",
+    "NOM_ETABA": "المركب المدرسي خصوصي جون إليس",
+    "AdresseL": "LOT RIAD EL OMRANE TRANCHE 1 O",
+    "AdresseA": "تجزئة رياض العمران الشطر 1 ويس",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA FONDATION",
+    "NOM_ETABA": "مجموعة مدارس لافونداسيون الخاصة ",
+    "AdresseL": "riad el omrane trc 5 n 5",
+    "AdresseA": "رياض العمران الشطر 5 الرقم 5",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baraim le creuset",
+    "NOM_ETABA": "براعيم لوكروزي",
+    "AdresseL": "",
+    "AdresseA": "الرقم 6 تقاطع زنقة أسفي و الزر",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el anouar",
+    "NOM_ETABA": "الأنوار",
+    "AdresseL": "NULL",
+    "AdresseA": "81 زنقة مليلية حي الرياض ويسلا",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole al assasse",
+    "NOM_ETABA": "مؤسسسة الأساس",
+    "AdresseL": "riad wislane 2 eme tranche mek",
+    "AdresseA": "رياض وسلان 2 الشطر الثاني وسلا",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE CREUSET DU SAVOIR",
+    "NOM_ETABA": "لوكروزي دو سفوار",
+    "AdresseL": "N 79 ET 80 LOTISSEMENT YASSMIN",
+    "AdresseA": "رقم 79 و 80 تجزئة الياسمينة وي",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALLABIB",
+    "NOM_ETABA": "اللبيب",
+    "AdresseL": "LOT RIAD OUISLANE1 -N°144 - OU",
+    "AdresseA": "تجزئة رياض ويسلان 1 - رقم 144 ",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE WISLANE",
+    "NOM_ETABA": "مجموعة مدارس ويسلان",
+    "AdresseL": "N° 1 cite moderne, OUislane",
+    "AdresseA": "رقم 1 الحي العصري وسلان",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le creuset",
+    "NOM_ETABA": "لوكروزي",
+    "AdresseL": "lot el madaress 98 ouislane",
+    "AdresseA": "تجزئة المدارس  98 ويسلان   ",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Boustane Arrida",
+    "NOM_ETABA": " بستان الرضا",
+    "AdresseL": "Commune Ouislane, Route de Fès",
+    "AdresseA": " بلدية ويسلان، طريق فاس",
+    "COMMUNE": "Ouislane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

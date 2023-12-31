@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL BOUHOUDA ",
+    "NOM_ETABA": "ثانوية بوهودة الإعدادية",
+    "AdresseL": "COMMUNE BOUHOUDA  MUNICIPALITE TAOUNATE",
+    "AdresseA": "جماعة بوهودة - بلدية تاونات",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S IMAME MALEK",
+    "NOM_ETABA": "م/م  إمام مالك",
+    "AdresseL": "COMMUNE BOUHOUDA CENTRE TAOUNATE",
+    "AdresseA": "جماعة بوهودة المركز تاونات",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD HSSAINE",
+    "NOM_ETABA": "م/م  اولاد حساين",
+    "AdresseL": "DOUAR OULAD HSSAINE COMMUNE BOUHOUDA TAOUNATE",
+    "AdresseA": "دوار ولاد حساين جماعة بوهودة - تاونات",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASMEL",
+    "NOM_ETABA": "م/م  أسمل",
+    "AdresseL": "DOUAR ASMEL COMMUNE BOUHOUDA TAOUNATE",
+    "AdresseA": "دوار أسمل جماعة بوهودة - تاونات",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AICHTOUM",
+    "NOM_ETABA": "م/م  أيشتوم",
+    "AdresseL": "DOUAR AICHTOUM COMMUNE BOUHOUDA TAOUNATE",
+    "AdresseA": "دوار ايشتوم جماعة بوهودة - تاونات",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI BERBER",
+    "NOM_ETABA": "م/م  بني بربر",
+    "AdresseL": "DOUAR OULAD BEN DAOUD COMMUNE BOUHOUDA TAOUNATE",
+    "AdresseA": "دوار ولاد بن داود جماعة بوهودة - تاونات",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KELAA BOUHOUDA",
+    "NOM_ETABA": "م/م قلعة بوهودة",
+    "AdresseL": "DOUAR EL KALAA COMMUNE BOUHOUDA TAOUNATE",
+    "AdresseA": "دوار القلعة -جماعة بوهودة - تاونات",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL KHAOUARIZMI",
+    "NOM_ETABA": "ثانوية الخوارزمي التأهيلية",
+    "AdresseL": "Bouhouda centre",
+    "AdresseA": "بوهودة المركز",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ET-TAKI",
+    "NOM_ETABA": "مدرسة التاقي",
+    "AdresseL": "centre bouhouda",
+    "AdresseA": "مركز بوهودة",
+    "COMMUNE": "Bouhouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

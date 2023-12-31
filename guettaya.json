@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AIT ALI ",
+    "NOM_ETABA": "ثانوية أيت اعلي الإعدادية ",
+    "AdresseL": "AIT ALI ",
+    "AdresseA": "أيت اعلي ",
+    "COMMUNE": "Guettaya",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE GUETTAYA",
+    "NOM_ETABA": "ثانوية كطاية الإعدادية",
+    "AdresseL": "GUETTAYA",
+    "AdresseA": "كطاية",
+    "COMMUNE": "Guettaya",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GUETTAYA CENTRE",
+    "NOM_ETABA": "مركزية كطاية",
+    "AdresseL": "CENTRE GUETTAYA COMMUNE GUETTAYA",
+    "AdresseA": "جماعة  كطاية",
+    "COMMUNE": "Guettaya",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MEJJATE CENTRE",
+    "NOM_ETABA": "مركزية مجاط",
+    "AdresseL": "douar MEJJATE COMMUNE GUETTAYA ",
+    "AdresseA": " دوار مجاط جماعة كطاية ",
+    "COMMUNE": "Guettaya",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ALI CENTRE",
+    "NOM_ETABA": "مركزية ايت علي",
+    "AdresseL": "AIT ALI COMMUNE GUETTAYA",
+    "AdresseA": "جماعة  كطاية",
+    "COMMUNE": "Guettaya",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

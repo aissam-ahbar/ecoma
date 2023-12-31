@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM CHAFII",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام الشافعي",
+    "AdresseL": "COMMUNE EL BEDOUZA SAFI",
+    "AdresseA": "جماعة البدوزة  أسفي",
+    "COMMUNE": "El Beddouza",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DAR EZZARHOUNI",
+    "NOM_ETABA": "م/م دار الزرهوني",
+    "AdresseL": "DOUAR DAR EZZARHOUNI COMMUNE EL BADDOUZA",
+    "AdresseA": "دوار دار الزرهوني جماعة البدوزة",
+    "COMMUNE": "El Beddouza",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SLIMANE",
+    "NOM_ETABA": "م/م اولاد سليمان",
+    "AdresseL": "DOUAR OULAD SLIMANE COMMUNE EL BADDOUZA",
+    "AdresseA": "دوار اولاد سليمان جماعة البدوزة",
+    "COMMUNE": "El Beddouza",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ZALAKA",
+    "NOM_ETABA": "م/م الزلاقة",
+    "AdresseL": "KHMISS KASSINE COMMUNE EL BADDOUZA",
+    "AdresseA": "خميس كاسين جماعة البدوزة",
+    "COMMUNE": "El Beddouza",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENOUASSRA OL EL HADJ",
+    "NOM_ETABA": "م/م النواصرة اولاد الحاج",
+    "AdresseL": "11BLOC12 OURIDA2 SAFI",
+    "AdresseA": "11 بلوك 12 وريدة 2 اسفي",
+    "COMMUNE": "El Beddouza",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

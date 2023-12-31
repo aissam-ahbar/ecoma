@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE MATARKA",
+    "NOM_ETABA": "إعدادية معتركة",
+    "AdresseL": "centre de la commune de MATARKA",
+    "AdresseA": "مركز جماعة معتركة",
+    "COMMUNE": "Maatarka",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AAGLAT ESSADRA",
+    "NOM_ETABA": "عكلة السدرة",
+    "AdresseL": "DOUAR AAGLAT ESSADRA",
+    "AdresseA": "عكلة السدرة",
+    "COMMUNE": "Maatarka",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

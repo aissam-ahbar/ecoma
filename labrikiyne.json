@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LABRIKYINE CENTRE",
+    "NOM_ETABA": "لبريكيين المركزية",
+    "AdresseL": "COMMUNE LABRIKYINE centre  LABRIKYINE",
+    "AdresseA": "مركز لبريكيين",
+    "COMMUNE": "Labrikiyne",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUACHRINE CENTRE",
+    "NOM_ETABA": "بوعشرين المركزية",
+    "AdresseL": "DOUAR BOUACHRINE COMMUNE LABRIKIYINE",
+    "AdresseA": "دوار بوعشرين جماعة لبريكيين",
+    "COMMUNE": "Labrikiyne",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LOUHNICHATE CENTRE",
+    "NOM_ETABA": "لحنيشات المركزية",
+    "AdresseL": "COMMUNE LABRIKYINE centre  LABRIKYINE",
+    "AdresseA": "مركز لبريكيين",
+    "COMMUNE": "Labrikiyne",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BA MOUSSA CENTRE",
+    "NOM_ETABA": "اولاد با موسى المركزية",
+    "AdresseL": "DOUAR OULAD BA MOUSSA COMMUNE LABRIKIYNE",
+    "AdresseA": "دوار اولاد با موسى",
+    "COMMUNE": "Labrikiyne",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL HAJ CENTRE",
+    "NOM_ETABA": "اولاد الحاج المركزية",
+    "AdresseL": "DOUAR OULAD EL HAJ COMMUNE LABRIKIYNE",
+    "AdresseA": "دوار اولاد الحاج",
+    "COMMUNE": "Labrikiyne",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LABRIKIYNE",
+    "NOM_ETABA": "الثانوية التأهيلية لبريكيين",
+    "AdresseL": "COMMUNE LABRIKYINE",
+    "AdresseA": "جماعة لبريكيين",
+    "COMMUNE": "Labrikiyne",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

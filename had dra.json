@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HAD DRA",
+    "NOM_ETABA": "الثانوية الإعدادية حد الدرى",
+    "AdresseL": "HAD DRA CENTRE",
+    "AdresseA": "مركز حد الدرا",
+    "COMMUNE": "Had Dra",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SIDI ALI BEN MAACHOU",
+    "NOM_ETABA": " م.م.سيدي علي بن معاشو",
+    "AdresseL": "HAD DRA CENTRE",
+    "AdresseA": "مركز حد الدرى",
+    "COMMUNE": "Had Dra",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AHMED ALHADRI",
+    "NOM_ETABA": "م/م  أحمد الهدري",
+    "AdresseL": "DOUAR MATRAZA HAD DRA",
+    "AdresseA": "دوار مترازة حد الدرى",
+    "COMMUNE": "Had Dra",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ALMANDAR ALJAMIL",
+    "NOM_ETABA": " م.م. المنظر الجميل",
+    "AdresseL": "DOUAR AIN LAHJAR HAD DRA",
+    "AdresseA": "دوار عين لحجر حد درى",
+    "COMMUNE": "Had Dra",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HAJ TAHAR BMCE",
+    "NOM_ETABA": "مدرستكم الحاج الطاهر",
+    "AdresseL": "douar ait haj tahar had dra",
+    "AdresseA": "دوار أيت  الحاج الطاهر حد الدرى",
+    "COMMUNE": "Had Dra",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

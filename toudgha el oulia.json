@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Toudgha Eloulia",
+    "NOM_ETABA": "الثانوية الإعدادية تودغى العليا",
+    "AdresseL": "DOUAR AIT SNAN  COMMUNE TOUDGHA OULIA",
+    "AdresseA": "دوار ايت سنان جماعة تودغى العليا تنغير",
+    "COMMUNE": "Toudgha El Oulia",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AGHBALOU",
+    "NOM_ETABA": "م.م اغبالو",
+    "AdresseL": "Toudgha el oulia  tinghir",
+    "AdresseA": "تودغى العليا تنغير",
+    "COMMUNE": "Toudgha El Oulia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IHAJAMNE",
+    "NOM_ETABA": "م.م إحجامين",
+    "AdresseL": "ihajamne toudgha el oulia tinghir",
+    "AdresseA": "إحجامين تودغى العليا تنغير",
+    "COMMUNE": "Toudgha El Oulia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

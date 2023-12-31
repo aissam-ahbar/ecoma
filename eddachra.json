@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "BNI AMER CENTRE",
+    "NOM_ETABA": "بني عامر المركزية",
+    "AdresseL": "DOUAR OULED HAMMADI COMMUNE  DACHRA",
+    "AdresseA": "دوار اولاد حمادي",
+    "COMMUNE": "Eddachra",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EDDACHRA",
+    "NOM_ETABA": "ثانوية الدشرة التأهيلية",
+    "AdresseL": "COMMUNE EDDACHRA BNI AMER",
+    "AdresseA": "جماعة الدشرة",
+    "COMMUNE": "Eddachra",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

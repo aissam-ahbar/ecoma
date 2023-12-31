@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM GHAZALI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام الغزالي",
+    "AdresseL": "COMMUNE AQUERMOUD ESSAOUIRA",
+    "AdresseA": "جماعة أقرمود الصويرة",
+    "COMMUNE": "Aquermoud",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SIDI SALEH REGRAGUI",
+    "NOM_ETABA": "م م سيدي صالح الركراكي",
+    "AdresseL": "SEBT AKERMOUD AKERMOUD",
+    "AdresseA": "سبت اقرمود أقرمود",
+    "COMMUNE": "Aquermoud",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAMGADMA",
+    "NOM_ETABA": "م م  المكادمة",
+    "AdresseL": "DOUAR LAMGADMA AquERMOUD",
+    "AdresseA": "دوار المكادمة جماعة أقرمود",
+    "COMMUNE": "Aquermoud",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AKERMOUD",
+    "NOM_ETABA": "م م أقرمود",
+    "AdresseL": "DOUAR SIDI SALEH AKERMOUD",
+    "AdresseA": "دوار سيدي صالح أقرمود",
+    "COMMUNE": "Aquermoud",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AL FARABI",
+    "NOM_ETABA": " م.م. الفرابي",
+    "AdresseL": "DOUAR AIT BAAMRAN AKERMOUD",
+    "AdresseA": "دوار ايت بعمران جماعة اقرمود",
+    "COMMUNE": "Aquermoud",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OMAR AL KHIYAM",
+    "NOM_ETABA": "الثانوية التأهيلية عمر الخيام",
+    "AdresseL": "Centre Commune Aquermoud",
+    "AdresseA": "مركز جماعة أقرمود",
+    "COMMUNE": "Aquermoud",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOUMANE EL FATOUAKI",
+    "NOM_ETABA": "  الثانوية الإعدادية حمان الفطواكي",
+    "AdresseL": "ROUTE PRINCIPALE N1  POINT KILOMETRIQUE 310",
+    "AdresseA": "الطريق الرئيسية رقم 1 النقطة الكيومترية 310",
+    "COMMUNE": "Charrate",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SIDI KHDIM CENTRE",
+    "NOM_ETABA": "م/م سيدي اخديم المركزية",
+    "AdresseL": "DOUAR OULED AACHICH COMMUNE ECHERRAT",
+    "AdresseA": "دوار اولاد عشيش جماعة الشراط",
+    "COMMUNE": "Charrate",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANOUAL CENTRE",
+    "NOM_ETABA": "م/م أنوال المركزية",
+    "AdresseL": "DOUAR OULED MOUSSA COMMUNE ECHERRAT",
+    "AdresseA": "دوار اولاد موسى جماعة الشراط",
+    "COMMUNE": "Charrate",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

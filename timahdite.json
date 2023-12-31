@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BNOUABDEL AZIZ",
+    "NOM_ETABA": "ثانوية عمر بن عبد العزيز الاعدادية",
+    "AdresseL": "TIMAHDIT CENTRE COMMUNE TIMAHDITE",
+    "AdresseA": "مركز تيمحضيت جماعة تيمحضيت",
+    "COMMUNE": "Timahdite",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHALID BNOU AL OUALID",
+    "NOM_ETABA": "مدرسة خالد بن الوليد الابتدائية",
+    "AdresseL": "TIMAHDITE CENTRE COMMUNE TIMAHDITE",
+    "AdresseA": "تمحضيت المركز جماعة تمحضيت",
+    "COMMUNE": "Timahdite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAMRABTINE CENTRE",
+    "NOM_ETABA": "م م المرابطين المركزية",
+    "AdresseL": "DOUAR LAMRABTIN COMMUNE TIMAHDITE",
+    "AdresseA": "أيت عيسى المرابطين جماعة تمحضيت",
+    "COMMUNE": "Timahdite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT GHANEM CENTRE",
+    "NOM_ETABA": "م م أيت غانم المركزية",
+    "AdresseL": "DOUAR AIT GHANEM COMMUNE TIMAHDITE",
+    "AdresseA": "أيت غانم جماعة تمحضيت",
+    "COMMUNE": "Timahdite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUDRAA CENTRE",
+    "NOM_ETABA": "م م بودرع المركزية",
+    "AdresseL": "BOUDRAA CMMUNE TIMAHDITE",
+    "AdresseA": "بودرع جماعة تمحضيت",
+    "COMMUNE": "Timahdite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE COM TIMAHDITE",
+    "NOM_ETABA": "كم تمحضيت",
+    "AdresseL": "TIMAHDITE CENTRE COMMUNE TIMAHDITE",
+    "AdresseA": "تمحضيت المركز جماعة تمحضيت",
+    "COMMUNE": "Timahdite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TIMAHDITE",
+    "NOM_ETABA": "ثانوية تيمحضيت التأهيلية",
+    "AdresseL": "Timahdite Centre",
+    "AdresseA": "تيمحضيت ",
+    "COMMUNE": "Timahdite",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

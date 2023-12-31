@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SGAMNA CENTRE",
+    "NOM_ETABA": "مركزية السكامنة",
+    "AdresseL": " COMMUNE SGAMNA sidi hejjaj",
+    "AdresseA": "جماعة السكامنة سيدي حجاج",
+    "COMMUNE": "Sgamna",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BELQACEM CENTRE",
+    "NOM_ETABA": "مركزية سيدي بلقاسم",
+    "AdresseL": "sid belqacem  LAHBATA COMMUNE SGAMNA",
+    "AdresseA": "سيدي بلقاسم لهباطة جماعة السكامنة",
+    "COMMUNE": "Sgamna",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAAOUNIA CENTRE",
+    "NOM_ETABA": "مركزية التعاونية",
+    "AdresseL": "DOUAR ETAAOUNIA COMMUNE SGAMNA",
+    "AdresseA": "دوار التعاونية جماعة السكامنة",
+    "COMMUNE": "Sgamna",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

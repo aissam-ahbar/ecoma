@@ -1,0 +1,372 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AL KHATIB",
+    "NOM_ETABA": "الثانوية الإعدادية ابن الخطيب",
+    "AdresseL": "Commune urbaine Sidi Bennour",
+    "AdresseA": "الجماعة الحضرية سيدي بنور",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL HOUMANE EL FATOUAKI",
+    "NOM_ETABA": "ثانوية حمان الفطواكي الإعدادية",
+    "AdresseL": "MUNICIPALITE DE SIDI BENNOUR",
+    "AdresseA": "شارع رحال المسكيني ، أرض الخير ،سيدي بنور",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL LALLA FATIMA ZAHRA",
+    "NOM_ETABA": "ثانوية للا فاطمة الزهراء الإعدادية",
+    "AdresseL": "RUE FKIH EL BACHIRI MUNICIPALITE DE SIDI BENNOUR",
+    "AdresseA": "زنقة الفقيه بشيري بلدية سيدي بنور",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL EL MOUKHTAR SOUSSI",
+    "NOM_ETABA": "ثانوية المختار السوسي الإعدادية",
+    "AdresseL": "Bd MASSIRA KHADRA",
+    "AdresseA": "شارع المسيرة الخضراء",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TARIK IBN ZIYAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "EL HAY EL IDARI SIDI BENNOUR",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZZARKTOUNI",
+    "NOM_ETABA": "الزرقطوني",
+    "AdresseL": "RUE OUAD DAHAB EL HAY EL JADID SIDI BENNOUR",
+    "AdresseA": "زنقة وادي الذهب الحي الجديد",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN BATTOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "HAY al mostakbal  SIDI BENNOUR",
+    "AdresseA": "حي المستقبل",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETTABARI",
+    "NOM_ETABA": "الطبري",
+    "AdresseL": "35 RUE  MOULAY ABDELLAH SIDI BENNOUR",
+    "AdresseA": "35 شارع مولاي عبد الله",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU DAR EL GHAFFARI",
+    "NOM_ETABA": "ابو ذر الغفاري",
+    "AdresseL": "ARD LKHAIR",
+    "AdresseA": "أرض الخير",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU OBAIDA IBN AL JARRAH",
+    "NOM_ETABA": "أبو عبيدة بن الجراح",
+    "AdresseL": "LOT WIDAD",
+    "AdresseA": "حي الوداد",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 20 AOUT",
+    "NOM_ETABA": "مدرسة 20 غشت",
+    "AdresseL": "HAY  ELKARIA",
+    "AdresseA": "حي القرية",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL BAYROUNI",
+    "NOM_ETABA": "البيروني",
+    "AdresseL": "HAY OUAFA",
+    "AdresseA": "حي الوفاء",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "sidi bennour",
+    "AdresseA": "سيدي بنور",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 30 JUILLET ",
+    "NOM_ETABA": "ثانوية 30 يوليوز التأهيلية",
+    "AdresseL": "sidi bennour Avenue Almassira Alkhadra",
+    "AdresseA": "شارع المسيرة الخضراء سيدي بنور",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT SIDI BENNOUR",
+    "NOM_ETABA": "ثانوية سيدي بنور التأهيلية   ",
+    "AdresseL": "AVENUE MOULAY ABDELLAH MUNICIPALITE SIDI BENNOUR",
+    "AdresseA": "نهج مولاي عبدالله  سيدي بنور",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM GHAZALI ",
+    "NOM_ETABA": " ثانوية الامام الغزالي التأهيلية",
+    "AdresseL": "MUNICIPALITE DE SIDI BENNOUR",
+    "AdresseA": "شارع محمد السادس سيدي بنور",
+    "COMMUNE": "Sidi Bennour",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire jnane zaitoune",
+    "NOM_ETABA": "مجموعة مدارس جنان الزيتون",
+    "AdresseL": "23 Ard El Kheir sidi bennour",
+    "AdresseA": "أرض الخير سيدي بنور رقم 23",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Benzekri",
+    "NOM_ETABA": " مؤسسة بن زكري الخاصة",
+    "AdresseL": "1 BIS. lot ARAD EL KHEIR SIDI ",
+    "AdresseA": " مكرر1 ,تجزئة  أرض الخير سيدي ",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE Attaraji",
+    "NOM_ETABA": "مجموعة مدارس الترجي",
+    "AdresseL": "N° 80, Lot. Ard Al Kheir",
+    "AdresseA": "رقم80، تجزئة أرض الخير",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Scolaire Slimani",
+    "NOM_ETABA": "مؤسسة التعليم السليماني الخصوصية",
+    "AdresseL": "Boulvard Des FAR Lotissement S",
+    "AdresseA": "شارع الجيش الملكي تجزئة السليم",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL ANSAR",
+    "NOM_ETABA": "مؤسسة الأنصار",
+    "AdresseL": "cite Sucrerie Sidi Benour - Si",
+    "AdresseA": " حي معمل السكر سيدي بنور - سيد",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL FASSIH 1",
+    "NOM_ETABA": "الفصيح 1",
+    "AdresseL": "Lotissement El Khair N° 16",
+    "AdresseA": "1 تجزئة الخير الرقم 6",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " KAMAL",
+    "NOM_ETABA": "كمال",
+    "AdresseL": "3 ard EL KHEIR SIDI BENNOUR",
+    "AdresseA": " 3تجزئة الخير سيدي بنور",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Znaiber",
+    "NOM_ETABA": "مدرسة زنيبر",
+    "AdresseL": "VILLA 7, LOT AL KAMAL",
+    "AdresseA": "فيلا 7، حي الكمال",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire benzekri",
+    "NOM_ETABA": "مجموعة مدارس بن زكري  الخاصة",
+    "AdresseL": "17ard el khair sidi bennour",
+    "AdresseA": "سيدي بنور",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "attaraji 2",
+    "NOM_ETABA": "الترجي 2",
+    "AdresseL": "loissement alanwar n° 238",
+    "AdresseA": "الرقم 238، تجزئة الأنوار",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire el fassih 2",
+    "NOM_ETABA": "مجموعة مدارس الفصيح 2",
+    "AdresseL": "lot al anouar 227",
+    "AdresseA": "تجزئة الأنوار الرقم 227",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AFAK AL MOSTAKBAL",
+    "NOM_ETABA": "مجموعة مدارس آفاق المستقبل",
+    "AdresseL": "15 lot ard lkhair ",
+    "AdresseA": "15 تجزئة أرض الخير",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAJD AL ARABE",
+    "NOM_ETABA": "مجد العرب الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "244 تجزئة الأنوار",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMAAREF",
+    "NOM_ETABA": "المعاريف",
+    "AdresseL": "N°6,Coopérative essalam",
+    "AdresseA": "رقم 6 تعاونية السلام",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAHD AL MALAIKA",
+    "NOM_ETABA": "مهد الملائكة",
+    "AdresseL": "NULL",
+    "AdresseA": "23 تجزئة الرحمة",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecoleses benzakri",
+    "NOM_ETABA": "المدارس الخاصة بن زكري ",
+    "AdresseL": "78 Hay Salam Sidi bennour",
+    "AdresseA": "78 حي السلام",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ariouane",
+    "NOM_ETABA": "الريوان",
+    "AdresseL": "NULL",
+    "AdresseA": "أرض الخير 331 ",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole des fans",
+    "NOM_ETABA": "ألفان",
+    "AdresseL": "NULL",
+    "AdresseA": "83 زنقة عبد الواحد المراكشي",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ammar",
+    "NOM_ETABA": "مؤسسة عمار",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الجيش الملكي بام مجموعة 1",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS BELHANDA",
+    "NOM_ETABA": "مجموعة مدارس بلهندة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الخير رقم 56 سيدي بنور",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arij azohour",
+    "NOM_ETABA": "أريج الزهور",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 226 تجزئة الوفاء 1",
+    "COMMUNE": "Sidi Bennour ",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

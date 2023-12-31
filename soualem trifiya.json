@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "DOUAR LAKROUCHYINE",
+    "AdresseA": "دوار الكروشيين",
+    "COMMUNE": "Soualem Trifiya",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY TOUHAMI CENTRE",
+    "NOM_ETABA": "مركزية مولاي التهامي",
+    "AdresseL": "DOUAR Lekhlaif  COMMUNE SOUALEM TRAIFIYA",
+    "AdresseA": "دوار لخلايف جماعة السوالم الطريفية",
+    "COMMUNE": "Soualem Trifiya",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEKHLAIF CENTRE",
+    "NOM_ETABA": "مركزية الخلايف",
+    "AdresseL": "DOUAR LBRAHMA COMMUNE SOUALEM",
+    "AdresseA": "دوار   البراهمة جماعة   السوالم الطريفية",
+    "COMMUNE": "Soualem Trifiya",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MESSOUD CENTRE",
+    "NOM_ETABA": "مركزية اولاد مسعود",
+    "AdresseL": "DOUAR OULAD MESSAOUD COMMUNE SOUALEM TRIFYA",
+    "AdresseA": "دوار أولاد مسعود جماعة السوالم الطريفية",
+    "COMMUNE": "Soualem Trifiya",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " DOUAR JDID CENTRe ",
+    "NOM_ETABA": "مركزية الدوار الجديد",
+    "AdresseL": "DOUAR JDID  COMMUNE SOUALEM TRIFIA",
+    "AdresseA": "دوار الجديد جماعة السوالم الطريفية",
+    "COMMUNE": "Soualem Trifiya",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR IBN ALKHATTAB ",
+    "NOM_ETABA": "المدرسة الابتدائية عمر بن الخطاب",
+    "AdresseL": "Lot Chams Sidi Rahal",
+    "AdresseA": "تجزئة شمس سيدي رحال",
+    "COMMUNE": "Soualem Trifiya",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole  Attanmiya",
+    "NOM_ETABA": "المدرسة الابتدائية التنمية",
+    "AdresseL": "Douar el ghaba",
+    "AdresseA": "دوار الغابة",
+    "COMMUNE": "Soualem Trifiya",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AIT EL HAJ",
+    "NOM_ETABA": "مجموعة مدارس أيت الحاج الخصوصية",
+    "AdresseL": "DOUAR LAKROUCHYINE",
+    "AdresseA": "دوار الكروشيين",
+    "COMMUNE": "Soualem Trifiya",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

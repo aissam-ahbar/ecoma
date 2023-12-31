@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIT ATTOU",
+    "NOM_ETABA": "ثانوية أيت عتو الإعدادية",
+    "AdresseL": "AIT ATTOU",
+    "AdresseA": "ايت عتو",
+    "COMMUNE": "Guers Tiaallaline",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " S/S ZAID OUHMAD",
+    "NOM_ETABA": " م/م زايد احماد",
+    "AdresseL": "KSAR AIT ATTOU GUERS TIAALLALINE RICH",
+    "AdresseA": "قصر ايت عتو كرس تعلالين الريش",
+    "COMMUNE": "Guers Tiaallaline",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AIT INNOU",
+    "NOM_ETABA": "م/م ايت انو",
+    "AdresseL": "KSAR AIT INNOU GUERS TIAALLALINE RICH",
+    "AdresseA": "قصر ايت إينو كرس تعلالين",
+    "COMMUNE": "Guers Tiaallaline",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " S/S CHAHID ALAL BEN ABDELLAH",
+    "NOM_ETABA": " م/م الشهيد علال بن عبد الله",
+    "AdresseL": "KSAR KERRANDOU GUERS TIAALLALINE rich",
+    "AdresseA": "قصر كراندو كرس تعلالين",
+    "COMMUNE": "Guers Tiaallaline",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AIT KHOUJMANE",
+    "NOM_ETABA": "م/م ايت خوجمان",
+    "AdresseL": "KSAR AIT KHOUJMANE GUERS TIAALLALINE RICH ",
+    "AdresseA": "  ايت خوجمان كرس تعلالين الريش",
+    "COMMUNE": "Guers Tiaallaline",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMALOU",
+    "NOM_ETABA": "امــــــالو",
+    "AdresseL": "KSAR AMALOU GUERS TIAALLALINE RICH",
+    "AdresseA": "قصر امالو كرس تعلالين",
+    "COMMUNE": "Guers Tiaallaline",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM ALI",
+    "NOM_ETABA": "الثانوية التأهيلية الامام علي ",
+    "AdresseL": "KSAR KERRANDOU GUERS TIAALLALINE RICH",
+    "AdresseA": "قصر كراندو كرس تعلالين",
+    "COMMUNE": "Guers Tiaallaline",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

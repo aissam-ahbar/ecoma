@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S ELMOUKHTAR ESSOUSSI",
+    "NOM_ETABA": "م.م.المختار السوسي",
+    "AdresseL": "CENTRE COMMUNE AGUERD",
+    "AdresseA": "مركز جماعة اكرض ",
+    "COMMUNE": "Aguerd",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BOUZEMMA",
+    "NOM_ETABA": "م م  بوزاما",
+    "AdresseL": "DOUAR BOUZEMMA AGUERD",
+    "AdresseA": "دوار بوزاما",
+    "COMMUNE": "Aguerd",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

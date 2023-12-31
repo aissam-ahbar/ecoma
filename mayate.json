@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "MAYATE CENTRE",
+    "NOM_ETABA": "مايات المركزية",
+    "AdresseL": "DOUAR MAYATE COMMUNE MAYATE",
+    "AdresseA": "دوار مايات",
+    "COMMUNE": "Mayate",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ERRAGHAI CENTRE",
+    "NOM_ETABA": "اولاد الرغاي المركزية",
+    "AdresseL": "DOUAR OULED ERRAGHAI COMMUNE MAYAT",
+    "AdresseA": "دوار اولاد الرغاي",
+    "COMMUNE": "Mayate",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD CHEIKH ABDELLAH CENTRE",
+    "NOM_ETABA": "اولاد الشيخ عبد الله المركزية",
+    "AdresseL": "DOUAR OULED CHEIKH ABDELLAH COMMUNE MAYATE",
+    "AdresseA": "دوار اولاد الشيخ عبد الله",
+    "COMMUNE": "Mayate",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ALI CENTRE",
+    "NOM_ETABA": "اولاد علي المركزية",
+    "AdresseL": "DOUAR OULED ALI COMMUNE MAYATE",
+    "AdresseA": "دوار اولاد علي",
+    "COMMUNE": "Mayate",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

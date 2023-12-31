@@ -1,0 +1,142 @@
+[
+  {
+    "NOM_ETABL": "AL ATLAS",
+    "NOM_ETABA": "الأطلس",
+    "AdresseL": "HAY AWATIF BP 10",
+    "AdresseA": " حي عواطف ص,ب 10",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI MOHAMED BEN ABDERRAHMANE",
+    "NOM_ETABA": "سيدي محمد بن عبد الرحمن",
+    "AdresseL": "ROUTE DE CASABLANCA",
+    "AdresseA": "شاارع الدار البيضاء",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KISS",
+    "NOM_ETABA": "كيس",
+    "AdresseL": "COMMUNE AHFIR",
+    "AdresseA": "بلدية أحفير",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL WAFAE",
+    "NOM_ETABA": "الوفاء",
+    "AdresseL": "ROUTE DE SAIDIA",
+    "AdresseA": "طريق السعيدية",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ALHAYTAM",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "HAY MASSEAUD RUE OUJDA BP 54",
+    "AdresseA": "حي مسعود شارع وجدة ص,ب 54",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "HAY PAM",
+    "AdresseA": "حي بام",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FARABI",
+    "NOM_ETABA": "الفارابي",
+    "AdresseL": "Rue Tafoughalt Hay Awatif",
+    "AdresseA": "زنقة تافوغالت حي  عواطف  ص.ب - 35",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI ALALAE AL MAARRI",
+    "NOM_ETABA": "أبي العلاء المعري",
+    "AdresseL": "ZANKAT EL GHAZAOUATE",
+    "AdresseA": "زنقة الغزوات",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "rue mekka al mokarrama HAY BADR",
+    "AdresseA": "زنقة مكة المكرمة حي بدر",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "ROUTE DE BERKANE",
+    "AdresseA": "شارع بركان أحفير",
+    "COMMUNE": "Ahfir",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ADIAE",
+    "NOM_ETABA": "الضياء",
+    "AdresseL": "boulevard mohamed V rue d alge",
+    "AdresseA": "شارع محمد الخامس زنقة الجزائر ",
+    "COMMUNE": "Ahfir ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hidaya",
+    "NOM_ETABA": "الهداية",
+    "AdresseL": "Rue El Moukaouama, N° 110 - C.",
+    "AdresseA": "زنقة المقاومة ، رقم 110 - ج. أ",
+    "COMMUNE": "Ahfir ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nibras",
+    "NOM_ETABA": "النبراس",
+    "AdresseL": "n°6 rue marseille quartier oue",
+    "AdresseA": "رقم 6 زنقة مارسيليا حي وادي ال",
+    "COMMUNE": "Ahfir ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Hirae",
+    "NOM_ETABA": "حراء",
+    "AdresseL": "N° 21 Rue Ibn al ahytam",
+    "AdresseA": "رقم 21 زنقة ابن الهيثم",
+    "COMMUNE": "Ahfir ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

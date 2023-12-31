@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": " BADDOU",
+    "NOM_ETABA": " بادو",
+    "AdresseL": "AGHBALOU N KERDOUS",
+    "AdresseA": "اغبالو نكردوس  ",
+    "COMMUNE": "Aghbalou N'Kerdous",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IFAGH",
+    "NOM_ETABA": "الثانوية الاعدادية افغ",
+    "AdresseL": "IFAGH CENTRE",
+    "AdresseA": " إفغ المركز ",
+    "COMMUNE": "Aghbalou N'Kerdous",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AGHBALOU",
+    "NOM_ETABA": "اغبالو",
+    "AdresseL": "KSAR AGHBALOU NKERDOUS",
+    "AdresseA": "قصر اغبالو نكردوس",
+    "COMMUNE": "Aghbalou N'Kerdous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S.S TAOUDDAATE",
+    "NOM_ETABA": "م.م توداعت",
+    "AdresseL": "KSAR TAOUDDAATE AGHBALOU N KERDOUS",
+    "AdresseA": "قصر تاوداعت اغبالو نكردوس",
+    "COMMUNE": "Aghbalou N'Kerdous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S.S IFAGH",
+    "NOM_ETABA": "م.م افغ",
+    "AdresseL": "KSAR IFAGH AGHBALOU N KERDOUS",
+    "AdresseA": "قصر إفغ أغبالو انكردوس",
+    "COMMUNE": "Aghbalou N'Kerdous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGOUDMANE",
+    "NOM_ETABA": "اكدمان",
+    "AdresseL": "KSAR IGOUDMANE AGHBALOU NKERDOUS",
+    "AdresseA": "قصر اكدمان اغبالو نكردوس",
+    "COMMUNE": "Aghbalou N'Kerdous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

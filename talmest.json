@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ECOLE EL MOUATAMID BNOU AABAD",
+    "NOM_ETABA": "مدرسة المعتمد بن عباد",
+    "AdresseL": "CENTRE TALMEST",
+    "AdresseA": "مركز تالمست الصويرة",
+    "COMMUNE": "Talmest",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI ABDELJALIL",
+    "NOM_ETABA": "مدرسة سيدي عبد الجليل",
+    "AdresseL": "CENTRE TALMEST",
+    "AdresseA": "مركز تالمست",
+    "COMMUNE": "Talmest",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIT ERRACHID",
+    "NOM_ETABA": "مدرسة ايت رشيد",
+    "AdresseL": "CENTRE TALMEST",
+    "AdresseA": "مركز تالمست",
+    "COMMUNE": "Talmest",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TALMEST",
+    "NOM_ETABA": "الثانوية التأهيلية تالمست",
+    "AdresseL": "CENTRE TALMEST",
+    "AdresseA": "مركز تالمست",
+    "COMMUNE": "Talmest",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

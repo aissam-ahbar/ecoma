@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SIDI AZOUZ",
+    "NOM_ETABA": "إعدادية سيدي عزوز",
+    "AdresseL": "sidi azzouz",
+    "AdresseA": "سيدي عزوز",
+    "COMMUNE": "Sidi Azzouz",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LMARKAZ LFILAHI",
+    "NOM_ETABA": "المركز الفلاحي",
+    "AdresseL": "DOUAR OULAD HAMMAD COMMUNE SIDI AZZOUZ province si",
+    "AdresseA": "دوار اولاد حماد جماعة سيدي عزوز إقليم سيدي قاسم",
+    "COMMUNE": "Sidi Azzouz",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMNAIRA",
+    "NOM_ETABA": "المنايرة",
+    "AdresseL": "DOUAR LAMNAIRA COMMUNE SIDI AZZOUZ",
+    "AdresseA": "دوار المنايرة جماعة سيدي عزوز",
+    "COMMUNE": "Sidi Azzouz",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LMAHATA",
+    "NOM_ETABA": "المحطة",
+    "AdresseL": "DOUAR AAZIB CHERRADI COMMUNE SIDI AZZOUZ",
+    "AdresseA": "دوار اعزيب الشرادي",
+    "COMMUNE": "Sidi Azzouz",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "  AL BAYRONI",
+    "NOM_ETABA": "البيروني",
+    "AdresseL": "DOUAR LHADDADA  COMMUNE SIDI AZZOUZ",
+    "AdresseA": "دوار الحدادة",
+    "COMMUNE": "Sidi Azzouz",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED HAMDANE",
+    "NOM_ETABA": "أولاد حمدان",
+    "AdresseL": "DOUAR OULAD HAMDANE COMMUNE SAZOUZ",
+    "AdresseA": "دوار أولاد حمدان",
+    "COMMUNE": "Sidi Azzouz",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARIK BNOU ZIAD",
+    "NOM_ETABA": "ثانوية طارق بن زياد الاعدادية",
+    "AdresseL": "CENTRE ZAOUIAT SAIS",
+    "AdresseA": "مركز زاوية سايس",
+    "COMMUNE": "Zaouiat Saiss",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL BSSILATE",
+    "NOM_ETABA": "ثانوية البصيلات الإعدادية",
+    "AdresseL": "DOUAR EL BSSILATE",
+    "AdresseA": "دوار البصيلات ",
+    "COMMUNE": "Zaouiat Saiss",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S ZAOUIT SAISS",
+    "NOM_ETABA": "م/م زاوية سايس",
+    "AdresseL": "centre ZAOUIAT SAISS ",
+    "AdresseA": "مركز زاوية سايس  ",
+    "COMMUNE": "Zaouiat Saiss",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAATAITE",
+    "NOM_ETABA": "م/م العتايت",
+    "AdresseL": "DOUAR LAATAITE ",
+    "AdresseA": "دوار العتايت ",
+    "COMMUNE": "Zaouiat Saiss",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAGNADLA",
+    "NOM_ETABA": "م/م الكنادلة",
+    "AdresseL": "DOUAR LAGUNADLA ",
+    "AdresseA": "دوار الكنادلة",
+    "COMMUNE": "Zaouiat Saiss",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

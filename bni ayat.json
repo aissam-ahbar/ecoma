@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED VI TENFARDA",
+    "NOM_ETABA": "ثانوية محمد السادس الإعدادية تنفردة",
+    "AdresseL": "DOUAR TENFARDA",
+    "AdresseA": "دوار تنفردة ",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI ALI BEN BRAHIM ",
+    "NOM_ETABA": "ثانوية سيدي علي بن ابراهيم الإعدادية",
+    "AdresseL": "DOUAR SIDI ALI BEN BRAHIM",
+    "AdresseA": "دوار سيدي علي بن ابراهيم",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE MZIGAZ",
+    "NOM_ETABA": "مركزية أمزيكاز",
+    "AdresseL": "DOUAR MZIGAZ  ",
+    "AdresseA": "دوار امزيكاز ",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TANFARDA",
+    "NOM_ETABA": "مركزية تنفردة",
+    "AdresseL": "DOUAR TANFARDA",
+    "AdresseA": "دوار تنفردة ",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE LAAOUINA",
+    "NOM_ETABA": "مركزية لعوينة",
+    "AdresseL": "DOUAR LAAOUINA",
+    "AdresseA": "دوار لعوينة",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TIZGUI",
+    "NOM_ETABA": "مدرسة تزكي",
+    "AdresseL": "CENTRE TIZGUI",
+    "AdresseA": "مركز تزكي",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT YAHIA",
+    "NOM_ETABA": "مركزية آيت يحيى",
+    "AdresseL": "DOUAR AIT YAHIA  ",
+    "AdresseA": "دوار ايت يحيى",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SIDI ALI BEN BRAHIM",
+    "NOM_ETABA": "مركزية سيدي علي بن ابراهيم",
+    "AdresseL": "DOUAR AGARTE",
+    "AdresseA": "دوار اكرط ",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSANE II",
+    "NOM_ETABA": "ثانوية الحسن الثاني التأهيلية",
+    "AdresseL": "TIZGUI CENTRE",
+    "AdresseA": "مركز تزكي",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TIZGUI",
+    "NOM_ETABA": "ثانوية تزكي التأهيلية",
+    "AdresseL": "DOUAR TANFARDA ",
+    "AdresseA": "دوار تنفردة",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OULAMAA EL GHADE",
+    "NOM_ETABA": "علماء الغد",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز بني عياط ازيلال ",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNABAT EL HASSAN 2",
+    "NOM_ETABA": "النبات الحسن 2",
+    "AdresseL": "",
+    "AdresseA": "بني عباط المركز أزيلال",
+    "COMMUNE": "Bni Ayat",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

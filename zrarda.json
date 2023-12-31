@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial ZERARDA ",
+    "NOM_ETABA": "الثانوية الإعدادية الزراردة ",
+    "AdresseL": "ZERARDA CENTRE",
+    "AdresseA": "الزراردة المركز",
+    "COMMUNE": "Zrarda",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "école ZERARDA",
+    "NOM_ETABA": "مدرسة الزراردة",
+    "AdresseL": "ZERARDA  centre cercle TAhla  taza",
+    "AdresseA": "الزراردة المركز دائرة تاهلة - تازة",
+    "COMMUNE": "Zrarda",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EL MALEH CENTRE",
+    "NOM_ETABA": "واد المالح المركز",
+    "AdresseL": "OUD EL MALAH COMMUNE ZRARDA",
+    "AdresseA": "دوارواد المالح  جماعة الزراردة",
+    "COMMUNE": "Zrarda",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED LAHMER CENTRE",
+    "NOM_ETABA": "واد لحمر المركز",
+    "AdresseL": "OUED LAHMER COMMUNE ZRARDA",
+    "AdresseA": "دوار واد لحمر  جماعة الزراردة",
+    "COMMUNE": "Zrarda",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ANNAJAH",
+    "NOM_ETABA": "ثانوية النجاح التأهيلية ",
+    "AdresseL": "centre zrarda",
+    "AdresseA": "مركز الزراردة",
+    "COMMUNE": "Zrarda",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL BOUADEL",
+    "NOM_ETABA": "ثانوية بوعادل الإعدادية",
+    "AdresseL": "bni koura commune bouadel",
+    "AdresseA": "بني قرة جماعة بوعادل",
+    "COMMUNE": "Bouadel",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BOUADEL",
+    "NOM_ETABA": "م/م  بوعادل",
+    "AdresseL": "COMMUNE BOUADEL CENTRE TAOUNATE",
+    "AdresseA": "جماعة بوعادل تاونات المركز",
+    "COMMUNE": "Bouadel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI KORRA",
+    "NOM_ETABA": "م/م  بني قـرة",
+    "AdresseL": "DOUAR EL MROUJ COMMUNE BOUADEL TAOUNATE",
+    "AdresseA": "دوار المروج جماعة بوعادل تاونات المركز",
+    "COMMUNE": "Bouadel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD AZAME",
+    "NOM_ETABA": "م/م اولاد أزم",
+    "AdresseL": "DOUAR CHAARIA COMMUNE BOUADEL TAOUNATE",
+    "AdresseA": "دوار الشعرية جماعة بوعادل - تاونات",
+    "COMMUNE": "Bouadel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN JNANE",
+    "NOM_ETABA": "م/م  عين جنان",
+    "AdresseL": "DOUAR AIN JNAN COMMUNE BOUADEL TAOUNATE",
+    "AdresseA": "دوار عين اجنان جماعة بوعادل تاونات المركز",
+    "COMMUNE": "Bouadel",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

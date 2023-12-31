@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI AHMED EL KHADIR",
+    "NOM_ETABA": "ثانوية سيدي أحمد الخدير الإعدادية",
+    "AdresseL": "Commune Sidi Ahmed El Khadir",
+    "AdresseA": "جماعة سيدي أحمد الخدير",
+    "COMMUNE": "Sidi Ahmed El Khadir",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LOUKARFA CENTRE",
+    "NOM_ETABA": "مركزية لوكارفة",
+    "AdresseL": "DOUAR LOUKARFA",
+    "AdresseA": "دوار لوكارفة",
+    "COMMUNE": "Sidi Ahmed El Khadir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAATOUCHA CENTRE",
+    "NOM_ETABA": "مركزية العطوشة",
+    "AdresseL": "DOUAR LAATOUCHA COMMUNE SIDI AHMED ELKHADIR",
+    "AdresseA": "دوار العطوشة سيدي أحمدالخدير",
+    "COMMUNE": "Sidi Ahmed El Khadir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SI MOUSSA CENTRE",
+    "NOM_ETABA": "مركزية اولاد سي موسى",
+    "AdresseL": "DOUAR OULAD SI MOUSSA COMMUNE SIDI AHMED ELKHADIR",
+    "AdresseA": "دوار اولاد سي موسى سيدي أحمد الخدير",
+    "COMMUNE": "Sidi Ahmed El Khadir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

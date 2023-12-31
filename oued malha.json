@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS ABDELAZIZ BEN DRISS MALHA",
+    "NOM_ETABA": "م/م عبد العزيز بن ادريس _الملحة",
+    "AdresseL": "CENTRE OUADE   MALHA  COMMUNE OUED MALHA CHEFCHAOU",
+    "AdresseA": "مركز  واد ملحة جماعة واد الملحة إقليم شفشاون",
+    "COMMUNE": "Oued Malha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED EL BARAKA ANKOUD",
+    "NOM_ETABA": "م/م محمد البركة _عنقود",
+    "AdresseL": "DOUAR AANKOUDCOUED MALHACHEFCHAOUEN",
+    "AdresseA": "دوار عنقود جماعة الملحة",
+    "COMMUNE": "Oued Malha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOUASS",
+    "NOM_ETABA": "م/م مواس",
+    "AdresseL": "DOUAR MOUASSCOUED MALHACHEFCHAOUEN",
+    "AdresseA": "دوار مواس جماعة واد الملحة",
+    "COMMUNE": "Oued Malha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BAHR ABIAD MOUTAOUASSET",
+    "NOM_ETABA": "الثانوية التأهيلية البحر الأبيض المتوسط",
+    "AdresseL": "COMMUNE MALHA CENTRE",
+    "AdresseA": "جماعة واد ملحة المركز",
+    "COMMUNE": "Oued Malha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

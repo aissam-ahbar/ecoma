@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL OUARGUI",
+    "NOM_ETABA": "ثانوية واركي الاعدادية",
+    "AdresseL": "commune OUARGUI",
+    "AdresseA": "جماعة واركي",
+    "COMMUNE": "Ouargui",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUARGUI CENTRE",
+    "NOM_ETABA": "مركزية واركي",
+    "AdresseL": "CENTRE OUARGUI",
+    "AdresseA": "مركز واركي",
+    "COMMUNE": "Ouargui",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MBAREK CENTRE",
+    "NOM_ETABA": "اولاد امبارك المركزية",
+    "AdresseL": "DOUAR LAQSOUR  COMMUNE OUARGUI",
+    "AdresseA": "دوار اولاد امبارك جماعة واركي",
+    "COMMUNE": "Ouargui",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ABDELKARIM EL KHATTABI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الكريم الخطابي",
+    "AdresseL": "Centre ouargui commune ouargui Cercle El Attaouia",
+    "AdresseA": "مركز واركي جماعة واركي دائرة العطاوية",
+    "COMMUNE": "Ouargui",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

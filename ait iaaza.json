@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALKHAWARIZMI",
+    "NOM_ETABA": "الثانوية الإعدادية الخوارزمي",
+    "AdresseL": "MUNICIPALITE AIT IAAZA ",
+    "AdresseA": "بلدية ايت إعزة",
+    "COMMUNE": "Ait Iaaza",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ESSAADIYINE",
+    "NOM_ETABA": "ثإ.السعديين",
+    "AdresseL": "MUNICIPALITE AIT IAAZZA",
+    "AdresseA": "بلدية ايت إعزة",
+    "COMMUNE": "Ait Iaaza",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E AL AAHD AL JADID",
+    "NOM_ETABA": "م.العهد الجديد",
+    "AdresseL": "CITE SALAM MUNICIPALITE AIT IAAZA",
+    "AdresseA": "حي السلام بلدية ايت إعزة",
+    "COMMUNE": "Ait Iaaza",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OULED YAHYA",
+    "NOM_ETABA": "م.أولاد يحيى",
+    "AdresseL": "DOUAR LAMHARZA AIT IAAZZA",
+    "AdresseA": "دوار المحارزة ايت إعزة",
+    "COMMUNE": "Ait Iaaza",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " L AIT IAAZA",
+    "NOM_ETABA": "ثأ.ايت اعزا",
+    "AdresseL": "MUNICIPALITE AIT IAAZA",
+    "AdresseA": "بلدية أيت إيعزة",
+    "COMMUNE": "Ait Iaaza",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "assanabil",
+    "NOM_ETABA": "السنابل",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام بلوك ب رقم 91 ايت اع",
+    "COMMUNE": "Ait Iaaza ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AKRAM",
+    "NOM_ETABA": "اكرم",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الموظفين ايت ايعزة",
+    "COMMUNE": "Ait Iaaza ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ahlam atofola",
+    "NOM_ETABA": "احلام الطفولة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تكركورت ايت اعزة",
+    "COMMUNE": "Ait Iaaza ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ahlam atofola B",
+    "NOM_ETABA": "احلام الطفولة ب",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام32 ايت اعزة",
+    "COMMUNE": "Ait Iaaza ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole khawla",
+    "NOM_ETABA": "مؤسسة خولة",
+    "AdresseL": "Hay ASSALAM BLOC B N  32 AIT I",
+    "AdresseA": "حي السلام بلوك ب رقم 32 أيت اي",
+    "COMMUNE": "Ait Iaaza ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement zaouia",
+    "NOM_ETABA": "مؤسسة الزاوية الخاصة",
+    "AdresseL": "n° 3 bloc b cité de fonctionna",
+    "AdresseA": "رقم 3 بلوك ب حي الموظفين ايت ا",
+    "COMMUNE": "Ait Iaaza ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANAR AL IRFANE AIT IAAZZA",
+    "NOM_ETABA": "منار العرفان ايت إعزا",
+    "AdresseL": "Bloc 1 n°42 quartier PAM",
+    "AdresseA": "بلوك 1 رقم 42 حي بام",
+    "COMMUNE": "Ait Iaaza ",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

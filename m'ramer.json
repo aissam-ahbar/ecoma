@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "commune MRAMER",
+    "AdresseA": "جماعة امرامر",
+    "COMMUNE": "M'Ramer",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S OUAD ELMAKHAZINE",
+    "NOM_ETABA": "م.م. وادي المخازن",
+    "AdresseL": "HAD MRAMER MRAMER",
+    "AdresseA": "حد مرامر مرامر",
+    "COMMUNE": "M'Ramer",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BNI SLIM",
+    "NOM_ETABA": "م م  بني سليم",
+    "AdresseL": "DOUAR BNI SLIM MRAMER",
+    "AdresseA": "دوار العزبان جماعة امرامر ",
+    "COMMUNE": "M'Ramer",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S KHALID BNOU LOUALID",
+    "NOM_ETABA": "م م خالد بن الوليد",
+    "AdresseL": "DOUAR EZRARGA MRAMER",
+    "AdresseA": "دوار الزراركة",
+    "COMMUNE": "M'Ramer",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

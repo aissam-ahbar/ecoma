@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "AIT FASKA",
+    "NOM_ETABA": "ايت فاسكا",
+    "AdresseL": "DOUAR TALTYA COMMUNE AIT FASKA",
+    "AdresseA": "دوار الثلتيةجماعة ايت فاسكا",
+    "COMMUNE": "Ait Faska",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MOULAY ALI",
+    "NOM_ETABA": "ابت مولاي علي",
+    "AdresseL": "DOUAR AIT MY ALI COMMUNE AIT FASKA",
+    "AdresseA": "دوار ايت مولاي علي جماعة ايت فاسكا",
+    "COMMUNE": "Ait Faska",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGADIR N AIT LAHCEN",
+    "NOM_ETABA": "اكادير نايت لحسن",
+    "AdresseL": "DOUAR AGADIR N AIT LAHCEN COMMUNE AIT FASKA",
+    "AdresseA": "دوار اكادير نايت لحسن جماعة ايت فاسكا",
+    "COMMUNE": "Ait Faska",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAAMAL",
+    "NOM_ETABA": "المعمل",
+    "AdresseL": "SNCECOMMUNE AIT FASKA",
+    "AdresseA": "معمل القادوس جماعة ايت فاسكا",
+    "COMMUNE": "Ait Faska",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ALI OUHAMOU",
+    "NOM_ETABA": "ايت اعلي اوحمو",
+    "AdresseL": "DOUAR AIT ALI OUHAMMOU COMMUNE AIT FASKA",
+    "AdresseA": "دوار ايت اعلي اوحمو",
+    "COMMUNE": "Ait Faska",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIKOUTAR",
+    "NOM_ETABA": "تكوتار",
+    "AdresseL": "DOUAR TIKOUTAR COMMUNE AIT FASKA",
+    "AdresseA": "دوار تكوتار جماعة ايت فاسكا",
+    "COMMUNE": "Ait Faska",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALMOuFID",
+    "NOM_ETABA": "روض المفيد",
+    "AdresseL": "",
+    "AdresseA": "دوار ايت م علي جماعة ايت فاسكا",
+    "COMMUNE": "Ait Faska",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

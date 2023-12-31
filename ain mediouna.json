@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL ABOU CHITAE SENHAJI",
+    "NOM_ETABA": "ثانوية ابو الشتاء الصنهاجي الإعدادية",
+    "AdresseL": "COMMUNE AIN MEDIOUNA CENTRE  TAOUNATE",
+    "AdresseA": "مركز عين مديونة",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL AIN MEDIOUNA",
+    "NOM_ETABA": "ثانوية عين مديونة الإعدادية",
+    "AdresseL": "COMMUNE AIN MEDIOUNA",
+    "AdresseA": "مركز جماعة عين مديونة",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AIN MEDIOUNA",
+    "NOM_ETABA": "م/م  عين مديونة",
+    "AdresseL": "COMMUNE AIN MEDIOUNA CENTRE TAOUNATE",
+    "AdresseA": "جماعة عين مديونة المركز تاونات",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI SALMANE",
+    "NOM_ETABA": "م/م  بني  سلمان",
+    "AdresseL": "douar bni salmaneCOMMUNE AIN MEDIOUNA TAOUNATE",
+    "AdresseA": "دوار بني سلمان جماعة عين مديونة تاونات ",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUKNALA",
+    "NOM_ETABA": "م/م  بوكنالة",
+    "AdresseL": "DOUAR BOUKNALA COMMUNE AIN MEDIOUNA TAOUNATE",
+    "AdresseA": "دوار بوكنالة جماعة عين مديونة تاونات",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL FKIH EL KORRI",
+    "NOM_ETABA": "م/م  الفقيه القري",
+    "AdresseL": "COMMUNE AIN MEDIOUNA CENTRE TAOUNATE",
+    "AdresseA": "جماعة عين مديونة- تاونات",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAHA HOUSEIN ",
+    "NOM_ETABA": "ثانوية طه حسين التأهيلية",
+    "AdresseL": "AIN MEDIOUNA",
+    "AdresseA": "عين مديونة",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "EL BENTIRI",
+    "NOM_ETABA": "البنتيري",
+    "AdresseL": "NULL",
+    "AdresseA": "حي ادرداغ مركز عين مديونة",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire el-bentiri",
+    "NOM_ETABA": "مجموعة مدارس البنتيري",
+    "AdresseL": "NULL",
+    "AdresseA": "حي دردغ عين مديونة تاونات",
+    "COMMUNE": "Ain Mediouna",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

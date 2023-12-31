@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "C ABI DAR EL GHIFARI",
+    "NOM_ETABA": "إع. أبي ذر الغفاري",
+    "AdresseL": "LOT BADR",
+    "AdresseA": "تجزئة بدر",
+    "COMMUNE": "Bni Drar",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ABDELMOUMEN",
+    "NOM_ETABA": "م. عبد المومن",
+    "AdresseL": "BOULEVARD HASSAN II",
+    "AdresseA": "شارع  الحسن الثاني",
+    "COMMUNE": "Bni Drar",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HASSAN BNOU TABIT",
+    "NOM_ETABA": "م. حسان بن ثابت",
+    "AdresseL": "HAY EL KADIM BD EL MOUKAOUAMA",
+    "AdresseA": "الحي القديم شارع المقاومة",
+    "COMMUNE": "Bni Drar",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L IBNOU ZOUHR",
+    "NOM_ETABA": "ثا. ابن زهر",
+    "AdresseL": "BNI DRAR",
+    "AdresseA": "بني درار المركز",
+    "COMMUNE": "Bni Drar",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OUM ELKHAIR ASSINDIBAD",
+    "NOM_ETABA": "أم الخير السندباد",
+    "AdresseL": "N°137&138 Hay Lqdim",
+    "AdresseA": "الحي القديم رقم 137 و138",
+    "COMMUNE": "Bni Drar ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM EL ANDALOUS",
+    "NOM_ETABA": "براعم الأندلس",
+    "AdresseL": "bd moulay abdelah",
+    "AdresseA": "شارع مولاي عبد الله",
+    "COMMUNE": "Bni Drar ",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "OULED ZBAIR",
+    "NOM_ETABA": "اولاد ازباير",
+    "AdresseL": "OULED ZBAIR CENTRE COMMUNE OULED ZBAIR",
+    "AdresseA": "اولاد ازباير المركز جماعة اولاد ازباير",
+    "COMMUNE": "Oulad Zbair",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAOUFIK CENTRE",
+    "NOM_ETABA": "التوفيق المركز",
+    "AdresseL": "COMMUNE OULED ZBAIR",
+    "AdresseA": "  جماعة اولاد ازباير",
+    "COMMUNE": "Oulad Zbair",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BEN TITA CENTRE",
+    "NOM_ETABA": "أولاد بنطيطة المركز",
+    "AdresseL": "DOUAR OULED BENTITA COMMUNE OULED ZBAIR",
+    "AdresseA": "دوار اولاد بنطيطة جماعة اولاد ازباير",
+    "COMMUNE": "Oulad Zbair",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN SAID CENTRE",
+    "NOM_ETABA": "عين سعيد المركز",
+    "AdresseL": "DOUAR AIN SAAID COMMUNE OULED ZBAIR",
+    "AdresseA": "دوار عين سعيد جماعة اولاد ازباير",
+    "COMMUNE": "Oulad Zbair",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ROUKBA CENTRE",
+    "NOM_ETABA": "الركبة المركز",
+    "AdresseL": "DOUAR ROUKBA COMMUNE  OULAD ZBAIR ",
+    "AdresseA": "دوار الركبة جماعة اولاد ازباير",
+    "COMMUNE": "Oulad Zbair",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "CENTRE OULAD ZBAIR",
+    "AdresseA": "مركز اولاد ازباير",
+    "COMMUNE": "Oulad Zbair",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZAYTOUNE",
+    "NOM_ETABA": "ثانوية الزيتون التأهيلية",
+    "AdresseL": "OULED ZBAIR CENTRE",
+    "AdresseA": "اولاد ازباير المركز",
+    "COMMUNE": "Oulad Zbair",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

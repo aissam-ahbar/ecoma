@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM CHAFII",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام الشافعي",
+    "AdresseL": "AIT IMOUR",
+    "AdresseA": "أيت إيمور",
+    "COMMUNE": "Ait Imour",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ss AIT IMOUR centrale",
+    "NOM_ETABA": "مجموعة مدارس أيت إيمور المركزية",
+    "AdresseL": "AIT KHOUMANE SEBT Cercle AIT IMOUR",
+    "AdresseA": "دوار أيت خمان السبت ج أيت إيمور",
+    "COMMUNE": "Ait Imour",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss HAFSA BENT OMAR centrale",
+    "NOM_ETABA": "مجموعة مدارس حفصة بنت عمر المركزية",
+    "AdresseL": "DOUAR BOU RIAL  CAIT IMOUR",
+    "AdresseA": "دوار بو ريال ج أيت إيمور",
+    "COMMUNE": "Ait Imour",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss SAFSAFA centrale",
+    "NOM_ETABA": "مجموعة مدارس الصفصافة المركزية",
+    "AdresseL": "DOUAR EL AISSAOUI CAIT IMOUR",
+    "AdresseA": "دوار الصفصافة جماعة أيت إيمور",
+    "COMMUNE": "Ait Imour",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss IBNO ALOUANNAN centrale",
+    "NOM_ETABA": "مجموعة مدارس ابن الونان المركزية",
+    "AdresseL": "DOUAR AIT BOUHOU Commune   AIT IMOUR",
+    "AdresseA": "دوار أيت بوهو جماعة  أيت إيمور",
+    "COMMUNE": "Ait Imour",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

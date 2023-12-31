@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL JBIEL",
+    "NOM_ETABA": "ثانوية الجبيل الاعدادية",
+    "AdresseL": "Centre commune Jbiel",
+    "AdresseA": "مركز جماعة الجبيل",
+    "COMMUNE": "Jbiel",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAASSASLA CENTRE",
+    "NOM_ETABA": "العساسلة المركزية",
+    "AdresseL": "DOUAR LAASASLA COMMUNE JBIL",
+    "AdresseA": "دوار العساسلة المركزية جماعة الجبيل",
+    "COMMUNE": "Jbiel",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MELLASSA GARN EL KABCH CENTRE",
+    "NOM_ETABA": "الملاسة كرن الكبش المركزية",
+    "AdresseL": "DOUAR EL MELLASSA COMMUNE JBIEL",
+    "AdresseA": "دوار الملاسة جماعة الجبيل",
+    "COMMUNE": "Jbiel",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SNOUSSYINE CENTRE",
+    "NOM_ETABA": "السنوسيين المركزية",
+    "AdresseL": "DOUAR SNOUSSYINE COMMUNE JBIL",
+    "AdresseA": "دوار السنوسيين جماعة الجبيل",
+    "COMMUNE": "Jbiel",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHEDMIA CENTRE",
+    "NOM_ETABA": "الشيظمية المركزية",
+    "AdresseL": "DOUAR cHIDMIA COMMUNE JBIL cercle tamelalete",
+    "AdresseA": "دوار الشيظمية جماعة الجبيل دائرة تملالت",
+    "COMMUNE": "Jbiel",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KTAOUA RAS EL EIN CENTRE",
+    "NOM_ETABA": "اكتاوة رأس العين المركزية",
+    "AdresseL": "Commune jbiel",
+    "AdresseA": "جماعة جبيل",
+    "COMMUNE": "Jbiel",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

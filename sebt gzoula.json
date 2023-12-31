@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FQIH EL JAZOULI",
+    "NOM_ETABA": "الثانوية الإعدادية الفقيه الجزولي",
+    "AdresseL": "ROUTE KHMISS NEGGA SEBT GZOULA",
+    "AdresseA": "طريق خميس نكة سبت جزولة",
+    "COMMUNE": "Sebt Gzoula",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELKHALEK TORRISE",
+    "NOM_ETABA": "مدرسة عبد الخالق الطريس",
+    "AdresseL": "CENTRE SEBT GZOULA",
+    "AdresseA": "سبت جزولة",
+    "COMMUNE": "Sebt Gzoula",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MALIKA EL FASSI",
+    "NOM_ETABA": "مدرسة مالكة الفاسي",
+    "AdresseL": "quartier AL MASJID SEBT GZOULA",
+    "AdresseA": "حي المسجد سبت جزولة",
+    "COMMUNE": "Sebt Gzoula",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDERRAHIM BOUABID",
+    "NOM_ETABA": "مدرسة عبد الرحيم بوعبيد",
+    "AdresseL": "municipalité  SEBT  GZOULA",
+    "AdresseA": "بلدية سبت  جزولة",
+    "COMMUNE": "Sebt Gzoula",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ISMAIL",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي اسماعيل",
+    "AdresseL": "ROUTE ESSAOUIRA SEBT GZOULA",
+    "AdresseA": "طريق الصويرة  سبت جزولة",
+    "COMMUNE": "Sebt Gzoula",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NOUR ALFAJR 1",
+    "NOM_ETABA": "مجموعة مدارس نور الفجر 1",
+    "AdresseL": "quartier administratif, lotise",
+    "AdresseA": "الحي الإداري تجزئة الزيتون، سب",
+    "COMMUNE": "Sebt Gzoula ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achorouk",
+    "NOM_ETABA": "الشروق",
+    "AdresseL": "quartier administratif",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Sebt Gzoula ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anexe g s alaahd aljadide",
+    "NOM_ETABA": "ملحقة العهد الجديد الخصوصية",
+    "AdresseL": "34 QARTIER ASSILA gzoula",
+    "AdresseA": "حي الهجة جزولة",
+    "COMMUNE": "Sebt Gzoula ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AAHD AL JADID",
+    "NOM_ETABA": "العهد الجديد",
+    "AdresseL": "85 lot ekhlass sebt gzoula",
+    "AdresseA": "مركز سبت جزولة85 تجزئة الإخلاص",
+    "COMMUNE": "Sebt Gzoula ",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

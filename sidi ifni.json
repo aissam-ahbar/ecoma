@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 30 JUIN",
+    "NOM_ETABA": "الثانوية الإعدادية 30 يونيو",
+    "AdresseL": "cite lalla meriem",
+    "AdresseA": "حي للامريم",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN 1ER",
+    "NOM_ETABA": "الثانوية الإعدادية الحسن الأول",
+    "AdresseL": " route du port sidi ifni",
+    "AdresseA": " طريق الميناء   -   سيدي افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MOHIT",
+    "NOM_ETABA": "الثانوية الإعدادية المحيط",
+    "AdresseL": "QUARTIER AL MOHIT SIDI IFNI",
+    "AdresseA": "حي المحيط سيدي إفني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EN NAHDA",
+    "NOM_ETABA": "المدرسة الابتدائية النهضة",
+    "AdresseL": "AV ALQODSLALLA MERYEMVILLE SIDI IFNI",
+    "AdresseA": "شارع القدس حي للا مريم مدينة سيدي افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN TOFAIL",
+    "NOM_ETABA": "المدرسة الابتدائية ابن طفيل",
+    "AdresseL": "AV MOHAMED V",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HALIMA ESSAADIA",
+    "NOM_ETABA": "المدرسة الابتدائية حليمة السعدية",
+    "AdresseL": "17AV HASSAN II VILLE SIDI IFNI",
+    "AdresseA": "شارع الحسن التاني مدينة سيدي افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FATH",
+    "NOM_ETABA": "المدرسة الابتدائية الفتح",
+    "AdresseL": "WIDADIYAT ELFATH SDD IFNI",
+    "AdresseA": "ودادية الفتح سيدي افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL AHD AL JADID",
+    "NOM_ETABA": "المدرسة الابتدائية العهد الجديد",
+    "AdresseL": "1 AV LAYOUNE HAY LALLA MARIAM VILLE SIDIIFNI",
+    "AdresseA": "1شارع العيون حي للا مريم مدينة سيدي افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EDDAKHLA",
+    "NOM_ETABA": "المدرسة الابتدائية الداخلة",
+    "AdresseL": "AV OUAJDA ABOU ALKHOTOT SIDI IFNI",
+    "AdresseA": "شارع  وجدة  ابو الخطوط سيدي  افني  ",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHARIF EL IDRISSI",
+    "NOM_ETABA": "المدرسة الابتدائية الشريف الادريسي",
+    "AdresseL": "ABOU LKHOTOT CERCLE IFNI",
+    "AdresseA": "حي ابو الخطوط",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED KARIM BEN BRAHIM",
+    "NOM_ETABA": "المدرسة الابتدائية محمد كريم بن ابراهيم",
+    "AdresseL": "hay almohitt sidi ifni",
+    "AdresseA": "حي المحيط سيدي افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MONTALAQ",
+    "NOM_ETABA": "مدرسة المنطلق",
+    "AdresseL": "QUARTIER AL MONTALAQ SIDI IFNI",
+    "AdresseA": "حي المنطلق سيدي افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AIT BAAMRANE",
+    "NOM_ETABA": "مدرسة أيت بعمران الابتدائية",
+    "AdresseL": "QUARTIER AL MOHIT SIDI IFNI",
+    "AdresseA": "حي المحيط سيدي إفني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY IDRISS",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي ادريس",
+    "AdresseL": "  BOULEVARD LALLA ABLA ROUTE DU PORT SIDI IFNI",
+    "AdresseA": " شارع للاعبلة طريق الميناء سيدي افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ABDELLAH",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي عبد الله",
+    "AdresseL": "hay lalla mariem ifni",
+    "AdresseA": "حي للامريم افني",
+    "COMMUNE": "Sidi Ifni",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Ecole AIT BAAMRANEE",
+    "NOM_ETABA": "مدرسة ايت بعمران للتعليم الخصوصي",
+    "AdresseL": "15 AV. ALQAHIRA WIDADIAT ALFAT",
+    "AdresseA": "                              ",
+    "COMMUNE": "Sidi Ifni ",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  }
+]

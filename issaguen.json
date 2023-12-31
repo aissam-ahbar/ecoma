@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ISSAGUEN ",
+    "NOM_ETABA": "اع اساكن",
+    "AdresseL": "CENTRE ISSAGUEN  COMMUNE ISSAGUEN",
+    "AdresseA": "مركز اساكن جماعة اساكن",
+    "COMMUNE": "Issaguen",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ISSAGUEN",
+    "NOM_ETABA": "م/م اساكن",
+    "AdresseL": "CENTRE ISSAGUEN COMMUNE ISSAGUEN",
+    "AdresseA": "مركز اساكن جماعة اساكن",
+    "COMMUNE": "Issaguen",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALAROUAK",
+    "NOM_ETABA": "تلارواق",
+    "AdresseL": "DOUAR TALAROUAK COMMUNE ISSAGUEN",
+    "AdresseA": "دوار تلارواق جماعة اساكن",
+    "COMMUNE": "Issaguen",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZILA",
+    "NOM_ETABA": "ازيلا",
+    "AdresseL": "DOUAR AZILA COMMUNE ISSAGUEN",
+    "AdresseA": "دوار ازيلا جماعة اساكن",
+    "COMMUNE": "Issaguen",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL FARABI",
+    "NOM_ETABA": "ثانوية الفارابي",
+    "AdresseL": "COMMUE ISSAGUEN",
+    "AdresseA": "جماعة إساكن",
+    "COMMUNE": "Issaguen",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

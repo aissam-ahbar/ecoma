@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ENNAHDA",
+    "NOM_ETABA": "الثانوية الاعدادية النهضة",
+    "AdresseL": "HAD GHARBIA COMMUNE HAD GHARBIA",
+    "AdresseA": "أحد الغربية جماعة حد الغربية",
+    "COMMUNE": "Had Al Gharbia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAD GHARBIA",
+    "NOM_ETABA": "مدرسة أحد الغربية الابتدائية",
+    "AdresseL": "HAD GHARBIA ",
+    "AdresseA": "احد الغربية ",
+    "COMMUNE": "Had Al Gharbia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OULED ANTAR",
+    "NOM_ETABA": "مدرسة أولاد عنتر الابتدائية",
+    "AdresseL": "DOUAR OULED ANTAR COMMUNE HAD GHARBIA",
+    "AdresseA": "دوار أولاد عنتر جماعة حد الغربية",
+    "COMMUNE": "Had Al Gharbia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE EL HAD LAKDIM",
+    "NOM_ETABA": "المجموعة المدرسية الأحد القديم",
+    "AdresseL": "DOUAR DAIDAA COMMUNE  had gharbia",
+    "AdresseA": "دوار الدعيدعة جماعة حد الغربية",
+    "COMMUNE": "Had Al Gharbia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE BRIDYA",
+    "NOM_ETABA": "المجموعة المدرسية البريدية",
+    "AdresseL": "DOUAR BRIDYA COMMUNE had elgharbia",
+    "AdresseA": "دوار البريدية جماعة حد الغربية",
+    "COMMUNE": "Had Al Gharbia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE RFAYEF",
+    "NOM_ETABA": "المجموعة المدرسية الرفايف",
+    "AdresseL": "DOUAR RFAIF COMMUNE had gharbia",
+    "AdresseA": "دوار الرفايف جماعة حد الغربية",
+    "COMMUNE": "Had Al Gharbia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULED ABBOU",
+    "NOM_ETABA": "المجموعة المدرسية أولاد عبو",
+    "AdresseL": "DOUAR OULED ABBOU COMMUNE HAD GHARBIA",
+    "AdresseA": "دوار أولاد عبو جماعة حد الغربية",
+    "COMMUNE": "Had Al Gharbia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZILIL",
+    "NOM_ETABA": "الثانوية التأهيلية زيليل",
+    "AdresseL": "Centre commune had al gharbia",
+    "AdresseA": "مركز جماعة حد الغربية",
+    "COMMUNE": "Had Al Gharbia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TIMOULAY ",
+    "NOM_ETABA": "الثانوية الإعدادية تيمولاي",
+    "AdresseL": "CENTRE COMMUNE TIMOULAY province de guelmim",
+    "AdresseA": "جماعة تيمولاي المركز اقليم كلميم",
+    "COMMUNE": "Timoulay",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI BOURJA",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي بورجا",
+    "AdresseL": "TIMOULAY IZDAR  TIMOULAY",
+    "AdresseA": "تيمولاي ازدار تيمولاي",
+    "COMMUNE": "Timoulay",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TIMOULAY OUFELLA",
+    "NOM_ETABA": "م م تيمولاي اوفلا",
+    "AdresseL": "TIMOULAY OUFELLA COMMUNE TIMOULAY",
+    "AdresseA": "تيمولاي أوفلا جماعة تيمولاي",
+    "COMMUNE": "Timoulay",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TISLANE",
+    "NOM_ETABA": "م.م تيسلان",
+    "AdresseL": "DOUAR TISSLANE TIMOULAY",
+    "AdresseA": "دوار تيسلان  تيمولاي",
+    "COMMUNE": "Timoulay",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TIMOULAY",
+    "NOM_ETABA": "الثانوية التأهيلية تيمولاي",
+    "AdresseL": "COMMUNE TIMOULAY",
+    "AdresseA": "جماعة تيمولاي",
+    "COMMUNE": "Timoulay",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

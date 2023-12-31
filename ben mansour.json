@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL JAHED",
+    "NOM_ETABA": "الثانوية الاعدادية الجاحض",
+    "AdresseL": "COLLECTIVITE BEN MANSOUR KENITRA",
+    "AdresseA": "جماعة  بنمنصور القنيطرة",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED BELHASSAN EL OUAZZANI",
+    "NOM_ETABA": "الثانوية الاعدادية محمد بالحسن الوزاني",
+    "AdresseL": "COMMUNE BEN MANSOUR",
+    "AdresseA": "جماعة بن منصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL HASSAN AL BASRI",
+    "NOM_ETABA": "الحسن البصري",
+    "AdresseL": "OULED ZIANE BENMANSOUR",
+    "AdresseA": "اولاد زيان بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BENZIANE",
+    "NOM_ETABA": "اولاد بنزيان",
+    "AdresseL": "DOUAR OULED BENZIANE COMMUNE BENMANSOUR",
+    "AdresseA": "دوار اولاد بنزيان جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AATIA",
+    "NOM_ETABA": "اولاد عطية",
+    "AdresseL": "DOUAR OULED AATIA COMMUNE BENMANSOUR",
+    "AdresseA": "دوار اولاد عطية جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  OULED MHAMED",
+    "NOM_ETABA": "م,م اولاد امحمد",
+    "AdresseL": "DOUAR OULED MHAMED CENTRE COMMUNE BENMANSOUR",
+    "AdresseA": "دوار اولاد امحمد المركز جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHERARDA",
+    "NOM_ETABA": "اشراردة",
+    "AdresseL": "DOUAR CHERARDA      COMMUNE BENMANSOUR",
+    "AdresseA": "دوار اشراردة جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MAACHATE",
+    "NOM_ETABA": "م/م المعاشات",
+    "AdresseL": "DOUAR MAACHATE   COMMUNE BENMANSOUR",
+    "AdresseA": "دوار المعاشات جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HANNAK",
+    "NOM_ETABA": "هناك",
+    "AdresseL": "DOUAR HNNAK  COMMUNE BENMANSOUR",
+    "AdresseA": "دوارهناك جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELHACHMI ELBAHRAOUI  ",
+    "NOM_ETABA": "الهاشمي البحراوي ",
+    "AdresseL": "DOUAR OULED MILOUD COMMUNE BEN MANSOUR",
+    "AdresseA": "دوار اولاد ميلود جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED EL MALKIA",
+    "NOM_ETABA": "أولاد المالكية",
+    "AdresseL": "douar ouled  EL MALKIA  COMMUNE BENMANSOUR",
+    "AdresseA": "دوار أولاد المالكية جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FALAH",
+    "NOM_ETABA": " الفلاح",
+    "AdresseL": "DOUAR ZAOUYA COMMUNE BEN MANSSOUR",
+    "AdresseA": "دوار الزاوية جماعة بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HAFID IBRAHIM",
+    "NOM_ETABA": "الثانوية التأهيلية حافظ ابراهيم",
+    "AdresseL": "benmansour",
+    "AdresseA": "بنمنصور",
+    "COMMUNE": "Ben Mansour",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN EL KHATIB",
+    "NOM_ETABA": "الثانوية الإعدادية ابن الخطيب",
+    "AdresseL": "KAHF ENSSOUR CENTRE COMMUNE SIDI LAMINE",
+    "AdresseA": "كهف النسور مركز جماعة سيدي لامين",
+    "COMMUNE": "Sidi Lamine",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KAHF N SOUR",
+    "NOM_ETABA": "كهف النسور",
+    "AdresseL": "KAHF N SOUR CENTRE COMMUNE SIDI LAMINE",
+    "AdresseA": "كهف النسور المركز جماعة سيدي لامين",
+    "COMMUNE": "Sidi Lamine",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUAABADE",
+    "NOM_ETABA": "سيدي بوعباد",
+    "AdresseL": "centre SIDI BOUABAD COMMUNE SIDI LAMINE",
+    "AdresseA": "مركز سيدي بوعباد جماعة سيدي لامين",
+    "COMMUNE": "Sidi Lamine",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT AABI",
+    "NOM_ETABA": "ايت عبي",
+    "AdresseL": "DOUAR AIT AABI COMMUNE SIDI LAMINE",
+    "AdresseA": "دوار ايت عبي جماعة سيدي لامين",
+    "COMMUNE": "Sidi Lamine",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IZOUMAGUENE",
+    "NOM_ETABA": "ازوماكن",
+    "AdresseL": "DOUAR IZOUMAGUENE COMMUNE SIDI LAMINE",
+    "AdresseA": "دوار ازوماكن جماعة سيدي لامين",
+    "COMMUNE": "Sidi Lamine",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABARQI",
+    "NOM_ETABA": "ابرقي",
+    "AdresseL": "DOUAR ABARQI COMMUNE SIDI LAMINE",
+    "AdresseA": "دوار ابرقي جماعة سيدي لامين",
+    "COMMUNE": "Sidi Lamine",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI LAMINE",
+    "NOM_ETABA": "سيدي لامين",
+    "AdresseL": "KAHF N SOUR CENTRE COMMUNE SIDI LAMINE",
+    "AdresseA": "مركز كاف النسور جماعة سيدي لامين",
+    "COMMUNE": "Sidi Lamine",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKARIM AL KHATTABI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الكريم الخطابي",
+    "AdresseL": "KAF NSOUR CENTRE",
+    "AdresseA": "كاف النسور المركز",
+    "COMMUNE": "Sidi Lamine",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

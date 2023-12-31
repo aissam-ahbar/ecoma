@@ -1,0 +1,142 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZAINEB NAFZAOUIA",
+    "NOM_ETABA": "الثانوية الإعدادية زينب النفزاوية",
+    "AdresseL": "DOUAR OULADSAKHAR",
+    "AdresseA": "دوار أولاد صخار",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE LAAOUAMRA ",
+    "NOM_ETABA": "الثانوية الإعدادية العوامرة  ",
+    "AdresseL": "LAOUAMRA CENTRE COMMUNE LAOUAMRA",
+    "AdresseA": "العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE EDDAKHLA",
+    "NOM_ETABA": "مدرسة الداخلة",
+    "AdresseL": "LAOUAMRA CENTRE COMMUNE LAOUAMRA",
+    "AdresseA": "مركز العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SS SALAH  EDDINE  EL AYOUBI  ",
+    "NOM_ETABA": "م/م صلاح الدين الأيوبي",
+    "AdresseL": "DOUAR OULED HAMMOU EL GHABA COMMUNE LAOUAMRA",
+    "AdresseA": "دوار أولاد حمو الغابة جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA  BNOU  NOSSAIR CENTRE ",
+    "NOM_ETABA": "م/م موسى بن نصير المركزية ",
+    "AdresseL": "DOUAR BOUCHAREN COMMUNE LAOUAMRA",
+    "AdresseA": "دوار بوشارن جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU  BATOUTA  ZLAOULA  CENTRE ",
+    "NOM_ETABA": "م/م  ابن بطوطة المركز",
+    "AdresseL": "DOUAR ZLAOULA COMMUNE LAOUAMRA",
+    "AdresseA": "دوار الزلاولة جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SATTELITE LAGHWAZI",
+    "NOM_ETABA": "فرعية  الغوازي",
+    "AdresseL": "DOUAR LAGHWAZI COMMUNE LAOUAMRA",
+    "AdresseA": "دوار الغوازي جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED  LAGHMARI CENTRE ",
+    "NOM_ETABA": "م/م أولاد الغماري المركزية",
+    "AdresseL": "DOUAR OULED LAGHMARI COMMUNE LAOUAMRA",
+    "AdresseA": "دوار أولاد الغماري جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULED SKHAR",
+    "NOM_ETABA": "مدرسة أولاد صخار",
+    "AdresseL": "DOUAR OULED SKHAR COMMUNE LAOUAMRA",
+    "AdresseA": "دوار أولاد صخار  جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RHAMNA CENTRE",
+    "NOM_ETABA": "م/م الرحامنة المركزية",
+    "AdresseL": "DOUAR RHAMNA COMMUNE LAOUAMRA",
+    "AdresseA": "دوار الرحامنة جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL HYAYDA",
+    "NOM_ETABA": "مدرسة  الهيايضة",
+    "AdresseL": "DOUAR HYAYDA COMMUNE LAOUAMRA",
+    "AdresseA": "دوار الهيايضة جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELMOUARAA RMEL CENTRE",
+    "NOM_ETABA": "م/م  الموارعة الرمل",
+    "AdresseL": "DOUAR MOUARAA RMEL COMMUNE LAOUAMRA",
+    "AdresseA": "دوار موارعة  الرمل جماعة العوامرة",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL ELFASSI",
+    "NOM_ETABA": "الثانوية التأهيلية علال الفاسي",
+    "AdresseL": "LAAOUAMRA CENTRE COMMUNE LAAOUAMRA",
+    "AdresseA": "العوامرة المركز",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ACHOROUK",
+    "NOM_ETABA": "الشروق ",
+    "AdresseL": "lotissement Mabrouka lot n°95 ",
+    "AdresseA": "تجزئة مبروك رقم 95",
+    "COMMUNE": "Laouamra",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

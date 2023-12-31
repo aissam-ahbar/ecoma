@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS ANNAJAH",
+    "NOM_ETABA": "م.م النجاح",
+    "AdresseL": "DOUAR   TAMASTE C IGOUDAR LMNABHA",
+    "AdresseA": "دوار تماصت جماعة ايكودار امنابها",
+    "COMMUNE": "Igoudar Mnabha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALAA",
+    "NOM_ETABA": "م.م الطالعة",
+    "AdresseL": "DOUAR ZAOUIT SIDI ABDALLAH C IGOUDAR L MNABHA",
+    "AdresseA": "د. زاوية سيدي عبد الله",
+    "COMMUNE": "Igoudar Mnabha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

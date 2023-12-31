@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "TARGA",
+    "NOM_ETABA": "تاركة",
+    "AdresseL": "DOUAR TARGA COMMUNE KERROUCHEN",
+    "AdresseA": "دوار ناركة- جماعة كروشن",
+    "COMMUNE": "Kerrouchen",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMARHANE",
+    "NOM_ETABA": "امرهان",
+    "AdresseL": "DOUAR IMARHANE COMMUNE KERROUCHEN",
+    "AdresseA": "دوار امرهان جماعة كروشن",
+    "COMMUNE": "Kerrouchen",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TISFOULA",
+    "NOM_ETABA": "تسفولة",
+    "AdresseL": "DOUAR TISFOULA COMMUNE KERROUCHEN",
+    "AdresseA": "دوار تسفولة جماعة كروشن",
+    "COMMUNE": "Kerrouchen",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 20 AOUT",
+    "NOM_ETABA": "الثانوية التأهيلية 20 غشت",
+    "AdresseL": "KERROUCHEN CENTRE COMMUNE KERROUCHEN",
+    "AdresseA": "مركز جماعة كروشن",
+    "COMMUNE": "Kerrouchen",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

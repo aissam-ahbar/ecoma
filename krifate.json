@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AL IMAM ALI",
+    "NOM_ETABA": "ثانوية الإمام علي الإعدادية",
+    "AdresseL": "douar jdid commune krifat",
+    "AdresseA": "الدوار الجديد جماعة الكريفات",
+    "COMMUNE": "Krifate",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE FQUIH BEN SALAH ELGHARBIA",
+    "NOM_ETABA": "مدرسة الفقيه بن صالح الغربية",
+    "AdresseL": "FQUIH ben salah elgharbia commune krifate",
+    "AdresseA": "الفقيه بن صالح الغربية جماعة الكريفات ",
+    "COMMUNE": "Krifate",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ABDOUNE",
+    "NOM_ETABA": "مركزية اولاد عبدون",
+    "AdresseL": "OULED ABDOUNE COMMUNE KRIFATE",
+    "AdresseA": "جماعة  الكريفات",
+    "COMMUNE": "Krifate",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKRIFATE CENTRE",
+    "NOM_ETABA": "مركزية الكريفات",
+    "AdresseL": "CENTRE LAKRIFATE COMMUNE LAKRIFATE",
+    "AdresseA": "جماعة  الكريفات",
+    "COMMUNE": "Krifate",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BOKHADDOU CENTRE",
+    "NOM_ETABA": "مركزية اولاد بوخدو",
+    "AdresseL": "OULED BOKHADDOU COMMUNE KRIFATE",
+    "AdresseA": "أولاد بوخدو - جماعة الكريفات",
+    "COMMUNE": "Krifate",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZINEB ENNAFZAOUIA",
+    "NOM_ETABA": "مدرسة زينب النفزاوية",
+    "AdresseL": "LOT ESSALAM FKIH BEN SLAH",
+    "AdresseA": "تجزئة السلام الفقيه بن صالح",
+    "COMMUNE": "Krifate",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OUHOUD QUALIFIANT",
+    "NOM_ETABA": "ثانوية أحد التأهيلية",
+    "AdresseL": "LOT ESSALAM krifat",
+    "AdresseA": "تجزئة السلام الكريفات",
+    "COMMUNE": "Krifate",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OULDE YAHIA",
+    "NOM_ETABA": "اولاد يحيى",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار اولاد يحيى الكريفات الفقي",
+    "COMMUNE": "Krifate",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

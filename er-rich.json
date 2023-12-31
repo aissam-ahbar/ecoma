@@ -1,0 +1,152 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI SALIM EL AYACHI",
+    "NOM_ETABA": "ثانوية ابي سليم العياشي الإعدادية",
+    "AdresseL": "AVENUE ABI SALIM RICH",
+    "AdresseA": "شارع ابي سليم العياشي الريش",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  YOUSSEF BNOU TACHFINE",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين الإعدادية",
+    "AdresseL": "ERRICH",
+    "AdresseA": "الريش",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOEL MANSOUR EDDAHBI",
+    "NOM_ETABA": "مدرسة المنصور الدهبي",
+    "AdresseL": "CENTRE RICH",
+    "AdresseA": "الريش المركز",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL KHANSSA",
+    "NOM_ETABA": "مدرسة الخنساء",
+    "AdresseL": "CENTRE RICH",
+    "AdresseA": "الريش المركز",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 9 AVRIL",
+    "NOM_ETABA": "مدرسة 09 أبريل",
+    "AdresseL": "CITE TAHMIDANTE RICH",
+    "AdresseA": "حي تاحميدانت الريش",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 20 AOUT",
+    "NOM_ETABA": "20 مدرسة غشت",
+    "AdresseL": "RICH CENTRE",
+    "AdresseA": "الريش المركز",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALHAY ALJADID",
+    "NOM_ETABA": "مدرسة الحي الجديد",
+    "AdresseL": "errich centre     ",
+    "AdresseA": "الريش المركز",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BOULILI ",
+    "NOM_ETABA": "مدرسة بوليلي ",
+    "AdresseL": "QUARTIER BOULILI ",
+    "AdresseA": "حي بوليلي ",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ALI CHERIF",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي علي الشريف ",
+    "AdresseL": "BOULEVARD SIDI ALI  CENTRE  RICH",
+    "AdresseA": "شارع سيدي علي الريش",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LALLA SALMA",
+    "NOM_ETABA": "ثانوية لالة سلمى التأهيلية ",
+    "AdresseL": "Quartier foutiss errich",
+    "AdresseA": "حي فوتيس الريش ",
+    "COMMUNE": "Er-rich",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Alfia Talta",
+    "NOM_ETABA": "الألفية الثاثة",
+    "AdresseL": "130aV.MY ALI CHERIF CITE AL MA",
+    "AdresseA": "الرقم 130شارع مولاي علي الشريف",
+    "COMMUNE": "Er-rich ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ziz",
+    "NOM_ETABA": "زيز",
+    "AdresseL": "N° 74 rue challa rich",
+    "AdresseA": "رقم 74، زنقة شالة",
+    "COMMUNE": "Er-rich ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "eCOLE AL AMAL RICH",
+    "NOM_ETABA": "مؤسسة الامل الريش للتعليم الاولي والتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 120 rue achouhada quartier ",
+    "AdresseA": "رقم 120 زنقة الشهداء حي تاحميد",
+    "COMMUNE": "Er-rich ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire ziz",
+    "NOM_ETABA": "مجموعة مدارس زيز للتعليم الخصوصي",
+    "AdresseL": "AVENU RIR ANZARANE109",
+    "AdresseA": "109 شارع بئر انزران",
+    "COMMUNE": "Er-rich ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baraim eljanna",
+    "NOM_ETABA": "براعم الجنة",
+    "AdresseL": "RUE BIR ANZARAN QUARTIER TAHMI",
+    "AdresseA": "142 شارع بئر انزران حي تاحميدا",
+    "COMMUNE": "Er-rich ",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

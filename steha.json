@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR EL JAYDI",
+    "NOM_ETABA": "الثانوية الاعدادية عمر الجيدي",
+    "AdresseL": "COMMUNE RURALE STEHAT CHEFCHAOUEN",
+    "AdresseA": " جماعة سطيحة",
+    "COMMUNE": "Steha",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E AHMED EL BOUZIDI STEHA",
+    "NOM_ETABA": "مدرسة احمد البوزيدي _سطيحة",
+    "AdresseL": "DOUAR STEHA C STEHA CHEFCHAOUEN",
+    "AdresseA": "سطيحة المركز جماعة سطيحة",
+    "COMMUNE": "Steha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IJJAFEN",
+    "NOM_ETABA": "م/م إجافن",
+    "AdresseL": "DOUAR IJJAFENCSTEHACHEFCHAOUEN",
+    "AdresseA": "دوار إجافن جماعة سطيحة",
+    "COMMUNE": "Steha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI HLIL",
+    "NOM_ETABA": "م/م بني هليل",
+    "AdresseL": "DOUAR BNI HLIL STEHA CHEFCHAOUEN",
+    "AdresseA": "بني هليل جماعة سطيحة",
+    "COMMUNE": "Steha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGHIL ASNOUS",
+    "NOM_ETABA": "م/م أغيل أسنوس",
+    "AdresseL": "DOUAR AGHILCSTEHACHEFCHAOUEN",
+    "AdresseA": "دوار اغيل أسنوس جماعة سطيحة",
+    "COMMUNE": "Steha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOURD",
+    "NOM_ETABA": "م/م بورد",
+    "AdresseL": "DOUAR BOURDCSTEHACHEFCHAOUEN",
+    "AdresseA": "دوار بورد جماعة سطيحة",
+    "COMMUNE": "Steha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT STEHA",
+    "NOM_ETABA": "الثانوية التأهيلية السطيحة",
+    "AdresseL": "COMMUNE STEHA",
+    "AdresseA": "جماعة السطيحة",
+    "COMMUNE": "Steha",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

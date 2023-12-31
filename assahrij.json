@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL ESSAHRIJ",
+    "NOM_ETABA": "ثانوية الصهريج الاعدادية",
+    "AdresseL": "SAHRIJ EL ATTAOUIA",
+    "AdresseA": "جماعة الصهريج",
+    "COMMUNE": "Assahrij",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAHMADNA SOUFLA CENTRE",
+    "NOM_ETABA": "لحمادنة السفلى المركزية",
+    "AdresseL": "LAHMADNA COMMUNE SAHRIJ",
+    "AdresseA": "لحمادنة السفلى جماعة صهريج",
+    "COMMUNE": "Assahrij",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHMADNA LAHOUITA CENTRE",
+    "NOM_ETABA": "الحمادنة الحويطة المركزية",
+    "AdresseL": "LAHMADNA COMMUNE SAHRIJ",
+    "AdresseA": "الحمادنة جماعة صهريج",
+    "COMMUNE": "Assahrij",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL HADDAD CENTRE",
+    "NOM_ETABA": "اولاد الحداد المركزية",
+    "AdresseL": "LAHMADNA COMMUNE SAHRIJ",
+    "AdresseA": "الحمادنة جماعة الصهريج",
+    "COMMUNE": "Assahrij",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBNOU SINA",
+    "NOM_ETABA": "ثانوية ابن سينا التأهيلية",
+    "AdresseL": "ESSAHRIJ",
+    "AdresseA": "الصهريج",
+    "COMMUNE": "Assahrij",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

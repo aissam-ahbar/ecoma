@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED EL BAQALI",
+    "NOM_ETABA": "الثانوية الاعدادية محمد البقالي",
+    "AdresseL": "FIFI CENTRE",
+    "AdresseA": "فيفي المركز جماعة فيفي",
+    "COMMUNE": "Fifi",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SIDI ALAL EL HAJ FIFI",
+    "NOM_ETABA": "م/م سيدي علال الحاج _فيفي",
+    "AdresseL": " Cr FIFI CHEFCHAOUEN",
+    "AdresseA": "فيفي جماعة فيفي",
+    "COMMUNE": "Fifi",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI GHANEM",
+    "NOM_ETABA": "م/م سيدي غانم",
+    "AdresseL": "DOUAR SIDI GHANEM Cr FIFI CHEFCHAOUEN",
+    "AdresseA": "دوار سيدي غانم جماعة فيفي",
+    "COMMUNE": "Fifi",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI AHMED CHERIF BNI YARZINE",
+    "NOM_ETABA": "م/م سيدي احمد الشريف _بني يرزين",
+    "AdresseL": "DOUAR BNI YARZINECFIFICHEFCHAOUEN",
+    "AdresseA": "بني يرزين جماعة فيفي",
+    "COMMUNE": "Fifi",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FIFI",
+    "NOM_ETABA": "الثانوية التأهيلية فيفي",
+    "AdresseL": "COMMUNE FIFI ",
+    "AdresseA": "جماعة فيفي",
+    "COMMUNE": "Fifi",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

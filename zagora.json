@@ -1,0 +1,262 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL  DARAA",
+    "NOM_ETABA": " الثانوية الإعدادية درعة",
+    "AdresseL": "ZAGORA VILLE",
+    "AdresseA": "زاكورة المركز",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL SIDI AHMED BEN ALI",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي أحمد بن علي ",
+    "AdresseL": "ZAGORA VILLE",
+    "AdresseA": "زاكورة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL AMEZROU",
+    "NOM_ETABA": "  الثانوية الإعدادية أمزرو ",
+    "AdresseL": "AMEZROU COMMUNE ZAGORA",
+    "AdresseA": "أمزرو",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL  YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "الثانوية الإعدادية يوسف ابن تاشفين ",
+    "AdresseL": "Lotissement  Alwifak1",
+    "AdresseA": "تجزئة الوفاق 1",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E TANSITA",
+    "NOM_ETABA": "م. تنسيطة",
+    "AdresseL": "HAY EL MANSOUR DAHBI  ZAGORA",
+    "AdresseA": "حي المنصور الذهبي زكورة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASRIR",
+    "NOM_ETABA": "م.م أسرير",
+    "AdresseL": "ASRIR ILAMCHANE ZAGORA",
+    "AdresseA": "أسرير/زكورة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ECHARIF EL ALAOUI",
+    "NOM_ETABA": "م المولى الشريف العلوي",
+    "AdresseL": "AVENUE MOHAMED 5 ZAGORA",
+    "AdresseA": "شارع محمد الخامس زكورة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TOUMOUR",
+    "NOM_ETABA": "م. التمور",
+    "AdresseL": "HAY TOUMOUR ZAGORA",
+    "AdresseA": "حي التمور",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AMZROU",
+    "NOM_ETABA": "م. أمزرو",
+    "AdresseL": "HAY  AMZROU",
+    "AdresseA": "أمزرو",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HAY MOULAY RACHID",
+    "NOM_ETABA": "م. حي مولاي رشيد",
+    "AdresseL": "HAY MOULAY RACHID ZAGORA",
+    "AdresseA": "حي مولاي رشيد زكورة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL AMAL",
+    "NOM_ETABA": "م. الأمل",
+    "AdresseL": "AMEZROU COMMUNE ZAGORA",
+    "AdresseA": "حي أمزرو",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TANSITA II",
+    "NOM_ETABA": "م. تانسيطة 2",
+    "AdresseL": "TANSITA COMMUNE ZAGORA",
+    "AdresseA": "حي تانسيطة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ENNAKHIL",
+    "NOM_ETABA": "م. النخيل",
+    "AdresseL": "LOTISSEMENT DARAA 2ZAGORA",
+    "AdresseA": "تجزئة درعة الثانية.زاكورة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL ANWAR",
+    "NOM_ETABA": "م. الأنوار",
+    "AdresseL": "zagora",
+    "AdresseA": "زاكورة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI AHMED BENACER ",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي أحمد بناصر",
+    "AdresseL": "ZAGORA CENTRE",
+    "AdresseA": "زاكورة المركز",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MAJD",
+    "NOM_ETABA": "الثانوية التأهيلية المجد",
+    "AdresseL": "HAY ELIDARI ZAGORA",
+    "AdresseA": "الحي الاداري",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  EL MASSIRA",
+    "NOM_ETABA": " الثانوية التأهيلية المسيرة ",
+    "AdresseL": "zagora",
+    "AdresseA": "زاكورة",
+    "COMMUNE": "Zagora",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL BASMA",
+    "NOM_ETABA": "البسمة",
+    "AdresseL": "hay molay rachid n 279 zagora",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL IMAN",
+    "NOM_ETABA": "براعم الإيمان",
+    "AdresseL": "HAY ELMOSALLA",
+    "AdresseA": "حي المصلى",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELHODA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "NULL",
+    "AdresseA": "حي درعة1",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "iqraa",
+    "NOM_ETABA": "إقرأ",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almostakbal",
+    "NOM_ETABA": "المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة درعة 1 زاكورة",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AKHYAR DRAA",
+    "NOM_ETABA": "الأخيار درعة",
+    "AdresseL": "LOT DRAA 2 N° 937",
+    "AdresseA": "تجزئة درعة 2 رقم 937",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BERAMUS",
+    "NOM_ETABA": "البرامس",
+    "AdresseL": "47 Lot  Draa 1, Municipalité Z",
+    "AdresseA": "47 تجزئة درعة 1 ، بلدية زاكورة",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AKLAM",
+    "NOM_ETABA": "أقلام الخاصة",
+    "AdresseL": "Hay Moulay Rachid, N° 85 - C.U",
+    "AdresseA": "حي مولاي رشيد، رقم 85 - ج. ح. ",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alkabasS",
+    "NOM_ETABA": " القبس الخاصة",
+    "AdresseL": "LOT DRAA 1 N° 10",
+    "AdresseA": "تجزئة درعة 01 رقم 10",
+    "COMMUNE": "Zagora ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL BAYROUNI",
+    "NOM_ETABA": " الثانوية الإعدادية البيروني",
+    "AdresseL": "CENTRE DE LA COMMUNE IGHOUD",
+    "AdresseA": "ايغود المركز ",
+    "COMMUNE": "Ighoud",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE IGHOUD",
+    "NOM_ETABA": "مركزية إيغود",
+    "AdresseL": "TLET IGHOUD COMMUNE IGHOUD",
+    "AdresseA": "دوار إيغود جماعة إيغود",
+    "COMMUNE": "Ighoud",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL DALAA",
+    "NOM_ETABA": "مركزية الضلعة",
+    "AdresseL": "DOUAR EDALAA COMMUNE IGHOUD",
+    "AdresseA": "دوار الضلعة، جماعة ايغود",
+    "COMMUNE": "Ighoud",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL HSINATE",
+    "NOM_ETABA": "مركزية الحسينات",
+    "AdresseL": "DOUAR LAHSINATE COMMUNE IGHOUD",
+    "AdresseA": "دوار الحسينات  جماعة ايغود",
+    "COMMUNE": "Ighoud",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE OULED EL AYACHI",
+    "NOM_ETABA": "مركزية اولاد العياشي",
+    "AdresseL": "DOUAR OULED EL AYACHI COMMUNE IGHOUD",
+    "AdresseA": "دوار اولاد العياشي جماعة إيغود",
+    "COMMUNE": "Ighoud",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL GAADA",
+    "NOM_ETABA": "مركزية الكعدة",
+    "AdresseL": "DOUAR EL GAADA COMMUNE IGHOUD",
+    "AdresseA": "دوار الكعدة جماعة إيغود",
+    "COMMUNE": "Ighoud",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MAARIFA",
+    "NOM_ETABA": "الثانوية التأهيلية المعرفة",
+    "AdresseL": "CENTRE DE LA COMMUNE IGHOUD",
+    "AdresseA": "ايغود المركز",
+    "COMMUNE": "Ighoud",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

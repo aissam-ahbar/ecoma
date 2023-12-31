@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL SIDI YEHYA BNI ZEROUAL",
+    "NOM_ETABA": "ثانوية سيدي يحيى بني زروال الإعدادية",
+    "AdresseL": "CENTRE COMMUNE SIDI YAHYA BNI ZEROUAL GHAFSAY",
+    "AdresseA": "مركز جماعة سيدي يحيى بني زروال غفساي",
+    "COMMUNE": "Sidi YahyaBni Zeroual",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S DOUKKANE",
+    "NOM_ETABA": "م/م  الدكان",
+    "AdresseL": "DOUAR DOUKKANE COMMUNE SIDI YAHYA BNI ZEROUAL GHAF",
+    "AdresseA": "دوار الدكان- جماعة سيدي يحيى بني زروال - غفساي",
+    "COMMUNE": "Sidi YahyaBni Zeroual",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD SALAH",
+    "NOM_ETABA": "م/م  أولاد صالح",
+    "AdresseL": "DOUAR AIN KATAB COMMUNE SIDI YAHYA BNI ZEROUAL GHA",
+    "AdresseA": "دوار  عين خطاب- جماعة سيدي يحيى بني زروال - غفساي",
+    "COMMUNE": "Sidi YahyaBni Zeroual",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGHROUD",
+    "NOM_ETABA": "م/م أغرود",
+    "AdresseL": "DOUAR AGHROUD COMMUNE SIDI YAHYA BNI ZEROUAL GHAFS",
+    "AdresseA": "دوار أغرود - جماعة سيدي يحيى بني زروال - غفساي",
+    "COMMUNE": "Sidi YahyaBni Zeroual",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

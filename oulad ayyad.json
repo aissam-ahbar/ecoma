@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULAD AYYAD",
+    "NOM_ETABA": "ثانوية اولاد عياد الإعدادية",
+    "AdresseL": " COMMUNE OULAD AYYAD TISSA",
+    "AdresseA": " جماعة اولاد عياد -تيسة",
+    "COMMUNE": "Oulad Ayyad",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULAD AYAD",
+    "NOM_ETABA": "م/م  اولاد عياد",
+    "AdresseL": "CENTRE   OULAD AYAD COMMUNE OULAD AYAD TISSA",
+    "AdresseA": "مركز اولاد عياد   -جماعة اولاد عياد- تيسة",
+    "COMMUNE": "Oulad Ayyad",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BIYADATE",
+    "NOM_ETABA": "م/م  بـياضات",
+    "AdresseL": "DOUAR BIADATE COMMUNE OULAD AYAD  TISSA",
+    "AdresseA": "دوار بياضات   -جماعة اولاد عياد- تيسة",
+    "COMMUNE": "Oulad Ayyad",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

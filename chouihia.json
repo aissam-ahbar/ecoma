@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "CHOUIHIA",
+    "NOM_ETABA": "الشويحية",
+    "AdresseL": "Commune de Chouihia",
+    "AdresseA": "جماعة الشويحية",
+    "COMMUNE": "Chouihia",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HASSAN BNOU THABIT",
+    "NOM_ETABA": "حسان بن ثابت",
+    "AdresseL": "COMMUNE DE CHOUIHIA",
+    "AdresseA": "دوار الشويحية",
+    "COMMUNE": "Chouihia",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ALI CHBAB",
+    "NOM_ETABA": "أولاد علي الشباب",
+    "AdresseL": "DOUAR OULAD ALI CHBAB COMMUNE DE CHOUIHIA",
+    "AdresseA": "دوار علي الشباب جماعة الشويحية الشويحية",
+    "COMMUNE": "Chouihia",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUMIA",
+    "NOM_ETABA": "بومية",
+    "AdresseL": "COMMUNE DE CHOUIHIA",
+    "AdresseA": "جماعة الشويحية",
+    "COMMUNE": "Chouihia",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED YAAKOUB",
+    "NOM_ETABA": "اولاد يعقوب",
+    "AdresseL": "DOUAR OULAD YAAKOUB COMMUNE DE CHOUIHIA",
+    "AdresseA": "دوار اولاد يعقوب الشويحية",
+    "COMMUNE": "Chouihia",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "AL IMAM MALEK",
+    "NOM_ETABA": "الامام مالك",
+    "AdresseL": "HAD BOUHSSOUSSEN CENTRE COMMUNE HAD BOUHSSOUSSEN",
+    "AdresseA": "مركز جماعة حد بوحسوسن",
+    "COMMUNE": "Had Bouhssoussen",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AOUINATE",
+    "NOM_ETABA": "اعوينات",
+    "AdresseL": "DOUAR AOUINATE COMMUNE HAD BOUHSSOUSSEBN",
+    "AdresseA": "دوار اعوينات جماعة حد بوحسوسن",
+    "COMMUNE": "Had Bouhssoussen",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALHOUSSAIN  BOULANOWAR",
+    "NOM_ETABA": "الثانوية التأهيلية الحسين بولنوار",
+    "AdresseL": "HAD BOUHSOUSSEN CENTRE COMMUNE HA BOUHSOUSSEN",
+    "AdresseA": "مركز جماعة حد بوحسوسن",
+    "COMMUNE": "Had Bouhssoussen",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

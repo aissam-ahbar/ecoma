@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CASCADES OUZOUD",
+    "NOM_ETABA": "ثانوية شلالات أزود الإعدادية",
+    "AdresseL": "centre ouzoud  ",
+    "AdresseA": "مركز أزود",
+    "COMMUNE": "Ait Taguella",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL TAGUELLA",
+    "NOM_ETABA": " ثانوية تكلا الاعدادية",
+    "AdresseL": "CENTRE TAGUELLA",
+    "AdresseA": "تكلا المركز",
+    "COMMUNE": "Ait Taguella",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAGALLA",
+    "NOM_ETABA": "مركزية تكلا",
+    "AdresseL": "TAGALLA CENTRE ",
+    "AdresseA": "مركز تكلا",
+    "COMMUNE": "Ait Taguella",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE OUZOUD",
+    "NOM_ETABA": "مركزية أزود",
+    "AdresseL": "OUZOUD CENTRE",
+    "AdresseA": "مركز أزود",
+    "COMMUNE": "Ait Taguella",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

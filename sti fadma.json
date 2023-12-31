@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL COMPLEXE PEDAGOGIQUE AGHBALOU",
+    "NOM_ETABA": "الثانوية الإعدادية المركب التربوي اغبالو",
+    "AdresseL": "DOUAR AGHBALOU km 47 COMMUNE SiTI FADMA",
+    "AdresseA": "دوار اغبالو كلم 47 (جماعة ستي فاظمة) قيادة اوريكة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IGHARMANE",
+    "NOM_ETABA": "اغرمان",
+    "AdresseL": "DOUAR IGHARMANE COMMUNE STI FADMA",
+    "AdresseA": "دوار اغرمان جماعة ستي فاضمة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "STI FADMA",
+    "NOM_ETABA": "ستي فاضمة",
+    "AdresseL": "DOUAR ELAKRI COMMUNE STI FADMA",
+    "AdresseA": "دوار الكاري جماعة ستي فاضمة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMLOUGUI",
+    "NOM_ETABA": "املوكي",
+    "AdresseL": "DOUAR AMLOUGUI COMMUNE STI FADMA",
+    "AdresseA": "دوار املوكي جماعة ستي فاضمة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANFLI",
+    "NOM_ETABA": "انفلي",
+    "AdresseL": "DOUAR ANFLI COMMUNE STI FADMA",
+    "AdresseA": "دوار انفلي جماعة ستي فاضمة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YABOURA",
+    "NOM_ETABA": "يابورة",
+    "AdresseL": "DOUAR YABOURA COMMUNE SetTI FADMA",
+    "AdresseA": "دوار يابورة جماعة ستي فاضمة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGUER MAOUNE",
+    "NOM_ETABA": "اكرماون",
+    "AdresseL": "DOUAR IGUERMAOUNE COMMUNE STI FADMA",
+    "AdresseA": "دوار اكرماون جماعة ستي فاضمة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUALMAS",
+    "NOM_ETABA": "اولماس",
+    "AdresseL": "DOUAR OUALMAS COMMUNE STI FADMA",
+    "AdresseA": "دوار اولماس جماعة ستي فاظمة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANAMER",
+    "NOM_ETABA": "انامر",
+    "AdresseL": "DOUAR ANAMER COMMUNE STI FADMA",
+    "AdresseA": "دوار انامر جماعة ستي فاضمة",
+    "COMMUNE": "Sti Fadma",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

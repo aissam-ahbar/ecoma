@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS MOHAMED ELALEM",
+    "NOM_ETABA": "م.م محمد العالم",
+    "AdresseL": "DOUAR  LAMNIZLA Comune  lamnizla",
+    "AdresseA": "دوار لمنيزلة جماعة لمنيزلة تارودانت ",
+    "COMMUNE": "Lamnizla",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN HAZM",
+    "NOM_ETABA": "م.م إبن حزم",
+    "AdresseL": "DOUAR  LOUMIH C LAMNIZLA",
+    "AdresseA": "دوار لوميه",
+    "COMMUNE": "Lamnizla",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

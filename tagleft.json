@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAGLEFT",
+    "NOM_ETABA": "ثانوية تاكلفت الاعدادية",
+    "AdresseL": "CENTRE COMMUNE TAGLEFT",
+    "AdresseA": "مركز جماعة تاكلفت",
+    "COMMUNE": "Tagleft",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAGLEFT",
+    "NOM_ETABA": "مركزية تاكلفت",
+    "AdresseL": "CITE ADMINISTRATIVE ",
+    "AdresseA": "الحي الإداري ",
+    "COMMUNE": "Tagleft",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SIDI AZIZ",
+    "NOM_ETABA": "مركزية سيدي عزيز",
+    "AdresseL": "DOUAR AIT SIDI AZIZ",
+    "AdresseA": "دوار ايت سيدي عزيز ",
+    "COMMUNE": "Tagleft",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT ISMAIL",
+    "NOM_ETABA": "مركزية آيت اسماعيل",
+    "AdresseL": "DOUAR AIT ISMAIL",
+    "AdresseA": "دوار ايت اسماعيل، تاكلفت",
+    "COMMUNE": "Tagleft",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT TAMEJOUT",
+    "NOM_ETABA": "مركزية آيت تمجوط",
+    "AdresseL": "DOUAR AIT TAMEJOUT",
+    "AdresseA": "دوار ايت تمجوط ",
+    "COMMUNE": "Tagleft",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IGHERM NOUASSIF",
+    "NOM_ETABA": "مركزية إغرم نواسيف",
+    "AdresseL": "DOUAR ighram nOUAssif ",
+    "AdresseA": "دوار اغرم نواسيف ",
+    "COMMUNE": "Tagleft",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAGLEFT COM",
+    "NOM_ETABA": " مدرسة تاكلفت كم",
+    "AdresseL": " COMMUNE Tagleft centre",
+    "AdresseA": "جماعة تاكلفت المركز",
+    "COMMUNE": "Tagleft",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN PREMIER",
+    "NOM_ETABA": "ثانوية الحسن الأول التأهيلية",
+    "AdresseL": "COMMUNE TAGLEFT CENTRE",
+    "AdresseA": "مركز جماعة تاكلفت",
+    "COMMUNE": "Tagleft",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

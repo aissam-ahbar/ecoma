@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AL BANNAE",
+    "NOM_ETABA": "الثانوية الإعدادية ابن البناء",
+    "AdresseL": "TNINE LAFOUARAA",
+    "AdresseA": "اتنين الفوارع",
+    "COMMUNE": "Esbiaat",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE SBIAAT",
+    "NOM_ETABA": "مركزية اسبيعات",
+    "AdresseL": "ZAOUIAT SIDI BOUMAHDI COMMUNE ESBIAAT",
+    "AdresseA": " دوار سيدي بومهدي جماعة السبيعات",
+    "COMMUNE": "Esbiaat",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE DKHANA",
+    "NOM_ETABA": "مركزية الدخانة",
+    "AdresseL": "DOUAR DKHANA COMMUNE ESSBIAAT",
+    "AdresseA": "دوار الدخانة جماعة السبيعات",
+    "COMMUNE": "Esbiaat",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL FAOUARAE",
+    "NOM_ETABA": "مركزية الفوارع",
+    "AdresseL": "TNINE LAFOUARAA COMMUNE ESSBIAAT",
+    "AdresseA": "اتنين الفوارع جماعة السبيعات",
+    "COMMUNE": "Esbiaat",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SIDI BOUTAIB",
+    "NOM_ETABA": "مركزية سيدي بوطيب",
+    "AdresseL": "DOUAR ZAOUIET SIDI BOUTAIB COMMUNE ESSBIAAT",
+    "AdresseA": "دوار زاوية سيدي بوطيب جماعة السبيعات",
+    "COMMUNE": "Esbiaat",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE OMAR IBN EL KHATAB",
+    "NOM_ETABA": "مركزية عمر بن الخطاب",
+    "AdresseL": "DOUAR ZAOUIAT NAIMI COMMUNE ESSBIAAT",
+    "AdresseA": "دوار زاوية النعيمي جماعة السبيعات",
+    "COMMUNE": "Esbiaat",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

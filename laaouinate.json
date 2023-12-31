@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S/S ELFALAH CENTRE",
+    "NOM_ETABA": "م/م الفلاح المركز",
+    "AdresseL": "DOUAR LAOUINAT COMMUNE LAOUINAT",
+    "AdresseA": "لعوينات المركز",
+    "COMMUNE": "Laaouinate",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/s khalid ibn lwalid",
+    "NOM_ETABA": "م/م خالد بن الوليد",
+    "AdresseL": "DOUAR LAMOUATAR COMMUNE LAOUINATE",
+    "AdresseA": "دوار لمواطر جماعة لعوينات",
+    "COMMUNE": "Laaouinate",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AL AMAL CENTRE",
+    "NOM_ETABA": "م/م الأمل المركز",
+    "AdresseL": "DOUAR LAGHOUAT",
+    "AdresseA": "دوار لغواط ",
+    "COMMUNE": "Laaouinate",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

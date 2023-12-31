@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL ZRIZER",
+    "NOM_ETABA": "ثانوية الزريزر الإعدادية",
+    "AdresseL": "COMMUNE ZRIzER CENTRE TAOUNATE",
+    "AdresseA": "مركز جماعة الزريزر",
+    "COMMUNE": "Zrizer",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S ZRIZER",
+    "NOM_ETABA": "م/م  الزريزر",
+    "AdresseL": "SOUK ZRIZER COMMUNE ZRIZER TAOUNATE",
+    "AdresseA": "الزريزر المركز.جماعة الزريزر - تاونات",
+    "COMMUNE": "Zrizer",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S HADDADA",
+    "NOM_ETABA": "م/م  الحدادة ",
+    "AdresseL": "DOUAR HADDADA COMOUNE ZRIZER TAOUNATE",
+    "AdresseA": "دوار الحدادة جماعة الزريزر - تاونات",
+    "COMMUNE": "Zrizer",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SAD ESSAHLA ",
+    "NOM_ETABA": "م/م سد الساهلة ",
+    "AdresseL": "DOUAR BAB MEHREZ COMMUNE ZRIZER TAoUNATE",
+    "AdresseA": "دوار باب محرز جماعة الزريزر - تاونات",
+    "COMMUNE": "Zrizer",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

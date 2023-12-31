@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "AL ADARISSA",
+    "NOM_ETABA": "الادارسة",
+    "AdresseL": "douar AIT IKHLEF COMMUNE AIT BOUYAHYA ALHAJJAMA",
+    "AdresseA": "دوار ايت يخلف جماعة الحجامة ايت بويحيى تيفلت",
+    "COMMUNE": "Ait Buyahya El Hajjama",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALHAJJAMA",
+    "NOM_ETABA": "الحجامة",
+    "AdresseL": "DOUAR  AIT SASSI COMMUNE AIT BOUYAHYA AL HAJJAMA",
+    "AdresseA": "دوارآيت ساسي ج ايت بويحيى الحجامة",
+    "COMMUNE": "Ait Buyahya El Hajjama",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

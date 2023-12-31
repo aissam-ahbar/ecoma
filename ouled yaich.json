@@ -1,0 +1,152 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ATTANMIA",
+    "NOM_ETABA": "ثانوية التنمية الإعدادية ",
+    "AdresseL": "ELBAZZAZA",
+    "AdresseA": "البزازة",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ESSALAM",
+    "NOM_ETABA": "ثانوية السلام الإعدادية",
+    "AdresseL": "DOUAR ZOUAER COMMUNE OULED YAICH",
+    "AdresseA": " الزواير جماعة اولاد يعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED YAICH",
+    "NOM_ETABA": "م اولاد ايعيش",
+    "AdresseL": "OULED YAICH CENTRE",
+    "AdresseA": "جماعة اولاد إعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED DERNA",
+    "NOM_ETABA": "م وادي درنة",
+    "AdresseL": "commune OULED YAICH  beni mellal",
+    "AdresseA": "جماعة اولاد يعيش دائرة بني ملال ",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BAZZAZA",
+    "NOM_ETABA": "م البزازة",
+    "AdresseL": "EL BAZZAZA COMMUNE OULED YAICH",
+    "AdresseA": "جماعة اولاد إعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOUAIR CENTRE",
+    "NOM_ETABA": "مركزية الزواير",
+    "AdresseL": "ZOUAIR COMMUNE OULED YAICH",
+    "AdresseA": "جماعة اولاد إعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SIMOUR",
+    "NOM_ETABA": "اولاد السيمور",
+    "AdresseL": "OULED SIMOUR COMMUNE OULED YAICH",
+    "AdresseA": "جماعة اولاد إعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBNOU TOFAYL",
+    "NOM_ETABA": "ثانوية ابن طفيل التأهيلية",
+    "AdresseL": "COMMUNE OULED YAICH",
+    "AdresseA": "جماعة اولاد يعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "nizarani",
+    "NOM_ETABA": "نزاراني",
+    "AdresseL": "LAAJAMA OULAD YAICH",
+    "AdresseA": "العجامة، أولاد ايعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BANAFSSAJ",
+    "NOM_ETABA": "البنفسج",
+    "AdresseL": "Lotissement banafssaj N 39",
+    "AdresseA": "تجزئة البنفسج أولادايعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hiba-allae",
+    "NOM_ETABA": "هبة-ألاء",
+    "AdresseL": "OULED YAICH",
+    "AdresseA": "مركز أولاد ايعيش",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL ILHAM",
+    "NOM_ETABA": "الإلهام",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الليمون 46",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELICHAA",
+    "NOM_ETABA": "الاشعاع ",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار ايت العربي الحي الاداري ا",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EN-NABAT SALIH ",
+    "NOM_ETABA": "النبات الصالح ",
+    "AdresseL": "DOUAr LAAJAMA OULED YAICH N 5",
+    "AdresseA": "دوار لعجامة ر قم 5   اولاد يعي",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HIBA-ALLAE 2 ",
+    "NOM_ETABA": "هبة الاء 2 ",
+    "AdresseL": "Douar ait arabi ouled yaich",
+    "AdresseA": "دوار ايت العرابي  اولاد يعيش ب",
+    "COMMUNE": "Ouled Yaich",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

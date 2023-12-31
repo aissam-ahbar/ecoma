@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "SS Zerktouni",
+    "NOM_ETABA": "مجموعة مدارس الزرقطوني",
+    "AdresseL": "BRIKCHA  COMUNEBRIKCHA OUEZZANE",
+    "AdresseA": "دوار ابريكشة جماعة ابريكشة",
+    "COMMUNE": "Brikcha",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Al Akkad",
+    "NOM_ETABA": "مجموعة مدارس  العقاد",
+    "AdresseL": "DOUAR BNI MHAMED BRIKCHA OUEZZANE",
+    "AdresseA": "دوار بني محمد جماعة بريكشة وزان",
+    "COMMUNE": "Brikcha",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Pasteur",
+    "NOM_ETABA": "مجموعة مدارس باستور",
+    "AdresseL": "DOUAR AL FARHABRIKCHAouezzane",
+    "AdresseA": "دوار الفرحة جماعة بريكشة",
+    "COMMUNE": "Brikcha",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Abou Tayeb  al-Mutanabbi",
+    "NOM_ETABA": "مجموعة مدارس أبو الطيب المتنبي",
+    "AdresseL": "DOUAR AL JABRIYINE C BRIKCHA OUEZZANE",
+    "AdresseA": "دوار الجابريين جماعة بريكشة",
+    "COMMUNE": "Brikcha",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LOUKOUS",
+    "NOM_ETABA": "م م اللوكوس",
+    "AdresseL": "DOUAR ZAYEDOR CB BRIKCHA",
+    "AdresseA": "دوار زيدور جماعة بريكشة",
+    "COMMUNE": "Brikcha",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL AL FASSI",
+    "NOM_ETABA": "الثانوية التأهيلية علال الفاسي",
+    "AdresseL": "BRIKCHA Cr BRIKCHA ouzzane",
+    "AdresseA": "بريكشة المركز جماعة بريكشة",
+    "COMMUNE": "Brikcha",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

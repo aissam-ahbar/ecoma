@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial DAR EL HAMRA",
+    "NOM_ETABA": "ثانوية الدار الحمراء الإعدادية ",
+    "AdresseL": "DAR EL HAMRA",
+    "AdresseA": "الدار الحمراء",
+    "COMMUNE": "Dar El Hamra",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss OUAD EL BACHNA Centre",
+    "NOM_ETABA": "م/م وادي البشنة-المركز",
+    "AdresseL": "DOUAR   OUED  EL   BACHNA",
+    "AdresseA": "دوار وادي البشنة",
+    "COMMUNE": "Dar El Hamra",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

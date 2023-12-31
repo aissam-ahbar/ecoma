@@ -1,0 +1,482 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN  BATTOUTA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن بطوطة",
+    "AdresseL": "EL ADOUA BP1107  FAKHARINE  FESMEDINA",
+    "AdresseA": "العدوة الفخارين فاس المدينة ص ب 1107",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED BELARBI ALAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بالعربي العلوي",
+    "AdresseL": "AIN NOUKBI  JNAN ELWARDE",
+    "AdresseA": "عين النقبي جنان الورد",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KACEM AMINE",
+    "NOM_ETABA": "الثانوية الإعدادية قاسم أمين",
+    "AdresseL": "DAOUAR RYAFA JNANE ELOURAD",
+    "AdresseA": "دوار ريافة اجنان الورد",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKADER EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد القادر الفاسي",
+    "AdresseL": "JNAN EL ALAMI SIDI BOUJIDA",
+    "AdresseA": "جنان العلمي سيدي بوجيدة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MAGHREB AL ARABI",
+    "NOM_ETABA": "الثانوية الإعدادية المغرب العربي",
+    "AdresseL": "JNAN EL WARDE ain drissi sehb elouard",
+    "AdresseA": " عين الدريسي جنان الورد سهب الورد",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL JABER IBN HAYAN",
+    "NOM_ETABA": "الثانوية الإعدادية جابر بن حيان",
+    "AdresseL": " HAY LAMSSALLA BAB FTOUH  JNAN  ELOUARD FES",
+    "AdresseA": "حي المصلى اللويزات   جنان الورد فاس",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MOKHTAR ASSOUSSI",
+    "NOM_ETABA": "الثانوية الإعدادية المختار السوسي",
+    "AdresseL": "jnane el ward aine noukbi",
+    "AdresseA": "جنان الورد عين النقبي ",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELMALEK ESSAADI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد المالك السعدي",
+    "AdresseL": "sahb el ouard fes",
+    "AdresseA": "سهب الورد ",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUED AL MAKHAZINE",
+    "NOM_ETABA": "المدرسة الابتدائية وادي المخازن",
+    "AdresseL": "jnan al ouard SIDI BOUJIDA  FESMEDINA",
+    "AdresseA": "جنان الورد سيدي بوجيدة فاس ",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH GUENOUNE",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الله كنون",
+    "AdresseL": "jnan al ouard SIDI BOUJIDA FESMEDINA",
+    "AdresseA": "جنان الورد سيدي بوجيدة فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI BAKR ASSEDDIK",
+    "NOM_ETABA": "المدرسة الابتدائية أبي بكر الصديق",
+    "AdresseL": "SIDI BOUJIDA  FESMEDINA",
+    "AdresseA": "سيدي بوجيدة جنان الورد",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY ALI CHRIF",
+    "NOM_ETABA": "المدرسة الابتدائية مولاي علي الشريف",
+    "AdresseL": "SIDI BOUJIDA FESMEDINA",
+    "AdresseA": "سيدي بوجيدة جنان الورد",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED ABDOU",
+    "NOM_ETABA": "المدرسة الابتدائية محمد عبده",
+    "AdresseL": "jnan el ourd fes",
+    "AdresseA": "جنان الورد فاس",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL IMAM ECHAFII",
+    "NOM_ETABA": "المدرسة الابتدائية الإمام الشافعي",
+    "AdresseL": "EL MENZAH DOUAR TAHRYNE sahrij gnawa FES MEDINA",
+    "AdresseA": "المنزه دوار الطاهريين صهريج كناوة فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL JOULANE",
+    "NOM_ETABA": "المدرسة الابتدائية الجولان",
+    "AdresseL": "AIN ANNOUKBI  ",
+    "AdresseA": "عين النقبي ",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED BEN ABDLKRIM AL KHATTABI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد بن عبد الكريم الخطابي",
+    "AdresseL": "DOUAR RIAFA  JNAN EL OUARD",
+    "AdresseA": "دوار ريافة جنان الورد",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL HASSAN AL YOUSSI",
+    "NOM_ETABA": "المدرسة الابتدائية الحسن اليوسي",
+    "AdresseL": "hay lamsallah louizat SAHRIJ GNAOUA  FES MEDINA",
+    "AdresseA": "حي المصلى اللويزات صهريج كناوة فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI HAYANE ATTAOUHIDI",
+    "NOM_ETABA": "المدرسة الابتدائية أبي حيان التوحيدى",
+    "AdresseL": "jnan SOUISRI SIDI BOUJIDA  FESMEDINA",
+    "AdresseA": "جنان سويسري سيدي  بوجيدة فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED AZIZ LAHBABI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد عزيز الحبابي",
+    "AdresseL": "AIN ENNOUKBI jnane el ouard fes",
+    "AdresseA": "عين النقبي جنان الورد  فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI BAKR ARRAZI",
+    "NOM_ETABA": "المدرسة الابتدائية أبي بكر الرازي",
+    "AdresseL": "AIN ENNOUKBI  jnan al ouard FESMEDINA",
+    "AdresseA": "عين النقبي جنان الورد فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOUTANABI",
+    "NOM_ETABA": "المدرسة الابتدائية المتنبي",
+    "AdresseL": "SIDI BOUJIDA   FESMEDINA",
+    "AdresseA": "سيدي بوجيدة فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ENNAFISS",
+    "NOM_ETABA": " المدرسة الابتدائية ابن نفيس",
+    "AdresseL": "louizat sahrij gnaoua",
+    "AdresseA": "اللويزات صهريج كناوة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAOUKI",
+    "NOM_ETABA": " المدرسة الابتدائية شوقي",
+    "AdresseL": "bled bennani JNANE   AL OUARDE  FES",
+    "AdresseA": "بلاد بناني جنان الورد فاس",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANAS BNOU MALIK",
+    "NOM_ETABA": "المدرسة الابتدائية أناس بن مالك",
+    "AdresseL": "SAHB AL OUARDE  FESMEDINA",
+    "AdresseA": "سهب الورد فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIBAOUYH",
+    "NOM_ETABA": "المدرسة الابتدائية سيبويه",
+    "AdresseL": "SIDI BOUJIDA  FESMEDINA",
+    "AdresseA": "سيدي بوجيدة فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU TAOUMARTE",
+    "NOM_ETABA": "المدرسة الابتدائية ابن تومرت",
+    "AdresseL": "DOUAR FIAFA   FES MEDINA",
+    "AdresseA": "دوار ريافة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL QODS",
+    "NOM_ETABA": "المدرسة الابتدائية القدس",
+    "AdresseL": "SIDI BOUJIDA  jnanat FES MEDINA",
+    "AdresseA": "سيدي بوجيدة جنانات  فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SOLTAN MOULAY SMAIL",
+    "NOM_ETABA": "المدرسة الابتدائية السلطان مولاي اسماعيل",
+    "AdresseL": "AIN NOKBI",
+    "AdresseA": "عين النقبي",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ATTABARI",
+    "NOM_ETABA": "المدرسة الابتدائية الطبري",
+    "AdresseL": "hay msella SAHRIJ GNAOUA",
+    "AdresseA": "حي المصلى صهريج كناوة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR BEN EL KHATAB",
+    "NOM_ETABA": " المدرسة الابتدائية عمر بن الخطاب",
+    "AdresseL": "AIN NOUKBI COMMUNE FES MEDINA",
+    "AdresseA": "عين النقبي فاس المدينة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELHADI BOUTALEB",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الهادي بوطالب",
+    "AdresseL": "SEHRIJ GNAOUA COMMUNE JNAN ELOUARD TAHRIENNE FES",
+    "AdresseA": "صهريج كناوة الطاهريين جماعة جنان الورد ",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED LAGHZAOUI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الغزاوي",
+    "AdresseL": "AIN NOKBI   JNANE EL WARD",
+    "AdresseA": "عين النقبي جنان الورد ",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI BAKR BEN OMAR LAMTOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية أبي بكر بن عمر اللمتوني",
+    "AdresseL": "QUARTIR AIN NOKBI",
+    "AdresseA": "عين النقبي",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALI ALJIZNAI",
+    "NOM_ETABA": "المدرسة الابتدائية علي الجزنائي",
+    "AdresseL": "SEHB EL OUARD",
+    "AdresseA": "سهب الورد",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ROUMI",
+    "NOM_ETABA": "المدرسة الابتدائية ابن الرومي",
+    "AdresseL": "sahb louard blad ben makhlouf   tahriene  bab ftou",
+    "AdresseA": "جنان  الورد بلاد بن مخلوف الطاهريين باب الفتوح فاس",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABBAS BENNANI",
+    "NOM_ETABA": "الثانوية التأهيلية العباس بناني",
+    "AdresseL": " SIDI BOUJIDA  FESMEDINA",
+    "AdresseA": "سيدي بوجيدة فاس المدينة",
+    "COMMUNE": "Jnan El Ouard ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الله الشفشاوني",
+    "AdresseL": "AIN NOUKBI   jnane el ouard FES MEDINA",
+    "AdresseA": "عين النقبي جنان الورد  فاس ",
+    "COMMUNE": "Jnan El Ouard ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MASSIRA",
+    "NOM_ETABA": "الثانوية التأهيلية المسيرة",
+    "AdresseL": "anciene route sidi hrazem saheb el ward jnan el wa",
+    "AdresseA": "طريق سيدي حرزام القديمة .سهب الورد جنان الورد",
+    "COMMUNE": "Jnan El Ouard ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Zoubair",
+    "NOM_ETABA": "الزبير",
+    "AdresseL": "N° 70, Jnane Chdid, Sidi Bouji",
+    "AdresseA": "رقم 70، جنان شديد، سيدي بوجيدة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SAAD BNOU ABI WAKASE",
+    "NOM_ETABA": "مؤسسة سعد بن أبي وقاص",
+    "AdresseL": "21 JNAN BOUHLAL  BAB AL KHOKHA",
+    "AdresseA": "21 جنان بوهلال باب الخوخة",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROUAD AL HOULOM AL ARABIE",
+    "NOM_ETABA": "رواد الحلم العربي",
+    "AdresseL": "11 bloc 8 Jnane Tahri Sahrij G",
+    "AdresseA": "رقم 11 بلوك 8 جنان الطاهري صهر",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alkitab",
+    "NOM_ETABA": "الكتاب",
+    "AdresseL": "68 lot jnan luise hay lamssala",
+    "AdresseA": "68 جنان اللويز حي المصلى اللوي",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DOYOUF aRRAHMaN",
+    "NOM_ETABA": "ضيوف الرحمان ",
+    "AdresseL": "bloc 5 n11 bled fakir ali sahr",
+    "AdresseA": "بلوك 5 رقم 11 بلاد الفقير علي ",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alkirtas",
+    "NOM_ETABA": "القرطاس",
+    "AdresseL": "145 lottissement bled al khir ",
+    "AdresseA": "تجزئة بلاد الخير 145 حي المصلى",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alhouda wannour",
+    "NOM_ETABA": "الهدى والنور",
+    "AdresseL": "35, lot jnane louize lamsalla ",
+    "AdresseA": "تجزئة اللويزات رقم 35 اجنان ال",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOSTAKBAL ZAHIR",
+    "NOM_ETABA": "المستقبل الزاهر",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك9 زنقة7 رقم14 بلاد الجابري",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HABIBAE",
+    "NOM_ETABA": "مدرسة حبيبة الخصوصية",
+    "AdresseL": "N17 HAY JDID AIN NOKBI",
+    "AdresseA": "رقم 17 الحي الجديد عين نقبي",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD SCHOOL",
+    "NOM_ETABA": "رياض سكول",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 2 زنقة 11 بلاد صفيرة عين",
+    "COMMUNE": "Jnan El Ouard",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

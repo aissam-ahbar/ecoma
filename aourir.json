@@ -1,0 +1,182 @@
+[
+  {
+    "NOM_ETABL": "LC AL ICHRAQ",
+    "NOM_ETABA": "ثانوية الإشراق الإعدادية",
+    "AdresseL": "AOURIR",
+    "AdresseA": "أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC ABDELLAH IBN ABBAS",
+    "NOM_ETABA": "ثانوية عبد الله ابن العباس الإعدادية",
+    "AdresseL": "DOUAR TAMRAGHT         COMMUNE AOURIR",
+    "AdresseA": "دوار تمراغت جماعة اورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC AL MAOUZ",
+    "NOM_ETABA": "ثانوية الموز الإعدادية",
+    "AdresseL": "CENTRE URBAIN AOURIR       COMMUNE  AOURIR",
+    "AdresseA": "المركز الحضري اورير  جماعة اورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ACHATI",
+    "NOM_ETABA": "م. الشاطئ ",
+    "AdresseL": "CENTRE  AOURIR       COMMUNE  AOURIR",
+    "AdresseA": "مركز أورير جماعة أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ASSERKIT",
+    "NOM_ETABA": "م. أسركيت",
+    "AdresseL": "DOUAR  ASSERKIT        COMMUNE  AOURIR",
+    "AdresseA": "دوارأسركيت جماعة أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI AHMED ERRAMI IMIMIKI",
+    "NOM_ETABA": "م.م سيدي أحمد الرامي- إمي ميكي",
+    "AdresseL": "DOUAR  IMIMIKI         COMMUNE  AOURIR",
+    "AdresseA": "دوار إمي ميكي جماعة أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALMA ALMA",
+    "NOM_ETABA": "م.م ألما- ألما",
+    "AdresseL": "DOUAR  ALMA          COMMUNE  AOURIR",
+    "AdresseA": "دوار ألما",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL AMOUAJ TAMRAGHT",
+    "NOM_ETABA": "م.م الامواج- تمراغت",
+    "AdresseL": "DOUAR  TAMRAGHT         COMMUNE  AOURIR",
+    "AdresseA": "دوار تمراغت جماعة أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HASSANE IBN THABIT",
+    "NOM_ETABA": "م,حسان بن ثابت",
+    "AdresseL": "Hay Bikharbichen    COMMUNE  AOURIR",
+    "AdresseA": "حي بيخريبيشن جماعة أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E JABER IBN HAYYANE",
+    "NOM_ETABA": "م,جابر بن حيان",
+    "AdresseL": "Quartier  TOUGHZA     COMMUNE AOURIR",
+    "AdresseA": "حي تغزا    جماعة أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E. TAMAOUANZA",
+    "NOM_ETABA": "م. تماوانزا",
+    "AdresseL": "Quartier Tamaouanza Aourir",
+    "AdresseA": "حي تماوانزا  أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IGUER OUFOLLOUS",
+    "NOM_ETABA": "م. إكر أوفلوس",
+    "AdresseL": "Iguer Oufollous ",
+    "AdresseA": "إكر أوفلوس",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LQ AOURIR",
+    "NOM_ETABA": "ثانوية أورير التأهيلية",
+    "AdresseL": "AOURIR CENTRE        COMMUNE DAOURIR",
+    "AdresseA": "أورير المركز  جماعة أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ ARRACHAD",
+    "NOM_ETABA": "ثانوية الرشاد التأهيلية",
+    "AdresseL": "CENTRE AOURIR",
+    "AdresseA": "دوار بيخربيشن مركز جماعة أورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "institution issen",
+    "NOM_ETABA": "مؤسسة إسين الخصوصية",
+    "AdresseL": "cite imimiki, bikharbichen- ao",
+    "AdresseA": "حي اميميكي بيخربيشن اورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution aourir",
+    "NOM_ETABA": "مؤسسة أورير الخصوصية",
+    "AdresseL": "hay igrou foulous",
+    "AdresseA": "حي إكروفولوس  اورير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution el madanie",
+    "NOM_ETABA": "مؤسسة االمدني الخاصة",
+    "AdresseL": "hay znagui aourir",
+    "AdresseA": "حي الزناكي اورير اكادير",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION TAHAE",
+    "NOM_ETABA": "مؤسسة طه الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي إكر أوفولوس",
+    "COMMUNE": "Aourir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

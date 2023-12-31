@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ENNAKHIL",
+    "NOM_ETABA": "الثانوية الإعدادية النخيل",
+    "AdresseL": "COLLEGE ENNAKHIL COMMUNE TAGHJIJT GUELMIM",
+    "AdresseA": "جماعة تغجيجت",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JABAL BANI",
+    "NOM_ETABA": "المدرسة الابتدائية جبل باني",
+    "AdresseL": "TAGHJIJT CENTRE PROVINCE GUELMIM",
+    "AdresseA": "تغجيجت المركز",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOKHTAR SOUSSI",
+    "NOM_ETABA": "المدرسة الابتدائية المختار السوسي",
+    "AdresseL": "DOUAR TAGHJIJT  TAGHJIJT  GUELMIM",
+    "AdresseA": "دوار تغجيجت تغجيجت",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "s s IMAM ALBOUKHARI",
+    "NOM_ETABA": "م م الامام البخاري ",
+    "AdresseL": "TAGMOUT COMMUNE TAGHJIJT",
+    "AdresseA": "تكموت جماعة تغجيجت",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ID MOUSSA",
+    "NOM_ETABA": "م م ادموسى",
+    "AdresseL": "DOUAR ID MOUSSA  COMMUNE TAGHJIJT",
+    "AdresseA": "دوار ادموسى جماعة تغجيجت",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TINZERT",
+    "NOM_ETABA": "م م تينزرت",
+    "AdresseL": "DOUAR TINZERT  COMMUNE TAGHJIJT",
+    "AdresseA": "دوار تينزرت  ص-ب 236 جماعة  تغجيجت",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TARGAMAIT",
+    "NOM_ETABA": "م م تركمايت",
+    "AdresseL": "TARGAMAIT  COMMUNE TAGHJIJT",
+    "AdresseA": "تركمايت  جماعة  تغجيجت",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOURABITINE",
+    "NOM_ETABA": "المدرسة الابتدائية المرابطين",
+    "AdresseL": "COMMUNE TAGHJIJT",
+    "AdresseA": "جماعة تغجيجت",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL IRFANE",
+    "NOM_ETABA": "الثانوية التأهيلية العرفان",
+    "AdresseL": "COMMUNE TAGHJIJT CENTRE",
+    "AdresseA": "مركز جماعة تغجيجت",
+    "COMMUNE": "Taghjijt",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

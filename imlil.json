@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM ALI",
+    "NOM_ETABA": "ثانوية الإمام علي الإعدادية",
+    "AdresseL": "IMLIL CENTRE",
+    "AdresseA": "مركز امليل",
+    "COMMUNE": "Imlil",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE IMLIL",
+    "NOM_ETABA": "مركزية إمليل",
+    "AdresseL": "QUARTIER ADMINISTRATIF",
+    "AdresseA": "الحي الإداري ",
+    "COMMUNE": "Imlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE BOUGHRARET",
+    "NOM_ETABA": "مركزية بوغرارت",
+    "AdresseL": "DOUAR BOUGHRARET",
+    "AdresseA": "دوار بوغرارت ",
+    "COMMUNE": "Imlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ESSOUR",
+    "NOM_ETABA": "مركزية السور",
+    "AdresseL": "DOUAR ESSOUR",
+    "AdresseA": "دوار السور",
+    "COMMUNE": "Imlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL AZHAR",
+    "NOM_ETABA": "الأزهار",
+    "AdresseL": "Ait Maayad - C.U. Imlil Demnat",
+    "AdresseA": "ايت معياض، جماعة امليل",
+    "COMMUNE": "Imlil",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

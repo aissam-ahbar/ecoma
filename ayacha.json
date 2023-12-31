@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE AYACHA",
+    "NOM_ETABA": "الثانوية الإعدادية عياشة ",
+    "AdresseL": "CENTRE COMMUNAL AYACHA",
+    "AdresseA": "عياشة المركز",
+    "COMMUNE": "Ayacha",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MAGHREB EL ARABI  AYACHA CENTRE ",
+    "NOM_ETABA": "م/م المغرب العربي المركزية",
+    "AdresseL": "DOUAR AYACHA CENTRE COMMUNE AYACHA",
+    "AdresseA": "دوار عياشة المركز جماعة عياشة",
+    "COMMUNE": "Ayacha",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMZOURA CENTRE",
+    "NOM_ETABA": "م/م أمزورة المركزية",
+    "AdresseL": "DOUAR AMZORA COMMUNE AYACHA",
+    "AdresseA": "دوار أمزورة جماعة عياشة",
+    "COMMUNE": "Ayacha",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZEMART CENTRE",
+    "NOM_ETABA": "م/م تازمارت المركزية",
+    "AdresseL": "DOUAR TAZEMART COMMUNE AYACHA",
+    "AdresseA": "دوار تازمارت جماعة عياشة",
+    "COMMUNE": "Ayacha",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " HAMZA IBNOU  ABDELMOTTALEB CENTRE",
+    "NOM_ETABA": "م/م حمزة بن عبد المطلب المركزية ",
+    "AdresseL": "DOUAR AIN MAABAD COMMUNE AYACHA",
+    "AdresseA": "دوار عين معبد جماعة عياشة",
+    "COMMUNE": "Ayacha",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MGAZLIYNE CENTRE",
+    "NOM_ETABA": "م/م المكزليين المركزية",
+    "AdresseL": "DOUAR MGAZLIYiNE COMMUNE AYACHA",
+    "AdresseA": "دوار المكزليين جماعة عياشة",
+    "COMMUNE": "Ayacha",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

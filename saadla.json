@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "ESSAIDIYINE",
+    "NOM_ETABA": "الثانوية الإعدادية السعديين",
+    "AdresseL": "COMMUNE SAADLA CERCLE HRARA",
+    "AdresseA": "جماعة الصعادلة دائرة حرارة",
+    "COMMUNE": "Saadla",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SAADLA",
+    "NOM_ETABA": "م/م الصعادلة",
+    "AdresseL": "DOUAR LOULAD COMMUNE SAADLA",
+    "AdresseA": "دوار لولاد جماعة الصعادلة",
+    "COMMUNE": "Saadla",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHOUADRA",
+    "NOM_ETABA": "م/م لخوادرة",
+    "AdresseL": "DOUAR LAKHOUADRA COMMUNE SAADLA",
+    "AdresseA": "دوار لخوادرة  جماعة اصعادلا",
+    "COMMUNE": "Saadla",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SS ELMOUAHIDINE",
+    "NOM_ETABA": " م/م الموحدين",
+    "AdresseL": "DOUAR OULAD EL HAJ MED COMMUNE SAADLA",
+    "AdresseA": "دوار اولاد الحاج محمد",
+    "COMMUNE": "Saadla",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR EL MADRAOUI",
+    "NOM_ETABA": "م/م دار المدراوي",
+    "AdresseL": "dar el madraoui COMMUNE SAADLA",
+    "AdresseA": "دار المدراوي جماعة الصعادلة",
+    "COMMUNE": "Saadla",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

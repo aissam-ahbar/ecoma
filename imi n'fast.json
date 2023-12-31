@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMI NFAST",
+    "NOM_ETABA": "الثانوية الإعدادية إمي نفاست",
+    "AdresseL": "centre imi nfast",
+    "AdresseA": "مركز امي نفاست",
+    "COMMUNE": "Imi N'Fast",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE 23 NOVEMBRE CENTRE FOM KIZI",
+    "NOM_ETABA": "مجموعة مدارس 23 نونبر مركزية فم كيزي",
+    "AdresseL": "DOUAR FOM KIZI   mesti  bp 10",
+    "AdresseA": "دوار فم كيزي",
+    "COMMUNE": "Imi N'Fast",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL NASSIME CENTRE IMI N FAST",
+    "NOM_ETABA": "مجموعة مدارس النسيم مركزية امي نفاست",
+    "AdresseL": "CENTRE COMMUNE  IMI N FAST",
+    "AdresseA": "مركز جماعة امي نفاست",
+    "COMMUNE": "Imi N'Fast",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

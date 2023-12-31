@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": " S/S 03 MARS",
+    "NOM_ETABA": "م/م 03 مارس",
+    "AdresseL": "KSARA TAZARINE AIT YAHYA IMILCHIL",
+    "AdresseA": "قصر تازارين ايت يحيى املشيل",
+    "COMMUNE": "Ait Yahya",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HATTABE",
+    "NOM_ETABA": "ايت حطــــاب",
+    "AdresseL": "KSAR AIT HATTAB COMMUNE  AIT YAHIA IMILCHIL",
+    "AdresseA": "قصر ايت حطاب جماعة ايت يحيى املشيل",
+    "COMMUNE": "Ait Yahya",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MICHLIFENE",
+    "NOM_ETABA": "ميشلفن",
+    "AdresseL": "KSAR MICHLIFEN AIT YAHIA IMILCHIL",
+    "AdresseA": "قصر ميشلفن جماعة أيت يحيى دائرة إميلشيل",
+    "COMMUNE": "Ait Yahya",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

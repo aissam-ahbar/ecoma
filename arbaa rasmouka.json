@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RASSMOUKA",
+    "NOM_ETABA": "الثانوية الاعدادية رسموكة",
+    "AdresseL": "centre arbia rasmouka",
+    "AdresseA": "مركز جماعة رسموكة",
+    "COMMUNE": "Arbaa Rasmouka",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SAKIA HAMRA CENTRE AIT WIDERNE",
+    "NOM_ETABA": "م.م الساقية الحمراء مركزية ايت ودرن",
+    "AdresseL": "DOUAR AIT WIDERNE",
+    "AdresseA": "دوار ايت ودرن",
+    "COMMUNE": "Arbaa Rasmouka",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KHALED BNO LWALID CENTRE TAGOUDIRT",
+    "NOM_ETABA": "م.م خالد بن الوليد مركزية تكديرت",
+    "AdresseL": "DOUAR TAGOUDIRT",
+    "AdresseA": "دوار تكديرت",
+    "COMMUNE": "Arbaa Rasmouka",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

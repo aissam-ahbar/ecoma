@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial TAZOUTA",
+    "NOM_ETABA": "ثانوية تازوطة الإعدادية",
+    "AdresseL": "Centre commune Tazouta",
+    "AdresseA": "مركز جماعة تازوطة",
+    "COMMUNE": "Tazouta",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss TAZOUTA Centre",
+    "NOM_ETABA": "م/م تازوطة-المركز",
+    "AdresseL": "DOUAR TAZOUTA",
+    "AdresseA": "دوار تازوطة",
+    "COMMUNE": "Tazouta",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIT CHAIB Centre",
+    "NOM_ETABA": "م/م أيت شعيب-المركز",
+    "AdresseL": "DOUAR AIT  CHAIB commuNe tazouta",
+    "AdresseA": "دوار أيت شعيب جماعة تازوطة",
+    "COMMUNE": "Tazouta",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

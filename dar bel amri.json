@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "ATTADAMOUNE",
+    "NOM_ETABA": "التضامن",
+    "AdresseL": "Dar belamri",
+    "AdresseA": "دار بلعامري",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE 11 JANVIER",
+    "NOM_ETABA": "ثانوية 11 يناير الإعدادية",
+    "AdresseL": "DAR BEL AMRI     SIDI SLIMANE",
+    "AdresseA": "دار بلعامري    سيدي سليمان",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ACHBAL AL JAOU",
+    "NOM_ETABA": "اشبال الجو",
+    "AdresseL": "DAR BEL AMRI BASE MILITAIRE",
+    "AdresseA": "دار بلعامري القاعدة الجوية",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE BASE MILITAIRE 5",
+    "NOM_ETABA": "المركزية القاعدة الجوية 5",
+    "AdresseL": "BASE MILITAIRE 5 COMMUNE DAR BELAMRI",
+    "AdresseA": "القاعدة الجوية 5 جماعة دار بلعامري",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE DAR BELAMRI",
+    "NOM_ETABA": "المركزية دار بلعامري",
+    "AdresseL": "DOUAR LAAWAWDA COMMUNE DAR BELAMRI",
+    "AdresseA": "دوار العواودة جماعة  دار بلعامري",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE EL HIMRIYINE",
+    "NOM_ETABA": "المركزية الحيمريين",
+    "AdresseL": "DOUAR EL HIMRIYINE COMMUNE DAR BELAMRI",
+    "AdresseA": "دوار الحيمريين جماعة دار بلعامري",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OTHMANE IBN AFFANE",
+    "NOM_ETABA": "مدرسة عثمان بن عفان",
+    "AdresseL": "DAR BELAMRI CENTRE COMMUNE DAR BEL AMRI",
+    "AdresseA": "دار بلعامري المركزجماعة دار بلعامري",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE SIDI YOUSSEF",
+    "NOM_ETABA": "المركزية سيدي يوسف",
+    "AdresseL": "DOUAR SIDI YOUSSEF COMMUNE DAR BEL AMRI",
+    "AdresseA": "دوار سيدي يوسف جماعة دار بلعامري",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUED BAHT",
+    "NOM_ETABA": "مدرسة واد بهت",
+    "AdresseL": "DAR BeLAMRI CENTRE COMMUNE DAR BELAMRI",
+    "AdresseA": "دار بلعامري المركز جماعة دار بلعامري",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KACEM AMINE",
+    "NOM_ETABA": "قاسم أمين",
+    "AdresseL": "DAR BEL AMRI",
+    "AdresseA": "دار بلعامري",
+    "COMMUNE": "Dar Bel Amri",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

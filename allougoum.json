@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM AL GHAZALI",
+    "NOM_ETABA": "ثانوية الإمام الغزالي الاعدادية",
+    "AdresseL": "CENTRE ALLOUGOUM",
+    "AdresseA": "الحي الاداري مركز الوكوم",
+    "COMMUNE": "Allougoum",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S ALLOUGOUME",
+    "NOM_ETABA": "م/م الوكوم",
+    "AdresseL": "ALLOUGOUME  FOUM ZGUID  TATA",
+    "AdresseA": "الوكوم فم زكيد طاطا",
+    "COMMUNE": "Allougoum",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S ILIGH",
+    "NOM_ETABA": "م/م اليغ",
+    "AdresseL": "DOUAR  ILIGH  FOUM ZGUID TATA",
+    "AdresseA": "دوار اليغ فم زكيد طاطا",
+    "COMMUNE": "Allougoum",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LAKHRAIOUIA",
+    "NOM_ETABA": "م/م الخريويعة",
+    "AdresseL": "DOUAR LAKHRAOUIA ALLOUGOUM FOUM ZGUID  TATA",
+    "AdresseA": "دوار الخريويعة الوكوم فم زكيد طاطا",
+    "COMMUNE": "Allougoum",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S ASSEMLILE",
+    "NOM_ETABA": "م/م اسمليل",
+    "AdresseL": "DOUAR ASSEMLILE COMMUNE ALLOUGOUM FOUM ZGUID",
+    "AdresseA": "دوار اسمليل جماعة ألوكوم طاطا",
+    "COMMUNE": "Allougoum",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANTE AL JOULANE",
+    "NOM_ETABA": "ثانوية الجولان التأهيلية",
+    "AdresseL": "CENTRE ALLOUGOUM",
+    "AdresseA": "مركز الوكوم",
+    "COMMUNE": "Allougoum",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

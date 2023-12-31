@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAMDA NOUMERCID",
+    "NOM_ETABA": "ثانوية تامدة نومرصيد الاعدادية",
+    "AdresseL": "Centre commune Tamda noumercid",
+    "AdresseA": "مركز جماعة تامدة نومرصيد",
+    "COMMUNE": "Tamda Noumercid",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE TALHA",
+    "NOM_ETABA": "مركزية طلحة",
+    "AdresseL": "DOUAR TALHA",
+    "AdresseA": "دوار طلحة",
+    "COMMUNE": "Tamda Noumercid",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "     Centre Amercide",
+    "NOM_ETABA": " مركزية امرصيد",
+    "AdresseL": "Douar amercid",
+    "AdresseA": "دوار امرصيد",
+    "COMMUNE": "Tamda Noumercid",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAMDA",
+    "NOM_ETABA": "مركزية تامدة",
+    "AdresseL": "DOUAR TAMDA",
+    "AdresseA": "دوار تامدة ",
+    "COMMUNE": "Tamda Noumercid",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AZROU",
+    "NOM_ETABA": "مركزية أزرو",
+    "AdresseL": "DOUAR Azrou",
+    "AdresseA": "دوار أزرو",
+    "COMMUNE": "Tamda Noumercid",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

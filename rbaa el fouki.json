@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL WIFAQ",
+    "NOM_ETABA": "الثانوية الإعدادية الوفاق",
+    "AdresseL": "centre commune RBAA EL FOUKI",
+    "AdresseA": "مركز جماعة الربع الفوقي",
+    "COMMUNE": "Rbaa El Fouki",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SANABIL CENTRE",
+    "NOM_ETABA": "السنابل المركز",
+    "AdresseL": "COMMUNE RBAA EL FOUKI",
+    "AdresseA": "  جماعة الربع الفوقي",
+    "COMMUNE": "Rbaa El Fouki",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DHAR EL LOUZ CENTRE",
+    "NOM_ETABA": "ظهر اللوز المركز",
+    "AdresseL": "DOUAR DHAR EL LOUZ COMMUNE RBAA EL FOUKI",
+    "AdresseA": "دوار ظهر اللوز جماعة الربع الفوقي",
+    "COMMUNE": "Rbaa El Fouki",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

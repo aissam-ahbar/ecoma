@@ -1,0 +1,182 @@
+[
+  {
+    "NOM_ETABL": "LYCEE ALANOUAR COLLEGIAL",
+    "NOM_ETABA": "ثانوية الأنوار الإعدادية",
+    "AdresseL": "COMMUNE TEMSIA",
+    "AdresseA": "التمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL IMAME AL JAZOULI COLLEGIAL",
+    "NOM_ETABA": "ثانوية الامام الجزولي الإعدادية",
+    "AdresseL": "douar lainE sidi balkassem TEMSIA",
+    "AdresseA": "دوار العين سيدي بلقاسم تمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE YOUSSEF BNOU TACHFINE COLLEGIAL ",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين الإعدادية",
+    "AdresseL": "DOUAR IKHOURBANE TEMSSIA",
+    "AdresseA": "دوار اخربان التمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBN ALAARABI COLLEGIAL ",
+    "NOM_ETABA": "ثانوية ابن العربي الإعدادية",
+    "AdresseL": "CENTRE TEMSIA",
+    "AdresseA": "مركز تمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ERRACHADE",
+    "NOM_ETABA": "مدرسة الرشاد",
+    "AdresseL": "DOUAR TEMSIA   TEMSIA",
+    "AdresseA": "دوار تمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI DAR AL GHIFARI",
+    "NOM_ETABA": "مدرسة أبي ذر الغفاري",
+    "AdresseL": "hay TIFRDITE TEMSIA",
+    "AdresseA": "التمسية حي  تفرديت",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ALAYMOUNE CENTRE BOUZOUG",
+    "NOM_ETABA": "مجموعة مدارس الليمون المركزية بوزوك",
+    "AdresseL": "DOUAR BOUZOUG commune TEMSIA",
+    "AdresseA": "   دوار بوزوك جماعة تمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء",
+    "AdresseL": "DOUAR IKHOURBANE TEMSIA",
+    "AdresseA": "دوار اخربان",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE DAR BEN CHEIKH",
+    "NOM_ETABA": " مدرسة دار بن الشيخ",
+    "AdresseL": "DOUAR DAR BEN CHEIKH TEMSIA",
+    "AdresseA": "دوار دار بن الشيخ",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOUJAHIDINE",
+    "NOM_ETABA": "مدرسة المجاهدين",
+    "AdresseL": "DOUAR TAAMIRITE TEMSIA inezgane",
+    "AdresseA": "دوار تعمريت تمسية انزكان ",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAHER AL IFRANI",
+    "NOM_ETABA": "مدرسة الطاهر الافراني",
+    "AdresseL": "DOUAR LABDOUA COMMUNE TEMSIA",
+    "AdresseA": "دوار البدوع",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE AMHAICH",
+    "NOM_ETABA": " مدرسة أمهايش",
+    "AdresseL": "DOUAR AMHAICHE TEMSIA",
+    "AdresseA": "دوار أمهايش",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " S S ANNASSIM CENTRE DOUAR LAARAB",
+    "NOM_ETABA": "مجموعة مدارس النسيم المركزية دوار العرب",
+    "AdresseL": "DOUAR LAAREBTEMSIA",
+    "AdresseA": "دوار العرب",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MARINIYINE",
+    "NOM_ETABA": "مدرسة المرينيين ",
+    "AdresseL": "TEMSIA",
+    "AdresseA": "جماعة تمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALINBIAAT",
+    "NOM_ETABA": "مدرسة الإنبعات",
+    "AdresseL": "DOUAR AIT MOUSSA",
+    "AdresseA": "دوار أيت موسى تمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABDELLAH  ECHEFCHAOUNI QUALIFIANT",
+    "NOM_ETABA": "ثانوية عبدالله الشفشاوني التأهيلية",
+    "AdresseL": "Douar LebdouA Temsia",
+    "AdresseA": "دوار البدوع تمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lAhsni",
+    "NOM_ETABA": "الحسني للتعليم الخصوصي",
+    "AdresseL": "rue anahda 6 douar labdoua tem",
+    "AdresseA": "شارع النهضة زنقة 6 دوار البدوع",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SOUKAINA",
+    "NOM_ETABA": "مؤسسة سكينة الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "حي تفرديت، مركز التمسية",
+    "COMMUNE": "Temsia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

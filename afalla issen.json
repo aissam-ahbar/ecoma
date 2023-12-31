@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "AIT BKHAIR",
+    "NOM_ETABA": "أيت بخاير",
+    "AdresseL": "DOUAR AKHFERGA COMMUNE Afalla Issen",
+    "AdresseA": " دوار أخفركة جماعة أفلايسن شيشاوة ",
+    "COMMUNE": "Afalla Issen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUIZGHRANE",
+    "NOM_ETABA": "بويزغران",
+    "AdresseL": "DOUAR BOUIZGHRANE COMMUNE AFALLAISSEN",
+    "AdresseA": "دوار  بويزغران",
+    "COMMUNE": "Afalla Issen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TISGHITE",
+    "NOM_ETABA": "تسغيت",
+    "AdresseL": "douar tisghite COMMUNE AFALLAISSEN",
+    "AdresseA": "دوار  تسغيت",
+    "COMMUNE": "Afalla Issen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ALLA",
+    "NOM_ETABA": "أيت علا",
+    "AdresseL": "DOUAR AIT ALLA COMMUNE AFALLAISSEN",
+    "AdresseA": "دوار أيت علا جماعة أفلايسن",
+    "COMMUNE": "Afalla Issen",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial AIN SEBOU",
+    "NOM_ETABA": "ثانوية عين سبو الإعدادية",
+    "AdresseL": "COMMUNE OULeD MKOUDOU",
+    "AdresseA": "جماعة اولاد مكودو",
+    "COMMUNE": "Oulad Mkoudou",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss OULAD MKOUDOU Centre",
+    "NOM_ETABA": "م/م أولاد مكودو-المركز",
+    "AdresseL": "DOUAR OULAD MKOUDOU",
+    "AdresseA": "دوار اولاد مكودو",
+    "COMMUNE": "Oulad Mkoudou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss DAR HAKOUN Centre",
+    "NOM_ETABA": "م/م دار حقون-المركز",
+    "AdresseL": "DOUAR DAR HAKOUN",
+    "AdresseA": "دوار دار حقون",
+    "COMMUNE": "Oulad Mkoudou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss TAGHITE Centre",
+    "NOM_ETABA": "م/م تاغيت-المركز",
+    "AdresseL": "DOUAR TAGHITe COMMUNE OULED MKOUDOU CERCLE ELNZEL",
+    "AdresseA": "دوار تاغيت جماعة اولاد مكودو دائرة المنزل ",
+    "COMMUNE": "Oulad Mkoudou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

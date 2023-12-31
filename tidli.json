@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELMOKHTAR ESSOUSSI",
+    "NOM_ETABA": "الثانوية الإعدادية المختار السوسي",
+    "AdresseL": "COMMUNE TIDILI",
+    "AdresseA": "جماعة تيديلي",
+    "COMMUNE": "Tidli",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S TOUGHOUTE",
+    "NOM_ETABA": "م.م. توغوت",
+    "AdresseL": "TIDILI AMERZEGANE",
+    "AdresseA": "تديلي",
+    "COMMUNE": "Tidli",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IMAGHODEN",
+    "NOM_ETABA": "م.م.اماغودن",
+    "AdresseL": "IMAGHODEN TIDILI ",
+    "AdresseA": "اماغودن تيدلي",
+    "COMMUNE": "Tidli",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AZALAKH",
+    "NOM_ETABA": "م.م. ازلاغ",
+    "AdresseL": "TIDILI AMERZEGANE",
+    "AdresseA": "تيديلي امرزكان",
+    "COMMUNE": "Tidli",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ESSOUR",
+    "NOM_ETABA": "م.م.الصور",
+    "AdresseL": "dr sor commune tidili ouarzazate",
+    "AdresseA": "دوار الصور جماعة تيدلي دائرة امرزكان اقليم ورزازات",
+    "COMMUNE": "Tidli",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAGUADIRT",
+    "NOM_ETABA": "م.م. تكاديرت",
+    "AdresseL": "TIDILI ighram nogdal centre  AMERZEGANE",
+    "AdresseA": " جماعة تديلي قيادة اغرم نوكدال دائرة  امرزكان",
+    "COMMUNE": "Tidli",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TACHDDIRTE",
+    "NOM_ETABA": "م.م.تشديرت",
+    "AdresseL": "commune rurale Tidili douar tachddirte",
+    "AdresseA": "الجماعة القروية تيدلي دوار تشديرت",
+    "COMMUNE": "Tidli",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

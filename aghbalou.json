@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "ECOLE AGHBALOU",
+    "NOM_ETABA": "مدرسة اغبالو",
+    "AdresseL": "CENTRE D AGHBALOU COMMUNE AGHBALOU",
+    "AdresseA": "مركز جماعة اغبالو",
+    "COMMUNE": "Aghbalou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUGDID",
+    "NOM_ETABA": "مجموعة مدارس موكديد",
+    "AdresseL": "DOUAR MOUGDID COMMUNE AGHBALOU",
+    "AdresseA": "دوار موكديد جماعة اغبالو",
+    "COMMUNE": "Aghbalou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OUAZIZ",
+    "NOM_ETABA": "مجموعة مدارس ايت واعزيز",
+    "AdresseL": "DOUAR AIT OUAZIZ COMMUNE AGHBALOU",
+    "AdresseA": "دوار ايت واعزيز جماعة اغبالو",
+    "COMMUNE": "Aghbalou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OUAHI OU HAKI",
+    "NOM_ETABA": "مجموعة مدارس ايت واحي وحقي",
+    "AdresseL": "DOUAR AIT OUAHI OU HAKI COMMUNE AGHBALOU",
+    "AdresseA": "دوار ايت واحي وحقي جماعة اغبالو",
+    "COMMUNE": "Aghbalou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AGHBALOU ",
+    "NOM_ETABA": "الثانوية التأهيلية أغبالو ",
+    "AdresseL": "AGHBALOU CENTRE COMMUNE AGHBALOU",
+    "AdresseA": "مركز جماعة اغبالو",
+    "COMMUNE": "Aghbalou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

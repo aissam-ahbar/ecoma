@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRACHAD",
+    "NOM_ETABA": "ثانوية الرشاد الاعدادية",
+    "AdresseL": "centre OULED HAMDANE ",
+    "AdresseA": "مركزأولاد حمدان ",
+    "COMMUNE": "Oulad Hamdane",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S LOUHAHSSA",
+    "NOM_ETABA": "م/م لوهاهسة",
+    "AdresseL": "DOUAR LOUHAHSSA ",
+    "AdresseA": "دوار لوهاهسة",
+    "COMMUNE": "Oulad Hamdane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKHRARZA",
+    "NOM_ETABA": "م/م الخرارزة",
+    "AdresseL": "DOUAR ouled seghir",
+    "AdresseA": "دوار أولاد الصغير",
+    "COMMUNE": "Oulad Hamdane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAICHA",
+    "NOM_ETABA": "م/م الطايشة",
+    "AdresseL": "DOUAR louhahsa ",
+    "AdresseA": "دوار لوهاهسة ",
+    "COMMUNE": "Oulad Hamdane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

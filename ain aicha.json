@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL MAWLA ABDLAZIZ",
+    "NOM_ETABA": "ثانوية المولى عبد العزيز الإعدادية",
+    "AdresseL": "COMMUNE AIN AICHA  TISSA  TAOUNATE",
+    "AdresseA": "جماعة عين عايشة-بلدية تيسة",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAKADDOUME",
+    "NOM_ETABA": "م/م  التقدم ",
+    "AdresseL": "COMMUNE AIN AICHA CENTRE TISSA",
+    "AdresseA": "    -جماعة عين عايشة- تيسةالمركز-",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD BOUCHTA",
+    "NOM_ETABA": "م/م  اولاد بوشتى",
+    "AdresseL": "DOUAR AIN BOUHAJAJ COMMUNE AIN AICHA TISSA",
+    "AdresseA": "دوار عين بوحجاج جماعة عين عائشة تيسة",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD NIF",
+    "NOM_ETABA": "م/م أولاد النيف",
+    "AdresseL": "DOUAR OULAD NIF COMMUNE AIN AICHA TISSA",
+    "AdresseA": "دوار  ولاد النيف  -جماعة عين عايشة- تيسة",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAAOUNIATE AL KIFAH",
+    "NOM_ETABA": "م/م  تعاونية الكفاح",
+    "AdresseL": "TAAOUNIAT AL KIFAH COMMUNE AIN AICHA TISSA",
+    "AdresseA": "دوار تعاونية الكفاح   -جماعة عين عايشة- تيسة",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD DAHHOU",
+    "NOM_ETABA": "م/م  اولاد دحو",
+    "AdresseL": "DOUAR OULAD DAHHOU COMMUNE AIN AICHA  TISSA",
+    "AdresseA": "دوار أولاد دحو   -جماعة عين عايشة- تيسة",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN LAKRAA",
+    "NOM_ETABA": "م/م  عين لقرع",
+    "AdresseL": "DOUAR AL HRARSA COMMUNE AIN AICHA  TISSA",
+    "AdresseA": "دوار الهرارسة جماعة عين عائشة تيسة",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIN AICHA ",
+    "NOM_ETABA": "ثانوية عين عائشة التأهيلية",
+    "AdresseL": "COMMUNE AIN AICHA TISSA",
+    "AdresseA": "جماعة عين عائشة - تيسة",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE RAYANE ",
+    "NOM_ETABA": "مجموعة مدارس الريان",
+    "AdresseL": "HAY HAJRET TBEL AIN AICHA CENT",
+    "AdresseA": "حي حجرة الطبل عين عائشة المركز",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement el idrissi enseignenemt",
+    "NOM_ETABA": "مؤسسة الادريسي للتعليم الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "حي أولاد اعمارو عين عائشة",
+    "COMMUNE": "Ain Aicha",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

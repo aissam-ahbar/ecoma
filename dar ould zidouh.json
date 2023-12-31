@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "COOLEGE IBN ABBAD",
+    "NOM_ETABA": "ثانوية ابن عباد  الإعدادية",
+    "AdresseL": "BOULEVARD HASSAN I DAR OULD ZIDOUH ",
+    "AdresseA": "شارع الحسن الأول دار ولد زيدوح",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE LAMGHARIR",
+    "NOM_ETABA": "  الثانوية الإعدادية لمغارير",
+    "AdresseL": "COMMUNE RURALE DAR OULD ZIDOUH",
+    "AdresseA": "جماعة دار ولد زيوح",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE 6 NOVEMBRE",
+    "NOM_ETABA": "م 6 نونبر",
+    "AdresseL": "DAR OULD ZIDOUH CENTRE",
+    "AdresseA": "جماعة دار ولد زيدوح",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ABDENBI",
+    "NOM_ETABA": "م اولاد عبد النبي",
+    "AdresseL": "DAR OULD ZIDOUH CENTRE",
+    "AdresseA": "دوار أولاد عبد النبي جماعة دار ولد زيدوح",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMGHARIR CENTRE",
+    "NOM_ETABA": "مركزية المغارير",
+    "AdresseL": "LAMGHARIR COMMUNE DAR OLD ZIDOUH",
+    "AdresseA": "جماعة دار ولد زيدوح",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SLIMANE CENTRE",
+    "NOM_ETABA": "مركزية أولاد اسليمان",
+    "AdresseL": "OULED SLIMANE COMMUNE DAR OLD ZIDOUH",
+    "AdresseA": "جماعة دار ولد زيدوح",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED NIFAOUI",
+    "NOM_ETABA": "أولاد النيفاوي",
+    "AdresseL": "OULED NIFAOUI COMMUNE DAR OLD ZIDOUH",
+    "AdresseA": "جماعة دار ولد زيدوح",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABO HANIFA ANNOOMAN",
+    "NOM_ETABA": "مدرسة ابو حنيفة النعمان",
+    "AdresseL": "LOTISSEMENT AL OMRANE DAR OULED ZIDOUH",
+    "AdresseA": "تجزئة العمران دوار ولد زيدوح",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE HASSAN I",
+    "NOM_ETABA": "ثانوية الحسن الأول التأهيلية",
+    "AdresseL": "BD HASSAN 1",
+    "AdresseA": "شارع الحسن الأول",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ILYASS",
+    "NOM_ETABA": "الياس ",
+    "AdresseL": "",
+    "AdresseA": "حي الزوادحة دار ولد زيدوح ",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBNO ANNAFIS",
+    "NOM_ETABA": "ابن النفيس",
+    "AdresseL": "CENTRE Dar oulEd zidouh fqih b",
+    "AdresseA": "مركز دار ولد زيدوح الفقيه بن ص",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Achbal al atlas al motawassit",
+    "NOM_ETABA": "أشبال  الاطلس المتوسط",
+    "AdresseL": "LOT BAM N° 205 DAR OULED ZIDOU",
+    "AdresseA": "تجزئة بام رقم 205 دار ولد زيدو",
+    "COMMUNE": "Dar Ould Zidouh",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

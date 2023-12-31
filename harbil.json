@@ -1,0 +1,292 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MANSOURIA",
+    "NOM_ETABA": "الثانوية الإعدادية المنصورية",
+    "AdresseL": "TAMANSOURT COMMUNE HARBIL",
+    "AdresseA": "تمنصورت جماعة حربيل",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ATTACHAROK",
+    "NOM_ETABA": "الثانوية الإعدادية التشارك",
+    "AdresseL": "DOUAR MASAOUD",
+    "AdresseA": "دوار مسعود",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RIAD ALMISK",
+    "NOM_ETABA": "الثانوية الإعدادية رياض المسك",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تامنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RIAD LAAROUSSE",
+    "NOM_ETABA": "الثانوية الإعدادية رياض العروس",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تامنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RIAD ESSANAOUBAR",
+    "NOM_ETABA": "الثانوية الإعدادية  رياض الصنوبر",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تمنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE PEDA TAMANSOURTE COLLEGIAL",
+    "NOM_ETABA": "Err :509",
+    "AdresseL": "chatre 5 tamansourt",
+    "AdresseA": " الشطر 5 تمنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULAD MASSAOUD ",
+    "NOM_ETABA": "مدرسة اولاد مسعود ",
+    "AdresseL": "KM 12 ROUTE EL JADIDA CR HARBIL PROV MARRAKECH",
+    "AdresseA": "كم  5 طريق الجديدة جماعة حربيل",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL HARMALE OUAZZOU CENTRLALE",
+    "NOM_ETABA": "مجموعة مدارس الحرمل واعزو المركزية  ",
+    "AdresseL": "DOUAR AIT OUAZZOU CR HARBIL PROV MARRAKECH",
+    "AdresseA": "دوار ايت واعزو جماعة حربيل",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT BALLA OUSAID CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس ايت بلا وسعيد المركزية",
+    "AdresseL": "DOUAR AIT BALLA OUSAID CR HARBIL PROV MARRAKECH",
+    "AdresseA": "دوار ايت بلا وسعيد جماعة حربيل",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ESSIFERE CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس السيفر المركزية",
+    "AdresseL": "DOUAR ESSIFERE CR HARBIL PROV MARRAKECH",
+    "AdresseA": "دوار السيفر جماعة حربيل",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MASSAOUD CENTRAL",
+    "NOM_ETABA": "مجموعة مدارس مسعود المركزية",
+    "AdresseL": "DOUAR MASSAOUD CR HARBIL PROV MARRAKECH",
+    "AdresseA": "دوار مسعود جماعة حربيل",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL ABBASSIA",
+    "NOM_ETABA": "مدرسة العباسية",
+    "AdresseL": "TAMANSOURTE COMMUNE HARBIL",
+    "AdresseA": "تمنصورت جماعة حربيل",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SOLTANE MY SMAIL",
+    "NOM_ETABA": "مدرسة السلطان مولاي اسماعيل",
+    "AdresseL": "lot parc yasmine tamansourte",
+    "AdresseA": "تجزئة الياسمين تامنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RIAD AL HAMAMA",
+    "NOM_ETABA": "مدرسة رياض الحمامة",
+    "AdresseL": "TAMANSOURTE CR HARBIL",
+    "AdresseA": "تامنصورت جماعة حربيل",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RIAD EL MARJANE",
+    "NOM_ETABA": "مدرسة رياض المرجان",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تمنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE PEDAGOGIQUE TAMANSOURTE   ",
+    "NOM_ETABA": "المركب التربوي تامنصورت - ابتدائي -",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تامنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RYAD EL MENZEH",
+    "NOM_ETABA": "مدرسة رياض المنزه",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تمنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RYAD ETTAQUADDOUME",
+    "NOM_ETABA": "مدرسة رياض التقدم",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تمنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAMANSOURTE",
+    "NOM_ETABA": "الثانوية التأهيلية تمنصورت",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تمنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE  QUALIFIANT PRINCE HERITIER MY EL HASSAN",
+    "NOM_ETABA": "الثانوية التأهيلية ولي العهد الأمير مولاي الحسن",
+    "AdresseL": "Tamansourt",
+    "AdresseA": "تمنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT RYAD EZZAHIA",
+    "NOM_ETABA": "الثانوية التأهيلية رياض الزاهية",
+    "AdresseL": "TAMANSOURTE",
+    "AdresseA": "تامنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Ennaymi ENS SCO",
+    "NOM_ETABA": "مؤسسة النعيمي للتعليم المدرسي الخصوصي",
+    "AdresseL": "79 tranche 2 tamansourt",
+    "AdresseA": "79 الشطر 2 تامنصورت ",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NOUR TAMENSOURT ENS SCO",
+    "NOM_ETABA": "مؤسسة نور تمنصورت للتعليم المدرسي الخصوصي",
+    "AdresseL": "TRANCHE 5 HARBIL TAMENSOURT",
+    "AdresseA": "الشطر 5 حربيل تامنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT riad al maarifa ENS SCO",
+    "NOM_ETABA": "مؤسسة رياض المعرفة للتعليم المدرسي الخصوصي",
+    "AdresseL": "TRANCHE 8 LOT E TAMANSOURT",
+    "AdresseA": "E  تمنضورت الشطر 8 البقعة ",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CHAMA POUR ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة شامة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Tamensourt chatr 2",
+    "AdresseA": "تامنصورت الشطر 2",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ENNAYMI 2 ENS SCO",
+    "NOM_ETABA": "مؤسسة النعيمي 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "Tranche 2 Tamensourt",
+    "AdresseA": "الشطر2 تامنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NAJAH TAMENSOURT ENS SCO",
+    "NOM_ETABA": "مؤسسة نجاح تامنصورت للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "شطر 1 تامنصورت",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AZIR POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "ازير للتعليم الخصوصي",
+    "AdresseL": "tranche 1 Alamal tamanasourte ",
+    "AdresseA": "تجزئة الامل الشطر الاول تامنصو",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SPIRALE POUR L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": " أنستيتيسيون سبيرال للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement Esskaina Tranche 1",
+    "AdresseA": "تجزئة السكاينة الشطر 1 تامنصور",
+    "COMMUNE": "Harbil",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

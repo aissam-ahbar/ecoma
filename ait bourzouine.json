@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "BENI MTIR",
+    "NOM_ETABA": "بني مطير",
+    "AdresseL": "AIT BOURZOUINE",
+    "AdresseA": "ايت بورزوين",
+    "COMMUNE": "Ait Bourzouine",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED RHA CENTRE",
+    "NOM_ETABA": "واد الرحى -المركزية",
+    "AdresseL": "OUED R HA CENTRE",
+    "AdresseA": "واد الرحى  المركزية",
+    "COMMUNE": "Ait Bourzouine",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN MAAROUF",
+    "NOM_ETABA": "عين  معروف",
+    "AdresseL": "AIN MAAROUF AIT BOURZOUINE",
+    "AdresseA": "عين معروف ايت بورزوين",
+    "COMMUNE": "Ait Bourzouine",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOMAINE EL HAJ HASSAN",
+    "NOM_ETABA": "ضيعة الحاج حسن",
+    "AdresseL": "domaine el HAJ HASSAn  AIT BOURZOUINE",
+    "AdresseA": "ضيعة الحاج حسن  ايت بورزوين ",
+    "COMMUNE": "Ait Bourzouine",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

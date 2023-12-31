@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALI BEN EJILALI EL WAHABI",
+    "NOM_ETABA": "الثانوية الإعدادية علي بن  الجيلالي  الوهابي",
+    "AdresseL": "CENTRE FDALATE COMMUNE FDALATE",
+    "AdresseA": "مركز فضالات جماعة فضالات",
+    "COMMUNE": "Fdalate",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE FEDALATE ",
+    "NOM_ETABA": "مدرسة فضالات",
+    "AdresseL": "JEMAA FEDALATE ROUTE 106 COMMUNE FDALATE",
+    "AdresseA": "جمعة فضالات الطريق 106 جماعة فضالات",
+    "COMMUNE": "Fdalate",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED YOUSSEF CENTRE",
+    "NOM_ETABA": "م/م اولاد يوسف المركزية",
+    "AdresseL": "DOUAR OULED YOUSSEF COMMUNE FDALATE",
+    "AdresseA": "دوار اولاد يوسف جماعة فضالات",
+    "COMMUNE": "Fdalate",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CAID HAMMOUDA OULED BOUROUIS CENTRE",
+    "NOM_ETABA": "م/ م  القائد حمودة مركزية اولاد بورويس  ",
+    "AdresseL": "DOUAR OULED BOUROUIS COMMUNE FDALATE",
+    "AdresseA": "دوار اولاد بورويس جماعة فضالات",
+    "COMMUNE": "Fdalate",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AHMED EL HANSALI",
+    "NOM_ETABA": "الثانوية التأهيلية أحمد الحنصالي",
+    "AdresseL": "CENTRE FEDALATE",
+    "AdresseA": "فضالات المركز",
+    "COMMUNE": "Fdalate",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED CHAOUKI",
+    "NOM_ETABA": "الثانوية الاعدادية أحمد شوقي",
+    "AdresseL": "DOUAR LBGHAYLIA COMMUNE MOGRANE",
+    "AdresseA": "دوار البغايلية جماعة المكرن",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL WAHDA",
+    "NOM_ETABA": "الثانوية الاعدادية الوحدة",
+    "AdresseL": "MOGRANE CENTRE",
+    "AdresseA": "جماعة المكرن المركز",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL BGHAILIA",
+    "NOM_ETABA": "البغايلية",
+    "AdresseL": "DOUAR LABGHAILIYA COMMUNE ELMAGRENE",
+    "AdresseA": "دوار البغايلية جماعة المكرن",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAWASSOL",
+    "NOM_ETABA": " م/م التواصل",
+    "AdresseL": "DOUAR OULED HSSEIN COMMUNE AL MAGRENE",
+    "AdresseA": "دوار اولاد احسين جماعة المكرن",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOGRANE",
+    "NOM_ETABA": "المكرن",
+    "AdresseL": "MOGRANE CENTRE",
+    "AdresseA": "المكرن المركز",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAGFIFATE",
+    "NOM_ETABA": "م.م لكفيفات",
+    "AdresseL": "DOUAR LAGFIFATE COMMUNE  MOGRANE",
+    "AdresseA": "دوار لكفيفات جماعة المكرن",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSAN BNOU TABET  OULED AMEUR",
+    "NOM_ETABA": "حسان بن ثابت -اولاد عامر",
+    "AdresseL": "DOUAR OULED AMEUR COMMUNE MAGRENE",
+    "AdresseA": "دوار اولاد عامر  ج/ المكرن",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ZAITRATE",
+    "NOM_ETABA": "الزعيترات",
+    "AdresseL": "DOUAR KARIAT LAAMAMRA ZAAITRATE",
+    "AdresseA": "دوار قرية العمامرة ج/ المكرن",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BEL KHEIR",
+    "NOM_ETABA": "أولاد بلخير",
+    "AdresseL": "DOUAR OULED BELKHEIR ct mougranne",
+    "AdresseA": "دوار أولاد بلخيرجماعة وقيادة المكرن",
+    "COMMUNE": "Mograne",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

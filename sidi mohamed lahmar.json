@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ABI EL KACEM ECHAABI",
+    "NOM_ETABA": "الثانوية الاعدادية ابي القاسم  الشابي",
+    "AdresseL": "COMMUNE SIDI MOHAMMEDE LAHMMER CENTRE",
+    "AdresseA": "جماعة سيدي محمد لحمر المركز",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED KHAIR EDDINE",
+    "NOM_ETABA": "الثانوية الاعدادية محمد خير الدين",
+    "AdresseL": "SIDI MOHAMED LAHMER",
+    "AdresseA": "سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI MOHAMED LAHMER",
+    "NOM_ETABA": "سيدي محمد لحمر",
+    "AdresseL": "SIDI MOHAMED LAHMAR CENTRE",
+    "AdresseA": "سيدي محمد لحمر المركز",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ENNAJAH OULED ABDELLAH",
+    "NOM_ETABA": "م,م النجاح اولاد عبد الله",
+    "AdresseL": "DOUAR OULED ABDELLAH COMMUNE sidi med lahmar",
+    "AdresseA": "دوار اولاد عبد الله جماعة سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMNASRA",
+    "NOM_ETABA": "لمناصرة",
+    "AdresseL": "DOUAR LAMNASRA SIDI MED LAHMAR",
+    "AdresseA": "دوار لمناصرة سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL AMANA",
+    "NOM_ETABA": "م/م الأمانة",
+    "AdresseL": "DOUAR TAAOUNIYATE sidi mOHAMed lahmar",
+    "AdresseA": "دوار التعاونيات سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KARIATE DAOUIA",
+    "NOM_ETABA": "قرية الضاوية",
+    "AdresseL": "KARIATE DAOUIA  COM SIDI MD LAHMAR",
+    "AdresseA": "قرية الضاوية ج/ سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAAWAKLA",
+    "NOM_ETABA": "م.م العواكلة",
+    "AdresseL": "DOUAR LAAWAKLASIDI MDLAHMAR",
+    "AdresseA": "دوار العواكلة ج/ سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAFKARNA",
+    "NOM_ETABA": "لفكارنة",
+    "AdresseL": "DOUAR LAFKARNA SIDI MED LAHMAR",
+    "AdresseA": "دوار لفكارنة سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMOUAOUKA",
+    "NOM_ETABA": "المواوقة",
+    "AdresseL": "DOUAR LAMWAWKA   COMMUNE MOHAMMED LAHMER",
+    "AdresseA": "دوار المواوقة جماعة سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN LAKSAB",
+    "NOM_ETABA": "عين القصب",
+    "AdresseL": "DOUAR LAHFAYA SIDI MOHAMMED LAHMER",
+    "AdresseA": "دوار الحفاية سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZAYNAB ANAFZAOUIA",
+    "NOM_ETABA": "الثانوية التأهيلية زينب النفزاوية",
+    "AdresseL": "sidi mohamed lahmar",
+    "AdresseA": "سيدي محمد لحمر",
+    "COMMUNE": "Sidi Mohamed Lahmar",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

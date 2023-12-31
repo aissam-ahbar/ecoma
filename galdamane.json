@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial IBNOU AL MOKAFAE",
+    "NOM_ETABA": "الثانوية الإعدادي ابن المـقــفـــع     ",
+    "AdresseL": "COMMUNE RURALE  GALDAMANE",
+    "AdresseA": "الجماععــة القرويــة كلدمــان",
+    "COMMUNE": "Galdamane",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GUELDAMAN CENTRE",
+    "NOM_ETABA": "كلدمان المركز",
+    "AdresseL": "COMMUNE GALDAMANE",
+    "AdresseA": "  كلدمان المركز",
+    "COMMUNE": "Galdamane",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI MAHCEN CENTRE",
+    "NOM_ETABA": "بني محسن المركز",
+    "AdresseL": "DOUAR BNI MAHCEN COMMUNE GALDAMANE",
+    "AdresseA": "دوار  بني محسن  جماعة كلدمان",
+    "COMMUNE": "Galdamane",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BECHIYINE CENTRE",
+    "NOM_ETABA": "بشيين المركز",
+    "AdresseL": "DOUAR BECHIYINE COMMUNE GALDAMANE",
+    "AdresseA": "دوار  بشيين المركز  جماعة كلدمان",
+    "COMMUNE": "Galdamane",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JABLA CENTRE",
+    "NOM_ETABA": "جبلة المركز",
+    "AdresseL": "COMMUNE GALDAMANE",
+    "AdresseA": "دوار  جبلة المركز  جماعة كلدمان",
+    "COMMUNE": "Galdamane",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JOUNA CENTRE",
+    "NOM_ETABA": "اجعونة المركز",
+    "AdresseL": "DOUAR JOUNA COMMUNE GALDAMANE",
+    "AdresseA": "دوار  اجعونة المركز  جماعة كلدمان",
+    "COMMUNE": "Galdamane",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

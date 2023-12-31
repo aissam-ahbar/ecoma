@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL EL MASSIRA ",
+    "NOM_ETABA": "ثانوية المسيرة الإعدادية",
+    "AdresseL": "MINICIPALITE TISSA CENTRE   TAOUNATE",
+    "AdresseA": "بلدية تيسة",
+    "COMMUNE": "Tissa",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL 11 JANVIER",
+    "NOM_ETABA": "ثانوية 11 يناير الإعدادية",
+    "AdresseL": "MUNICIPALITE TISSA CENTRE  TAOUNATE",
+    "AdresseA": "بلدية تيسة",
+    "COMMUNE": "Tissa",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IDRISS 1ER",
+    "NOM_ETABA": "مدرسة ادريس الاول",
+    "AdresseL": "Ecole Idriss 1 quartier administratif TISSA",
+    "AdresseA": "مدرسة إدريس الأول الحي الإداري تيسة",
+    "COMMUNE": "Tissa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ROCHD",
+    "NOM_ETABA": "مدرسة ابن رشد ",
+    "AdresseL": "MUNICIPALITE TISSA CENTRE",
+    "AdresseA": "ابن رشد تيسة المركز",
+    "COMMUNE": "Tissa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DAKHLA",
+    "NOM_ETABA": "مدرسة الداخلة ",
+    "AdresseL": "TISSA CENTRE",
+    "AdresseA": "تيسة المركز",
+    "COMMUNE": "Tissa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL MANSOUR DAHBI ",
+    "NOM_ETABA": "ثانوية المنصور الذهبي التأهيلية",
+    "AdresseL": "MUNICIPALITE TISSA CENTRE  TAOUNATE",
+    "AdresseA": "بلدية تيسة",
+    "COMMUNE": "Tissa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "PLANETE SCIENCE",
+    "NOM_ETABA": "كوكب العلوم للتعليم الخصوصي",
+    "AdresseL": "Quartier d’Ajawira tissa taoun",
+    "AdresseA": "حي اجوابرة تيسة تاونات",
+    "COMMUNE": "Tissa ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

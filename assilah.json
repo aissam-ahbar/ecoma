@@ -1,0 +1,222 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM  ASSILY",
+    "NOM_ETABA": "الثانوية الاعدادية الإمام الأصيلي",
+    "AdresseL": "AVENUE CEbTA N1 MUNICIPALITE ASSILAH",
+    "AdresseA": "شارع سبتة رقم 1",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MAGHREB ARAB",
+    "NOM_ETABA": "الثانوية الاعدادية المغرب العربي",
+    "AdresseL": "college almaghreb alarabi avenue alyarmouk ASILAH",
+    "AdresseA": "ثانوية المغرب العربي الاعدادية شارع اليرموك أصيلة",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED EL IDRISSI",
+    "NOM_ETABA": "مدرسة محمد الإدريسي الابتدائية",
+    "AdresseL": "AVENUE PRINCE HERITIER MUNICIPALITE ASSILAH BP 224",
+    "AdresseA": "    شارع ولي العهد   ص ب 224",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOKHTAR EL BAKKALI",
+    "NOM_ETABA": " مدرسة المختار البقالي الابتدائية",
+    "AdresseL": "QUARTIER ZERKTOUNI MUNICIPALITE ASSILAH",
+    "AdresseA": "حي الزرقطوني",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN KHALDOUN",
+    "NOM_ETABA": " مدرسة ابن خلدون الابتدائية",
+    "AdresseL": "PLACE IBN KHALDOUN MUNICIPALITE ASSILAH",
+    "AdresseA": "ساحة عبد الله كُنون",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED ALI MARZOUK",
+    "NOM_ETABA": "مدرسة محمد علي مرزوق الابتدائية",
+    "AdresseL": "PLACE IBN KHALDOUN MUNICIPALITE ASSILAH",
+    "AdresseA": "ساحة ابن خلدون بلدية أصيلة",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM MALEK",
+    "NOM_ETABA": " مدرسة الإمام مالك الابتدائية",
+    "AdresseL": "RUE ANOUAL N63 MUNICIPALITE ASSILAH",
+    "AdresseA": "شارع معركة أنوال",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALLAL IBN ABDELLAH",
+    "NOM_ETABA": "مدرسة علال بن عبد الله الابتدائية",
+    "AdresseL": "avenue al yarmouk MUNICIPALITE ASSILAH",
+    "AdresseA": "شارع اليرموك بلدية أصيلة",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DEGHALEYINE",
+    "NOM_ETABA": " مدرسة الدغاليين الابتدائية",
+    "AdresseL": "QUARTIER DEGHALEYINE MUNICIPALITE ASSILAH",
+    "AdresseA": "حي الدغاليين",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DEGHALEYINE 2",
+    "NOM_ETABA": "مدرسة الدغاليين 2 الابتدائية",
+    "AdresseL": "DEGHALEYINE - ASSILAH",
+    "AdresseA": "الدغاليين - أصيلة",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUED EDDAHAB",
+    "NOM_ETABA": "الثانوية التأهيلية وادي الذهب",
+    "AdresseL": "AVENUE HASSAN II MUNICIPALITE ASSILAH",
+    "AdresseA": "شارع الحسن الثاني ص.ب 226",
+    "COMMUNE": "Assilah",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "TAUD",
+    "NOM_ETABA": "الطود ",
+    "AdresseL": "rue beni mellal n10",
+    "AdresseA": "رقم 10 زنقة بني ملال تجزئة الذ",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HOLM ASAID",
+    "NOM_ETABA": "الحلم السعيد",
+    "AdresseL": "LoT.ANISA.RUE ALLAL EMKIK N°12",
+    "AdresseA": "إقامة أنيسة زنقة علال امكيك رق",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PARADIS DES ENFANTS",
+    "NOM_ETABA": "جنة الأطفال",
+    "AdresseL": "B.P 195 LOT MOULAY ALI RAISSOU",
+    "AdresseA": "ص.ب. 195 تجزئة محمد علي الريسو",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nachwa",
+    "NOM_ETABA": "نشوى",
+    "AdresseL": "morje abi tayeb al aela",
+    "AdresseA": "مرج أبي الطيب الأعلى",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NACHOUA 2",
+    "NOM_ETABA": "مجموعة مدارس نشوة 2",
+    "AdresseL": "AVENU MOHAMED 6",
+    "AdresseA": "محج محمد السادس",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ENFANT PIONNIER",
+    "NOM_ETABA": "لونفون بيونيي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي راس السقاية زنقة 17 رقم 28 ",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "5EME GENERATION",
+    "NOM_ETABA": "سانكيام جينيراسيون",
+    "AdresseL": "LOT ANNAKHIL N° 27 ASSILAH",
+    "AdresseA": "تجزئة النخيل رقم 27 أصيلة",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL ZELIS",
+    "NOM_ETABA": "أجيال زيليس",
+    "AdresseL": "COMPLEX EDUCTIF NIZAR RAOUF AN",
+    "AdresseA": "المجمع التربوي نزار رؤوف النقي",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le beau jour",
+    "NOM_ETABA": "اليوم الجميل",
+    "AdresseL": "lot anissa Rue mokhtar bakkali",
+    "AdresseA": "تجزئة أنيسة زنقة المختار البقا",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "REDOUAN",
+    "NOM_ETABA": "رضوان",
+    "AdresseL": "NULL",
+    "AdresseA": "أصيلة الجديدة قطعة رقم 33",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT COLIBRI",
+    "NOM_ETABA": "لوبوتي كوليبغي",
+    "AdresseL": "RUE ABI TAMAM N5",
+    "AdresseA": "زنقة ابي تمام رقم 5",
+    "COMMUNE": "Assilah ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

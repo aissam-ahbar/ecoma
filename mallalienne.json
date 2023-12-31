@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABDERRAHIM BOUABID",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الرحيم بوعبيد",
+    "AdresseL": "COMMUNE MALLLYINE",
+    "AdresseA": "الملاليين",
+    "COMMUNE": "Mallalienne",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS IBN BATOUTA",
+    "NOM_ETABA": "م/م ابن بطوطة",
+    "AdresseL": "CENTRE COMMUNE MALALIYENE  TETOUAN",
+    "AdresseA": "دوار الملاليين،جماعة الملاليين، قيادة الملاليين",
+    "COMMUNE": "Mallalienne",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED BEN JELLOUN",
+    "NOM_ETABA": "م.م أحمد بن جلون",
+    "AdresseL": "ROUTE DE SEBTA CMALALYENE  TETOUAN",
+    "AdresseA": "طريق سبتة كلم  12تطوان",
+    "COMMUNE": "Mallalienne",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUAD ALIL",
+    "NOM_ETABA": "م.م واد الليل",
+    "AdresseL": "DOUAR OUAD ALIL C AL MALALYENE  TETOUAN",
+    "AdresseA": "دوار واد الليل جماعة الملاليين اقليم تطوان",
+    "COMMUNE": "Mallalienne",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM MALEK",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مالك",
+    "AdresseL": "commune assebbab",
+    "AdresseA": "جماعة الصباب",
+    "COMMUNE": "Assebbab",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SEBBAB CENTRE",
+    "NOM_ETABA": "الصباب المركز",
+    "AdresseL": "SEBBAB CENTRECOMMUNE SEBBAB",
+    "AdresseA": "دوار الصباب جماعة الصباب",
+    "COMMUNE": "Assebbab",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOURACHED CENTRE",
+    "NOM_ETABA": "بوراشد المركز",
+    "AdresseL": "Douar Bourached Commune Assebbab",
+    "AdresseA": "دوار بوراشد جماعة الصباب ",
+    "COMMUNE": "Assebbab",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

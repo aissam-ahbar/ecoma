@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI SMAIL",
+    "NOM_ETABA": "ثانوية سيدي اسماعيل الاعدادية",
+    "AdresseL": "CENTRE SIDI SMAIL ",
+    "AdresseA": "مركز سيدي اسماعيل ",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRALE SIDI SMAIL",
+    "NOM_ETABA": "مركزية سيدي اسماعيل",
+    "AdresseL": "CENTRE SIDI SMAIL ",
+    "AdresseA": "مركز سيدي اسماعيل ",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY HFID",
+    "NOM_ETABA": "مدرسة مولاي احفيظ",
+    "AdresseL": "CENTRE SIDI SMAIL ",
+    "AdresseA": "مركز سيدي اسماعيل ",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI SMAIL",
+    "NOM_ETABA": "م/م سيدي اسماعيل",
+    "AdresseL": "DOUAR AGBA LHAMRA ",
+    "AdresseA": "دوار العكبة الحمراء",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAATAATA",
+    "NOM_ETABA": "م/م العطاعطة",
+    "AdresseL": "DOUARlkhzaala ",
+    "AdresseA": "دوار الخزاعلة",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BNI SBAA",
+    "NOM_ETABA": "م/م بني سبع",
+    "AdresseL": "DOUAR BNI SBAA",
+    "AdresseA": "دوار بني سبع ",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ABDELLAH BEN EL KAMEL",
+    "NOM_ETABA": "م/م عبد الله بن الكامل",
+    "AdresseL": "DOUAR SI ABDELLAH BEN EL KAMEL ",
+    "AdresseA": "دوار عبد الله بن الكامل",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S GUEDDARA",
+    "NOM_ETABA": "م/م الكدارة",
+    "AdresseL": "DOUAR EL GUADDARA ",
+    "AdresseA": "دوار الكدارة",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SOUAHLA",
+    "NOM_ETABA": "م/م السواهلة",
+    "AdresseL": "DOUAR SOUAHLA",
+    "AdresseA": "دوار السواهلة",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULED SI BOUCHAIB",
+    "NOM_ETABA": "مدرسة أولاد سي بوشعيب",
+    "AdresseL": "DOUAR OULED SI BOUCHAIB",
+    "AdresseA": "دوار أولاد سي بوشعيب",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT JORF LASFAR",
+    "NOM_ETABA": "ثانوية الجرف الأصفر التأهيلية",
+    "AdresseL": "CENTRE SIDI SMAIL",
+    "AdresseA": "مركز سيدي اسماعيل",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "bidayat ajyal",
+    "NOM_ETABA": "بداية أجيال",
+    "AdresseL": "lot chams",
+    "AdresseA": "تجزئة شمس ",
+    "COMMUNE": "Sidi Smail",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

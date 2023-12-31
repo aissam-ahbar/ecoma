@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "COLLGE ALWAHDA ",
+    "NOM_ETABA": " ثا الوحدة الاعدادية",
+    "AdresseL": "LAMRIJA CERCLE AIN BNI MATHAR",
+    "AdresseA": "لمريجة المركز",
+    "COMMUNE": "Mrija",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELKINDI",
+    "NOM_ETABA": "ثانوية الكندي التأهيلية",
+    "AdresseL": "MRIJA CENTRE",
+    "AdresseA": "مريجة المركز",
+    "COMMUNE": "Mrija",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABDELLAH GUENNOUN",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله كنون",
+    "AdresseL": "COMMUN SAHTRYINE",
+    "AdresseA": "جماعة السحتريين",
+    "COMMUNE": "Sahtryine",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية عبد اللـه الشفشاوني",
+    "AdresseL": "DOUAR MENKAL CSAHTRYINE  TETOUAN",
+    "AdresseA": "دوار منكال جماعة السحتريين",
+    "COMMUNE": "Sahtryine",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI OUSSIM 1",
+    "NOM_ETABA": "م.م بني وسيم 1",
+    "AdresseL": "DOUAR BNI OUSSIM SAHTRYINE  TETOUAN",
+    "AdresseA": "دوار بني وسيم جماعة السحتريين",
+    "COMMUNE": "Sahtryine",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI OUASSIM",
+    "NOM_ETABA": "م م بني وسيم",
+    "AdresseL": "DOUAR BNI MTAA C SAHTRYINE ",
+    "AdresseA": "دوار بني متاع جماعة السحتريين",
+    "COMMUNE": "Sahtryine",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IKHADDACHEN",
+    "NOM_ETABA": "م.م إخداشن",
+    "AdresseL": "DOUAR IKHADDACHEN CSAHTRYINE",
+    "AdresseA": "جماعة السحتريين قيادة بني يدر ",
+    "COMMUNE": "Sahtryine",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL HADDADINE",
+    "NOM_ETABA": "م.م الحدادين",
+    "AdresseL": "DOUAR AL HADDADINE CSAHTRYINE",
+    "AdresseA": "دوار  الحدادين جماعةالسحتريين قيادة بني يدر",
+    "COMMUNE": "Sahtryine",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAHZOMRIECH",
+    "NOM_ETABA": "م.م الحزومرييش",
+    "AdresseL": "DOUAR LAHZOMRIECH   COMMUNE SAHTRYINE",
+    "AdresseA": "دوار الحزومرييش جماعة السحتريين",
+    "COMMUNE": "Sahtryine",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C ASKAOUNE",
+    "NOM_ETABA": "ثإ.أسكاون",
+    "AdresseL": "COMMUNE ASKAOUN CENTRE",
+    "AdresseA": "مركز أسكاون",
+    "COMMUNE": "Askaouen",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " SS ASKAOUN",
+    "NOM_ETABA": "م.م أسكاون",
+    "AdresseL": "CENTRE ASKAOUN C ASKAOUN",
+    "AdresseA": "مركز اسكاون جماعة اسكاون",
+    "COMMUNE": "Askaouen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALYANBOUA",
+    "NOM_ETABA": "م.م الينبوع",
+    "AdresseL": "DOUAR   ASSIFZIMER C ASKAOUEN",
+    "AdresseA": "دوار اسفزيمر  جماعة اسكاون /دائرة تالوين",
+    "COMMUNE": "Askaouen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAOURIRTE NZEDDI",
+    "NOM_ETABA": "م.م توريرت نزدي",
+    "AdresseL": "DOUAR   TAOURIRTE NZEDDI C ASKAOUEN",
+    "AdresseA": "دوار توريرت نزدي جماعة أسكاون",
+    "COMMUNE": "Askaouen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ADGHIGH",
+    "NOM_ETABA": "م.م ادغيغ",
+    "AdresseL": "DOUAR   ADGHIGH  C ASKAOUEN",
+    "AdresseA": "دوار أدغيغ جماعة اسكاون",
+    "COMMUNE": "Askaouen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

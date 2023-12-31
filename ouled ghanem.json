@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHALID IBN EL OUALID",
+    "NOM_ETABA": "ثانوية خالد بن الوليد الاعدادية",
+    "AdresseL": "centre OULED GHANEM ",
+    "AdresseA": "مركز أولاد غانم",
+    "COMMUNE": "Ouled Ghanem",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S OULED GHANEM",
+    "NOM_ETABA": "م/م أولاد غانم",
+    "AdresseL": "centre OULED GHANEM",
+    "AdresseA": "مركز أولاد غانم",
+    "COMMUNE": "Ouled Ghanem",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAAZIZATE",
+    "NOM_ETABA": "م/م العزيزات",
+    "AdresseL": "DOUAR LAAZIZATE ",
+    "AdresseA": "دوار العزيزات ",
+    "COMMUNE": "Ouled Ghanem",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKRARBA",
+    "NOM_ETABA": "م/م لكراربة",
+    "AdresseL": "DOUAR LAKRARBA ",
+    "AdresseA": "دوار لكراربة",
+    "COMMUNE": "Ouled Ghanem",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI ABDELLAH BEN YOUSSEF",
+    "NOM_ETABA": "م/م سيدي عبد الله بن يوسف",
+    "AdresseL": "DOUAR BOURAGAE ",
+    "AdresseA": "دوا ر بوركعة",
+    "COMMUNE": "Ouled Ghanem",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MASSIRA",
+    "NOM_ETABA": "ثانوية المسيرة التأهيلية",
+    "AdresseL": "centre Ouled Ghanem",
+    "AdresseA": " مركز أولاد غانم",
+    "COMMUNE": "Ouled Ghanem",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

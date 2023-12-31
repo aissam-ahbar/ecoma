@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SED MOULAY YOUSSEF",
+    "NOM_ETABA": "الثانوية الإعدادية سد مولاي يوسف",
+    "AdresseL": "CITE ADMINISTRATIF COMMUNE AIT AADEL",
+    "AdresseA": "الحي الاداري جماعة ايت عادل",
+    "COMMUNE": "Ait Aadel",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "  SECTEUR SCOLAIRE SED MOULAY YOUSSEF",
+    "NOM_ETABA": " مجموعة  مدارس سد مولاي يوسف",
+    "AdresseL": "DOUAR AIT AADEL COMMUNE AIT AADEL",
+    "AdresseA": "دوار ايت عادل جماعة ايت عادل",
+    "COMMUNE": "Ait Aadel",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARASTE",
+    "NOM_ETABA": "تراست",
+    "AdresseL": "DOUAR TARASTE COMMUNE AIT AADEL",
+    "AdresseA": "دوار تراست جماعة ايت عادل",
+    "COMMUNE": "Ait Aadel",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

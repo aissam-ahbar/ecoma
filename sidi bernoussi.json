@@ -1,0 +1,702 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BNOU ABDELAZIZ",
+    "NOM_ETABA": "الثانوية الإعدادية عمر بن عبد العزيز",
+    "AdresseL": "BV ABO HANIFA NOMANE ELQODSS  sidi BERNOUSSI",
+    "AdresseA": "شارع ابو حنيفة النعمان حي القدس سيدي البرنوصي     ",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARAFA IBNOU AL ABD",
+    "NOM_ETABA": " الثانوية الاعدادية طرفة بن العبد",
+    "AdresseL": "hay eL QODS avenue ibnou hazem   SIDI BERNOUSSI",
+    "AdresseA": "حي القدس شارع الامام ابن حزم سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARIK",
+    "NOM_ETABA": " الثانوية الاعدادية طارق",
+    "AdresseL": "BLD AL MOUTANA IBN HARITA SIDI BERNOUSSI",
+    "AdresseA": "شارع المثنى ابن حارثة سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL ABDELKRIM ELKHATTABI",
+    "NOM_ETABA": "الثانوية الاعدادية عبد الكريم الخطابي",
+    "AdresseL": "AVENUE SOUHAIB ERROUMI SIDI BERNOUSSI",
+    "AdresseA": "شارع صهيب الرومي سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRACHID",
+    "NOM_ETABA": "ثانوية الرشيدالاعدادية",
+    "AdresseL": "avenue AHMED AHERRASS  MANSOUR 2 SIDI BERNOUSSI",
+    "AdresseA": "شارع احمد اهراس المنصور 2 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL SAFI EDDINE EL HILLI",
+    "NOM_ETABA": "الثانوية الإعدادية صفي الدين الحلي",
+    "AdresseL": "bd mbarek ben boubker hammadi hay el qods S Bernou",
+    "AdresseA": "شارع مبارك بن بوبكر حمادي حي القدس سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM ALI",
+    "NOM_ETABA": "المدرسة الإبتدائية الإمام علي",
+    "AdresseL": "BLOC 18 SIDI BERNOUSSI",
+    "AdresseA": "بلوك 18 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE  EL MOURABITINE",
+    "NOM_ETABA": "المدرسة الإبتدائية المرابطين",
+    "AdresseL": "BLOC 18  SIDI BERNOUSSI CASA",
+    "AdresseA": "بلوك 18 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YAKOUB EL MANSOUR",
+    "NOM_ETABA": "المدرسة الإبتدائية يعقوب المنصور",
+    "AdresseL": "BLOC 105 SIDI BERNOUSSI",
+    "AdresseA": "بلوك 105 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YOUSSEF BNOU TACHFINE",
+    "NOM_ETABA": "المدرسة الإبتدائية يوسف بن تاشفين",
+    "AdresseL": "BLOC 106 SIDI BERNOUSSI",
+    "AdresseA": "بلوك 106 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BOUSSAIRI",
+    "NOM_ETABA": "المدرسة الإبتدائية البصيري",
+    "AdresseL": "BLOC  takadoum 37  SIDI BERNOUSSI",
+    "AdresseA": "بلوك التقدم 37 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUAD BNOU JABAL",
+    "NOM_ETABA": "المدرسة الإبتدائية معاذ بن جبل",
+    "AdresseL": "BLOC takkaddoum  34 SIDI BERNOUSSI",
+    "AdresseA": "بلوك التقدم 34 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TARIK BNOU ZIAD",
+    "NOM_ETABA": "المدرسة الإبتدائية طارق بن زياد",
+    "AdresseL": "HAY TARIK rue 14 SIDI BERNOUSSI",
+    "AdresseA": "حي طارق زنقة 14 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZIRI BNOU ATIA",
+    "NOM_ETABA": "المدرسة الإبتدائية زيري بن عطية",
+    "AdresseL": "HAY TARIK SIDI BERNOUSSI CASA",
+    "AdresseA": "حي طارق الزنقة 15 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MALKI ",
+    "NOM_ETABA": "المدرسة الإبتدائية المالقي ",
+    "AdresseL": "RUE E  mansour 2 SIDI BERNOUSSI",
+    "AdresseA": "شارع - و- منصور 2 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHEIKH MOHAMED ABDO",
+    "NOM_ETABA": "المدرسة الإبتدائية  الشيخ محمد عبده",
+    "AdresseL": "RUE AHMED AHRAS sidi  BERNOUSSI",
+    "AdresseA": "شارع احمد أهراس سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI INNAN",
+    "NOM_ETABA": "المدرسة الإبتدائية أبي عنان",
+    "AdresseL": "lot al baida HAY AL QODS BERNOUSSI ",
+    "AdresseA": "تجزئة البيضاء حي القدس سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH GUENNOUNE",
+    "NOM_ETABA": "المدرسة الإبتدائية عبدالله كنون",
+    "AdresseL": "RUE AHMED AHRAS BERNOUSSI",
+    "AdresseA": "شارع احمد اهراس  سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU KHALDOUN",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن خلدون",
+    "AdresseL": "DALILA 2 SECTEUR INDUSTRIEL  SIDI BERNOUSSI",
+    "AdresseA": "حي د ليلة 2  الحي الصناعي سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MANFALOUTI",
+    "NOM_ETABA": "المدرسة الإبتدائية المنفلوطي",
+    "AdresseL": "AMAL 4 RUE 26 BERNOUSSI",
+    "AdresseA": "أمل 4 الزنقة 26 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL KISSAI",
+    "NOM_ETABA": "المدرسة الإبتدائية الكسائي",
+    "AdresseL": "ROUTE de rabat PRINCIPALE NO 1  KM 12 500 BERNOUSS",
+    "AdresseA": "طريق الرباط  الرئيسية رقم 1 كلم 12,5 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUSSAMA BNOU ZAID",
+    "NOM_ETABA": "المدرسة الإبتدائية أسامة بن زيد",
+    "AdresseL": "AVENUE BENSAID SALEH MOHAMED HAY AL QODS BERNOUSSI",
+    "AdresseA": "شارع بنسعيد صالح محمد حي القدس سيدس البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SAFI EDDINE EL HILLI",
+    "NOM_ETABA": "المدرسة الإبتدائية صفي الدين الحلي",
+    "AdresseL": "groupe zenata HAY AL QODS SIDI BERNOUSSI",
+    "AdresseA": "مجموعة زناتة حي القدس سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL AMAL",
+    "NOM_ETABA": "المدرسة الإبتدائية الأمل",
+    "AdresseL": "boulevard souhaib roumi sidi BERNOUSSI",
+    "AdresseA": "شارع صهيب الرومي - سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI DAR EL GHIFFARI",
+    "NOM_ETABA": "المدرسة الإبتدائية أبي ذرالغفاري",
+    "AdresseL": "BOULEVARD SOUHAB ERROUMI AMAL4  BERNOUSSI",
+    "AdresseA": "شارع صهيب الرومي أمل 4 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY SINAI",
+    "NOM_ETABA": "المدرسة الإبتدائية الحي الصناعي",
+    "AdresseL": "KM 115 ROUTE DE RABAT SIDI  BERNOUSSI",
+    "AdresseA": "كلم 11,5 طريق الرباط سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI ALAA MAARI",
+    "NOM_ETABA": "المدرسة الإبتدائية ابي العلاء المعري",
+    "AdresseL": "Bd  MOKHTAR BEN AHMED EL GUERNAOUi Sidi  BERNOUssi",
+    "AdresseA": "شارع المختار بن احمد الكرناوي سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ELMARWA",
+    "NOM_ETABA": "مدرسة المروة الإبتدائية",
+    "AdresseL": "AMLAK ELBARNOSSU DANS ELHAY ESSINAI",
+    "AdresseA": "أملاك البرنوصي بالحي الصناعي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT BNOU ROUMI",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الرومي",
+    "AdresseL": "ROUTE DE RABAT Sidi Bernoussi ",
+    "AdresseA": " الطريق الوطنية رقم 1(طريق الرباط) سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT OTHMANE BNOU AFFANE",
+    "NOM_ETABA": "الثانوية التأهيلية عثمان بن عفان",
+    "AdresseL": "Bd ABOU HANIFA ANNOUAMANE HAY EL QODS SIDI BERNOUS",
+    "AdresseA": "شارع أبو حنيفة النعمان حي القدس سيدي البرنوصي ",
+    "COMMUNE": "Sidi Bernoussi ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBNOU ALMOUATAZ",
+    "NOM_ETABA": "الثانوية التأهيلية ابن المعتز",
+    "AdresseL": "Sidi Bernoussi",
+    "AdresseA": "سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT MOKHTAR SOUSSI",
+    "NOM_ETABA": "الثانوية التأهيلية المختار السوسي",
+    "AdresseL": "AVENUE EL MOTANNA BNOU HARITA SIDI BERNOUSSI",
+    "AdresseA": "شارع المثنى بن حارثة سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBNOU MANDOUR",
+    "NOM_ETABA": "الثانوية التأهيلية ابن منظور",
+    "AdresseL": "BLOC MANSOUR 2 sidi  BERNOUSSI",
+    "AdresseA": "بلوك المنصور 2 سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBNOU CHOUHAID",
+    "NOM_ETABA": "الثانوية التأهيلية ابن شهيد",
+    "AdresseL": "avenue  al moutana bnou harita  SIDI BeRNOUSSI",
+    "AdresseA": "شارع المثنى ابن حارثة سيدي البرنوصي",
+    "COMMUNE": "Sidi Bernoussi ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DES METIERS DE L HOTELLERIE ET DU",
+    "NOM_ETABA": "الثانوية التاهيلية لمهن الفندقة والسياحة",
+    "AdresseL": "Bernoussi",
+    "AdresseA": "البرنوصي",
+    "COMMUNE": "Sidi Bernoussi ",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ELKHALIL JUNIOR ",
+    "NOM_ETABA": "مؤسسة الخليل جينيور ",
+    "AdresseL": "LOT. TAC N° 05 RUE 03 ALQODS",
+    "AdresseA": "تجزئة الطاك رقم 05 زنقة 03 الق",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FEDDANE ELKHAIR",
+    "NOM_ETABA": "مؤسسة فدان الخير ",
+    "AdresseL": "LOT. FEDDANE ELKHAIR IMM. N° 4",
+    "AdresseA": "إقامة فدان الخير عمارة رقم 41 ",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etab. rahim innovative school",
+    "NOM_ETABA": "مؤسسة رحيم إينوفاتيف سكول",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع المختار بن أحمد الكرناوي ",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lycee authenticitee ii",
+    "NOM_ETABA": "مؤسسة ثانوية أوطونتيسيتي 2",
+    "AdresseL": "NULL",
+    "AdresseA": "حي طارق الزنقة 60 الرقم 70 سيد",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ISPARTA",
+    "NOM_ETABA": "مؤسسة اسبارطة",
+    "AdresseL": "route de rabat n 1 immeuble 12",
+    "AdresseA": "على طريق رقم 1 البيضاء -الرباط",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jean henri lambert",
+    "NOM_ETABA": "جان هنري لمبير",
+    "AdresseL": "BOULEVARD IMAM MALEK RESIDENCE",
+    "AdresseA": "إقامات بغداد وحدائق ماجوريل شا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FALAKI",
+    "NOM_ETABA": "مدرسة فلاكي",
+    "AdresseL": "195 ; lot. elhamidia hay elqod",
+    "AdresseA": "195، تجزءة الحامدية حي القدس ا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "riad essaada",
+    "NOM_ETABA": "رياض السعادة",
+    "AdresseL": "BOULEVARD NABOULS N°29 HAY ESS",
+    "AdresseA": "شارع نابلس رقم 29 حي السعادة ا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBTISSAM",
+    "NOM_ETABA": "ابتسام",
+    "AdresseL": "amal 3 rue 15 n° 4 bernoussi",
+    "AdresseA": "أمل 3 زنقة 15 رقم 4 سيدي البرن",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire souhaib erroumi",
+    "NOM_ETABA": "مجموعة مدارس صهيب الرومي",
+    "AdresseL": "1angle bd souhab erroumi et bd",
+    "AdresseA": "زاوية شارع صهيب الرومي وأحمد ا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAQLI",
+    "NOM_ETABA": "حقلي الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة القدس مجموعة البيضاء 3 ر",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BOUCHRA ASSAIDA",
+    "NOM_ETABA": "البشرى السعيدة",
+    "AdresseL": "AMAL 3 RUE 7 N° 43 SIDI BERNOU",
+    "AdresseA": "امل 3 الزنقة 7 الرقم 43 سيدي ا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR ELWARD",
+    "NOM_ETABA": "دار الورد",
+    "AdresseL": "HAY ELQODS LO \"I\" rue 18 n° 20",
+    "AdresseA": "حي القدس تجزئة أي زنقة 18 رقم ",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Hamidyae",
+    "NOM_ETABA": "مدرسة الحامدية الخصوصية",
+    "AdresseL": "Lot. Hamidia,Rue 3 n° 26 alqod",
+    "AdresseA": "تجزئة الحامدية، زنقة 3 الرقم 2",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Baida",
+    "NOM_ETABA": "البيضاء",
+    "AdresseL": "Lot. Al Amal, Al Qods N° 21 - ",
+    "AdresseA": "تجزئة الأمل، القدس رقم 21 - سي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALBAIDA JUNIORS",
+    "NOM_ETABA": "أشبال البيضاء",
+    "AdresseL": "LOT AL AMAL N° 36 AL QODS SIDI",
+    "AdresseA": "تجزئة أمل 36 حي القدس سيدي الب",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "imam el mehdi",
+    "NOM_ETABA": "الإمام المهدي",
+    "AdresseL": "HAY AL QODS LOT:MENZAH RUE:1 N",
+    "AdresseA": "حي القدس تجزئة المنزه زنقة 1 ر",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMBASSADEUR",
+    "NOM_ETABA": "السفير",
+    "AdresseL": "LOT. ATTAKADDOUM HAY QODS RN.n",
+    "AdresseA": "تجزئة التقدم حي القدس الطريق ا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALASSALA",
+    "NOM_ETABA": "الأصالة",
+    "AdresseL": "103 Rue 45 hay tarek sidi bern",
+    "AdresseA": "103 زنقة 45 حي طارق البرنوصي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Oum El Fadl",
+    "NOM_ETABA": "مدرسة أم الفضل",
+    "AdresseL": "Groupe 107, N° 20 - Sidi Berno",
+    "AdresseA": "مجموعة  107، رقم 20 - سيدي الب",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Imam Al qarafi",
+    "NOM_ETABA": "مجموعة مدارس الإمام القرافي",
+    "AdresseL": "Résidence El Boustane 2, Km 12",
+    "AdresseA": "إقامة البستان 2، كلم 12,5 - سي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EL ANBAR",
+    "NOM_ETABA": "مجموعة مدارس العنبر الخصوصية",
+    "AdresseL": "Hay Al Qods, Groupe Zenata 2, ",
+    "AdresseA": "حي القدس، مجموعة زناتة 2، رقم4",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Complexe Scolaire Kamil",
+    "NOM_ETABA": "المركب التعليمي كميل",
+    "AdresseL": "BdAhmad El moktar El Garnaoui,",
+    "AdresseA": "شارع احمد المختار الكرناوي 40ح",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sidi Bernoussi",
+    "NOM_ETABA": "سيدي البرنوصي الخاصة",
+    "AdresseL": "Lotissement R.A.T.C. Hay Al Qo",
+    "AdresseA": "تجزئة الوكالة المستقلة للنقل ا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire afdal casa nord",
+    "NOM_ETABA": "مجموعة مدارس أفضال شمال الدار البيضاء",
+    "AdresseL": "Groupe Al Beida, Hay Al Qods -",
+    "AdresseA": "مجموعة البيضاء، حي القدس - . س",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Kamil",
+    "NOM_ETABA": "مدرسة كميل",
+    "AdresseL": "Hay Tarik Rue 55, N° 49 Sidi B",
+    "AdresseA": "حي طارق زنقة 55، رقم 49 سيدي ا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annexe Ecole Kamil",
+    "NOM_ETABA": "ملحقة مدرسة كميل",
+    "AdresseL": "Hay Tarik Rue 58, N° 11 Sidi B",
+    "AdresseA": "حي طارق زنقة 58، رقم 11 سيدي ا",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire afdal casa nord",
+    "NOM_ETABA": "مجموعة مدارس أفضال شمال الدار البيضاء",
+    "AdresseL": "Groupe El Baida, Hay Al Qods  ",
+    "AdresseA": "مجموعة البيضاء حي القدس   سيدي",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut BelKhirE",
+    "NOM_ETABA": "مؤسسة بلخير الخاصة",
+    "AdresseL": "Lotissement Al Hamd Rue 3, N° ",
+    "AdresseA": "تجزئة الحمد زنقة 3، رقم 153 ال",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Dar El Hikma",
+    "NOM_ETABA": "دار الحكمة",
+    "AdresseL": "N° 448, Groupe Zenata Al Qods ",
+    "AdresseA": "رقم 448، مجموعة زناتة القدس  س",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire attataour",
+    "NOM_ETABA": "مجموعة مدارس التطور",
+    "AdresseL": "N° 132,chari ImneEl Ghazali  H",
+    "AdresseA": "رقم 132، حي القدس مجموعة زناتة",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution AJIAL HANANE",
+    "NOM_ETABA": "مؤسسة أجيال حنان الخصوصية",
+    "AdresseL": "G 3 B EL BOUSTANE  Al Qods  Si",
+    "AdresseA": "ج 3 ب البستان القدس سيدي البرن",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Randa",
+    "NOM_ETABA": "مدرسة رندى",
+    "AdresseL": "Ammal 4 Rue 23, N° 45  - Sidi ",
+    "AdresseA": "الأمل 4 زنقة 23، رقم 45 -  سيد",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée Khalid Ben El Walid",
+    "NOM_ETABA": "ثانوية خالد بن الوليد الخصوصية",
+    "AdresseL": "N° 391 Mansour 1 Bd \"D\"  Sidi ",
+    "AdresseA": "رقم 391 منصور 1 شارع \"د\" سيدي ",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire Charif Al Idrissie ",
+    "NOM_ETABA": "مجموعة مدارس الشريف الإدريسي الخصوصية",
+    "AdresseL": "Amal 1, Rue 13 N° 42 Sidi Bern",
+    "AdresseA": "أمل 1، زنقة 13 رقم 42 سيدي الب",
+    "COMMUNE": "Sidi Bernoussi",
+    "PROVINCE": "Préf. d’Arr. Sidi Bernous",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

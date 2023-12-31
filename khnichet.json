@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE JABIR IBN HAYANE",
+    "NOM_ETABA": "إعدادية جابر ابن حيان",
+    "AdresseL": "KHNICHET CENTRE  COMMUNE KHNICHET",
+    "AdresseA": "الخنيشات",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL HASSANE BNOU ALI",
+    "NOM_ETABA": "الحسن بن علي",
+    "AdresseL": "KHNICHET CENTRE  COMMUNE KHNICHET",
+    "AdresseA": "الخنيشات المركز",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HSSINAT",
+    "NOM_ETABA": "احسينات",
+    "AdresseL": "DOUAR HSSINAT COMMUNE KHNICHET",
+    "AdresseA": "دوار احسينات",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDALLAH GUENNOUN",
+    "NOM_ETABA": "عبدالله كنون",
+    "AdresseL": "d ABDALLAH GUENNOUN  KHNICHET CENTRE",
+    "AdresseA": "عبد الله كنون الخنيشات المركز",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD KHRISS",
+    "NOM_ETABA": "أولاد اخريص",
+    "AdresseL": "DOUAR OULAD KHRISS COMMUNE KHNICHET",
+    "AdresseA": "دوار أولاد اخريص",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU ELALAE ELMAARI",
+    "NOM_ETABA": "أبو العلاء المعري",
+    "AdresseL": "DOUAR OULAD SALLAM COMMUNE KHNICHET",
+    "AdresseA": "دوار أولاد سلام",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZOULIKHA NASRI",
+    "NOM_ETABA": "ثانوية زليخة نصري التأهيلية",
+    "AdresseL": "centre commune khenichet",
+    "AdresseA": "مركز جماعة الخنيشات",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ALMOUAYAD",
+    "NOM_ETABA": "المؤيد الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "دوار الخنيشات الرسم العقاري رق",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTAMAYOZ",
+    "NOM_ETABA": "التميز",
+    "AdresseL": "lotissement 91 nouveau quartie",
+    "AdresseA": "التجزئة 91 الحي الجديد",
+    "COMMUNE": "Khnichet",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

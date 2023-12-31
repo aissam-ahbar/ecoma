@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL QADI AYAD",
+    "NOM_ETABA": "ثانوية القاضي عياض الإعدادية",
+    "AdresseL": "bni yagrine ",
+    "AdresseA": "بني يكرين",
+    "COMMUNE": "Bni Yagrine",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " BNI YAGRINE CENTRE",
+    "NOM_ETABA": "مركزية بني يكرين",
+    "AdresseL": "DOUAR ENAKHLATE COMMUNE BNI YAGRINE",
+    "AdresseA": "دوار النخلات بني يكرين",
+    "COMMUNE": "Bni Yagrine",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KOUCHA CENTRE",
+    "NOM_ETABA": "مركزية الكوشة",
+    "AdresseL": "DOUAR EL KOUCHA COMMUNE BNI YAGRINE",
+    "AdresseA": "الكوشة  بني يكرين",
+    "COMMUNE": "Bni Yagrine",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOUATNA",
+    "NOM_ETABA": "الزواتنة",
+    "AdresseL": "ZOUATNA bni yagrine",
+    "AdresseA": "الزواتنة بني يكرين",
+    "COMMUNE": "Bni Yagrine",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED HMIDA LEBHALLA CENTRE",
+    "NOM_ETABA": "مركزية اولاد حميدة",
+    "AdresseL": "OULED HMIDA  BNI YAGRINE",
+    "AdresseA": "اولاد حميدة بني يكرين",
+    "COMMUNE": "Bni Yagrine",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

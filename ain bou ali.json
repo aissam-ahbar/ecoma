@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLÈGE YOUSSEF BNOU TACHAFINE",
+    "NOM_ETABA": "الثانوية الاعدادية يوسف بن تاشفين",
+    "AdresseL": "centre commune ain bou ali",
+    "AdresseA": "مركز جماعة عين بوعلي",
+    "COMMUNE": "Ain Bou Ali",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AINE BOUALI CENTRE",
+    "NOM_ETABA": "عين بوعلي المركز",
+    "AdresseL": "DOUAR LAMKASSEM COMMUNE AINE BOUALI",
+    "AdresseA": "دوار المكسم عين بوعلي",
+    "COMMUNE": "Ain Bou Ali",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL MANSSOURI CENTRE",
+    "NOM_ETABA": "اولاد المنصوري المركز",
+    "AdresseL": "DOUAR OULAD EL MANSOURI COMMUNE AINE BOUALI",
+    "AdresseA": "دوار اولاد المنصوري عين بوعلي",
+    "COMMUNE": "Ain Bou Ali",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI AHMED ALBARNOUSSI CENTRE",
+    "NOM_ETABA": "سيدي احمد البرنوصي المركز",
+    "AdresseL": "DOUAR AIN MKHANZA COMMUNE AINE BOUALI",
+    "AdresseA": "دوار عين امخانزة عين بوعلي",
+    "COMMUNE": "Ain Bou Ali",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MSSAHAL CENTRE",
+    "NOM_ETABA": "سيدي امساهل المركز",
+    "AdresseL": "DOUAR SIDI MSSAHAL COMMUNE AINE BOUALI",
+    "AdresseA": "دوار سيدي امساهل عين بوعلي",
+    "COMMUNE": "Ain Bou Ali",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KABKAB CENTRE",
+    "NOM_ETABA": "كبكب المركز",
+    "AdresseL": "DOUAR BEN FAGUIGUE COMMUNE AIN BOUALI",
+    "AdresseA": "دوار بني فكيك عين بوعلي",
+    "COMMUNE": "Ain Bou Ali",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

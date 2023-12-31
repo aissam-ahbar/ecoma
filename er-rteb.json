@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "MOULAY ISMAIL",
+    "NOM_ETABA": "مولاي اسماعيل",
+    "AdresseL": "KSAR ZRIGATE RTEB AOUFOUS ERRACHIDIA",
+    "AdresseA": "قصر الزريقات الرتب اوفوس الرشيدية",
+    "COMMUNE": "Er-rteb",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ZAOUIYA",
+    "NOM_ETABA": "ثانوية الزاوية الاعدادية",
+    "AdresseL": "ZAOUIYA LQADIMA",
+    "AdresseA": "الزاوية القديمة",
+    "COMMUNE": "Er-rteb",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA AMINA",
+    "NOM_ETABA": "للا امينة",
+    "AdresseL": "KSAR DUIRA ERRTEB",
+    "AdresseA": "قصر الدويرة الرتب",
+    "COMMUNE": "Er-rteb",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUYA LAKDIMA",
+    "NOM_ETABA": "الزاوية القديمة",
+    "AdresseL": "KSAR ZAOUIA LAKDIMA ERRTEB  aoufous",
+    "AdresseA": "الزاوية القديمة  الرتب   اوفوس",
+    "COMMUNE": "Er-rteb",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZRIGAT",
+    "NOM_ETABA": "الزريقات",
+    "AdresseL": "KSAR ZRIGAT ERRTEB",
+    "AdresseA": "قر الزريكات الرتب",
+    "COMMUNE": "Er-rteb",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMAARKA",
+    "NOM_ETABA": "لمعاركة",
+    "AdresseL": "KSAR LAMAARKA ERRTEB",
+    "AdresseA": "قصرالمعاركة الرتب",
+    "COMMUNE": "Er-rteb",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE COM 2",
+    "NOM_ETABA": "مدرسة كم 2",
+    "AdresseL": "KSAR DOUIRA RTEB AOUFOUS",
+    "AdresseA": "قصر الدويرة   الرتب    اوفوس",
+    "COMMUNE": "Er-rteb",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

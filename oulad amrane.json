@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "OULED AMRANE",
+    "NOM_ETABA": "اولاد عمران",
+    "AdresseL": "SOUK ARBIAA OULED AMRANE COMMUNE OULED AMRANE",
+    "AdresseA": "سوق اربعاء اولاد عمران ج اولاد عمران",
+    "COMMUNE": "Oulad Amrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL OUAFA",
+    "NOM_ETABA": "الوفاء",
+    "AdresseL": "DOUAR LKHAWA COMMUNE OULED AMRANE",
+    "AdresseA": "دوار اولاد  الخاوة جماعة اولاد عمران",
+    "COMMUNE": "Oulad Amrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HINA",
+    "NOM_ETABA": "الحينة",
+    "AdresseL": "DOUAR ELHINA OULED AMRANE",
+    "AdresseA": "دوار الحينة اولاد عمران",
+    "COMMUNE": "Oulad Amrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT OULED AMRANE ",
+    "NOM_ETABA": "ثانوية أولاد عمران التأهيلية",
+    "AdresseL": "CENTRE  COMMUNE OULED AMRANE",
+    "AdresseA": "مركز جماعة أولاد عمران",
+    "COMMUNE": "Oulad Amrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ecole amal el ghad",
+    "NOM_ETABA": "مؤسسة أمل الغد",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز اولاد عمران",
+    "COMMUNE": "Oulad Amrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole adnanee",
+    "NOM_ETABA": "مؤسسة عدنان الخصوصية",
+    "AdresseL": "CENTRE OULADE OMRANE PROVINCE ",
+    "AdresseA": "مركز اولاد عمران",
+    "COMMUNE": "Oulad Amrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hatim ettaï",
+    "NOM_ETABA": "حاتم الطائي",
+    "AdresseL": "centre ouled omrane",
+    "AdresseA": "مركز أولاد عمران",
+    "COMMUNE": "Oulad Amrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

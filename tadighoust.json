@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "HOUMANE EL FATOUAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "TADIGHOUSTE GOULMIMA",
+    "AdresseA": "تاديغوست كلميمة",
+    "COMMUNE": "Tadighoust",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TADIGHOUST ",
+    "NOM_ETABA": "  تاديغوست  ",
+    "AdresseL": " AOURIR  TADIGHOUSTE  GOULMIMA",
+    "AdresseA": "اورير تاديغوست كلميمة",
+    "COMMUNE": "Tadighoust",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIMAZGUITE",
+    "NOM_ETABA": "تمزكيت",
+    "AdresseL": "KSAR TIMAZGUITE TADIGHOUSTE GouLMIMA",
+    "AdresseA": "قصر تمزكيت تاديغوست",
+    "COMMUNE": "Tadighoust",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BRAHIM",
+    "NOM_ETABA": "ايت ابراهيم",
+    "AdresseL": "KSAR AIT BRAHIM TADIGHOUSTE GOULMIMA",
+    "AdresseA": "قصر ايت ابراهيم  تاديغوست كلميمة",
+    "COMMUNE": "Tadighoust",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZAID OUSKOUNTI",
+    "NOM_ETABA": "الثانوية التأهيلية زايد اسكنتي",
+    "AdresseL": "TADIGHOUST",
+    "AdresseA": "تاديغوست",
+    "COMMUNE": "Tadighoust",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

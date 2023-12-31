@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "JDIDA",
+    "NOM_ETABA": "اجديدة",
+    "AdresseL": "DOUAR JDIDA COMMUNE NFIFA",
+    "AdresseA": "دوار  اجديدة  انفيفة",
+    "COMMUNE": "Nfifa",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HSAINE CENTRE",
+    "NOM_ETABA": "احصاين المركزية ",
+    "AdresseL": "DOUAR ARATAL COMMUNE NFIFA",
+    "AdresseA": "دوار  ارطال جماعة انفيفة      ",
+    "COMMUNE": "Nfifa",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

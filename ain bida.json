@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIN BIDA",
+    "NOM_ETABA": "الثانوية الإعدادية عين بيضة",
+    "AdresseL": "AIN BIDA CENTRE",
+    "AdresseA": "عين بيضة المركز",
+    "COMMUNE": "Ain Bida",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire AIN BIDA",
+    "NOM_ETABA": "م م عين البيضاء",
+    "AdresseL": "ROUTE DE SEFROU KM 10 COMMUNE AIN BIDA",
+    "AdresseA": "طريق صفرو كلم 10 جماعة عين البيضاء",
+    "COMMUNE": "Ain Bida",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire AIT SALAH",
+    "NOM_ETABA": "م م  ايت صالح",
+    "AdresseL": "DOUAr AIT SALAH commune ain bida",
+    "AdresseA": "دوارايت صالح جماعةعين بيضا",
+    "COMMUNE": "Ain Bida",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

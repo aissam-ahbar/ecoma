@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHARIF ERRADI",
+    "NOM_ETABA": "الثانوية الإعدادية الشريف الرضي",
+    "AdresseL": "CENTRE COMMUNE IDA OU AAZZA",
+    "AdresseA": "مركز جماعة اداوعزا",
+    "COMMUNE": "Ida Ou Aazza",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S ABI ELBARRAKAT",
+    "NOM_ETABA": "م.م. ابي البركات         ",
+    "AdresseL": "DOUAR TOUGHNISTE commune ida  ouAAZZA",
+    "AdresseA": "دوار  تغنيست جماعة ادا وعزا",
+    "COMMUNE": "Ida Ou Aazza",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IBNO ZAYDOUN",
+    "NOM_ETABA": "م.م. ابن زيدون",
+    "AdresseL": "DOUAR AIT MOUSSA IDA OU AAZA",
+    "AdresseA": "دوار ايت موسى",
+    "COMMUNE": "Ida Ou Aazza",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IGOUZOULEN",
+    "NOM_ETABA": "م.م إكزولن",
+    "AdresseL": "DOUAR igouzoulen commune IDA OU AZZA",
+    "AdresseA": " دوار اكوزولن جماعة اداوعزا",
+    "COMMUNE": "Ida Ou Aazza",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLeGIAL OULED SGHIER",
+    "NOM_ETABA": "ثانوية أولاد الصغير الاعدادية  ",
+    "AdresseL": "commune ouled sghier ",
+    "AdresseA": "جماعة أولاد صغير  ",
+    "COMMUNE": "Oulad Sghir",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DAR EL CAID ESSAGHIR CENTRE",
+    "NOM_ETABA": "مركزية دار القايد الصغير",
+    "AdresseL": "DAR ELKAID ESSAGHIR COMMUNE OULAD sghiar",
+    "AdresseA": "دار القايد الصغير اولاد اعفيف اولاد الصغير",
+    "COMMUNE": "Oulad Sghir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEKHMALCHA CENTRE",
+    "NOM_ETABA": "مركزية الخمالشة",
+    "AdresseL": "DOUAR LEKHMALCHA COMMUNE OULAD SGHIR",
+    "AdresseA": "دوار لخمالشة جماعة اولاد الصغير",
+    "COMMUNE": "Oulad Sghir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL HOUARI CENTRE",
+    "NOM_ETABA": "مركزية اولاد الهواري",
+    "AdresseL": "DOUAR OULAD EL HOUARI COMMUNE OULAD SGHIR",
+    "AdresseA": "دوار اولاد الهواري جماعة اولاد الصغير",
+    "COMMUNE": "Oulad Sghir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ERRAGHAY CENTRE",
+    "NOM_ETABA": "مركزية اولاد الرغاي",
+    "AdresseL": "DOUAR OULED ERRAGHAY COMMUNE OULAD SGHIR",
+    "AdresseA": "اولاد الرغاي جماعة اولاد  الصغير",
+    "COMMUNE": "Oulad Sghir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALOUAIT CENTRE",
+    "NOM_ETABA": "مركزية تالويت",
+    "AdresseL": "DOUAR TALOUAIT COMMUNE OULAD sghayer",
+    "AdresseA": "دوار تالويت جماعة اولاد الصغير",
+    "COMMUNE": "Oulad Sghir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR EL CAID ETTOUNSI CENTRE",
+    "NOM_ETABA": "مركزية دار القايد التونسي",
+    "AdresseL": "DOUAR DAR EL KAID ETTOUNSI COMMUNE OULAD sghair",
+    "AdresseA": "دوار دار القايد التونسي جماعة اولاد الصغير",
+    "COMMUNE": "Oulad Sghir",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

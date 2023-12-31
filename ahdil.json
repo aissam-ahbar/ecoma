@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHDIL",
+    "NOM_ETABA": "ثانوية أهديل الإعدادية",
+    "AdresseL": "CENTRE COMMUNE AHDIL",
+    "AdresseA": "مركز جماعة إهديل",
+    "COMMUNE": "Ahdil",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ZAOUIAT",
+    "NOM_ETABA": "الزاوية",
+    "AdresseL": "douar lakdadra commune ahdil chichaoua",
+    "AdresseA": "دوار لقدادرة جماعة اهديل شيشاوة",
+    "COMMUNE": "Ahdil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHDIL",
+    "NOM_ETABA": "اهديل",
+    "AdresseL": "DOUAR LAABABRA COMMUNE AHDIL",
+    "AdresseA": "دوار العبابرة ج. اهديل ",
+    "COMMUNE": "Ahdil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LHOUGGAT",
+    "NOM_ETABA": "الحكات",
+    "AdresseL": "DOUAR LHOUGGAT COMMUNE AHDIL CHICHAOUA",
+    "AdresseA": "دوار الحكات - جماعة اهديل إقليم شيشاوة",
+    "COMMUNE": "Ahdil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHCINAT",
+    "NOM_ETABA": "لحسينات",
+    "AdresseL": "DOUAR LAHCINAT COMMUNE AHDIL",
+    "AdresseA": "دوار  لحسينات جماعة اهديل",
+    "COMMUNE": "Ahdil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAADILAT",
+    "NOM_ETABA": "لعضيلات",
+    "AdresseL": "DOUAR LAADILAT COMMUNE AHDIL",
+    "AdresseA": "دوار  لعضيلات",
+    "COMMUNE": "Ahdil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

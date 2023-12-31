@@ -1,0 +1,542 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL PRINCE MOULAY ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية الامير مولاي عبدالله",
+    "AdresseL": "BOULVARD MOHAMED V MUNICIPALITE KHENIFRA",
+    "AdresseA": "شارع  المصلى  خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ABDOUN",
+    "NOM_ETABA": "الثانوية الإعدادية ابن عبدون",
+    "AdresseL": "HAY ELFATH MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي الفتح بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BADR",
+    "NOM_ETABA": "الثانوية الإعدادية بدر",
+    "AdresseL": "ROUTE DE TADLA MUNICIPALITE KHENIFRA",
+    "AdresseA": "طريق تادلة بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AMALOU",
+    "NOM_ETABA": "الثانوية الإعدادية أمالو",
+    "AdresseL": "QUARTIER MITCHEFSSAN KHENIFRA",
+    "AdresseA": "حي متشيفسان خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ASSOU OUBASLAM",
+    "NOM_ETABA": "الثانوية الإعدادية عسو اوباسلام",
+    "AdresseL": "QUARTIER AL MASSIRA MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي المسيرة بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANWAL",
+    "NOM_ETABA": "الثانوية الإعدادية أنوال",
+    "AdresseL": "route de meknes Khénifra",
+    "AdresseA": "طريق مكناس خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OKBA BNOU NAFIA",
+    "NOM_ETABA": "عقبة بن نافع",
+    "AdresseL": "QUARTIER AGRICOLE MUNICIPALITE KHENIFRA",
+    "AdresseA": "الحي الفلاحي بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU LKHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "HAY ESSALAM MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي السلام بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHANSSA",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "AVENUE HASSAN II MUNICIPALITE KHENIFRA",
+    "AdresseA": "شارع الحسن الثاني بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID BEN LOUALID",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "QUARTIER ADMINISTRATIF MUNICIPALITE KHENIFRA",
+    "AdresseA": "الحي الاداري بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MOKHTAR SOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "QUARTIER HAMRIA MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي حمرية بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MASSIRA AL KHADRA",
+    "NOM_ETABA": "المسيرة الخضراء",
+    "AdresseL": "PLACE ALMASSIRA MUNICIPALITE KHENIFRA",
+    "AdresseA": "ساحة المسيرة بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبدالله",
+    "AdresseL": "HAY ALFATH MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي الفتح بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHARIF AL IDRISSI",
+    "NOM_ETABA": "الشريف الادريسي",
+    "AdresseL": "BOULEVARD EZZARKTUONI MUNICIPALITE KHENIFRA",
+    "AdresseA": "شارع الزرقطوني بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IDRIS AL AOUAL",
+    "NOM_ETABA": "ادريس الاول",
+    "AdresseL": "HAY HASSAN II MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي الحسن الثاني بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL COURS",
+    "NOM_ETABA": "الكورس",
+    "AdresseL": "HAY ALMASSIRA MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي المسيرة بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "METCHIFSSEN",
+    "NOM_ETABA": "متشيفسان",
+    "AdresseL": "HAY MITCHIFSSEN MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي ميتشيفسان بلدية ختيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSAKA",
+    "NOM_ETABA": "اساكا",
+    "AdresseL": "HAY ELFATH MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي الفتح بلدية خنيفرة خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM ALI",
+    "NOM_ETABA": "الامام علي",
+    "AdresseL": "QUARTIER AMALOU municipalite khenifra",
+    "AdresseA": "امالو بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBEN SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "RUE 1 AMALOU municipalite khenifra",
+    "AdresseA": "زنقة 1 امالو بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "HAY LASSIRI municipalite khenifra",
+    "AdresseA": "حي لاسيري بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUHA OU HAMMOU ZAYANI",
+    "NOM_ETABA": "موحى احموالزياني",
+    "AdresseL": "ROUTE AROUGOU QUARTIER BOUYMHAGUEN municipalite kh",
+    "AdresseA": "طريق اروكو حي بويمحاكن بلدية  خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FARRA",
+    "NOM_ETABA": "فارة",
+    "AdresseL": "Quartier FARRA municipalite khenifra",
+    "AdresseA": "حي  فارة  بلدية  خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMALOU",
+    "NOM_ETABA": "امالو",
+    "AdresseL": "QUARTIER AMALOU COMMUNE municipale de khenifra",
+    "AdresseA": "حي امالو بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAYANE",
+    "NOM_ETABA": "زيان",
+    "AdresseL": "Hay boudraa Municipalite Khenifra",
+    "AdresseA": "حي بودراع بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ARZ",
+    "NOM_ETABA": "الارز",
+    "AdresseL": "HAY MASSIRA SOUFLA 2 MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي  المسيرة السفلى 2 - بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AJDIR",
+    "NOM_ETABA": "الثانوية التأهيلية اجدير",
+    "AdresseL": "Route de aguelmous bp 231 kenifra",
+    "AdresseA": "طريق اكلموس   ص ب  : 231 خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZERKTOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية الزرقطوني",
+    "AdresseL": "tazart iaraden municipalite khenifra",
+    "AdresseA": "تزارت اعراضن بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU EL KACEM EZZAYANI",
+    "NOM_ETABA": "الثانوية التأهيلية ابو القاسم الزياني",
+    "AdresseL": "ROUTE DE TADLA MUNICIPALITE KHENIFRA",
+    "AdresseA": "طريق تادلة بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED V",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "QUARTIER ELKARAOUIA municipalite khenifra",
+    "AdresseA": "حي القروية بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FATIM EZAHRA",
+    "NOM_ETABA": "الثانوية التأهيلية فاطمة الزهراء",
+    "AdresseL": "QUARTIER HAMRIA MUNICIPALITE KHENIFRA",
+    "AdresseA": "حي حمرية بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED VI",
+    "NOM_ETABA": "التانوية التأهيلية محمد السادس",
+    "AdresseL": "AMALOU CENTRE municipalite khenifra",
+    "AdresseA": "امالو بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TARIK",
+    "NOM_ETABA": "الثانوية  التأهيلية طارق",
+    "AdresseL": "ROUTE DE MEKNES municipalite khenifra",
+    "AdresseA": "طريق مكناس بلدية خنيفرة",
+    "COMMUNE": "Khenifra",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Waladi",
+    "NOM_ETABA": "ولدي",
+    "AdresseL": "N° 11, Bd. Massira Khadra, B.P",
+    "AdresseA": "رقم 11، شارع المسيرة الخضراء، ",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire TUSNA",
+    "NOM_ETABA": "مجموعة مدارس توسنا",
+    "AdresseL": "N° 4,BD LA MARCHE VERTE LOT SA",
+    "AdresseA": "4 شارع المسيرة الخضراء تجزئة ا",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tusna II",
+    "NOM_ETABA": "توسنا 2 ",
+    "AdresseL": "N° 08, Quartier Armée Royale",
+    "AdresseA": "رقم 08، حي الجيش الملكي",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Iqrae Warka",
+    "NOM_ETABA": "اقرأ وارق",
+    "AdresseL": "Bloc 7, N° 65, Hay Ennassim",
+    "AdresseA": "بلوك 7، رقم 65، حي النسيم",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire ABGHOR",
+    "NOM_ETABA": "مجموعة مدارس ابغور",
+    "AdresseL": "Quartier El Mouhtadoune",
+    "AdresseA": "حي المهتدون",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Atlas",
+    "NOM_ETABA": "الأطلس",
+    "AdresseL": "N° 50, Rue Settat - Kenifra",
+    "AdresseA": "رقم 50، زنقة سقراط - خنيفرة",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Zayane",
+    "NOM_ETABA": "زيان",
+    "AdresseL": "N° 2, Avenue Mohamed V - Kheni",
+    "AdresseA": "رقم 2، شارع محمد الخامس - خنيف",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Baraim",
+    "NOM_ETABA": "البراعيم",
+    "AdresseL": "N° 75, Rue 1, Cité Al Amal - K",
+    "AdresseA": "رقم 75، زنقة 1، حي الأمل - خني",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour arrissala",
+    "NOM_ETABA": "نور الرسالة",
+    "AdresseL": "dahra km 4 route meknes  kheni",
+    "AdresseA": "الدهرة كلم 4 طريق مكناس ",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lunivers de lexcelence",
+    "NOM_ETABA": "عالم الامتياز",
+    "AdresseL": "hay fayza n80 1er etage  kheni",
+    "AdresseA": "حي فايزة رقم 80 الطابق الاول خ",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jil atawfiq",
+    "NOM_ETABA": "جيل التوفيق",
+    "AdresseL": "lotissement lamghari n 3 hay e",
+    "AdresseA": "تجزئة لمغاري رقم 3 حي النسيم",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al andalib",
+    "NOM_ETABA": "العندليب",
+    "AdresseL": "bloc 3 rue 7 n 13 hay oul erra",
+    "AdresseA": "بلوك 3 زنقة 7 رقم 13 حي ام الر",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HIKMA",
+    "NOM_ETABA": "الحكمة",
+    "AdresseL": "hay ennajah n7 boulevard zarkt",
+    "AdresseA": "حي النجاح رقم7 شارع الزرقطوني ",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASLINE",
+    "NOM_ETABA": "اسلين",
+    "AdresseL": "HAY ESSAADA KHENIFRA",
+    "AdresseA": "رقم 9 حي السعادة خنيفرة",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALANWAR",
+    "NOM_ETABA": "الأنوار",
+    "AdresseL": "dar ettalib boulevard Mohamed ",
+    "AdresseA": "دار الطالب شارع محمد الخامس خن",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM AL BANINE",
+    "NOM_ETABA": "أم البنين",
+    "AdresseL": "rue boujaad n 90 khenifra",
+    "AdresseA": "زنقةابي الجعد رقم90 خنيفرة",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Reference",
+    "NOM_ETABA": "المرجع",
+    "AdresseL": "Bd. Mohamed Ou Hamou, N° 33 et",
+    "AdresseA": "شارع محمد او حمو، رقم 33 و 35",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SAFIR ALKALAM",
+    "NOM_ETABA": "سفير القلم",
+    "AdresseL": "HAY AL AMAL BLOC B NR 31 KHENI",
+    "AdresseA": "حي الامل بلوك  ب  رقم 31 خنيفر",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jil tawfiq 2",
+    "NOM_ETABA": "جيل التوفيق 2",
+    "AdresseL": "",
+    "AdresseA": "مركز خنيفرة",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Crayon Bleu",
+    "NOM_ETABA": "Crayon Bleu مجموعة مدارس",
+    "AdresseL": "RUE 1N 1 EL KORS KHENIFRA",
+    "AdresseA": "زنقة 1 رقم 1 حي الكورس",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAWRAS AL MAARIFA",
+    "NOM_ETABA": "نورس المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي اخامن رقم 67 خنيفرة",
+    "COMMUNE": "Khenifra ",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial MEJJATE",
+    "NOM_ETABA": "الثانوية الإعدادية مجاط",
+    "AdresseL": "LYCEE COLLEGIAL MEJJATE",
+    "AdresseA": "ثانوية مجاط الإعدادية مجاط",
+    "COMMUNE": "Majjate",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT RAHHOU",
+    "NOM_ETABA": "ايت رحو المركز",
+    "AdresseL": "DOUAR AIT RAHHOU COMMUNE MAJAT",
+    "AdresseA": "دوار ايت رحو ج- مجاط",
+    "COMMUNE": "Majjate",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BRIDIA",
+    "NOM_ETABA": "البريدية المركز",
+    "AdresseL": "DOUAR BRIDIA COMMUNE MAJJATE",
+    "AdresseA": "دوار البريدية مجاط",
+    "COMMUNE": "Majjate",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE PEDAGOGIQUE ARRACHID",
+    "NOM_ETABA": "المركب التربوي الرشيد",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الأنوار جماعة مجاط",
+    "COMMUNE": "Majjate",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

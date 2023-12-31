@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "ANAS BNOU MALIK",
+    "NOM_ETABA": "أنس بن مالك",
+    "AdresseL": "MUNICIPALITE   DE SAIDIA",
+    "AdresseA": "بلدية السعيدية",
+    "COMMUNE": "Saidia",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHARIF AL IDRISSI",
+    "NOM_ETABA": "الشريف الإدريسي",
+    "AdresseL": "ECOLE CHARIF IDRISSI",
+    "AdresseA": "مدرسة الشريف الإدريسي",
+    "COMMUNE": "Saidia",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AICHA BINT CHATEA",
+    "NOM_ETABA": "عائشة بنت الشاطئ",
+    "AdresseL": "hay safae ",
+    "AdresseA": "حي الصفاء",
+    "COMMUNE": "Saidia",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZOULIKHA NASRI",
+    "NOM_ETABA": "الثانوية التأهيلية زليخة نصري",
+    "AdresseL": "ITHT SAIDIA",
+    "AdresseA": "السعيدية",
+    "COMMUNE": "Saidia",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE SAIDIA",
+    "NOM_ETABA": "ثانوية السعيدية التأهيلية",
+    "AdresseL": "ouled houmane",
+    "AdresseA": "أولاد حمان",
+    "COMMUNE": "Saidia",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "soukaina el mostaqbal",
+    "NOM_ETABA": "سكينة المستقبل",
+    "AdresseL": "",
+    "AdresseA": "تجزئة البالي رقم 17",
+    "COMMUNE": "Saidia ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibn Sina",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "N 16 LOT elbali SAIDIA",
+    "AdresseA": "رقم16 تجزئة البالي السعيدية",
+    "COMMUNE": "Saidia ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

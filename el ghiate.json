@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN TOUFAIL",
+    "NOM_ETABA": "الثانوية الإعدادية ابن طفيل",
+    "AdresseL": "TNINE LAGHIATE ROUTE ESSAOUIRA COMMUNE EL GHIATE",
+    "AdresseA": "اثنين الغيات طريق الصويرة جماعة اثنين لغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL GHIATE",
+    "NOM_ETABA": "م/م الغيات",
+    "AdresseL": "TNINE GHIATE COMMUNE EL GHIATE",
+    "AdresseA": "اثنين الغيات جماعة الغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LAHRARTA",
+    "NOM_ETABA": "م/م الحرارتة",
+    "AdresseL": "DOUAR LAHRARTA COMMUNE EL GHIATE",
+    "AdresseA": "دوار الحرارتة  جماعة الغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MOHAMED SBAI",
+    "NOM_ETABA": "م/م سيدي محمد السباعي",
+    "AdresseL": "ecole centre SIDI MOHAMED SBAI COMMUNE EL GHIATE",
+    "AdresseA": " مركزية سيدي محمد السباعي جماعة الغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN TOUMARTE",
+    "NOM_ETABA": "م/م ابن تومرت",
+    "AdresseL": "DOUAR LAHMIDATE COMMUNE EL GHIATE",
+    "AdresseA": "دوار الحميدات  جماعة الغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL HAJ MFADDA",
+    "NOM_ETABA": "م/م اولاد الحاج المفدة",
+    "AdresseL": "DOUAR OULED EL HAJ MFEDDA COMMUNE EL GHIATE",
+    "AdresseA": "دوار اولاد الحاج المفدة جماعة الغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SRAHNA BOUSSAGMANE",
+    "NOM_ETABA": "م/م السراحنة بوسكمان",
+    "AdresseL": "SRAHNA BOUSSAGMANE COMMUNE EL GHIATE",
+    "AdresseA": "السراحنة بوسكمان جماعة الغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL AMMOURIA",
+    "NOM_ETABA": "م/م العمورية",
+    "AdresseL": "DOUAR EL AMMOURIA COMMUNE EL GHIATE",
+    "AdresseA": "دوار العمورية جماعة الغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHMAMDA",
+    "NOM_ETABA": "م/م الهمامدة",
+    "AdresseL": "DOUAR LAHMAMDA COMMUNE EL GHIATE",
+    "AdresseA": "دوار الهمامدة جماعة الغيات",
+    "COMMUNE": "El Ghiate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

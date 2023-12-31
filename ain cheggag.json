@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial AIN CHGAG",
+    "NOM_ETABA": "ثانوية عين الشكاك الإعدادية",
+    "AdresseL": "CENTRE COMMUNE AIN CHGAG",
+    "AdresseA": "مركز جماعة عين الشكاك",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss 20 AOUT Centre",
+    "NOM_ETABA": "م/م 20 غشت-المركز ",
+    "AdresseL": "AIN CHGAG",
+    "AdresseA": "عين الشكاك",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss TARIK BNOU ZIAD Centre",
+    "NOM_ETABA": "م/م طارق بن زياد-المركز",
+    "AdresseL": "Ain Chgag  Imouzar Kander   Sefrou",
+    "AdresseA": "عين الشكاك دائرة إيموزار كندر إقليم صفرو",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIT ALI OU BOUBKER Centre",
+    "NOM_ETABA": "م/م أيت علي وبوبكر-المركز",
+    "AdresseL": "DOUAR AIT ALI OU BOUBKER",
+    "AdresseA": "دوار أيت علي وبوبكر",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIT BOUFTINE Centre",
+    "NOM_ETABA": "م/م أيت بوفتين-المركز",
+    "AdresseL": "DOUAR AIT BOUFTINE",
+    "AdresseA": "دوار أيت بوفتين",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant ABOU SALIM EL AYACHI",
+    "NOM_ETABA": "ثانوية أبو سالم العياشي التأهيلية",
+    "AdresseL": "AIN CHEGAG CENTRE",
+    "AdresseA": "عين الشكاك المركز",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Baraim annour",
+    "NOM_ETABA": "براعم النور",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار ايت علي اسعيد",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement El hay El jadid",
+    "NOM_ETABA": "مؤسسة الحي الجديد",
+    "AdresseL": "El Hay El Jadid Ai cheggag Cen",
+    "AdresseA": "الحي الجديد عين الشكاك المركز",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arrayan",
+    "NOM_ETABA": "الريان",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المصلى.عين الشكاك",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alfitra salima",
+    "NOM_ETABA": "الفطرة السليمة",
+    "AdresseL": "NULL",
+    "AdresseA": "عين الشكاك",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHOKOUL",
+    "NOM_ETABA": "الحقول",
+    "AdresseL": "zone d1 haoud souk",
+    "AdresseA": "حوض السوق",
+    "COMMUNE": "Ain Cheggag",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

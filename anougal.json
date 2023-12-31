@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SOLIDARITE",
+    "NOM_ETABA": "الثانوية الإعدادية التضامن",
+    "AdresseL": "CENTRE COMMUNE ANOUGAL",
+    "AdresseA": "مركز جماعة انكال",
+    "COMMUNE": "Anougal",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "INGHADE",
+    "NOM_ETABA": "إينغد",
+    "AdresseL": "DOUAR INGHADe COMMUNE ANOUGAL",
+    "AdresseA": "دوار إينغد جماعة انكال",
+    "COMMUNE": "Anougal",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED BOUKMAKH",
+    "NOM_ETABA": "احمد بوكماخ",
+    "AdresseL": "DOUAR GUETTOU COMMUNE ANOUGAL",
+    "AdresseA": "دوار كطو جماعة انكال",
+    "COMMUNE": "Anougal",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

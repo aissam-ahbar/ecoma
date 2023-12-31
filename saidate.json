@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SAIDATE",
+    "NOM_ETABA": "السعيدات",
+    "AdresseL": "DOUAR SAIDATE COMMUNE SAIDATE",
+    "AdresseA": "دوار السعيدات جماعة السعيدات",
+    "COMMUNE": "Saidate",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGHSASLA",
+    "NOM_ETABA": "لغساسلة",
+    "AdresseL": "DOUAR LAGHSASLA COMMUNE SAIDATE",
+    "AdresseA": "  جماعة السعيدات دوار لغساسلة",
+    "COMMUNE": "Saidate",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUARMES",
+    "NOM_ETABA": "وارمس",
+    "AdresseL": "DOUAR TOUKHROBINE COMMUNE SAIDATE",
+    "AdresseA": "دوار توخربين جماعة السعيدات",
+    "COMMUNE": "Saidate",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTARMIDI",
+    "NOM_ETABA": "الترميدي",
+    "AdresseL": "DOUAR LAKHRIRBA COMMUNE SAIDATE",
+    "AdresseA": "دوار لخريريبة",
+    "COMMUNE": "Saidate",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

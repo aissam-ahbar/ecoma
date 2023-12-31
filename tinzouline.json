@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL IBN KATIR",
+    "NOM_ETABA": "الثانوية الإعدادية ابن كثير",
+    "AdresseL": "TINZOULINE",
+    "AdresseA": "تنزولين",
+    "COMMUNE": "Tinzouline",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL  IMAM MALIK",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مالك ",
+    "AdresseL": "TINZOULINE ",
+    "AdresseA": "تنزولين",
+    "COMMUNE": "Tinzouline",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS RIBAT TINZOULINE",
+    "NOM_ETABA": "م.م رباط تنزولين",
+    "AdresseL": "TINZOLINE CENTRE CTINZOLINE",
+    "AdresseA": "رباط تنزولين",
+    "COMMUNE": "Tinzouline",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN KHALDOUNE",
+    "NOM_ETABA": "م.م ابن خلدون",
+    "AdresseL": "DOUAR ZAOUIET AMADAGHE TINZOLINE",
+    "AdresseA": "دوار زاوية أمداغ",
+    "COMMUNE": "Tinzouline",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUITE ELFAGGOUSS",
+    "NOM_ETABA": "م.م زاوية الفكوس",
+    "AdresseL": "DOUAR ZAOUIET ELFAGOUSS TINZOULINE",
+    "AdresseA": "دوار زاوية الفكوس تنزولين",
+    "COMMUNE": "Tinzouline",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED AYOUB",
+    "NOM_ETABA": "م.م اولاد أيوب",
+    "AdresseL": "DOUAR OULED AYOUB TINZOLINE",
+    "AdresseA": "اولاد أيوب",
+    "COMMUNE": "Tinzouline",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ERRAZI",
+    "NOM_ETABA": "الثانوية التأهيلية الرازي",
+    "AdresseL": "TINZOULINE",
+    "AdresseA": "تنزولين",
+    "COMMUNE": "Tinzouline",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BEN EL KHATTAB",
+    "NOM_ETABA": "الثانوية الإعدادية عمر ابن الخطاب",
+    "AdresseL": "AVENUE DES ECOLES MUNICIPALITE SI YOUSSEF BEN ALI",
+    "AdresseA": "شارع المدارس مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOUMMANE AL FETOUAKI",
+    "NOM_ETABA": "الثانوية الإعدادية حمان الفطواكي",
+    "AdresseL": "HAY CHOUHADA MUNICIPALITE SIDI YOUSSEF BEN ALI",
+    "AdresseA": "حي الشهداء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YAAKOUB AL MANSOUR",
+    "NOM_ETABA": "الثانوية الإعدادية يعقوب المنصور",
+    "AdresseL": "AVENUE DES ECOLES  sidi YOUSSEF BEN ALI",
+    "AdresseA": "شارع المدارس مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AL AARIF",
+    "NOM_ETABA": "الثانوية الإعدادية ابن العريف",
+    "AdresseL": "MUNICIPALITE SIDI YOUSSEF BEN ALI MARRAKECH",
+    "AdresseA": "مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ES SAFA",
+    "NOM_ETABA": "الثانوية الإعدادية الصفاء",
+    "AdresseL": "HAY CHOUHADA MUNICIPALITE SIDI YOUSSEF BEN ALI",
+    "AdresseA": "حي الشهداء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FATIMA AL FIHRYA",
+    "NOM_ETABA": "الثانوية الإعدادية فاطمة الفهرية",
+    "AdresseL": "AVENUE DES ECOLES MUNICIPALITE SI YOUSSEF BEN ALI",
+    "AdresseA": "شارع المدارس مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH BEN YASSINE",
+    "NOM_ETABA": "مدرسة عبد الله بن ياسين",
+    "AdresseL": "ecole abdellah ben yassine syba 3",
+    "AdresseA": "مدرسة عبدالله بن ياسين سيبع 3",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN KHALDOUNE",
+    "NOM_ETABA": "مدرسة ابن خلدون",
+    "AdresseL": "AVENUE AGDAL RUE AMEZMIZE MUNICIP SYBEN ALI",
+    "AdresseA": "شارع أكدال زنقة أمزميز مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "مدرسة علال بن عبد الله",
+    "AdresseL": "AVENUE AGDAL RUE AMEZMIZ  MUNICIP SYBEN ALI",
+    "AdresseA": "شارع أكدال زنقة أمزميز مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL OUAHDA",
+    "NOM_ETABA": "مدرسة الوحدة",
+    "AdresseL": "AVENUE LAMSSALLA MUNICIP SYBEN ALI",
+    "AdresseA": "شارع المصلى مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LAMSALLA",
+    "NOM_ETABA": "مدرسة المصلى",
+    "AdresseL": "AVENUE LAMSALLA MUNIC2P SYBEN Ae",
+    "AdresseA": "شارع المصلى",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY ALI CHRIF",
+    "NOM_ETABA": "مدرسة مولاي علي الشريف",
+    "AdresseL": "AVENUE DES ECOLES  MUNICIP SY BEN ALI",
+    "AdresseA": "شارع المدارس مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHADIJA BENT KHOUAYLID",
+    "NOM_ETABA": "مدرسة خديجة بنت خويلد",
+    "AdresseL": "AVENUE DES ECOLES MUNICIP SY BEN ALI",
+    "AdresseA": "شارع المدارس مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL IMAME SOUHAYLI",
+    "NOM_ETABA": " مدرسة الإمام السهيلي",
+    "AdresseL": "AVENUE DES ECOLES MUNICIP SY BEN ALI",
+    "AdresseA": "شارع المدارس مقاطعة سيدي يوسف بن علي  ",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI YOUSSEF BEN ALI",
+    "NOM_ETABA": "مدرسة سيدي يوسف بن علي",
+    "AdresseL": "AVENUE DES ECOLES MUNICIP SYBEN ALI",
+    "AdresseA": "  شارع المدارس  سيدي يوسف بن علي الشمالي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SOUKAYNA",
+    "NOM_ETABA": "مدرسة سكينة",
+    "AdresseL": "AVENUE DES ECOLES MUNICIP SYBEN ALI",
+    "AdresseA": "شارع المدارس مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT D EPANOUISSEMENT ARTISTIQUE ET LITTE",
+    "NOM_ETABA": "مؤسسة التفتح الفني و الأدبي",
+    "AdresseL": "LOTISSEMENT TASSALTANTE MUNICIP SYBEN ALI",
+    "AdresseA": "حي تسلطانت مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ZAYDOUNE 2",
+    "NOM_ETABA": "مدرسة ابن زيدون 2",
+    "AdresseL": "LOTISSEMENT TASSALTANTE MUNICIP SYBEN ALI",
+    "AdresseA": "تجزئة تسلطانت مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHOUHADA",
+    "NOM_ETABA": "مدرسة الشهداء",
+    "AdresseL": "HAY ECHOUHADA MUNICIP SYBEN ALI",
+    "AdresseA": "حي الشهداء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL YOUSSI",
+    "NOM_ETABA": "مدرسة اليوسي",
+    "AdresseL": "lotissement ennakhIL sidi youssef ben ali",
+    "AdresseA": "تجزئة النخيل،  سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL ATLAS AL KABIR",
+    "NOM_ETABA": "مدرسة الأطلس الكبير",
+    "AdresseL": "HAY ECHOUHADA MUNICIP SYBEN ALI",
+    "AdresseA": "حي الشهداء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FIDA",
+    "NOM_ETABA": "مدرسة الفداء",
+    "AdresseL": "HAY ECHOUHADA MUNICIPSY BEN ALI",
+    "AdresseA": "حي الشهداء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL INBIATH",
+    "NOM_ETABA": "مدرسة الإنبعاث",
+    "AdresseL": "DOUAR JDID MUNICIPSY BEN ALI",
+    "AdresseA": "دوار الجديد مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL KHANSA",
+    "NOM_ETABA": "مدرسة الخنساء",
+    "AdresseL": "HAY ECHOUHADA MUNICIP SYBEN ALI",
+    "AdresseA": "حي الشهداء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL HASSAN ZEHRAOUI",
+    "NOM_ETABA": "مدرسة الحسن الزهراوي",
+    "AdresseL": "HAY ECHOUHADA MUNICIP SYBEN ALI",
+    "AdresseA": "حي الشهداء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALI BEN ABI TALIB",
+    "NOM_ETABA": "مدرسة علي بن ابي طالب",
+    "AdresseL": "HAY ECHOUHADA MUNICIP SYBEN ALI",
+    "AdresseA": "حي الشهداء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AMINA BENT OUAHB",
+    "NOM_ETABA": "مدرسة أمينة بنت وهب",
+    "AdresseL": "DOUAR EDDAW MUNICIP SYBEN ALI",
+    "AdresseA": "دوار الضوء مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU HOURAYRA 2",
+    "NOM_ETABA": "مدرسة ابو هريرة 2",
+    "AdresseL": "LOTISSEMENT TASSALTANTE MUNICIP SY BEN ALI",
+    "AdresseA": "تجزئة تسلطانت مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI YOUSSEF BEN ALI",
+    "NOM_ETABA": "الثانوية التاهيلية سيدي يوسف بن علي",
+    "AdresseL": "COMMUNE SIDI YOUSSEF BEN ALI",
+    "AdresseA": "جماعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "الثانوية التأهيلية يوسف بن تاشفين",
+    "AdresseL": "AVENUE DES ECOLES MUNICIPALILE SI YOUSSEF BEN ALI",
+    "AdresseA": "شارع المدارس مقاطعة سيدي يوسف بنعلي",
+    "COMMUNE": "Sidi Youssef Ben Ali ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUSSA BEN NOUSSAYRE",
+    "NOM_ETABA": "الثانوية التأهيلية موسى بن نصير",
+    "AdresseL": "AVENUE AL BERRADA MUNICIPALITE SI YOUSSEF BEN ALI",
+    "AdresseA": "شارع البرادة مقاطعة سيدي يوسف بن علي",
+    "COMMUNE": "Sidi Youssef Ben Ali ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL FAKIH MOHAMED BINEBINE",
+    "NOM_ETABA": "الثانوية التأهيلية الفقيه محمد بنبين",
+    "AdresseL": "douar jdid sidi youssef ben ali",
+    "AdresseA": "دوار الجديد سيدي يوسف بن علي ",
+    "COMMUNE": "Sidi Youssef Ben Ali ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL MOUMAYAZOUNE POUR ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة المميزون للتعليم المدرسي الخصوصي",
+    "AdresseL": "58 Quartier Agdal Sidi Youssef",
+    "AdresseA": " سيدي يوسف بن علي مراكش رقم 58",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TALHA Enseignement Scolaire",
+    "NOM_ETABA": "مؤسسة طلحة للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "سيبع3 رقم 157",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALIKHLASS ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الاخلاص للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 73 درب الحاج ابراهيم سيبع",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DOUNIA AL AIRFANE POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة دنيا العرفان للتعليم المدرسي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "تسلطانت سيدي يوسف بن علي مراكش",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire tarek el majed ENS SCO",
+    "NOM_ETABA": "مجموعة مدارس طريق المجد للتعليم المدرسي الخصوصي",
+    "AdresseL": "AVENUE AGDAL SYBA 4 N°265 MARR",
+    "AdresseA": "شارع أكدال س ي ب ع 4 مراكش265 ",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT WAHAT EZZAITOUNE ATLAS ENS SCO",
+    "NOM_ETABA": "مؤسسة واحة الزيتون أطلس للتعليم الخصوصي",
+    "AdresseL": "douar jdid syba marrakech",
+    "AdresseA": "دوار الجديد أمام ثانوية الفقيه",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ATLAS N.G ENS SCO",
+    "NOM_ETABA": "مؤسسة أطلس الجيل الجديد للتعليم المدرسي الخصوصي",
+    "AdresseL": "syba 4 n 72 marrakech maroc",
+    "AdresseA": "سيبع 4 رقم 72 مراكش",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EZZAITOUNE AL OUM POUR L enseignement",
+    "NOM_ETABA": "مؤسسة الزيتون الأم للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lot Tassaltante Avenue Golf Ro",
+    "AdresseA": "تجزئة تسلطانت شارع الكولف المل",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Omnia ENS SCO",
+    "NOM_ETABA": "مؤسسة الأمنية 1 للتعليم المدرسي الخصوصي ",
+    "AdresseL": "Lotissement Tassaltante Avenue",
+    "AdresseA": "تجزئة تسلطانت شارع الكولف رق 2",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Azhar ENS SCO",
+    "NOM_ETABA": "مؤسسة الأزهار للتعليم المدرسي الخصوصي",
+    "AdresseL": "Jnane 2 Sidi Youssef Ben Ali N",
+    "AdresseA": "سيبع 3رقم 321، جنان 2 رقم 76،7",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL OUMNIA  II ENS SCO",
+    "NOM_ETABA": "مؤسسة الأمنية 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "02  Riad Agdal n° 59 SYBA",
+    "AdresseA": "02 رياض أكدال رقم 59 سيبا",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole GHOSN EZZAITOUNE pour l enseignement",
+    "NOM_ETABA": "مدرسة غصن الزيتون للتعليم المدرسي الخصوصي",
+    "AdresseL": "SYBA 4, rue Amezmiz, n°22",
+    "AdresseA": "سيبع 4 زنقة أمزميز ، رقم 22",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CHARIFA ENS SCO",
+    "NOM_ETABA": "مؤسسة شريفة للتعليم المدرسي الخصوصي",
+    "AdresseL": "lot e1 douar elain tasoultant ",
+    "AdresseA": "تجزئة تسلطانت  دوار العين  سيب",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL ACHBAL ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الأشبال للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "سيدي يوسف بن علي4 رقم 197",
+    "COMMUNE": "Sidi Youssef Ben Ali",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

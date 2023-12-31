@@ -1,0 +1,402 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDESSALAM SBAAI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد السلام السباعي",
+    "AdresseL": "derb alhaj alhoussine bennani  OUANDOU",
+    "AdresseA": "درب الحاج الحسين بناني واندو",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AZIZ AMINE",
+    "NOM_ETABA": "الثانوية الإعدادية عزيز أمين",
+    "AdresseL": "RUE ALLAl EL FASSI  al BATHAE",
+    "AdresseA": "شارع علال الفاسي البطحاء",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI MOHAMED BEN ABDERAHMANE AL IR",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي محمد بن عبد الرحمان",
+    "AdresseL": "EZZIATTE al batha FESM EDINA",
+    "AdresseA": "الزيات  البطحاء فاس الدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الفاسي",
+    "AdresseL": "AKBET EL FIRANE  FESMEDINA",
+    "AdresseA": "عقبة الفيران فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FATIMA AL FIHRIA",
+    "NOM_ETABA": "الثانوية الإعدادية فاطمة الفهرية",
+    "AdresseL": "AIN AZLITEN  FESMEDINA",
+    "AdresseA": "عين الزليتن فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية علال بن عبدالله",
+    "AdresseL": "ZENJFOUR  FESMEDINA bp 746",
+    "AdresseA": "الزنجفور فاس المدينة ص ب 746",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TOURIA SEKAT",
+    "NOM_ETABA": "الثانوية الإعدادية ثريا السقاط",
+    "AdresseL": "rue ahmed mekouar BAB EL HDID   AL BATHAE",
+    "AdresseA": "زنقة أحمد مكوار باب الحديد البطحاء",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AICHA OUM AL MOUMININE",
+    "NOM_ETABA": "المدرسة الابتدائية عائشة أم المؤمنين",
+    "AdresseL": "BAB LAHDID AL BATHAE  FES MEDINA",
+    "AdresseA": " باب الحديد البطحاء فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUSSA BNOU NOUSSAIR",
+    "NOM_ETABA": "المدرسة الابتدائية موسى بن نصير",
+    "AdresseL": "CHEK BDENJALA ZIAT",
+    "AdresseA": "شق بدنجلة الزيات",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED BEN ASKAR",
+    "NOM_ETABA": "المدرسة الابتدائية محمد بن عسكر",
+    "AdresseL": "DOUH  sid alkhayat FESMEDINA",
+    "AdresseA": "الدوح سيد الخياط  فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED EL KORRI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد القري",
+    "AdresseL": "ZERBTANA  FESMEDINA",
+    "AdresseA": "الزربطانة فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL KINDI",
+    "NOM_ETABA": "المدرسة الابتدائية الكندي",
+    "AdresseL": "derb sidi bouazza LABLIDA  FESMEDINA",
+    "AdresseA": "درب سيدي بوعزة البليدة فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT DCHIRA",
+    "NOM_ETABA": "المدرسة الابتدائية معركة الدشيرة",
+    "AdresseL": "oued zhoun LABLIDA  FES  MEDINA",
+    "AdresseA": "واد الزحون البليدة فاس المديينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "المدرسة الابتدائية عمر بن عبد العزيز",
+    "AdresseL": "DERB  ALAMAR ALlAMTEYINE  FES MEDINA",
+    "AdresseA": "درب   العامراللمطيين  فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HALIMA SAADIA",
+    "NOM_ETABA": "المدرسة الابتدائية حليمة السعدية",
+    "AdresseL": "EL makhfia bourjour  FESMEDINA",
+    "AdresseA": " المخفية بورجوع فاس المدينة ",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU ROUCHD",
+    "NOM_ETABA": "المدرسة الابتدائية ابن رشد",
+    "AdresseL": "SEFFAH FESMEDINA",
+    "AdresseA": "الصفاح فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BEN KIRANE",
+    "NOM_ETABA": "المدرسة الابتدائية بنكيران",
+    "AdresseL": "jamae andalous SEFFAH  FESMEDINA",
+    "AdresseA": " مسجد الأندلس الصفاح فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BEN GHAZI",
+    "NOM_ETABA": "المدرسة الابتدائية ابن غازي",
+    "AdresseL": "BAB AL HAMRAE  FESMEDINA",
+    "AdresseA": "باب الحمراء فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI LHASSANE AL MARINI",
+    "NOM_ETABA": "المدرسة الابتدائية أبي الحسن المريني",
+    "AdresseL": "derb al fatmi cherradi BAB AL KHOUKHA FESMEDINA",
+    "AdresseA": "درب الفاطمي الشرادي باب الخوخة فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY CHOUHADAE",
+    "NOM_ETABA": "المدرسة الابتدائية حي الشهداء",
+    "AdresseL": "BAB AL KHOUKHA FESMEDINA",
+    "AdresseA": "باب الخوخة فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZAKOUR",
+    "NOM_ETABA": "المدرسة الابتدائية بن زاكور",
+    "AdresseL": "sid nali zqaq labghal MEDINA",
+    "AdresseA": "المدرسة الابتدائية ابن زاكور- درب سيد النالي - زقا",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELMOUMEN AL MOUAHIDI",
+    "NOM_ETABA": "المدرسة الابتدائية عبد المومن الموحدي",
+    "AdresseL": "AL KATTANINE  FESMEDINA",
+    "AdresseA": "القطانين فاس المدينة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL AMAL",
+    "NOM_ETABA": "الثانوية التأهيلية الأمل",
+    "AdresseL": "av ibn tachefine BAB AL KHOUKHA   FESMEDINA",
+    "AdresseA": "شارع ابن تاشفين باب الخوخة فاس المدينة",
+    "COMMUNE": "Fès-Médina ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUM EL BANINE",
+    "NOM_ETABA": "الثانوية التأهيلية أم البنين",
+    "AdresseL": "Av Ahmed Mekouar batha FES MEDINA",
+    "AdresseA": " شارع احمد مكوار  البطحاء فاس المدينة",
+    "COMMUNE": "Fès-Médina ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant Moulay Idriss",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي ادريس ",
+    "AdresseL": "BOUJLOUD  FESMEDINA",
+    "AdresseA": "بوجلود فاس المدينة",
+    "COMMUNE": "Fès-Médina ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RCHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد",
+    "AdresseL": "HAY ECHOUADAE GUEROUAOUA  FESMEDINA",
+    "AdresseA": "حي الشهداء كرواوة فاس المدينة",
+    "COMMUNE": "Fès-Médina ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN BAJJA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن باجة",
+    "AdresseL": "ZENJFOUr  oued zhoune FES MEDINA",
+    "AdresseA": "الزنجفور واد الزحون  فاس المدينة",
+    "COMMUNE": "Fès-Médina ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PRINCESSE LALLA SALMA",
+    "NOM_ETABA": "الثانوية التأهيلية الأميرة للا سلمى",
+    "AdresseL": "BAB JIAF FES",
+    "AdresseA": "باب الجياف فاس ",
+    "COMMUNE": "Fès-Médina ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ABDESSELAM BEN MCHICH",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي عبد السلام بن مشيش",
+    "AdresseL": "BAB JDID   ARSSAT LEMDELSSI FESMEDINA",
+    "AdresseA": "باب الجديد عرصة لمدلسي : فاس المدينة",
+    "COMMUNE": "Fès-Médina ",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ARABIE",
+    "NOM_ETABA": "الربيع",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 5 زنقة الرحا الشرابليين فا",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA VOTREE ",
+    "NOM_ETABA": "لا فوطر ",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 7 حي زيات فاس",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "fakhreddine",
+    "NOM_ETABA": "فخرالدين",
+    "AdresseL": "20 Derb Elmiter Talaa Kobra",
+    "AdresseA": "20 درب الميتر الطالعة الكبيرة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ajial annahda",
+    "NOM_ETABA": "أجيال النهضة",
+    "AdresseL": "10rass zaouia; mokhfia",
+    "AdresseA": "10 راس الزاوية المخفية",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL Al Holm Al Arabi 2",
+    "NOM_ETABA": " اجيال الحلم العربي 2",
+    "AdresseL": "N° 14, Derb El Knef Arsat Benn",
+    "AdresseA": "درب الكنيف عرصة بناني سيدي بوج",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ASSALa  II",
+    "NOM_ETABA": "الأصالة  2",
+    "AdresseL": "66 BD YOUSSEF Ibn TACHFINE BAB",
+    "AdresseA": "66شارع يوسف بن تاشفين باب الخو",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FAOUZ",
+    "NOM_ETABA": "الفوز",
+    "AdresseL": "n° 72 derb benjeloun hay chouh",
+    "AdresseA": "رقم 72 درب بنجلون حي الشهداء  ",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Nahda Tarbaouya",
+    "NOM_ETABA": "مدرسة النهضة التربوية",
+    "AdresseL": "N° 02 Bis Hay El Makhfia",
+    "AdresseA": "رقم 02 مكرر حي المخفية",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole  Princesse Lalla Aicha",
+    "NOM_ETABA": "مدرسة الأ ميرة للاعائشة",
+    "AdresseL": "N° 16, TalaA Sghira",
+    "AdresseA": "رقم 16، الطالعة الصغيرة",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Assala",
+    "NOM_ETABA": "الأصالة",
+    "AdresseL": "N° 4, Derb Essahel Klaklyeene ",
+    "AdresseA": "رقم 4، درب الساحل القلاقليين -",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAl AL Holm Al Arabi 1",
+    "NOM_ETABA": "أجيال الحلم العربي 1",
+    "AdresseL": "3 Bis, Lahbiel Sidi Boujid - C",
+    "AdresseA": "مكرر 3، لحبيل سيدي بوجيدة - ج.",
+    "COMMUNE": "Fès-Médina",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

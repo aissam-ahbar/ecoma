@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL QODS",
+    "NOM_ETABA": "ثانوية القدس الاعدادية",
+    "AdresseL": "TISSINT TATA",
+    "AdresseA": "تسينت",
+    "COMMUNE": "Tissint",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S AL ATIQ",
+    "NOM_ETABA": "م/م العتيق",
+    "AdresseL": "TISSINT  TATA",
+    "AdresseA": "تسنت طاطا",
+    "COMMUNE": "Tissint",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S EL FAIJA",
+    "NOM_ETABA": "م/م الفائجة",
+    "AdresseL": "DOUAR EL KASBAT TISSINT  TATA",
+    "AdresseA": "دوار القصبة تسنت طاطا",
+    "COMMUNE": "Tissint",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S ZAOUIA",
+    "NOM_ETABA": "م/م الزاوية",
+    "AdresseL": "DOUAR ZAOUIA TISSINT  TATA",
+    "AdresseA": "دوار الزاوية تيسنت طاطا",
+    "COMMUNE": "Tissint",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AIT OUIRANE",
+    "NOM_ETABA": "م/م ايت ويران",
+    "AdresseL": "DOUAR AIT OUIRANE TISSINT TATA",
+    "AdresseA": "دوار ايت ويران تيسنت طاطا",
+    "COMMUNE": "Tissint",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S TANZIDA",
+    "NOM_ETABA": "م/م تنزيضة",
+    "AdresseL": "DOUAR TANZIDA TISSINT  TATA",
+    "AdresseA": "دوار تنزيضة تيسنت طاطا",
+    "COMMUNE": "Tissint",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL AMAL",
+    "NOM_ETABA": "ثانوية الامل التأهيلية",
+    "AdresseL": "CENTRE  TISSINT  TATA",
+    "AdresseA": "تسينت",
+    "COMMUNE": "Tissint",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

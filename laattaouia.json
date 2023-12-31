@@ -1,0 +1,192 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL HASSAN II",
+    "NOM_ETABA": "ثانوية الحسن الثاني الاعدادية",
+    "AdresseL": "EL ATTAOUIA CENTRE",
+    "AdresseA": "بلدية العطاوية",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL IBNOU ALHAYTHAM",
+    "NOM_ETABA": "ثانوية ابن الهيثم الإعدادية",
+    "AdresseL": "LAATTAOUIA MUNICIPALITE",
+    "AdresseA": "بلدية العطاوية",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU HAZM",
+    "NOM_ETABA": "مدرسة ابن حزم",
+    "AdresseL": "MUNICIPALITE EL ATAOUIA",
+    "AdresseA": "العطاوية",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BRAHIM LAATTAOUIA CENTRE ",
+    "NOM_ETABA": "اولاد ابراهيم العطاوية المركزية",
+    "AdresseL": "DOUAR OULED BRAHIM EL ATTAOUIA",
+    "AdresseA": "دوار اولاد ابراهيم العطاوية",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL IMAME EL GHAZALI",
+    "NOM_ETABA": "مدرسة الإمام الغزالي",
+    "AdresseL": "LAATAOUIA CENTRE EL KELAA DES SRAGHNA",
+    "AdresseA": "العطاوية المركز قلعة السراغنة",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL IMAME MALEK",
+    "NOM_ETABA": "مدرسة الإمام مالك",
+    "AdresseL": "LAATAOUIA CENTRE EL KELAA DES SRAGHNA",
+    "AdresseA": "العطاوية المركز قلعة السراغنة",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NOUAJI EL JADIDA",
+    "NOM_ETABA": "مدرسة النواجي الجديدة",
+    "AdresseL": "Hay Nouaji Municipalite El Attaouia",
+    "AdresseA": "حي النواجي بلدية العطاوية",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AZZAHRA",
+    "NOM_ETABA": "مدرسة الزهراء",
+    "AdresseL": "Laattaouia",
+    "AdresseA": "العطاوية",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT RAHALI ELFAROUQ",
+    "NOM_ETABA": "ثانوية الرحالي الفاروق التأهيلية",
+    "AdresseL": "EL ATTAOUIA CENTRE",
+    "AdresseA": "بلدية العطاوية",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين التأهيلية",
+    "AdresseL": "Laattaouia",
+    "AdresseA": "العطاوية",
+    "COMMUNE": "Laattaouia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BASMA pour l enseignement préscolaire",
+    "NOM_ETABA": "بسمة للتعليم الأولي",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الأمل 2 رقم 375 العطاوية",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRACHAD EL ATTAOUIYA",
+    "NOM_ETABA": "الرشاد العطاوية",
+    "AdresseL": "882 lot AMAL EL ATTAOUIYA",
+    "AdresseA": "تجزئة الأمل 882 العطاوية",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YASSIR",
+    "NOM_ETABA": "ياسر",
+    "AdresseL": "LOTISSEMEMENT SIDI M BARK N°58",
+    "AdresseA": "تجزئة سيدي امبارك رقم 58 العطا",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM ELMOSTAKBAL",
+    "NOM_ETABA": "براعم المستقبل",
+    "AdresseL": "LOTISSEMENT EZZAITOUN N°82 LAA",
+    "AdresseA": "تجزئة الزيتون رقم 82 العطاوية ",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRISSALA",
+    "NOM_ETABA": "الرسالة",
+    "AdresseL": "Lotissement Tassaout N° 181-18",
+    "AdresseA": "تجزئة تساوت رقم 181-182 العطاو",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OTHMANE IBN AAFFANE",
+    "NOM_ETABA": "عثمان بن عفان",
+    "AdresseL": "lot al amal n 750-751",
+    "AdresseA": "تجزئة الأمل رقم 750 -751العطاو",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MIFTAH ANNAJAH",
+    "NOM_ETABA": "مفتاح النجاح",
+    "AdresseL": "Lotissement El Hidaoui 2",
+    "AdresseA": "تجزئة الحيداوي 2",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRACHAD 2",
+    "NOM_ETABA": "الرشاد 2",
+    "AdresseL": "ZAOUIT SIDI AHMED LFOUKANI ATT",
+    "AdresseA": "زاوية سيدي أحمد الفوقاني بلدية",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHOUDA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "NULL",
+    "AdresseA": "Ennour 2 n:338",
+    "COMMUNE": "Laattaouia ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

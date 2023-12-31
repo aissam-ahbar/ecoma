@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE IHRIGATENE",
+    "NOM_ETABA": "مجموعة مدارس إحريكاتن",
+    "AdresseL": "DOUAR OULAD AISSA COMMUNE TIZTOUTINE",
+    "AdresseA": "دوار أولاد عيسى جماعة تيزطوطين",
+    "COMMUNE": "Tiztoutine",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TIZTOUTINE",
+    "NOM_ETABA": "مجموعة مدارس تيزطوطين",
+    "AdresseL": "  tiztoutine centre",
+    "AdresseA": "تزطوطين المركز",
+    "COMMUNE": "Tiztoutine",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TIZTOUTINE",
+    "NOM_ETABA": "الثانوية التأهيلية تزطوطين",
+    "AdresseL": "COMMUNE TIZTOUTINE CENTRE",
+    "AdresseA": "جماعة تزطوطين",
+    "COMMUNE": "Tiztoutine",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

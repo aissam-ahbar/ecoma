@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LC ZOUBIR BNOU AL AOUAM",
+    "NOM_ETABA": "ثانوية الزبير ابن العوام الإعدادية",
+    "AdresseL": "DOUAR  ISK              COMMUNE  TIQQI",
+    "AdresseA": "دوار اسك تيقي",
+    "COMMUNE": "Tiqqi",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL IMAM AL BOUKHARI TIQQI",
+    "NOM_ETABA": "م.م الإمام البخاري-تقــــي",
+    "AdresseL": "DOUAR  TIQQI  COMMUNE  TIQQI",
+    "AdresseA": "دوار تقــي  جماعـة تقـي",
+    "COMMUNE": "Tiqqi",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANSIS ANSIS",
+    "NOM_ETABA": "م.م أنسيــس-أنسيس",
+    "AdresseL": "DOUAR  ANSIS            COMMUNE  TIQQI",
+    "AdresseA": "دوار أنسيــس  جماعـة تيقـي",
+    "COMMUNE": "Tiqqi",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHALLALATE ISK",
+    "NOM_ETABA": "م.م الشلالات-اســـك",
+    "AdresseL": "DOUAR  ISK              COMMUNE  TIQQI",
+    "AdresseA": "دوار اســك  جماعـة تيقــي",
+    "COMMUNE": "Tiqqi",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SED ABD EL MOUMEN TASGUINT",
+    "NOM_ETABA": "م.م سد عبد المومن-تـسـكـينـت",
+    "AdresseL": "DOUAR  TASGUINT           COMMUNE  TIQQI",
+    "AdresseA": "دوار تسكينــت  جماعـة تيقــي",
+    "COMMUNE": "Tiqqi",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

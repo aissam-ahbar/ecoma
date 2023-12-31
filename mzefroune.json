@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL AMAL",
+    "NOM_ETABA": "الثانوية الاعدادية الأمل",
+    "AdresseL": "COMMUNE MZEFROUNE",
+    "AdresseA": "جماعة امزفرون",
+    "COMMUNE": "Mzefroune",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS Touria Chaouui",
+    "NOM_ETABA": "مجموعة مدارس ثريا الشاوي",
+    "AdresseL": "DOUAR LHAMMARA COMMUNE MZEFROUNE",
+    "AdresseA": "دوار الحمارة جماعة امزفرون",
+    "COMMUNE": "Mzefroune",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 6 NOVEMBRE",
+    "NOM_ETABA": "م م 6نونبر",
+    "AdresseL": "DOUAR DCHAR ALIA COMMUNE MZEFROUNE",
+    "AdresseA": "دوار دشر العالية  جماعة امزفرون",
+    "COMMUNE": "Mzefroune",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

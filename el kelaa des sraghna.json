@@ -1,0 +1,462 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED AABID EL JABRI",
+    "NOM_ETABA": "ثانوية   محمد عابد الجابري الاعدادية",
+    "AdresseL": "MUNICIPALITE KELAA",
+    "AdresseA": "تجزئة الهناء2",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL ABOU BAKR EL QADIRI",
+    "NOM_ETABA": "ثانوية ابو بكر القادري الاعدادية",
+    "AdresseL": "BLOC EL BAHJA EL KELAA DES SRAGHNA",
+    "AdresseA": "بلوك البهجة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZZAITOUNE",
+    "NOM_ETABA": "ثانوية الزيتون الإعدادية",
+    "AdresseL": "EL KELAA CENTRE",
+    "AdresseA": "بلدية القلعة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL ELQODS",
+    "NOM_ETABA": "ثانوية القدس الإعدادية",
+    "AdresseL": "BLOC NAKHLA 1 ",
+    "AdresseA": "بلوك  النخلة  1  ",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL SIDI ABDERRAHMANE",
+    "NOM_ETABA": "ثانوية سيدي عبد الرحمان الاعدادية",
+    "AdresseL": "AV MOHAMED 5",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE QUARTIER ADMINISTRIF",
+    "NOM_ETABA": "مدرسة الحي الاداري",
+    "AdresseL": "QUARTIER ADMINISTRATIF EL KELAA",
+    "AdresseA": "الحي الاداري",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ACHAHID RAHAL BEN AHMED",
+    "NOM_ETABA": "مدرسة الشهيد رحال بن احمد",
+    "AdresseL": "HAY IMLIL EL KELAA",
+    "AdresseA": "حي امليل",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY ISMAIL",
+    "NOM_ETABA": "مدرسة مولاي اسماعيل",
+    "AdresseL": "HAY LAOUINA EL KELAA",
+    "AdresseA": "حي لعوينة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FATH",
+    "NOM_ETABA": "مدرسة فتح",
+    "AdresseL": "QUARTIER  EL QODS  ",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MALIKA EL FASSI",
+    "NOM_ETABA": "مدرسة مالكة الفاسي ",
+    "AdresseL": "AV ALLAL BEN ABDELLAH EL KELAA",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDERRAHIM BOU ABID",
+    "NOM_ETABA": "مدرسة عبد الرحيم بوعبيد",
+    "AdresseL": "MUNICIPALITE EL KELAA",
+    "AdresseA": "بلدية الفلعة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MASSIRA",
+    "NOM_ETABA": "مدرسة المسيرة",
+    "AdresseL": "  MUNICIPALITE  EL KELAA DES SREGHNA",
+    "AdresseA": "بلدية  قلعة السراغنة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDERRAHMANE BEN KHALDOUN",
+    "NOM_ETABA": "مدرسة عبد الرحمان بن خلدون",
+    "AdresseL": "ELKALAA ERRACHIA  ELKELAA",
+    "AdresseA": "القلعة الراشية القلعة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAHID HASSAN ESSAGHIR",
+    "NOM_ETABA": "مدرسة الشهيد الحسن الصغير",
+    "AdresseL": "HAY JNANE BAKKAR  EL KELAA",
+    "AdresseA": "جنان بكار",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OMAR BEN EL KHATTAB",
+    "NOM_ETABA": "مدرسة عمر بن الخطاب",
+    "AdresseL": "HAY ENNAKHLA 1  EL KELAA",
+    "AdresseA": "حي النخلة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BNOU ROUCHD",
+    "NOM_ETABA": "مدرسة ابن رشد",
+    "AdresseL": " ELHANA 1  EL KELAA",
+    "AdresseA": "الهناء 1",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LOUBBANGA CENTRE",
+    "NOM_ETABA": "لبانكة المركزية",
+    "AdresseL": "quartier labanga elkelaa des sraghna",
+    "AdresseA": "حي البانكة مدينة قلعة السراغنة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "مدرسة عمر بن عبد العزيز",
+    "AdresseL": "HAY AWATIF COMMUNE KELAAT SRAGHNA",
+    "AdresseA": "حي عواطف",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHALID BNOU LOUALID",
+    "NOM_ETABA": "مدرسة خالد بن الوليد",
+    "AdresseL": "HAY EL HANAA COMMUNE KELAAT SRAGHNA",
+    "AdresseA": "حي الهناء بلدية القلعة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL AMAL",
+    "NOM_ETABA": "مدرسة الأمل",
+    "AdresseL": "Hay Draa El Ayyachi Municipalité El Kelaa",
+    "AdresseA": "حي دراع العياشي بلدية القلعة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ANAS IBN MALEK",
+    "NOM_ETABA": "ثانوية أنس بن مالك التأهيلية",
+    "AdresseL": "Commune KALAA DES SRAGHNA",
+    "AdresseA": "جماعة قلعة السراغنة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL MAGHREB EL ARABI",
+    "NOM_ETABA": "ثانوية المغرب العربي التأهيلية",
+    "AdresseL": "Municipalité de kalaa des sraghna",
+    "AdresseA": "بلدية قلعة السراغنة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ISMAEL",
+    "NOM_ETABA": "ثانوية مولاي اسماعيل التأهيلية",
+    "AdresseL": "BLOC EL BAHJA EL KELAA",
+    "AdresseA": "بلوك البهجة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT TASSAOUT",
+    "NOM_ETABA": "ثانوية  تساوت التأهيلية",
+    "AdresseL": "MUNICIPALITE EL KELAA DES SRAGHNAS",
+    "AdresseA": "بلدية قلعة السراغنة",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " LYCÉE QUALIFIANT EL IMAM ALI",
+    "NOM_ETABA": "االثانوية التأهيلية الامام علي",
+    "AdresseL": "EL KELAA CENTRE",
+    "AdresseA": "القلعة المركز",
+    "COMMUNE": "El Kelaâ des Sraghna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Nour Alfirdaous",
+    "NOM_ETABA": "مؤسسة نور الفردوس",
+    "AdresseL": "hay  essalam n 787  kelaa des ",
+    "AdresseA": "حي السلام رقم 787 ",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Taj elmajd",
+    "NOM_ETABA": "تاج المجد",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الهناء رقم 2919",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Rayhane AL AMIR ASSAGHIR ",
+    "NOM_ETABA": "ريحان الأمير الصغير",
+    "AdresseL": "essaada 5;6;7;8",
+    "AdresseA": "تجزئة السعادة رقم 8,7،6،5",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kottab alqods",
+    "NOM_ETABA": "كتاب القدس",
+    "AdresseL": "elqods N 370",
+    "AdresseA": "حي القدس رقم 370",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NASSIM ALFIRDAOUS",
+    "NOM_ETABA": "نسيم الفردوس",
+    "AdresseL": "NULL",
+    "AdresseA": "عواطف 2 رقم 781 ",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SARA ROSE POUR L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "سارة روز للتعلم الأولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "المركب الاقتصادي والاجتماعي رق",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAJAH 2",
+    "NOM_ETABA": "النجاح 2",
+    "AdresseL": "Lotissement Hana 2 Immeuble 11",
+    "AdresseA": "تجزئة الهناء 2 عمارة 1168",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NOUR AL HIBA EL KHALIFI",
+    "NOM_ETABA": "مجموعة مدارس نور الهبة الخليفي",
+    "AdresseL": "LOTISSEMENT ANNOUR 1",
+    "AdresseA": "تجزئة النور 1",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMLIL",
+    "NOM_ETABA": "إمليل",
+    "AdresseL": " BLOC IMLIL 22 EL KELAA DES sr",
+    "AdresseA": "حي إمليل رقم 22 قلعة السراغنة",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOKHBAT ABLA",
+    "NOM_ETABA": "نخبة عبلة",
+    "AdresseL": "Le complexe économique et soci",
+    "AdresseA": "36 ،المركب الاقتصادي و الاجتما",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAJAH",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "LOTISSEMENT aOUATIF 2 EQ4 ELKE",
+    "AdresseA": "تجزئة عواطف 2 EQ4  قلعة السراغ",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR ELHODA",
+    "NOM_ETABA": "نور الهدى",
+    "AdresseL": "HAY ELQODS n° 381 ELKELAA DES ",
+    "AdresseA": "حي القدس رقم 381 قلعة السراغنة",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAKHIL EL BOUCHRA",
+    "NOM_ETABA": "نخيل البشرى",
+    "AdresseL": "MUNICIPALITE EL KELAA",
+    "AdresseA": "بلدية القلعة",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le petit prince 2",
+    "NOM_ETABA": "الأمير الصغير2",
+    "AdresseL": "MUNICIPALITE D EL KELAA",
+    "AdresseA": "بلدية القلعة",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHAWARIZMI",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "nakhla 2, 911 El kelaa des sra",
+    "AdresseA": "النخلة 2 رقم 911 قلعة السراغنة",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Maarif",
+    "NOM_ETABA": "المعارف",
+    "AdresseL": "N° 22p23 Zone Villas Ennakhil",
+    "AdresseA": "رقم22؛23 حي فيلات النخيل",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Abla",
+    "NOM_ETABA": "عبلة",
+    "AdresseL": "N° 2839, Cité Hana II",
+    "AdresseA": "رقم 2839، حي الهناء 2",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Petit Prince",
+    "NOM_ETABA": "الأمير الصغير",
+    "AdresseL": "Cité Hana I, N° 182",
+    "AdresseA": "حي الهناء 1، رقم 182",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Oumnia II",
+    "NOM_ETABA": "مؤسسة أمنية 2",
+    "AdresseL": "N° 8, Hay Arsa - Kelaat Sraghn",
+    "AdresseA": "رقم 8، حي العرصة - قلعة السراغ",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut El Bouchra",
+    "NOM_ETABA": "مؤسسة البشرى",
+    "AdresseL": "N° 304, Arsat Hadj Tahar - Kel",
+    "AdresseA": "رقم 304، عرصة الحاج الطاهر - ق",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHIBLO SAGHIR",
+    "NOM_ETABA": "الشبل الصغير",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النخلة 1 رقم 1646",
+    "COMMUNE": "El Kelaâ des Sraghna ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

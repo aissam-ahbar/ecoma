@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ZAIDOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية ابن زيدون",
+    "AdresseL": "HAD LABKHATI COMMUNE LABKHATI",
+    "AdresseA": "احد البخاتي",
+    "COMMUNE": "Labkhati",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HAD LABKHATI",
+    "NOM_ETABA": "م/م احد البخاتي",
+    "AdresseL": "HAD LABKHATI COMMUNE LABKHATI",
+    "AdresseA": "احد البخاتي جماعة البخاتي",
+    "COMMUNE": "Labkhati",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S OULAD FARKOU",
+    "NOM_ETABA": "م/م اولاد فارقو",
+    "AdresseL": "DOUAR OULAD FARKOUCOMMUNE LABKHATI",
+    "AdresseA": "دوار اولاد فارقو جماعة البخاتي",
+    "COMMUNE": "Labkhati",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LAATAMNA",
+    "NOM_ETABA": "م/م لعثامنة",
+    "AdresseL": "DOUAR LAATAMNACOMMUNE LABKHATI",
+    "AdresseA": "دوار لعثامنة جماعة البخاتي",
+    "COMMUNE": "Labkhati",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZROURTE",
+    "NOM_ETABA": "م/م تازرورت",
+    "AdresseL": "DOUAR TAZROURTECOMMUNE LABKHATI",
+    "AdresseA": "دوار تازرورت  جماعة البخاتي",
+    "COMMUNE": "Labkhati",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

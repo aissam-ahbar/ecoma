@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE ABDERRAHMAN YOUSSOUFI COLLEGIAL",
+    "NOM_ETABA": "ثانوية عبد الرحمان اليوسفي الإعدادية",
+    "AdresseL": "centre commune  sidi mhamed chelh",
+    "AdresseA": "مركز جماعة سيدي امحمد الشلح",
+    "COMMUNE": "Sidi M'Hamed Chelh",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD ASKER",
+    "NOM_ETABA": "أولاد عسكر",
+    "AdresseL": "DOUAR OULAD ASKER",
+    "AdresseA": "دوار اولاد عسكر",
+    "COMMUNE": "Sidi M'Hamed Chelh",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD TAZI",
+    "NOM_ETABA": "اولاد التازي",
+    "AdresseL": "DOUAR OULAD TAZI COMMUNE SIDI M HAMED CHELH",
+    "AdresseA": "دوار أولاد التازي جماعة سيدي امحمد الشلح",
+    "COMMUNE": "Sidi M'Hamed Chelh",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AYED",
+    "NOM_ETABA": "أولاد عياد",
+    "AdresseL": "douar OULED AYED",
+    "AdresseA": "دوار أولاد عياد",
+    "COMMUNE": "Sidi M'Hamed Chelh",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

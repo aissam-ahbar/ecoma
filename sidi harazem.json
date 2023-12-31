@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL WAHDA",
+    "NOM_ETABA": "الثانوية الإعدادية الوحدة",
+    "AdresseL": "SIDI HRAZEM",
+    "AdresseA": "سيدي احرازم",
+    "COMMUNE": "Sidi Harazem",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire SKHINAT",
+    "NOM_ETABA": "م م سخينات",
+    "AdresseL": "DOUAR SKHINAT SIDI HRAZEM",
+    "AdresseA": "دوار السخينات سيدي احرازم",
+    "COMMUNE": "Sidi Harazem",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire FADAE ASSAADA",
+    "NOM_ETABA": "م م فضاء السعادة",
+    "AdresseL": "route sefrou fes",
+    "AdresseA": "طريق سيدي احرازم عن طريق صفرو",
+    "COMMUNE": "Sidi Harazem",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI HRAZEM",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي احرازم",
+    "AdresseL": "sidi hrazem",
+    "AdresseA": "سيدي احرازم",
+    "COMMUNE": "Sidi Harazem",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

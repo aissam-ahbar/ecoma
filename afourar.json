@@ -1,0 +1,152 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELOUZ",
+    "NOM_ETABA": "ثانوية اللوز الإعدادية",
+    "AdresseL": "AFOURER CENTRE",
+    "AdresseA": "أفورار المركز",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AFOURER",
+    "NOM_ETABA": "ثانوية أفورار الإعدادية",
+    "AdresseL": "AFOURER CENTRE",
+    "AdresseA": "مركز أفورار",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL ATLAS ",
+    "NOM_ETABA": "مدرسة الأطلس",
+    "AdresseL": "CITE ADMINISTRATIVE  AFOURER  ",
+    "AdresseA": "الحي الإداري أفورار",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MANDAR JAMIL",
+    "NOM_ETABA": "مدرسة المنظر الجميل",
+    "AdresseL": "AFOURER CENTRE  ",
+    "AdresseA": "افورار المركز",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EZZITOUNA",
+    "NOM_ETABA": "مدرسة الزيتونة",
+    "AdresseL": "AFOURER CENTRE  ",
+    "AdresseA": "افورار المركز",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT IAAZA",
+    "NOM_ETABA": "مركزية آيت إعزة",
+    "AdresseL": "DOUAR AIT IAAZA ",
+    "AdresseA": "دوار ايت اعزة  ",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT CHAIB",
+    "NOM_ETABA": "مركزية آيت شعيب",
+    "AdresseL": "DOUAR AIT CHAIB ",
+    "AdresseA": "دوار ايت شعيب ",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAGANT",
+    "NOM_ETABA": "مركزية تكانت",
+    "AdresseL": "DOUAR TAGANT ",
+    "AdresseA": "دوار تكانت ",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SED BIN EL OUIDANE ",
+    "NOM_ETABA": "ثانوية سد بين الويدان التأهيلية",
+    "AdresseL": "AFOURER CENTRE",
+    "AdresseA": "افورار المركز",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABNAA AL QABAS ",
+    "NOM_ETABA": "أبناء القبس",
+    "AdresseL": "hay ennacer afourar",
+    "AdresseA": "حي النصر رقم 146 أفورار",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IADAD ALKADA",
+    "NOM_ETABA": "إعداد القادة",
+    "AdresseL": "AL HAY AL JADIDE CENTRE COMMUN",
+    "AdresseA": "الحي الجديد أفورار  أزيلال",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNABAT EL HASSAN",
+    "NOM_ETABA": "النبات الحسن",
+    "AdresseL": "",
+    "AdresseA": "حي اللوز",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL QABAS",
+    "NOM_ETABA": "القبس",
+    "AdresseL": "QUARTIER ENNASR ;83 AFOURER",
+    "AdresseA": "حي النصر رقم 83 أفورار",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL ROWADE",
+    "NOM_ETABA": "الرواد",
+    "AdresseL": "quartier louz  afourer",
+    "AdresseA": "حي اللوز  افورار",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL KALAM EDDAHABI",
+    "NOM_ETABA": "القلم الذهبي",
+    "AdresseL": "Lotissement Enasr N 241  AFOUR",
+    "AdresseA": "افوراتجزئة النصر رقم  ر241",
+    "COMMUNE": "Afourar",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

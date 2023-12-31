@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI ABDELLAH AL KHAYAT",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي عبد الله الخياط",
+    "AdresseL": "COMMUNE SID ABDELLAH AL KHAYAT",
+    "AdresseA": "جماعة سيدي عبد الله الخياط",
+    "COMMUNE": "Sidi Abdallah Al Khayat",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TALAGHZA",
+    "NOM_ETABA": "تالغزى المركز",
+    "AdresseL": "DOUAR TALAGHZA COMMUNE SIDI ADBELLAH EL KHAYAT",
+    "AdresseA": "دوار تنالغزى",
+    "COMMUNE": "Sidi Abdallah Al Khayat",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAFRAT BEN TAYEB",
+    "NOM_ETABA": "حفرة بن الطيب",
+    "AdresseL": "HAFRAT BEN TAYEB COMMUNE SIDI ABDELLAH AL KHAYAT",
+    "AdresseA": "حفرة بن الطيب،  جماعة سيدي عبد الله الخياط",
+    "COMMUNE": "Sidi Abdallah Al Khayat",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMMA",
+    "NOM_ETABA": "العامة المركز",
+    "AdresseL": "DOUAR AMMA COMMUNE SIDI ABDELLAH KHAYAT",
+    "AdresseA": "قيادة المغاصيين جماعة سيدي عبد الله الخياط",
+    "COMMUNE": "Sidi Abdallah Al Khayat",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HSAYENE CENTRE",
+    "NOM_ETABA": "ايت احساين المركز",
+    "AdresseL": "DOUAR AIT HSAYENE COMMUNE SIDI ABDELLAH AL KHAYAT",
+    "AdresseA": "دوار ايت احساين ج, سيدي عبد الله الخياط",
+    "COMMUNE": "Sidi Abdallah Al Khayat",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

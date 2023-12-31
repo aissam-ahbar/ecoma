@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C IGUIDDI ",
+    "NOM_ETABA": " ثإ.ايكدي",
+    "AdresseL": "Douar igli commune iguidi cercle taliouine tarouda",
+    "AdresseA": "دوار اكلي جماعة  اكيدي دائرة تالوين تارودانت",
+    "COMMUNE": "Iguidi",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS IBN BATTOUTA",
+    "NOM_ETABA": "م.م ابن بطوطة",
+    "AdresseL": "DOUAR   IGLI C IGUIDI",
+    "AdresseA": "دوار إكلي جماعة إكيدي",
+    "COMMUNE": "Iguidi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL ANOUAR",
+    "NOM_ETABA": "م.م الانوار",
+    "AdresseL": "DOUAR   TIFKILTE C IGUIDI",
+    "AdresseA": "دوار تفكيلت جماعة اكيدي",
+    "COMMUNE": "Iguidi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAISSA",
+    "NOM_ETABA": "م.م تايسة",
+    "AdresseL": "DOUAR   TAISSA C IGUIDI",
+    "AdresseA": "دوار تايسة جماعة إكيدي",
+    "COMMUNE": "Iguidi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZEGROUZ",
+    "NOM_ETABA": "م.م أزكروز",
+    "AdresseL": "DOUAR   TINDILTE C IGUIDI",
+    "AdresseA": "ازكزور جماعة اكيدي قيادة اوزيوة",
+    "COMMUNE": "Iguidi",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

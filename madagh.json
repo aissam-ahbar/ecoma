@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "03-mars",
+    "NOM_ETABA": "3 مارس",
+    "AdresseL": "COLLEGE 3 MARS COMMUINE DE MADAGH",
+    "AdresseA": "مداغ المركز",
+    "COMMUNE": "Madagh",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN KHAFAJA",
+    "NOM_ETABA": "ابن خفاجة",
+    "AdresseL": "ECOLE IBN KHAFAJA COMMUNE DE MADAGH",
+    "AdresseA": "مدرسة ابن خفاجة مداغ",
+    "COMMUNE": "Madagh",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMR BNOU ALA AS",
+    "NOM_ETABA": "عمرو بن العاص",
+    "AdresseL": "MADAGH CENTRE",
+    "AdresseA": "مداغ المركز",
+    "COMMUNE": "Madagh",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ABDELAZIZ",
+    "NOM_ETABA": "عمر بن عبد العزيز",
+    "AdresseL": "DOUAR OULED ABDERRAHMANE COMMUNE DE MADAGH",
+    "AdresseA": "دوار اولاد عبد الرحمان جماعة مداغ",
+    "COMMUNE": "Madagh",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZRAIB",
+    "NOM_ETABA": " الزرايب",
+    "AdresseL": "DOUAR ZRAIB COMMUNE DE MADAGH",
+    "AdresseA": "دوار الزرايب جماعة مداغ",
+    "COMMUNE": "Madagh",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN ZEBDA",
+    "NOM_ETABA": "عين الزبدة",
+    "AdresseL": "COMMUNE DE MADAGH",
+    "AdresseA": "جماعة مداغ",
+    "COMMUNE": "Madagh",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHARROUBA",
+    "NOM_ETABA": " الخروبة",
+    "AdresseL": "HAY SALAME COMMUNE MADAGH",
+    "AdresseA": "حي السلام جماعة مداغ",
+    "COMMUNE": "Madagh",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ELKINDI",
+    "NOM_ETABA": "ثانوية الكندي التأهيلية",
+    "AdresseL": "CENTRE URBAIN MADAGH",
+    "AdresseA": "المركزالقروي مداغ",
+    "COMMUNE": "Madagh",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

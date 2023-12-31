@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IBN MAJA",
+    "NOM_ETABA": "الثانوية الإعدادية ابن ماجة",
+    "AdresseL": "DOKAR CRBNI SAID",
+    "AdresseA": "الدكار جماعة بني سعيد",
+    "COMMUNE": "Bni Said",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ARROUMI",
+    "NOM_ETABA": "مدرسة ابن الرومي",
+    "AdresseL": "SOUK SEBTE CBNI SAID  TETOUAN",
+    "AdresseA": "جماعة بني سعيد",
+    "COMMUNE": "Bni Said",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIZEGHARENE",
+    "NOM_ETABA": "م.م تزغارن",
+    "AdresseL": "EL KALIE  CBNI SAID",
+    "AdresseA": "القليع. جماعة بني سعيد",
+    "COMMUNE": "Bni Said",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HASSAN IBN TABIT",
+    "NOM_ETABA": "م.م حسان بن ثابت",
+    "AdresseL": "TASSIFT  CBNI SAID",
+    "AdresseA": "تاسفت  .  جماعة بني سعيد",
+    "COMMUNE": "Bni Said",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AFRANE ALI",
+    "NOM_ETABA": "م.م افران علي",
+    "AdresseL": "DOUAR AFRANE ALI CBNI SAID  TETOUAN",
+    "AdresseA": "دوار افران علي",
+    "COMMUNE": "Bni Said",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHROUDA",
+    "NOM_ETABA": "م.م اشروظة",
+    "AdresseL": "DOUAR CHROUDA CBNI SAID  TETOUAN",
+    "AdresseA": "دوار اشروظة",
+    "COMMUNE": "Bni Said",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

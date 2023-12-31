@@ -1,0 +1,142 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL MY TAHER BEN ABD ELKARIM",
+    "NOM_ETABA": " الثانوية الإعدادية مولاي الطاهر بن عبد الكريم",
+    "AdresseL": "SKOURA OUARZAZATE",
+    "AdresseA": "سكورة ورزازات",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E SKOURA",
+    "NOM_ETABA": "م.سكورة",
+    "AdresseL": "SKOURA CENTRE OUARZAZATE",
+    "AdresseA": "جماعة سكورة اهل الوسسط",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL KHAMSSA",
+    "NOM_ETABA": "م.م. الخامسة",
+    "AdresseL": "SKOURA AHL EL OUST OUARZAZATE",
+    "AdresseA": "دوار الخامسة جماعة سكورة",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMZAOUROU",
+    "NOM_ETABA": "م.م امزاورو",
+    "AdresseL": "SKOURA",
+    "AdresseA": "سكورة",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED YAAKOUB",
+    "NOM_ETABA": "م.م. ولاد يعقوب",
+    "AdresseL": "SKOURA",
+    "AdresseA": "أولاد يعقوب سكورة ورزازات",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IMASSINE",
+    "NOM_ETABA": "م.م. ايماسين",
+    "AdresseL": "imassine skoura",
+    "AdresseA": "ايماسين سكورة",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI FLAH 1",
+    "NOM_ETABA": "م.م. سيدي فلاح 1",
+    "AdresseL": "skoura",
+    "AdresseA": "دوار سيدي فلاح سكورة",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAMASSRAOUTE",
+    "NOM_ETABA": "م.م.  تمسراوت",
+    "AdresseL": "Skoura",
+    "AdresseA": "سكورة",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IMADRI",
+    "NOM_ETABA": "م.م. امدري",
+    "AdresseL": "Skoura",
+    "AdresseA": "سكورة",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ZOUIA",
+    "NOM_ETABA": "م.م. الزوية",
+    "AdresseL": "SKOURA",
+    "AdresseA": "دوار الزوية جماعة سكورة",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E COM SKOURA",
+    "NOM_ETABA": "م. كم سكورة",
+    "AdresseL": "COMMUNE RURALE SKOURA AHL EL OUST",
+    "AdresseA": "جماعة سكورة اهل الوسسط",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  ABI EL KACEM",
+    "NOM_ETABA": "الثانوية التأهيلية ابي القاسم",
+    "AdresseL": "SKOURA CENTRE OUARZAZATE",
+    "AdresseA": "مركز سكورة ورزازات",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ENNAKHIL",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "NULL",
+    "AdresseA": "سكورة",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OUAFAA",
+    "NOM_ETABA": "الوفاء",
+    "AdresseL": "NULL",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Skoura Ahl El Oust",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

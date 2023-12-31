@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MRIZIGUE",
+    "NOM_ETABA": "ثانوية امريزيك الاعدادية",
+    "AdresseL": "MRIZIGUE CENTRE",
+    "AdresseA": "مركز امريزيك",
+    "COMMUNE": "Mrizigue",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " MRIZIG CENTRE",
+    "NOM_ETABA": "مركزية امريزيك",
+    "AdresseL": "DOUAR OULAD HAJJAJ COMMUNE MRIZIGUE",
+    "AdresseA": "دوار اولاد حجاج جماعة امريزيك",
+    "COMMUNE": "Mrizigue",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JBALA CENTRE",
+    "NOM_ETABA": "مركزية اجبالة",
+    "AdresseL": "DOUAR OULED EL HERRANE COMMUNE MRIZIGUE",
+    "AdresseA": "دوار اولاد الحران جماعة امريزيك",
+    "COMMUNE": "Mrizigue",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JBALA OULED MBAREK CENTRE",
+    "NOM_ETABA": "مركزية أجبالة أولاد مبارك",
+    "AdresseL": "DOUAR JBALA  ouled mbarek COMMUNE MRIZIGUe",
+    "AdresseA": "دوار اجبالة أولاد أمبارك  - جماعة امريزيك",
+    "COMMUNE": "Mrizigue",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

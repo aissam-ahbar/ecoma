@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial Ibn al Banna",
+    "NOM_ETABA": "الثانوية الإعدادية ابن البناء ",
+    "AdresseL": "commune bghaghza",
+    "AdresseA": "جماعة ابغاغزة",
+    "COMMUNE": "Bghaghza",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ss BGHAGHZA",
+    "NOM_ETABA": "م.م بغاغزة",
+    "AdresseL": "COMMUNE AL BGHAGHZA  TETOUAN",
+    "AdresseA": "دوار البغاغزة جماعة البغاغزة تطوان ",
+    "COMMUNE": "Bghaghza",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS FAJ RIH",
+    "NOM_ETABA": "م.م فج الريح",
+    "AdresseL": "DOUAR FAJ RIH CBGHAGHZA  TETOUAN",
+    "AdresseA": "دوار فج الريح  جماعة بغاغزة",
+    "COMMUNE": "Bghaghza",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss TAZROUTE",
+    "NOM_ETABA": "م.م تازروت",
+    "AdresseL": "DOUAR TAZROUTE CBGHAGHZA  TETOUAN",
+    "AdresseA": "دوار تزروت جماعة البغاغزة قيادة بني يدر",
+    "COMMUNE": "Bghaghza",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss LHRARZA",
+    "NOM_ETABA": "م.م الهرارزة",
+    "AdresseL": "DOUAR LHRARZA COMUNE BGHAGHZA  TETOUAN",
+    "AdresseA": "جماعة البغاغزة قيادة بني يدر",
+    "COMMUNE": "Bghaghza",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Ait Bouallal",
+    "NOM_ETABA": "الثانوية الإعدادية أيت بولال",
+    "AdresseL": " MUNICIPALITE BOUMALNE",
+    "AdresseA": " بومالن دادس",
+    "COMMUNE": "Boumalne Dades",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collégial El mouahidine",
+    "NOM_ETABA": "الثانوية الإعدادية الموحدين",
+    "AdresseL": "BP 166  boumalne dades",
+    "AdresseA": "بومالن دادس ص.ب: 166 ",
+    "COMMUNE": "Boumalne Dades",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E OMAR IBN EL KHATTAB",
+    "NOM_ETABA": "م.عمر بن الخطاب",
+    "AdresseL": "MUNICIPALITE BOUMALNE DADES  TINGHIR",
+    "AdresseA": "بلدية بومالن دادس",
+    "COMMUNE": "Boumalne Dades",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT BOUALLAL",
+    "NOM_ETABA": "م.م  ايت بولال",
+    "AdresseL": "MUNICIPALITE BOUMALNE DADES",
+    "AdresseA": "بومالن دادس",
+    "COMMUNE": "Boumalne Dades",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TINMIOULE",
+    "NOM_ETABA": "م.م تنميول",
+    "AdresseL": "MUNICIPALITE BOUMALNE DADES TINGHIR",
+    "AdresseA": "بلدية بومالن دادس تنغيــــــــر",
+    "COMMUNE": "Boumalne Dades",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BOUMALNE",
+    "NOM_ETABA": "م.بومالن",
+    "AdresseL": "MUNICIPALITE BOUMALNE DADES TINGHIR BP157",
+    "AdresseA": "بومالن دادس إقليم تنغير ص.ب 65 ",
+    "COMMUNE": "Boumalne Dades",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT OUNIR",
+    "NOM_ETABA": "م.م ايت أونير",
+    "AdresseL": "DOUAR BOUMALNE",
+    "AdresseA": "حي بومالن بلدية بومالن دادس",
+    "COMMUNE": "Boumalne Dades",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  BOUMALENE DADES",
+    "NOM_ETABA": "الثانوية التأهيلية بومالن دادس",
+    "AdresseL": "BOUMALNE  TINGHIR",
+    "AdresseA": "مركز بومالن دادس ",
+    "COMMUNE": "Boumalne Dades",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SAFWATE TANOUIR",
+    "NOM_ETABA": "مؤسسة  صفوة التنوير",
+    "AdresseL": "Hay adak",
+    "AdresseA": "بومال حي اداك",
+    "COMMUNE": "Boumalne Dades ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

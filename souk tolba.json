@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial youssef ibnou tachefine",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين الإعدادية",
+    "AdresseL": "Souk tolba",
+    "AdresseA": "سوق الطلبة",
+    "COMMUNE": "Souk Tolba",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUED EL MAKHAZINE  CENTRE ",
+    "NOM_ETABA": " وادي المخازن المركزية",
+    "AdresseL": "DOUAR OULED SOULTAN COMMUNE SOUK TOLBA",
+    "AdresseA": "دوار أولاد سلطان جماعة سوق الطلبة",
+    "COMMUNE": "Souk Tolba",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SS LAHYATTA ",
+    "NOM_ETABA": " م/م الهياطة ",
+    "AdresseL": "DOUAR LAHYATTA COMMUNE SOUK TOLBA",
+    "AdresseA": "دوار الهياطة جماعة سوق الطلبة",
+    "COMMUNE": "Souk Tolba",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELMOULOUK  TALATA  CENTRE",
+    "NOM_ETABA": "م/م  الملوك الثلاثة المركزية",
+    "AdresseL": "DOUAR BOUAACHAT COMMUNE SOUK TOLBA",
+    "AdresseA": "دوار بوعشات جماعة سوق الطلبة",
+    "COMMUNE": "Souk Tolba",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ALI MEDENNA CENTRE",
+    "NOM_ETABA": "م/م أولاد علي مدنة المركزية",
+    "AdresseL": "DOUAR OULAD ALI MDENNA COMMUNE SOUK TOLBA",
+    "AdresseA": "دوار أولاد علي مدنة جماعة سوق الطلبة",
+    "COMMUNE": "Souk Tolba",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

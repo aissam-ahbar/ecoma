@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL GHORFA",
+    "NOM_ETABA": "الثانوية الاعدادية الغرفة",
+    "AdresseL": "EL GHORFA BNI MHAMED SIJILMASSA RISSANI",
+    "AdresseA": "الغرفة بني امحمد سجلماسة الريصاني",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BNI M HAMED",
+    "NOM_ETABA": "بني امحمد",
+    "AdresseL": "BNI M HAMED SIJILMASSA",
+    "AdresseA": "قصر الجبيل ",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S.S EL GHORFA",
+    "NOM_ETABA": "م.م الغرفة",
+    "AdresseL": "KSAR EL GHORFA RISSANI",
+    "AdresseA": "قصر الغرفة الريصاني",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ABDELHALIM",
+    "NOM_ETABA": "اولاد عبدالحليم",
+    "AdresseL": "KSAR OULAD ABDEHALIM RISSANI",
+    "AdresseA": "قصر اولاد عبد الحليم الربصاني",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED RAHOU",
+    "NOM_ETABA": "اولاد رحو",
+    "AdresseL": "KSAR OULED RAHOU BNI M HAMED SIJILMASSA RISSANI",
+    "AdresseA": "قصر اولاد رحو بني امحمد",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JBILE",
+    "NOM_ETABA": "اجبيل",
+    "AdresseL": "KSAR JBILE RISSANI",
+    "AdresseA": "قصر الجبيل الريصاني",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED YOUSSEF",
+    "NOM_ETABA": "اولاد يوسف",
+    "AdresseL": "KSAR OULED YOUSSEF RISSANI",
+    "AdresseA": "قصر اولاد يوسف",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABTARNI",
+    "NOM_ETABA": "لبطرني",
+    "AdresseL": "KSAR LABTARNI RISSANI",
+    "AdresseA": "قصر البطرني الريصاني",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAHASNOUNT",
+    "NOM_ETABA": "تحسنونت",
+    "AdresseL": "KSAR TAHASNOUNT RISSANI",
+    "AdresseA": "قصر تحسنونت الريصاني",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKSAR EL FOUKANI",
+    "NOM_ETABA": "لقصر الفقاني",
+    "AdresseL": "LAKSAR ELFOUKANI RISSANI",
+    "AdresseA": "القصر الفوقاني الريصاني",
+    "COMMUNE": "Bni M'Hamed-Sijelmassa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S SOUK SEBT SAISS",
+    "NOM_ETABA": "م/م سوق سبت سايس",
+    "AdresseL": "SOUK SEBT SAISS ",
+    "AdresseA": "سوق سبت سايس",
+    "COMMUNE": "Sebt Saiss",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED ABDELLAH BEN MASSOUD",
+    "NOM_ETABA": "م/م أولاد عبد الله بن مسعود",
+    "AdresseL": "DOUAR OULED ABDELLAH BEN MASOUD ",
+    "AdresseA": "دوار عبد الله بن مسعود",
+    "COMMUNE": "Sebt Saiss",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED DALLI",
+    "NOM_ETABA": "م/م أولاد الضالي",
+    "AdresseL": "DOUAR OULED DALLI ",
+    "AdresseA": "دوار أولاد الضالي",
+    "COMMUNE": "Sebt Saiss",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

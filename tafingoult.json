@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "E AL IMAM AL GHAZALI",
+    "NOM_ETABA": "م. الإمام الغزالي",
+    "AdresseL": "CENTRE TAFINGOULTE C TAFINGOULTE",
+    "AdresseA": "مركز تافنكولت",
+    "COMMUNE": "Tafingoult",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL JADAWIL TARGA",
+    "NOM_ETABA": "م.م الجداول  تاركة",
+    "AdresseL": "DOUAR   TARGA C TAFINGOULTE",
+    "AdresseA": "د. تاركة",
+    "COMMUNE": "Tafingoult",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAJGALTE",
+    "NOM_ETABA": "م.م تجكالت",
+    "AdresseL": "DOUAR   TAJGALTE C TAFINGOULTE",
+    "AdresseA": "د. تجكالت",
+    "COMMUNE": "Tafingoult",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL FADILA",
+    "NOM_ETABA": "ثأ.الفضيلة",
+    "AdresseL": "CENTRE TAFINGOULT COMMUNE TAFINGOULT",
+    "AdresseA": "مركز جماعة تافنكولت",
+    "COMMUNE": "Tafingoult",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

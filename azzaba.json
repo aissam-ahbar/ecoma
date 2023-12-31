@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial LALLA SOUKAINA",
+    "NOM_ETABA": "ثانوية للا سكينة الإعدادية",
+    "AdresseL": "COMMUNE AZZABA",
+    "AdresseA": "جماعة عزابة",
+    "COMMUNE": "Azzaba",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss 11 JANVIER Centre",
+    "NOM_ETABA": "م/م 11 يناير-المركز",
+    "AdresseL": "COMMUNE AZZABA",
+    "AdresseA": "جماعة عزابة",
+    "COMMUNE": "Azzaba",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss TAGHAZOUT Centre",
+    "NOM_ETABA": "م/م تاغزوت-المركز",
+    "AdresseL": "DOUAR  TAGHAZOUT",
+    "AdresseA": "دوار تاغزوت",
+    "COMMUNE": "Azzaba",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

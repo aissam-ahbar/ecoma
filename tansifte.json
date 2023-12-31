@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH BEN YASSINE ",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله بن ياسين",
+    "AdresseL": "DOUAR TESERGUATE ",
+    "AdresseA": "دوار تسركات",
+    "COMMUNE": "Tansifte",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TISSARGUATE",
+    "NOM_ETABA": "م.م تسركات",
+    "AdresseL": "DOUAR TISSARGUATE CTANSIFTE",
+    "AdresseA": "تسركات تانسيفت",
+    "COMMUNE": "Tansifte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TANSIFTE",
+    "NOM_ETABA": "م.م تانسيفت",
+    "AdresseL": "TANSIFTE CommuneTANSIFTE",
+    "AdresseA": "تانسيفت",
+    "COMMUNE": "Tansifte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AOURIZ",
+    "NOM_ETABA": "م.م أوريز",
+    "AdresseL": "DOUAR AOURIZ TANSIFTE",
+    "AdresseA": "أوريز",
+    "COMMUNE": "Tansifte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUZDINE",
+    "NOM_ETABA": "م.م اوزدين",
+    "AdresseL": "DOUAR OUZDINE CTANSIFTE",
+    "AdresseA": "اوزدين",
+    "COMMUNE": "Tansifte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL FEGUARA",
+    "NOM_ETABA": "م.م الفكارة",
+    "AdresseL": "DOUAR EL FAGUARA C TANSIFTE",
+    "AdresseA": "الفكارة تنسيفت",
+    "COMMUNE": "Tansifte",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

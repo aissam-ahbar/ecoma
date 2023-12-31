@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SIDI BOULKHALEF",
+    "NOM_ETABA": "ثانوية سيدي بولخلف الإعدادية",
+    "AdresseL": "CENTRE COMMUNE SIDI BOULKHALEF",
+    "AdresseA": "مركز جماعة سيدي بولخلف",
+    "COMMUNE": "Sidi Boulkhalf",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE IWARIDEN",
+    "NOM_ETABA": "مركزية إيواريضن",
+    "AdresseL": "DOUAR IWARIDEN",
+    "AdresseA": "دوار ايواريضن",
+    "COMMUNE": "Sidi Boulkhalf",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIGHADOUINE",
+    "NOM_ETABA": "مركزية تغدوين",
+    "AdresseL": "DOUAR TIGHADOUINE commune sidi boulkhalf demnate",
+    "AdresseA": "دوار تغدوين جماعة سيدي بولخلف دمنات",
+    "COMMUNE": "Sidi Boulkhalf",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AZLAG",
+    "NOM_ETABA": "مركزية ازلاك",
+    "AdresseL": "DOUAR AZLAG AIT ZIAD ",
+    "AdresseA": "دوار ازلاك ايت زياد",
+    "COMMUNE": "Sidi Boulkhalf",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IKISS",
+    "NOM_ETABA": "مركزية إكيس",
+    "AdresseL": "DOUAR IKISS",
+    "AdresseA": "دوار إكيس",
+    "COMMUNE": "Sidi Boulkhalf",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

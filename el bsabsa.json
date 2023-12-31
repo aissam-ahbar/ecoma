@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS ABDERRAHIM BOUABID",
+    "NOM_ETABA": "م/م عبدالرحيم بوعبيد ",
+    "AdresseL": "COMMUNE BSABSA CENTRE TISSA",
+    "AdresseA": "جماعة البسابسة المركز دائرة تيسة",
+    "COMMUNE": "El Bsabsa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BSABSA",
+    "NOM_ETABA": "م/م  البسابسة",
+    "AdresseL": "DOUAR BSABSA COMMUNE BSABSA TISSA",
+    "AdresseA": "دوار البسابسة جماعة البسابسة -تيسة",
+    "COMMUNE": "El Bsabsa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

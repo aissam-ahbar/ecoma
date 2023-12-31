@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KAA ASSRASS",
+    "NOM_ETABA": "الثانوية الاعدادية قاع أسراس",
+    "AdresseL": "KAA ASSRASS COMMUNE TIZGANE",
+    "AdresseA": "قاع أسراس جماعة تزكان",
+    "COMMUNE": "Tizgane",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TARGHA",
+    "NOM_ETABA": "م/م تارغة",
+    "AdresseL": "TARGHA CR  TIZGANE CHEFCHAOUEN",
+    "AdresseA": "  تارغة جماعة تزكان شفشاون",
+    "COMMUNE": "Tizgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KAA ASRAS",
+    "NOM_ETABA": "م/م قاع اسراس",
+    "AdresseL": "KAA ASRASCTIZGANECHEFCHAOUEN",
+    "AdresseA": "قاع اسراس جماعة تزكان",
+    "COMMUNE": "Tizgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOURMANE",
+    "NOM_ETABA": "بورمان",
+    "AdresseL": "DOUAR BOURMANE  C TIZGANE CHEFCHAOUEN",
+    "AdresseA": "دوار بورمان جماعة تزكان",
+    "COMMUNE": "Tizgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KAA ASRAS",
+    "NOM_ETABA": "الثانوية التأهيلية قاع أسراس",
+    "AdresseL": "COMMUNE tizgan CHEFCHAOUEN",
+    "AdresseA": "جماعة تزكان شفشاون ",
+    "COMMUNE": "Tizgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

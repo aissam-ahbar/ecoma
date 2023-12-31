@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LAABIYATE",
+    "NOM_ETABA": "اللعبيات",
+    "AdresseL": "DOUAR laabiYate COMMUNE OULED H CINE",
+    "AdresseA": "دوار اللعبيات جماعة أولاد احسين",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ZELLAKA",
+    "NOM_ETABA": "الزلاقة",
+    "AdresseL": "SIDI ABDELAZIZ",
+    "AdresseA": "سيدي عبد العزيز",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE TIHLI",
+    "NOM_ETABA": "المركزية تيهلي",
+    "AdresseL": "DOUAR TIHLI COMMUNE OULED HSSINE",
+    "AdresseA": "دوار تيهلي جماعة اولاد احسين",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE EL KARYA",
+    "NOM_ETABA": "المركزية القرية",
+    "AdresseL": "DOUAR EL KARYA COMMUNE OULED HCINE",
+    "AdresseA": "دوار القرية جماعة اولاد احسين",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE LAABIYATE",
+    "NOM_ETABA": "المركزية اللعبيات",
+    "AdresseL": "DOUAR LAABIYATE COMMUNE OULED HSSINE",
+    "AdresseA": "دوار اللعبيات جماعة اولاد احسين",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE OULED LAGZOULI 1",
+    "NOM_ETABA": "1 المركزية اولاد الكزولي  ",
+    "AdresseL": "DOUAR OULED LAGZOULI commune ouled hssine",
+    "AdresseA": " دوار اولاد لكزولي جماعة اولاد احسين",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE EL KADOUS",
+    "NOM_ETABA": "المركزية  القادوس",
+    "AdresseL": "DOUAR SOUALEME commune ouled hCINE",
+    "AdresseA": "دوار السوالم جماعة أولاد احسين ",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE SYABRA",
+    "NOM_ETABA": "المركزية الصيابرة",
+    "AdresseL": "DOUAR SYABRA COMMUNE OULeD HSSINE",
+    "AdresseA": "دوار الصيابرة جماعة أولاد احسين",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MEHDI BENBARKA",
+    "NOM_ETABA": "المهدي بن بركة",
+    "AdresseL": "OULED HCINE",
+    "AdresseA": "اولاد حسين",
+    "COMMUNE": "Ouled H'Cine",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

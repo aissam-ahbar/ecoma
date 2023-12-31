@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS ALBOHTORI",
+    "NOM_ETABA": "م.م البحتري",
+    "AdresseL": "DOUAR   IMLIL  C TOUBKAL",
+    "AdresseA": "دوار امليل جماعة تبقال دائرة تالوين",
+    "COMMUNE": "Toubkal",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAC IFNI",
+    "NOM_ETABA": "م.م بحيرة افني",
+    "AdresseL": "DOUAR   AMSOUZARTE C TOUBKAL",
+    "AdresseA": "دوار امسوزارت جماعة توبقال",
+    "COMMUNE": "Toubkal",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TOUBKAL",
+    "NOM_ETABA": "م.م توبقال",
+    "AdresseL": "DOUAR   INEMRAGHTE C TOUBKAL",
+    "AdresseA": "دوار انمراغت جماعة توبقال",
+    "COMMUNE": "Toubkal",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

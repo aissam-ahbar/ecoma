@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MESTEGMER",
+    "NOM_ETABA": "الثانوية الإعدادية مستكمار",
+    "AdresseL": "lYCEE COLLEGIAL MESTEGMER  COMMUNE MESTEGMER",
+    "AdresseA": "الثانوية الإعدادية مستكمار جماعة مستكمار",
+    "COMMUNE": "Mestegmer",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JFIRAT",
+    "NOM_ETABA": "اجفيرات",
+    "AdresseL": "douar JFIRAT commune mestegmer",
+    "AdresseA": "دوار اجفيرات جماعةمستكمار ",
+    "COMMUNE": "Mestegmer",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUSSEDDAN",
+    "NOM_ETABA": "بوصدان",
+    "AdresseL": "DOUAR BOUSSEDDANE",
+    "AdresseA": "دوار بوصدان",
+    "COMMUNE": "Mestegmer",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHERAYAA",
+    "NOM_ETABA": "الشرايع",
+    "AdresseL": "SS CHERAYAA",
+    "AdresseA": "الشرايع",
+    "COMMUNE": "Mestegmer",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

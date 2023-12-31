@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "  COLLEGE KASSETA",
+    "NOM_ETABA": "الثانوية الاعدادية قسيطة",
+    "AdresseL": " KASSITA COMMUNE TSAFT",
+    "AdresseA": "قسيطة جماعة اتسافت",
+    "COMMUNE": "Tsaft",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " E ACHOHADAA",
+    "NOM_ETABA": "م الشهداء",
+    "AdresseL": " kASITA COMMUNE TSAFT",
+    "AdresseA": " قاسيطة جماعة اتسافت",
+    "COMMUNE": "Tsaft",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HAJRAT AL QODIA",
+    "NOM_ETABA": "م م حجرة القضا",
+    "AdresseL": "DOUAR HAJRAT AL kada COMMUNE TSAFT driouch",
+    "AdresseA": "دوار حجرة القضاء ج اتسافت  الدريوش",
+    "COMMUNE": "Tsaft",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAGHAZOUT",
+    "NOM_ETABA": "م م تاغزوت",
+    "AdresseL": "DOUAR TAGHZOUT COMMUNE TSAFT",
+    "AdresseA": "تاغزوت تسافت",
+    "COMMUNE": "Tsaft",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AJIOU",
+    "NOM_ETABA": "م م اجيو",
+    "AdresseL": "DOUAR Ait alaali COMMUNE TSAFT DRIOUCH",
+    "AdresseA": "دوار آيت العالي جماعة اتسافت إقليم الدريوش ",
+    "COMMUNE": "Tsaft",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALJADIDA",
+    "NOM_ETABA": "ثانوية الجديدة التأهيلية",
+    "AdresseL": "Kassita centre",
+    "AdresseA": "قاسيطة المركز",
+    "COMMUNE": "Tsaft",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "MAHMOUD DAROUICH",
+    "NOM_ETABA": "محمود درويش",
+    "AdresseL": "AMEUR CHAMALIA",
+    "AdresseA": "عامر الشمالية",
+    "COMMUNE": "Ameur Chamalia",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE BASE AERIENNE SIDI YAHIA",
+    "NOM_ETABA": "مدرسة القاعدة الجوية سيدي يحيى",
+    "AdresseL": "BASE AERIENNE SIDI YAHIA commune amer chamalia",
+    "AdresseA": "القاعدة الجوية سيدي يحيى جماعة عامر الشمالية",
+    "COMMUNE": "Ameur Chamalia",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE MERE ZHANA SIDI YAHYA",
+    "NOM_ETABA": "المركزية ازهانة  سيدي يحيى",
+    "AdresseL": "DOUAR ZHANA COMMUNE AMEUR CHAMALIA",
+    "AdresseA": "دوار ازهانة جماعة عامر الشمالية",
+    "COMMUNE": "Ameur Chamalia",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE MERE ELMANSOUR EDDEHBI OULED BELAID",
+    "NOM_ETABA": "المركزية المنصور الذهبي اولاد بلعيد",
+    "AdresseL": "DOUAR OULED BELAID  COMMUNE  AMEUR CHAMALIA",
+    "AdresseA": "دواراولاد بلعيد جماعة عامر الشمالية",
+    "COMMUNE": "Ameur Chamalia",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE BNI FDAL",
+    "NOM_ETABA": "المركزية بني فضل",
+    "AdresseL": "DOUAR BNI FDAL COMMUNE AMEUR CHAMALIA",
+    "AdresseA": "دوار بني فضل جماعة عامر الشمالية",
+    "COMMUNE": "Ameur Chamalia",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE ELHAFARI",
+    "NOM_ETABA": "مركزية الحفاري",
+    "AdresseL": "DOUAR LAHFARI COMMUNE AMER CHAMALIA",
+    "AdresseA": "دوار الحفاري جماعة عامر الشمالية",
+    "COMMUNE": "Ameur Chamalia",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE OULED TAHAR BEN ALI",
+    "NOM_ETABA": "المركزية اولاد الطاهر بنعلي",
+    "AdresseL": "DOUAR OULED TAHAR BEN ALI COMMUNE AMEUR CHAMALIA",
+    "AdresseA": "دواراولاد الطاهر بنعلي جماعة عامر الشمالية",
+    "COMMUNE": "Ameur Chamalia",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

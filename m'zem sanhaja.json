@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL LEMZEM",
+    "NOM_ETABA": "ثانوية لمزم الاعدادية",
+    "AdresseL": "LAMZEM SAHRIJ EL ATTAOUIA",
+    "AdresseA": "جماعة لمزم",
+    "COMMUNE": "M'Zem Sanhaja",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD NACER LEMZEM CENTRE",
+    "NOM_ETABA": "مركزية اولاد ناصر - لمزم ",
+    "AdresseL": "DOUAR OULED NACER COMMUNE M'ZEM SANHAJA KALAA DES ",
+    "AdresseA": "  دوار اولاد ناصر جماعة مزم صنهاجة قلعة السراغنة",
+    "COMMUNE": "M'Zem Sanhaja",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SANHAJA  CENTRE",
+    "NOM_ETABA": "صنهاجة المركزية",
+    "AdresseL": "DOUAR NOUAJI LHOUAL COMMUNE LEMZEM",
+    "AdresseA": "دوار النواجي لحول جماعة لمزم",
+    "COMMUNE": "M'Zem Sanhaja",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEMZEM CENTRE",
+    "NOM_ETABA": "لمزم المركزية",
+    "AdresseL": "COMMUNE MZEM SANHAJA",
+    "AdresseA": "جماعة لمزم صنهاجة",
+    "COMMUNE": "M'Zem Sanhaja",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOUAJI AKSSIB CENTRE",
+    "NOM_ETABA": "النواجي اقصيب المركزية",
+    "AdresseL": "DOUAR NOUAJI SANHAJA",
+    "AdresseA": "دوار النواجي اقصيب",
+    "COMMUNE": "M'Zem Sanhaja",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

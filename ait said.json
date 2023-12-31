@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S IBNO BATOUTA",
+    "NOM_ETABA": "م.م. ابن بطوطة",
+    "AdresseL": "DOUAR BIR HAMDOUNE AIT SAID",
+    "AdresseA": "دوار بئر حمدون ايت سعيد",
+    "COMMUNE": "Ait Said",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AGDAL",
+    "NOM_ETABA": "م م أكدال",
+    "AdresseL": "DOUAR ait haj AIT SAID",
+    "AdresseA": "دوار ايت الحاج ايت سعيد",
+    "COMMUNE": "Ait Said",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

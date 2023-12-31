@@ -1,0 +1,622 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial AICHA OUM AL MOUMININE",
+    "NOM_ETABA": "ثانوية عائشة أم المؤمنين الإعدادية",
+    "AdresseL": "QUARTIER BENSAFFAR SEFROU",
+    "AdresseA": "حي بنصفار صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée collègial RFAYF",
+    "NOM_ETABA": "ثانوية الرفايف الإعدادية",
+    "AdresseL": "hay Rfayf Sefrou",
+    "AdresseA": "حي الرفايف - صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée collègial BENSAFAR",
+    "NOM_ETABA": "ثانوية بنصفار الإعدادية",
+    "AdresseL": "HAY BENSAFAR  SEFROU",
+    "AdresseA": "حي بنصفار صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée collègial MOULAY ALI CHERIF",
+    "NOM_ETABA": "ثانوية مولاي علي الشريف الإعدادية ",
+    "AdresseL": "RUE   ABD EL OUAHAB DARRAK",
+    "AdresseA": "زنقة عبد الوهاب الدراق",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée collègial OUED EDDAHAB",
+    "NOM_ETABA": "ثانوية وادي الذهب الإعدادية ",
+    "AdresseL": "BD HASSAN 1 SETTI MASSOUDA",
+    "AdresseA": "شارع الحسن الأول ستي مسعودة",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée collègial SIDI BOUMADIANE",
+    "NOM_ETABA": "ثانوية سيدي بومدين الإعدادية",
+    "AdresseL": "01 BD  IBNOU KHALDOUN VN",
+    "AdresseA": "1 شارع ابن خلدون المدينة الجديدة",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ecole SIDI BOUSSERGHIN",
+    "NOM_ETABA": "مدرسة سيدي بوسرغين",
+    "AdresseL": "HAY MASSAY  MUNICIPALITE SEFROU",
+    "AdresseA": "حي مساي بلدية صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole EL HASSAN EDDAKHIL",
+    "NOM_ETABA": "مدرسة الحسن الداخل",
+    "AdresseL": "Avenue Mohamed Yakhlef Ben Sefar ",
+    "AdresseA": "شارع محمد يخلف بنصفار ",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole EL MAGHRIB EL ARABI",
+    "NOM_ETABA": "مدرسة المغرب العربي",
+    "AdresseL": "DERB EL MITER  MUNICIPALITE SEFROU",
+    "AdresseA": "درب المتر بلدية صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole EDDAKHLA",
+    "NOM_ETABA": "مدرسة الداخلة",
+    "AdresseL": "ville nouvelle rue  ibn rochd sefrou",
+    "AdresseA": "المدينة الجديدة زنفة بن رشد صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole ALINBIAAT",
+    "NOM_ETABA": "مدرسة الانبعاث",
+    "AdresseL": "SETTI MASSAOUDA   MUNICIPALITE SEFROU",
+    "AdresseA": "ستي مسعودة بلدية صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole SIDI AHMED TADLI",
+    "NOM_ETABA": "مدرسة سيدي احمد التادلي",
+    "AdresseL": "SIDI AHMED TADLI   MUNICIPALITE SEFROU",
+    "AdresseA": "سيدي احمد التادلي بلدية صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole IMAM MALIK",
+    "NOM_ETABA": "مدرسة الإمام مالك",
+    "AdresseL": "ROUTE  EL MENZEL MUNICIPALITE SEFROU",
+    "AdresseA": "طريق المنزل بلدية صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole ZERKTOUNI",
+    "NOM_ETABA": "مدرسة الزرقطوني",
+    "AdresseL": "HAY BEN SEFFAR MUNICIPALITE SEFROU",
+    "AdresseA": "حي بنصفار بلدية صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole ELLOUZ",
+    "NOM_ETABA": "مدرسة اللوز",
+    "AdresseL": "HAY BEN SAFFAR MUNICIPALITE SEFROU",
+    "AdresseA": "حي بنصفار بلدية صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole OMAR IBN ALKHATTAB",
+    "NOM_ETABA": "مدرسة عمر بن الخطاب",
+    "AdresseL": "QUARTIER RFAIF SEFROU",
+    "AdresseA": "حي الرفايف بلدية صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole HAB AL MOULOUK",
+    "NOM_ETABA": "مدرسة حب الملوك",
+    "AdresseL": "HAY EL KHAINA",
+    "AdresseA": "حي الخاينة",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole TOURIA SAKKAT",
+    "NOM_ETABA": "مدرسة تورية السقاط",
+    "AdresseL": "QUARTIER ERRACHAD  SEFROU",
+    "AdresseA": "حي الرشاد - صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole MY SMAIL",
+    "NOM_ETABA": "مدرسة مولاي إسماعيل",
+    "AdresseL": "Hay My Smail",
+    "AdresseA": "حي مولاي إسماعيل - صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant BIR ANZARANE",
+    "NOM_ETABA": "ثانوية بئر أنزران التأهيلية",
+    "AdresseL": "BOULEVARD ZERKTOUNI",
+    "AdresseA": "شارع الزرقطوني",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant SIDI LAHCEN EL YOUSSI",
+    "NOM_ETABA": "ثانوية سيدي لحسن اليوسي التأهيلية",
+    "AdresseL": "route  EL MENZEL",
+    "AdresseA": "طريق المنزل",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant MOHAMED BEN ABDELKRIM KHATTABI",
+    "NOM_ETABA": "ثانوية محمد بن عبد الكريم الخطابي التأهيلية",
+    "AdresseL": "QUARTIER HABBOUNA  SEFROU",
+    "AdresseA": "حي حبونة - صفرو",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant LA PRINCESSE LALLA SALMA",
+    "NOM_ETABA": "ثانوية الأميرة لالة سلمى التأهيلية",
+    "AdresseL": "hay benseffar",
+    "AdresseA": "حي بنصفار",
+    "COMMUNE": "Sefrou",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L'ESCALADE DE LA REUSSITE",
+    "NOM_ETABA": "لسكلاد دلريسيت",
+    "AdresseL": "lotissement maryem n 22 hay rf",
+    "AdresseA": "تجزئة مريم رقم 22 حي الرفايف ",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARIS KIMAM AL ATLAS",
+    "NOM_ETABA": "مدارس قمم الأطلس",
+    "AdresseL": "lot errachad 1BLOC 8 RUE HONGR",
+    "AdresseA": "تجزئة الرشاد 1 بلوك 8زنقة هنغا",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Flamant Rose",
+    "NOM_ETABA": "فلامون غوز",
+    "AdresseL": "129 bloc 3 errachad",
+    "AdresseA": " 129 بلوك 3 حي الرشاد",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "cerises 2",
+    "NOM_ETABA": "حب الملوك الخاصة 2",
+    "AdresseL": "N°47 bloc 1 rfaif",
+    "AdresseA": "رقم 47 بلوك1 الرفايف",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al birouni",
+    "NOM_ETABA": "البيروني",
+    "AdresseL": "157 route de fes - sefrou",
+    "AdresseA": "157 طريق صفرو",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le jasmin 2",
+    "NOM_ETABA": "الياسمين 2",
+    "AdresseL": "route fes 131 jnane essouhoub ",
+    "AdresseA": "131 جنان السهوب حي النهضة",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Asmae 2",
+    "NOM_ETABA": "اسماء 2",
+    "AdresseL": "N° 38, Bloc 1, Rfaif",
+    "AdresseA": "رقم 38، بلوك 1، الرفايف",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lina",
+    "NOM_ETABA": "لينة",
+    "AdresseL": "Lot. Errachad, Bloc 3, N° 23 -",
+    "AdresseA": "تجزئة الرشاد بلوك3 رقم23 بنصفا",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Adnane",
+    "NOM_ETABA": "عدنان",
+    "AdresseL": "Bloc 6, Lotissement Bir Anzara",
+    "AdresseA": "بلوك 6، تجزئة بئرانزران، رقم 6",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chamsse 2",
+    "NOM_ETABA": "شمس 2",
+    "AdresseL": "N° 55, Derb Annahl",
+    "AdresseA": "رقم 55، درب النحل",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NEAMAT ALLAH",
+    "NOM_ETABA": "نعمة الله",
+    "AdresseL": "87 route de fes",
+    "AdresseA": "87 طريق فاس",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HIBA",
+    "NOM_ETABA": "هيبة",
+    "AdresseL": "20 rue economique ben seffar s",
+    "AdresseA": "20الشارع الاقتصادي بنصفار صفرو",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement BOUYEKHLEF Ibnou Sinae",
+    "NOM_ETABA": "مؤسسة بويخلف ابن سينا",
+    "AdresseL": "N° 70, Avenue Lahcen Lyoussi -",
+    "AdresseA": "رقم 70، شارع لحسن اليوسي - صفر",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE JASMIN",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "N° 98 Bis, Avenue Yacoub El Ma",
+    "AdresseA": "رقم 98 مكرر، شارع يعقوب المنصو",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Asmae 1",
+    "NOM_ETABA": "أسماء 1",
+    "AdresseL": "Villa Kamal, Route El Menzel -",
+    "AdresseA": "فيلا كمال، طريق المنزل - صفرو",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FORAT",
+    "NOM_ETABA": "الفرات",
+    "AdresseL": "N° 99, Route El Menzel - Sefro",
+    "AdresseA": "رقم 99، طريق المنزل - صفرو",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Cerises",
+    "NOM_ETABA": "حب الملوك",
+    "AdresseL": "N° 127, Route de Fès",
+    "AdresseA": "رقم 127، طريق فاس",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Achorouk",
+    "NOM_ETABA": "الشروق",
+    "AdresseL": "N° 61, Hay  Amghar Massay Rfai",
+    "AdresseA": "رقم 61، حي أمغار، مساي الرفايق",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MODERNE AL AMAL",
+    "NOM_ETABA": "المدرسة الحديثة الأمل",
+    "AdresseL": "route el menzal",
+    "AdresseA": "طريق المنزل",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EPEP",
+    "NOM_ETABA": "المدرسة التربوية للتعليم الخصوصي",
+    "AdresseL": "42lotissement assalam quartier",
+    "AdresseA": "42 تجزئة السلام حي السلاوي",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BASSATIN HABLAMLOUK",
+    "NOM_ETABA": "بساتين حب الملوك",
+    "AdresseL": "28 hay rfayef sefrou",
+    "AdresseA": "حي الرفايف تجزئة مريم رقم 28",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAYT EL HIKMA",
+    "NOM_ETABA": "بيت الحكمة",
+    "AdresseL": "136 rue el ouard hjar el houar",
+    "AdresseA": "136 حجر الهواري زنقة الورد صفر",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SCHOOL HIBA",
+    "NOM_ETABA": "هبة سكول",
+    "AdresseL": "78rue ibn zaudoune habouna",
+    "AdresseA": "78ابن زيدون حبونة",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAB MOLOUK HADITA",
+    "NOM_ETABA": "حب الملوك الحديثة",
+    "AdresseL": "98 rue yakoub el mansour",
+    "AdresseA": "98 شارع يعقوب المنصور",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZAHRAT LE JASMIN",
+    "NOM_ETABA": " زهرة لوجاسمان بريفي",
+    "AdresseL": "182 av yaakoub elmanssour sefr",
+    "AdresseA": "182 شارع يعقوب المنصور صفرو",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "skouri",
+    "NOM_ETABA": "السكوري",
+    "AdresseL": "NULL",
+    "AdresseA": "جنان السكوري. رقم 88. بنصفار",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OTMANE IBN AFFANE",
+    "NOM_ETABA": "عثمان بن عفان",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة السلاوي حي مساي رقم 178",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "complexe pedagogique loliveraie",
+    "NOM_ETABA": "المركب التربوي بستان الزيتون",
+    "AdresseL": "rue njamena hay massay sefrou",
+    "AdresseA": "زنقة نجامينا ش الشنوسي حي مساي",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anachae assaaid",
+    "NOM_ETABA": "النشىء الصاعد",
+    "AdresseL": "118.rue ibn joubir.habbouna",
+    "AdresseA": "زنقة ابن جبير رقم 118 حبونة",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Hamza",
+    "NOM_ETABA": "حمزة",
+    "AdresseL": "Av.bnou sinae.rue219.n°1.hay m",
+    "AdresseA": "شارع ابن سينا. زنقة 219.رقم1.ح",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al ithar",
+    "NOM_ETABA": "مؤسسة الإيثار",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 539بلوك أ بنصفار",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kawtar el oula",
+    "NOM_ETABA": "كوثر الاولى",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم250/290 امكموش حي السلام",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al akhawayn",
+    "NOM_ETABA": "مؤسسة الاخوين",
+    "AdresseL": "NULL",
+    "AdresseA": "حرف أ بنصفاررقم 361",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "euclide",
+    "NOM_ETABA": "أكليد",
+    "AdresseL": "villa 125 hay Ennasser RTE El ",
+    "AdresseA": "فيلا رقم 125 تجزئة النصر طريق ",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "1.2.3 soleilE",
+    "NOM_ETABA": "1.2.3 سولاي بريفي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 41 طريق فاس",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Hiba 2",
+    "NOM_ETABA": "هبة 2 للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 15 السكن الاقتصادي بنصفار",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole nour de l enseignement",
+    "NOM_ETABA": "مؤسسة نور للتعليم  الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "رقم 14 تجزئة اليزيد للا يزة ",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "l escalade des competences",
+    "NOM_ETABA": "إسكلاد ديكمبتونس",
+    "AdresseL": "",
+    "AdresseA": "65 تجزئة مبروكة  الرفايف صفرو ",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les bourgeons du jasmin",
+    "NOM_ETABA": "براعم الياسمين",
+    "AdresseL": "NULL",
+    "AdresseA": " رقم96 شارع يعقوب المنصور",
+    "COMMUNE": "Sefrou ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

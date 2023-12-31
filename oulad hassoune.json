@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN BATTOTA",
+    "NOM_ETABA": "الثانوية الاعدادية ابن بطوطة",
+    "AdresseL": "COMMUNE RURAL OULAD HASSOUNE",
+    "AdresseA": "جماعة اولاد حسون",
+    "COMMUNE": "Oulad Hassoune",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OUAD LAHJAR CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس واد الحجر المركزية",
+    "AdresseL": "OUAD LAHJAR CR OULAD HASSOUNE PROV MARRAKECH",
+    "AdresseA": "واد الحجر جماعة أولاد حسون",
+    "COMMUNE": "Oulad Hassoune",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR BAKKA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس دار باقة المركزية",
+    "AdresseL": "DAR BAKKA CR OULAD HASSOUNE PROV MARRAKECH",
+    "AdresseA": "دار باقة جماعة اولاد حسون",
+    "COMMUNE": "Oulad Hassoune",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD JALLAL CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس اولاد جلال المركزية",
+    "AdresseL": "DOUAR OULAD JALLAL CR OULAD HASSOUNE PR MKECH",
+    "AdresseA": "دوار اولاد جلال جماعة اولاد حسون",
+    "COMMUNE": "Oulad Hassoune",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD MAZZOUG CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس اولاد مزوك المركزية",
+    "AdresseL": "DOUAR OULAD MAZZOUG CR OULAD HASSOUNE PR MKECH",
+    "AdresseA": "دوار اولاد مزوك جماعة اولاد حسون مراكش",
+    "COMMUNE": "Oulad Hassoune",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

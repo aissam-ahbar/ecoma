@@ -1,0 +1,172 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN II",
+    "NOM_ETABA": "الثانوية الأعدادية حسن التاني",
+    "AdresseL": "ZOUMICZOUMIouezzane",
+    "AdresseA": "مركز زومي جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL HABBAJINE",
+    "NOM_ETABA": "الثانوية الأعدادية الهباجين",
+    "AdresseL": "DOUAR EL HABBAJINE COMMUNE ZOUMI",
+    "AdresseA": "دوار الهباجين جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ecole ANWAL",
+    "NOM_ETABA": "مدرسة أنوال",
+    "AdresseL": "ZOUMI par ouizzane",
+    "AdresseA": "زومي المركز جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED IBN ABDALLAHE",
+    "NOM_ETABA": "م.م محمد بن عبد الله",
+    "AdresseL": "DOUAR ALHABBAJINE COMMUNE ZOUMI",
+    "AdresseA": "دوار الهباجين جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDELLAH ALHABTI",
+    "NOM_ETABA": "م م عبد الله الهبطي",
+    "AdresseL": "DOUAR NEFZI COMMUNE ZOUMI PROVINCE OUEZZANE",
+    "AdresseA": "دوار نفزي جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GRAINOU",
+    "NOM_ETABA": "م م كراينو",
+    "AdresseL": "DOUAR GRAINOUCZOUMI OUAZZANE",
+    "AdresseA": "دوار كراينو جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BIRE ANEZARANE",
+    "NOM_ETABA": "م.م بئر انزران",
+    "AdresseL": "LHAD ALJOHRA C ZOUMI OUEZZANE",
+    "AdresseA": "الاحد الجحرة جماعة زومي اقليم وزان",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TEMLA",
+    "NOM_ETABA": "م م تملة",
+    "AdresseL": "DOUAR TEMLACZOUMI ouezzane",
+    "AdresseA": "دوار تملة جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDALLAH ELCHEFECHAOUENI",
+    "NOM_ETABA": "م.م عبد الله الشفشاوني",
+    "AdresseL": "DOUAR AASSARA C ZOUMI ouazzanE",
+    "AdresseA": "دوار اعسارة - جماعة زومي - وزان",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOULAY ISSMAIL",
+    "NOM_ETABA": "م/م مولاي اسماعيل",
+    "AdresseL": "DOUAR AL ANSSAR COMMUNE ZOUMI OUEZZane",
+    "AdresseA": "دوار العنصر جماعة زومي وزان",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALOUAHDA",
+    "NOM_ETABA": "م/م الوحدة",
+    "AdresseL": "DOUAR TAGHNIT C ZOUMI OUEZZANE",
+    "AdresseA": "دوار تغنيت جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Mohammed Larbi Messari",
+    "NOM_ETABA": "مجموعة مدارس محمد العربي المساري",
+    "AdresseL": "DOUAR LKCHACHDA ZOUMI",
+    "AdresseA": "دوار القشاشدة جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LALA MEREYEME",
+    "NOM_ETABA": "م م للا مريم",
+    "AdresseL": "DOUAR HARRAKA COMMUNE ZOUMI ",
+    "AdresseA": "دوار حراقة جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI MOHAMED AL AREBI",
+    "NOM_ETABA": "م/م سيدي محمدالعربي",
+    "AdresseL": "DOUAR AIN KBIR C ZOUMI ouezzane",
+    "AdresseA": "دوار عين كبير جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL MOWAHIDINE",
+    "NOM_ETABA": "م/م الموحدين",
+    "AdresseL": "DOUAR AL JOHRA ZOUMI",
+    "AdresseA": "دوار الجحرة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT MOHAMED V ",
+    "NOM_ETABA": "الثانوية التأهيلية محمدالخامس",
+    "AdresseL": "commune zoumi province ouazzane ",
+    "AdresseA": "مركز زومي جماعة زومي",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AMMOURI",
+    "NOM_ETABA": "مجموعة مدارس عموري",
+    "AdresseL": "CENTRE ZOUMI",
+    "AdresseA": "مركز زومي ، وزان ",
+    "COMMUNE": "Zoumi",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

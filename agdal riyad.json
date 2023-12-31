@@ -1,0 +1,622 @@
+[
+  {
+    "NOM_ETABL": "MOUAD BEN JABEL",
+    "NOM_ETABA": "معاد بن جبل",
+    "AdresseL": "26 RUE BEN TAIB EL ALAMI HAY ELMANARE AGDAL RIAD",
+    "AdresseA": "26 زنقة الزياني ـ حي المنار ـ أكدال الرياض",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL IMAM ALBOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "AV BINE ALOUIDANE AGDAL RIAD",
+    "AdresseA": "شارع بين الويدان أكدال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL IRFANE",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "AV BENABDELLAH RAGRAGUI MADINAT ALIRFAN AGDAL RIAD",
+    "AdresseA": "شارع  بنعيد الله الركراكي مدينة العرفان - أكدال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN TOUFAIL",
+    "NOM_ETABA": "ابن طفيل",
+    "AdresseL": "AV MED ELYAZIDI READ AGDAL",
+    "AdresseA": "شارع محمد اليازيدي القطاع 9 حي الرياض",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ELMANDARE ALJAMILE",
+    "NOM_ETABA": "المنظر الجميل",
+    "AdresseL": "RUE INTSRABI AGDAL RABAT",
+    "AdresseA": "زنقة انتسرابي أكدال الرباط",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID BNO EL WALIDE",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "SECTEUR 6 RUE ARACHISE HAY RIAD READ AGDAL",
+    "AdresseA": "مدرسة خالد بن الوليد سكتور 6 زنقة الأرجوان حي الري",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ALLAYMOUNE",
+    "NOM_ETABA": " الليمون  ",
+    "AdresseL": "RUE DESCART HAY ALLAYMOUNE RIYAD AGDAL",
+    "AdresseA": "زنقة ديكارت حي الليمون أكدال الرياض",
+    "COMMUNE": "Agdal Riyad ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " LA PRINCESSE LALLA NEZHA",
+    "NOM_ETABA": "الأميرة للا نزهة",
+    "AdresseL": "AV Jean Jaures les orangers Riad AGDAL",
+    "AdresseA": "شارع جون جوريس حي الليمون  أكدال الرياض",
+    "COMMUNE": "Agdal Riyad ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Omar Al-Khayyam",
+    "NOM_ETABA": "الثانوية التأهيلية عمر الخيام ",
+    "AdresseL": "AV ABDELOIHAD ELMARRAKECHI READ AGDAL",
+    "AdresseA": "شارع عبد الواحد المرا كشي أكدال الرياض",
+    "COMMUNE": "Agdal Riyad ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "CHARIF AL IDRISSI",
+    "NOM_ETABA": "الشريف الإدريسي",
+    "AdresseL": "1 AVENUE ELARRAR  HAY RIAD ",
+    "AdresseA": "رقم:1  شارع العرعار- حي الرياض",
+    "COMMUNE": "Agdal Riyad ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "CRECHE ECOLOGIQUE DE RABAT",
+    "NOM_ETABA": "الروض الإيكولوجي للرباط",
+    "AdresseL": "NULL",
+    "AdresseA": "قطاع 21، مجموعة  G ، فيلا رقم ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BABY CHOU ",
+    "NOM_ETABA": "BABY CHOU",
+    "AdresseL": "NULL",
+    "AdresseA": "4 زنقة الشافعي أكدال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES GRIMPEURS",
+    "NOM_ETABA": "LES GRIMPEURS",
+    "AdresseL": "Secteur 21 bloc K3 Etage 1 Rab",
+    "AdresseA": "سكتور 21 بلوك ك3 الطابق الأول ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RABAT LEADERS SCHOOL",
+    "NOM_ETABA": "مدرسة رواد الرباط الخصوصية",
+    "AdresseL": "ANGLE RUE AL KHAYR,RUE AL BOUZ",
+    "AdresseA": "ماتقى زنقة الخير وزنقة البوسيد",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Paul Vitry Rabat",
+    "NOM_ETABA": "مجموعة مدارس بول فتري الرباط الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "2 زنقة شعيب الدكالي حي الليمون",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE BOSQUET",
+    "NOM_ETABA": "البسكي",
+    "AdresseL": "27 avenue annasr RABAT",
+    "AdresseA": "رقم 27 شارع النصر الرباط",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La petite ecole trilingue VISION SCHOOL",
+    "NOM_ETABA": "LA PETITE ECOLE TRILINGUE VISION SCHOOL",
+    "AdresseL": "Bloc 17 N 2 HAY RIAD",
+    "AdresseA": "قطاع 17 بلوك د رقم 2 حي الرياض",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole riad alandalous",
+    "NOM_ETABA": "مدرسة رياض الأندلس",
+    "AdresseL": "RIAD ELANDALOUSS HAY EL ANDALO",
+    "AdresseA": "رياض الأندلس، حي الأندلس، حي ا",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE L ORANGERAIE",
+    "NOM_ETABA": "مدارس لغونجوغي الخصوصية",
+    "AdresseL": "N 1 Rue Ibn Zare Avenue Ibn To",
+    "AdresseA": "رقم 1 زنقة ابن زرع شارع ابن تو",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée Al-Zahrawi- Rabat",
+    "NOM_ETABA": "الأقسام التحضيرية للمدارس والمعاهد العليا الزهراوي",
+    "AdresseL": "Avenue Allal fassi Irfane",
+    "AdresseA": "شارع علال الفاسي مدينة العرفان",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION KEPLERE",
+    "NOM_ETABA": "مؤسسة كبليرالخصوصية",
+    "AdresseL": "secteur 18 n 54 avenue chajar ",
+    "AdresseA": "قطاع 18 ك5 شارع شجرة القدس حي ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HANANE ANNEXE 3",
+    "NOM_ETABA": "الحنان الملحقة 3",
+    "AdresseL": "n12 avenue abdelwahid elmorrak",
+    "AdresseA": "رقم 12 شارع عبدالواحد المراكشي",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES QUATRE TEMPS",
+    "NOM_ETABA": "GROUPE SCOLAIRE LES QUATRE TEMPS",
+    "AdresseL": "AVENUE AL BOUSTANE Riad EL And",
+    "AdresseA": "شارع البستان رياض الأندلس حي ا",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Taimount",
+    "NOM_ETABA": "تايمونت",
+    "AdresseL": "N° 41, Avenue 16 Novembre - Ag",
+    "AdresseA": "رقم 41، شارع 16 نونبر - أكدال ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Agdal",
+    "NOM_ETABA": "مجموعة مدارس أكدال",
+    "AdresseL": "N° 1, Rue Jabal Ayachi - Agdal",
+    "AdresseA": "رقم 1، زنقة جبل العياشي - أكدا",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée AL QODS ECONOMIE & lettre",
+    "NOM_ETABA": "ثانوية القدس للاقتصاد والآداب ",
+    "AdresseL": "N° 20, Rue Al Achâri, Place Ib",
+    "AdresseA": "رقم 20، زنقة الأشعري، ساحة ابن",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al madaris al Hassania",
+    "NOM_ETABA": "مجموعة المدارس الحسنية",
+    "AdresseL": "Avenue El Aaraar et Rue Filari",
+    "AdresseA": "شارع العرعار و زنقة فيلاريا، س",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RYAD AL MAARIFA",
+    "NOM_ETABA": "رياض المعرفة",
+    "AdresseL": "Avenue Jakaranda, Hay Riyad - ",
+    "AdresseA": "شارع الجكرندا، حي الرياض - أكد",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jardin d Enfants les Grenadiers",
+    "NOM_ETABA": "روض شجر الرمان",
+    "AdresseL": "N° H7, Rue Rommane, Secteur 9 ",
+    "AdresseA": "رقم H7زنقة الرمان، سكتور 9 - أ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Canaris",
+    "NOM_ETABA": "الكناري",
+    "AdresseL": "N° 19, Cité de la Garde - Agda",
+    "AdresseA": "رقم 19، حي الحرس - أكدال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Rawd Sawsen",
+    "NOM_ETABA": "روض السوسن",
+    "AdresseL": "N° 49, Avenue Abdelwahad Marra",
+    "AdresseA": "رقم 49، شارع عبد الواحد المراك",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ryad el Fayhae",
+    "NOM_ETABA": "رياض الفيحاء",
+    "AdresseL": "Avenue Abderrahim Bouadib, Sec",
+    "AdresseA": "شارع عبد الرحيم بوعبيد، قطاع 1",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Junior s Land",
+    "NOM_ETABA": " أرض الأطفال",
+    "AdresseL": "126 ,Avenue Mehdi BENERKA, Sec",
+    "AdresseA": "126 ،شارع المهدي بن بركة، قطاع",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jeanne d Arc",
+    "NOM_ETABA": "جان دارك",
+    "AdresseL": "N° 31, Avenue des Nations Unie",
+    "AdresseA": "رقم 31، شارع الأمم المتحدة - أ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mohamed Guessous",
+    "NOM_ETABA": "مؤسسة محمد جسوس",
+    "AdresseL": "Avenue Abdelwahed El Marrakchi",
+    "AdresseA": "شارع عبد الواحد المراكشي - حي ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibn Sina",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "N°9, Cité Ibn Sina, Agdal, Rab",
+    "AdresseA": "رقم 9، حي ابن سينا - أكدال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT DE L'AGDAL",
+    "NOM_ETABA": "معهد أكدال",
+    "AdresseL": "N° 27, Rue Soumya - Agdal",
+    "AdresseA": "رقم 27، زنقة سومية - أكدال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AZ El Fath",
+    "NOM_ETABA": "عز الفتح الخصوصية",
+    "AdresseL": "Rue Ibn Haoukal, Avenu Hassan ",
+    "AdresseA": "زنقة ابن حوقل، شارع الحسن الثا",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Es-saâda",
+    "NOM_ETABA": "السعادة",
+    "AdresseL": "N° 12, Avenue Oqba - Agdal",
+    "AdresseA": "رقم 12، شارع عقبة - أكدال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Badr",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "N° 32, Avenue Ibn Toumert - le",
+    "AdresseA": "رقم 32، شارع ابن تومرت - حي ال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASTERIX",
+    "NOM_ETABA": "أستريكس",
+    "AdresseL": "N° 84, Avenue Kamal Zebdi . Se",
+    "AdresseA": "رقم 84، شارع كمال الزبدي - حي ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Notre Dame De La Paix",
+    "NOM_ETABA": "سيدتنا مريم للسلام",
+    "AdresseL": "N° 6, Rue Aguelmane Sidi Ali -",
+    "AdresseA": "رقم 6، زنقة أكلمان سيدي علي - ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Les Iris",
+    "NOM_ETABA": "مؤسسة السوسن",
+    "AdresseL": "N° 10, Rue Akansous - Les Oran",
+    "AdresseA": "10 زنقة أكنسوس حي الليمون الرب",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "THOMAS EDISON",
+    "NOM_ETABA": "توماس إديسون",
+    "AdresseL": "N° 18, Rue Al Farabi - Les Ora",
+    "AdresseA": "رقم 18، زنقة الفارابي - الليمو",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BELBACHIR",
+    "NOM_ETABA": "مؤسسة ابن البشير",
+    "AdresseL": "Avenue El Hour, Secteur 7 - Ha",
+    "AdresseA": "شارع الحور، قطاع 7 - حي الرياض",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Pasteur",
+    "NOM_ETABA": " باستور",
+    "AdresseL": "A2  aVENUE Pasteur  LES ORANGE",
+    "AdresseA": " أ-2، شارع باستور، حي الليمون",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AU PRESENT",
+    "NOM_ETABA": "مؤسسة الحاضر",
+    "AdresseL": " 10, Rue Abdelwahed El Marrako",
+    "AdresseA": "رقم 10، زنقة عبد الواحد المراك",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hanane",
+    "NOM_ETABA": "الحنان",
+    "AdresseL": "N°23, Bd Abdelwahid Al Marrakc",
+    "AdresseA": "رقم23، شارع عبد الواحد المراكش",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole la petite clairiere",
+    "NOM_ETABA": "المضاء ة الصغيرة",
+    "AdresseL": "27 avenue pasteur_ les oranger",
+    "AdresseA": "27 شارع باستور - الليمون",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annexe les iris",
+    "NOM_ETABA": "ملحقة السوسن",
+    "AdresseL": "6, Rue Ibn zAkour les orangers",
+    "AdresseA": "6، زنقة بن زاكور حي الليمون",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LALLA ASMAA POUR ENFANTS SOURDS",
+    "NOM_ETABA": "مؤسسة للا أسماء للأطفال الصم",
+    "AdresseL": "av ben abdellah regragui madin",
+    "AdresseA": "شارع ابن عبدالله الركراكي مدين",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Collége scientifique",
+    "NOM_ETABA": "الا عدادية العلمية",
+    "AdresseL": "10 RUE JAAFER ESSEDIK AGDAL",
+    "AdresseA": "10زنقة جعفر الصديق أكدال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RYAD ANNAKHIL",
+    "NOM_ETABA": "رياص النخيل",
+    "AdresseL": "secteru 16 bloc i n°8 hay riad",
+    "AdresseA": "قطاع 16 بلوك إي رقم 8 زاقة بند",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole emile kids",
+    "NOM_ETABA": "مؤسسة إميل كيدس",
+    "AdresseL": "20 RUE HAMZA AGDAL RABAT",
+    "AdresseA": "رقم 20 زنقة حمزة",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN Al GHAZI",
+    "NOM_ETABA": "ابن الغازي",
+    "AdresseL": "n°11 RUE MEZIATA SOUISSI RABAT",
+    "AdresseA": "  رقم 11 زنقة مزياتة حيا السوي",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE ETAB. EL HANANE",
+    "NOM_ETABA": "ملحقة مؤسسة الحنان",
+    "AdresseL": "6 RUE IBN SAID AL MOGHRABI ORA",
+    "AdresseA": "رقم 6 زنقة ابن سغيد المغربي",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES IRIS  II  ANNEXE",
+    "NOM_ETABA": "ملحقة سوسن الثانية",
+    "AdresseL": "41 AV ABDELWAHED AL MORRAKOCHI",
+    "AdresseA": "41 زنقة عبدالواحد المراكشي الل",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS louis le grand",
+    "NOM_ETABA": "مجموعة مدارس لويس لوكران",
+    "AdresseL": "avenue france rue toubkal 43  ",
+    "AdresseA": "43 ملتقى شارع فرنسا زنقة توبقا",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les capucines",
+    "NOM_ETABA": "لي كابوسين",
+    "AdresseL": "17 rue  dayet  ifrah  rabat -a",
+    "AdresseA": "زنقة ضاية إفراح رقم 17",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Paul Vitry Les Orangers",
+    "NOM_ETABA": "مجموعة مدارس بول فتري الليمون الحصوصية",
+    "AdresseL": "8 Rue abou abass EL GUERRAOUI ",
+    "AdresseA": "رقم 8 زنقة أبو عباس الكراوي ال",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annexe au present maternelle",
+    "NOM_ETABA": "ملحقة مؤسسة الحاضر للتعليم الأولي",
+    "AdresseL": "15 rue abdelwahed marrakchi",
+    "AdresseA": "15 زنقة عبد الواحد المراكشي",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el hanane annexe 2",
+    "NOM_ETABA": "الحنان الملحقة 2",
+    "AdresseL": "rue 8 ibn said al maghribi,les",
+    "AdresseA": "رقم8 زنقة ابن سعيد المغربي حي ",
+    "COMMUNE": "Agdal Riyad",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

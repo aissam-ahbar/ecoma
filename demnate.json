@@ -1,0 +1,152 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ISMAIL",
+    "NOM_ETABA": "ثانوية مولاي اسماعيل الإعدادية",
+    "AdresseL": "CENTRE DEMNATE",
+    "AdresseA": "مركز دمنات",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY YOUSSEF",
+    "NOM_ETABA": "ثانوية مولاي يوسف الإعدادية",
+    "AdresseL": "DEMNATE CENTRE",
+    "AdresseA": "مركز دمنات",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOUMMANE EL FATOUAKI ",
+    "NOM_ETABA": "ثانوية حمان الفطواكي الإعدادية",
+    "AdresseL": "DEMNATE CENTRE",
+    "AdresseA": "مركز دمنات",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  IGHIR",
+    "NOM_ETABA": "ثانوية إغير الإعدادية",
+    "AdresseL": "Quartier IGHIR",
+    "AdresseA": "حي إغير ",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MIMOUNA",
+    "NOM_ETABA": "مدرسة ميمونة",
+    "AdresseL": "BOULEVARD ENNASR ",
+    "AdresseA": "شارع النصر ",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HAY ESSONAA",
+    "NOM_ETABA": "مدرسة حي الصناع",
+    "AdresseL": "HAY ESSONAA",
+    "AdresseA": "حي الصناع ",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CENTRALE DEMNATE",
+    "NOM_ETABA": "المدرسة المركزية دمنات",
+    "AdresseL": "HAY ighir ",
+    "AdresseA": "حي إغير ",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AMZIZEL",
+    "NOM_ETABA": "مدرسة امزيزل",
+    "AdresseL": "quartier tizeghte",
+    "AdresseA": "حي تيزغت  ",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TIGHARMINE",
+    "NOM_ETABA": "مدرسة تغرمين",
+    "AdresseL": "hay el bankite tigharmine",
+    "AdresseA": "حي البانكيت تغرمين ",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE WARITZDIGUE",
+    "NOM_ETABA": "مدرسة واريتزديك",
+    "AdresseL": "QUARTIER WARITZDIGUE ",
+    "AdresseA": " حي واريتزديك ",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  WARITZDIGUE2",
+    "NOM_ETABA": "مدرسة واريتزديك2",
+    "AdresseL": "QUARTIER   WARITZDIGUE DEMNATE",
+    "AdresseA": "حي  واريتزديك دمنات",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DEMNATE ",
+    "NOM_ETABA": "ثانوية دمنات التأهيلية",
+    "AdresseL": "QUARTIER IGHIR TIRSAL",
+    "AdresseA": "حي إغير ترسال",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT YOUSSEF IBN TACHFINE",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين التأهيلية",
+    "AdresseL": "QUARTIER OUARITZDIGUE ",
+    "AdresseA": "حي واريتزديك ",
+    "COMMUNE": "Demnate",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ELENA",
+    "NOM_ETABA": "إلينا",
+    "AdresseL": "AIT HLILI IHANAOUN dEMNATE",
+    "AdresseA": "حي  أيت حليلي إحناون  دمنات",
+    "COMMUNE": "Demnate ",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOUJAZINE",
+    "NOM_ETABA": "مجازين",
+    "AdresseL": "NULL",
+    "AdresseA": "حي اغير اكادين دمنات",
+    "COMMUNE": "Demnate ",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

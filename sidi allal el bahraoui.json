@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "MOULAY DRISS",
+    "NOM_ETABA": "مولاي ادريس",
+    "AdresseL": "hay riyade II   SIDI ALLAL BAHRAOUI",
+    "AdresseA": "حي الرياض 2سيدي علال البحراوي ",
+    "COMMUNE": "Sidi Allal El Bahraoui",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMAM GHAZALI",
+    "NOM_ETABA": "الامام الغزالي",
+    "AdresseL": " sidi allal bahraoui",
+    "AdresseA": " سيدي علال البحراوي",
+    "COMMUNE": "Sidi Allal El Bahraoui",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALLAL BAHRAOUI",
+    "NOM_ETABA": "علال البحراوي",
+    "AdresseL": "CENTRE ALLAL BAHRAOUI",
+    "AdresseA": "مركز سيدي علال البحراوي تيفلت الخميسات",
+    "COMMUNE": "Sidi Allal El Bahraoui",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAKANA",
+    "NOM_ETABA": "الثكنة",
+    "AdresseL": "hay pam  ALLAL BAHRAOUI",
+    "AdresseA": "حي بام علال البحراوي",
+    "COMMUNE": "Sidi Allal El Bahraoui",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ALLAL EL BAHRAOUI",
+    "NOM_ETABA": "سيدي علال البحراوي",
+    "AdresseL": "SIDI ALLAL EL BAHRAOUI CENTRE",
+    "AdresseA": "سيدي علال البحراوي المركز",
+    "COMMUNE": "Sidi Allal El Bahraoui",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "G.Se Ibdaa Al Maarifa",
+    "NOM_ETABA": "م.م إبداع المعرفة",
+    "AdresseL": "",
+    "AdresseA": "رقم 50 و52 تجزئة زاهد1",
+    "COMMUNE": "Sidi Allal El Bahraoui ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les perles de zillie",
+    "NOM_ETABA": "LES PERLES DE ZILLIE",
+    "AdresseL": "جواهر زيلي مؤسسة التعليم الخصو",
+    "AdresseA": "حي المنزه سيدي علال البحراوي",
+    "COMMUNE": "Sidi Allal El Bahraoui ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD AL AQSAE",
+    "NOM_ETABA": "رياض الأقصى الخصوصية",
+    "AdresseL": "RYAD 2 N17 EQ SIDI ALLAL BAHRA",
+    "AdresseA": "سيدي علال البحراوي  eq رقم 17 ",
+    "COMMUNE": "Sidi Allal El Bahraoui ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARISS ANNOUR ALHADITA",
+    "NOM_ETABA": "مدارس النور الحديثة",
+    "AdresseL": "hay pam n 240 sidi allal bahra",
+    "AdresseA": "رقم 240 حي بام سيدي علال البحر",
+    "COMMUNE": "Sidi Allal El Bahraoui ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUDOUR EL MAARIF",
+    "NOM_ETABA": "بدور المعارف",
+    "AdresseL": "309,lot chenna ,hay nahda",
+    "AdresseA": "309،تجزئة الشنة،حي النهضة",
+    "COMMUNE": "Sidi Allal El Bahraoui ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire la capitale",
+    "NOM_ETABA": "مجموعة مدارس العاصمة",
+    "AdresseL": "sidi allal el bahraoui centre",
+    "AdresseA": "سيدي علال البحراوي  المركز",
+    "COMMUNE": "Sidi Allal El Bahraoui ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire bourj tousna",
+    "NOM_ETABA": "برج توسنا",
+    "AdresseL": "E08 Rue Jnane Sidi Allal Bahra",
+    "AdresseA": " رقم E08 شارع جنان سيدي علال ا",
+    "COMMUNE": "Sidi Allal El Bahraoui ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

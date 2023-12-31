@@ -1,0 +1,212 @@
+[
+  {
+    "NOM_ETABL": "JABER BNOU HAYAN",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "BOITE POSTALE 82 SIDI YAHYA SIDI SLIMANE",
+    "AdresseA": "صندوق البريد82سيدي يحيى الغرب ",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN YACINE",
+    "NOM_ETABA": "ابن  ياسين",
+    "AdresseL": "QUARTIER el ouahda",
+    "AdresseA": "حي الوحدة 1 ",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM MALEK",
+    "NOM_ETABA": "مدرسة الإمام مالك",
+    "AdresseL": "RUE ABDELKARIM KHATTABI COMMUNE SIDI YAHYA LGHAR",
+    "AdresseA": "زنقة عبدالكريم الخطابي جماعة سيدي يحيى الغرب",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAHID BELAKSSIS",
+    "NOM_ETABA": "مدرسة الشهيد بلقصيص",
+    "AdresseL": "av allal ben abdellah COMMUNE SIDI YAHYA LGHAREB",
+    "AdresseA": "شارع علال بن عبد الله جماعة سيدي يحيى الغرب  ",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALI IBN ABI TALEB",
+    "NOM_ETABA": "مدرسة علي بن أبي طالب",
+    "AdresseL": "AVENUE elqadi COMMUNE SIDI YAHYA LGHAREB",
+    "AdresseA": "شارع القاضي جماعة سيدي يحيى الغرب",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM CHAFII",
+    "NOM_ETABA": "مدرسة الإمام الشافعي",
+    "AdresseL": "AV GENDARMERIE ROYALE COMMUNE SIDI YAHYA LGHAREB",
+    "AdresseA": "شارع الدرك الملكي جماعة سيدي يحيى الغرب",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BIR ANZARANE",
+    "NOM_ETABA": "مدرسة بئر أنزران",
+    "AdresseL": "AVENUE tiflet COMMUNE SIDI YAHYA LGHAREB  ",
+    "AdresseA": "شارع تيفلت بلدية سيدي يحيى الغرب",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM IBNOU HANBAL",
+    "NOM_ETABA": "مدرسة الإمام ابن حنبل",
+    "AdresseL": "hay ennahda COMMUNE sidi yahia du gharb",
+    "AdresseA": "حي النهضة جماعة سيدي يحيى الغرب",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE IMAM EL GHAZALI",
+    "NOM_ETABA": "مدرسة الإمام الغزالي",
+    "AdresseL": "AVENUE MOHAMED V SIDI YAHYA",
+    "AdresseA": "شارع محمد الخامس سيدي يحيى الغرب",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI HANIFA NOMANE",
+    "NOM_ETABA": "مدرسة أبي حنيفة النعمان",
+    "AdresseL": "hay al idari SIDI YAHIA LGHARB",
+    "AdresseA": "الحي الإداري سيدي يحيى الغرب",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ZEIDOUN",
+    "NOM_ETABA": "ابن زيدون",
+    "AdresseL": "SIDI YAHYA ALGHARB",
+    "AdresseA": "سيدي يحيى الغرب",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELHADI BOUTALEB",
+    "NOM_ETABA": "عبد الهادي بوطالب",
+    "AdresseL": "HAY EL FATH",
+    "AdresseA": "حي الفتح",
+    "COMMUNE": "Sidi Yahya El Gharb",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "SAFWAT EL GHARB",
+    "NOM_ETABA": "صفوة الغرب",
+    "AdresseL": "lot n°1 grp2 bloc j hay el wah",
+    "AdresseA": "الرقم 1 المجموعة 2 بلوك ج حي ا",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHBAL ALMOSTAKBAL",
+    "NOM_ETABA": "أشبال المستقبل",
+    "AdresseL": "hay alwahda 1 groupe 5 bloc d ",
+    "AdresseA": "حي الوحدة 1 مجموعة 5 بلوك د رق",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AKHLAQ AL FADILA",
+    "NOM_ETABA": "الأخلاق الفضيلة",
+    "AdresseL": "al fath rue bno yassine n°135 ",
+    "AdresseA": "تجزئة الفتح زنقة بن ياسين رقم ",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALBARAIIM",
+    "NOM_ETABA": "البراعم",
+    "AdresseL": "Avenue ibn yassine groupe elou",
+    "AdresseA": "شارع ابن ياسين مج الوحدة 3 سيد",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OURIOUR",
+    "NOM_ETABA": "أوريور",
+    "AdresseL": "hay elwahda bloc e groupe 7 n ",
+    "AdresseA": "hay elwahda bloc e groupe 7 n ",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA CLEMENCE ",
+    "NOM_ETABA": "لاكليمونس",
+    "AdresseL": "hay alwahda 2 bloc c n°15 grou",
+    "AdresseA": "حي الوحدة 2 بلوك س رقم 15 المج",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MARJ EZZOHOUR ",
+    "NOM_ETABA": "مرج الزهور ",
+    "AdresseL": "hay el fath rue maarakate zell",
+    "AdresseA": "حي الفتح زنقة معركة الزلاقة رق",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNOUR ATARBAOUI",
+    "NOM_ETABA": "النور التربوي",
+    "AdresseL": "rue imam malek n°37 COMMUNE si",
+    "AdresseA": "زنقة الإمام مالك رقم 37 جماعة ",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HADAEIK AL MAARIFA",
+    "NOM_ETABA": "حدائق المعرفة",
+    "AdresseL": "MADKHAL DOUAR CHANTI HAY ENNAH",
+    "AdresseA": "مدخل دوار الشانطي حي النهضة جم",
+    "COMMUNE": "Sidi Yahya El Gharb ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

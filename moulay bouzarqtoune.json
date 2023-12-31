@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS MOULAY BOUZERKTOUN ",
+    "NOM_ETABA": "م.م. مولاي بوزرقطون",
+    "AdresseL": "DOUAR LAMAACHAT ELKHARROUBA 1 MOULAY BOUZERKTOUN",
+    "AdresseA": "دواربن سيعود مولاي بوزرقطون",
+    "COMMUNE": "Moulay Bouzarqtoune",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OUM LAAYOUN",
+    "NOM_ETABA": "م م ام العيون",
+    "AdresseL": "DOUAR ait tahria commune MOULAY BOUZERKTOUN",
+    "AdresseA": "دوار ايت تاهرية جماعة مولاي بوزرقطون",
+    "COMMUNE": "Moulay Bouzarqtoune",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

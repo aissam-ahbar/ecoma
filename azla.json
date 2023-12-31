@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ALI IBN ABI TALIB",
+    "NOM_ETABA": "الثانوية الإعدادية علي بن أبي طالب",
+    "AdresseL": "COMMUNE AZLA AZLA",
+    "AdresseA": " جماعة أزلا . أزلا",
+    "COMMUNE": "Azla",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS KNIKRA",
+    "NOM_ETABA": "م.م قنيقرة",
+    "AdresseL": " route azla DOUAR KNIKRA AZLA TETOUAN  ",
+    "AdresseA": "طريق أزلا . دوار قنيقرة. جماعة أزلا",
+    "COMMUNE": "Azla",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR ALALOU",
+    "NOM_ETABA": "م.م دار اعلالو",
+    "AdresseL": "DOUAR DAR ALALOU ROUTE AZLA  TETOUAN",
+    "AdresseA": "طريق أزلا. دوار دار اعلالو.  جماعة أزلا",
+    "COMMUNE": "Azla",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZLA",
+    "NOM_ETABA": "م.م أزلا",
+    "AdresseL": "CENTRE DE AZLA COMMUNE AZLA  TETOUAN",
+    "AdresseA": "جماعة أزلا",
+    "COMMUNE": "Azla",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBN ZOHR",
+    "NOM_ETABA": "الثانوية التأهيلية ابن زهر",
+    "AdresseL": "sidi abdesslam Azla",
+    "AdresseA": "سيدي عبد السلام أزلا ",
+    "COMMUNE": "Azla",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

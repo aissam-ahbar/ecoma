@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAMAZOUZTE",
+    "NOM_ETABA": " الثانوية الإعدادية تمازوزت",
+    "AdresseL": "CENTRE DE LA COMMUNE TAMAZOUZTE",
+    "AdresseA": "مركز جماعة تمازوزت",
+    "COMMUNE": "Tamazouzte",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRETAMAZOUZTE",
+    "NOM_ETABA": "مجموعة مدارس تمازوزت",
+    "AdresseL": "SS TAMAZOUZTE COMMUNE TAMAZOUZTE CAIDAT SIDI ABDEL",
+    "AdresseA": "م/م تمازوزت جماعة تمازوزت قيادة سيدى عبد الله غياث",
+    "COMMUNE": "Tamazouzte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZETOULA",
+    "NOM_ETABA": "زطولة",
+    "AdresseL": "DOUAR ZTOULA COMMUNE TAMAZOUZTE",
+    "AdresseA": "دوار زطولة جماعة تمازوزت قيادة سيدي غيات",
+    "COMMUNE": "Tamazouzte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUAOUIDE",
+    "NOM_ETABA": "بوعويد",
+    "AdresseL": "DOUAR BOUAAOUID COMMUNE TAMAZOUZTE",
+    "AdresseA": "دوار بوعويد جماعة تمازوزت",
+    "COMMUNE": "Tamazouzte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAOUINA",
+    "NOM_ETABA": "لعوينة",
+    "AdresseL": "DOUAR LAAOUINA COMMUNE TAMAZOUZTE",
+    "AdresseA": "دوار لعوينة جماعة تمازوزت",
+    "COMMUNE": "Tamazouzte",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

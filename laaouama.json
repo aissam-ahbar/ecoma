@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELGUERGARAT",
+    "NOM_ETABA": "الثانوية الإعدادية الكركرات",
+    "AdresseL": "GOUARETTE  AOUAMA",
+    "AdresseA": "الكوارت - العوامة ",
+    "COMMUNE": "Laaouama",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE GOUARET",
+    "NOM_ETABA": "المجموعة المدرسية أكَوارت",
+    "AdresseL": "aouama",
+    "AdresseA": "العوامة",
+    "COMMUNE": "Laaouama",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE DAIMOUSSE",
+    "NOM_ETABA": "المجموعة المدرسية الديموس",
+    "AdresseL": "daymous",
+    "AdresseA": "الديموس جماعة العوامة",
+    "COMMUNE": "Laaouama",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BACHAIR ALMOSTAKBAL",
+    "NOM_ETABA": "بشائر المستقبل",
+    "AdresseL": "MADCHAR MENBAR",
+    "AdresseA": "مدشر المنبر",
+    "COMMUNE": "Laaouama",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOSTAKBAL NASSIM ",
+    "NOM_ETABA": "مستقبل النسيم",
+    "AdresseL": "madchar daymouss",
+    "AdresseA": "مدشر الديموس",
+    "COMMUNE": "Laaouama",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

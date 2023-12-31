@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "IHAMOUTEN CENTRE",
+    "NOM_ETABA": "إحموتن المركز",
+    "AdresseL": "DOUAR IHAMOUTEN COMMUNE GZENNAYA ",
+    "AdresseA": "دوار إحموتن جماعة أكزناية",
+    "COMMUNE": "Gzenaya Al Janoubia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "",
+    "NOM_ETABA": "",
+    "AdresseL": "",
+    "AdresseA": "",
+    "COMMUNE": "Gzenaya Al Janoubia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIGHAZRATINE CENTRE",
+    "NOM_ETABA": "تغزراتين المركز",
+    "AdresseL": "DOUAR TIGHAZRATINE COMMUNE GZENNAYA",
+    "AdresseA": "دوار تغزراتين جماعة أكزناية",
+    "COMMUNE": "Gzenaya Al Janoubia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GZANAYA CENTRE",
+    "NOM_ETABA": "أكزناية المركز",
+    "AdresseL": "DOUAR GZENNAYA COMMUNE GZENNAYA",
+    "AdresseA": "دوار أكزناية جماعة أكزناية",
+    "COMMUNE": "Gzenaya Al Janoubia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

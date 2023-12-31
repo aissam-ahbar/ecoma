@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S AHMED ALMANSSOUR DAHBI",
+    "NOM_ETABA": "م م احمد المنصور الذهبي",
+    "AdresseL": "ADAY CENTRE COMMUNE ADAY",
+    "AdresseA": "اداي المركز  جماعة اداي",
+    "COMMUNE": "Aday",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S WAWMALOUKT",
+    "NOM_ETABA": "م م واوملوكت",
+    "AdresseL": "DOUAR WAWMALOUKT COMMUNE ADAY",
+    "AdresseA": "دوار واوملوكت  جماعة اداي",
+    "COMMUNE": "Aday",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ADAY",
+    "NOM_ETABA": "الثانوية التأهيلية أداي",
+    "AdresseL": " ADAY CENTRE",
+    "AdresseA": "اداي المركز",
+    "COMMUNE": "Aday",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN TOUMERT",
+    "NOM_ETABA": "ثانوية ابن تومرت الإعدادية",
+    "AdresseL": "commune belyounech",
+    "AdresseA": "جماعة بليونش",
+    "COMMUNE": "Belyounech",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BNI MZALA",
+    "NOM_ETABA": "م.م بني مزالة",
+    "AdresseL": "DOUAR BNI MZALA haut",
+    "AdresseA": "دوار بني مزالة ، العليا",
+    "COMMUNE": "Belyounech",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IBN LYASSAMINE",
+    "NOM_ETABA": "الثانوية الإعدادية ابن الياسمين",
+    "AdresseL": "CR SOUK KDIM",
+    "AdresseA": "جماعة السوق لقديم",
+    "COMMUNE": "Souk Kdim",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BOUNAZAL",
+    "NOM_ETABA": "م.م بونزال",
+    "AdresseL": "DOUAR BOUNAZAL SOUK KDIM",
+    "AdresseA": "دوار بونزال جماعة السوق القديم",
+    "COMMUNE": "Souk Kdim",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR DMANA AL HRRA",
+    "NOM_ETABA": "دار الضمانة",
+    "AdresseL": "DOUAR AL HRRA CSOUK KDIM  TETOUAN",
+    "AdresseA": "الهراء جماعة السوق القديم",
+    "COMMUNE": "Souk Kdim",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL MOURED",
+    "NOM_ETABA": "م.م المورد",
+    "AdresseL": "DOUAR AL MOURED C SOUK KDIM",
+    "AdresseA": "دوار المورد",
+    "COMMUNE": "Souk Kdim",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMERSSAN",
+    "NOM_ETABA": "م.م امرسان",
+    "AdresseL": "DOUAR AMERSSAN CSOUK KDIM  TETOUAN",
+    "AdresseA": "امرسان السوق القديم",
+    "COMMUNE": "Souk Kdim",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABDERRAHMANE EL YOUSSFI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الرحمان اليوسفي",
+    "AdresseL": "COMMUNE SOUK KDIM",
+    "AdresseA": "جماعة السوق القديم",
+    "COMMUNE": "Souk Kdim",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

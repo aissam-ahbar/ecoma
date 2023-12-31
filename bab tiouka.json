@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE BAB TIOUKA",
+    "NOM_ETABA": "إعدادية باب تيوكا",
+    "AdresseL": "bab tiouka",
+    "AdresseA": "باب تيوكا",
+    "COMMUNE": "Bab Tiouka",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HAFSA BENT OMAR",
+    "NOM_ETABA": "حفصة بنت عمر",
+    "AdresseL": "BAB TIOUKA CENTRE COMMUNE BAB TIOUKA",
+    "AdresseA": "باب تيوكة",
+    "COMMUNE": "Bab Tiouka",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABD ELRAHMAN BNOU AOUF",
+    "NOM_ETABA": "عبدالرحمان بن عوف",
+    "AdresseL": "DOUAR LAKHNIFRAT COMMUNE BAB TIOUKA",
+    "AdresseA": "جماعة باب تيوكة",
+    "COMMUNE": "Bab Tiouka",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ACHIR",
+    "NOM_ETABA": "ابن عاشر",
+    "AdresseL": "DOUAR LAAOUAMER COMMUNE BAB TIOUKA",
+    "AdresseA": "دوار العوامرباب تيوكا ",
+    "COMMUNE": "Bab Tiouka",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S BOUMALHA",
+    "NOM_ETABA": "م/م بوملحة",
+    "AdresseL": "DOUAR EL AOUAOUCHA ",
+    "AdresseA": "دوار العواوشة",
+    "COMMUNE": "Chaibate",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAMHARZA",
+    "NOM_ETABA": "م/م المحارزة",
+    "AdresseL": "DOUAR sidi abdelkader LAMHARZA  ",
+    "AdresseA": "دوار سيدي عبد القادر ",
+    "COMMUNE": "Chaibate",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED SI HAMDOUNE",
+    "NOM_ETABA": "م/م أولاد سي حمدون",
+    "AdresseL": "DOUAR OULED SI HAMDOUNE",
+    "AdresseA": "دوار أولاد سي حمدون ",
+    "COMMUNE": "Chaibate",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

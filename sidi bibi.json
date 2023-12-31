@@ -1,0 +1,272 @@
+[
+  {
+    "NOM_ETABL": "C LAARBI ECHABBI",
+    "NOM_ETABA": "ثإ. العربي الشابي",
+    "AdresseL": "commune rurale sidi bibi centre ",
+    "AdresseA": "مركز جماعة سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C 20 AOUT",
+    "NOM_ETABA": "ثإ. 20 غشت",
+    "AdresseL": "DOUAR TAKAD",
+    "AdresseA": "دوار تكاض",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C OUAJJAJ EL LAMTI",
+    "NOM_ETABA": "ثإ. وجاج اللمطي",
+    "AdresseL": "DOUAR TADART SIDI BIBI",
+    "AdresseA": "دوار تدارت سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C ABDELLAH ECHAFCHAOUNI",
+    "NOM_ETABA": "ثإ. عبدالله الشفشاوني",
+    "AdresseL": "SIDI BIBI CENTRE COMMUNE SIDI BIBI",
+    "AdresseA": "مركزسيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL ALAOUIINE",
+    "NOM_ETABA": "م.م العلويين",
+    "AdresseL": "AL KAHWA ouled mimoun",
+    "AdresseA": "مركز قهوة أولاد مبمون",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E SIDI BIBI",
+    "NOM_ETABA": "م. سيدي بيبي",
+    "AdresseL": "CENTRE sebt SIDI BIBI",
+    "AdresseA": "مركز سبت سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL KHANSAA",
+    "NOM_ETABA": "م.م الخنساء",
+    "AdresseL": "DOUAR IHCHACH  SIDI BIBI",
+    "AdresseA": "احشاش سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TADARTE",
+    "NOM_ETABA": "م. تدارت",
+    "AdresseL": "DOUAR TADARTE  COMMUNE SIDI BIBI",
+    "AdresseA": "دوار تدارت سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ENNAHDA",
+    "NOM_ETABA": "م. النهضة",
+    "AdresseL": "DOUAR HASSI EL BAKAR COMMUNE SIDI BIBI",
+    "AdresseA": "دوار حاسي البقر",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNO HAZM",
+    "NOM_ETABA": "م.م إبن حزم",
+    "AdresseL": "DOUAR ADRAIDE COMMUNE SIDI BIBI",
+    "AdresseA": "دوار درايد جماعة سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BEN GAMMOUD",
+    "NOM_ETABA": "م.م بنكمود",
+    "AdresseL": "DOUAR BEN GAMMOUD COMMUNE SIDI BIBI",
+    "AdresseA": "دوار بنكمود",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAKADE KABLIA",
+    "NOM_ETABA": "م.م تكاض القبلية",
+    "AdresseL": "DOUAR TAKADE KABLIA COMMUNE SIDI BIBI",
+    "AdresseA": "دوار تكاض القبلية",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AHMED BOUKMAKH",
+    "NOM_ETABA": "م. أحمد بوكماخ",
+    "AdresseL": "DOUAR EL BoRJ hamdane COMMUNE SIDI BIBI",
+    "AdresseA": "دوار البرج حمدان",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AMINA BENT OUAHEB",
+    "NOM_ETABA": "م. آمنة بنت وهب",
+    "AdresseL": "CENTRE SIDI BIBI",
+    "AdresseA": "مركز سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ENNAHDA-2",
+    "NOM_ETABA": "م النهضة-2",
+    "AdresseL": "DOUAR HASSI LABGAR",
+    "AdresseA": "دوار حاسي البقر",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL CHOROUQ",
+    "NOM_ETABA": "م. الشروق",
+    "AdresseL": "DOUAR TAKAD",
+    "AdresseA": "دوار تكاض",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L SIDI LHADJ LHBIB",
+    "NOM_ETABA": "ثأ. سيدي الحاج الحبيب",
+    "AdresseL": "CENTRE  SIDI BIBI",
+    "AdresseA": "مركز سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L SOUSS AL ALIMA",
+    "NOM_ETABA": "ثأ. سوس العالمة",
+    "AdresseL": "DOUAR DRAID",
+    "AdresseA": "دوار درايد",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ARIJ ALMAARIFA",
+    "NOM_ETABA": "مؤسسة اريج المعرفة",
+    "AdresseL": "centre sidi bibi  chtouka ait ",
+    "AdresseA": "مركز سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HIBA",
+    "NOM_ETABA": "مؤسسة هبة للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "طريق البرج سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TITRIT PRESCOLAIRE",
+    "NOM_ETABA": "تتريت للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUMEHDI PRESCOLAIRE",
+    "NOM_ETABA": "بومهدي للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "829 تجزئة أملال 2 سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ATLASS",
+    "NOM_ETABA": "مؤسسة الاطلس للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة املال سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION FORADAYE",
+    "NOM_ETABA": "مؤسسة فراداي الخاصة ",
+    "AdresseL": "LOT IQBAL MOHAMED 1 N° 15",
+    "AdresseA": "تجزئة إقبال محمد 1 رقم 15",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION GROUPE AL JOUDIE",
+    "NOM_ETABA": "مؤسسة مجموعة الجودي الخاصة",
+    "AdresseL": "N° 32 lot choukir et iguider s",
+    "AdresseA": "رقم 32 تجزئة شكري وايكيدر سيدي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETBLISSEMENT ABD ERRAHMANE",
+    "NOM_ETABA": "مؤسسة عبد الرحمان الخاصة",
+    "AdresseL": "centre sidi bibi",
+    "AdresseA": "مركز سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ANNASIRIE",
+    "NOM_ETABA": "مؤسسة الناصري التربوية الخاصة",
+    "AdresseL": "DOUAR TIN ALI  MANSOUR",
+    "AdresseA": "دوار تين علي منصور سيدي بيبي",
+    "COMMUNE": "Sidi Bibi",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMOSTAKBAL",
+    "NOM_ETABA": "ثانوية المستقبل الإعدادية",
+    "AdresseL": "commune skhour rehamna",
+    "AdresseA": " جماعة صخور الرحامنة",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CPI SKHOUR",
+    "NOM_ETABA": "المركب التربوي المندمج الصخور",
+    "AdresseL": "SKHOUR centre",
+    "AdresseA": "مركز الصــخور",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SKHOUR",
+    "NOM_ETABA": "مدرسة الصخور",
+    "AdresseL": "SKHOUR RHAMNA CENTRE",
+    "AdresseA": "صخور الرحامنة",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SKHOUR MIXTE",
+    "NOM_ETABA": " مدرسة الصخور المختلطة",
+    "AdresseL": "SKHOUR RHAMNA CENTRE",
+    "AdresseA": "صخور الرحامنة",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKLIAA CENTRE",
+    "NOM_ETABA": "لقليعة المركزية",
+    "AdresseL": "DOUAR LAKLIAA COMMUNE SKHOR RHAMNA",
+    "AdresseA": "دوار لقليعة",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RHAMNA LAATAMNA CENTRE",
+    "NOM_ETABA": "الرحامنة المركزية",
+    "AdresseL": "DOUAR LAATAMNA COMMUNE SKHOR RHAMNA",
+    "AdresseA": "دوار العثامنة الرحامنة",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHLALATE CENTRE",
+    "NOM_ETABA": "لهلالات المركزية",
+    "AdresseL": "DOUAR LAHLALATE COMMUNE SKHOUR RHAMNA",
+    "AdresseA": "دوار لهلالات جماعة صخور الرحامنة",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHLALTA CENTRE",
+    "NOM_ETABA": "الخلالطة المركزية",
+    "AdresseL": "DOUAR ELBAGGARA LAKHLALTA COMMUNE SKHOUR RHAMNA",
+    "AdresseA": "دوار البكارة الخلالطة",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SKHOUR",
+    "NOM_ETABA": "الثانوية التأهيلية الصخور",
+    "AdresseL": "SKHOU RHAMNA BEN GUERIR",
+    "AdresseA": "جماعة صخور الرحامنة",
+    "COMMUNE": "Skhour Rehamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

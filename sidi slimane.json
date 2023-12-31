@@ -1,0 +1,462 @@
+[
+  {
+    "NOM_ETABL": "AL FARABI",
+    "NOM_ETABA": "الفارابي",
+    "AdresseL": "SIDI SLIMANE",
+    "AdresseA": "سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABD KHALEK TORRES",
+    "NOM_ETABA": "عبد الخالق الطريس",
+    "AdresseL": "OULED MALEK SIDI SLIMANE",
+    "AdresseA": "اولاد مالك سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ALKHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "QUARTIER ADMINISTRATIF SIDI SLIMANE",
+    "AdresseA": "الحي الإداري سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ESSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "QUARTIER ESSALAM SIDI SLIMANE",
+    "AdresseA": "حي السلام سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL YASSAMINE",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "hay essalam",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL KADI IBN AL ARABI",
+    "NOM_ETABA": "مدرسة القاضي بن العربي",
+    "AdresseL": "CITE LAGHMARIYINE SIDI SLIMANE",
+    "AdresseA": "حي الغماريين سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "مدرسة محمد الزرقطوني",
+    "AdresseL": "DOUAR JDIDE  SIDI SLIMANE",
+    "AdresseA": "الدوار الجديد سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AMINA BINT OUAHB",
+    "NOM_ETABA": "مدرسة آمنة بنت وهب",
+    "AdresseL": "AVENUE pasteur SIDI SLIMANE",
+    "AdresseA": "شارع باستور سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI BAKR ESSADIK",
+    "NOM_ETABA": "مدرسة أبي بكر الصديق",
+    "AdresseL": "avenue essalam SIDI SLIMANE",
+    "AdresseA": "شارع السلام سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SAAD IBN ABI WAKKASS",
+    "NOM_ETABA": "مدرسة سعد بن ابي وقاص",
+    "AdresseL": "  AVENUE MOHAMED V  HAY KHOURIBGA SIDI SLIMANE",
+    "AdresseA": "شارع محمد الخامس حي خريبكة سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANOUAL",
+    "NOM_ETABA": "مدرسة أنوال",
+    "AdresseL": " hay ouled zid  SIDI SLIMANE",
+    "AdresseA": "حي أولاد زيد سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ECHCHAHID ROCHDI ABD ELKRIM",
+    "NOM_ETABA": "مدرسة الشهيد رشدي عبد الكريم",
+    "AdresseL": "CITE PAM SIDI SLIMANE",
+    "AdresseA": "حي بام سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMMED VI",
+    "NOM_ETABA": "مدرسة محمد السادس",
+    "AdresseL": "AVENUE HASSAN II SIDI SLIMANE",
+    "AdresseA": "شارع الحسن الثاني سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL JILALI BENNANI",
+    "NOM_ETABA": "مدرسة الجيلالي بناني",
+    "AdresseL": "QUARTIER LAGHMARIYINE AVENUE ALLAL  BEN ABDELLAH S",
+    "AdresseA": "حي الغماريين شارع علال بن عبدالله سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "مدرسة عبد الله الشفشاوني",
+    "AdresseL": "ouled malek  SIDI SLIMANE",
+    "AdresseA": "أولاد مالك سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELLAH BNOU ZOUBAIR",
+    "NOM_ETABA": "مدرسة عبد الله بن الزبير",
+    "AdresseL": "DOUAR jbirate commune sidi slimane",
+    "AdresseA": "دوار اجبيرات جماعة سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZHANA",
+    "NOM_ETABA": "مدرسة ازهانة",
+    "AdresseL": " HAY ZHANA COMMUNE SIDI SLIMANE",
+    "AdresseA": " حي ازهانة جماعة سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL AMAL",
+    "NOM_ETABA": "مدرسة الأمل",
+    "AdresseL": "LOT AL KHAYR sidi slimane",
+    "AdresseA": "تجزئة الخير سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MEHDI EL MENDJRA",
+    "NOM_ETABA": "المهدي المنجرة",
+    "AdresseL": "DOUAR LGHLALTA COMMUNE SIDI SLIMANE",
+    "AdresseA": "دوار لغلالتة جماعة سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELAZIZ MEZIANE BELFKIH",
+    "NOM_ETABA": "عبد العزيز مزيان بلفقيه",
+    "AdresseL": "HAY AGDAL SIDI SLIMANE",
+    "AdresseA": "حي أكدال، سيدي سليمان ",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZINEB NAFZAOUIA",
+    "NOM_ETABA": "زينب النفزاوية",
+    "AdresseL": "AV DU STADE  sidi slimane",
+    "AdresseA": "شارع الملعب سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ALLAL EL FASSI",
+    "NOM_ETABA": "علال الفاسي",
+    "AdresseL": "ROUTE SIDI KACEM SIDI SLIMANE",
+    "AdresseA": "شارع الحسن الثاني طريق سيدي قاسم - سيي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "PRINCE MOULAY ABDELLAH",
+    "NOM_ETABA": "الأمير مولاي عبد الله",
+    "AdresseL": "DOUAR JDID ROUTE DE KENITRA  SIDI SLIMANE",
+    "AdresseA": "دوار الجديد طريق القنيطرة سيدي سليمان",
+    "COMMUNE": "Sidi Slimane",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LOUIS LE CHATELIER",
+    "NOM_ETABA": "لويس لو شاتوليي",
+    "AdresseL": "LOTISSEMENT JALIL TAZI N° 25 n",
+    "AdresseA": "رقم 25 تجزئة جليل التازي النسي",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMASSAR",
+    "NOM_ETABA": "المسار",
+    "AdresseL": "hay laymoune a cote des maison",
+    "AdresseA": "حي الليمون قرب دار العجزة",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HAFEDE",
+    "NOM_ETABA": "الحافظ",
+    "AdresseL": "lmohamadiya 2 rue 1",
+    "AdresseA": "تجزئة المحمدية 2 الشارع 1 ",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RISSALAT ALHAFADAH",
+    "NOM_ETABA": "رسالة الحفظة",
+    "AdresseL": "hay lamnara numera 78 COMMUNE ",
+    "AdresseA": "حي المنارة رقم 78 جماعة سيدي س",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RISSALAT IKRAA",
+    "NOM_ETABA": "رسالة اقرأ",
+    "AdresseL": "bloc d n°11 hay essalam ",
+    "AdresseA": "بلوك د رقم 11 حي السلام   ",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABID ALJABRI",
+    "NOM_ETABA": "عابد الجابري",
+    "AdresseL": "avenue el mokawama residence a",
+    "AdresseA": " شارع المقاومة إقامة النهضة رق",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMAJD LITTOFOULA",
+    "NOM_ETABA": "المجد للطفولة",
+    "AdresseL": "HAY PAM BLOC 14 N°3",
+    "AdresseA": "حي بام مجموعة 14 رقم 03",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSIRAJ",
+    "NOM_ETABA": "السراج",
+    "AdresseL": "lotissement jbirat s/s",
+    "AdresseA": "حي اجبيرات",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHADATA",
+    "NOM_ETABA": "الحداثة",
+    "AdresseL": "Hay Essalam, Bloc 27 N° 9 Sidi",
+    "AdresseA": "حي السلام بلوك 27 رقم9 سيدي سل",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HANANE LI TAALIM",
+    "NOM_ETABA": "الحنان للتعليم",
+    "AdresseL": "Hay Essalam Bloc 36, N° 457 et",
+    "AdresseA": "حي السلام بلوك 36 رقم 457 و 45",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BENCHARA",
+    "NOM_ETABA": "بنشرة",
+    "AdresseL": "Bloc 40, N° 57 Hay Essalam - C",
+    "AdresseA": "بلوك 40، رقم 57 حي السلام - ج.",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " ELHASSANIA",
+    "NOM_ETABA": " الحسنية",
+    "AdresseL": "hay almasjide N°7",
+    "AdresseA": "حي المسجد رقم 7",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT ALAZHAR",
+    "NOM_ETABA": " معهد الأزهر",
+    "AdresseL": "RUE DU STADE  ",
+    "AdresseA": "زنقة الملعب",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT SI KACEM",
+    "NOM_ETABA": " معهد السي قاسم",
+    "AdresseL": "AVENUE HASSAN II",
+    "AdresseA": "شارع الحسن الثاني ",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " REFERENCE ANASSYS",
+    "NOM_ETABA": "رفرانس أناسيس",
+    "AdresseL": "hay essalam bloc g n 16 COMMUN",
+    "AdresseA": "رقم 16 / 18 جماعة سيدي سليمان ",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COSMOS",
+    "NOM_ETABA": "كوسموس",
+    "AdresseL": "hay laymoune bloc 22 n 4 COMMU",
+    "AdresseA": "حي الليمون بلوك 22 رقم4 جماعة ",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNIDAL",
+    "NOM_ETABA": "النضال",
+    "AdresseL": "av pasteur imm2 hay khribga CO",
+    "AdresseA": "شارع باستور عمارة 2 حي خريبكة ",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JADID IBN KHALDOUN",
+    "NOM_ETABA": "جديد ابن خلدون",
+    "AdresseL": "40, lotissement JALIL TAZI",
+    "AdresseA": "40، تجزئة جليل التازي",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN ANNAFIS ",
+    "NOM_ETABA": "ابن النفيس",
+    "AdresseL": "26, Hay Agdal",
+    "AdresseA": "حي أكدال رقم 26",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE GSP LA MISSION DU GHARB",
+    "NOM_ETABA": "المدرسة الخصوصية م.م.خ لاميسيون دي غرب",
+    "AdresseL": "Lotis marjane n36 s/s",
+    "AdresseA": "تجزئة مرجان،رقم 36، سيدي سليما",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BENCHARA MOHAMMADIA D ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة بنشرة محمدية للتعليم الخصوصي",
+    "AdresseL": "Titre foncier 1290/70 lotissem",
+    "AdresseA": "الرسم العقاري 70/1290 - تجزئة ",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NARANJE",
+    "NOM_ETABA": "مجموعة مدارس النارنج الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "حي أكدال أ رقم 69 سيدي سليمان",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNASSYS 2",
+    "NOM_ETABA": "أناسيس 2 الخصوصية",
+    "AdresseL": "LOT ESSALAM BLOC G RUE 18 SIDI",
+    "AdresseA": "تجزئة السلام بلوك ج رقم 18 سيد",
+    "COMMUNE": "Sidi Slimane ",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BNOU LKHATTAB",
+    "NOM_ETABA": "الثانوية الإعدادية عمر ابن الخطاب",
+    "AdresseL": "ait ouallal BITIT",
+    "AdresseA": "ايت ولال بطيط",
+    "COMMUNE": "Bitit",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT BRAHIM",
+    "NOM_ETABA": "ايت ابراهيم",
+    "AdresseL": "AIT BRAHIM BITIT",
+    "AdresseA": "ايت ابراهيم بطيط",
+    "COMMUNE": "Bitit",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT RBAA",
+    "NOM_ETABA": "ايت الربع",
+    "AdresseL": "AIT RBAA BITIT",
+    "AdresseA": "ايت الربع بطيط",
+    "COMMUNE": "Bitit",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OUALAL",
+    "NOM_ETABA": "ايت ولال",
+    "AdresseL": "AIT moussa hami  BITIT",
+    "AdresseA": "ايت موسى حمي بطيط",
+    "COMMUNE": "Bitit",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ALI BOUBKER",
+    "NOM_ETABA": "ايت علي بوبكر",
+    "AdresseL": "AIT ALI BOUBKER BITIT",
+    "AdresseA": "ايت علي بوبكر بطيط",
+    "COMMUNE": "Bitit",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BITIT",
+    "NOM_ETABA": "ثانوية بطيط التأهيلية",
+    "AdresseL": "AIT OUALLAL  BITIT",
+    "AdresseA": "أيت ولال بطيط",
+    "COMMUNE": "Bitit",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

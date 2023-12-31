@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "C AZIZ AMINE",
+    "NOM_ETABA": "إع. عزيز امين",
+    "AdresseL": "DROUICH CENTRE",
+    "AdresseA": "الدريوش مركز",
+    "COMMUNE": "Driouch",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C MOULAY YOUSSEF",
+    "NOM_ETABA": "إع. مولاي يوسف",
+    "AdresseL": "COMMUNE DRIOUCH CENTRE",
+    "AdresseA": "جماعة الدريوش",
+    "COMMUNE": "Driouch",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E AL OUAFAA",
+    "NOM_ETABA": "م. الوفاء",
+    "AdresseL": "COMMUNE DRIOUCH CENTRE",
+    "AdresseA": "جماعة الدريوش المركز",
+    "COMMUNE": "Driouch",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ALMAGHREB ALARABI",
+    "NOM_ETABA": "م المغرب العربي",
+    "AdresseL": "HAY al amal municipalite  DRIOUCH",
+    "AdresseA": "حي الأمل بلدية    الدريوش",
+    "COMMUNE": "Driouch",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ECHCHOROUK",
+    "NOM_ETABA": "م. الشروق",
+    "AdresseL": "COMMUNE DRIOUCH CENTRE",
+    "AdresseA": "بلدية الدريوش",
+    "COMMUNE": "Driouch",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E DRIOUCH",
+    "NOM_ETABA": "مدرسة الدريوش",
+    "AdresseL": "driouch centre",
+    "AdresseA": "الدريوش المركز",
+    "COMMUNE": "Driouch",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ISMAIL",
+    "NOM_ETABA": "ثانوية مولاي اسماعيل التأهيلية",
+    "AdresseL": "hay alamal  DRIOUCH",
+    "AdresseA": "حي الأمل الدريوش",
+    "COMMUNE": "Driouch",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Al Bassair",
+    "NOM_ETABA": "البصائر",
+    "AdresseL": "RUE ANASR HAY AL QODS DRIOUCH",
+    "AdresseA": "شارع النصر حي القدس الدريوش",
+    "COMMUNE": "Driouch ",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al kourba",
+    "NOM_ETABA": "القربى",
+    "AdresseL": "hay assaada 2 driouch",
+    "AdresseA": "حي السعادة 2 الدريوش",
+    "COMMUNE": "Driouch ",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BASSAIR 2",
+    "NOM_ETABA": "البصائر 2",
+    "AdresseL": "qr assada 2",
+    "AdresseA": "  2  حي السعادة",
+    "COMMUNE": "Driouch ",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL OULED SBIH",
+    "NOM_ETABA": "ثانوية  اولاد اصبيح الاعدادية",
+    "AdresseL": "Commune OULED SBIH",
+    "AdresseA": "جماعة  اولاد اصبيح",
+    "COMMUNE": "Oulad Sbih",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD HACHAD CENTRE",
+    "NOM_ETABA": "اولاد حشاد المركزية",
+    "AdresseL": "DOUAR OULED HACHAD COMMUNE OULED SBIH",
+    "AdresseA": "دوار اولاد حشاد",
+    "COMMUNE": "Oulad Sbih",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

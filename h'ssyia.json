@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Ibn Battouta",
+    "NOM_ETABA": "الثانوية الاعدادية ابن بطوطة",
+    "AdresseL": "Douar Majrane Commune HSSia",
+    "AdresseA": "دوار مجران جماعة حصيا",
+    "COMMUNE": "H'Ssyia",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TARIK BEN ZIAD",
+    "NOM_ETABA": "م.م طارق بن زياد",
+    "AdresseL": "KSAR EL HAZBANE HSSYIA",
+    "AdresseA": "   قصر الحزبان حصيا  تنغير",
+    "COMMUNE": "H'Ssyia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KHING",
+    "NOM_ETABA": "م/م الخنك",
+    "AdresseL": "KSAR KHING HSSIYIA",
+    "AdresseA": "قصر الخنك حصيا",
+    "COMMUNE": "H'Ssyia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT AATTA",
+    "NOM_ETABA": "م.م ايت عطى",
+    "AdresseL": "KSAR AIT YAHIA OU MOUSSA HSSYIA alnif",
+    "AdresseA": "قصر ايت يحيى اوموسى  حصيا ألنيف",
+    "COMMUNE": "H'Ssyia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUNHASSE",
+    "NOM_ETABA": "م.م بونحاس",
+    "AdresseL": "KSAR MAJRANE H SSYIA ALNIF TINGHIR",
+    "AdresseA": "قصر مجران حصيا النيف تنغير",
+    "COMMUNE": "H'Ssyia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIKACHA",
+    "NOM_ETABA": "م.م تيكشة",
+    "AdresseL": "KSAR TaKACHA H ssiya alnif",
+    "AdresseA": "قصر تقشة - حصيا - ألنيف",
+    "COMMUNE": "H'Ssyia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASSOU BASLAM",
+    "NOM_ETABA": "م.م عسو بسلام",
+    "AdresseL": "AMERDOUL    ACHICH    HSYA",
+    "AdresseA": "امردول  اعشيش     حصيا                         ",
+    "COMMUNE": "H'Ssyia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL AMAL",
+    "NOM_ETABA": "الثانوية التأهيلية الأمل",
+    "AdresseL": "HSSIYA",
+    "AdresseA": "حصيا",
+    "COMMUNE": "H'Ssyia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABDELMALEK SAADI",
+    "NOM_ETABA": "إعدادية عبد المالك السعدي",
+    "AdresseL": "MUNICIPALITE DE JORF EL MELHA",
+    "AdresseA": "بلدية جرف الملحة",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE OMAR IBN AL KHATTAB",
+    "NOM_ETABA": "عمر ابن الخطاب",
+    "AdresseL": "MUNICIPALITE JORF EL MELHA",
+    "AdresseA": "جرف الملحة",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JALAL EDDINE SIOUTI",
+    "NOM_ETABA": "جلال الدين السيوطي",
+    "AdresseL": "LOTISSEMENT DU CENTRE  JORF EL MELHA",
+    "AdresseA": "جرف الملحة",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL EL FASSI",
+    "NOM_ETABA": "علال الفاسي",
+    "AdresseL": "HAY HIT AL AKHAL COMMUNE JORF EL MALHA",
+    "AdresseA": "الحيط الأكحل",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGDADRA",
+    "NOM_ETABA": "الكدادرة",
+    "AdresseL": "DOUAR LAGDADRA JMIAAT COMMUNE JORF EL MALHA",
+    "AdresseA": "دوار الكدادرة  اجميعات",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED CHAOUKI",
+    "NOM_ETABA": "أحمد شوقي",
+    "AdresseL": "MUNICIPALITE JORF LMELHA",
+    "AdresseA": "بلدية جرف الملحة",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUARGHA",
+    "NOM_ETABA": "ورغة",
+    "AdresseL": "Lotissement Lamjaara ",
+    "AdresseA": "تجزئة المجاعرة",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOHAMMED ZERKTOUNI",
+    "NOM_ETABA": "ثانوية محمد الزرقطوني",
+    "AdresseL": "MUNICIPALITE DE JORF EL MELHA",
+    "AdresseA": "مركز جرف الملحة",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE JORF EL MELHA",
+    "NOM_ETABA": "ثانوية جرف الملحة",
+    "AdresseL": "LOT HAIT LEKHAL 2  JORF EL MELHA",
+    "AdresseA": "تجزئة الحيط لكحل 2 / جرف الملحة",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE PALESTINE",
+    "NOM_ETABA": "ثانوية فلسطين ",
+    "AdresseL": "JORF EL MELHA",
+    "AdresseA": "جرف الملحة",
+    "COMMUNE": "Jorf El Melha",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "YASMINE 2",
+    "NOM_ETABA": "الياسمين 2",
+    "AdresseL": "lot mjaara 504 jorf melha",
+    "AdresseA": "تجزئة المجاعرة 504 - جرف الملح",
+    "COMMUNE": "Jorf El Melha ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANOUAR ASSATIA",
+    "NOM_ETABA": " الأنوار الساطعة",
+    "AdresseL": "LOT MJAARA 475 JOR EL MELHA",
+    "AdresseA": "رقم 475 تجزئة المجاعرة",
+    "COMMUNE": "Jorf El Melha ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YASMINE",
+    "NOM_ETABA": "ياسمين",
+    "AdresseL": "LOT mjaara 502",
+    "AdresseA": "تجزئة المجاعرة 502",
+    "COMMUNE": "Jorf El Melha ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YASMINE 1",
+    "NOM_ETABA": "ياسمين 1",
+    "AdresseL": "lot mernissi",
+    "AdresseA": "تجزئة المرنيسي",
+    "COMMUNE": "Jorf El Melha ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL WAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "636 secteur 3 lot mjaara jorf ",
+    "AdresseA": "قطاع 3 الرقم 636 تجزئة  المجاع",
+    "COMMUNE": "Jorf El Melha ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FAROUK",
+    "NOM_ETABA": "الفاروق",
+    "AdresseL": "Quartier El Majaera , Jorf El ",
+    "AdresseA": "حي المجاعرة، جرف الملحة",
+    "COMMUNE": "Jorf El Melha ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

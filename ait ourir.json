@@ -1,0 +1,172 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY RACHID",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي رشيد",
+    "AdresseL": "CENTRE AIT OURIR MUNICIPALITE AIT OURIR",
+    "AdresseA": "مركز ايت اورير بلدية ايت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  AL JADIDA",
+    "NOM_ETABA": "الثانوية الإعدادية الجديدة",
+    "AdresseL": "CENTRE AIT OURIR MUNICIPALITE AIT OURIR",
+    "AdresseA": "مركز ايت اورير بلدية ايت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL AL MOUATAMID BNOU ABBAD",
+    "NOM_ETABA": "الثانوية الإعدادية المعتمد ابن عباد",
+    "AdresseL": "municipalité AIT OURIR Province ALHAOUZ",
+    "AdresseA": " ا يت اورير ",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HASSAN ES SAGHIR",
+    "NOM_ETABA": "حسن الصغير",
+    "AdresseL": "CENTRE AIT OURIR MUNICIPALITE AIT OURIR",
+    "AdresseA": "مركز ايت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGOUDAR",
+    "NOM_ETABA": "ايكودار",
+    "AdresseL": "QUARTIER IGOUDAR MUNICIPALITE AIT OURIR",
+    "AdresseA": "حي ايكودار بلدية ايت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ER RIAD",
+    "NOM_ETABA": "مدرسة الرياض",
+    "AdresseL": "RIAD MUNICIPALITE AIT OURIR",
+    "AdresseA": "الرياض ايت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECHAHID MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "الشهيد محمد الزرقطوني",
+    "AdresseL": "QUARTIER MOUAZAREN  MUNICIPALITE AIT OURIR",
+    "AdresseA": "حي اموزارن بلدية ايت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABERDOUAA",
+    "NOM_ETABA": "ابردوع",
+    "AdresseL": "QUART AZENTOU municipalite ait ourir ",
+    "AdresseA": "حي ازنتو بلدية ايت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ECOLE ESSALAM",
+    "NOM_ETABA": "مدرسة السلام",
+    "AdresseL": "Municipalité ait ourir",
+    "AdresseA": "بلدية أيت أورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AIT MANSOUR",
+    "NOM_ETABA": "مدرسة أيت منصور الابتدائية",
+    "AdresseL": "Mun Ait ourir alhaouz",
+    "AdresseA": "بلدية ايت اورير الحوز",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TARQ BNO ZIYAD",
+    "NOM_ETABA": "الثانوية التأهيلية طارق بن زياد",
+    "AdresseL": "Ait Ourir",
+    "AdresseA": "أيت أورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT NOUVEAU LYCEE",
+    "NOM_ETABA": "الثانوية التأهيلية الثانوية الجديدة",
+    "AdresseL": "ait mansour AIT OURIR",
+    "AdresseA": "ايت منصور أيت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABATIH",
+    "NOM_ETABA": "الثانوية التأهيلية ابطيح",
+    "AdresseL": "CENTRE AIT OURIR MUNICIPALITE AIT OURIR",
+    "AdresseA": "مركز ايت اورير بلدية ايت اورير",
+    "COMMUNE": "Ait Ourir",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "NASSIMI POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "الناسمي للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة انس ايت اورير",
+    "COMMUNE": "Ait Ourir ",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire les trois savoirs",
+    "NOM_ETABA": "مجموعة مدارس المعارف الثلاث ",
+    "AdresseL": "municipalite ait ourir",
+    "AdresseA": "بلدية أيت أورير",
+    "COMMUNE": "Ait Ourir ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAFAQ",
+    "NOM_ETABA": "الآفاق للتعليم المدرسي الخصوصي",
+    "AdresseL": "QUARTIER IGOUDAR BOULEVARD HAS",
+    "AdresseA": "دوار ايكودار شارع الحسن الثاني",
+    "COMMUNE": "Ait Ourir ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  PRVEE IBNOU ALHYTAME",
+    "NOM_ETABA": "مدرسة ابن الهيتم الخصوصية",
+    "AdresseL": "lotissement annouzha -ait ouri",
+    "AdresseA": "تجزئة النزهة - ايت اورير",
+    "COMMUNE": "Ait Ourir ",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial  AIT OUMGHAR",
+    "NOM_ETABA": "الثانوية الإعدادية ايت امغار ",
+    "AdresseL": "DOUAR AIT OUMGHAR COMMUNE AIT AYACH",
+    "AdresseA": "دوار ايت اومغار جماعة ايت عياش",
+    "COMMUNE": "Ait Ayach",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT TOUGHACHE",
+    "NOM_ETABA": "ايت توغاش",
+    "AdresseL": "DOUAR AIT TOUGHACHE COMMUNE AIT AYACH",
+    "AdresseA": "دوار ايت توغاش جماعة ايت عياش",
+    "COMMUNE": "Ait Ayach",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OUMGHAR",
+    "NOM_ETABA": "ايت اومغار",
+    "AdresseL": "DOUAR AIT OUMGHAR COMMUNE AIT AYACH",
+    "AdresseA": "دوار ايت اومغار جماعة ايت عياش",
+    "COMMUNE": "Ait Ayach",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT SIDI AMER",
+    "NOM_ETABA": "ايت سيدي عمرو",
+    "AdresseL": "DOUAR AIT SIDI AMER COMMUNE AIT AYACH",
+    "AdresseA": "دوار ايت سيدي عمرو جماعة ايت عياش",
+    "COMMUNE": "Ait Ayach",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUDRAA",
+    "NOM_ETABA": "بودراع",
+    "AdresseL": "DOUAR BOUDRAA COMMUNE AIT AYACH",
+    "AdresseA": "دوار بودراع جماعة ايت عياش",
+    "COMMUNE": "Ait Ayach",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT SIDI BOUMOUSSA",
+    "NOM_ETABA": "ايت سيدي بوموسى",
+    "AdresseL": "DOUAR AIT SIDI BOUMOUSSA COMMUNE AIT AYACH",
+    "AdresseA": "دوار ايت سيدي بوموسى جماعة ايت عياش",
+    "COMMUNE": "Ait Ayach",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

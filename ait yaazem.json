@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKRIM EL KHATABI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الكريم الخطابي",
+    "AdresseL": "AIT YAAZEM",
+    "AdresseA": "ايت يعزم",
+    "COMMUNE": "Ait Yaazem",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT YAZEM",
+    "NOM_ETABA": "ايت يعزم",
+    "AdresseL": "AIT YAZEM",
+    "AdresseA": "ايت يعزم",
+    "COMMUNE": "Ait Yaazem",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHARIKA",
+    "NOM_ETABA": "الشركة",
+    "AdresseL": "CHARIKA AIT YAAZEM",
+    "AdresseA": "الشركة ايت يعزم",
+    "COMMUNE": "Ait Yaazem",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN LOULA",
+    "NOM_ETABA": "العين الاولى",
+    "AdresseL": "AIN LOULA AIT YAAZEM",
+    "AdresseA": "العين الاولى ايت يعزم",
+    "COMMUNE": "Ait Yaazem",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ABDESLAM",
+    "NOM_ETABA": "ايت عبد السلام",
+    "AdresseL": "AIT ABDESLAM AIT YAAZEM",
+    "AdresseA": "ايت عبد السلام ايت يعزم",
+    "COMMUNE": "Ait Yaazem",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR EL KAID ALI",
+    "NOM_ETABA": "دار القايد علي",
+    "AdresseL": "DAR EL KAID ALI AIT YAAZEM",
+    "AdresseA": "دار القايد علي ايت يعزم",
+    "COMMUNE": "Ait Yaazem",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

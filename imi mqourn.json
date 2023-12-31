@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C IMI MQOURN",
+    "NOM_ETABA": "ثإ. إمي مقورن ",
+    "AdresseL": "CENTRE IMI MQOURN COMMUNE IMI MQOURN",
+    "AdresseA": "مركز جماعة  إمي مقورن",
+    "COMMUNE": "Imi Mqourn",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS HASSAN BNO TABET",
+    "NOM_ETABA": "م.م حسان بن ثابت",
+    "AdresseL": "DOUAR AL KHARBA COMMUNE IMI MQOURN",
+    "AdresseA": "دوار الخربة إداومنو",
+    "COMMUNE": "Imi Mqourn",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 18 NOVEMBRE",
+    "NOM_ETABA": "م.م 18 نونبر",
+    "AdresseL": "DOUAR AIT BOUAINE  COMMUNE IMI MQOURN",
+    "AdresseA": "دوار أيت بوعين",
+    "COMMUNE": "Imi Mqourn",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMI MAKOURNE",
+    "NOM_ETABA": "م.م إمي مقورن",
+    "AdresseL": "DOUAR IMMI MAKOURN COMMUNE IMI MQOURN",
+    "AdresseA": "مركز سوق سبت إمي مقورن",
+    "COMMUNE": "Imi Mqourn",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL MARINIYINE",
+    "NOM_ETABA": "ثأ. المرينيين",
+    "AdresseL": "CENTRE IMI MQOURN",
+    "AdresseA": "مركز جماعة امي مقورن",
+    "COMMUNE": "Imi Mqourn",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

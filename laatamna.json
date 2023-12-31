@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LAATAMNA",
+    "NOM_ETABA": "لعتامنة",
+    "AdresseL": "COMMUNE LAATAMNA",
+    "AdresseA": "جماعة لعتامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL INTISSAR",
+    "NOM_ETABA": "الإنتصار",
+    "AdresseL": "COMMUNE DE LAATAMNA",
+    "AdresseA": "تجزئة الإنتصار لعثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "COMMUNE DE LAATAMNA",
+    "AdresseA": "جماعة لعثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BASSATINE",
+    "NOM_ETABA": "البساتين",
+    "AdresseL": "DOUAR EL KHADRANE COMMUNE DE LAATAMNA",
+    "AdresseA": "دوار الخضران لعثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JAWHARA ZARQAA",
+    "NOM_ETABA": "الجوهرة الزرقاء",
+    "AdresseL": "DOUAR EL KHODRANE COMMUNE DE LAATAMNA",
+    "AdresseA": "دوار الخضران جماعة لعثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ACHORAFA",
+    "NOM_ETABA": "الشرفاء",
+    "AdresseL": "DOUAR BNI OUKIL COMMUNE DE LAATAMNA",
+    "AdresseA": "دوار بني وكيل-لعثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAATAMNA CENTRE",
+    "NOM_ETABA": "العثامنة المركزية",
+    "AdresseL": "COMMUNE LAATAMNA",
+    "AdresseA": "جماعة العثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAARARMA CENTRE",
+    "NOM_ETABA": "لعرارمة المركزية",
+    "AdresseL": "DOUAR LAARARMA COMMUNE LAATAMNA",
+    "AdresseA": "دوار لعرارمة جماعة العثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ABBOU CENTRE",
+    "NOM_ETABA": "اولاد عبو المركزية",
+    "AdresseL": "DOUAR OULED ABBOU COMMUNE LAATAMNA",
+    "AdresseA": "دوار اولاد عبو جماعة العثامنة ",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI OUKIL ZAOUIA",
+    "NOM_ETABA": "بني وكيل الزاوية",
+    "AdresseL": "COMMUNE DE LAATAMNA",
+    "AdresseA": "دوار بني وكيل الزاوية العثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée QUALIFIANT LAATAMNA",
+    "NOM_ETABA": "ثانوية لعثامنة التأهيلية",
+    "AdresseL": "COMMUNE LAATAMNA",
+    "AdresseA": "جماعة العثامنة",
+    "COMMUNE": "Laatamna",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

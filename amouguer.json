@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial ZIZ",
+    "NOM_ETABA": "الثانوية الإعدادية  زيز ",
+    "AdresseL": "AMOUGUER CENTRE",
+    "AdresseA": "اموكر المركز",
+    "COMMUNE": "Amouguer",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " S/S ELBARKANI",
+    "NOM_ETABA": " م/م البرقاني",
+    "AdresseL": "KSAR AMOUGUER  AMOUGUER IMILCHIL",
+    "AdresseA": "قصر اموكر اموكر املشيل",
+    "COMMUNE": "Amouguer",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " S/S 18 NOVEMBRE",
+    "NOM_ETABA": "  م/م 18 نونبر",
+    "AdresseL": "KSAR TAHIYANTE AMOUGUER IMILCHIL",
+    "AdresseA": "قصر تحيانت اموكر املشيل",
+    "COMMUNE": "Amouguer",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " S/S TASSAMERTE",
+    "NOM_ETABA": "م/م تسامرت",
+    "AdresseL": "KSAR AIT YAAKOUBE AMOUGUER IMILCHIL",
+    "AdresseA": "قصر ايت يعقوب اموكر املشيل",
+    "COMMUNE": "Amouguer",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

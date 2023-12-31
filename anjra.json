@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF IBN TACHAFIN",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين الإعدادية",
+    "AdresseL": "bni hlou anjra",
+    "AdresseA": "بني حلو جماعة انجرة",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Province: Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BNI HLOU SOUFLA",
+    "NOM_ETABA": "م/م بني حلو السفلى الابتدائية",
+    "AdresseL": "DOUAR BNI AHLOU CKHMIS ANJRA ",
+    "AdresseA": "دوار بني حلو جماعة الخميس أنجرة",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAFAZA",
+    "NOM_ETABA": " م/م تافزة الابتدائية",
+    "AdresseL": "DOUAR TAFAZA CKHMIS ANJRA",
+    "AdresseA": "دوار تافزة، خميس أنجرة",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAHLATETE",
+    "NOM_ETABA": "م/م لحلاتيت الابتدائية",
+    "AdresseL": "DOUAR LHLATETE KHMIS ANJRA ",
+    "AdresseA": "، جماعة خميس أنجرة ،دوار الحلاتيت",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABOU BAKR SEDDIK",
+    "NOM_ETABA": "م/م أبو بكر الصديق الابتدائية",
+    "AdresseL": "DOUAR BOULAICHICHE",
+    "AdresseA": "دوار بولعشيش,جماعة خميس أنجرة",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR KACHANA",
+    "NOM_ETABA": "م/م دار قشانة الابتدائية",
+    "AdresseL": "DOUAR DAR KACHANA CKHMIS ANJRA ",
+    "AdresseA": "دوار دار قشانة جماعة الخميس أنجرة",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAKDIOUA",
+    "NOM_ETABA": " م/م لكديوة الابتدائية ",
+    "AdresseL": "DOUAR LAKDIOUa khemis Anjra ",
+    "AdresseA": "دوار لكديوة جماعة خميس أنجرة",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS JOUANEBE",
+    "NOM_ETABA": "م/م اجوانب الابتدائية",
+    "AdresseL": "DOUAR JOUNEBE kheMIS ANJRA ",
+    "AdresseA": "دوار الجوانب جماعة خميس أنجرة",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KHMISS ANJRA",
+    "NOM_ETABA": "  ثانوية خميس أنجرة التأهيلية",
+    "AdresseL": "CENTRE COMMUNE ANJRA",
+    "AdresseA": "مركز جماعة أنجرة",
+    "COMMUNE": "Anjra",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

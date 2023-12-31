@@ -1,0 +1,722 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ROCHD",
+    "NOM_ETABA": "الثانوية الاعدادية ابن رشد",
+    "AdresseL": "QUARTIER ALMASSIRA VILLE TIZNIT",
+    "AdresseA": "حي المسيرة مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY RACHID",
+    "NOM_ETABA": "الثانوية الاعدادية مولاي رشيد",
+    "AdresseL": "RUE ID JERRAOUI AIT MHAMED TIZNIT",
+    "AdresseA": "زنقة إدجغاوي ايت محمد",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM MALIK",
+    "NOM_ETABA": "الثانوية الاعدادية الامام مالك",
+    "AdresseL": "QUARTIER AL YOUSSOUFIA TIZNIT",
+    "AdresseA": "الحي الاداري اليوسفية",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN MAJA",
+    "NOM_ETABA": "الثانوية الاعدادية ابن ماجة",
+    "AdresseL": "HAY ILLIGH TIZNIT",
+    "AdresseA": "حي اليغ تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNOUR",
+    "NOM_ETABA": "الثانوية الإعدادية النور",
+    "AdresseL": "Hay Al Amal Afrag TIZNIT",
+    "AdresseA": "  تيزنيت الحي المحمدي  أفراك",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA MERIEME",
+    "NOM_ETABA": "م. للا مريم",
+    "AdresseL": "PLACE MCHOUR VILLE TIZNIT",
+    "AdresseA": "ساحة المشور مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 18 NOVEMBRE",
+    "NOM_ETABA": "م. 18 نونبر",
+    "AdresseL": "BAB LAKHMIS VILLE TIZNIT",
+    "AdresseA": "باب الخميس مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BIR ANZARANE",
+    "NOM_ETABA": "م. بئر انزران",
+    "AdresseL": "AV SIDI ABDERRHMAN VILLE TIZNIT",
+    "AdresseA": "شارع سيدي عبدالرحمان مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HASSAN I",
+    "NOM_ETABA": "م. الحسن الاول",
+    "AdresseL": "QUARTIER ADMINISTRATIF VILLE TIZNIT",
+    "AdresseA": "الحي الاداري مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIN EZZARKA",
+    "NOM_ETABA": "م. العين الزرقاء",
+    "AdresseL": "RUE MJJAT AFRAG TIZNIT",
+    "AdresseA": "زنقة مجاط  افراك  تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMOKHTAR ASSOUSSI",
+    "NOM_ETABA": "م. المختار السوسي",
+    "AdresseL": "QUARTIER ALMASSIRA VILLE TIZNIT",
+    "AdresseA": "حي المسيرة مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL WAFA",
+    "NOM_ETABA": "م. الوفاء",
+    "AdresseL": "QUARTIER TABOUDIBT   VILLE TIZNIT",
+    "AdresseA": "حي تبوديبت مدينة تزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL YAAKOUBI",
+    "NOM_ETABA": "م. اليعقوبي",
+    "AdresseL": "LOTISSEMENT BIYZNKAD AFRAG VILLE TIZNIT",
+    "AdresseA": "تجزئة بيزنكاض افراك مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY EZZINE",
+    "NOM_ETABA": "م. مولاي الزين",
+    "AdresseL": "QUARTIER ALMASSIRA VILLE TIZNIT",
+    "AdresseA": "حي المسيرة مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AHMED BELLAFRIJ",
+    "NOM_ETABA": "م. احمد بلا فريج",
+    "AdresseL": "hay   TAMDGHOUSTE",
+    "AdresseA": "حي    تمدغوست",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALBASSATINE",
+    "NOM_ETABA": "م. البساتين",
+    "AdresseL": "QUARTIER DOUTURGA  ",
+    "AdresseA": "حي دوتركا",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOUSTAKBAL",
+    "NOM_ETABA": "م. المستقبل",
+    "AdresseL": "AIN ZERKA VILLE TIZNIT",
+    "AdresseA": "عين الزرقاء مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNO HAZM",
+    "NOM_ETABA": "م. ابن حزم",
+    "AdresseL": "LOTISSEMENT AGHBALOU VILLE TIZNIT",
+    "AdresseA": "تجزئة اغبالو مدينة تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL IRFANE",
+    "NOM_ETABA": "م. العرفان",
+    "AdresseL": "Hay Al Amal Afrag",
+    "AdresseA": "حي الأمل أفراك",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ARGANE",
+    "NOM_ETABA": "الثانوية التأهيلية أركان",
+    "AdresseL": "Route de Tafraout",
+    "AdresseA": "طريق تافراوت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL WAHDA",
+    "NOM_ETABA": "الثانوية التاهيلية الوحدة",
+    "AdresseL": "QUARTIER AFRAG TIZNIT",
+    "AdresseA": "حي افراك تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "الثانوية التأهيلية المسيرة الخضراء",
+    "AdresseL": "BD MOKHTAR ESSOUSSI TIZNIT",
+    "AdresseA": "شارع المختار السوسي  تيزنيت",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE IBN SOULAYMANE ARRASSMOUKI",
+    "NOM_ETABA": "الثانوية التقنية ابن سليمان الرسموكي",
+    "AdresseL": "hor BAB AGLOU ",
+    "AdresseA": "خارج باب اكلو",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": "الثانوية التاهيلية الحسن الثاني",
+    "AdresseL": "QUARTIER ALFATH ERAC BP11 ",
+    "AdresseA": "حي الفتح- إيراك ص.ب:11 ",
+    "COMMUNE": "Tiznit",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "riad nakhil",
+    "NOM_ETABA": "رياض النخيل",
+    "AdresseL": "lot adrar",
+    "AdresseA": "تجزئة ادرار",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALKARAMA",
+    "NOM_ETABA": "مجموعة مدارس الكرامة الخصوصية",
+    "AdresseL": "route boutini route 307",
+    "AdresseA": "طريق بوتيني طريق 307",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAALIE",
+    "NOM_ETABA": "المعالي الخصوصية",
+    "AdresseL": "Lot. Charaf, Route Ifni",
+    "AdresseA": "تجزئة الشرف، طريق إفني",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Manar",
+    "NOM_ETABA": "مدرسة المنار الخاصة",
+    "AdresseL": "N° 34  LOTISSEMENT SAADIA TIZN",
+    "AdresseA": "رقم 34 تجزئة السعدية  تزنيت  ",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution diya annour",
+    "NOM_ETABA": "مؤسسة ضياء النور",
+    "AdresseL": "hay el haraka n° 77 afrag",
+    "AdresseA": "حي الحركة رقم 77 أفراك تيزنيت",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour al forkan",
+    "NOM_ETABA": "نور الفرقان",
+    "AdresseL": "Près du quartier abi alghizlan",
+    "AdresseA": "قرب حي ابي الغزلان افراك- تيزن",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE RIAD AL IRFANE",
+    "NOM_ETABA": "مجموعة رياض العرفان",
+    "AdresseL": "avenue lalla abla route agadir",
+    "AdresseA": "شارع للا عبلة طريق اكادير",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution Assafa",
+    "NOM_ETABA": "مؤسسة الصفاء",
+    "AdresseL": "angle route d aglou et avenue ",
+    "AdresseA": "زاوية طريق أكلو وشارع عبد اللط",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ASSAFA AL AMAL 2",
+    "NOM_ETABA": "مؤسسة صفاء الامل 2",
+    "AdresseL": "HAY MOHAMEDI TIZNIT",
+    "AdresseA": "تعاونية الامل الحي المحمدي تيز",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTIONE ALJIL ALJADID",
+    "NOM_ETABA": "مؤسسة الجيل الجديد الخاصة",
+    "AdresseL": "N° 53/54 QUARTIER BIZOUNKAD AF",
+    "AdresseA": "رقم 53/54 حي بيزنكاض أفراك",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTIONE ROWAD NAHDA",
+    "NOM_ETABA": "مؤسسة رواد النهضة  للتعليم الخصوصي",
+    "AdresseL": "LOT NAHDA 2 TIZNIT",
+    "AdresseA": " تجزئة النهضة 2 تيزنيت",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION IBN ALHAYTHAM",
+    "NOM_ETABA": "مؤسسة ابن الهيثم للتعليم الخصوصي",
+    "AdresseL": "LOT. INBIAAT ROUTE IFNI",
+    "AdresseA": "تجزئة الانبعاث طريق إفني",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Alhodae",
+    "NOM_ETABA": "الهدى الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الإزدهار 2 رقم 147",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MEHDI",
+    "NOM_ETABA": "مؤسسة مهدي",
+    "AdresseL": "N 1109 LOT AIN ZERQA TIZNIT",
+    "AdresseA": "رقم 1109 تجزئة العين الزرقاء",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHBAL AL MANAR",
+    "NOM_ETABA": "أشبال المنار",
+    "AdresseL": "n° 151 LOTISSEMENT ALWAHDA",
+    "AdresseA": "رقم 151 تجزئة الوحدة",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL AMAL",
+    "NOM_ETABA": "مؤسسة الأمل للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 161 زنقة بوييغد إداكفا",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement alaasafir",
+    "NOM_ETABA": "مؤسسة العصافير",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 61 شارع مولاي الحسن بن يوس",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SAMIRA",
+    "NOM_ETABA": "مؤسسة سميرة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 56 تجزئة النهضة",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL AANDALIB",
+    "NOM_ETABA": "مؤسسة العندليب للتربية والتعليم الأولي",
+    "AdresseL": "N°5LOT CHEIKH BELLE TIZNIT",
+    "AdresseA": "رقم 5 تجزئة الشيخ بلا",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL WAHDA",
+    "NOM_ETABA": "مؤسسة الوحدة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 42 تجزئة المسيرة طريق كلمي",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SANABIL",
+    "NOM_ETABA": "مؤسسة السنابل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 151 تجزئة السعيدية",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZIDANE pour le prescolaire",
+    "NOM_ETABA": "زيدان للتعليم الاولي",
+    "AdresseL": "",
+    "AdresseA": "رقم 41 حي السعادة",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNOUR WA DITAA POUR LE PRESCOLAIRE",
+    "NOM_ETABA": "النور والضياء للتعليم الاولي",
+    "AdresseL": "38 LOT AGHBALOU TIZNIT",
+    "AdresseA": "رقم 38 تجزئة اغبالو 1",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALKHANSA",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 140 مفتاح السعادة",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNASSIME",
+    "NOM_ETABA": "النسيم للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 102 بلوك ب ودادية الموظفين",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT NID",
+    "NOM_ETABA": "العش الصغير",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 58 بلوك د حي المسيرة",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "daoudi",
+    "NOM_ETABA": "الداودي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الحركة 2 رقم 6 أفراك",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BRAAIM AL WIDADIYAT",
+    "NOM_ETABA": "براعم الوداديات للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 70 بلوك \"د\" ودادية الموظفي",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION IDHAMMOU",
+    "NOM_ETABA": "مؤسسة إدهمو",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 14 شارع عقبة بن نافع الحي ",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL IZDIHAR",
+    "NOM_ETABA": "مؤسسة الازدهار",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 689 خارج باب أكلو",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION machkour",
+    "NOM_ETABA": "مؤسسة مشكور",
+    "AdresseL": "",
+    "AdresseA": "رقم 86 تجزئة أرجدال",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anajah ",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 101 تمدغوست",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL AJIAL",
+    "NOM_ETABA": "مؤسسة الأجيال للتعليم الأولي",
+    "AdresseL": "245,LOT. ADOUZ Quartier ILIGH",
+    "AdresseA": " حي أليغ رقم 245 تجزئة أدوز ",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL INBIAT",
+    "NOM_ETABA": "مؤسسة الانبعاث",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 31 حي المسيرة 2",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALMOUKHTAR SOUSSI",
+    "NOM_ETABA": "مؤسسة المختار السوسي للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 11 أغبالو 1 تجزئة حما",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALIF-LAM",
+    "NOM_ETABA": "ألف لام",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 18 تعاونية الأمل طريق افني",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ESPACE ENFANT",
+    "NOM_ETABA": "مؤسسة فضاء الطفل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 236 تجزئة النخيل",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RIAD ENNASR",
+    "NOM_ETABA": "مؤسسة رياض النصر",
+    "AdresseL": "N° 152 Lotissement riad ennace",
+    "AdresseA": "رقم 152 تجزئة رياض النصر",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NASSAMAT NAKHIL",
+    "NOM_ETABA": "نسمات النخيل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 431 شارع ازوكا تجزئة النخي",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "eTABLISSEMENT TAGOUNSA",
+    "NOM_ETABA": "مؤسسة تكنسة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 47 تجزئة الانبعاث",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LINA POUR LE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة لينة للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 266 خارج باب اكلو",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION EL FATH",
+    "NOM_ETABA": "مؤسسة الفتح",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 90 تجزئة الفتح",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL HIDAYA",
+    "NOM_ETABA": "مؤسسة الهداية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 289 تجزئة النخيل",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT HAMSEK",
+    "NOM_ETABA": "مؤسسة حمسك",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 132 زنقة اد علي ابهي حي اد",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANWAR",
+    "NOM_ETABA": "مؤسسة الأنوار",
+    "AdresseL": "",
+    "AdresseA": "رقم 605 زنقة أعمو",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL MOUSTAKBAL",
+    "NOM_ETABA": "مؤسسة المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 80 تجزئة العين الزرقاء",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL FADILA",
+    "NOM_ETABA": "مؤسسة الفضيلة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 314 زنقة تفركانت إادكفا",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CHAHRAZADE",
+    "NOM_ETABA": "مؤسسة شهرزاد",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 2 بلوك \"أ\" حي المسيرة",
+    "COMMUNE": "Tiznit ",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

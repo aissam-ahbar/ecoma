@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "S S HAMMADI ALMOURABITI",
+    "NOM_ETABA": "م م حمادي المرابطي",
+    "AdresseL": "AFERKAT CENTRE COMMUNE AFERKAT",
+    "AdresseA": "افركط المركز  جماعة افركط",
+    "COMMUNE": "Aferkat",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL AAINE",
+    "NOM_ETABA": "م م العين",
+    "AdresseL": "DOUAR AIN COMMUNE AFERKAT",
+    "AdresseA": "دوار العين  جماعة افركط",
+    "COMMUNE": "Aferkat",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S HASSI EL GAH",
+    "NOM_ETABA": "م م حاسي الكاح",
+    "AdresseL": "DOUAR HASSI EL GAH COMMUNE AFERKAT",
+    "AdresseA": "دوار حاسي الكاح  جماعة افركط",
+    "COMMUNE": "Aferkat",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AFERKATE ",
+    "NOM_ETABA": "الثانوية التأهيلية أفركط",
+    "AdresseL": "COMMUNE AFERKeT CENTRE",
+    "AdresseA": "جماعة افركط المركز",
+    "COMMUNE": "Aferkat",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

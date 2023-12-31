@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "C ZAOUIATE SIDI TAHR",
+    "NOM_ETABA": " ثإ.زاوية سيدي الطاهر",
+    "AdresseL": "centre de la commune",
+    "AdresseA": "مركز الجماعة",
+    "COMMUNE": "Zaouia Sidi Tahar",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULAD M SAFER",
+    "NOM_ETABA": "م.م اولاد مسافر",
+    "AdresseL": "DOUAR  OULAD M SAFER Cr zaouit SIDI TAHAR",
+    "AdresseA": "دوار اولاد مسافر جماعة زاوية سيدي الطاهر",
+    "COMMUNE": "Zaouia Sidi Tahar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LABAARIR",
+    "NOM_ETABA": "م.م البعارير",
+    "AdresseL": "DOUAR  LABAARIR LOULIA CSIDI TAHAR",
+    "AdresseA": "دوار البعارير العليا جماعة سيدي طاهر",
+    "COMMUNE": "Zaouia Sidi Tahar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

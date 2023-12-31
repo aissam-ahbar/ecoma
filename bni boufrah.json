@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "BNI BOUFRAH COLLEGE",
+    "NOM_ETABA": "بني بوفراح",
+    "AdresseL": "CENTRE BNI BOUFRAH  COMMUNE BNI BOUFRAH",
+    "AdresseA": "مركز بني بوفراح جماعة بني بوفراح",
+    "COMMUNE": "Bni Boufrah",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TORRES",
+    "NOM_ETABA": "الطوريس",
+    "AdresseL": "DOUAR TORRES COMMUNE BNI BOUFRAH",
+    "AdresseA": "دوار الطوريس",
+    "COMMUNE": "Bni Boufrah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT TAYEB",
+    "NOM_ETABA": "ايت الطيب",
+    "AdresseL": " AIT TAYEB COMMUNE BNI BOUFRAH",
+    "AdresseA": " ايت الطيب جماعة بني بوفراح",
+    "COMMUNE": "Bni Boufrah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGNI",
+    "NOM_ETABA": "اكني",
+    "AdresseL": "DOUAR AGNI COMMUNE BNI BOUFRAH",
+    "AdresseA": "دوار اكني جماعة بني بوفراح",
+    "COMMUNE": "Bni Boufrah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IHAROUNEN 2",
+    "NOM_ETABA": "اهارونن 2",
+    "AdresseL": "DOUAR IGZANAYEN COMMUNE BNI BOUFRAH",
+    "AdresseA": "دوار اكزناين جماعة بني بوفراح",
+    "COMMUNE": "Bni Boufrah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE BNI BOUFRAH",
+    "NOM_ETABA": "ثانوية بني بوفراح",
+    "AdresseL": "COMMUNE BNI BOUFRAH",
+    "AdresseA": "جماعة  بني بوفراح",
+    "COMMUNE": "Bni Boufrah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

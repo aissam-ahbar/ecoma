@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SOUALEH BEN HAMMADI CENTRE",
+    "NOM_ETABA": "الصوالح بن حمادي المركزية",
+    "AdresseL": "DOUAR SOUALEH BEN HAMMEDI COMMUNE SIDI ALI LABRAHL",
+    "AdresseA": "دوار الصوالح بن حمادي",
+    "COMMUNE": "Sidi Ali Labrahla",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MOURABITINE HOUJJAJ CENTRE",
+    "NOM_ETABA": "المرابطين الحجاج المركزية",
+    "AdresseL": "DOUAR EL MOURABITINE COMMUNE SIDI ALI LABRAHLA",
+    "AdresseA": "دوار المرابطين الحجاج",
+    "COMMUNE": "Sidi Ali Labrahla",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABRAHLA CENTRE",
+    "NOM_ETABA": "البراحلة المركزية",
+    "AdresseL": "COMMUNE SIDI ALI LABRAHLA",
+    "AdresseA": "جماعة سيدي علي البراحلة",
+    "COMMUNE": "Sidi Ali Labrahla",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SMIHATE CENTRE",
+    "NOM_ETABA": "السميحات المركزية",
+    "AdresseL": "DOUAR SMIHATE COMMUNE LBRAHLA",
+    "AdresseA": "دوار السميحات",
+    "COMMUNE": "Sidi Ali Labrahla",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

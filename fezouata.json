@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS TINFOU",
+    "NOM_ETABA": "م.م تنفو",
+    "AdresseL": "DOUAR TINFOU CFAZOUATA  TAMEGROUTE  ZAGORA",
+    "AdresseA": "تنفو جماعة فزواطة ــ تمكروت ــ زاكورة",
+    "COMMUNE": "Fezouata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BENI ALI",
+    "NOM_ETABA": "م.م بني علي",
+    "AdresseL": "DOUAR BNI ALI CFAZOUATA",
+    "AdresseA": "دوار ايت علي و سعيد- جماعة فزواطة-تامكروت- زاكورة",
+    "COMMUNE": "Fezouata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUIA EL BARANIA",
+    "NOM_ETABA": "م.م الزاوية البرانية",
+    "AdresseL": "DOUAR ZAOUIA LBARRANIa c FAZOUATA",
+    "AdresseA": " دوار الزاوية البرانية جماعة  فزواطة زاكورة",
+    "COMMUNE": "Fezouata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 16 NOVEMBRE",
+    "NOM_ETABA": "الثانوية التأهيلية 16 نونبر ",
+    "AdresseL": "FEZOUATA",
+    "AdresseA": "فزواطة",
+    "COMMUNE": "Fezouata",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

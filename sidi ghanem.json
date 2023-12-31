@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "BOULAAOUANE",
+    "NOM_ETABA": "بولعوان",
+    "AdresseL": "DOUAR BOULAAOUANE COMMUNE SIDI GHANEM",
+    "AdresseA": "دوار بولعوان",
+    "COMMUNE": "Sidi Ghanem",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUZOMTANE",
+    "NOM_ETABA": "تزومطان",
+    "AdresseL": "DOUAR TOUZOMTANE COMMUNE SIDI GHANEM",
+    "AdresseA": "دوار  تزومطان",
+    "COMMUNE": "Sidi Ghanem",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT LAHCEN",
+    "NOM_ETABA": "ايت لحسن",
+    "AdresseL": "DOUAR AIT LAHCEN COMMUNE SIDI GHANEM",
+    "AdresseA": "دوار  ايت لحسن",
+    "COMMUNE": "Sidi Ghanem",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMASSINE",
+    "NOM_ETABA": "اماسين",
+    "AdresseL": "DOUAR IMASSINE COMMUNE SIDI GHANEM",
+    "AdresseA": "دوار اماسين جماعة سيدي غانم",
+    "COMMUNE": "Sidi Ghanem",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGHCHAOUATE CENTRE",
+    "NOM_ETABA": "لغشاوات المركزية",
+    "AdresseL": "DOUAR LAGHCHAOUATE COMMUNE SIDI GHANEM",
+    "AdresseA": "دوار الغشاوات",
+    "COMMUNE": "Sidi Ghanem",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD DAOUD CENTRE",
+    "NOM_ETABA": "اولاد داوود المركزية",
+    "AdresseL": "DOUAR OULED DAOUD COMMUNE SIDI GHANEM",
+    "AdresseA": "دوار اولاد داوود",
+    "COMMUNE": "Sidi Ghanem",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ABBOU BEN GUERRIR CENTRE",
+    "NOM_ETABA": "اولاد عبو بن جرير المركزية",
+    "AdresseL": "DOUAR OULED ABBOU SIDI GHANEM",
+    "AdresseA": "دوار اولاد عبو جماعة سيدي غانم",
+    "COMMUNE": "Sidi Ghanem",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI GHANEM CENTRE",
+    "NOM_ETABA": "سيدي غانم المركزية",
+    "AdresseL": "DOUAR SIDI GHANEM COMMUNE SIDI GHANEM",
+    "AdresseA": "دوار سيدي غانم",
+    "COMMUNE": "Sidi Ghanem",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

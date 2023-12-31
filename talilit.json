@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS TALIOUINE",
+    "NOM_ETABA": "م.م تالوين",
+    "AdresseL": "DOUAR TALIOUINE COMMUNE TALILIT",
+    "AdresseA": "تالوين تاليليت",
+    "COMMUNE": "Talilit",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANOUAL",
+    "NOM_ETABA": "م.م انوال",
+    "AdresseL": "DOUAR ICHARKIENE COMMUNE TALITIT",
+    "AdresseA": "اشرقيا تليليلت",
+    "COMMUNE": "Talilit",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

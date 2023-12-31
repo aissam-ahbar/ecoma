@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN KHALDOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية ابن خلدون",
+    "AdresseL": "COMMUNE LAQSABI GUELMIM",
+    "AdresseA": "جماعة لقصابي",
+    "COMMUNE": "Laqsabi Tagoust",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S TAGOUST",
+    "NOM_ETABA": "م م تكاوست",
+    "AdresseL": "LAQSABI COMMUNE LQSABI",
+    "AdresseA": "لقصابي جماعة لقصابي",
+    "COMMUNE": "Laqsabi Tagoust",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TISGNANE",
+    "NOM_ETABA": "مجموعة مدارس تسكنان",
+    "AdresseL": "TISGNANE COMMUNE LAQSABI",
+    "AdresseA": "تسكنان دوار لقصابي",
+    "COMMUNE": "Laqsabi Tagoust",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "م م عمر بن عبد العزيز",
+    "AdresseL": "DOUAR ABOUDA COMMUNE LAQSABI",
+    "AdresseA": "دوار عبودة جماعة  لقصابي",
+    "COMMUNE": "Laqsabi Tagoust",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL AMAL",
+    "NOM_ETABA": "الثانوية التأهيلية الأمل",
+    "AdresseL": "commune laqsabi",
+    "AdresseA": "جماعة لقصابي",
+    "COMMUNE": "Laqsabi Tagoust",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

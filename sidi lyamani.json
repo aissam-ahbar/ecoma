@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI EL YAMANI",
+    "NOM_ETABA": "الثانوية الاعدادية سيدي اليماني",
+    "AdresseL": "CENTRE SIDI LYAMANI COMMUNE SIDI LYAMANI",
+    "AdresseA": "مركز سيدي اليماني جماعة سيدي اليماني",
+    "COMMUNE": "Sidi Lyamani",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI EL YAMANI",
+    "NOM_ETABA": "مدرسة سيدي اليماني الابتدائية",
+    "AdresseL": "CENTRE SIDI LYAMANI COMMUNE SIDI LYAMANI bp 15",
+    "AdresseA": "سيدي اليماني ص.ب 15",
+    "COMMUNE": "Sidi Lyamani",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULED RIAHI",
+    "NOM_ETABA": "المجموعة المدرسية أولاد الرياحي",
+    "AdresseL": "DOUAR OULAD RIAHI COMMUNE SIDI LYAMANI",
+    "AdresseA": "دوار أولاد الرياحي جماعة سيدي اليماني",
+    "COMMUNE": "Sidi Lyamani",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OULAD ATTIA",
+    "NOM_ETABA": "مدرسة أولاد عطية الابتدائية",
+    "AdresseL": "dOUAR OULad ATTIA COMMUNE SIDI YAMANI",
+    "AdresseA": "دوار أولاد عطية جماعة سيدي اليماني",
+    "COMMUNE": "Sidi Lyamani",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ASSAYIDA LHOURA",
+    "NOM_ETABA": "الثانوية التأهيلية السيدة الحرة",
+    "AdresseL": "centre commune sidi lyamani",
+    "AdresseA": "مركز جماعة سيدي اليمني",
+    "COMMUNE": "Sidi Lyamani",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

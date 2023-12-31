@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial IDRISS PREMIER",
+    "NOM_ETABA": "الثانوية الإعدادية إدريس الأول",
+    "AdresseL": "QUARTIER  KHAIBER LOUTAYA COMMUNE MY DRISS ZERHOUN",
+    "AdresseA": "حي خيبر الوطاية مولاي ادريس",
+    "COMMUNE": "Moulay Driss Zerhoun",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial KHAIBER",
+    "NOM_ETABA": "الثانوية الإعدادية خيبر",
+    "AdresseL": " QUARTIER KHAIBER COMMUNE MY DRISS ZERHOUN",
+    "AdresseA": "حي خيبر مولاي ادريس",
+    "COMMUNE": "Moulay Driss Zerhoun",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUHOUD",
+    "NOM_ETABA": "أحد",
+    "AdresseL": "KHAIBER COMMUNE MY IDRISS ZERHOUN",
+    "AdresseA": "حي خيبر باب الجديد مولاي ادريس زرهون",
+    "COMMUNE": "Moulay Driss Zerhoun",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASMAE BENT ABI BAKR",
+    "NOM_ETABA": "اسماء بنت ابي بكر",
+    "AdresseL": "KHAIBER COMMUNE MY DRISS ZERHOUN",
+    "AdresseA": "خيبر جماعة مولاي ادريس زرهون",
+    "COMMUNE": "Moulay Driss Zerhoun",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH BEN HOUDAFA",
+    "NOM_ETABA": "عبد الله بن حذافة",
+    "AdresseL": "AIN RJAL COMMUN MY DRISS ZERHOUN",
+    "AdresseA": "حي عين الرجال جماعة مولاي ادريس زرهون",
+    "COMMUNE": "Moulay Driss Zerhoun",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant KHAWARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "PLACE KHAIBER COMMUNE MY IDRISS ZERHOUNE",
+    "AdresseA": "ساحة خيبر",
+    "COMMUNE": "Moulay Driss Zerhoun",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

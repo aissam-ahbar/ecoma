@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "ABI LHASSAN EL MARINI",
+    "NOM_ETABA": "ابي الحسن المريني",
+    "AdresseL": "SOUK EL HAD  SABBAH",
+    "AdresseA": "سوق الاحد الصباح",
+    "COMMUNE": "Sabbah",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIN ROZ",
+    "NOM_ETABA": "عين الروز",
+    "AdresseL": "AIN ROUZ  cOMMUNE SABBAH Skhirat",
+    "AdresseA": "  عين الرو ز جماعة الصباح الصخيرات",
+    "COMMUNE": "Sabbah",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI BAKR IBN ZOHR",
+    "NOM_ETABA": "ابي بكر بن زهر",
+    "AdresseL": "SOUK EL HAD SABBAH",
+    "AdresseA": "سوق الحد الصباح",
+    "COMMUNE": "Sabbah",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RABIAA AL ADAWIYA",
+    "NOM_ETABA": "مدرسة رابعة العدوية",
+    "AdresseL": "Sabbah centre",
+    "AdresseA": "الصباح المركز",
+    "COMMUNE": "Sabbah",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDALLAH IBRAHIM",
+    "NOM_ETABA": "عبد الله إبراهيم",
+    "AdresseL": "SEbbah centre",
+    "AdresseA": "الصباح المركز",
+    "COMMUNE": "Sabbah",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

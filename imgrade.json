@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "S S IMAGRAD",
+    "NOM_ETABA": "م.م. إمكراد",
+    "AdresseL": "DOUAR ID LANTA IMgRAD",
+    "AdresseA": "دوار إدلنتا إمكراد",
+    "COMMUNE": "Imgrade",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL KHAWARZMI",
+    "NOM_ETABA": "م م الخوارزمي",
+    "AdresseL": "DOUAR AIT TAABIT IMEGRADE",
+    "AdresseA": "دوار ايت عبيت إمكراد",
+    "COMMUNE": "Imgrade",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S DHAR",
+    "NOM_ETABA": "م.م الظهر",
+    "AdresseL": "DOUAR DHAR IMEGRADE",
+    "AdresseA": "دوار الظهر إمكراد",
+    "COMMUNE": "Imgrade",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " S S IMAM ECHAFAAI",
+    "NOM_ETABA": "م/م الامام اشافعي",
+    "AdresseL": "DOUAR IGHALEN IMEGRADE",
+    "AdresseA": "دوار أغالن إمكراد",
+    "COMMUNE": "Imgrade",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

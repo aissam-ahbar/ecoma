@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS 6 NOVEMBRE CENTRE TIFERMITE",
+    "NOM_ETABA": "م.م 6 نونبر مركزية تيفرميت",
+    "AdresseL": "DOUAR TIFERMITE",
+    "AdresseA": "دوار تيفرميت",
+    "COMMUNE": "Ida Ou Gougmar",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED CHAWKI CENTRE TAKATARTE",
+    "NOM_ETABA": "م.م احمد شوقي مركزية تكترت",
+    "AdresseL": "DOUAR TAKATARTE",
+    "AdresseA": "دوار تكترت",
+    "COMMUNE": "Ida Ou Gougmar",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAKDDOM CENTRE TLAT IDAGOUGMAR",
+    "NOM_ETABA": "م.م التقدم مركزية تلاتاء اداكوكمار",
+    "AdresseL": "CENTRE COMMUNE TLAT IDAGOUGMAR",
+    "AdresseA": "مركز جماعة اداكوكمار",
+    "COMMUNE": "Ida Ou Gougmar",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

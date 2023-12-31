@@ -1,0 +1,372 @@
+[
+  {
+    "NOM_ETABL": "ETTAHADDI",
+    "NOM_ETABA": "التحدي",
+    "AdresseL": "ROUTE ELGARA BENSLIMANE PK20 CM SIDI HEJJAJ",
+    "AdresseA": "طريق بنسليمان كم 16 جماعة سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI HAJJAJ",
+    "NOM_ETABA": "سيدي حجاج",
+    "AdresseL": "SIDI HAJJAJ CENTRE",
+    "AdresseA": "سيدي حجاج المركز",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL HASSANE AL MOURRAKOCHI",
+    "NOM_ETABA": "الحسن المراكشي",
+    "AdresseL": "LOTISSEMENT RIAD SIDI HAJJAJ",
+    "AdresseA": "مشروع الرياض سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBRAHIM ROUDANI",
+    "NOM_ETABA": "إبراهيم الروداني",
+    "AdresseL": "LOTISSEMENT AL BADR SIDI HAJJAJ OUED HASSAR",
+    "AdresseA": "تجزئة البدر سيدي حجاج واد حصار",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "LOTISSEMENT RIAD SIDI HAJJAJ",
+    "AdresseA": "تجزئة الرياض سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN AL BANNAE",
+    "NOM_ETABA": "ابن البناء",
+    "AdresseL": "LOTISSEMENT ALIA AHL LOGHLAM SIDI HAJJAJ",
+    "AdresseA": "تجزئة العالية أهل لغلام سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OTHMANE BNOU AFFANE",
+    "NOM_ETABA": "عثمان بن عفان",
+    "AdresseL": "LOTISSEMENT JNANE SBIT COMMUNE DE SIDI HAJJAJ",
+    "AdresseA": "تجزئة جنان السبيت - الجماعة القروية سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED EL HARET",
+    "NOM_ETABA": "اولاد الحارث",
+    "AdresseL": "DOUAR OULAD EL HARET C SIDI HAJJAJ OUED HASSAR",
+    "AdresseA": "دوار اولاد الحارث جماعة سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FASSINE GHARBIA",
+    "NOM_ETABA": "الفاسين الغربية",
+    "AdresseL": "DOUAR EL FASSIENE COMMUNE OUED HASSAR SIDI HAJJAJ",
+    "AdresseA": "دوار الفاسين جماعة سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAHID ABDELLAH HADAOUI",
+    "NOM_ETABA": "الشهيد عبد الله الحداوي",
+    "AdresseL": "ROUTE BEN SLIMANE PK 20 SIDI HAJJAJ CASA",
+    "AdresseA": "طريق بن سليمان كم 20  سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MESSAOUD",
+    "NOM_ETABA": "سيدي مسعود",
+    "AdresseL": "DOUAR OUELED SIDI MESSOUD  ROUTE  BEN SLIMANE CASA",
+    "AdresseA": "دواراولاد سيدي مسعود طريق بن سليمان الدار البيضاء ",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHNANCHA",
+    "NOM_ETABA": "الحنانشة",
+    "AdresseL": "DOUAR LAHNANCHA SIDI HAJJAJ ",
+    "AdresseA": "دوار الحنانشة جماعة سيدي حجاج واد حصار",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KACEM AMINE",
+    "NOM_ETABA": "قاسم أمين",
+    "AdresseL": "LOTISSEMENT JNANE SBIT COMMUNE DE SIDI HAJJAJ",
+    "AdresseA": "تجزئة جنان السبيت - الجماعة القروية سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA EZZAHRAE",
+    "NOM_ETABA": "فاطمة الزهراء",
+    "AdresseL": "LOTISSEMENT CHAMS AL MADINA COMMUNE SIDI HAJJAJ",
+    "AdresseA": "تجزئة شمس المدينة - الجماعة القروية سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HAZM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "LOTISSEMENT EL BADR SIDI HAJJAJ",
+    "AdresseA": "تجزئة البدر سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAKKI ENNACIRI",
+    "NOM_ETABA": "المكي الناصري",
+    "AdresseL": "LOTISSEMENT RIAD SIDI HAJJAJ",
+    "AdresseA": "تجزئة الرياض سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNAJAH",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "LOTISSEMENT ANNAJAH SIDI HAJJAJ",
+    "AdresseA": "تجزئة النجاح سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "LOTISSEMENT AL ALIA AHL LOGHLAM",
+    "AdresseA": "تجزئة العالية أهل لغلام",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED CHOUKRY",
+    "NOM_ETABA": "محمد شكري",
+    "AdresseL": "LOTISSEMENT RIAD SIDI HAJJAJ",
+    "AdresseA": "تجزئة الرياض سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAHMOUD DARWICH",
+    "NOM_ETABA": "محمود درويش",
+    "AdresseL": "LOTISSEMENT RIAD ESSALAM  SIDI HAJJAJ",
+    "AdresseA": "تجزئة رياض السلام سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOUTANABBI",
+    "NOM_ETABA": "المتنبي",
+    "AdresseL": "LOTISSEMENT AL BADR SIDI HAJJAJ",
+    "AdresseA": "تجزئة العالية البدر سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKEBIR KHATIBI",
+    "NOM_ETABA": "عبد الكبير الخطيبي",
+    "AdresseL": "LOTISSEMENT RIAD SIDI HAJJAJ",
+    "AdresseA": "تجزئة الرياض سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU MISSKAWAIHE",
+    "NOM_ETABA": "ابن مسكويه",
+    "AdresseL": "LOTISSEMENT RIAD SIDI HAJJAJ",
+    "AdresseA": "مشروع الرياض سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM MALIK",
+    "NOM_ETABA": "الإمام مالك",
+    "AdresseL": "LOTISSEMENT CHEMS AL MADINA 2 SIDI HAJJAJ",
+    "AdresseA": "تجزئة شمس المدينة 2 سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSANE BNOU TABIT",
+    "NOM_ETABA": "حسان  بن ثابت",
+    "AdresseL": "COMMUNE SIDI HEJJAJ",
+    "AdresseA": "جماعة سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ZAFZAF",
+    "NOM_ETABA": "محمد زفزاف",
+    "AdresseL": "LOTISSEMENT RIAD ESSALALM AHL LOGHLAM SIDI HAJJAJ",
+    "AdresseA": "تجزئة رياض السلام أهل لغلام سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ERRAZI",
+    "NOM_ETABA": "الرازي",
+    "AdresseL": "LOTISSEMENT RIAD SIDI HAJJAJ OUED HASSAR",
+    "AdresseA": "مشروع الرياض سيدي حجاج واد حصار",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ISMAIL",
+    "NOM_ETABA": "مولاي إسماعيل",
+    "AdresseL": "DOUAR LAHNANCHA SIDI HAJJAJ OUED HASSAR",
+    "AdresseA": "دوار الحنانشة سيدي حجاج واد حصار",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "RIAD TAFATOUH",
+    "NOM_ETABA": " رياض التفتح ",
+    "AdresseL": "LOTISSEMEN OULED HADDOU N° 157",
+    "AdresseA": " تجزئة ولد حدو رقم 157 سيدي حج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DELTA JUNIOR",
+    "NOM_ETABA": "دلتا جينيور",
+    "AdresseL": "LOTISSEMENT OULED HADDOU N° 68",
+    "AdresseA": "تجزئة ولد حدو رقم 68 سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES LE ROSEY",
+    "NOM_ETABA": "مدارس لوروزي",
+    "AdresseL": "COMMUNE SIDI HAJJAJ OUED HASSA",
+    "AdresseA": "جماعة سيدي حجاج واد حصار",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ACHOUALA",
+    "NOM_ETABA": "مؤسسة الشعلة",
+    "AdresseL": "LOTISSEMENT AL BADR N° 278 SID",
+    "AdresseA": "تجزئة البدر رقم 278 سيدي حجاج ",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ABOU AYOUB AL ANSARI",
+    "NOM_ETABA": "مجموعة مدارس أبو أيوب الأنصاري الخصوصية",
+    "AdresseL": "LOTIEEMENT AL BADR N° 344 SIDI",
+    "AdresseA": "تجزئة البدر رقم 344  سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TAHIR",
+    "NOM_ETABA": "مؤسسة طاهر",
+    "AdresseL": "LOTISSEMENT AL BADR N° 444 SID",
+    "AdresseA": "تجزئة البدر رقم 444 سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EVEREST SCHOOL",
+    "NOM_ETABA": "إيفيرست سكول",
+    "AdresseL": "LOTISSEMENT AL BADR N° 246 SID",
+    "AdresseA": "تجزئة البدر رقم 246 سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES GENIES SCIENTIFIQUES",
+    "NOM_ETABA": "لي جيني سيوننتيفيك",
+    "AdresseL": "N° 14-15-19 Lotissement Riad S",
+    "AdresseA": "الرقم 14-15-19 تجزئة رياض السل",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT ACHADYE",
+    "NOM_ETABA": "مؤسسة أشادي الخصوصية",
+    "AdresseL": "LOTISSEMENT EL ALIA N° 29 SIDI",
+    "AdresseA": "تجزئة العاليا رقم 29 سيدي حجاج",
+    "COMMUNE": "Sidi Hajjaj Oued Hassar",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

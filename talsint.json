@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "HAY EL JADID talsint",
+    "AdresseA": "الحي الجديد تالسينت",
+    "COMMUNE": "Talsint",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY ALI BEN AMAR",
+    "NOM_ETABA": "مولاي علي بن عمرو",
+    "AdresseL": "AVENUE DE LA POSTE",
+    "AdresseA": "شارع البريد",
+    "COMMUNE": "Talsint",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAKIA EL HAMRA",
+    "NOM_ETABA": "الساقية الحمراء",
+    "AdresseL": "EL HAY EL JADID",
+    "AdresseA": "الحي الجديد",
+    "COMMUNE": "Talsint",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ALI CHARIF",
+    "NOM_ETABA": "مولاي علي الشريف",
+    "AdresseL": "KSAR MEDRAR",
+    "AdresseA": "قصر مدرار",
+    "COMMUNE": "Talsint",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN SINA",
+    "NOM_ETABA": "إبن سينا",
+    "AdresseL": "hay el jadid talsint",
+    "AdresseA": "الحي الجديد تالسينت",
+    "COMMUNE": "Talsint",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KHAWARIZMI",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "CENTRE TALSINT",
+    "AdresseA": "مركز تالسينت",
+    "COMMUNE": "Talsint",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

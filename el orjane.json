@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "EL OURJANE",
+    "NOM_ETABA": "العرجان",
+    "AdresseL": "ss moulay driss elorjane",
+    "AdresseA": "م.م مولاي ادريس العرجان",
+    "COMMUNE": "El Orjane",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TASSA",
+    "NOM_ETABA": "تاسة",
+    "AdresseL": "TASSA CENTRE COMMUNE EL ORJANE",
+    "AdresseA": "تاسة المركز جماعة العرجان",
+    "COMMUNE": "El Orjane",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN BATTOUTA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن بطوطة",
+    "AdresseL": "CENTRE COMMUNE EL OURJANE",
+    "AdresseA": "مركز جماعة العرجان",
+    "COMMUNE": "El Orjane",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

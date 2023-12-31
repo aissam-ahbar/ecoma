@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH AROUI",
+    "NOM_ETABA": "ثانوية عبد الله العروي الاعدادية",
+    "AdresseL": "centre ouled sidi ali ben youssef",
+    "AdresseA": " مركز أولاد سيدي علي بن يوسف",
+    "COMMUNE": "Oulad Sidi Ali Ben Youssef",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S EL AOUJATE",
+    "NOM_ETABA": "م/م العوجات",
+    "AdresseL": "DOUAR ELAOUJATE ",
+    "AdresseA": "دوار العوجات",
+    "COMMUNE": "Oulad Sidi Ali Ben Youssef",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED ZAID",
+    "NOM_ETABA": "م/م أولاد زيد",
+    "AdresseL": "DOUAR LAHRARDA",
+    "AdresseA": "دوار الهراردة ",
+    "COMMUNE": "Oulad Sidi Ali Ben Youssef",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

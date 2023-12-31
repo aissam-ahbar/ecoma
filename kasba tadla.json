@@ -1,0 +1,272 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AL MASSIRA",
+    "NOM_ETABA": "ثانوية المسيرة الإعدادية",
+    "AdresseL": "BD 20 AOUT KASBA TADLA",
+    "AdresseA": "شارع 20 غشت قصبة تادلا",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AIT AAMR",
+    "NOM_ETABA": "ثانوية ايت اعمر الإعدادية",
+    "AdresseL": "Municipalité KasbaTadla",
+    "AdresseA": "بلدية قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SMARA",
+    "NOM_ETABA": " م السمارة",
+    "AdresseL": "KASBA TADLA",
+    "AdresseA": "بلدية  قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OBBAD EL MAJJATI",
+    "NOM_ETABA": "م عباد المجاطي",
+    "AdresseL": "KASBA TADLA",
+    "AdresseA": "بلدية  قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CENTRALE FILLES",
+    "NOM_ETABA": "م البنات المركزية",
+    "AdresseL": "RUE SIDI BELKACEM  KASBA TADLA",
+    "AdresseA": "بلدية  قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU EL KASSIM CHARKI",
+    "NOM_ETABA": " م ابوالقاسم الشرقي",
+    "AdresseL": "RUE SIDI BELKACEM KASBAT TADLA",
+    "AdresseA": "بلدية  قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SEMGUET",
+    "NOM_ETABA": "م سمكت",
+    "AdresseL": "HAY BOUDRAE KASBA TADLA",
+    "AdresseA": "بلدية  قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUM ERRABIE",
+    "NOM_ETABA": "م ام الربيع",
+    "AdresseL": "HAY  HAJRA KASBA TADLA",
+    "AdresseA": "بلدية  قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ZOHR",
+    "NOM_ETABA": "م ابن زهر",
+    "AdresseL": "BOULEVARD IBNOU ZOHR KASBA TADLA",
+    "AdresseA": "بلدية  قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BERRAKA ",
+    "NOM_ETABA": "م براكة",
+    "AdresseL": "  QUARTIER BERRAKA DU NORD COMMUNE KASBAT TADLA",
+    "AdresseA": "حي براكة الشمالية جماعة  قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOULAY RACHID",
+    "NOM_ETABA": "ثانوية مولاي رشيد التأهيلية",
+    "AdresseL": "HAY MAJJAT ROUTE DE CASA sidi hammou ezzine",
+    "AdresseA": "حي مجاط طريق الدارالبيضاء سيدي حمو الزين",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOULAY ISMAIL",
+    "NOM_ETABA": "ثانوية مولاي اسماعيل التأهيلية",
+    "AdresseL": "RUE SIDI BELGASEM KASBA TADLA",
+    "AdresseA": "زنقة سيدي بلكاسم قصبة تادلة",
+    "COMMUNE": "Kasba Tadla",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lokman alhakim",
+    "NOM_ETABA": "لقمان الحكيم",
+    "AdresseL": "quartier alqods n°43",
+    "AdresseA": "43 حي القدس",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL GHAZALI",
+    "NOM_ETABA": "الغزالي",
+    "AdresseL": "",
+    "AdresseA": "-",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ibnou alaaref",
+    "NOM_ETABA": "ابن العارف",
+    "AdresseL": "quartier al mers tadla",
+    "AdresseA": "حي المرس",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE PEPINIERE LA MARTINIERE 2",
+    "NOM_ETABA": "مجموعة مدارس ببنيير لا مارتينيار 2",
+    "AdresseL": "N° 8 QUARTIER ANNKHILA TADLA",
+    "AdresseA": "الرقم 8 حي النخيلة قصبة تادلة",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Moutanabi",
+    "NOM_ETABA": "المتنبي",
+    "AdresseL": "Quartier Sami, Bloc B, N° 2 - ",
+    "AdresseA": "حي سامي، بلوك \"ب\"، رقم 2 - قصب",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement  Pepinière Lamartinière",
+    "NOM_ETABA": "مؤسسة منبت لامارتينيير",
+    "AdresseL": "LOTISSEMENT LA PEPINIERE-N.27-",
+    "AdresseA": "تجزئة المنبت رقم27-29-30-31 قص",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Hatem Tai",
+    "NOM_ETABA": "حاتم الطائي",
+    "AdresseL": "N° 187,Hay Pam avenue 20 Aout-",
+    "AdresseA": "رقم 187، حي بام شارع 20 غشت- ج",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Moustakbal",
+    "NOM_ETABA": "المستقبل",
+    "AdresseL": "N°3 et 6, Lotissement Mabrouka",
+    "AdresseA": "رقم 3و6، تجزئة مبروكة، أيت عمر",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Layan",
+    "NOM_ETABA": "ليان",
+    "AdresseL": "Hay elyoumn, N° 63 Bis",
+    "AdresseA": "حي اليمن، رقم 63 مكرر",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OMAR IBNOU EL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "rue kadi aaiad n 29 kasba tadl",
+    "AdresseA": "شارع القاضي عياض رقم 29 قصبة ت",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL MAALI",
+    "NOM_ETABA": "المعالي",
+    "AdresseL": "",
+    "AdresseA": "حي بام رقم 433 قصبة تادلة",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAYT AL MANHAL",
+    "NOM_ETABA": "بيت المنهل",
+    "AdresseL": "12, yassir arafat kasba tadla",
+    "AdresseA": "رقم 12 زنقة ياسر عرفات قصبة تا",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL MAALI ALMAARIFIA",
+    "NOM_ETABA": "المعالي المعرفية ",
+    "AdresseL": "qUARTIER ERRACHIDIYA N 149 K.T",
+    "AdresseA": "الرقم 149 حي الراشيدية قصبة تا",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA MARTINIERE 3",
+    "NOM_ETABA": "مجموعة مدارس لامارتينيير3",
+    "AdresseL": "Lot almanbat 27-29-30-31 kasba",
+    "AdresseA": "تجزئة المنبت 27-29-30-31 قصبة ",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ALKHATTAB 2",
+    "NOM_ETABA": "عمر بن الخطاب 2",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة التادلوية بلوك 3 رقم 33 ",
+    "COMMUNE": "Kasba Tadla ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

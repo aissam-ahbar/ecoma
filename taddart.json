@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNAHDA",
+    "NOM_ETABA": "الثانوية الإعدادية النهضة",
+    "AdresseL": "TADDART CENTRE   GUERCIF",
+    "AdresseA": "تادارت المركز",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TADDARTE CENTRE",
+    "NOM_ETABA": "تادرت المركز",
+    "AdresseL": " TADDARTE COMMUNE TADDARET",
+    "AdresseA": "دوار تادارت جماعة تادرت",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RANATE CENTRE",
+    "NOM_ETABA": "الرانات المركز",
+    "AdresseL": "RANATE CENTRE COMMUNE TADDARET",
+    "AdresseA": "دوار الرانات جماعة تادارت",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALYASSAMINE",
+    "NOM_ETABA": "مدرسة الياسمين الابتدائية",
+    "AdresseL": "DOUAR LABIYER COMMUNE TADDARET",
+    "AdresseA": "دوار البعيير جماعة تادارت",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MASSIRA",
+    "NOM_ETABA": "المسيرة",
+    "AdresseL": "DOUAR EL MASSIRA COMMUNE TADDARET",
+    "AdresseA": " دوار المسيرة جماعة تادارت",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAFSAFATE CENTRE",
+    "NOM_ETABA": "الصفصافات المركز",
+    "AdresseL": "SAFSAFAT COMMUNE TADDART",
+    "AdresseA": "دوار الصفصافات جماعة تادارت",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOUIHLA CENTRE",
+    "NOM_ETABA": "السويهلة المركز",
+    "AdresseL": "DOUAR SOUIHLA COMMUNE TADDART",
+    "AdresseA": "دوارالسويهلة جماعة تادارت",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MSOUNE CENTRE",
+    "NOM_ETABA": "امسون المركز",
+    "AdresseL": "MSSOUNE COMMUNE TADDARET",
+    "AdresseA": "دوار امسون جماعة تادارت",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUN",
+    "NOM_ETABA": "ثانوية ابن خلدون التأهيلية",
+    "AdresseL": "CR TADDART Centre Guercif",
+    "AdresseA": "مركز جماعة تادرت، جرسيف",
+    "COMMUNE": "Taddart",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

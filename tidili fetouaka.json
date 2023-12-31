@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMOKHTAR SOUSSI",
+    "NOM_ETABA": "ثانوية المختار السوسي الاعدادية",
+    "AdresseL": "CENTRE COMMUNE TIDILI FATOUAKA",
+    "AdresseA": "مركز جماعة تديلي فطواكة",
+    "COMMUNE": "Tidili Fetouaka",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE DAR ELJAKIR",
+    "NOM_ETABA": "مركزية دار الجاكير",
+    "AdresseL": "DOUAR DAR ELJAKIR",
+    "AdresseA": "دوار دار الجاكير ",
+    "COMMUNE": "Tidili Fetouaka",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIDLI",
+    "NOM_ETABA": "مركزية تيديلي",
+    "AdresseL": "CENTRE COMMUNE TIDILI FETOUAKA",
+    "AdresseA": "مركز جماعة تيديلي فطواكة",
+    "COMMUNE": "Tidili Fetouaka",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SEMDEN",
+    "NOM_ETABA": "مركزية سمدن",
+    "AdresseL": "DOUAR SEMDEN ",
+    "AdresseA": "دوار سمدن",
+    "COMMUNE": "Tidili Fetouaka",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUNE",
+    "NOM_ETABA": "ثانوية ابن خلدون التأهيلية",
+    "AdresseL": "COMMUNE TIDILI FETOUAKA",
+    "AdresseA": "مركز جماعة تديلي فطواكة",
+    "COMMUNE": "Tidili Fetouaka",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

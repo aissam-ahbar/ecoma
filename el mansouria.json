@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MANSOURIA",
+    "NOM_ETABA": "الثانوية الإعدادية المنصورية",
+    "AdresseL": "commune urbaine el mansouria PROVINCE BEN SLIMANE",
+    "AdresseA": "الجماعة الحضرية المنصورية إقليم بن سليمان",
+    "COMMUNE": "El Mansouria",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL MANSOURIA CENTRE",
+    "NOM_ETABA": "م/م المنصورية المركزية",
+    "AdresseL": "PONT BLONDAN COMMUNE MANSOURIA",
+    "AdresseA": "قنطرة بلاتدان جماعة المنصورية",
+    "COMMUNE": "El Mansouria",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS JAPPOUJA ",
+    "NOM_ETABA": "م/م الجبوجة ",
+    "AdresseL": "DOUAR BNI RACHED COMMUNE MANSOURIA",
+    "AdresseA": "دوار بني راشد جماعة المنصورية",
+    "COMMUNE": "El Mansouria",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  BNI AMEUR CENTRE",
+    "NOM_ETABA": "م/م بني عامر المركزية",
+    "AdresseL": "DOUAR BNI AMEUR COMMUNE MANSOURIA",
+    "AdresseA": "دوار بني عامر جماعة المنصورية",
+    "COMMUNE": "El Mansouria",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MASSIRA",
+    "NOM_ETABA": "مدرسة المسيرة",
+    "AdresseL": "COMMUNE EL MANSOURIA",
+    "AdresseA": "مركز جماعة المنصورية",
+    "COMMUNE": "El Mansouria",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MANSOURIA",
+    "NOM_ETABA": "الثانوية التأهيلية المنصورية",
+    "AdresseL": "Commune El Mansouria",
+    "AdresseA": "جماعة المنصورية",
+    "COMMUNE": "El Mansouria",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FREUD",
+    "NOM_ETABA": "مؤسسة فرويد الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "ط.و 32 تجزئة منسباي بيتش  المن",
+    "COMMUNE": "El Mansouria ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

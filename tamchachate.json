@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "BOUTHMRIT",
+    "NOM_ETABA": "بوتحمريت",
+    "AdresseL": "COOPERATIVE BOUTHAMRITE CTAMCHACHATE",
+    "AdresseA": "تعاونية بوتحمريت جماعة تامشاشاط ",
+    "COMMUNE": "Tamchachate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGHBALOU NTALEB",
+    "NOM_ETABA": "اغبالو نطالب",
+    "AdresseL": "AGHBALOU NOUTALEB TAMCHACHATE",
+    "AdresseA": "اغبلو نطالب  تمشاشاط",
+    "COMMUNE": "Tamchachate",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

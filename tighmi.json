@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS 20 AOUT CENTRE AMASSINE",
+    "NOM_ETABA": "م.م 20 غشت مركزية اماسين",
+    "AdresseL": "DOUAR AMASSINE",
+    "AdresseA": "دوار اماسين",
+    "COMMUNE": "Tighmi",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ERRAZI",
+    "NOM_ETABA": "الثانوية التأهيلية الرازي",
+    "AdresseL": " centre COMMUNE TIGHMI",
+    "AdresseA": "مركز جماعة تيغمي",
+    "COMMUNE": "Tighmi",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL AL IRFANE",
+    "NOM_ETABA": "ثانوية العرفان الإعدادية ",
+    "AdresseL": "COMMUNE KOUDIAT BNI DGHOUGH",
+    "AdresseA": "جماعة كدية بني دغوغ",
+    "COMMUNE": "Koudiat Bni Dghough",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAFLALHA",
+    "NOM_ETABA": "لفلالحة",
+    "AdresseL": "DOUAR LKOUDIA KOUDIAT BNI DGHOUGH",
+    "AdresseA": "دوار الكدية جماعة كدية بني دغوغ",
+    "COMMUNE": "Koudiat Bni Dghough",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABLALLA",
+    "NOM_ETABA": "البلالة",
+    "AdresseL": "DOUAR LABLALLA COMMUNE KOUDIAT BNI DGHOUGH",
+    "AdresseA": "دوار البلالة جماعة كدية بني دغوغ",
+    "COMMUNE": "Koudiat Bni Dghough",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FAOUARISSE",
+    "NOM_ETABA": "الفوارس",
+    "AdresseL": "DOUAR EL FOUARISSE COMMUNE KOUDIAT BNI DGHOUGH",
+    "AdresseA": "دوار الفوارس كدية بني دغوغ",
+    "COMMUNE": "Koudiat Bni Dghough",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMMRASSE",
+    "NOM_ETABA": "لمراس",
+    "AdresseL": "D0UAR LAMRASSE koudiat bini drough",
+    "AdresseA": "دوار لمراس جماعة كدية  بني دغوغ",
+    "COMMUNE": "Koudiat Bni Dghough",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

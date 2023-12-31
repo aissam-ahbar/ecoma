@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN HAZM",
+    "NOM_ETABA": "الثانوية الإعدادية ابن حزم",
+    "AdresseL": "centre commune laamamra",
+    "AdresseA": "مركز جماعة العمامرة",
+    "COMMUNE": "Laamamra",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ABDELMOUMEN BELASRI",
+    "NOM_ETABA": "م/م عبد المومن بلعسري",
+    "AdresseL": "DOUAR OULAD BEL ASRI   COMMUNE LAAMAMRA",
+    "AdresseA": " دوار أولاد بلعسري  جماعة العمامرة",
+    "COMMUNE": "Laamamra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOUNAFISS",
+    "NOM_ETABA": "م/م ابن النفيس",
+    "AdresseL": "DOUAR LAGHOUIZATE COMMUNE LAAMAMRA",
+    "AdresseA": "دوار لغويزات جماعة لعمامرة",
+    "COMMUNE": "Laamamra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAAIJATE",
+    "NOM_ETABA": "م/م الدعيجات",
+    "AdresseL": "DOUAR DAAIJATE COMMUNE LAAMAMRA",
+    "AdresseA": "دوار الدعيجات جماعة العمامرة",
+    "COMMUNE": "Laamamra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

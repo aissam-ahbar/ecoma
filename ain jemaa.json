@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "OUED ROMMANE",
+    "NOM_ETABA": "واد الرمان  المركز",
+    "AdresseL": "CENTRE OUED ROUMANE COMMUNE AIN JEMAA",
+    "AdresseA": "مركز واد الرمان جماعة عين جمعة مكناس",
+    "COMMUNE": "Ain Jemaa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN JEMAA AL JANOUBIA",
+    "NOM_ETABA": " عين الجمعةالجنوبية ",
+    "AdresseL": "CENTRE AIN JEMAA COMMUNE AIN JEMAA",
+    "AdresseA": "عين الجمعة المركز",
+    "COMMUNE": "Ain Jemaa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ABDI",
+    "NOM_ETABA": "أيت عبدي",
+    "AdresseL": "DOUAR AIT ABDI  COMMUNE AIN JEMAA",
+    "AdresseA": "عين الجمعة",
+    "COMMUNE": "Ain Jemaa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAABANATE CENTRE",
+    "NOM_ETABA": "شعبانات المركز",
+    "AdresseL": "DOUAR CHAABANAT  COMMUNE AIN JEMAA",
+    "AdresseA": "دوار شعبانات جماعة عين الجمعة ",
+    "COMMUNE": "Ain Jemaa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN GHARBAOUI CENTRE",
+    "NOM_ETABA": "عين غرباوي",
+    "AdresseL": "DOUAR AIT MOULOUD AIN GHARBAOUI  COMMUNE AIN JEMAA",
+    "AdresseA": "دوار ايت مولود جماعة عين الجمعة مكناس",
+    "COMMUNE": "Ain Jemaa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MOUSSA HIMMI CENTRE",
+    "NOM_ETABA": "ايت موسى وحمي",
+    "AdresseL": "DOUAR AIT MOUSSA HIMMI COMMUNE AIN JEMAA",
+    "AdresseA": "دوار آيت موسى وحمي جماعة عين الجمعة",
+    "COMMUNE": "Ain Jemaa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant AHMED BEN ALI BASSOU",
+    "NOM_ETABA": "الثانوية التأهيلية أحمد بن علي باسو",
+    "AdresseL": "CENTRE URBAIN AIN JEMAA COMMUNE AIN JEMAA",
+    "AdresseA": "مركز عين جمعة",
+    "COMMUNE": "Ain Jemaa",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

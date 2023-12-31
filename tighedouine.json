@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HAMMAN EL FATOUAKI",
+    "NOM_ETABA": "الثانوية الاعدادية حمان الفطواكي",
+    "AdresseL": "CENTRE TIGHDOUINECOMMUNE TIGHDOUINE",
+    "AdresseA": "مركز تغدوين جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIGHDOUINE",
+    "NOM_ETABA": "تغدوين",
+    "AdresseL": "DOUAR LARBAA COMMUNE TIGHEDOUINE",
+    "AdresseA": "مركز تغدوين جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TASSOURTE 1",
+    "NOM_ETABA": "تصورت 1",
+    "AdresseL": "DOUAR TASSOURT COMMUNE TIrDOUINE",
+    "AdresseA": "دوار تصورت جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALAT AST",
+    "NOM_ETABA": "تلتست",
+    "AdresseL": "DOUAR TALATAST COMMUNE TIGHEDOUINE",
+    "AdresseA": "دوار تلتست جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOLOZINE",
+    "NOM_ETABA": "طلزين",
+    "AdresseL": "DOUAR TOLOZINE COMMUNE TIGHDOUINE",
+    "AdresseA": "دوار طلزين جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ANZAL AL JABAL",
+    "NOM_ETABA": "انزال الجبل",
+    "AdresseL": "DOUAR IGOUDMANE COMMUNE TIGHEDOUINE",
+    "AdresseA": "دوار اكدمن جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT AACHA",
+    "NOM_ETABA": "ايت عشا",
+    "AdresseL": "DOUAR AIT AACHA COMMUNE TIGHEDOUINE",
+    "AdresseA": "دوار ايت عشا جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OUAGSTIT",
+    "NOM_ETABA": "ايت واكستيت",
+    "AdresseL": "DOUAR TAMARwOUTE  COMMUNE TIGHDOUINE",
+    "AdresseA": "دوار تمرووت مشيخة ايت واكستيت جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANSA",
+    "NOM_ETABA": "انسا",
+    "AdresseL": "DOUAR ANSA EZATE COMMUNE TIGHEDOUINE",
+    "AdresseA": "دوار انسا جماعة تغدوين",
+    "COMMUNE": "Tighedouine",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

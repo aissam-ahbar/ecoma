@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM CHAFII",
+    "NOM_ETABA": "الثانوية الاعدادية الامام  الشافعي",
+    "AdresseL": "CENTRE COMMUNE BENI YEKHLEF",
+    "AdresseA": "مركز  جماعة  بني  يخلف",
+    "COMMUNE": "Bni Ykhlef",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BENI YEKHLEF",
+    "NOM_ETABA": "م/م  بني يخلف",
+    "AdresseL": "DOUAR OULED TANJI COMMUNE BENI YEKHLEF",
+    "AdresseA": "دوار اولاد الطنجي",
+    "COMMUNE": "Bni Ykhlef",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUIRATE",
+    "NOM_ETABA": "م/م البيرات",
+    "AdresseL": "DOUAR NRHAMCHA COMMUNE BENI YEKHLEF",
+    "AdresseA": "دوار النغامشة",
+    "COMMUNE": "Bni Ykhlef",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN KAHLA",
+    "NOM_ETABA": "م/م العين الكحلة",
+    "AdresseL": "DOUAR OULED MESSAOUD",
+    "AdresseA": "دوار  اولاد  مسعود",
+    "COMMUNE": "Bni Ykhlef",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

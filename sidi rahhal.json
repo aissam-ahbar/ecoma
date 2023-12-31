@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL BEN ELHAJAJ",
+    "NOM_ETABA": "ثانوية  ابن الحجاج الاعدادية",
+    "AdresseL": "SIDI RAHHAL CENTRE EL KALAA",
+    "AdresseA": "بلدية سيدي رحال",
+    "COMMUNE": "Sidi Rahhal",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI RAHAL ",
+    "NOM_ETABA": "مدرسة سيدي رحال ",
+    "AdresseL": "SIDI RAHAL ZEMRANE",
+    "AdresseA": "سيدي رحال زمران",
+    "COMMUNE": "Sidi Rahhal",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKR SBIHI CENTRE",
+    "NOM_ETABA": "أبو بكر الصبيحي المركزية",
+    "AdresseL": "SIDI RAHAL HAY RIYAD",
+    "AdresseA": "سيدي رحال حي الرياض ",
+    "COMMUNE": "Sidi Rahhal",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HRAOUA ",
+    "NOM_ETABA": "مدرسة هراوة ",
+    "AdresseL": "municipalite de sidi rahhal HRAOUA zemrane KELAA D",
+    "AdresseA": "بلدية  سيدي رحال هراوة زمران قلعة السراغنة ",
+    "COMMUNE": "Sidi Rahhal",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LAKBABSA ",
+    "NOM_ETABA": "مدرسة الكبابسة ",
+    "AdresseL": "DOUAR LAKBABSA COMMUNE SIDI RAHAL",
+    "AdresseA": "دوار الكبابسة  ",
+    "COMMUNE": "Sidi Rahhal",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EZZAOUIYA ERRAHALIYA",
+    "NOM_ETABA": "مدرسة الزاوية الرحالية",
+    "AdresseL": "  DERB OUAD AL MAKHAZEN SIDI RAHHAL",
+    "AdresseA": "درب واد المخازن سيدي رحال",
+    "COMMUNE": "Sidi Rahhal",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT SIDI RAHAL",
+    "NOM_ETABA": " ثانوية  سيدي رحال التأهيلية",
+    "AdresseL": "SIDI RAHAL EL KELLA DES SRAGHNA",
+    "AdresseA": "بلدية سيدي رحال",
+    "COMMUNE": "Sidi Rahhal",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

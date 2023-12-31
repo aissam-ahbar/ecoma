@@ -1,0 +1,1292 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL NAKHIL",
+    "NOM_ETABA": "الثانوية الإعدادية النخيل",
+    "AdresseL": "AV YAAKOUB EL MANSOUR GUELIZ",
+    "AdresseA": "شارع يعقوب المنصور جيليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL PRINCESSE LALLA MERYEM",
+    "NOM_ETABA": "الثانوية الإعدادية الأميرة للامريم",
+    "AdresseL": "811 soucoma 1 marrakech",
+    "AdresseA": "شارع محمد السادس جيليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MAJD",
+    "NOM_ETABA": "الثانوية الإعدادية المجد",
+    "AdresseL": " AV ABDELKARIM EL KHATTABI GUELIZ",
+    "AdresseA": "  شارع عبد الكريم الخطابي جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAIIR EL HAMRA",
+    "NOM_ETABA": "الثانوية الإعدادية شاعر الحمراء",
+    "AdresseL": "AVENUE IBNO SINA",
+    "AdresseA": "شارع ابن سيناء الداوديات",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ECHATIBI",
+    "NOM_ETABA": "الثانوية الإعدادية الشاطبي",
+    "AdresseL": "BELBEKAR2 DAOUDIATE",
+    "AdresseA": "بلبكار2 الداوديات",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL PRINCESSE LALLA HASNA",
+    "NOM_ETABA": "الثانوية الإعدادية  الأميرة للاحسناء",
+    "AdresseL": "UNITE 4 HAY MOUHAMMADI",
+    "AdresseA": "الوحدة 4 الداوديات",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL IMAM MALEK",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مالك",
+    "AdresseL": "ISSIL",
+    "AdresseA": "إسيل",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ECHARAF",
+    "NOM_ETABA": "ثانوية الشرف الإعدادية",
+    "AdresseL": "COMMUNE GUELIZ",
+    "AdresseA": "جماعة جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL BAYROUNI",
+    "NOM_ETABA": "الثانوية الإعدادية البيروني",
+    "AdresseL": "HAY AL IZDIHAR",
+    "AdresseA": "حي الازدهار",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE AICHA OUM ELMOUMININE",
+    "NOM_ETABA": "مدرسة عائشة أم المؤمنين",
+    "AdresseL": "HAY MOHAMADI DAOUIDIATE",
+    "AdresseA": "الحي المحمدي الداوديات ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHEFCHAOUNI ABDELLAH",
+    "NOM_ETABA": "مدرسة الشفشاوني عبد الله",
+    "AdresseL": "unite 4  HAY MOUHAMMADI",
+    "AdresseA": "الحي المحمدي الوحدة 4",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ERRAZI",
+    "NOM_ETABA": "مدرسة الرازي",
+    "AdresseL": "HAY MOUHAMMADI CHAMALI",
+    "AdresseA": "الحي المحمدي الشمالي",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RABEA ELADAOUIA",
+    "NOM_ETABA": "مدرسة رابعة العدوية",
+    "AdresseL": "HAY MOUHAMMADI CHAMALI",
+    "AdresseA": "الحي المحمدي الشمالي",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHABBI",
+    "NOM_ETABA": "مدرسة الشابي",
+    "AdresseL": "RUE MOUZDALIFA ASSIF",
+    "AdresseA": "شارع المزدلفة أسيف",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AKENSOUS",
+    "NOM_ETABA": "مدرسة أكنسوس",
+    "AdresseL": "rue al azhari AV MY ABDELLAH",
+    "AdresseA": "زنقة الأزهري شارع مولاي عبد الله",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU BAKR ESSEDDIK",
+    "NOM_ETABA": "مدرسة أبو بكر الصديق",
+    "AdresseL": "SAMLALIA rue sakia el hamra 274 ",
+    "AdresseA": "السملالية زنقة الساقية الحمراء رقم274 جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI BELABBES",
+    "NOM_ETABA": "مدرسة سيدي بلعباس",
+    "AdresseL": "unite 2 HAY MOUHAMMADI",
+    "AdresseA": "الوحدة 2 الحي المحمدي",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZITOUNE",
+    "NOM_ETABA": "مدرسة الزيتون",
+    "AdresseL": "rue imam ali gueliz",
+    "AdresseA": "زنقة الإمام علي جيليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ATTABARI",
+    "NOM_ETABA": "مدرسة الطبري",
+    "AdresseL": "hay el hassani",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AEROPORT MILITAIRE",
+    "NOM_ETABA": "مدرسة المطار العسكري",
+    "AdresseL": "QUARTIER hivernage gueliz",
+    "AdresseA": "ecole almatar al asskari",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OMAR IBNOU EL KHATTAB",
+    "NOM_ETABA": "مدرسة عمر بن الخطاب",
+    "AdresseL": "HAY YOUSSEF BEN TACHFINEI GUELIZ",
+    "AdresseA": "حي يوسف بن تاشفين جيليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SAKIAT EL HAMRA",
+    "NOM_ETABA": "مدرسة الساقية الحمراء",
+    "AdresseL": "HAY EL ASKARI GUELIZ",
+    "AdresseA": "الحي العسكري جيليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU ATIA EL MORRAKOUCHI",
+    "NOM_ETABA": "مدرسة ابن عطية المراكشي",
+    "AdresseL": "DOUAR AKIOUD",
+    "AdresseA": "دوار أكيوض",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ISSIL",
+    "NOM_ETABA": "مدرسة إسيل",
+    "AdresseL": "HAY ASSIF issil",
+    "AdresseA": "حي  إسيل",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN HABBOUSS",
+    "NOM_ETABA": "مدرسة ابن حبوس",
+    "AdresseL": "LOT ZAYTOUN AMERCHICH",
+    "AdresseA": "تجزئة الزيتون أمرشيش",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED EREGRAGUI",
+    "NOM_ETABA": "مدرسة محمد الركراكي",
+    "AdresseL": " secteur mohamed saffou HAY y b t  gueliz marrakec",
+    "AdresseA": "مجموعة محمد سافو حي يوسف بن تاشفين جليز مراكش",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZELLAKA",
+    "NOM_ETABA": "مدرسة الزلاقة",
+    "AdresseL": "DOUAR SRAGHNA",
+    "AdresseA": "دوار السراغنة",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED ABDOU",
+    "NOM_ETABA": "مدرسة محمد عبده",
+    "AdresseL": "LOTISSEMENT BELBEKKAR HAY MOHAMMADI MAR MENARA",
+    "AdresseA": "بلبكار الحي المحمدي",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL IMAM EL BOUKHARI",
+    "NOM_ETABA": "مدرسة الإمام البخاري",
+    "AdresseL": "HAY YOUSSEF BEN TACHFINE",
+    "AdresseA": "حي يوسف بن تاشفين",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNO ALMOKAFAA",
+    "NOM_ETABA": "مدرسة ابن المقفع",
+    "AdresseL": "douar el koudia",
+    "AdresseA": "دوار الكدية",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL HOUDA",
+    "NOM_ETABA": "مدرسة الهدى",
+    "AdresseL": "Douar sraghna",
+    "AdresseA": "دوار السراغنة",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MLILIA",
+    "NOM_ETABA": "مدرسة مليلية",
+    "AdresseL": "lotissement  Echaraf ARRONDISSEMENT GUELIZ",
+    "AdresseA": "حي الشرف مقاطعة جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE GHERNATA",
+    "NOM_ETABA": "مدرسة غرناطة",
+    "AdresseL": "HAY EL IZDIHAR",
+    "AdresseA": "حي الازدهار",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JNANE AWRAD",
+    "NOM_ETABA": "مدرسة جنان أوراد",
+    "AdresseL": "JNANE AWRAD",
+    "AdresseA": "جنان أوراد",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ECHARAF",
+    "NOM_ETABA": "ثانوية الشرف التأهيلية ",
+    "AdresseL": "QUARTIER ECHARAF",
+    "AdresseA": "حي الشرف",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZINEB ANNAFZAOUIA",
+    "NOM_ETABA": "الثانوية التأهيلية زينب النفزاوية",
+    "AdresseL": "hay al izdihar",
+    "AdresseA": "حي الازدهار ",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN   ABBAD",
+    "NOM_ETABA": "الثانوية التأهيلية ابن عباد",
+    "AdresseL": "AV AHMED CHAOUKI GUELIZ",
+    "AdresseA": "شارع أحمد شوقي جليز",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  BEN YOUSSEF",
+    "NOM_ETABA": "الثانوية التأهيلية  ابن يوسف",
+    "AdresseL": "aach bellarej route de casa",
+    "AdresseA": "عش بلارج طريق الدر البيضاء  ",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABI ELABBAS ESSABTI",
+    "NOM_ETABA": "الثانوية التأهيلية أبي العباس السبتي",
+    "AdresseL": "RUE ABOU OUBAIDA HAY MOHMMADI",
+    "AdresseA": "زنقة أبي عبيدة   الحي المحمدي",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU SINA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن سينا",
+    "AdresseL": "BOUKKAR",
+    "AdresseA": "حي بوكار",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SAHNOUNE",
+    "NOM_ETABA": "الثانوية التأهيلية سحنون",
+    "AdresseL": "AV MOULAY ABDELLAH",
+    "AdresseA": "شارع مولاي عبد الله",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL KADI AYAD",
+    "NOM_ETABA": "الثانوية التأهيلية القاضي عياض",
+    "AdresseL": "ASSIF",
+    "AdresseA": "أسيف",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AZZAHRA",
+    "NOM_ETABA": "الثاانوية التأهيلية الزهراء",
+    "AdresseL": "HAY MOUHAMMADI daoudiate unite 4",
+    "AdresseA": "الحي المحمدي الداوديات الوحدة 4",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ERRAHALI EL FAROUK",
+    "NOM_ETABA": "الثانوية التأهيلية الرحالي الفاروق",
+    "AdresseL": "RUE IBNO SINA daoudiat",
+    "AdresseA": "شارع ابن سينا الداوديات",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "RUE ELKADI AYAD",
+    "AdresseA": "زنقة القاضي عياض",
+    "COMMUNE": "Gueliz ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LILYA ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة ليليا للتعليم الأولي الخصوصي ",
+    "AdresseL": "NULL",
+    "AdresseA": "إسيل المشعر الحرام 244",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FIRST PREPAS CPGE",
+    "NOM_ETABA": "مؤسسة فورست بريبا للاقسام التحضيرية الخصوصية",
+    "AdresseL": "N°177 LOT SIDI ABBAD ANNEXE 3 ",
+    "AdresseA": "رقم 177 تجزئة سيدي عباد شطر 3",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT OUM ENNOUR ENS PRESCO",
+    "NOM_ETABA": "مؤسسة أم النور للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة تالوجت رقم 57 حي امرشيش",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALARAKI AL IZDIHAR ENS SCO",
+    "NOM_ETABA": "مؤسسة العراقي الازدهار للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الازدهار امتداد رقم تج6",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "O GUELIZ JUNIOR ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "أو جيليز للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الحسنية عرصة بنشقرون رقم 26",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EZDI POUR ENSEIGNEMENT",
+    "NOM_ETABA": "ازدي للتعليم المدرسي الخصوصي",
+    "AdresseL": "60 AVENUE MY ABDELLAH MARRAKEC",
+    "AdresseA": "رقم 60 شارع الأمير مولاي عبد ا",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ENFANTS DU SOLEIL ENS.PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أطفال الشمس للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة البستان رقم 62 شارع الأم",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAJMOAATE MADARISSE AlAJIALASSAIDA ENSEIGNEMENT",
+    "NOM_ETABA": "مجموعة مدارس الأجيال الصاعدة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Opération attawhid 2 Akioud Ma",
+    "AdresseA": "عملية التوحيد 2 أكيوض مراكش",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASAM ANNAJAH GUELIZ  ENS SCO",
+    "NOM_ETABA": "مؤسسة اسام النجاح جليز للتعليم المدرسي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "رقم 6 زنقة 10 امتار",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MOUTALATE AL ACHBAL ens scoe",
+    "NOM_ETABA": "مؤسسة مثلث الاشبال للتعليم المدرسي الخصوصي",
+    "AdresseL": "16QUARTIER ELKARAOUINE RUE YAM",
+    "AdresseA": " حي مبروكة رقم 16 تجزئة القروا",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SAAD ENS preSCOE",
+    "NOM_ETABA": "مؤسسة سعد للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "زنقة ابن البناء رقم 29 الحي ال",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASSAM ANNAJAH MABROUKA ENS SCO",
+    "NOM_ETABA": "مؤسسة أسام النجاح مبروكة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement Mabrouka 48a et 50",
+    "AdresseA": "تجزئة مبروكة 48أ و 50أ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ARGANIER NAJD POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "أركانيي نجد الخاصة للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOTISSEMENT AL IHSANE HAY MABR",
+    "AdresseA": "المجمع السكني الإحسان - مبروكة",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE L ARGANIER JUNIOR ENS SCO",
+    "NOM_ETABA": "مؤسسة أركان جنيور للتعليم المدرسي الخصوصي",
+    "AdresseL": "izdihar ep extension",
+    "AdresseA": "إزدهار إمتداد EP",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AUGUSTE DE LA CROIX ENS SCO",
+    "NOM_ETABA": "مؤسسة اوغيست دو لاكروا للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOTISSEMENT ANNAKHIL N°274 TAR",
+    "AdresseA": "تجزئة النخيل رقم 274 حي تكنة ا",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LE MINARET 1 ENS SCO",
+    "NOM_ETABA": "مؤسسة لومينري 1 للتعليم المدرسي الخصوصي",
+    "AdresseL": "quartier charaf 3 n° 537",
+    "AdresseA": "537 حي الشرف المنار 3",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NOUR EL IMANE ENS SCO",
+    "NOM_ETABA": "مؤسسة نور  الإيمان للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOTISSEMENT SERAGHNA QUARTIER ",
+    "AdresseA": "تجزئة السراغنة حي الازدهار رقم",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASSAKINA ENS SCO",
+    "NOM_ETABA": "مؤسسة السكينة للتعليم المدرسي الخصوصي",
+    "AdresseL": "lot sakina n° 104 dR bELKHADIR",
+    "AdresseA": "تجزئة الساكنة 104 دوار بالخضير",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MAHFOUD ENS SCO",
+    "NOM_ETABA": "مؤسسة محفوظ للتعليم الخصوصي",
+    "AdresseL": "RUE IBN AICHA (CHAMP SENEGALAI",
+    "AdresseA": "زنقة بن عائشة (الثكنة السينيغا",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT hilali junior ENS SCO",
+    "NOM_ETABA": "مؤسسة الهلالي جونيور للتعليم المدرسي الخصوصي",
+    "AdresseL": "3 RUE leKBIR ben BOUAAZZA camp",
+    "AdresseA": "3زنقة الكبير بن بوعزة تكنة الغ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement bennouna ENS SCO",
+    "NOM_ETABA": "مؤسسة بنونة للتعليم المدرسي الخصوصي",
+    "AdresseL": "119, lotissement al ikhtiyar",
+    "AdresseA": "119 تجزئة الإختيار مراكش ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ARGANE ENS SCO",
+    "NOM_ETABA": "ثانوية اركان للتعليم المدرسي الخصوصي",
+    "AdresseL": "izdihar extension ep Marrakech",
+    "AdresseA": "ازدهار 2 ep مراكش",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire manar assanaoubar ENS SCO",
+    "NOM_ETABA": "مجموعة مدارس منار الصنوبر للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lot Charaf Manar 3 Guéliz Marr",
+    "AdresseA": "3 شرف المنار كليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT IBN GHAZI 2 cPGE",
+    "NOM_ETABA": "مؤسسة ابن غازي 2 للاقسام التحضيرية الخصوصية",
+    "AdresseL": "RUE EL MANSOUR EDDAHBI N 171 B",
+    "AdresseA": "171 مكرر زنقة المنصور الدهبي م",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BENABDALLAH ENS SCO",
+    "NOM_ETABA": "مجموعة مدارس بنعبد الله للتعليم المدرسي الخصوصي ",
+    "AdresseL": "Lotissement Yasmine route de c",
+    "AdresseA": "حي الياسمين طريق الدار البيضاء",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FADAA ATTARBIYA ENS SCO",
+    "NOM_ETABA": "مؤسسة فضاء التربية للتعليم المدرسي الخصوصي",
+    "AdresseL": "lot.zohor2 n 57.ain itti",
+    "AdresseA": "الزهور 2 رقم 57 عين إيطي ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASAM ANNAJAH ENS SCO",
+    "NOM_ETABA": "مؤسسة أسام النجاح للتعليم الخصوصي",
+    "AdresseL": "lotissement belbakkar 2 daoudi",
+    "AdresseA": "تجزئة بلبكار 2 الداوديات ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT les palmiers de sofia ENS SCO",
+    "NOM_ETABA": "مؤسسة ليبالميي دو صوفيا للتعليم الخصوصي",
+    "AdresseL": "799 Lot annakhil marrakech7",
+    "AdresseA": "799 تجزئة النخيل",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT IBN GHAZI CPGE ",
+    "NOM_ETABA": "مؤسسة ابن غازي للأقسام التحضيرية الخصوصية ",
+    "AdresseL": "avenue elmansour eddahbi n 171",
+    "AdresseA": "171محمد البقال2 زاوية ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NOUR EL KHALIL ENS SCO",
+    "NOM_ETABA": "مؤسسة نور الخليل للتعليم الخصوصي",
+    "AdresseL": "LOT ALMANAR ROUTE DE SAFI",
+    "AdresseA": "تجزئة المنار طريق اسفي",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ARIHA MARRAKECH ENS SCO",
+    "NOM_ETABA": "مدرسة أريحا مراكش للتعليم المدرسي الخصوصي",
+    "AdresseL": "13 lotissement sakar ",
+    "AdresseA": "13 تجزئة سقر",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ioui ENS SCO",
+    "NOM_ETABA": "مؤسسة إيوي للتعليم المدرسي الخصوصي",
+    "AdresseL": "74,Hay zaitoun 5 gueliz",
+    "AdresseA": "74 حي الزيتون",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AHLAM ENS SCO",
+    "NOM_ETABA": "مؤسسة أحلام للتعليم المدرسي الخصوصي",
+    "AdresseL": "lot n° 73, LES OLIVIERS v GUEL",
+    "AdresseA": "حي الزيتون 5 رقم 73 كليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MARRAKECH PREPAS CPGE",
+    "NOM_ETABA": "مؤسسة مراكش بريبا للاقسام التحضيرية الخصوصية",
+    "AdresseL": "almassira 1-a-  N°188",
+    "AdresseA": "المسيرة 1 -أ- رقم: 188 ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL MANAL ENS SCO",
+    "NOM_ETABA": "مؤسسة المنال للتعليم المدرسي الخصوصي",
+    "AdresseL": "RUE MOUAD BEN JABAL ISSIL",
+    "AdresseA": "زنقة معاد بن جبل إسيل",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NOUR MOHAMMADIA ENS SCO",
+    "NOM_ETABA": "مؤسسة نور المحمدية للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOT YOUSSEF BEN TACHFINE BD MY",
+    "AdresseA": "تجزئة يوسف بن تاشفين شارع م عب",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NOUR ALIZDIHAR ENS SCO",
+    "NOM_ETABA": "مؤسسة نور الازدهار للتعليم المدرسي الخصوصي",
+    "AdresseL": "186 LOT IZDIHAR route de safi",
+    "AdresseA": "تجزئة الازدهار رقم 186، طريق آ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT G/S ENNASR ENS SCO",
+    "NOM_ETABA": "مؤسسة النصر للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOT CHIFAA 218 AMERCHICH",
+    "AdresseA": "218 تجزئة الشفاء أمرشبش",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT GS ZOLA  2 ENS SCO",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس زولا 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "Rue mOsaab bnou omair N°28 ass",
+    "AdresseA": "زنقة مصعب ابن عمير رقم 28 اسيف",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ACHARAF ENS SCO",
+    "NOM_ETABA": "مؤسسة الشرف للتعليم المدرسي الخصوصي",
+    "AdresseL": "menara 3 lot Acharaf gueliz",
+    "AdresseA": "المنار 3 تجزئة الشرف كليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT les ecoles ILLOU ENS SCO",
+    "NOM_ETABA": "مؤسسة مدارس الو للتعليم المدرسي الخصوصي",
+    "AdresseL": "N°275 QUARTIER AL IZDIHAR ROUT",
+    "AdresseA": "حي الازدهار طريق آسفي رقم 275 ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL IKHTIAR ENS SCO",
+    "NOM_ETABA": "مؤسسة الإختيار للتعليم المدرسي الخصوصي",
+    "AdresseL": "165  route de  casa",
+    "AdresseA": "طريق الدار البيضاء رقم 165",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT KOUTOUBIA PREPAS CPGE",
+    "NOM_ETABA": "مؤسسة كتبية بريبا للاقسام التحضيرية الخصوصية ",
+    "AdresseL": "avenue 18 novembre n°2 assif d",
+    "AdresseA": "شارع 18 نونبر رقم 2 أسيف د",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Fatima Ezzahra ENS PRESCO",
+    "NOM_ETABA": "مؤسسة فاطمة الزهراء للتعليم الاولي الخصوصي",
+    "AdresseL": "N° 22, El Ouahda 4, Hay Mohamm",
+    "AdresseA": "رقم 22، الوحدة 4، الحي المحمدي",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Yamamate Essaghira ENS PRESCO",
+    "NOM_ETABA": "مؤسسة اليمامات الصغيرة للتعليم الاولي الخصوصي",
+    "AdresseL": "N° 29, Rue Mekka El Mokarrama ",
+    "AdresseA": "رقم 29، زنقة مكة المكرمة - الم",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT G/S DEBBAGH ENS SCO",
+    "NOM_ETABA": "مؤسسة م/م الدباغ للتعليم المدرسي الخصوصي",
+    "AdresseL": "El Ouahda 2 \"C\", Hay Mohammadi",
+    "AdresseA": "الوحدة 2 \"س\" ، الحي المحمدي - ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BAIDAO ETTALGE ENS PRESCO",
+    "NOM_ETABA": "مؤسسة بيضاء الثلج للتعليم الاولي الخصوصي",
+    "AdresseL": "N° 12, Immeuble \"A\", Eddalia 2",
+    "AdresseA": "رقم 12، عمارة \"أ\"، الدالية 2 -",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Annawate ENS PRESCO",
+    "NOM_ETABA": "مؤسسة النواة للتعليم الاولي الخصوصي",
+    "AdresseL": "N° 47, Lotissement EZZAITOUNA,",
+    "AdresseA": "رقم 47، تجزئة الزيتونة، حي أمر",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MIMOSA ENS SCO",
+    "NOM_ETABA": "مؤسسة ميموزا للتعليم المدرسي الخصوصي",
+    "AdresseL": "RUE DES ARBRES ROUIDATE 2 LOT ",
+    "AdresseA": "زنقة الأشجار رويضات 2 تجزئة اب",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL Oufouk AL Baid ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الأفق البعيد للتعليم الاولي الخصوصي",
+    "AdresseL": "N° 125, Hay Issil, Rue Saâd Ib",
+    "AdresseA": "رقم 125، حي إسيل، زنقة سعد بن ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Aden ENS PRESCO",
+    "NOM_ETABA": "مؤسسة عدن للتعليم الاولي الخصوصي",
+    "AdresseL": "N° 209, Rue Ibn Roch, Amerchic",
+    "AdresseA": "رقم 209، زنقة ابن رشد، أمرشيش ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Essaâda ENS SCO",
+    "NOM_ETABA": "مؤسسة السعادة للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 22 Lotissement Essaâda Ain ",
+    "AdresseA": "رقم 22، تجزئة السعادة، عين مزو",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Ennoubough ENS SCO",
+    "NOM_ETABA": "مؤسسة النبوغ للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 29, Avenue Allal El Fassi -",
+    "AdresseA": "رقم 29، شارع علال الفاسي -  جل",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL BACHIR ENS SCO",
+    "NOM_ETABA": "مؤسسة البشير للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement Karima, Hay Assif ",
+    "AdresseA": "تجزئة كريمة، حي أسيف - جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Assaâdia ENS SCO",
+    "NOM_ETABA": "مؤسسة السعدية للتعليم المدرسي الخصوصي",
+    "AdresseL": "Hay Assaâdia -Gueliz",
+    "AdresseA": "حي السعدية - جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT A.B.C. ENS SCO",
+    "NOM_ETABA": "مؤسسة أ.ب.س للتعليم المدرسي الخصوصي",
+    "AdresseL": "Rue Essalam, Hay Boukar - Guel",
+    "AdresseA": "زنقة السلام، حي بوكار جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Janoub ENS SCO",
+    "NOM_ETABA": "مؤسسة الجنوب للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 11, Rue hassania - Gueliz",
+    "AdresseA": "زنقة حسنية جليز 11 ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Amal ENS SCO",
+    "NOM_ETABA": "مؤسسة الأمل للتعليم المدرسي الخصوصي",
+    "AdresseL": "Rue Mohamed El Bakkal - Gueliz",
+    "AdresseA": "زنقة محمد البقال -  جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Ennour ENS SCO",
+    "NOM_ETABA": "مؤسسة النور للتعليم المدرسي الخصوصي",
+    "AdresseL": "Avenue Allal El Fasi, Bab Douk",
+    "AdresseA": "شارع علال الفاسي، باب دكالة -ج",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Rajaa El Irfane ENS SCO",
+    "NOM_ETABA": "مؤسسة رجاء العرفان للتعليم المدرسي الخصوصي",
+    "AdresseL": "Rouidate 1, Saida 7 - Gueliz",
+    "AdresseA": "الرويضات 1 ، سعيدة 7 - جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Hilali ENS SCO",
+    "NOM_ETABA": "مؤسسة الهلالي للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 3, Avenue MOHAMED 6-  Gueli",
+    "AdresseA": "رقم 3، شارع محمد السادس-جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Awail ENS SCO ",
+    "NOM_ETABA": "مؤسسة الأوائل للتعليم المدرسي الخصوصي",
+    "AdresseL": "RUE Moâad IBn Jabal, Hay Issil",
+    "AdresseA": " زنقة معاذ بن جبل / إيسيل- ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Ariha ENS SCO",
+    "NOM_ETABA": "مؤسسة أريحا للتعليم المدرسي الخصوصي ",
+    "AdresseL": "Lotissement sakar;N° 86; Hay M",
+    "AdresseA": "تجزئة سقر ، رقم 86 ، الحي المح",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ECOLE ESSALAFIA ENS SCO",
+    "NOM_ETABA": "مؤسسة المدرسة السلفية للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 31, Aarsat Bata, Avenue pri",
+    "AdresseA": "رقم 31، عرصة باطا، شارع  مولاي",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JABRANE ENS SCO",
+    "NOM_ETABA": "مؤسسة جبران للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 20, Avenue Palestine, Hay M",
+    "AdresseA": "رقم 20، شارع فلسطين، الحي المح",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Qadissiya ENS SCO",
+    "NOM_ETABA": "مؤسسة القادسية للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 34, Rue AbOU Oubaida, Hay M",
+    "AdresseA": "رقم 34، زنقة أبي عبيدة، الحي ا",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Idrissi ENS SCO",
+    "NOM_ETABA": "مؤسسة الإدريسي للتعليم المدرسي الخصوصي",
+    "AdresseL": "40, Rue Rahal Ben Ahmed - Mena",
+    "AdresseA": "رقم 40، زنقة رحال بن أحمد - ال",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT IBN KHALDOUN ENS SCO",
+    "NOM_ETABA": "مؤسسة ابن خلدون للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 94, Rouidat 3 - av. allal e",
+    "AdresseA": "رقم 94، رويضات 3 -شارع علال ال",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ELARAKI  ISSIL ENS SCO",
+    "NOM_ETABA": "مؤسسة العراقي إسيل للتعليم المدرسي الخصوصي",
+    "AdresseL": "lot n° 1 issil",
+    "AdresseA": "التجزئة 1 اسيل مراكش",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Riad ENS SCO",
+    "NOM_ETABA": "مؤسسة الرياض للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 26, Lot. Boumesmar Amerchic",
+    "AdresseA": "رقم 26، تجزئة بومسمار امرشيش -",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Les Iris ENS SCO",
+    "NOM_ETABA": " مؤسسة سوسن للتعليم المدرسي الخصوصي",
+    "AdresseL": " Lotissement Mabrouka - Lot A ",
+    "AdresseA": " تجزئة مبروكة حرف أ أكيوض",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ELARAKI ENNAKHIL ENS SCO",
+    "NOM_ETABA": "مؤسسة العراقي  النخيل للتعليم المدرسي الخصوصي",
+    "AdresseL": "Riad ENNakhil, Route DE Casa",
+    "AdresseA": "رياض النخيل، طريق الدار البيضا",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT World School ENS SCO",
+    "NOM_ETABA": " مؤسسة وورلد سكول للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement Sakar, Lot N° 49",
+    "AdresseA": "تجزئة سقر رقم 49",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Nawras ENS SCO",
+    "NOM_ETABA": "مؤسسة النورس للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 92, El Abdallawiya, Av. My ",
+    "AdresseA": "رقم 92، العبدلاوية، شارع مولاي",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT GS Zola 1  ENS SCO",
+    "NOM_ETABA": " مؤسسة مجموعة مدارس زولا 1 للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement Al Yamama, N° 36",
+    "AdresseA": "تجزئة اليمامة، رقم 36",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALRAWANE POUR ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الروان للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 90 حي مبروكة",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Mon Petit Cœur Enseignement Préscolaire ",
+    "NOM_ETABA": "مؤسسة قلبي الصغير للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السعدية زنقة خالد بن الوليد",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Cirine POUR ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة سيرين للتعليم الأولي الخصوصي",
+    "AdresseL": "116, lotissement saqar les hab",
+    "AdresseA": "تجزئة سقر الأحباس-مراكش رقم 11",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LILLOMOMES POUR ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة ليلوموم للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1 تجزئة ورزازي، تاركة",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADRASATE MALAK AL HORA  POUR ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مدرسة ملاك الحرة للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 171 حي مبروكة، أكيوض",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES OISEAUX DE MARRAKECH POUR L ENSEIGNEMENT PRÉSCOLAIRE PRI",
+    "NOM_ETABA": "طيور مراكش للتعليم الأولي الخصوصي",
+    "AdresseL": "Saada 1 Quartier Acharaf",
+    "AdresseA": "سعادة1 حي الشرف ",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Elbilia scolar izdihar de l'enseignement scolaire",
+    "NOM_ETABA": "إلبيليا سكولار الازدهار للتعليم المدرسي الخصوصي ",
+    "AdresseL": "n 342 Gueliz ",
+    "AdresseA": "رقم 342 جليز",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TARIQ MAJORELLE POUR L'ENSEIGNEMENT PRESCOLAIR",
+    "NOM_ETABA": "مؤسسة طارق ماجوريل للتعليم الأولي الخصوصي",
+    "AdresseL": "Avenue Yaâcoub Al Mansour N°48",
+    "AdresseA": "شارع يعقوب المنصور رقم 48 بوكا",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Badra pour Enseignement Préscolaire",
+    "NOM_ETABA": "مؤسسة بدرة للتعليم الأولي الخصوصي",
+    "AdresseL": "Quartier Maniss 2 Daoudiate",
+    "AdresseA": "حي مانيس 2 الداوديات",
+    "COMMUNE": "Gueliz",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

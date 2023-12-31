@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS ERRACHAD",
+    "NOM_ETABA": "م.م الرشاد",
+    "AdresseL": "DOUAR  TANOUTE COMMUNE IMILMAIS TAROUDANT",
+    "AdresseA": "دوار تنوت جماعة إيملمايس تارودنت",
+    "COMMUNE": "Imilmaiss",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELMANDER ALJAMIL",
+    "NOM_ETABA": "م.م المنظر الجميل",
+    "AdresseL": "DOUAR  TASGUINTE COMMUNE IMILMAIS TAROUDANT",
+    "AdresseA": "د. تسكينت",
+    "COMMUNE": "Imilmaiss",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAGOUNZA",
+    "NOM_ETABA": "م.م تكنزا",
+    "AdresseL": "DOUAR  TAGOUNZA COMMUNE IMILMAIS TAROUDANT",
+    "AdresseA": "د. تكنزة جماعة ايملمايس دائرة أولاد تايمة",
+    "COMMUNE": "Imilmaiss",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

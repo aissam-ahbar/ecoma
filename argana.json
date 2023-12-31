@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "C ARGAN",
+    "NOM_ETABA": "ثإ أركان ",
+    "AdresseL": "CENTRE COMMUNE ARGANA",
+    "AdresseA": "مركز جماعة أركانة",
+    "COMMUNE": "Argana",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ELMEHDI BEN TOUMERT",
+    "NOM_ETABA": "م.م المهدي بن تومرت ",
+    "AdresseL": "DOUAR   ARGANA C  ARGANA",
+    "AdresseA": "د. أركانة",
+    "COMMUNE": "Argana",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IFID",
+    "NOM_ETABA": "م.م إفيد",
+    "AdresseL": "DOUAR   IFID CARGANA",
+    "AdresseA": "د. إفيد",
+    "COMMUNE": "Argana",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAGDICHT",
+    "NOM_ETABA": "م.م تكضيشت",
+    "AdresseL": "DOUAR   ITOURA COMMUNE ARGANA CERCLE OULED TEIMA",
+    "AdresseA": "دوار اطورا جماعة اركانة دائرة اولاد تايمة",
+    "COMMUNE": "Argana",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

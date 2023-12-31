@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ADOUZ",
+    "NOM_ETABA": "الثانوية الإعدادية أدوز",
+    "AdresseL": "Adouz Foum El Anceur",
+    "AdresseA": "دوار أدوز جماعة فم العنصر",
+    "COMMUNE": "Foum El Anceur",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "FOUM EL ANCEUR CENTRE",
+    "NOM_ETABA": "مركزية فم العنصر",
+    "AdresseL": "CENTRE FOUM EL ANCEUR",
+    "AdresseA": "جماعة  فم العنصر",
+    "COMMUNE": "Foum El Anceur",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ADOUZ CENTRE",
+    "NOM_ETABA": "مركزية ادوز",
+    "AdresseL": "ADOUZ COMMUNE FOUM EL ANCEUR",
+    "AdresseA": " أدوز جماعة فم العنصر",
+    "COMMUNE": "Foum El Anceur",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA FIHRAYA CENTRE",
+    "NOM_ETABA": "مركزية فاطمة الفهرية",
+    "AdresseL": "FOUM ANCEUR",
+    "AdresseA": "فم العنصر",
+    "COMMUNE": "Foum El Anceur",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE EZZAITOUNE",
+    "NOM_ETABA": "ثانوية الزيتون التأهيلية",
+    "AdresseL": "CENTRE FOUM EL ANCEUR COMMUNE FOUM EL ANCEUR",
+    "AdresseA": "جماعة فم العنصر",
+    "COMMUNE": "Foum El Anceur",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "                          LOUIS PASTEUR          ",
+    "NOM_ETABA": "لويس باستور ",
+    "AdresseL": "ADOUZ FOUM EL ANCEUR",
+    "AdresseA": "ادوز فم العنصر بني ملال ",
+    "COMMUNE": "Foum El Anceur",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBNOU OMAR",
+    "NOM_ETABA": "بن عمر",
+    "AdresseL": "QUARTIER SOUK CENTRE COMMUNE F",
+    "AdresseA": "حي السوق مركز جماعة فم العنصر ",
+    "COMMUNE": "Foum El Anceur",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Manarat Al Atlas",
+    "NOM_ETABA": "منارة الأطلس",
+    "AdresseL": "adouz foum el ansar beni mella",
+    "AdresseA": "   فم العنصر  بني ملالدوار أدو",
+    "COMMUNE": "Foum El Anceur",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

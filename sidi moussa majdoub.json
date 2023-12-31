@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "OULED MOUMEN",
+    "NOM_ETABA": "أولاد مومن",
+    "AdresseL": "commune sidi moussa almajdoub",
+    "AdresseA": "سيدي موسى المجدوب          ",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI MOUSSA EL MAJDOUB",
+    "NOM_ETABA": "سيدي موسى المجدوب",
+    "AdresseL": "SIDI MOUSSA EL MAJDOUB COMMUNE SMOUSSA EL MAJDOUB",
+    "AdresseA": " سيدي موسى المجدوب جماعة سيدي موسى المجدوب",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZNATA",
+    "NOM_ETABA": "زناتة",
+    "AdresseL": "COMMUNE SIDI MOUSSA EL MAJDOUB",
+    "AdresseA": "جماعة سيدي موسة المجدوب",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUM ERRAYATE",
+    "NOM_ETABA": "ام الرايات",
+    "AdresseL": "rp 1  KM 254 COMMUNE SM EL MAJDOUB",
+    "AdresseA": "ط ر رقم 1 كلم 25,4 جماعة سيدي موسى المجدوب",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MAJD",
+    "NOM_ETABA": "المجد",
+    "AdresseL": "DOUAR OULED MOUMEN COMMUNE SIDI MOUSSA EL MAJDOUB",
+    "AdresseA": "دوار اولاد مومن جماعة س م المجدوب",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "SIDI MOUSSA ELMAJDOUB",
+    "AdresseA": "سيدي موسى المجدوب",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OMAR AL MOKHTAR",
+    "NOM_ETABA": "الثانوية التأهيلية عمر المختار",
+    "AdresseL": "Commune Sidi Moussa El Majdoub",
+    "AdresseA": "جماعة سيدي موسى المجدوب",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL KINDI",
+    "NOM_ETABA": "الكندي",
+    "AdresseL": "Fath 01 Sidi Moussa El Mejdoub",
+    "AdresseA": "الفتح 01 سيدي موسى المجدوب",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "FLORES",
+    "NOM_ETABA": "فلوريس الخصوصية",
+    "AdresseL": "Route Natonnal 1 sidi moussa e",
+    "AdresseA": "الطريق الوطنية 1 سيدي موسى الم",
+    "COMMUNE": "Sidi Moussa Majdoub",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

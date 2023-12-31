@@ -1,0 +1,2572 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARIK IBNOU ZIYAD",
+    "NOM_ETABA": "الثانوية الإعدادية طارق ابن زياد",
+    "AdresseL": "LAMHAMID",
+    "AdresseA": "المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAHA HOUSSEIN",
+    "NOM_ETABA": "الثانوية الإعدادية طه حسين",
+    "AdresseL": "MASSIRA 2",
+    "AdresseA": "المسيرة 2",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELMANFALOUTI",
+    "NOM_ETABA": "الثانوية الإعدادية المنفلوطي",
+    "AdresseL": "sokoma iziki",
+    "AdresseA": "صوكوما إيزيكي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL QODS",
+    "NOM_ETABA": "الثانوية الاعدادية القدس",
+    "AdresseL": "HAY AL INARA",
+    "AdresseA": "حي الإنارة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MOUKHTAR ESSOUSSI",
+    "NOM_ETABA": "الثانوية الإعدادية المختار السوسي",
+    "AdresseL": "AZLI",
+    "AdresseA": "أزلي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHARIF EL IDRISSI",
+    "NOM_ETABA": "الثانوية الإعدادية الشريف الإدريسي",
+    "AdresseL": "AZLI sud",
+    "AdresseA": "أزلي الجنوبي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ATLAS",
+    "NOM_ETABA": "الثانوية الإعدادية الأطلس",
+    "AdresseL": "MHAMID",
+    "AdresseA": "Collège AlAtlas Mhamid",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNAHDA",
+    "NOM_ETABA": "الثانوية الإعدادية النهضة",
+    "AdresseL": "MHAMID",
+    "AdresseA": "المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY RACHID",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي رشيد",
+    "AdresseL": "MASSIRA 3",
+    "AdresseA": "المسيرة 3",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FEDOUA TOUKANE",
+    "NOM_ETABA": "الثانوية الإعدادية فدوى طوقان",
+    "AdresseL": "ABOUAB MARRAKECH  SUD",
+    "AdresseA": "أبواب مراكش - الجنوب",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELIA ABOU MADI",
+    "NOM_ETABA": "الثانوية الإعدادية إليا أبو ماضي",
+    "AdresseL": "ABOUAB MARRAKECH  SUD",
+    "AdresseA": "أبواب مراكش - الجنوب",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL JBEL GUELIZ",
+    "NOM_ETABA": "الثانوية الإعدادية جبل جليز",
+    "AdresseL": "AZLI SUD",
+    "AdresseA": "أزلي الجنوبي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MASSIRA 3",
+    "NOM_ETABA": "الثانوية الإعدادية المسيرة 3",
+    "AdresseL": "HAY AL MASSIRA 3",
+    "AdresseA": "حي المسيرة 3",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOURJ EZZAYTOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية برج الزيتون",
+    "AdresseL": "lotissement alaman  askjour",
+    "AdresseA": "تجزئة الأمان أسكجور ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL AZZOUZIA",
+    "NOM_ETABA": "الثانوية الإعدادية العزوزية",
+    "AdresseL": "HAY AL AZZOUZIA",
+    "AdresseA": "حي العزوزية",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ADDOHA",
+    "NOM_ETABA": "الثانوية الإعدادية الضحى",
+    "AdresseL": " lot addoha quartier mhamid",
+    "AdresseA": "تجزئة الضحي برج الزيتون المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN TOUMERT",
+    "NOM_ETABA": "الثانوية الإعدادية ابن تومرت",
+    "AdresseL": "el hay el hassani kastore",
+    "AdresseA": "الحي الحسني كاستور",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ENNASR",
+    "NOM_ETABA": "الثانوية الإعدادية النصر",
+    "AdresseL": "El azouzia",
+    "AdresseA": "العزوزية",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ETTAKADDOUME",
+    "NOM_ETABA": "الثانوية الإعدادية التقدم",
+    "AdresseL": "Bouakkaz",
+    "AdresseA": "بوعكاز",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL MHAMID9",
+    "NOM_ETABA": "الثانوية الإعدادية المحامد 9",
+    "AdresseL": "mhamid9",
+    "AdresseA": "المحامد 9",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZHOR TARGA",
+    "NOM_ETABA": "ثانوية زهور تاركة الإعدادية",
+    "AdresseL": "COMMUNE MENARA",
+    "AdresseA": "جماعة المنارة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MASSIRA 2",
+    "NOM_ETABA": "الثانوية الاعدادية المسيرة 2",
+    "AdresseL": "COMMUNE MENARA ",
+    "AdresseA": "جماعة المنارة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL EL FASSI",
+    "NOM_ETABA": "الثانوية الاعدادية علال الفاسي",
+    "AdresseL": "COMMUNE MENARA ",
+    "AdresseA": "جماعة المنارة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL GHANDI",
+    "NOM_ETABA": "الثانوية الاعدادية غاندي",
+    "AdresseL": "COMMUNE MENARA ",
+    "AdresseA": "جماعة المنارة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AZLI",
+    "NOM_ETABA": "ثانوية ازلي الاعدادية",
+    "AdresseL": "AZLI SUD",
+    "AdresseA": "ازلي الجنوبي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BEN ZEKRI",
+    "NOM_ETABA": "الثانوية الإعدادية بن زكري",
+    "AdresseL": "MHAMID5",
+    "AdresseA": "المحاميد 5",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MASSAR",
+    "NOM_ETABA": "الثانوية الإعدادية المسار",
+    "AdresseL": "HAY EL MASSAR",
+    "AdresseA": "حي المسار",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA ASMAA",
+    "NOM_ETABA": "مدرسة للاأسماء",
+    "AdresseL": "KASTOUR HAY HASSANI",
+    "AdresseA": "كاسطور الحي الحسني",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELIMAM EL JAZOULI",
+    "NOM_ETABA": "مدرسة الإمام الجزولي",
+    "AdresseL": "HAY EL HASSANI rue sakia ",
+    "AdresseA": " الحي الحسني, زنقة الساقية، ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHALID IBNOU ELOUALID",
+    "NOM_ETABA": "مدرسة خالدبن الوليد",
+    "AdresseL": "HAY ELHASSANI hay bahja",
+    "AdresseA": "الحي الحسني حي البهجة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OMAR EL KHAYAM",
+    "NOM_ETABA": "مدرسة عمر الخيام",
+    "AdresseL": "MASSIRA 1 hay el hassani",
+    "AdresseA": "المسيرة 1 الحي الحسني",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANOUAL",
+    "NOM_ETABA": "مدرسة أنوال",
+    "AdresseL": "MASSIRA 1C",
+    "AdresseA": "المسيرة1 حرف س",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 11 JANVIER",
+    "NOM_ETABA": "مدرسة 11 يناير",
+    "AdresseL": "HAY EL INARA ",
+    "AdresseA": "حي الإنارة ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU HORAIRA 1",
+    "NOM_ETABA": "مدرسة أبو هريرة 1",
+    "AdresseL": "HAY AZLI",
+    "AdresseA": "حي أزلي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU HAZEM",
+    "NOM_ETABA": "مدرسة ابن حزم",
+    "AdresseL": "HAY IZIKI",
+    "AdresseA": "حي إيزيكي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELOUAHED EL MORRAKCHI",
+    "NOM_ETABA": "مدرسة عبد الواحد المراكشي",
+    "AdresseL": "HAY IZIKI",
+    "AdresseA": "حي إزكي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELKRIM EL KHATTABI",
+    "NOM_ETABA": "مدرسة عبد الكريم الخطابي",
+    "AdresseL": "HAY IZIKI",
+    "AdresseA": "حي إزكي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED EL BAKKAL",
+    "NOM_ETABA": "مدرسة محمد البقال",
+    "AdresseL": "HAY LAMHAMID",
+    "AdresseA": "حي المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL ADARISSA",
+    "NOM_ETABA": "مدرسة الأدارسة",
+    "AdresseL": "HAY LAMHAMID",
+    "AdresseA": "حي المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL JAHID",
+    "NOM_ETABA": "مدرسة الجاحظ",
+    "AdresseL": "MASSIRA2 a",
+    "AdresseA": "المسيرة 2 حرف أ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NIZAR  KABBANI",
+    "NOM_ETABA": "مدرسة نزار قباني",
+    "AdresseL": "HAY IBN TACHFINE AZLI JANOUBI",
+    "AdresseA": "حي بن تاشفين أزلي الجنوبي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MOUTANNABI 1",
+    "NOM_ETABA": "مدرسة المتنبي 1",
+    "AdresseL": "MASSIRA2 hay hassani",
+    "AdresseA": "المسيرة 2 الحي الحسني",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDESSALAM JEBRANE1",
+    "NOM_ETABA": "مدرسة عبد السلام جبران 1",
+    "AdresseL": "HAY MASSIRA3",
+    "AdresseA": "المسيرة 3",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ZAYDOUNE 1",
+    "NOM_ETABA": "مدرسة ابن زيدون 1",
+    "AdresseL": "HAY LAMHAMID",
+    "AdresseA": "حي المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL IMAM AL GHAZALI",
+    "NOM_ETABA": "مدرسة الإمام الغزالي",
+    "AdresseL": "MASSIRA 1 D",
+    "AdresseA": "المسيرة 1 د ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL AZHAR",
+    "NOM_ETABA": "مدرسة الأزهر",
+    "AdresseL": "MASSIRA3",
+    "AdresseA": "المسيرة 3",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL YASSAMINE",
+    "NOM_ETABA": "مدرسة الياسمين",
+    "AdresseL": "LOTISSEMENT SOKOMA ASKEJOUR",
+    "AdresseA": "تجزئة سوكوما أسكجور",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL IMAM MOUSLIM",
+    "NOM_ETABA": "مدرسة الإمام مسلم",
+    "AdresseL": "HAY LAMHAMID",
+    "AdresseA": "حي المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALYARMOUK",
+    "NOM_ETABA": "مدرسة اليرموك",
+    "AdresseL": "CHAOUF EL AZOUZIA",
+    "AdresseA": "شعوف العزوزية",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAOUF EL AYADI",
+    "NOM_ETABA": "مدرسة شعوف العيادي",
+    "AdresseL": "DOUAR CHAOUF EL AYADI",
+    "AdresseA": "دوار شعوف العيادي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MASSIRA EL KHADRA 1",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء 1",
+    "AdresseL": "DOUAR IZIKI COMMUNE MENARA MARRAKECH",
+    "AdresseA": "دوار إيزيـكي جـمـاعة الـمنارة مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELMALEK ASSAADI",
+    "NOM_ETABA": "مدرسة عبد المالك السعدي",
+    "AdresseL": "DOUAR BOUAKAZ LAMHAMID",
+    "AdresseA": "دوار بو عكاز المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss EL BOUSSAIRI TARGA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس البوصيري تاركة المركزية",
+    "AdresseL": "ss el boussairi targa",
+    "AdresseA": "م/م البصيري تاركة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELMASMOUDI",
+    "NOM_ETABA": "مدرسة المصمودي",
+    "AdresseL": "CITE EL MASMODI TARGA",
+    "AdresseA": "حي المصمودي تاركة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL AHD EL JADID",
+    "NOM_ETABA": "مدرسة العهد الجديد",
+    "AdresseL": "DOUAR EL HAFRA",
+    "AdresseA": "دوار الحفرة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU ROUMI",
+    "NOM_ETABA": "مدرسة ابن الرومي",
+    "AdresseL": "MASSIRA I",
+    "AdresseA": "المسيرة 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL KHALIL",
+    "NOM_ETABA": "مدرسة الخليل",
+    "AdresseL": "MASSIRA II D",
+    "AdresseA": "المسيرة 2 د",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL OUAHA",
+    "NOM_ETABA": "مدرسة الواحة",
+    "AdresseL": "IGHLI MHAMID",
+    "AdresseA": "إغلي المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIJILMASSA",
+    "NOM_ETABA": "مدرسة سجلماسة",
+    "AdresseL": "LOTISSEMENT MAATALLAH askejour",
+    "AdresseA": "تجزئة معطى لله  أسكجور ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL ANDALOUS",
+    "NOM_ETABA": "مدرسة الأندلس",
+    "AdresseL": "HAY MASSIRA 1 COMMUNE MENARA",
+    "AdresseA": "المسيرة1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ETTIRMIDI",
+    "NOM_ETABA": "مدرسة الترميدي",
+    "AdresseL": "HAY SOKOMA 1",
+    "AdresseA": "صوكوما 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI TAMMAM",
+    "NOM_ETABA": "مدرسة أبي تمام",
+    "AdresseL": "MHAMID",
+    "AdresseA": "المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ERRIAD",
+    "NOM_ETABA": "مدرسة الرياض",
+    "AdresseL": "AZLI",
+    "AdresseA": "أزلي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BADR",
+    "NOM_ETABA": "مدرسة بدر",
+    "AdresseL": "MHAMID HAY ENNAHDA MARRAKECH",
+    "AdresseA": "   حي النهضة المحاميد مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FIRDAOUS",
+    "NOM_ETABA": "مدرسة الفردوس",
+    "AdresseL": "LOT AL MASSAR ROUTE DE SAFI",
+    "AdresseA": "تجزئة المسار طريق آسفي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNASSIME",
+    "NOM_ETABA": "مدرسة النسيم",
+    "AdresseL": "LMHAMID 4",
+    "AdresseA": "المحاميد 4",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AZZOUZIA",
+    "NOM_ETABA": "مدرسة العزوزية",
+    "AdresseL": "LOT AZZOUZIA",
+    "AdresseA": "تجزئة العزوزية",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SEBTA",
+    "NOM_ETABA": "مدرسة سبتة",
+    "AdresseL": "2088 ASKEJOUR SOCOMA 1",
+    "AdresseA": "2088 أسكجور صوكوما 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MHAMID 9",
+    "NOM_ETABA": "مدرسة المحاميد  9",
+    "AdresseL": "quartier lamhamid9",
+    "AdresseA": "حي المحاميد9",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AHMED BOUKMAKH",
+    "NOM_ETABA": "مدرسة احمد بوكماخ",
+    "AdresseL": "essada 2 quartier industriel sidi ghanem",
+    "AdresseA": " السعادة 2 الحي الصناعي سيدي غانم",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MAOURID",
+    "NOM_ETABA": "مدرسة المورد",
+    "AdresseL": "mhamid7",
+    "AdresseA": "المحاميد7",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AMR BNOU EL ASSE",
+    "NOM_ETABA": "مدرسة عمرو بن العاص",
+    "AdresseL": "M hamid",
+    "AdresseA": "المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSANAOUBARE",
+    "NOM_ETABA": "مدرسة الصنوبر",
+    "AdresseL": "HAY ZERKTOUNI  bouaakaz mhamid marrekch",
+    "AdresseA": "تجزئة الزرقطوني بوعكاز  المحاميد مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOUAB MARRAKECH",
+    "NOM_ETABA": "مدرسة أبواب مراكش",
+    "AdresseL": "ABOUAB MARRAKECHSUD",
+    "AdresseA": "أبواب مراكش - الجنوب",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MANDAR AL JAMIL",
+    "NOM_ETABA": "مدرسة المنظر الجميل",
+    "AdresseL": "ABOUAB MARRAKECH  SUD",
+    "AdresseA": "أبواب مراكش - الجنوب",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED AZIZ LAHBABI",
+    "NOM_ETABA": "مدرسة محمد عزيز لحبابي",
+    "AdresseL": "ABOUAB MARRAKECH SUD",
+    "AdresseA": "ابواب مراكش الجنوب",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EDDOHA",
+    "NOM_ETABA": "مدرسة الضحى",
+    "AdresseL": "MHAMID",
+    "AdresseA": "المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MAATALLAH",
+    "NOM_ETABA": "مدرسة معطى الله",
+    "AdresseL": "LOT MATTALLAH ",
+    "AdresseA": "تجزئة معطى الله",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BERRADI 2",
+    "NOM_ETABA": "مدرسة برادي 2",
+    "AdresseL": "LOT BERRADI 2",
+    "AdresseA": "تجزئة برادي 2",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZARQAE AL YAMAMA",
+    "NOM_ETABA": "مدرسة زرقاء اليمامة",
+    "AdresseL": "LAAZZOUZIA",
+    "AdresseA": "العزوزية",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAMHAMID 9",
+    "NOM_ETABA": "الثانوية التأهيلية لمحاميد 9",
+    "AdresseL": "Lamhamid 7",
+    "AdresseA": "لمحاميد 7",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL AZZOUZIA",
+    "NOM_ETABA": "الثانوية التأهيلية العزوزية",
+    "AdresseL": "HAY AL AZZOUZIA",
+    "AdresseA": "حي العزوزية",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH IBRAHIM",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الله ابراهيم",
+    "AdresseL": "LAMHAMID",
+    "AdresseA": "المحاميد",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Ibn Timiya",
+    "NOM_ETABA": "الثانوية التأهيلية ابن تيمية ",
+    "AdresseL": "HAY HASSANI MAR MENARA BP 851",
+    "AdresseA": "الحي الحسني ص ب 851 ",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "azli sud",
+    "AdresseA": "أزلي الجنوبي",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LE MAGHREB ARABE",
+    "NOM_ETABA": "الثانوية التأهيلية المغرب العربي",
+    "AdresseL": "HAY LAMHAMID COMMUNE MENARA",
+    "AdresseA": "حي المحاميد",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SALAH EDDINE EL AYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الأيوبي",
+    "AdresseL": "MASSIRA 2",
+    "AdresseA": "المسيرة 2",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN TOUMERT",
+    "NOM_ETABA": "الثانوية التأهيلية ابن تومرت",
+    "AdresseL": "HAY EL HASSANI",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI ABDERRAHMANE",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي عبدالرحمان",
+    "AdresseL": "HAY EL HASSANI KASTOUR",
+    "AdresseA": "كاسطور الحي الحسني",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZERKTOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية الزرقطوني",
+    "AdresseL": "MASSIRA 1 A",
+    "AdresseA": "المسيرة 1 حرف أ",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED VI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس",
+    "AdresseL": "AZLI",
+    "AdresseA": "أزلي",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOUAB MARRAKECH",
+    "NOM_ETABA": "ثانوية أبواب مراكش التأهيلية",
+    "AdresseL": "COMMUNE MENARA",
+    "AdresseA": "جماعة المنارة",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MASSIRA EL KHADRA",
+    "NOM_ETABA": "الثانوية التأهيلية المسيرة الخضراء",
+    "AdresseL": "MHAMID ASKJOUR ",
+    "AdresseA": "المحاميد أسكجور",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FATIMA MERNISSI",
+    "NOM_ETABA": "الثانوية التأهيلية فاطمة المرنيسي",
+    "AdresseL": "ABOUAB MARRAKECH SUD",
+    "AdresseA": "ابواب مراكش الجنوب",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MEHDI BEN BARKA",
+    "NOM_ETABA": "الثانوية التأهيلية المهدي بن بركة",
+    "AdresseL": "MHAMID",
+    "AdresseA": "المحاميد",
+    "COMMUNE": "Ménara ",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NARJISS ZAHIR ENS PRESCO",
+    "NOM_ETABA": "مؤسسة النرجس الزاهر للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "المسيرة 1 463",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT azzahra2 ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الزهراء 2 للتعليم الاولي الخصوصي",
+    "AdresseL": "LMHAMID 2 N°529",
+    "AdresseA": "لمحاميد 2 رفم 529",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MALAK ENS PRESCO",
+    "NOM_ETABA": "مؤسسة ملاك للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "المحاميد 4   102",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ESSALAM ENS PRESCO",
+    "NOM_ETABA": "مؤسسة السلام للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "691 الحسنى 2 المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ENNADA ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الندى للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "سوكوما رقم ,454",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ZOUHIR ENS PRESCO  ",
+    "NOM_ETABA": "مؤسسة زهير للتعليم الاولي الخصوصي ",
+    "AdresseL": "",
+    "AdresseA": " المسيرة 2 حرف ب رقم 924 ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NAIMA ENS PRESCO",
+    "NOM_ETABA": "مؤسسة نعمة للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "لمحاميد رقم 1180",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RANIA ENS PRESCO",
+    "NOM_ETABA": "مؤسسة رانيا للتعليم الاولي الخصوصي",
+    "AdresseL": "748 AZLI",
+    "AdresseA": "أزلي 748",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ajil al jadid ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الجيل الجديد للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الزرقطوني 578 بوعكاز",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CHAMSSE addouha ENS preSCO",
+    "NOM_ETABA": "مؤسسة شمس الضحى للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "معطى الله  المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT tariqi eloula ENS preSCO",
+    "NOM_ETABA": "مؤسسة طريقي الاولى للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "المسيرة 1 39",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JENNAT ALATFAL ENS preSCO",
+    "NOM_ETABA": "مؤسسة جنة الاطفال للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "سوكوما 1   286",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL HODA ENS preSCO",
+    "NOM_ETABA": "مؤسسة الهدى للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "8 سميرس بناني أزلي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT el bochra ENS preSCO",
+    "NOM_ETABA": "مؤسسة البشرى للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "144 المحاميد  اسعادة 3  ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT dads ENS preSCO",
+    "NOM_ETABA": "مؤسسة دادس للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "محمد دادس",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT arridwane ENS preSCO",
+    "NOM_ETABA": "مؤسسة الرضوان للتعليم الاولي الخصوصي",
+    "AdresseL": "1528 maatallah askjour marrake",
+    "AdresseA": "1528 معط الله",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT al imam malek ENS preSCO",
+    "NOM_ETABA": "مؤسسة الإمام مالك للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "313 المحاميد  3",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT yama ENS preSCO",
+    "NOM_ETABA": "مؤسسة ياما للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "124 معطى الله المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ELMAARIF ENS PRESCO",
+    "NOM_ETABA": "مؤسسة المعارف للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "صوكوما رقم 815",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT elhidaya ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الهداية للتعليم الاولي الخصوصي ",
+    "AdresseL": "",
+    "AdresseA": "المسيرة 1 454",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT iqra ENS PRESCO",
+    "NOM_ETABA": "مؤسسة اقرا للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "الحسني 91 المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT nour essalam ENS PRESCO",
+    "NOM_ETABA": "مؤسسة نور السلام للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "مسجد صوكوما",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT alif ba ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الف باء للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "معطى الله 979 لمحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT hibat allah ENS preSCO",
+    "NOM_ETABA": "مؤسسة هبة الله للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الحسن 2 الرقم 145",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT nawabigh al moustakbal ENS preSCO",
+    "NOM_ETABA": "مؤسسة نوابغ المستقبل للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "ا494 الحسنى 1 لمحاميد ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT tazi ENS preSCO",
+    "NOM_ETABA": "مؤسسة التازي للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "رقم 457 مسيرة 1 مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT douae souka ENS preSCO",
+    "NOM_ETABA": "مؤسسة دعاء سوكا للتعليم الاولي الخصوصي",
+    "AdresseL": "Lmhamid 4 N°102",
+    "AdresseA": "محاميد 4 رقم 102",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT al achbal ENS preSCO",
+    "NOM_ETABA": "مؤسسة الأشبال للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "سوكوما رقم 1587",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RAYANE ENS preSCO",
+    "NOM_ETABA": "مؤسسة ريان للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "عين مزوار رقم 211 مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT al milad aljadid ENS preSCO",
+    "NOM_ETABA": "مؤسسة الميلاد الجديد للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "سوكوما 1 رفم 484 مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT assia ENS preSCO",
+    "NOM_ETABA": "مؤسسة آسية للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "رقم  870 أزلي الجنوبي مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT asmae ENS preSCO",
+    "NOM_ETABA": "مؤسسة اسماء للتعليم الاولي الخصوصي",
+    "AdresseL": "765 Lot mhamid V Marrakech",
+    "AdresseA": "رقم 765 تجزئة المحاميد 5 مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT riyad lamhamid ENS preSCO",
+    "NOM_ETABA": "مؤسسة رياض المحاميد للتعليم الاولي الخصوصي ",
+    "AdresseL": "",
+    "AdresseA": "246 معطى الله المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ismail ENS preSCO",
+    "NOM_ETABA": "مؤسسة اسماعيل للتعليم الاولي الخصوصي",
+    "AdresseL": "n37 lotisement BADR MHAMID",
+    "AdresseA": "قم 37تجزئة بدر المحاميدرقم 37ت",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT almajd assaghir ENS preSCO",
+    "NOM_ETABA": "مؤسسة المجد الصغير للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "ازيكي الجديد رقم 435 مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASSABAYA ENS preSCO",
+    "NOM_ETABA": "مؤسسة الصبايا للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "ازلي 2 رقم 340",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT al moussanada ENS preSCO",
+    "NOM_ETABA": "مؤسسة المساندة للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "سوكوما سوداري رقم 497",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT siraj el mounir ENS preSCO",
+    "NOM_ETABA": "مؤسسة السراج المنير للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "االحسنى 1 الرقم 380  لمحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT attolab ENS SCO",
+    "NOM_ETABA": "مؤسسة الطلاب للتعليم المدرسي الخصوصي",
+    "AdresseL": "AZZOUZIA 2 eme tranche p12",
+    "AdresseA": "العزوزية الشطر 2 ب12",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire abdou nizar ENS SCO",
+    "NOM_ETABA": "مجموعة مدارس عبدو نزار للتعليم المدرسي الخصوصي",
+    "AdresseL": "massira 1 a n 74",
+    "AdresseA": "المسيرة 1 أ رقم 74",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL HADAOUI ENS SCO",
+    "NOM_ETABA": "مؤسسة الحداوي للتعليم المدرسي الخصوصي",
+    "AdresseL": "lot. zErktoni lamhamid marrake",
+    "AdresseA": "تجزئة الزرقطوني بوعكاز رقم 4 ا",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ACHOALA ENS SCO",
+    "NOM_ETABA": "مؤسسة الشعلة للتعليم المدرسي الخصوصي ",
+    "AdresseL": "rue taroudant 32 azli",
+    "AdresseA": "زنقة تارودانت 32 مكرر أزلي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT el maali ENS SCO",
+    "NOM_ETABA": "مؤسسة المعالي للتعليم المدرسي الخصوصي",
+    "AdresseL": "lmhamid7 berradi 2",
+    "AdresseA": "المحاميد 7 تجزئة برادي2",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT WAHAT EZZAITOUNE 2 ENS SCO",
+    "NOM_ETABA": "مؤسسة واحة الزيتون 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "mhamid 9",
+    "AdresseA": "المحاميد 9",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT manhal attalib ENS SCO",
+    "NOM_ETABA": "مؤسسة منهل الطالب للتعليم المدرسي الخصوصي",
+    "AdresseL": "AZLI SUD N°19",
+    "AdresseA": "أزلي الجنوبي رقم 19",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NIDAL al oula ENS SCO",
+    "NOM_ETABA": " مؤسسة نضال الأولى للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 94 Massira 1 d marrakech",
+    "AdresseA": " المسيرة 1 حرف د الرقم 94 مراك",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT HANAI ENS SCO",
+    "NOM_ETABA": "مؤسسة الهنائي للتعليم المدرسي الخصوصي",
+    "AdresseL": "socoma 1 N° 1482",
+    "AdresseA": "صوكوما 1 رقم 1482 ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE atbir EL idrissi ENS SCO  ",
+    "NOM_ETABA": "مؤسسة أتبير الإدريسي للتعليم المدرسي الخصوصي",
+    "AdresseL": "3HF HAY NAHDA LAMHAMID ",
+    "AdresseA": "حي النهضة المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT de la fondation mohamed 6 ENS PRESCO ",
+    "NOM_ETABA": "مؤسسة جمعية محمد السادس للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "إيزيكي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ATTARIK ASSAHIH ENS SCO",
+    "NOM_ETABA": "مؤسسة الطريق الصحيح للتعليم المدرسي الخصوصي",
+    "AdresseL": "744-745  NAHDA MHAMID",
+    "AdresseA": " 745  النهضة المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT INCHIRAH ENS SCO",
+    "NOM_ETABA": "مؤسسة الإنشراح للتعليم المدرسي الخصوصي",
+    "AdresseL": "lmhamid n° 1203-1204",
+    "AdresseA": "المحاميد رقم 1023-1204",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL ITQUANE ENS SCO",
+    "NOM_ETABA": "مؤسسة الإتقان للتعليم المدرسي الخصوصي",
+    "AdresseL": "1258-1259-1262 maatallah lmham",
+    "AdresseA": "1258-1259-1262 معطى الله لمحام",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE A-SSABILA ENS SCO",
+    "NOM_ETABA": "مجموعة مدارس السابلة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lottissement Zerktouni Mhamid ",
+    "AdresseA": "تجزئة الزرقطوني بوعكاز مراكش  ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL HISNE ( LA CITADELLE ) ENS SCO",
+    "NOM_ETABA": "مؤسسة الحصن للتعليم المدرسي الخصوصي",
+    "AdresseL": "MASSIRA2, C N°35 ,MARRAKECH",
+    "AdresseA": "مراكش , المسيرة2,رقم 35,حرف س ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SOPHIA ENS SCO",
+    "NOM_ETABA": "مؤسسة صوفيا للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOTISSEMENT ZERKTOUNI BOUAAKAZ",
+    "AdresseA": "تجزئة الزرقطوني بوعكاز مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NOUN WA LA QALAM ENS SCO",
+    "NOM_ETABA": "مؤسسة نون والقلم للتعليم المدرسي الخصوصي",
+    "AdresseL": "4, ADRAR 2 MHAMID MARRAKECH ",
+    "AdresseA": "أدرار 2 رقم 4  المحاميد مراكش ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AROUA   II ENS SCO",
+    "NOM_ETABA": "مؤسسة أروى  2 للتعليم المدرسي الخصوصي ",
+    "AdresseL": "N° 830 socoma 1",
+    "AdresseA": "صوكوما 1 رقم 830",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL OMAM ENS SCO",
+    "NOM_ETABA": "مؤسسة الأمم للتعليم المدرسي الخصوصي",
+    "AdresseL": "ROUTE D ESSAOUIRA MASSIRA I N ",
+    "AdresseA": "طريق الصويرة المسيرة 1 رقم 2 م",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LES INTELLIGENTS II ENS SCO",
+    "NOM_ETABA": "مؤسسة الأدكياء 2 للتعليم المدرسي الخصوصي ",
+    "AdresseL": "SOCOMA SOuDRI N 105",
+    "AdresseA": "سكوما سودري رقم 105",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JOUSSOUR AL MAARIFA ENS SCO",
+    "NOM_ETABA": "مؤسسة جسور المعرفة للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOT HASSAN II SOKOMA",
+    "AdresseA": "تجزئة الحسن  التاني سوكوما",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RABEE ENS SCO",
+    "NOM_ETABA": "مؤسسة الربيع للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement (militaire) les pa",
+    "AdresseA": "تجزئة النخيل رقم 980",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL HIMAM ENS SCO",
+    "NOM_ETABA": "مؤسسة الهمم للتعليم المدرسي الخصوصي",
+    "AdresseL": "Mhamid V Im 111 et 134",
+    "AdresseA": "محاميد 5 عمارة 111 و 134",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL BOUGHAZ ENS SCO",
+    "NOM_ETABA": "مؤسسة البوغاز للتعليم المدرسي الخصوصي",
+    "AdresseL": "81 MHAMID 1 B",
+    "AdresseA": "81 المحاميد 1 ب",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LES INTELLIGENTS ENS SCO",
+    "NOM_ETABA": "مؤسسة الأدكياء للتعليم المدرسي الخصوصي",
+    "AdresseL": "12 SOCOMA 1 ASKJOUR",
+    "AdresseA": "12 صوكوما 1 أسكجور",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL KHALID 2 ENS SCO",
+    "NOM_ETABA": "مؤسسة الخالد 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "29 LOT ASCJOUR SOCOMA",
+    "AdresseA": "29 تجزئة أسكجور صوكوما",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JOURI1",
+    "NOM_ETABA": "مؤسسة جوري1 الخاصة",
+    "AdresseL": "516 LOT EL MASSAr",
+    "AdresseA": "516 تجزئة المسار",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SARA ENS SCO",
+    "NOM_ETABA": "مؤسسة سارة للتعليم المدرسي الخصوصي",
+    "AdresseL": "863 ASKAJOUR SOCOMA 1",
+    "AdresseA": "863 أسكجور صوكوما 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TARIK ENNAJAH ENS SCO",
+    "NOM_ETABA": "مؤسسة طريق النجاح للتعليم المدرسي الخصوصي",
+    "AdresseL": "386 SOCOMA 1",
+    "AdresseA": "386 صوكوما 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AFNAN ENS SCO",
+    "NOM_ETABA": "مؤسسة افنان للتعليم المدرسي الخصوصي ",
+    "AdresseL": "MASSIRA 2 B  N° 258",
+    "AdresseA": "المسيرة 2 ب 258",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALBERT EINSTEIN POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "مجموعة مدارس ألبير إنشتاين للتعليم المدرسي الخصوصي",
+    "AdresseL": "399 MHAMID 3",
+    "AdresseA": "399 المحاميد 3",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMNT Aroua ENS SCO",
+    "NOM_ETABA": "مؤسسة اروى للتعليم المدرسي الخصوصي",
+    "AdresseL": "Sokoma 1, N° 2089 - C.U. Menar",
+    "AdresseA": "سكوما 1، رقم 2089 - ج, ح, المن",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Olivia ENS SCO",
+    "NOM_ETABA": "مؤسسة اوليفيا للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement Zakari, N° 240 - L",
+    "AdresseA": "تجزئة زكريا، ىرقم 240 - لمحامي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Les Orangers ENS SCO",
+    "NOM_ETABA": "مجموعة مدارس الليمون للتعليم المدرسي الخصوصي",
+    "AdresseL": "Targa N° 55 ",
+    "AdresseA": "تاركة رقم 55",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Wahat Al Atfal ENS SCO",
+    "NOM_ETABA": "مؤسسة واحة الأطفال للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement Essaada N° 74, Rou",
+    "AdresseA": "تجزئة السعادة  رقم 74، طريق ال",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Baraime Essaghira ENS SCO",
+    "NOM_ETABA": "البراعيم الصغيرة لتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 2147, Socoma (1)",
+    "AdresseA": "رقم 2147، صوكوما 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Khalid ENS SCO",
+    "NOM_ETABA": "مؤسسة الخالد للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 179, Hay Ibn Tachfin, Azli ",
+    "AdresseA": "رقم 179، حي ابن تاشفين أزلي - ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANNAFOURA ENS SCO",
+    "NOM_ETABA": "مؤسسة النافورة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lot. Masmoudi, Hay Targa N° 12",
+    "AdresseA": "تجزئة المصمودي، حي تاركة، رقم ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Assadara ENS SCO",
+    "NOM_ETABA": "مؤسسة الصدارة للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 878, Massira 1 \"A\" - Menara",
+    "AdresseA": "رقم 878، المسيرة 1 \"أ\" - المنا",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LAMRANI ENS SCO",
+    "NOM_ETABA": "مؤسسة العمراني للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 1 Bis, Hay Massira 3 - Mena",
+    "AdresseA": "رقم 1 مكرر، حي المسيرة 3 - الم",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT El Hikma Oua El Fadila ENS SCO",
+    "NOM_ETABA": "مؤسسة الحكمة والفضيلة للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 364, \"C\",  Massira 2 - Mena",
+    "AdresseA": "رقم 364، \"س\"، المسيرة 2 - المن",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Manar ENS SCO",
+    "NOM_ETABA": "مؤسسة المنار للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 14/15, \"D\" Massira 2 - Mena",
+    "AdresseA": "رقم 15/14، \"د\" المسيرة 2 -جليز",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE CHKILI 1 POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "مجموعة مدارس الشكيلي 1 للتعليم الخصوصي",
+    "AdresseL": "N° 206, Lotissement Erraha, Ha",
+    "AdresseA": "رقم 206، تجزئة الراحة، حي المح",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Nour Almanar ENS SCO",
+    "NOM_ETABA": "مؤسسة نور المنار للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 584, Hay Massira 1 \"C\" - Me",
+    "AdresseA": "رقم 584، حي المسيرة 1 \"س\" - ال",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AFAK AL GHAD ENS SCO",
+    "NOM_ETABA": "مؤسسة أفاق الغد للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 468, Massira 1 \"D\" - Marrak",
+    "AdresseA": "المسيرة 1 حرف \"دال\" رقم 468 مر",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Anamil Essaghira ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الأنامل الصغيرة للتعليم الاولي الخصوصي",
+    "AdresseL": "N° 452, Massira 1 \"C\" - Menara",
+    "AdresseA": "رقم 452، المسيرة 1 \"س\" - المنا",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION OUM HANI MARRAKECH POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة أم هاني مراكش الخاصة للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 270, \"A\" Massira 1 - Menara",
+    "AdresseA": "رقم 270، \"أ\" المسيرة 1 - المنا",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ella maillart ENS SCO",
+    "NOM_ETABA": "مؤسسة إلامياغ للتعليم المدرسي الخصوصي",
+    "AdresseL": "Massira2 n°17 marrakech",
+    "AdresseA": "المسيرة 2 رقم 17",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Khalil Gibran school ENS SCO",
+    "NOM_ETABA": "مؤسسة خليل جبران سكول للتعليم المدرسي الخصوصي",
+    "AdresseL": "1 Lot. Riad Targa Masmoudi, Ma",
+    "AdresseA": "مراكش المنارة  تجزئة رياض تارك",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT GS ZOLA4 ENS SCO",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس زولا 4 للتعليم المدرسي الخصوصي ",
+    "AdresseL": "lot alyammama n36 assif marrak",
+    "AdresseA": "رقم 122 طريق تاركا إقامة المصم",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ajial nnakhil Ménara ENS SCO",
+    "NOM_ETABA": "مؤسسة اجيال النخيل المنارة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Mhamid8 N°33",
+    "AdresseA": "المحاميد 8 رقم 33 ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT rihab al hidaya ENS SCO",
+    "NOM_ETABA": "مؤسسة رحاب الهداية للتعليم المدرسي الخصوصي",
+    "AdresseL": "RUE TIZNIT 1037 AZLI ",
+    "AdresseA": " 1037 أزلي زنقة تزنيت ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT karaouane ENS SCO",
+    "NOM_ETABA": "مؤسسة كروان للتعليم المدرسي الخصوصي",
+    "AdresseL": "497 Hay Iziki jdid",
+    "AdresseA": "479 إزيكي الجديد مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT zahra salhi ENS SCO",
+    "NOM_ETABA": "مؤسسة زهرة صالحي للتعليم المدرسي الخصوصي",
+    "AdresseL": "IGHLI 7 N°29 BIS MHAMID",
+    "AdresseA": "اغلي 7 المحاميد رقم 29 مكرر ال",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ANNODJE ENS SCO",
+    "NOM_ETABA": "مؤسسة النضج للتعليم المدرسي الخصوصي",
+    "AdresseL": "EXTENSION ZERKTOUNI LOT CHRIFI",
+    "AdresseA": "تمديد الزرقطوني تجزئة الشريفية",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT nour al omam ENS SCO",
+    "NOM_ETABA": "مؤسسة نور الأمم للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement maatallah avenue l",
+    "AdresseA": "معطى الله شارع العيون رقم 523/",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT noha ENS SCO",
+    "NOM_ETABA": "مؤسسة نهى للتعليم المدرسي الخصوصي",
+    "AdresseL": "residences noha Route Socoma m",
+    "AdresseA": "طريق سوكوما لمحاميد مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution les deux palmiers ENS SCO",
+    "NOM_ETABA": "مؤسسة : النخلتان للتعليم المدرسي الخصوصي ",
+    "AdresseL": "RUE 58 LOT LES PALMIERS MARRAK",
+    "AdresseA": "زنفة 58  رقم 1127تجزئة النخيل ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT WAHAT EZZAITOUNE3 ENS SCO",
+    "NOM_ETABA": "واحة الزيتون  3 للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOTIS CHELLABELLE AVENUE GUEMM",
+    "AdresseA": "تجزئة شلابيل شار ع كماسة رقم 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALITQANE2 ENS SCO",
+    "NOM_ETABA": "مؤسسة الاتقان2 للتعليم المدرسي الخصوصي ",
+    "AdresseL": "rue alorouba n 1809/1816",
+    "AdresseA": "   زنقة العروبة رقم 1809/ 1816",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT hamdani ENS SCO",
+    "NOM_ETABA": "مؤسسة حمداني للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement azzouzia g15",
+    "AdresseA": "العزوزية تجزئة رقم 15 ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MAdrassati ENS SCO",
+    "NOM_ETABA": "مؤسسة مدرستي للتعليم المدرسي الخصوصي",
+    "AdresseL": "SOCOMA 1 MARRAKECH 2120",
+    "AdresseA": "2120 صوكوما 1 مراكش ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AFAK AL AJIAL ENS SCO",
+    "NOM_ETABA": "مؤسسة أفاق الأجيال للتعليم المدرسي الخصوصي",
+    "AdresseL": "massira 3 a n° 1 marrakech",
+    "AdresseA": "المسيرة 3 حرف أ رقم 1 مراكش ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AFWAJ ENS SCO",
+    "NOM_ETABA": "مؤسسة أفواج للتعليم المدرسي الخصوصي",
+    "AdresseL": "n° 123 portes de MARRAKECH TRA",
+    "AdresseA": "الشطر 19 الرقم 121 أبواب مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AJIL ALINCHIRAH ENS SCO",
+    "NOM_ETABA": "مؤسسة أجيال الانشراح للتعليم المدرسي الخصوصي",
+    "AdresseL": "Mhamed  v  1261-1262",
+    "AdresseA": "المحامسد ر 1261-1262",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ioui 2 ENS SCO",
+    "NOM_ETABA": "مؤسسة اوي  2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "311. رياض القصر ازلي الجنوبي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT HILALI TARGA ENS SCO",
+    "NOM_ETABA": "مؤسسة الهلالي تاركة للتعليم المدرسي الخصوصي ",
+    "AdresseL": "N° 1 , LOTISSEMENT ASSALAMA, A",
+    "AdresseA": "تجزئة سلامة  شارع قصر بدي تارك",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Naouaya Alkhair ENS SCO",
+    "NOM_ETABA": "مؤسسة نوايا الخير الخاصة للتعليم المدرسي الخصوصي",
+    "AdresseL": "azli sud n 794 marrakech",
+    "AdresseA": "أزلي الجنوبي 794",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Massar Alomam ENS SCO",
+    "NOM_ETABA": "مؤسسة مسار الأمم للتعليم المدرسي الخصوصي",
+    "AdresseL": "lot 3doha furom massira 1route",
+    "AdresseA": "منتدى الضحى رقم 3 المسيرة 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole marjana ENS SCO",
+    "NOM_ETABA": "مدرسة مرجانة للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement ennahda n 1033 lam",
+    "AdresseA": "تجزئة النهضة 1033 لمحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL BOUHMADI ENS SCO",
+    "NOM_ETABA": "مؤسسة البوحمادي للتعليم المدرسي الخصوصي",
+    "AdresseL": "riad el menara lot 106 azli su",
+    "AdresseA": "رياض المنارة رقم 106 مراكش",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ENNAHDA AL ILMIYAH ENS SCO",
+    "NOM_ETABA": "مؤسسة النهضة العلمية للتعليم المدرسي الخصوصي ",
+    "AdresseL": "SAADA 6 N° 11  12 MHAMID",
+    "AdresseA": "سعادة 6 رقم 11- 12 المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DEMNATI ENS SCO",
+    "NOM_ETABA": "مؤسسة الدمناتي للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 110 زهور تاركة شطر 1 العزو",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SARA 2 ENS SCO",
+    "NOM_ETABA": "مؤسسة سارة 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "حي سعادة ازيكي رقم 118",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JACQUES LACAN ENS SCO",
+    "NOM_ETABA": "مؤسسة جاك لاكان للتعليم المدرسي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "حي المسيرة 3 بلوك س رقم 645",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BOUNHAR ENS SCO",
+    "NOM_ETABA": "مؤسسة بونهار للتعليم المدرسي الخصوصي",
+    "AdresseL": "Laazzouziaj5",
+    "AdresseA": "تجزئة العزوزية ج5",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MACHRAB EL ILME ENS SCO",
+    "NOM_ETABA": "مؤسسة مشرب العلم للتعليم المدرسي الخصوصي",
+    "AdresseL": "maria azzouzia marrakech ",
+    "AdresseA": "ماريا العزوزية",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BARAEM MACHOU ENS preSCO",
+    "NOM_ETABA": "مؤسسة براعم ماشو للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "دوار ماشو بلوك 35",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TARGA ENS SCO",
+    "NOM_ETABA": "مؤسسة تاركة للتعليم المدرسي الخصوصي",
+    "AdresseL": "inst.targa.marrakech@gmail.com",
+    "AdresseA": "أبواب مراكش تجهيز مدرسي  E6 تج",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ATTOLAB 2  ENS SCO",
+    "NOM_ETABA": "مؤسسة الطلاب 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "AZZOUZIA 2eme TRANCHE G13",
+    "AdresseA": "تجزئة العزوزية g13 ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALJALIL  ENS SCO",
+    "NOM_ETABA": "مجموعة مدارس الجليل للتعليم المدرسي الخصوصي",
+    "AdresseL": "Portes de Marrakech T19 N°1",
+    "AdresseA": "ابواب مراكش شطر 19 رقم 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALFRED DE MUSSET ens sco",
+    "NOM_ETABA": "مؤسسة الفريد دي موسي للتعليم المدرسي الخصوصي",
+    "AdresseL": "N156, Immeuble les cerisiers q",
+    "AdresseA": "رقم 156 عمارة حب الملوك حي الس",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MANAR AL GHAD ens sco",
+    "NOM_ETABA": "مؤسسة منار الغد للتعليم المدرسي الخصوصي",
+    "AdresseL": "ASKJOUR ROUMIA MHAMID",
+    "AdresseA": "تجزئة الرومية اسكجور المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ATTAFAWOK AL ILMI POUR ENS SCO",
+    "NOM_ETABA": "مؤسسة التفوق العلمي للتعليم المدرسي الخصوصي",
+    "AdresseL": "daoui 2 n° 120 askjour m hamid",
+    "AdresseA": "الملك المسمى الضاوي رقم 120 اس",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALBAYINATE ens scoe",
+    "NOM_ETABA": "مؤسسة البينات للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 29 quartier industriel izik",
+    "AdresseA": "تجزئة ايزيكي 3 رقم 29",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANABEL ESSALAM ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "سنابل السلام للتعليم الأولي الخصوصي ",
+    "AdresseL": "N°1031 Lotissement Ezzerktouni",
+    "AdresseA": "رقم 1031 تجزئة الزرقطوني المحا",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAOUD َAL FALAH ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "روض الفلاح للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "ضوكوما 1 رقم 1966",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE CHOULLI EDUCATION ET FORMATION",
+    "NOM_ETABA": "مجموعة مدارس الشوللي للتربية والتعليم المدرسي الخصوصي",
+    "AdresseL": "MASSIRA 3 N 550",
+    "AdresseA": "حي المسيرة 3 ب رقم 550",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TIZIRI POUR ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "تيزيري للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 13 صوكوما 2 سودري",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA FUTAIE POUR ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "لافوتي للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 582 تجزئة النهضة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSADARA PLUS POUR ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "الصدارة بلوس للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة سيدي مبارك رقم 152",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "abnaa alghad pour l ENSEIGNEMENT",
+    "NOM_ETABA": "أبناء الغد للتعليم المدرسي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "رقم 873، حي ابن تاشفين أزلي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANAMIL ENNOUR ENS PRESCO",
+    "NOM_ETABA": "مؤسسة أنامل النور للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "المسيرة 3 حرف أ رقم 110",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL MOHR ENS PRESCO",
+    "NOM_ETABA": "مؤسسة المهر للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 84 تجزئة ابواب مراكش شطر 1",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NIDAL AL MASSIRA ens PREscoe",
+    "NOM_ETABA": "مؤسسة نضال المسيرة للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "المسيرة 1 حرف د رقم 2 - 7",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MERRY MONTESSORI ENS PRESCO",
+    "NOM_ETABA": "مؤسسة ميري مونتيسوري للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "اقامة الخير تاركة",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AALAM ASSIGHAR ENS PRESOE",
+    "NOM_ETABA": "مؤسسة عالم الصغار للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة حمزة 1 رقم 158 اسكجور ال",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AJIAL MARRAKECH ENS PRESCO",
+    "NOM_ETABA": "مؤسسة اجيال مراكش للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "قم 96 ازلي الجنوبي 2",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT THEOPHILE GAUTIER ENS PRESCO",
+    "NOM_ETABA": "مؤسسة تيوفيل كوتي للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 126 زهور تاركة ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT OUM IMRANE ENS PRESCO",
+    "NOM_ETABA": "مؤسسة أم عمران للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة برادي 2 قم 426 المحاميد ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BERRADA ENS PRESCO",
+    "NOM_ETABA": "مؤسسة برادة للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة دوار برادة رقم 23",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MARRAKIDS ENS PRESCO",
+    "NOM_ETABA": "مؤسسة مراكيدس للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "العزوزية G17",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT OUM SOLAIM ENS PRESCO",
+    "NOM_ETABA": "مؤسسة ام سليم للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة العزوزية رقم 698",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CHARIF ELGHAZOUANI ENS PRESCO",
+    "NOM_ETABA": "مؤسسة الشريف الغزواني للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "سوكوما 2 سودري رقم 486",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LE JARDIN DES ORANGERS ENS.PRESCOLAIRE",
+    "NOM_ETABA": "مدرسة حدائق الليمون للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "العزيزية 1 عمارة l المحاميد ال",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ARKAM & HOROUF ENS PRESCO",
+    "NOM_ETABA": "مؤسسة ارقام و حروف للتعليم الاولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "المسيرة 2 حرف س رقم 317",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROSA JUNIOR POUR L’ENSEIGNEMENT",
+    "NOM_ETABA": "روزا جنيور للتعايم المدرسي الخصوصي",
+    "AdresseL": "20 cité EZZAYTOUNE LAMHAMID",
+    "AdresseA": "رقم 20 حي الزيتون المحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIME MACHOU ENS.PRESCOLAIRE",
+    "NOM_ETABA": "براعم ماشو للاتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار ماشو بلوك 14 بقعة رقم 35 ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Badzi Pour Enseignement Préscolaire",
+    "NOM_ETABA": "مؤسسة بدزي للتعليم الأولي الخصوصي",
+    "AdresseL": "Azli Bloc 9 rue Tiznit 1043",
+    "AdresseA": "أزلي بلوك 9 زنقة تزنيت رقم 104",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Excel Academy2 Pour Enseignement Scolaire Priv",
+    "NOM_ETABA": "مؤسسة إكسيل أكاديمي2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "Quartier El Massira3 A2",
+    "AdresseA": "حي المسيرة3أ2",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUNE WALKALAM 2 POUR ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": " نون و القلم 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lotissement Adrar N°5 et 12 Mh",
+    "AdresseA": "تجزئة أدرار رقم 5 و 12 لمحاميد",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement The Anglo School Pour Enseignement Scolaire Pr",
+    "NOM_ETABA": "مؤسسة ذ أنكلو سكول للتعليم المدرسي الخصوصي",
+    "AdresseL": "Avenue Dakhla N°6 Groupe Nour ",
+    "AdresseA": "شارع الداخلة رقم 6 مجموعة نور ",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT NOUR MHAMID POUR ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة نور لمحاميد للتعليم المدرسي الخصوصي",
+    "AdresseL": "Rés. ASSALAM ALMOUFTI N° 1 ASK",
+    "AdresseA": "إقامة السلام المفتي رقم 1 أسكج",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EXEL BARRADI POUR ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة اكسيل برادي للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "سوكوما ب سودري 538",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CLAUDE BERNARD POUR ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة كلود برنار للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 48 تجزئة لضرع، ياسمينة تار",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL OUMNIA MHAMID POUR ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة الأمنية المحاميد للتعليم المدرسي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "رقم 8 المحاميد 9",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Excel Academy pour Enseignement Scolaire",
+    "NOM_ETABA": "مؤسسة إكسيل أكاديمي للتعليم المدرسي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "القطعة 3 المسيرة 3",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MA PREMIERE ACADEMIE POUR L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "ما بروميير أكاديمي للتعليم الأولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "رقم 83 و84 تجزئة وريدة تاركة م",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL GUERMAI POUR ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الكرماعي للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement zohour targa tranc",
+    "AdresseA": "تجزئة زهور تاركة شطر 7 -54",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Al Fajr POUR ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الفجر للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 344 حي إزيكي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SAID POUR ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة سعيد للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "سوكوما 2 رقم 356 سودري",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AlQIAM POUR ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة القيم للتعليم المدرسي الخصوصي  ",
+    "AdresseL": "NULL",
+    "AdresseA": "المحاميد الجنوبي",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "UNITE DU PRESCOLAIRE DES FORCES AUXILLIARES",
+    "NOM_ETABA": "بنية التعليم الأولي للقوات المساعدة مدينة –تاركة مراكش-",
+    "AdresseL": "NULL",
+    "AdresseA": "تكنة القوات المساعدة 67 للمخزن",
+    "COMMUNE": "Ménara",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

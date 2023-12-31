@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "BAB RAMLA CENTRE",
+    "NOM_ETABA": "باب الرملة المركز",
+    "AdresseL": "DOUAR BAB RAMLA COMMUNE OULED CHRIF",
+    "AdresseA": "دوار باب الرملة جماعة أولاد الشريف",
+    "COMMUNE": "Oulad Chrif",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL OUMMAL CENTRE",
+    "NOM_ETABA": "العمال المركز",
+    "AdresseL": "DOUAR EL OUMMAL COMMUNE OULED CHRIF",
+    "AdresseA": "دوار العمال جماعة أولاد الشريف",
+    "COMMUNE": "Oulad Chrif",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAAOUNIA CENTRE",
+    "NOM_ETABA": "التعاونية المركز",
+    "AdresseL": "TAAOUNIA eLHASSANIA COMMUNE OULED CHRIF",
+    "AdresseA": "التعاونية الحسنية جماعة أولاد الشريف",
+    "COMMUNE": "Oulad Chrif",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

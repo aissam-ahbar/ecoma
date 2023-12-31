@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MOUTANABBI",
+    "NOM_ETABA": "الثانوية الإعدادية المتنبي",
+    "AdresseL": "commune guisser",
+    "AdresseA": "جماعة كيسر",
+    "COMMUNE": "Guisser",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GUISSER CENTRE",
+    "NOM_ETABA": " مركزية  كيسر",
+    "AdresseL": "CENTRE GUISSER COMMUNE GUISSER",
+    "AdresseA": "مركز كيسر",
+    "COMMUNE": "Guisser",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHMADATE CENTRE",
+    "NOM_ETABA": "مركزية  الحمادات",
+    "AdresseL": "DOUAR LAHMADATE COMMUNE GUISSER",
+    "AdresseA": "الحمادات كيسر",
+    "COMMUNE": "Guisser",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR ESFA CENTRE",
+    "NOM_ETABA": "مركزية بئر الصفا",
+    "AdresseL": "DOUAR BIR ESFA GUISSER COMMUNE GUISSER",
+    "AdresseA": "مركز كيسر",
+    "COMMUNE": "Guisser",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE GUISSER",
+    "NOM_ETABA": "الثانوية التأهيلية كيسر",
+    "AdresseL": "COMMUNE GUISSER",
+    "AdresseA": "جماعة كيسر",
+    "COMMUNE": "Guisser",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL ARBIAA EL AOUNATE",
+    "NOM_ETABA": "ثانوية أربعاء العونات الإعدادية",
+    "AdresseL": "CENTRE  COMMUNE ARBIAA EL AOUNATE",
+    "AdresseA": "الثانوية الإعدادية أربعاء العونات دائرة سيدي بنور",
+    "COMMUNE": "Laaounate",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRALE EL AOUNATE",
+    "NOM_ETABA": "مركزية العونات",
+    "AdresseL": "CENTRE ARBIA AOUNATE COMMUNE AOUNATE",
+    "AdresseA": "مركز اربعاء العونات ج العونات",
+    "COMMUNE": "Laaounate",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN EL HAITAM",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "CENTRE ARBIA AOUNATE COMMUNE AOUNATE",
+    "AdresseA": "مركز اربعاء العونات ج العونات",
+    "COMMUNE": "Laaounate",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR LAHRACHE",
+    "NOM_ETABA": "بير الاحرش",
+    "AdresseL": "DOUAR OULED TALHA COMMUNE AOUNATE",
+    "AdresseA": "دوار اولاد طلحة جماعة العونات",
+    "COMMUNE": "Laaounate",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KAID ETTOUNSSI",
+    "NOM_ETABA": "القايد التونسي",
+    "AdresseL": "DOUAR EL MAADNA COMMUNE AOUNATE",
+    "AdresseA": "دوار المعادنة طريق سبت اولاد بوعزة ج العونات",
+    "COMMUNE": "Laaounate",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DIOUR ECHAABE",
+    "NOM_ETABA": "ديور الشعاب",
+    "AdresseL": "DOUAR DIOUR CHAABE COMMUNE AOUNATE",
+    "AdresseA": "دوار ديور الشعاب ج العونات",
+    "COMMUNE": "Laaounate",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT DOUKKALA",
+    "NOM_ETABA": "ثانوية دكالة التأهيلية",
+    "AdresseL": "CENTRE ARBIAA EL AOUNATE ",
+    "AdresseA": "أربعاء العونات",
+    "COMMUNE": "Laaounate",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "TAKI EDDINE",
+    "NOM_ETABA": "تقي الدين",
+    "AdresseL": "Lotissement Saki 1, N° 3",
+    "AdresseA": "تجزئة الساقي 1 الرقم 3",
+    "COMMUNE": "Laaounate",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LAAYOUNE",
+    "NOM_ETABA": "العيون",
+    "AdresseL": "ESSIFA",
+    "AdresseA": "السيفا",
+    "COMMUNE": "Es-sifa",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIFA",
+    "NOM_ETABA": "السيــــفة",
+    "AdresseL": "ksar glagla sifa",
+    "AdresseA": "قصرالكلاكلة السيفة",
+    "COMMUNE": "Es-sifa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED YAHIA",
+    "NOM_ETABA": "اولاد يحيى",
+    "AdresseL": "KSAR OULED YAHIA SIFA",
+    "AdresseA": "قصر اولاد يحيى  السيفة",
+    "COMMUNE": "Es-sifa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MONGARA",
+    "NOM_ETABA": "المنكرة",
+    "AdresseL": "KSAR ELMONGARA",
+    "AdresseA": "قصرالمنكرة",
+    "COMMUNE": "Es-sifa",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

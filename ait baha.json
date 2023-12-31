@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "C AL FARABI",
+    "NOM_ETABA": "ثإ. الفارابي",
+    "AdresseL": "AIT BAHA CENTRE",
+    "AdresseA": "الحي الاداري بلدية أيت باها",
+    "COMMUNE": "Ait Baha",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E TAREK BEN ZIAD",
+    "NOM_ETABA": "م. طارق بن زياد",
+    "AdresseL": "AIT BAHA CENTRE",
+    "AdresseA": "الحي الاداري بلدية أيت باها",
+    "COMMUNE": "Ait Baha",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AIT BAHA",
+    "NOM_ETABA": "م. أيت باها",
+    "AdresseL": "Av My rachid  CENTRE  ait baha",
+    "AdresseA": "شارع مولاي رشيد أيت باها",
+    "COMMUNE": "Ait Baha",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AIT BAHA",
+    "NOM_ETABA": "ثأ. آيت باها",
+    "AdresseL": "BP  476 ait baha  chtouka ait baha",
+    "AdresseA": "اثانوية التأهيلية أيت باها ، طريق تنالت أيت باها",
+    "COMMUNE": "Ait Baha",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

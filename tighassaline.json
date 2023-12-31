@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "TIGHASSALINE",
+    "NOM_ETABA": "تيغسالين",
+    "AdresseL": "TIGHASSALINE CENTRE COMMUNE TIGHASSALINE",
+    "AdresseA": "تيغسالين المركز جماعة تيغسالين",
+    "COMMUNE": "Tighassaline",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGRED ISDIDEN",
+    "NOM_ETABA": "اكرض اسديدن",
+    "AdresseL": "DOUAR AGRED ISDIDEN COMMUNE TIGHASSALINE",
+    "AdresseA": "دوار اكرض اسديدن جماعة تيغسالين",
+    "COMMUNE": "Tighassaline",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIFRATINE",
+    "NOM_ETABA": "تيفراتين",
+    "AdresseL": "DOUAR TIFRATINE COMMUNE TIGHASSALINE",
+    "AdresseA": "دوار تيفراتين جماعة تيغسالين",
+    "COMMUNE": "Tighassaline",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABADGHIGHE",
+    "NOM_ETABA": "ابضغيغ",
+    "AdresseL": "DOUAR ABADGHIGHE COMMUNE TIGHASSALINE",
+    "AdresseA": "دوار ابضغيغ جماعة تيغسالين",
+    "COMMUNE": "Tighassaline",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIMADGHASSE",
+    "NOM_ETABA": "تيمدغاص",
+    "AdresseL": "DOUAR TIMADGHASSE COMMUNE TIGHASSALINE",
+    "AdresseA": "دوار تيمدغاص جماعة تيغسالين",
+    "COMMUNE": "Tighassaline",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL WAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "TIGHASSALINE CENTRE COMMUNE TIGHASSALINE",
+    "AdresseA": "مركز جماعة تيغسالين",
+    "COMMUNE": "Tighassaline",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL QUODS",
+    "NOM_ETABA": "الثانوية التأهيلية القدس",
+    "AdresseL": "ROUTE DE BNI MELLAL COMMUNE TIGHESSALINE",
+    "AdresseA": "طريق بني ملال جماعة تيغسالين",
+    "COMMUNE": "Tighassaline",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL GUERGUERAT",
+    "NOM_ETABA": "ثانوية الكركرات التأهيلية",
+    "AdresseL": "TIGHSSALINE CENTRE",
+    "AdresseA": "تيغسالين المركز",
+    "COMMUNE": "Tighassaline",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

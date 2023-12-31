@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "IBN TOUMERT",
+    "NOM_ETABA": "ابن تومرت",
+    "AdresseL": "DOUAR AIT BELARBI COMMUNE AIT BELKASSEM",
+    "AdresseA": "دوار ايت بلعربي ج ايت بلقاسم",
+    "COMMUNE": "Ait Belkacem",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOUK SEBT",
+    "NOM_ETABA": "سوق السبت",
+    "AdresseL": "DOUAR SOUK SEBT AIT MOUSSA COMMUNE AIT BELKACEM",
+    "AdresseA": "دوار سوق السبت ايت موسى ج ايت بلقاسم",
+    "COMMUNE": "Ait Belkacem",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

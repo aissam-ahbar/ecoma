@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY DRISS I",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي ادريس الأول",
+    "AdresseL": "CENTRE COMMUNE KHMIS NAGGA",
+    "AdresseA": "مركزجماعة خميس نكة",
+    "COMMUNE": "Nagga",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KHMIS NEGGA",
+    "NOM_ETABA": "م/م خميس نكة",
+    "AdresseL": "KHMIS NEGGA COMMUNE NAGGA",
+    "AdresseA": "خميس نكة جماعة نكة",
+    "COMMUNE": "Nagga",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RHAHLA",
+    "NOM_ETABA": "م/م الرحاحلة",
+    "AdresseL": "DOUAR RHAHLA COMMUNE NEGGA",
+    "AdresseA": "دوار الرحاحلة جماعة نكة",
+    "COMMUNE": "Nagga",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD LAMHAREB",
+    "NOM_ETABA": "م/م اولاد امحارب",
+    "AdresseL": "DOUAR OULED LAMHAREB COMMUNE NEGGA",
+    "AdresseA": "دوار أولاد امحارب  جماعة نكة",
+    "COMMUNE": "Nagga",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "THAHRA",
+    "NOM_ETABA": " م/م الطهاهرة",
+    "AdresseL": "DOUAR THAHRA ",
+    "AdresseA": "دوار الطهاهرة ",
+    "COMMUNE": "Nagga",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ABBA",
+    "NOM_ETABA": "م/م اولاد عبة",
+    "AdresseL": "DOUAR OULED ABBA COMMUNE NEGGA",
+    "AdresseA": "دوار اولادعبة  جماعة نكة",
+    "COMMUNE": "Nagga",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

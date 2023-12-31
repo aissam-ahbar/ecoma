@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL AIT SIDI DAOUD",
+    "NOM_ETABA": "  الثانوية الإعداديةا يت سيدي داود",
+    "AdresseL": "DOUAR boukaddour COMMUNE AIT SIDI DAOUD",
+    "AdresseA": "دوار بوقدور جماعة ايت سيدي داود",
+    "COMMUNE": "Ait Sidi Daoud",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " SIDI DAOUD",
+    "NOM_ETABA": "سيدي داود",
+    "AdresseL": "DOUAR SIDI DAOUD  AIT OURIR EL HOUZ",
+    "AdresseA": "دوار ايت سيدي داود ايت اورير الحوز ",
+    "COMMUNE": "Ait Sidi Daoud",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ECHAABA",
+    "NOM_ETABA": " مركزية الشعبة",
+    "AdresseL": "DOUAR SIDI ABDELGHANI COMMUNE AIT SIDI DAOUD",
+    "AdresseA": "دوار سيدي عبد الغني جماعة ايت سيدي داود",
+    "COMMUNE": "Ait Sidi Daoud",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BELAATTAR",
+    "NOM_ETABA": "بلعطار",
+    "AdresseL": "DOUAR BELATAR COMMUNE AIT SIDI DAOUD",
+    "AdresseA": "دوار بلعطارجماعة ايت سيدي داود",
+    "COMMUNE": "Ait Sidi Daoud",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA GHZIL 1",
+    "NOM_ETABA": "للاغزيل 1",
+    "AdresseL": "DOUAR LALLA GHZIL COMMUNE AIT SIDI DAOUD",
+    "AdresseA": "دوار للاغزيل جماعة ايت سيدي داود",
+    "COMMUNE": "Ait Sidi Daoud",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SIDI RAHOU COM",
+    "NOM_ETABA": " سيدي رحو.كوم",
+    "AdresseL": "DOUAR  SIDI RAHOU",
+    "AdresseA": "دوار  سيدي رحو",
+    "COMMUNE": "Ait Sidi Daoud",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALA GHZIL COM",
+    "NOM_ETABA": "للاغزيل.كوم",
+    "AdresseL": "DOUAR LALLA GHZIL",
+    "AdresseA": "دوار للاغزيل",
+    "COMMUNE": "Ait Sidi Daoud",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

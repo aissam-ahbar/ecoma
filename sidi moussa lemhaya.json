@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS SIDI MOUSSA  CENTRE",
+    "NOM_ETABA": "م/م سيدي موسى - المركز",
+    "AdresseL": "DOUAR OURSFANE  COMMUNE SIDI MOUSSA",
+    "AdresseA": "دوار أورسفان  جماعة سيدي موسى",
+    "COMMUNE": "Sidi Moussa Lemhaya",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S BOUJDOUR",
+    "NOM_ETABA": "م/م بوجدور",
+    "AdresseL": "SIDI MOUSSA LAMHAYA",
+    "AdresseA": "سيدي موسى لمهاية",
+    "COMMUNE": "Sidi Moussa Lemhaya",
+    "PROVINCE": "Oujda-Angad",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

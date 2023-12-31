@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OMAR ALKHAYAM",
+    "NOM_ETABA": "إعدادية عمر الخيام",
+    "AdresseL": "DOUAR AL KARIA ROUTBIA COMMUNE AL HAOUAFATE",
+    "AdresseA": "دوار القرية الرتبية",
+    "COMMUNE": "Al Haouafate",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ANOUAL",
+    "NOM_ETABA": " أنوال",
+    "AdresseL": "ALHAOUAFATE CENTRE COMMUNE ALHAOUAFATE",
+    "AdresseA": "الحوافات",
+    "COMMUNE": "Al Haouafate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AHD AL JADID",
+    "NOM_ETABA": "العهد الجديد",
+    "AdresseL": "DOUAR DARKAWA COMMUNE AL HAOUAFATE",
+    "AdresseA": "دوار درقاوة",
+    "COMMUNE": "Al Haouafate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAOUAFATE",
+    "NOM_ETABA": "الحوافات",
+    "AdresseL": " DOUAR AL HOUAFATE COMMUNE AL HAOUAFATE",
+    "AdresseA": "دوار الحوافات",
+    "COMMUNE": "Al Haouafate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAHER BEN JELLOUN",
+    "NOM_ETABA": "ثانوية الطاهر بن جلون التأهيلية",
+    "AdresseL": "centre commune alhaouafate",
+    "AdresseA": "مركز جماعة الحوافات",
+    "COMMUNE": "Al Haouafate",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

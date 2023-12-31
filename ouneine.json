@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "C OUNEINE",
+    "NOM_ETABA": "ثإ. أوناين ",
+    "AdresseL": "Centre commune ouneine",
+    "AdresseA": "مركز جماعة أوناين",
+    "COMMUNE": "Ouneine",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ELMOATAMID BEN ABBAD",
+    "NOM_ETABA": "م.م المعتمد بن عباد",
+    "AdresseL": "DOUAR   TAMTERGA C OUNEINE",
+    "AdresseA": " دوار. تمتركة جماعةاوناين",
+    "COMMUNE": "Ouneine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ADOUZ",
+    "NOM_ETABA": "م.م أدوز",
+    "AdresseL": "DOUAR   ADOUZ C OUNEINE",
+    "AdresseA": "دوار أدوز جماعة اوناين",
+    "COMMUNE": "Ouneine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI HMAD OUMALEK",
+    "NOM_ETABA": "م.م سيدي احماد اومالك",
+    "AdresseL": "DOUAR   IZEMRANE C OUNEINE",
+    "AdresseA": "دوار ازمران جماعة أوناين",
+    "COMMUNE": "Ouneine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

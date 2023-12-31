@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": " COLLEGE TILOUINE",
+    "NOM_ETABA": "الثانوية الاعدادية تلوين",
+    "AdresseL": "tilouine",
+    "AdresseA": "تلوين",
+    "COMMUNE": "Gheris Es-soufli",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OIKA",
+    "NOM_ETABA": "واقة",
+    "AdresseL": "KSAR OIKA GHRIS ESSOUFLI GOULMIMA",
+    "AdresseA": "قصر واقة غريس السفلى كلميمة",
+    "COMMUNE": "Gheris Es-soufli",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUGHZA",
+    "NOM_ETABA": "توغزة",
+    "AdresseL": "KSAR TOUGHZA GHRIS ESSOUFLI GUOLMIMA",
+    "AdresseA": "توغزة    كلميمة",
+    "COMMUNE": "Gheris Es-soufli",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TILOUINE",
+    "NOM_ETABA": "تلوين",
+    "AdresseL": "KSAR TILOUINE GHRIS ESSOUFLI GOULMIMA",
+    "AdresseA": "قصر تلوين غريس السفلى كلميمة",
+    "COMMUNE": "Gheris Es-soufli",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

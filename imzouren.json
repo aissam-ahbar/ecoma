@@ -1,0 +1,202 @@
+[
+  {
+    "NOM_ETABL": "COLLÈGE MOHAMED VI",
+    "NOM_ETABA": "إعدادية محمد السادس",
+    "AdresseL": "RUE AFGHANISTANE IMZOUREN",
+    "AdresseA": "زنقة افغانستان  امزورن ص ب:201",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL QODS COLLEGE",
+    "NOM_ETABA": "إعدادية القدس",
+    "AdresseL": "avenue albahrain HAY AL QODS IMZOUREN",
+    "AdresseA": "شارع البحرين حي القدس  امزورن",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE ANNASR",
+    "NOM_ETABA": "اعدادية النصر",
+    "AdresseL": "imzouren",
+    "AdresseA": "امزورن",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE HAY ARRABIE",
+    "NOM_ETABA": "ثانوية حي الرابع الإعدادية ",
+    "AdresseL": "HAY ARRABIE IMZOUREN",
+    "AdresseA": "حي الرابع امزورن ",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABI TALEB",
+    "NOM_ETABA": "ابي طالب",
+    "AdresseL": " SECTEUR  abi taleb imzouren",
+    "AdresseA": "حي ابي طالب امزورن",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMZOUREN II",
+    "NOM_ETABA": "امزورن 2",
+    "AdresseL": "QARTIER II IMZOUREN",
+    "AdresseA": " حي امزورن 2",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "QARTIER MILITAIRE IMZOUREN",
+    "AdresseA": "الحي العسكري",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "محمد الزرقطوني",
+    "AdresseL": "QUARTIER IBOUJANE",
+    "AdresseA": "حي إبوجان",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EDDAHAB",
+    "NOM_ETABA": "وادي الدهب",
+    "AdresseL": "HAY lycée",
+    "AdresseA": "حي الثانوي",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAZIB",
+    "NOM_ETABA": "لعزيب",
+    "AdresseL": "HAY LAAZIB IMZOUREN",
+    "AdresseA": "حي لعزيب",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSAN 1 ER",
+    "NOM_ETABA": "الحسن الأول",
+    "AdresseL": "QUARTIER DU SOUK IMZOUREN CENTRE",
+    "AdresseA": "حي السوق امزورن",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED BOUKMAKH",
+    "NOM_ETABA": "أحمد بوكماخ",
+    "AdresseL": "cartier ait amhand",
+    "AdresseA": "حي آيت أمحند",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUM ALBANINE",
+    "NOM_ETABA": "أم البنين",
+    "AdresseL": "IMZOUREN ",
+    "AdresseA": "بلدية امزورن",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN HAZM",
+    "NOM_ETABA": "الثانوية التأهيلية ابن حزم ",
+    "AdresseL": "HAY ARRABIE IMZOUREN",
+    "AdresseA": "حي الرابع امزورن",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IMZOUREN ",
+    "NOM_ETABA": " ثانوية إمزورن",
+    "AdresseL": "RUE AFGHANISTANE IMZOUREN",
+    "AdresseA": "زنقة افغانستان  امزورن",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ISMAIL",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي إسماعيل ",
+    "AdresseL": "HAY ALMATAR ALKADIM IMZOUREN",
+    "AdresseA": "حي  المطار القديم  امزورن",
+    "COMMUNE": "Imzouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE PRIMAIREE OUM AYMANE",
+    "NOM_ETABA": "المدرسة الابتدائية الخاصة أم أيمن",
+    "AdresseL": "b.P 15 . Village d  enfants so",
+    "AdresseA": "ص  ب 15    قرية  الاطفال  إمزو",
+    "COMMUNE": "Imzouren ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Anoual",
+    "NOM_ETABA": "معهد أنوال",
+    "AdresseL": "N° 14, Boulevard Soudan - C. I",
+    "AdresseA": "رقم 14، شارع السودان - ج. أمزو",
+    "COMMUNE": "Imzouren ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aljil assalih",
+    "NOM_ETABA": "الجيل الصالح",
+    "AdresseL": "",
+    "AdresseA": "حي الربيع شارع الدار البيضاء ا",
+    "COMMUNE": "Imzouren ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "braim al_iman",
+    "NOM_ETABA": "براعم الإيمان",
+    "AdresseL": "Rue nekkour, rue libia",
+    "AdresseA": "شارع ليبيا و شارع النكور",
+    "COMMUNE": "Imzouren ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

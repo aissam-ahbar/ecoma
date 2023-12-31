@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "TIBIHIT CENTRE",
+    "NOM_ETABA": "مركزية تبهيت",
+    "AdresseL": "DOUAR TIBIHIT COMMUNE AIT OUM ELBAKHT",
+    "AdresseA": "جماعة  ايت ام البخت",
+    "COMMUNE": "Ait Oum El Bekht",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARDA CENTRE",
+    "NOM_ETABA": "مركزية تاردا",
+    "AdresseL": "TARDA COMMUNE AIT OUM EL BEKHT",
+    "AdresseA": "جماعة  ايت ام البخت",
+    "COMMUNE": "Ait Oum El Bekht",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DESCARTES 3 ",
+    "NOM_ETABA": "ديكارت 3",
+    "AdresseL": "",
+    "AdresseA": "فيلا الدليمي تبهيت جماعة ايت أ",
+    "COMMUNE": "Ait Oum El Bekht",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

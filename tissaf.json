@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "TISSAF",
+    "NOM_ETABA": "تيساف",
+    "AdresseL": "TISSAF CENTRE COMMUNE TISSAF",
+    "AdresseA": "تيساف المركز جماعة تيساف",
+    "COMMUNE": "Tissaf",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MALLAHA",
+    "NOM_ETABA": "الملاحة",
+    "AdresseL": "DOUAR EL MALLAHA COMMUNE TISSAF",
+    "AdresseA": "دوار الملاحة جماعة تيساف",
+    "COMMUNE": "Tissaf",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL FARABI",
+    "NOM_ETABA": "الثانوية التأهيلية الفارابي",
+    "AdresseL": "CENTRE COMMUNE TISSAF",
+    "AdresseA": "مركز جماعة تيساف",
+    "COMMUNE": "Tissaf",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

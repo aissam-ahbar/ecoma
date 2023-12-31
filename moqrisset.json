@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED VI",
+    "NOM_ETABA": "الثانوية الأعدادية محمد السادس",
+    "AdresseL": "MOQRISSAT CoMmune mOQRISSAT",
+    "AdresseA": "مقريصات المركز جماعة مقريصات",
+    "COMMUNE": "Moqrisset",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS HAMANE AL FETEOUAKI 2",
+    "NOM_ETABA": "م/م حمان الفطواكي 2",
+    "AdresseL": "DOUAR ASSERDOUN CoMmune de moQRISSAT ",
+    "AdresseA": "دوار اسردون جماعة مقريصات",
+    "COMMUNE": "Moqrisset",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Touria Sekkat",
+    "NOM_ETABA": "مجموعة مدارس ثريا السقاط",
+    "AdresseL": "DOUAR CHERRATINECMOQRISSAT",
+    "AdresseA": "دوار الشراطين جماعة مقريصات",
+    "COMMUNE": "Moqrisset",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Abderrahim Bouabid",
+    "NOM_ETABA": "مجموعة مدارس عبد الرحيم بوعبيد",
+    "AdresseL": "CENTRE MOKRISSET OUEZZANE",
+    "AdresseA": "  مركز مقريصات وزان",
+    "COMMUNE": "Moqrisset",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN AL HASSANE AL OUZANI",
+    "NOM_ETABA": "م/م ابن الحسن الوزاني",
+    "AdresseL": "DOUAR AIN KOB Commune de MOQRISSAT ouezzane",
+    "AdresseA": "دوار عين قوب جماعة مقريصات",
+    "COMMUNE": "Moqrisset",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MESKA ",
+    "NOM_ETABA": "م المسقة ",
+    "AdresseL": "DOUAR EL MESKA C MOKRISSAT",
+    "AdresseA": "دوار المسقة جماعة مقريصات",
+    "COMMUNE": "Moqrisset",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant Driss Benzekri",
+    "NOM_ETABA": "الثانوية التأهيلية ادريس بنزكري",
+    "AdresseL": "moqurissat",
+    "AdresseA": "مركز مقريصات",
+    "COMMUNE": "Moqrisset",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

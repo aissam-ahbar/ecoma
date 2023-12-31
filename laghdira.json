@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL FARABI",
+    "NOM_ETABA": "ثانوية الفرابي الاعدادية",
+    "AdresseL": " centre ARBIAA CHTOUKA",
+    "AdresseA": "مركز أربعاء هشتوكة ",
+    "COMMUNE": "Laghdira",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S OULAD DAOUD",
+    "NOM_ETABA": "م/م أولاد داوود",
+    "AdresseL": "DOUAR OULAD DAOUD ",
+    "AdresseA": "دوار أولاد داود ",
+    "COMMUNE": "Laghdira",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ARBIAA HACHTOUKA",
+    "NOM_ETABA": "م/م أربعاء هشتوكة",
+    "AdresseL": "DOUAR ARBIA HACHTOUKA ",
+    "AdresseA": "دوار أربعاء هشتوكة ",
+    "COMMUNE": "Laghdira",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BOUCHAIB HARIRI ",
+    "NOM_ETABA": "م/م بوشعيب الحريري",
+    "AdresseL": "douar oueled alhaimar ",
+    "AdresseA": "دوار أولاد الحيمر ",
+    "COMMUNE": "Laghdira",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ESSLATNA",
+    "NOM_ETABA": "م/م السلاطنة",
+    "AdresseL": "DOUAR EL MASSIRA ",
+    "AdresseA": "دوار المسيرة ",
+    "COMMUNE": "Laghdira",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "SS KETAMA",
+    "NOM_ETABA": "م/م كتامة",
+    "AdresseL": "DOUAR KETAMA COMMUNE KETAMA",
+    "AdresseA": "دوار كتامة جماعة كتامة",
+    "COMMUNE": "Ketama",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUYA",
+    "NOM_ETABA": "موية",
+    "AdresseL": "DOUAR MOUYA COMMUNE KETAMA",
+    "AdresseA": "دوارمويةجماعة كنامة",
+    "COMMUNE": "Ketama",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATOUT",
+    "NOM_ETABA": "اتوت",
+    "AdresseL": "DOUAR ATOUT COMMUNE KETAMA",
+    "AdresseA": "دواراتوت جماعة كنامة",
+    "COMMUNE": "Ketama",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZGHAR",
+    "NOM_ETABA": "ازغار",
+    "AdresseL": "DOUAR AZGHAR COMMUNE KETAMA",
+    "AdresseA": "دوار ازغار جماعة كتامة",
+    "COMMUNE": "Ketama",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KETAMA.COM",
+    "NOM_ETABA": "كتامة كم",
+    "AdresseL": "Douar arira Ktema",
+    "AdresseA": "دوار أريرة كتامة",
+    "COMMUNE": "Ketama",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KETAMA",
+    "NOM_ETABA": "ثانوية كتامة التأهيلية",
+    "AdresseL": "centre ketama commune ketama",
+    "AdresseA": "مركز كتامة جماعة كتامة",
+    "COMMUNE": "Ketama",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

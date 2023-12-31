@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "KANTRATE SEBOU CENTRE",
+    "NOM_ETABA": "قنطرة سبو المركز",
+    "AdresseL": "DOUAR OULAD AAMIRA COMMUNE SIDI DAOUD",
+    "AdresseA": "دوار اولاد اعميرة سيدي داود",
+    "COMMUNE": "Sidi Daoud",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELHAJRA CHRIFA CENTRE",
+    "NOM_ETABA": "الحجرة الشريفة المركز",
+    "AdresseL": "DOUAR AZIB BOU AACHRINECOMMUNE SIDI DAOUD",
+    "AdresseA": "دوار عزيب بوعشرين سيدي داود",
+    "COMMUNE": "Sidi Daoud",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZNATA CENTRE",
+    "NOM_ETABA": " ازناتة المركز",
+    "AdresseL": "DOUAR ZNATA COMMUNE SIDI DAOUD",
+    "AdresseA": "دوار ازناتة سيدي داود",
+    "COMMUNE": "Sidi Daoud",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKDADRA CENTRE",
+    "NOM_ETABA": "القدادرة المركز",
+    "AdresseL": "DOUAR LAKDADRA COMMUNE SIDI DAOUD",
+    "AdresseA": "دوار القدادرة سيدي داود",
+    "COMMUNE": "Sidi Daoud",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant SEBOU",
+    "NOM_ETABA": "الثانوية التأهيلية سبو",
+    "AdresseL": "centre commune sidi daoud",
+    "AdresseA": "مركز جماعة سيدي داود",
+    "COMMUNE": "Sidi Daoud",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

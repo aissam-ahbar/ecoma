@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE JORF",
+    "NOM_ETABA": "اعدادية الجرف",
+    "AdresseL": "CENTRE DE JORF",
+    "AdresseA": "مركز الجرف",
+    "COMMUNE": "Jorf",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI MOHAMED BABDELLAH",
+    "NOM_ETABA": "سيدي محمد بن عبد الله",
+    "AdresseL": "CENTRE JORF",
+    "AdresseA": "الجرف المركز",
+    "COMMUNE": "Jorf",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETTIRMIDI",
+    "NOM_ETABA": "الترميدي",
+    "AdresseL": "CENTRE JORF",
+    "AdresseA": "الجرف",
+    "COMMUNE": "Jorf",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOLTAN MY EL HASSAN",
+    "NOM_ETABA": "السلطان مولاي الحسن",
+    "AdresseL": "JORF ERFOUD",
+    "AdresseA": "الجرف ارفود",
+    "COMMUNE": "Jorf",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MANKARA2",
+    "NOM_ETABA": "المــــــنقارة 2",
+    "AdresseL": "aL MaNKARA 2  COMMUNE JORF",
+    "AdresseA": "المنقــــــــارة 2  الجرف",
+    "COMMUNE": "Jorf",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHAHID MY TAYEB BEN MY LAKBIR",
+    "NOM_ETABA": "الثانوية التأهيلية الشهيد مولاي الطيب بن مولاي لكب",
+    "AdresseL": "CENTRE JORF ERFOUD",
+    "AdresseA": "مركز الجرف",
+    "COMMUNE": "Jorf",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

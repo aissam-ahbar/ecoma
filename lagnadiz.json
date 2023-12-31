@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED VI",
+    "NOM_ETABA": "الثانوية الاعدادية محمد السادس",
+    "AdresseL": "centre c r lagnadiz cercle oued zem",
+    "AdresseA": "مركز ج ق الكناديز دائرة واد زم",
+    "COMMUNE": "Lagnadiz",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS GNADIZ",
+    "NOM_ETABA": "م/م الكناديز",
+    "AdresseL": "DOUAR OULED ALI COMMUNE LAGNADIZ",
+    "AdresseA": "دوار  اولاد  علي",
+    "COMMUNE": "Lagnadiz",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TABBA",
+    "NOM_ETABA": "م/م الطبا",
+    "AdresseL": "DOUAR TABBA COMMUNE LAGNADIZ",
+    "AdresseA": "دوار  الطبا",
+    "COMMUNE": "Lagnadiz",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

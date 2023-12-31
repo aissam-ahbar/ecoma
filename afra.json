@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SS AIT KHALFOUNE",
+    "NOM_ETABA": "م.م أيت خلفون",
+    "AdresseL": "DOUAR AIT KHALFOUNE COMMUNE AFRA",
+    "AdresseA": "دوار أيت خلفون أفرا",
+    "COMMUNE": "Afra",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT ABDELLAH ",
+    "NOM_ETABA": " م.م أيت عبد الله",
+    "AdresseL": "DOUAR AIT lahcen COMMUNE AFRA",
+    "AdresseA": "دوارأيت لحسن جماعة أفرا",
+    "COMMUNE": "Afra",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIMIDERTE",
+    "NOM_ETABA": "م.م تميضرت",
+    "AdresseL": "DOUAR TIMIDERTE Commune RURALE AFRA",
+    "AdresseA": "دوار تمبضرت/جماعة أفرا",
+    "COMMUNE": "Afra",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MEDERSAT COM AIT HAMMOU SAID",
+    "NOM_ETABA": "م. مدرسة كم ايت حمو اوسعيد",
+    "AdresseL": "douar ait hamMou said afra",
+    "AdresseA": "دوار ايت حمو سعيد افرا ",
+    "COMMUNE": "Afra",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AFRA",
+    "NOM_ETABA": "الثانوية التأهيلية  أفرا ",
+    "AdresseL": "Commune Afra",
+    "AdresseA": "جماعة أفرا",
+    "COMMUNE": "Afra",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

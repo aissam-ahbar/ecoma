@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SEGATE",
+    "NOM_ETABA": "الثانوية الإعدادية سكاط ",
+    "AdresseL": "SGATT COMMUNE AIT ABBAS",
+    "AdresseA": "سكاط جماعة أيت عباس",
+    "COMMUNE": "Ait Abbas",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE SGAT",
+    "NOM_ETABA": "مركزية سكاط",
+    "AdresseL": "SGAT CENTRE",
+    "AdresseA": "مركز سكاط",
+    "COMMUNE": "Ait Abbas",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ANLATF",
+    "NOM_ETABA": "مركزية أنلاتف",
+    "AdresseL": "DOUAR ANLATEF",
+    "AdresseA": "دوار انلاتف ",
+    "COMMUNE": "Ait Abbas",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SREMT",
+    "NOM_ETABA": "مركزية سرمت",
+    "AdresseL": "DOUAR SREMT",
+    "AdresseA": "دوار سرمت",
+    "COMMUNE": "Ait Abbas",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIRARINE ",
+    "NOM_ETABA": "مركزية تيرارين",
+    "AdresseL": "DOUAR TIRARINE",
+    "AdresseA": "دوار تيرارين",
+    "COMMUNE": "Ait Abbas",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

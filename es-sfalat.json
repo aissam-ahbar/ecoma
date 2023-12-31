@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "OULED  EL WALI",
+    "NOM_ETABA": "اولاد الوالي",
+    "AdresseL": "KSAR OULED EL WALI ESSFALET RISSANI",
+    "AdresseA": "قصر اولاد الوالي السفلات الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IRARA",
+    "NOM_ETABA": "ارارة",
+    "AdresseL": "KSAR IRARA RISSANI",
+    "AdresseA": "قصر ارارة الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SIDI BRAHIM",
+    "NOM_ETABA": "اولاد سيدي ابراهيم",
+    "AdresseL": "KSAR OULED SIDI BRAHIM RISSANI",
+    "AdresseA": "قصر اولاد سيدي ابراهيم الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TABOUASSAMTE",
+    "NOM_ETABA": "تابوعصامت",
+    "AdresseL": "KSAR TABOUASSAMTE RISSANI",
+    "AdresseA": "قصر تابوعصامت الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MATI",
+    "NOM_ETABA": "الماطي",
+    "AdresseL": "KSAR EL MATI ESSFALAT RISSANI",
+    "AdresseA": "قصر الماطي السفلات الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GUIGHLANE",
+    "NOM_ETABA": "كيغلان",
+    "AdresseL": "KSAR WIGHLANE RISSANI",
+    "AdresseA": "قصر وغلان الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHARFATE BAHAJE",
+    "NOM_ETABA": "شرفة باحاج",
+    "AdresseL": "KSAR CHARFATE BAHAJE RISSANI",
+    "AdresseA": "قصر شرفة باحاج الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TINGHRAS",
+    "NOM_ETABA": "تنغراس",
+    "AdresseL": "KSAR TINGHRAS ESSFALAT RISSANI",
+    "AdresseA": "قصر تنغراس السفلات الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU BAKRE SEDDIK",
+    "NOM_ETABA": "الثانوية التأهيلية ابو بكر الصديق",
+    "AdresseL": "TABOUASSAMTE ESSFALATE RISSANI",
+    "AdresseA": "تبوعصامت السفلات الريصاني",
+    "COMMUNE": "Es-sfalat",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

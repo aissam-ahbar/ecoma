@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS ALATLAS ALKABIR",
+    "NOM_ETABA": "م.م الأطلس الكبير",
+    "AdresseL": "DOUAR  SEBT TAFRAOUTEN CSEBT TAFRAOUTEN",
+    "AdresseA": "د. سبت تافراوتن",
+    "COMMUNE": "Tafraouten",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMARWOUT",
+    "NOM_ETABA": "م.م تمرووت",
+    "AdresseL": "DOUAR  AOUFOUR  SEBT TAFRAOUTEN",
+    "AdresseA": "دوار اوفور جماعة سبت تافروتان",
+    "COMMUNE": "Tafraouten",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN ZAIDOUN",
+    "NOM_ETABA": "م.م ابن زيدون",
+    "AdresseL": "DOUAR  TAMDGHOUSTE COMMUNE TAFRAOUTEN",
+    "AdresseA": "دوارتمضغوست, جماعة تافراوتن",
+    "COMMUNE": "Tafraouten",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMSSOULTE",
+    "NOM_ETABA": "م.م تامسولت",
+    "AdresseL": "DOUAR  TAMESSOULTE C SEBT TAFRAOUTEN",
+    "AdresseA": "دوار تامسولت جماعة تافراوت",
+    "COMMUNE": "Tafraouten",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

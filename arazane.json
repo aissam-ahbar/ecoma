@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS ELMEHDI BEN TOUMERT ARAZAN",
+    "NOM_ETABA": "م.م المهدي بن تومرت أرازان",
+    "AdresseL": "DOUAR   ARAZANE COMMUNE ARAZANE",
+    "AdresseA": "  دوار ارزان",
+    "COMMUNE": "Arazane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUAHLIBA",
+    "NOM_ETABA": "م.م واحليبا",
+    "AdresseL": "DOUAR   OUAHLIBA C ARAZANE",
+    "AdresseA": "دوار واحليبا جماعة ارزان",
+    "COMMUNE": "Arazane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMMAR IBN YASSIR",
+    "NOM_ETABA": "م.م عمار ابن ياسر",
+    "AdresseL": "DOUAR   JERF C ARAZANE",
+    "AdresseA": "د. الجرف",
+    "COMMUNE": "Arazane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L ERRAZI",
+    "NOM_ETABA": "ثأ.الرازي",
+    "AdresseL": "DOUAR ARAZANE COMMUNE ARAZANE",
+    "AdresseA": "دوار أرزان",
+    "COMMUNE": "Arazane",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

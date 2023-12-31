@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAKSSIBA",
+    "NOM_ETABA": "ثانوية القصيبة الاعدادية",
+    "AdresseL": "centre Boulaouane",
+    "AdresseA": " مركز بولعوان",
+    "COMMUNE": "Boulaouane",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE BOULAOUANE",
+    "NOM_ETABA": "مدرسة بولعوان",
+    "AdresseL": "DOUAR OULED ALI ",
+    "AdresseA": "دوار أولاد علي ",
+    "COMMUNE": "Boulaouane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKHYAYTA",
+    "NOM_ETABA": "م/م الخيايطة",
+    "AdresseL": "DOUAR LAKHYAYTA",
+    "AdresseA": "دوار الخيايطة",
+    "COMMUNE": "Boulaouane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKHRITATE",
+    "NOM_ETABA": "م/م الخريطات",
+    "AdresseL": "DOUAR LAABARKA ",
+    "AdresseA": "دوار العبارقة",
+    "COMMUNE": "Boulaouane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL HIRCHE",
+    "NOM_ETABA": "م/م الحيرش",
+    "AdresseL": "TAOUNIA EL FILAHIA ",
+    "AdresseA": "التعاونية الفلاحية",
+    "COMMUNE": "Boulaouane",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

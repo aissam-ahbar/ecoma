@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHA OUHAMOU EZZAYANI",
+    "NOM_ETABA": "الثانوية الأعدادية موحى اوحمو الزياني",
+    "AdresseL": "BOUKORRA CENTRE C KALAAT BOUKORRA",
+    "AdresseA": "بوقرة المركز جماعة بوقرة",
+    "COMMUNE": "Kalaat Bouqorra",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS FAKIH ALQORI",
+    "NOM_ETABA": "م م الفقيه القري",
+    "AdresseL": "BOUKORRA ouezzane",
+    "AdresseA": "بوقرة و زا ن",
+    "COMMUNE": "Kalaat Bouqorra",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHORAFA",
+    "NOM_ETABA": "م م الشرفاء",
+    "AdresseL": "DOUAR CHAHBIACBOUQORRA OUEZZANE",
+    "AdresseA": "دوار الشهبية جماعة بوقرة6297",
+    "COMMUNE": "Kalaat Bouqorra",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Abdelkrim el-Khattabi",
+    "NOM_ETABA": "مجموعة مدارس عبد الكريم الخطابي",
+    "AdresseL": "DOUAR ZAOUIA kalaat BOUKORRA ouezzane",
+    "AdresseA": "دوار الزاوية جماعة قلعة  بوقرة  وزان",
+    "COMMUNE": "Kalaat Bouqorra",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Ma El Aïnin",
+    "NOM_ETABA": "مجموعة مدارس ماء العينين",
+    "AdresseL": "DOUAR DOUALEH BOUQORRA ouezzane",
+    "AdresseA": "الدوالح المركز جماعة بوقرة",
+    "COMMUNE": "Kalaat Bouqorra",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Qadi Iyad",
+    "NOM_ETABA": "مجموعة مدارس القاضي عياض",
+    "AdresseL": "DOUAR BNI KAOULECHCBOUKORRA  ouezzane",
+    "AdresseA": " دوار بني كولش جماعة  قلعة بوقرة وزان",
+    "COMMUNE": "Kalaat Bouqorra",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KALAAT BOUQORRA",
+    "NOM_ETABA": "الثانوية التاهيلية قلعة بوقرة",
+    "AdresseL": "centre commune kalaat bouqorra",
+    "AdresseA": "مركز جماعة قلعة بوقرة",
+    "COMMUNE": "Kalaat Bouqorra",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

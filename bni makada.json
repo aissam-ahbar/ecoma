@@ -1,0 +1,1622 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUM EL BANINE",
+    "NOM_ETABA": "الثانوية الاعدادية أم البنين",
+    "AdresseL": "Ahlan",
+    "AdresseA": "اهلا",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ASSIA EL WADIE",
+    "NOM_ETABA": "الثانوية الاعدادية آسية الوديع",
+    "AdresseL": "bendibane",
+    "AdresseA": "بنديبان",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL HASSANI",
+    "NOM_ETABA": "الثانوية الاعدادية  الحسني",
+    "AdresseL": "Complexe Al Hassani",
+    "AdresseA": "المجمع الحسني",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDALLAH IBN YASSINE",
+    "NOM_ETABA": "الثانوية الاعدادية عبد الله ابن ياسين",
+    "AdresseL": "Mers 1",
+    "AdresseA": "المرس 1",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YAACOUB EL MANSOUR",
+    "NOM_ETABA": "الثانوية الاعدادية يعقوب المنصور",
+    "AdresseL": "hay laksibate bani makada",
+    "AdresseA": "حي القصيبات بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL INBIAAT",
+    "NOM_ETABA": "الثانوية الاعدادية الانبعاث",
+    "AdresseL": "ROUTE AOUAMA",
+    "AdresseA": "طريق العوامة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN NAFIS",
+    "NOM_ETABA": "الثانوية الاعدادية  ابن النفيس",
+    "AdresseL": "AOUAMA CHARKIA",
+    "AdresseA": "العوامة الشرقية",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELAZIZ MEZIAN BELFKIH",
+    "NOM_ETABA": "الثانوية الإعدادية عبد العزيز مزيان بلفقيه",
+    "AdresseL": "LOTISSEMENT BAB AL ANDALOUS 3 GUEZNAYA",
+    "AdresseA": "تجزئة باب الاندلس3  اجزناية",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ABDERRAHMAN",
+    "NOM_ETABA": "الثانوية الاعدادية  مولاي عبد الرحمن",
+    "AdresseL": "hay florancia  bendibane  COMMUNE BNI MAKADa",
+    "AdresseA": "حي فلورانسيا ـ بنديبان ـ جماعة بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MASSIRA",
+    "NOM_ETABA": "الثانوية الاعدادية المسيرة",
+    "AdresseL": "QUARTIER SAADA COMMUNE BNI MAKADA",
+    "AdresseA": "مقاطعة السعادة بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AZZAHRAE",
+    "NOM_ETABA": "الثانوية الاعدادية الزهراء",
+    "AdresseL": "QUARTIER ZAHARA RUE AMANE COMMUNE BNI MAKADA",
+    "AdresseA": "حي الزهارة شارع عمان",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN BNOU TABIT",
+    "NOM_ETABA": "الثانوية الاعدادية حسان بن ثابت",
+    "AdresseL": "QUARTIER BIR CHIFA  COMMUNE BNI MAKADA",
+    "AdresseA": "حي بئر الشفا بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN EL HAYTAM",
+    "NOM_ETABA": "الثانوية الاعدادية ابن الهيثم",
+    "AdresseL": "hay zemmori1 rue rabAT",
+    "AdresseA": "حي الزوموري1 طريق الرباط طنجة ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU SINA",
+    "NOM_ETABA": "الثانوية الاعدادية ابن سينا",
+    "AdresseL": "AV royaume d ARABIE SAOUDITE Beni Makada",
+    "AdresseA": "شارع المملكة العربية السعودية بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL FARABI",
+    "NOM_ETABA": "الثانوية الاعدادية الفارابي",
+    "AdresseL": "JIRARI2 COMMUNE BNI MAKADA TANGER",
+    "AdresseA": "حي الجيراري 2 - بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN II",
+    "NOM_ETABA": "الثانوية الاعدادية الحسن الثاني",
+    "AdresseL": "QUARTIER SIDI DRISS  COMMUNE BNI MAKADA",
+    "AdresseA": "قطتع بني سعيد حي سيدي ادريس بني مكادة طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH GUENOUN",
+    "NOM_ETABA": "الثانوية الاعدادية عبد الله كنون",
+    "AdresseL": "rue el kods quartier guenbouria",
+    "AdresseA": "شارع القدس حي الكنبورية",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI HAYYAN ATTAWHIDI",
+    "NOM_ETABA": "مدرسة أبي حيان التوحيدي الابتدائية",
+    "AdresseL": "QUARTIER OUARDA BEN DIBANE COMMUNE BNI MAKADA",
+    "AdresseA": "حي الوردة بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DAKHLA",
+    "NOM_ETABA": " مدرسة الداخلة الابتدائية",
+    "AdresseL": "QUARTIER BEN DIBANE COMMUNE BNI MAKADA",
+    "AdresseA": "بنديبان بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANNASR",
+    "NOM_ETABA": " مدرسة النصر الابتدائية",
+    "AdresseL": "Lotissement oumnia  BEN DIBANE  COMMUNE BNI MAKADA",
+    "AdresseA": "تجزئة أمنية بن ديبان بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MALIK IBN ANASS",
+    "NOM_ETABA": "مدرسة الإمام مالك بن أنس الابتدائية",
+    "AdresseL": "QUARTIER JIRARI RUE 1 COMMUNE BNI MAKADA",
+    "AdresseA": "حي الجيراري بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  6 NOVEMBRE",
+    "NOM_ETABA": "مدرسة 6 نونبر الابتدائية",
+    "AdresseL": "QUARTIER JIRARI 2 COMMUNE BNI MAKADA",
+    "AdresseA": "حي الجيراري 2 بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  20 AOUT",
+    "NOM_ETABA": "مدرسة 20 غشت الابتدائية",
+    "AdresseL": "QUARTIER  BIR CHIFA  COMMUNE BNI MAKADA",
+    "AdresseA": "حي بئر الشفا",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ATTABARANI",
+    "NOM_ETABA": "  مدرسة الطبراني الابتدائية",
+    "AdresseL": "QUARTIER BIR CHIFA COMMUNE BNI MAKADA",
+    "AdresseA": "حي بئر الشفا بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZOHR",
+    "NOM_ETABA": "  مدرسة إبن زهر الابتدائية",
+    "AdresseL": "QUARTIER Rgayaa  COMMUNE BNI MAKADA",
+    "AdresseA": "حي الركايع 3 بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHARIF EL IDRISSI",
+    "NOM_ETABA": "  مدرسة الشريف الإدريسي الابتدائية",
+    "AdresseL": "QUARTIER SALAM JIRARI 3  COMMUNE BNI MAKADA",
+    "AdresseA": "حي السلام الجيراري 3 بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU BAKR LAMTOUNI",
+    "NOM_ETABA": "مدرسة أبو بكر اللمتوني الابتدائية",
+    "AdresseL": "QURTIER ACHENNAD   COMMUNE BNI MAKADA",
+    "AdresseA": "حي أشناد بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM EL BOUKHARI",
+    "NOM_ETABA": "مدرسة الإمام البخاري الابتدائية",
+    "AdresseL": "ARRONDISSEMENT BEN DIBANE  COMMUNE BNI MAKADA",
+    "AdresseA": "بنديبان طريق سيدي إدريس",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MABROUKA",
+    "NOM_ETABA": "مدرسة مبروكة الابتدائية",
+    "AdresseL": "ROUTE SIDI DRISS   BENDIBANE  COMMUNE BNI MAKADA",
+    "AdresseA": "طريق سيدي إدريس بنديبان",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN SAID EL MAGHRIBI",
+    "NOM_ETABA": "مدرسة ابن سعيد المغربي الابتدائية",
+    "AdresseL": "QUARTIER ESSALAM 1  COMMUNE BNI MAKADA",
+    "AdresseA": "حي السلام حي عائشة المسافر بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN HANBAL",
+    "NOM_ETABA": " مدرسة ابن حنبل الابتدائية",
+    "AdresseL": "QUARTIER BIR AHARCHOUN COMMUNE BNI MAKADA",
+    "AdresseA": "حي بئر أحرشون بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  18 NOVEMBRE",
+    "NOM_ETABA": "مدرسة 18 نونبر الابتدائية",
+    "AdresseL": "QUARTIER BENI OURIAGHEL COMMUNE BNI MAKADA",
+    "AdresseA": "حي بني ورياغل بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOKHTAR SOUSSI",
+    "NOM_ETABA": "مدرسة المختار السوسي الابتدائية",
+    "AdresseL": "QUARTIER BEN DIBANE  COMMUNE BNI MAKADA",
+    "AdresseA": "حي الوردة بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN BEN SADDEK",
+    "NOM_ETABA": "مدرسة الحسن بن الصديق",
+    "AdresseL": "QUARTIER BIR CHIFA  COMMUNE BNI MAKADA",
+    "AdresseA": "حي بئر الشفا بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI BOUARAKIA",
+    "NOM_ETABA": "مدرسة سيدي بوعراقية الابتدائية",
+    "AdresseL": "QUARTIER ZAHRA AOUAMA COMMUNE BNI MAKADA",
+    "AdresseA": "حي الزهرة بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAHA ABDERRAHMANE",
+    "NOM_ETABA": "مدرسة طه عبد الرحمان الابتدائية",
+    "AdresseL": "QUart BENI SAID bahrayen COMMUNE BNI MAKADA TANGER",
+    "AdresseA": "حي بني سعيد بحراين جماعة بني مكادة طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED CHOUKRI",
+    "NOM_ETABA": "مدرسة محمد شكري الابتدائية",
+    "AdresseL": "ROUTE SIDI DRISS QUATIER AHARARINe DJ BANI MAKADA",
+    "AdresseA": "طريق سيدي ادريس حي احرارين ج بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED MEKKI NACIRI ",
+    "NOM_ETABA": "مدرسة محمد المكي الناصري الابتدائية",
+    "AdresseL": "DOUAR AOUAMA chrkia COMMUNE AOUAMA ",
+    "AdresseA": "دوار العوامةالشرقية، جماعة بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELHADI BOUTALEB",
+    "NOM_ETABA": "مدرسة عبد الهادي بوطالب الابتدائية",
+    "AdresseL": "DOUAR GUENBOURIA  COMMUNE BNI MAKADA  TANGER",
+    "AdresseA": "حي الكنبورية جماعة بني مكادة   طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH BENSEDDIK",
+    "NOM_ETABA": "مدرسة عبد الله بن الصديق الابتدائية",
+    "AdresseL": "DOUAR LAHJAR LASFAR  COMMUNE BNI MAKADA",
+    "AdresseA": "دوار الحجر الأصفر",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BOSSAIRI",
+    "NOM_ETABA": " مدرسة البصيري الابتدائية",
+    "AdresseL": "QUARTIER rgayae 2 rue 4  COMMUNE BNI MAKADA",
+    "AdresseA": "الركايع 2 زنقة 4 بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL ANDALOUSS",
+    "NOM_ETABA": " مدرسة الأندلس الابتدائية",
+    "AdresseL": "AVENUE ALKODS LOTISSEMENT AL ANDALOUSS AOUAMA",
+    "AdresseA": "شارع القدس تجزئة الأندلس العوامة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MOSTAKBAL",
+    "NOM_ETABA": "مدرسة المستقبل الابتدائية",
+    "AdresseL": "LOTISSEMENT ALKHAIR  BIR CHIFA COMMUNE BNI MAKADA",
+    "AdresseA": "تجزئة الخير بئر الشفا  بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LA NOUVELLE ECOLE ",
+    "NOM_ETABA": "المدرسة الجديدة الابتدائية",
+    "AdresseL": "LOTISSEMENT AL MAJD COMMUNE BNI MAKADA",
+    "AdresseA": "زنقة 9 تجزئة المجد بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BADIA",
+    "NOM_ETABA": " مدرسة البديع الابتدائية",
+    "AdresseL": "QUARTIER ACHENNAD lmars COMMUNE BNI MAKADA",
+    "AdresseA": "حي أشناد المرس بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLAH IBRAHIM",
+    "NOM_ETABA": " مدرسة عبد الله إبراهيم الابتدائية",
+    "AdresseL": "QUARTIER BIR CHIFA COMMUNE BNI MAKADA",
+    "AdresseA": "حي بئر الشفا بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL FATH",
+    "NOM_ETABA": " مدرسة الفتح الابتدائية",
+    "AdresseL": "QUARTIER BIR CHIFA COMMUNE BNI MAKADA",
+    "AdresseA": "بوحوت 03شارع الكويت طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED BALAFRIJ",
+    "NOM_ETABA": "مدرسة أحمد بلافريج الابتدائية",
+    "AdresseL": "HAY BNI OUERYAGHIL COMMUNE BNI MAKADA",
+    "AdresseA": "حي بني ورياغل 1 طريق الرباط",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MAJD",
+    "NOM_ETABA": "مدرسة المجد الابتدائية",
+    "AdresseL": "rue force royale km 7 route de rabat harariene",
+    "AdresseA": "شارع الحيش الملكي كلم 7 طريق الرباط الحراريين",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDERRAHIM BOUABID",
+    "NOM_ETABA": " مدرسة عبد الرحيم بوعبيد الابتدائية",
+    "AdresseL": "HAY JIRARI III COMMUNE BNI MAKADA",
+    "AdresseA": "حي الجيراري 3 زنقة مولاي يعقوب بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED BOUKMAKH",
+    "NOM_ETABA": " مدرسة أحمد بوكماخ الابتدائية",
+    "AdresseL": "DOUAR AOUAMA COMMUNE LAAOUAMA",
+    "AdresseA": "دوار العوامة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDEL KARIM EL KHATIB",
+    "NOM_ETABA": " مدرسة عبد الكريم الخطيب الابتدائية",
+    "AdresseL": "QUARTIER EL HADDAD  COMMUNE BNI MAKADA",
+    "AdresseA": "حي الحداد بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL KHAIR",
+    "NOM_ETABA": "مدرسة الخير الابتدائية",
+    "AdresseL": "QUARTIER ELKHAIR1BNI MAKADA TANGER",
+    "AdresseA": "تجزئة الخير 1  بني مكادة طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED ELHADDAD",
+    "NOM_ETABA": "مدرسة محمد الحداد الابتدائية",
+    "AdresseL": "Aouma Al Gharbia",
+    "AdresseA": "العوامة الغربية",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL WAHDA",
+    "NOM_ETABA": "مدرسة الوحدة الابتدائية",
+    "AdresseL": "Mers 2 benimakada ",
+    "AdresseA": "المرس2 بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY YOUSSEF",
+    "NOM_ETABA": "مدرسة مولاي يوسف الابتدائية",
+    "AdresseL": "bir chifa",
+    "AdresseA": "بئر الشفا",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BARAKA",
+    "NOM_ETABA": "مدرسة البركة الابتدائية",
+    "AdresseL": "Lotissement Baraka",
+    "AdresseA": "المجمع السكني البركة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MOTANABI",
+    "NOM_ETABA": "مدرسة المتنبي الابتدائية",
+    "AdresseL": "hay almizane bani makada tanger",
+    "AdresseA": "حي الميزان بني مكادة طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ARRABIE",
+    "NOM_ETABA": " مدرسة الربيع الابتدائية",
+    "AdresseL": "COMPLEXE AL HASSANI",
+    "AdresseA": "المجمع الحسني",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANNAMAE",
+    "NOM_ETABA": "مدرسة النماء الابتدائية",
+    "AdresseL": "COMPLEXE BARAKA1. LMERS",
+    "AdresseA": "حي المرس مركب البركة1",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MALIKA ELFASSI",
+    "NOM_ETABA": "مدرسة مالكة الفاسي الابتدائية",
+    "AdresseL": "AOUAMA CHARKIA",
+    "AdresseA": "العوامة الشرقية",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  NAKHIL",
+    "NOM_ETABA": "مدرسة النخيل الابتدائية",
+    "AdresseL": "BENI SAID",
+    "AdresseA": "بني سعيد",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MANAR",
+    "NOM_ETABA": "مدرسة المنار الابتدائية",
+    "AdresseL": "HAY MRABET",
+    "AdresseA": "حي المرابط 2 ¨LHU? FKD LMH£? ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ESSMARA",
+    "NOM_ETABA": "مدرسة السمارة الابتدائية",
+    "AdresseL": "AOUAMA CHARKIA",
+    "AdresseA": "العوامة الشرقية",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MADAR AL BAHRAYN",
+    "NOM_ETABA": "مدرسة مدار البحرين الابتدائية",
+    "AdresseL": "lotissement bab al andalouss 3 BNI MAKADA T",
+    "AdresseA": "تجزئة باب الاندلس3  بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ERRAHMA",
+    "NOM_ETABA": "مدرسة الرحمة الابتدائية",
+    "AdresseL": "achennad sidi idriss",
+    "AdresseA": "اشناد",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL HIKMA",
+    "NOM_ETABA": "مدرسة الحكمة الابتدائية",
+    "AdresseL": "BIR GHAZI",
+    "AdresseA": "بير غازي",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BNI TOUZINE",
+    "NOM_ETABA": "المدرسة الابتدائية بني توزين",
+    "AdresseL": "BNI TOUZINE BNI MAKADA",
+    "AdresseA": "بني توزين بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL EL FASSI",
+    "NOM_ETABA": "الثانوية التأهيلية علال الفاسي",
+    "AdresseL": "AVENUE MOULAY ALI CHERIF COMMUNE BNI MAKADA",
+    "AdresseA": "شارع مولاي علي الشريف بني مكادة",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH CHEFCHAOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الله الشفشاوني",
+    "AdresseL": "ROUTE AOUAMA  COMMUNE BNI MAKADA",
+    "AdresseA": "حي الزهرة بني مكادة",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI IDRISS",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي ادريس",
+    "AdresseL": "Sidi Idriss bni touzin",
+    "AdresseA": "سيدي ادريس بني توزين",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM EL GHAZALI",
+    "NOM_ETABA": "الثانوية التأهيلية الإمام الغزالي",
+    "AdresseL": "Route Aouama RUE ASSOUAN ",
+    "AdresseA": "طريق العوامة",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "Lotissement alkhayre 1 bendibane bir chifa bp 8027",
+    "AdresseA": "تجزئة الخير 1 بنديبان بئر الشفا ص.ب 8027",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED LAFKIH REGRAGUI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الفقيه الركراكي",
+    "AdresseL": "aouama charqia commune beni makada",
+    "AdresseA": "العوامة الشرقية جماعة بني مكادة",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELBASSATINE",
+    "NOM_ETABA": "الثانوية التاهيلية البساتين",
+    "AdresseL": "Harrarine  Commune bni Makada",
+    "AdresseA": " الحرارين  جماعة بني مكادة",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BIR ANZARANE",
+    "NOM_ETABA": "الثانوية التأهيلية بئر انزران",
+    "AdresseL": "ZEMMOURI 1",
+    "AdresseA": "الزموري1",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MORABITINE",
+    "NOM_ETABA": "الثانوية التأهيلية المرابطين",
+    "AdresseL": "DHAR KANFOUD",
+    "AdresseA": "ظهر القنفود",
+    "COMMUNE": "Bni Makada ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN TABIT",
+    "NOM_ETABA": "ابن تابث",
+    "AdresseL": "LOT. RIYAD AHLAN ROUTE DE RABA",
+    "AdresseA": "حي القيم قطاع الرياض زنقة الحم",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOLIMAN EL HAKIM",
+    "NOM_ETABA": "سليمان الحكيم",
+    "AdresseL": "HAY BNI TOUZINE LOT ERRAHMA",
+    "AdresseA": "حي بني توزين تجزئة الرحمة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM ALHOUDA 2",
+    "NOM_ETABA": "براعم الهدى 2",
+    "AdresseL": "LOT. BTISSAM N26",
+    "AdresseA": "تجزئة ابتسام رقم 26",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYKAE AJYAL",
+    "NOM_ETABA": "لقاء أجيال",
+    "AdresseL": "HAY MAJD RUE 11 N 71",
+    "AdresseA": "حي المجد زنقة 11 رقم 71",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA CLE DES SCIENCES",
+    "NOM_ETABA": " لا كلي دي سيونس",
+    "AdresseL": "LOT. JAMILA N°84",
+    "AdresseA": "تجزئة جميلة رقم 84",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MOLTAKA AL MAARIFA",
+    "NOM_ETABA": "مجموعة مدارس ملتقى المعرفة",
+    "AdresseL": "TOUARESSE  AOUAMA TANGER",
+    "AdresseA": "أرض توارس العوامة طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ARRIADA 2",
+    "NOM_ETABA": "مجموعة مدارس الريادة 2",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المرس 2 الشطر الثاني بني",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL AOUAMA",
+    "NOM_ETABA": "براعم العوامة",
+    "AdresseL": "NULL",
+    "AdresseA": "حومة فاطمة العوامة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JARDIN DES REVES",
+    "NOM_ETABA": "جاغدان دي غيف",
+    "AdresseL": "av. soudane hay reguaea n61",
+    "AdresseA": "شارع السودان حي الركايع رقم 61",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAMA TOURIA",
+    "NOM_ETABA": "ماما ثريا",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة بوحوت زنقة 80 رقم 2",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FI AL AFAQ",
+    "NOM_ETABA": "في الآفاق",
+    "AdresseL": "LOT AL OUYOUNE N 31 - 1",
+    "AdresseA": "تجزئة العيون رقم القطعة 35-1",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AHLEN",
+    "NOM_ETABA": "المجموعة المدرسية أهلا",
+    "AdresseL": "AV. AFOU LOT. RYAD AHLEN G ROU",
+    "AdresseA": "شارع العفو تجزئة رياض أهلا الق",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GENERATION DE SAVOIR",
+    "NOM_ETABA": "جنغسيون دو سفوار",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الويت 1 قطعة رقم 5 زنقة ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MINASSAT ALAWAEL",
+    "NOM_ETABA": "منصة الأوائل",
+    "AdresseL": "mazaree aouama complix el fadl",
+    "AdresseA": "مزارع العوامة مركب الفضيلة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole assedq",
+    "NOM_ETABA": "مؤسسة الصدق",
+    "AdresseL": "av.tanger sidi driss 2939 harr",
+    "AdresseA": "شارع طنجة سيدي إدريس 2936 الحر",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el boughaz",
+    "NOM_ETABA": "البوغاز",
+    "AdresseL": "HAY BNI OURIAGHEL 1 RUE PRINCI",
+    "AdresseA": "حي بني ورياغل 1الشارع الرئيسي ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "des deux mers",
+    "NOM_ETABA": "ذات البحرين",
+    "AdresseL": "AV AL QODS    RUE SADAD N5 LOT",
+    "AdresseA": "شارع القدس زنقة سداد رقم 5 ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NASSIM COM",
+    "NOM_ETABA": "النسيم كوم",
+    "AdresseL": "rue royaume saoudi arabic hay ",
+    "AdresseA": "شارع المملكة العربية السعودية ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIL AL AASSR",
+    "NOM_ETABA": "جيل العصر",
+    "AdresseL": "Lotissement AlMajd, n° 140,Ave",
+    "AdresseA": " شارع بعلبك تجزئة المجد العوام",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BILADI TANGER",
+    "NOM_ETABA": "بلادي طنجة",
+    "AdresseL": "avenue des F.A.R.-Lotissement ",
+    "AdresseA": "شارع الجيش الملكي - تجزئة إناس",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT TANGEROIS D ENSEIGNEMENT MARIAME ",
+    "NOM_ETABA": "مؤسسة التعليم الخصوصي مريم ",
+    "AdresseL": "Lot Eddaoudia, Av. Principale,",
+    "AdresseA": "تجزئة الداودية، رقم 101..ص.ب 4",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jihane",
+    "NOM_ETABA": "جيهان",
+    "AdresseL": "lot al mizane. n° 78 cartier a",
+    "AdresseA": "تجزئة الميزان رقم القطعة 78حوم",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Unité Scolaire de la Fondation Banque Populaire",
+    "NOM_ETABA": "الوحدة التعليمية لمؤسسة البنك الشعبي ",
+    "AdresseL": "Avenue al afaw hay riad route ",
+    "AdresseA": "شارع العفو حي الرياض طريق الرب",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Amal",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "Résidence Zamouri 1, Route de ",
+    "AdresseA": "إقامة الزموري1، طريق الرباط - ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Omar Ibn Abdelaziz",
+    "NOM_ETABA": " عمر بن عبد العزيز",
+    "AdresseL": "HAY JIRARI 5, N° 37 Bni Makada",
+    "AdresseA": "حي الجيراري 5 رقم 37 بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hassani",
+    "NOM_ETABA": " الحسني",
+    "AdresseL": "km7 route de rabat complexe al",
+    "AdresseA": "كلم 7 طريق الرباط المجمع الحسن",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIL AL GHAD",
+    "NOM_ETABA": "جيل الغد",
+    "AdresseL": "IMCOPAT 1 ALAWAMA TANGER",
+    "AdresseA": "امكوبا 1 العوامة طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HASSAN AL YOUSSI",
+    "NOM_ETABA": "الحسن اليوسي الخصوصية",
+    "AdresseL": "83,AVENUE ACHAHID ALAMI TAGHZO",
+    "AdresseA": " بني مكادة تجزئة الامنية رقم 1",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE CORAIL DU savoir",
+    "NOM_ETABA": "كوراي دي سافوار",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الشهداء. زنقة الشهيد العسري",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNASR",
+    "NOM_ETABA": "النصر",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام4 زنقة28 رقم174 ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAHDA ANNEXE 1",
+    "NOM_ETABA": "النهضة ملحقة 1",
+    "AdresseL": "HAY EL MAJD,RUE AL QUADISSIA N",
+    "AdresseA": "حي المجد زنقة القادسية رقم 33",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM AL KHAYR",
+    "NOM_ETABA": "أم الخير",
+    "AdresseL": "loT OUM EL KHEIR N°33",
+    "AdresseA": "تجزئة أم الخير قطعة رقم 33",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LE DICTIONNAIRE",
+    "NOM_ETABA": "مجموعة مدارس لو ديكسيونير",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الأندلس زنقة 1",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIL AL MAARIFA",
+    "NOM_ETABA": "جيل المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "بني مكادة القديمة كورزيانة الش",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE DELTA CHAMAL",
+    "NOM_ETABA": "مدرسة دلتا الشمال",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة لمنازه رقم 35 الطابق الس",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES AMIS D ENFANCE",
+    "NOM_ETABA": "ليزامي دونفونس",
+    "AdresseL": "NULL",
+    "AdresseA": "حي السلام زنقة مهدية رقم 13",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANARAT ELILME",
+    "NOM_ETABA": "منارة العلم",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة كريمة 2 رقم القطعة 95",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA FONTAINE",
+    "NOM_ETABA": "لا فونتين",
+    "AdresseL": "LOTISSEMENT LES ROSIERS N°176 ",
+    "AdresseA": " تجزئة الورود القطعة رقم 176 ا",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NAJWAR DE TANGER",
+    "NOM_ETABA": "مدرسة ناجوار طنجة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة لينا قطعة 46",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE MONDE DES BAMBINS",
+    "NOM_ETABA": "لو مند دو بومبان",
+    "AdresseL": "hay jirari 2 rue 79 n 16",
+    "AdresseA": "حي الجيراري 2 زنقة 79 رقم 16",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE IBN BATOUTA",
+    "NOM_ETABA": "مجموعة مدارس إبن بطوطة الخاصة",
+    "AdresseL": "lotissement andalouss lot 115 ",
+    "AdresseA": "تجزئة الأندلس 115 العوامة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AASSR ANNEXE",
+    "NOM_ETABA": "العصر الملحقة",
+    "AdresseL": "rue baalabak lot almajd 495 ta",
+    "AdresseA": "تجزئة المجد 495 شارع بعلبك",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL JEBRANE",
+    "NOM_ETABA": "أجيال جبران",
+    "AdresseL": "aharrarin sidi driss",
+    "AdresseA": "أحرارين سيدي إدريس",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NADAR",
+    "NOM_ETABA": "ناضار",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الوفاء بقعة رقم 117 الحر",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MASSALIK MAARIFA",
+    "NOM_ETABA": "مجموعة مدارس مسالك المعرفة الخصوصية",
+    "AdresseL": "Quartier annasr Rue mlilia N° ",
+    "AdresseA": "   حي النصر زنقة مليلية رقم 31",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al bidaya ",
+    "NOM_ETABA": "البداية الخصوصية",
+    "AdresseL": "ecole albidaya rue aicha",
+    "AdresseA": "تجزئة الزموري رقم 82 ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "marso",
+    "NOM_ETABA": "مرصو الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "حي المرابط 1 العوامة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nodar",
+    "NOM_ETABA": "نضر",
+    "AdresseL": "LOTISS fLORANCIA 2 - LOT 2 - N",
+    "AdresseA": "تجزئة فلورانسيا 2 قطعة  68 مكر",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ghofran bilal",
+    "NOM_ETABA": "غفران بلال",
+    "AdresseL": "aveuni alkodess n 23 tanger",
+    "AdresseA": "شارع القدس رقم 23",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire Al ayoubi",
+    "NOM_ETABA": "المجموعة المدرسية الأيوبي",
+    "AdresseL": "LOTISSEMENT BANQUE POPULAIRE R",
+    "AdresseA": "تجزئة البنك الشعبي زنقة 74 رقم",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alqalam 3",
+    "NOM_ETABA": "القلم 3",
+    "AdresseL": "COMPLEXE FADL ALLAH. HAY RIAD,",
+    "AdresseA": "المركب السكني فضل الله. حي الر",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annahda",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "132 hay elmajd rue hems ",
+    "AdresseA": "زنقة حمص، حي المجد، رقم 132",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALOMMA",
+    "NOM_ETABA": "الأمة الخصوصية",
+    "AdresseL": "169; Lot. Almajd; rue ladiqiya",
+    "AdresseA": "169. تجزئة المجد",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE JARDIN FLEURISSANT",
+    "NOM_ETABA": "لو جردان فلوريسون",
+    "AdresseL": "FAN AL BAYT AL ATIK A4 de l im",
+    "AdresseA": "البيت العتيق 4 أ العمارة 22 دو",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FLEURS DE VIE",
+    "NOM_ETABA": "فلور دو في",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الهناء1 رقم 23 زنقة7 العوام",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBTISSAMA",
+    "NOM_ETABA": "ابتسامة",
+    "AdresseL": "av imarate arabiya benimakada",
+    "AdresseA": "شارع الامارات العربية بني مكاد",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le beau reve",
+    "NOM_ETABA": "الحلم  الجميل للتعليم الاولي",
+    "AdresseL": "HAY ENNASR RUE SFAX N°15",
+    "AdresseA": "حي النصر زنقة الصفاقص رقم 15",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MIFTAH AL ILM",
+    "NOM_ETABA": "مفتاح العلم",
+    "AdresseL": "bni ouryaghel zEmouri 2",
+    "AdresseA": "بني ورياغل، الزموري2 ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAOUD AL MAARIFA",
+    "NOM_ETABA": "روض  المعرفة",
+    "AdresseL": "lots sahli N38 route de rabat ",
+    "AdresseA": "تجزئة الساحلي رقم 38",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL AYOUBI 3",
+    "NOM_ETABA": "مجموعة مدارس الأيوبي 3",
+    "AdresseL": "hay beni touzine n° 42 sidi dr",
+    "AdresseA": "رقم 42 حي بني توزين سيدي ادريس",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSAFIR AL QODS",
+    "NOM_ETABA": "عصافير القدس",
+    "AdresseL": "route de rabat Km7 complexe Ha",
+    "AdresseA": "رقم 14 إقامة نسرين المجمع الحس",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MALAIKA",
+    "NOM_ETABA": "الملائكة",
+    "AdresseL": "n°16 rue sahel al aaj karima3 ",
+    "AdresseA": "رقم 16 زنقة ساحل العاج كريمة3 ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUSSAIBA",
+    "NOM_ETABA": "نسيبة",
+    "AdresseL": "LOT BELHKIR RUE1 NO 7 TANGER",
+    "AdresseA": " رقم 7  تجزئة بلخيري الزنقة 1 ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FAIZ",
+    "NOM_ETABA": "الفائز",
+    "AdresseL": "LOT.LA BANQUE POPULAIRE N°41",
+    "AdresseA": "رقم 41 تجزئة البنك الشعبي ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL SALWA",
+    "NOM_ETABA": "السلوى",
+    "AdresseL": "RUE EL OUYOUN N 3 BENI MAKADA",
+    "AdresseA": "زنقة العيون رقم 3 تجزئة الوهاب",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OISEAUX DU PARADIS",
+    "NOM_ETABA": "طيور الجنة",
+    "AdresseL": "lot sanae 2 rue chahid belhcen",
+    "AdresseA": "تجزئة سناء 2 زنقة الشهيد بلحسن",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sacré Cœur",
+    "NOM_ETABA": "ساكري  كوغ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الخير 1 مسجد البدراويين ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AZIZIA 2",
+    "NOM_ETABA": "العزيزية 2",
+    "AdresseL": "complexe nour gh 4 IMM 6 RDC N",
+    "AdresseA": " GH 4 دوار بني توزين المجمع ال",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATFAL HOUDA ANAS",
+    "NOM_ETABA": "أطفال هدى الناس",
+    "AdresseL": "182 mly seliman rur Mebroka ta",
+    "AdresseA": "رقم 182 شارع مولاي سليمان حي م",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BARAIM ",
+    "NOM_ETABA": "البراعم",
+    "AdresseL": "B.P 3264 Poste Souani . Tanger",
+    "AdresseA": "ص.ب. رقم 3264 بريد السواني",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANART AL HOUDA 2",
+    "NOM_ETABA": "منارة الهدى 2 الخاصة",
+    "AdresseL": "Lotissement Anbar n h28 bni ma",
+    "AdresseA": "تجزئة العنبر قطعة 28 بني مكادة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL AOUAMA",
+    "NOM_ETABA": "براعم العوامة",
+    "AdresseL": "NULL",
+    "AdresseA": "حومة فاطمة العوامة الشرقية - ط",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NASSIMEE",
+    "NOM_ETABA": "نسيم ",
+    "AdresseL": "NULL",
+    "AdresseA": "المجمع الحسني إقامة النجاح",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YAMILA BAMBINOS",
+    "NOM_ETABA": "ياميلة بامبينوس",
+    "AdresseL": "122 LOTISSEMENT KRIRIA RDC N° ",
+    "AdresseA": "رقم 16 زنقة 122 تجزئة كريرية",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHATEAU MOLIERE",
+    "NOM_ETABA": "شاطو مولير",
+    "AdresseL": "Lotissement les rosiers n° c6 ",
+    "AdresseA": "تجزئة الزهور رقم ِس6 قرب إقامة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM AL MOSTAKBAL",
+    "NOM_ETABA": "براعم المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "7 زنقة الوحدة حي الزاودية - طن",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM EL HOUDA",
+    "NOM_ETABA": "براعم الهدى",
+    "AdresseL": "",
+    "AdresseA": "تجزئة ابن خلدون الشارع الرئيسي",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kITAB ASSALAM",
+    "NOM_ETABA": "كتاب السلام",
+    "AdresseL": "lot. karima 1 res. melk allah ",
+    "AdresseA": "تجزئة كريمة 1ا قامة ملك الله ا",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut al madarik",
+    "NOM_ETABA": "معهد المدارك",
+    "AdresseL": "quartier al qods aouama el gha",
+    "AdresseA": "شارع القدس العوامة الغربية",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire al misk",
+    "NOM_ETABA": "المجموعة المدرسية المسك",
+    "AdresseL": "AVENUE ARABIE SAUDITE QUARTIER",
+    "AdresseA": "شارع المملكة العربية السعودية،",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al azizia",
+    "NOM_ETABA": "العزيزية",
+    "AdresseL": "lot nour. gh14",
+    "AdresseA": "المجمع السكني نور ، gh14",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE TANJA L ALIA",
+    "NOM_ETABA": "المجموعة المدرسية طنجة العالية",
+    "AdresseL": "lot sidi fdoul lot n 47 tanger",
+    "AdresseA": "تجزئة سيدي فضول قطعة رقم 47 ",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MAKAREM ANNEXE1",
+    "NOM_ETABA": "مؤسسة المكارم الملحقة 1",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الجيراري 5 رقم 50 طنجة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALIHSAN",
+    "NOM_ETABA": "الإحسان",
+    "AdresseL": "Q. JIRARI, Lot. salam 1 rue ou",
+    "AdresseA": "حي الجيراري،تجزئة السلام، زنقة",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL AYOUBI 2",
+    "NOM_ETABA": "مجموعة مدارس الأيوبي 2 الخصوصية",
+    "AdresseL": "lOTUSSEMENT MOULINE N° 31 RIAD",
+    "AdresseA": "تجزئة مولين رقم 31 (رياض أهلا)",
+    "COMMUNE": "Bni Makada",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

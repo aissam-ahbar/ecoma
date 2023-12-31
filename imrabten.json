@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "TAMASSINT I",
+    "NOM_ETABA": "تمسينت1",
+    "AdresseL": "DOUAR TAMASSINT COMMUNE IMRABTEN",
+    "AdresseA": "دوار تمسينت جماعة امرابطن",
+    "COMMUNE": "Imrabten",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMASSINT II",
+    "NOM_ETABA": "تماسينت2",
+    "AdresseL": "CENTRE TAMASSINT COMMUNE IMRABTEN",
+    "AdresseA": "مركز تماسينت  جماعة امرابطن",
+    "COMMUNE": "Imrabten",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ALKADI",
+    "NOM_ETABA": "ايت القاضي",
+    "AdresseL": "DOUAR AIT ALKADI COMMUNE IMRABTEN",
+    "AdresseA": "دوار ايت القاضي جماعة امرابطن",
+    "COMMUNE": "Imrabten",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IMRABTEN",
+    "NOM_ETABA": "ثانوية امرابطن التأهيلية",
+    "AdresseL": "CENTRE TAMASSINTE  COMMUNE IMRABTEN",
+    "AdresseA": "تماسنت المركز امرابطن",
+    "COMMUNE": "Imrabten",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

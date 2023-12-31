@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZAWYA",
+    "NOM_ETABA": "الثانوية الإعدادية الزاوية",
+    "AdresseL": "AIT ISHAQ CENTRE",
+    "AdresseA": "ايت اسحاق المركز",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZITOUNA",
+    "NOM_ETABA": "الثانوية الاعدادية الزيتونة",
+    "AdresseL": "CENTRE AIT ISHAQ",
+    "AdresseA": "مركز جماعة ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Province: Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MAA AL AINAINE",
+    "NOM_ETABA": "ماء العينين",
+    "AdresseL": "QUARTIER ESSAADA COMMUNE AIT ISHAQ",
+    "AdresseA": "حي السعادة مركز ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ISHAQ",
+    "NOM_ETABA": "ايت اسحاق",
+    "AdresseL": "QUARTIER ESSAADA COMMUNE AIT ISHAQ",
+    "AdresseA": "حي السعادة جماعة ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI SAID",
+    "NOM_ETABA": "سيدي سعيد",
+    "AdresseL": "DOUAR SIDI SAID COMMUNE AIT ISHAQ",
+    "AdresseA": "دوار سيدي سعيد جماعة ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEN KHLIL",
+    "NOM_ETABA": "بن خليل",
+    "AdresseL": "DOUAR BEN KHLIL COMMUNE AIT ISHAQ",
+    "AdresseA": "دوار بن خليل جماعة ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI EL MEKHFI",
+    "NOM_ETABA": "سيدي المخفي",
+    "AdresseL": "DOUAR SIDI EL MEKHFI COMMUNE AIT ISHAQ",
+    "AdresseA": "دوار سيدي المخفي جماعة ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAADA",
+    "NOM_ETABA": "السعادة",
+    "AdresseL": "AIT ISHAQ CeNTRE COMMUNE AIT ISHAQ",
+    "AdresseA": "مركز جماعة ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAHCEN EL YOUSSI",
+    "NOM_ETABA": "الثانوية التأهيلية لحسن اليوسي",
+    "AdresseL": "AIT ISHAQ CENTRE COMMUNE AIT ISHAQ",
+    "AdresseA": "مركز جماعة ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BAHER AL AILM",
+    "NOM_ETABA": "بحر العلم",
+    "AdresseL": "AIT ISHAQ CENTRE",
+    "AdresseA": "مركز ايت اسحاق",
+    "COMMUNE": "Ait Ishaq",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

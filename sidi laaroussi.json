@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE MOHAMED BEN LAHCEN EL OUAZZANI",
+    "NOM_ETABA": " الثانوية الإعدادية محمد بن لحسن الوزاني",
+    "AdresseL": "c.sidi Laaroussi",
+    "AdresseA": "جماعة سيدي العروسي",
+    "COMMUNE": "Sidi Laaroussi",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SAKYAT",
+    "NOM_ETABA": "م م  سكياط",
+    "AdresseL": "DOUAR ZAOUIT SAKYAT SIDI LAAROUSSI",
+    "AdresseA": "دوار زاوية سكياط",
+    "COMMUNE": "Sidi Laaroussi",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LABBICHAT",
+    "NOM_ETABA": "م.م. لبيشات",
+    "AdresseL": "DOUAR SOUALMA SIDI LAAROUSSI",
+    "AdresseA": "دوار السوالما سيدي العروسي",
+    "COMMUNE": "Sidi Laaroussi",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI LAAROUSSI",
+    "NOM_ETABA": "م م سيدي العروسي",
+    "AdresseL": "JAMAA SIDI LAAROUSSI  SIDI LAAROUSSI",
+    "AdresseA": "سيدي العروسي",
+    "COMMUNE": "Sidi Laaroussi",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IBN TOFAIL",
+    "NOM_ETABA": "م.م. ابن طفيل",
+    "AdresseL": "DOUAR EDDACHRa",
+    "AdresseA": "دوار الدشرا سيدي العروسي",
+    "COMMUNE": "Sidi Laaroussi",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

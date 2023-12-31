@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "college AZIZ BILAL",
+    "NOM_ETABA": "الثانوية الإعدادية عزيز بلال",
+    "AdresseL": "CR ZAOUIT SIDI KACEM",
+    "AdresseA": "مركز جماعة زاوية سيدي قاسم",
+    "COMMUNE": "Zaouiat Sidi Kacem",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AMSA",
+    "NOM_ETABA": "م.م امسا",
+    "AdresseL": "DOUAR AMSA ZAOUIAT SIDI KACEM  TETOUAN",
+    "AdresseA": "دوار امسا جماعة زاوية سيدي قاسم",
+    "COMMUNE": "Zaouiat Sidi Kacem",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMRABETE",
+    "NOM_ETABA": "م.م تمرابط",
+    "AdresseL": "DOUAR TAMRABETE CZAOUIAT SIDI KACEM  TETOUAN",
+    "AdresseA": "تمرابط جماعة زاوية سيدي قاسم أمسا",
+    "COMMUNE": "Zaouiat Sidi Kacem",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LECHIAKH",
+    "NOM_ETABA": "م.م لشياخ",
+    "AdresseL": "DOUAR LECHIAKH CZAOUIATE SIDI KACEM  TETOUAN",
+    "AdresseA": "دوار أعنان جماعة زاوية سيدي قاسم",
+    "COMMUNE": "Zaouiat Sidi Kacem",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHOUIBEN  IHKAM",
+    "NOM_ETABA": "م.م إحكم- اشويبن",
+    "AdresseL": "DOUAR CHOUIBIN C OMMUNE ZAOUIAT SIDI KACEM  TETOUA",
+    "AdresseA": "دوار اشويبن جماعة  زاوية سيدي قاسم",
+    "COMMUNE": "Zaouiat Sidi Kacem",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AOUCHTAM",
+    "NOM_ETABA": "م.م اوشتام",
+    "AdresseL": "DOUAR AOUCHTAM C ZAOUIATE SIDI KACEM  ",
+    "AdresseA": "دوار اوشتام  جماعة زاوية سيدي قاسم",
+    "COMMUNE": "Zaouiat Sidi Kacem",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss IBARAKEN",
+    "NOM_ETABA": "م.م إبراقن",
+    "AdresseL": "DOUAR IBARAKEN CZAOUIATE SIDI KACEM  TETOUAN",
+    "AdresseA": "دوار إبراقن جماعة زاوية سيدي قاسم",
+    "COMMUNE": "Zaouiat Sidi Kacem",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

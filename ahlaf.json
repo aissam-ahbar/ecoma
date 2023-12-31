@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "S/S CAID EL MAKKI CENTRE",
+    "NOM_ETABA": "م/م القائد المكي المركزية",
+    "AdresseL": "DOUAR OULED EL MEKI COMMUNE AHLAF",
+    "AdresseA": "دوار القائد المكي جماعة احلاف",
+    "COMMUNE": "Ahlaf",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S DAR CHEIKH HAJJAJ CENTRE",
+    "NOM_ETABA": "م/م دار الشيخ حجاج المركزية",
+    "AdresseL": "DAR CHAIKH HAJJAJ COMMUNE AHLAF",
+    "AdresseA": "دار الشيخ حجاج جماعة احلاف",
+    "COMMUNE": "Ahlaf",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAFRANTE",
+    "NOM_ETABA": "مجموعة مدارس تفرانت",
+    "AdresseL": "DOUAR TAFRANTE COMMUNE AHLAF",
+    "AdresseA": "دوار تفرانت جماعة احلاف",
+    "COMMUNE": "Ahlaf",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BIR KATARA CENTRE",
+    "NOM_ETABA": "م/م بئر قطارة المركزية",
+    "AdresseL": "DOUAR braighite COMMUNE AHLAF",
+    "AdresseA": "دوارابريغيث جماعة احلاف",
+    "COMMUNE": "Ahlaf",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN BOUCHENI CENTRE",
+    "NOM_ETABA": "م/م عين بوشني المركزية",
+    "AdresseL": "DOUAR AIN BOUCHENI COMMUNE AHLAF",
+    "AdresseA": "دوار عين بوشني جماعة احلاف",
+    "COMMUNE": "Ahlaf",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية التأهيلية علال بن عبد الله",
+    "AdresseL": "CENTRE D AHLAF COMMUNE AHLAF",
+    "AdresseA": "مركز احلاف جماعة احلاف",
+    "COMMUNE": "Ahlaf",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

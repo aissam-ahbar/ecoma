@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ECHARIF AL IDRISSI",
+    "NOM_ETABA": "الثانوية الإعدادية الشريف الإدريسي",
+    "AdresseL": "commune jaidate",
+    "AdresseA": "جماعة اجعيدات",
+    "COMMUNE": "Jaidate",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHRARDA CENTRE",
+    "NOM_ETABA": "الشراردة المركزية",
+    "AdresseL": "DOUAR  AIN BEN HADA COMMUNE JAIDAT ",
+    "AdresseA": " دوار عين  بن حدة جماعة الجعيدت",
+    "COMMUNE": "Jaidate",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BATMA CENTRE",
+    "NOM_ETABA": "البطمة المركزية",
+    "AdresseL": "DOUAR EL BATMA COMMUNE JAIDATE",
+    "AdresseA": "دوار البطمة",
+    "COMMUNE": "Jaidate",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FOUKRA CENTRE",
+    "NOM_ETABA": "الفقراء المركزية",
+    "AdresseL": "DOUAR EL FOUKRA COMMUNE JAIDATE",
+    "AdresseA": "دوار الفقرا",
+    "COMMUNE": "Jaidate",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

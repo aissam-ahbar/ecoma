@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELFARAH",
+    "NOM_ETABA": "الثانوية الإعدادية الفرح",
+    "AdresseL": " Centre moulay ali chrif",
+    "AdresseA": "مركز مولاي علي الشريف",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BIR ANZARANE",
+    "NOM_ETABA": "بئر أنزران",
+    "AdresseL": "AVENUE MOULAY ALI CHRIF RISSANI",
+    "AdresseA": "طريق مولاي علي الشريف الريصاني",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUTMANE BNOU AFFANE",
+    "NOM_ETABA": "عثمان ابن عفان",
+    "AdresseL": "ROUTE MOULAY ALI CH eRIF RISSANI",
+    "AdresseA": "طريق مولاي علي الشريف الريصاني",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED YOUSSEF 1",
+    "NOM_ETABA": "اولاد يوسف 1",
+    "AdresseL": "zaouiet my ali chrif  ",
+    "AdresseA": " زاوية مولاي علي الشريف  ",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAHID AHMED BEN MOHAMED ERRACHDI",
+    "NOM_ETABA": "الشهيد أحمد بن محمد الرشدي",
+    "AdresseL": "CITE MOULAY HFID RISSANI",
+    "AdresseA": "حي مولاي احفيض الريصاني",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IHYATENE",
+    "NOM_ETABA": "احياتن",
+    "AdresseL": "CITE LQODS RISSANI",
+    "AdresseA": "حي القدس  الريصاني",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MY ALI CHERIF",
+    "NOM_ETABA": "مولاي علي الشريف",
+    "AdresseL": "CENTRE RISSANI ",
+    "AdresseA": "الريصاني  المركز",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY AL MOUKAOUAMA",
+    "NOM_ETABA": "حي المقاومة",
+    "AdresseL": "RISSANI",
+    "AdresseA": "الريصاني",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL KENDI",
+    "NOM_ETABA": "مدرسة الكندي",
+    "AdresseL": "HAY sidi lghazi belarbi",
+    "AdresseA": "حي سيدي الغازي بالعربي",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II RISSANI",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني الريصاني",
+    "AdresseL": "CENTRE RISSANI",
+    "AdresseA": "مركز الريصاني",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PRINCESSE LALLA SALMA",
+    "NOM_ETABA": "الثانوية التأهيلية الأميرة للا سلمى",
+    "AdresseL": "CENTRE RISSANI",
+    "AdresseA": "مركز الريصاني",
+    "COMMUNE": "Moulay Ali Cherif",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ikrae al amal",
+    "NOM_ETABA": "اقرأ الامل للنعليم ",
+    "AdresseL": "",
+    "AdresseA": "حي مولاي احمد الذهبي",
+    "COMMUNE": "Moulay Ali Cherif ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assafir arrifaa",
+    "NOM_ETABA": "عصافير الرفعة",
+    "AdresseL": "RUE BEN KHALDON HAY SIDI EL GH",
+    "AdresseA": "زنقة ابن خلدون حي سيدي الغازي ",
+    "COMMUNE": "Moulay Ali Cherif ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

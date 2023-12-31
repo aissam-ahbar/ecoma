@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial AMCHIOT SALLAM BEN BOUCHTA",
+    "NOM_ETABA": "الثانوية الإعدادية أمشيوط سلام بن بوشتى",
+    "AdresseL": "COMMUNE MRHASSIYINE",
+    "AdresseA": "المغاصيين",
+    "COMMUNE": "MRhassiyine",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MAGHASSYINE CENTRE",
+    "NOM_ETABA": "المغاصيين المركز",
+    "AdresseL": "COMMUNE M RHASSIYINE",
+    "AdresseA": "جماعة المغاصيين",
+    "COMMUNE": "MRhassiyine",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSAWA ",
+    "NOM_ETABA": "موساوة ",
+    "AdresseL": "DOUAR MOUSSAOUA COMMUNE MRHASSIYINE",
+    "AdresseA": "دوار موساوة جماعة المغاصيين  زرهون",
+    "COMMUNE": "MRhassiyine",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ALI",
+    "NOM_ETABA": "سيدي علي المركز",
+    "AdresseL": "DOUAR SIDI ALI COMMUNE MRHASSIYINE",
+    "AdresseA": "دوار سيدي علي ج-المغاسيين زرهون",
+    "COMMUNE": "MRhassiyine",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S ELFIJEL",
+    "NOM_ETABA": "م م  الفيجل",
+    "AdresseL": "DOUAR ait hmad",
+    "AdresseA": "دوار آيت حماد",
+    "COMMUNE": "Lagdadra",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S HOMANE FATOUAKI",
+    "NOM_ETABA": "م.م.  حمان الفطواكي",
+    "AdresseL": "DOUAR OULAD AISSA LAGDADRA",
+    "AdresseA": "دوار أولاد عيسى لكدادرة",
+    "COMMUNE": "Lagdadra",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

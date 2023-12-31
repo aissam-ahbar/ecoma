@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "CENTRE AIT ALI",
+    "NOM_ETABA": "مركزية آيت علي",
+    "AdresseL": "DOUAR IZMAOUNE",
+    "AdresseA": "دوار ازماون ايت شتاشن لوطا ",
+    "COMMUNE": "Tifni",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIZGUI",
+    "NOM_ETABA": "مركزية تزكي",
+    "AdresseL": "DOUAR TIZGUI  ",
+    "AdresseA": "دوار تزكي",
+    "COMMUNE": "Tifni",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IMI NIFRI",
+    "NOM_ETABA": "مركزية إمي نفري",
+    "AdresseL": "DOUAR AIT BOUZID",
+    "AdresseA": "دوار ايت بو زيد ",
+    "COMMUNE": "Tifni",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ALEMSA",
+    "NOM_ETABA": "مركزية المسا",
+    "AdresseL": "DOUAR ALEMSA ",
+    "AdresseA": "دوار المسا ",
+    "COMMUNE": "Tifni",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IGLASSENE",
+    "NOM_ETABA": "مركزية إكلاسين",
+    "AdresseL": "DOUAR IGLASSEN  ",
+    "AdresseA": "دوار إكلاسين",
+    "COMMUNE": "Tifni",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

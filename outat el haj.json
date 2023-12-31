@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL KHAWARIZMI",
+    "NOM_ETABA": "الثانوية الإعدادية الخوارزمي",
+    "AdresseL": "OUTAT EL HAJ",
+    "AdresseA": "اوطاط الحاج",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL FATH",
+    "NOM_ETABA": "الثانوية الإعدادية الفتح",
+    "AdresseL": "CENTRE OUTAT EL HAJ COMMUNE OUTAT EL HAJ",
+    "AdresseA": "مركز اوطاط الحاج جماعة اوطاط الحاج",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED VI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد السادس",
+    "AdresseL": "OUTAT EL HAJ CENTRE",
+    "AdresseA": "اوطاط الحاج المركز",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OKBA BEN NAFIA",
+    "NOM_ETABA": "عقبة بن نافع",
+    "AdresseL": "RUE TAOUNAT OUTAT EL HAJ CENTRE",
+    "AdresseA": "زنقة تاونات اوطاط الحاج المركز",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULOUYA ELOUSTA",
+    "NOM_ETABA": "ملوية الوسطى",
+    "AdresseL": "hay el atlas",
+    "AdresseA": "حي الاطلس",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM MALIK",
+    "NOM_ETABA": "الامام مالك",
+    "AdresseL": "OUTAT EL HAJ CENTRE",
+    "AdresseA": "اوطاط الحاج المركز",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HALIMA SAADIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": "OUTAT EL HAJ CENTRE",
+    "AdresseA": "اوطاط الحاج المركز",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL QUARTI",
+    "NOM_ETABA": "الكرطي",
+    "AdresseL": "DOUAR EL QUARTI COMMUNE OUTAT EL HAJ",
+    "AdresseA": "دوار الكرطي جماعة اوطاط الحاج",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUTMAN BNO AFFAN",
+    "NOM_ETABA": "عثمان بن عفان",
+    "AdresseL": "CENTRE OUTAT EL HAJ M",
+    "AdresseA": "مركز بلدية اوطاط الحاج",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MOURABITINE",
+    "NOM_ETABA": "الثانوية التأهيلية المرابطين",
+    "AdresseL": "OUTAT EL HAJ CENTRE",
+    "AdresseA": "اوطاط الحاج المركز",
+    "COMMUNE": "Outat El Haj",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JAD ELHAJJAM D ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة جاد الحجام للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بئرأنزران اوطاط الحاج",
+    "COMMUNE": "Outat El Haj ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WAIL",
+    "NOM_ETABA": "وائل",
+    "AdresseL": "hay nahda 410",
+    "AdresseA": "410 حي النهضة",
+    "COMMUNE": "Outat El Haj ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAHAD ATARBAOUI EROQUIY",
+    "NOM_ETABA": "المعهد التربوي الرقي",
+    "AdresseL": "HAY ASSALAM  OUTAT ELHAJ_ BOUL",
+    "AdresseA": "حي السلام  أوطاط الحاج  بولمان",
+    "COMMUNE": "Outat El Haj ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAD",
+    "NOM_ETABA": "جاد",
+    "AdresseL": "hay atlas  n  149",
+    "AdresseA": " رقم 149حي الاطلس",
+    "COMMUNE": "Outat El Haj ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AHL OUTAT POUR L'ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة أهل اوطاط للتعليم الخصوصي",
+    "AdresseL": "QUARTIER ESSALAM OUTAT EL HAJ",
+    "AdresseA": "حي السلام اوطاط الحاج",
+    "COMMUNE": "Outat El Haj ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS ARROAA P.A.W",
+    "NOM_ETABA": "مؤسسة الرؤى للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "الملاحة الغربية اوطاط الحاج",
+    "COMMUNE": "Outat El Haj ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL BOUHTOURI",
+    "NOM_ETABA": "الثانوية الإعدادية البحتري",
+    "AdresseL": "centre sidi tiji Cercle Abda",
+    "AdresseA": "   جماعة سيدي التيجي دائرة عبدة",
+    "COMMUNE": "Sidi Ettiji",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI TIJJI",
+    "NOM_ETABA": "م/م سيدي التيجي",
+    "AdresseL": "SOUK ARBAA SIDI TIJJICOMMUNE SIDI TIJJI",
+    "AdresseA": "سؤق اربعاء سيدي التيجي  جماعة  سيدي التيجي",
+    "COMMUNE": "Sidi Ettiji",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAABADLA",
+    "NOM_ETABA": "م/م لعبادلة",
+    "AdresseL": "DOUAR LAABADLA COMMUNE SIDI ITTIJI",
+    "AdresseA": "دوار لعبادلة  جماعة سيدي التيجي",
+    "COMMUNE": "Sidi Ettiji",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI KANOUNE",
+    "NOM_ETABA": "م/م سيدي كانون",
+    "AdresseL": "DOUAR SIDI KANOUNE   COMMUNE SIDI TIJJI",
+    "AdresseA": "دوار سيدي كانون  جماعة سيدي تيجي",
+    "COMMUNE": "Sidi Ettiji",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " DAR ZAIDIA",
+    "NOM_ETABA": "م/م دار الزيدية",
+    "AdresseL": "DAR ZAIDIA COMMUNE SIDI TIJJI",
+    "AdresseA": "دوار أولاد انعيم جماعة سيدي التيجي",
+    "COMMUNE": "Sidi Ettiji",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL SED N FIS",
+    "NOM_ETABA": "الثانوية الإعدادية سد نفيس",
+    "AdresseL": "CENTRE TAKERKOUSTE ZCOMMUNE LALLA TAKERKOUSTE",
+    "AdresseA": "مركز تكركوست جماعة للا تكركوست",
+    "COMMUNE": "Lalla Takarkoust",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE SED N FIS",
+    "NOM_ETABA": "مجموعة مدارس سد نفيس",
+    "AdresseL": "CENTRE  COMMUNE LALLA TAKARKOUST",
+    "AdresseA": "مركز جماعة لالة تكركوست",
+    "COMMUNE": "Lalla Takarkoust",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LARJAM",
+    "NOM_ETABA": "لرجام",
+    "AdresseL": "DOUAR LARJAM COMMUNE LALLA TAKARKOUST",
+    "AdresseA": "دوار لرجام جماعة للاتكركوست",
+    "COMMUNE": "Lalla Takarkoust",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "bahcine",
+    "NOM_ETABA": "باحسين",
+    "AdresseL": "dr amzough lkabli",
+    "AdresseA": "دوار أمزوغ القبلي",
+    "COMMUNE": "Lalla Takarkoust",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE EZZAYTOUNE",
+    "NOM_ETABA": "إعدادية الزيتون",
+    "AdresseL": "LAMRABIH",
+    "AdresseA": "المرابيح",
+    "COMMUNE": "Lamrabih",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL AKKAD",
+    "NOM_ETABA": "العقاد",
+    "AdresseL": "DOUAR OULAD ABDELLAH  COMMUNE LAMRIBIH",
+    "AdresseA": "دوار اولاد عبد الله",
+    "COMMUNE": "Lamrabih",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZRAHNA",
+    "NOM_ETABA": "الزراهنة",
+    "AdresseL": "DOUAR ZRAHNA COMMUNE LAMRIBIH",
+    "AdresseA": "دوار الزراهنة",
+    "COMMUNE": "Lamrabih",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GHASSANE KANAFANI",
+    "NOM_ETABA": "غسان كنفاني",
+    "AdresseL": "DOUAR LAMAARIF COMMUNE LAMRIBIH",
+    "AdresseA": "دوار المعاريف",
+    "COMMUNE": "Lamrabih",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOUAID",
+    "NOM_ETABA": "الزوايد",
+    "AdresseL": "DOUAR ZOUAID COMMUNE LAMRIBIH",
+    "AdresseA": "دوار الزوايد",
+    "COMMUNE": "Lamrabih",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMAARIF AIN KAROUACH",
+    "NOM_ETABA": "المعاريف عين قرواش",
+    "AdresseL": "DOUAR LAMAARIF AIN KAROUACH ",
+    "AdresseA": "دوار المعاريف عين قرواش",
+    "COMMUNE": "Lamrabih",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM MOSLIM",
+    "NOM_ETABA": "الإمام مسلم",
+    "AdresseL": "DOUAR LAFDOUL COMMUNE LAMRIBIH province sidi kacem",
+    "AdresseA": "دوار لفضول جماعة المرابيح إقليم سيدي قاسم",
+    "COMMUNE": "Lamrabih",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLÈGE SIDI BOUAFIF",
+    "NOM_ETABA": "إعدادية سيدي بوعفيف",
+    "AdresseL": "POSTE D  ait youssef ouali   BP 112",
+    "AdresseA": "بريـــــد  آيت يوسف وعلي ص.ب 112",
+    "COMMUNE": "Ait Youssef Ou Ali",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT HICHAM",
+    "NOM_ETABA": "ايت هشام",
+    "AdresseL": "DOUAR AIT HICHAM COMMUNE AIT YOUSSEF OU ALI",
+    "AdresseA": "دوار ايت هشام جماعة ايت يوسف وعلي",
+    "COMMUNE": "Ait Youssef Ou Ali",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOUANI",
+    "NOM_ETABA": "السواني",
+    "AdresseL": "DOUAR SOUANI COMMUNE AIT YOUSSEF OU ALI",
+    "AdresseA": "دوار السواني جماعة ايت يوسف وعلي",
+    "COMMUNE": "Ait Youssef Ou Ali",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUAFIF",
+    "NOM_ETABA": "سيدي بوعفيف",
+    "AdresseL": " centre SIDI BOUAFIF COMMUNE AIT YOUSSEF OU ALI AL",
+    "AdresseA": "  مركز سيدي بوعفيف جماعة ايت يوسف وعلي الحسيمة ",
+    "COMMUNE": "Ait Youssef Ou Ali",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIT YOUSSEF OU ALI",
+    "NOM_ETABA": "الثانوية التأهيلية ايت يوسف وعلي",
+    "AdresseL": "COMMUNE AIT YOUSSEF OU ALI",
+    "AdresseA": "جماعة ايت يوسف وعلي",
+    "COMMUNE": "Ait Youssef Ou Ali",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MAAHAD MANARAT EL RIF",
+    "NOM_ETABA": "معهد منارة الريف",
+    "AdresseL": "DOUAR TAFRASST AIT YOUSSEF OUA",
+    "AdresseA": "دوار تفراست ايت يوسف و علي",
+    "COMMUNE": "Ait Youssef Ou Ali",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

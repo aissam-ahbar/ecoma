@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  EL IMAM MOSLIM",
+    "NOM_ETABA": "الثانوية الاعدادية الإمام مسلم",
+    "AdresseL": "COMMUNE KARIAT BENAOUDA  CENTRE",
+    "AdresseA": "جماعة قرية بنعودة  -  المركز",
+    "COMMUNE": "Kariat Ben Aouda",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KARIAT BEN AOUDA",
+    "NOM_ETABA": "قرية بنعودة",
+    "AdresseL": "KARIATE BEN AOUDA CENTRE",
+    "AdresseA": "قرية بنعودة  المركز",
+    "COMMUNE": "Kariat Ben Aouda",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FOKRA",
+    "NOM_ETABA": "الفقرة",
+    "AdresseL": "DOUAR EL FOKRA kariat ben aaouda",
+    "AdresseA": " قرية بن عودة دوار الفقرة",
+    "COMMUNE": "Kariat Ben Aouda",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S Taddana Ouled Rafaa",
+    "NOM_ETABA": "م/م  تدانة اولاد رافع",
+    "AdresseL": "DOUAR OULED RAFAA KARYAT BEN AOUDA",
+    "AdresseA": "دوار اولاد رافع قرية بن عودة",
+    "COMMUNE": "Kariat Ben Aouda",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

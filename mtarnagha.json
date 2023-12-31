@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "Ss EL KASBA Centre",
+    "NOM_ETABA": "م/م القصبة-المركز",
+    "AdresseL": "DOUAR EL KASBA",
+    "AdresseA": "دوار القصبة",
+    "COMMUNE": "Mtarnagha",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss 9 AVRIL Centre",
+    "NOM_ETABA": "م/م 9 ابريل-المركز",
+    "AdresseL": "DOUAR GHOUMRA",
+    "AdresseA": "دوار غمرة",
+    "COMMUNE": "Mtarnagha",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

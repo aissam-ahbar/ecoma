@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "AL KHAWARIZMI",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "MUNICIPALITE DE AIN REGGADA",
+    "AdresseA": "بلدية عين الركادة",
+    "COMMUNE": "Ain Erreggada",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KACEM AMINE",
+    "NOM_ETABA": "قاسم امين",
+    "AdresseL": "MUNICIPALITE DE AIN REGGADA",
+    "AdresseA": "بلدية قاسم امين",
+    "COMMUNE": "Ain Erreggada",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

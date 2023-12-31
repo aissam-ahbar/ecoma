@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "douar ouled barrouss",
+    "AdresseA": "دوار اولاد بروس",
+    "COMMUNE": "Boumaiz",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE LAAWABED",
+    "NOM_ETABA": "المركزية العوابد",
+    "AdresseL": "DOUAR LAAWABED  COMMUNE BOUMAIZ",
+    "AdresseA": "دوار العوابد جماعة بومعيز",
+    "COMMUNE": "Boumaiz",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED MOUSSA BEN HSSAINE",
+    "NOM_ETABA": "المركزية أولاد موسى بنحساين",
+    "AdresseL": "DOUAR OULED MOUSSA BEN HSSEIN COMMUNE BOUMAIZ",
+    "AdresseA": "دوار اولاد موسى بنحساين جماعة بومعيز",
+    "COMMUNE": "Boumaiz",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

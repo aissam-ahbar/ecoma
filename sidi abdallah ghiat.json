@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MOTANABBI",
+    "NOM_ETABA": "الثانوية الإعدادية المتنبي",
+    "AdresseL": "centre chwiter",
+    "AdresseA": "مركز الشويطر",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI ABDELLAH GHIAT",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي عبد الله غيات",
+    "AdresseL": "centre COMMUNE SIDI ABDELLAH GHIAT",
+    "AdresseA": "مركز جماعة سيدي عبد الله غيات",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI GHIAT",
+    "NOM_ETABA": "سيدي غيات",
+    "AdresseL": "DOUAR TIDIST COMMUNE SIDI ABDELLAH GHIAT",
+    "AdresseA": "دوار تديست جماعة سيدي عبدالله غيات",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN JDID",
+    "NOM_ETABA": "عين الجديد",
+    "AdresseL": "DOUAR AIN JDID COMMUNE SIDI ABDELLAH GHIAT",
+    "AdresseA": "دوار عين الجديد جماعة سيدي عبدالله غيات",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SRAIRI",
+    "NOM_ETABA": "السرايري",
+    "AdresseL": "DOUAR SRAIRI COMMUNE SIDI ABDELLAH GHIAT",
+    "AdresseA": "دوار السرايري جماعة سيدي عبدالله غيات",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BOUNNITE",
+    "NOM_ETABA": "ايت بوالنيت",
+    "AdresseL": "DOUAR AIT BOUNNITE COMMUNE SIDI ABDELLAH GHIAT",
+    "AdresseA": "دوار ايت بوالنيت جماعة سيدي عبدالله غيات",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ERRHA",
+    "NOM_ETABA": " مركزية الرحى",
+    "AdresseL": "DOUAR ERRHA COMMUNE SIDI ABDELLAH GHIAT",
+    "AdresseA": "دوار الرحى جماعة سيدي عبد الله غيات",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELWALJA",
+    "NOM_ETABA": "الولجة",
+    "AdresseL": "DOUAR ELWALJA  COMMUNE SIDI ABDELLAH GHIAT",
+    "AdresseA": "دوار الولجة جماعة سيدي عبدالله غيات ",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNAKOUCHE",
+    "NOM_ETABA": "الناقوش",
+    "AdresseL": "DOUAR BOULMASSAFATE COMMUNE SIDI ABDELLAH GHIAT",
+    "AdresseA": "دوار ابن عاشير جماعة سيدي عبدالله غيات",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY JAAFAR",
+    "NOM_ETABA": "مولاي جعفر",
+    "AdresseL": "dr moulay jaafar chuiter comsidi ghiat ",
+    "AdresseA": "دوار مولاي جعفر",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ECHOUITER",
+    "NOM_ETABA": "مدرسة الشويطر",
+    "AdresseL": "echouiter commune sidi abdellah ghiat",
+    "AdresseA": "الشويطر جماعة سيدي غياث",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ECHOUITER",
+    "NOM_ETABA": "الثانوية التأهيلية الشويطر",
+    "AdresseL": "Echouiter Commune Sidi Abdellah Ghiat",
+    "AdresseA": "مركز الشويطر جماعة سيدي غياث",
+    "COMMUNE": "Sidi Abdallah Ghiat",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

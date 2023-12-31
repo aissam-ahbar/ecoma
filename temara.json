@@ -1,0 +1,1812 @@
+[
+  {
+    "NOM_ETABL": "ABOU FERRAS EL HAMDANI",
+    "NOM_ETABA": "ابوفراس الحمداني",
+    "AdresseL": "CITE al wifak TEMARA",
+    "AdresseA": "حي الوفاق تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "MASSIRA 1 temara",
+    "AdresseA": "المسيرة 1 تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED NEJAII",
+    "NOM_ETABA": "أحمدالنجاعي",
+    "AdresseL": "HAY AL ITTIHAD AL ARABI temara",
+    "AdresseA": "حي الاتحاد العربي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN SINA",
+    "NOM_ETABA": "ابن سيناء",
+    "AdresseL": "rue houman cherkaoui quartier ghazali ",
+    "AdresseA": "زنقة حمان الشرقاوى حى الغزالى تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL FIRDAOUS",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "HAY ALFIRDOUS  MASSIRA 2     TEMARA",
+    "AdresseA": "حي الفردوس تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN BASSAM",
+    "NOM_ETABA": "ابن بسام",
+    "AdresseL": "av hassan ii Lot Salah eddine ",
+    "AdresseA": "شارع الحسن الثاني تجزئة صلاح الدين ",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MOUATAMID IBN ABBAD",
+    "NOM_ETABA": "المعتمد بن عباد",
+    "AdresseL": "RUE saragoste CITE AL ANDALOUS temara",
+    "AdresseA": "زنقة سرقسطة حي الاندلس",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED BEN ZAKOUR",
+    "NOM_ETABA": "محمدبن زاكور",
+    "AdresseL": "HAY oid dahabe rue ahmed hanssali",
+    "AdresseA": "شارع أحمد الحنصالي - حي واد الذهب",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "11-janv.",
+    "NOM_ETABA": "11 يناير",
+    "AdresseL": "HAY alin biaat TEMARA",
+    "AdresseA": "حي الانبعاث تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN BATTOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "Av. Moulay Abdellah Massira 1 TEMARA",
+    "AdresseA": "شارع مولاي عبد الله المسيرة 1 تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH GUENNOUNE",
+    "NOM_ETABA": "عبد الله كنون",
+    "AdresseL": "quartier oued eddahab lot abi horayra TEMARA",
+    "AdresseA": "حي واد الذهب  تجزئة أبي هريرة تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "CITE FIRDAOUS TEMARA",
+    "AdresseA": "حي الفردوس تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL KHAOUARIZMI",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "MAGHREB ARABI MASSIRA 2  TEMARA",
+    "AdresseA": "المسيرة 2 حي االمعمورة  تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "18-nov.",
+    "NOM_ETABA": " 18 نونبر ",
+    "AdresseL": "HAY ANNASR temara",
+    "AdresseA": "حي النصر تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AZZAYTOUNE",
+    "NOM_ETABA": "الزيتون",
+    "AdresseL": "hay al massira 2 chiga temara",
+    "AdresseA": "حي المسيرة 2 الشيكا تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MANFALOUTI",
+    "NOM_ETABA": "المنفلوطي",
+    "AdresseL": "HAY ANNAHDA temara",
+    "AdresseA": "حي النهضة تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ZIRARA",
+    "NOM_ETABA": "زرارة",
+    "AdresseL": "HAY EL GUICHE LAODAYA TEMARA",
+    "AdresseA": "كيش الوداية",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MEKKI EL BITALI",
+    "NOM_ETABA": "المكي البيطالي",
+    "AdresseL": "av Mohamed V temara",
+    "AdresseA": "شارع محمد الخامس تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BOUSTANE",
+    "NOM_ETABA": "البستان",
+    "AdresseL": "CITE ANDALOUS    RUE 6   TEMARA",
+    "AdresseA": "حي الامدلس الزنقة 6 تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BRAHIM ROUDANI",
+    "NOM_ETABA": "ابراهيم الروداني",
+    "AdresseL": "DOUAR LEMNACER loulalda  TEMARA",
+    "AdresseA": "دوار لمناصرلولالدة  تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN HAZEM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "BOULEVARD HASSAN 2  TEMARA",
+    "AdresseA": "شارع الحسن  الثاني تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED EL FASSI",
+    "NOM_ETABA": "محمد الفاسي",
+    "AdresseL": "BOULEVARD HASSAN 2   TEMARA",
+    "AdresseA": " تمارة المركز شارع الحسن الثاني",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MOUAHHIDINE",
+    "NOM_ETABA": "الموحدين",
+    "AdresseL": "BOULEVARD MOHAMED V    TEMARA",
+    "AdresseA": "شارع محمد الخامس تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MASSIRA",
+    "NOM_ETABA": "المسيرة",
+    "AdresseL": " RUE mohamed taoufiq albakri",
+    "AdresseA": "زنقة محمد توفيق البكري",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAGHREB EL ARABI",
+    "NOM_ETABA": "المغرب العربي",
+    "AdresseL": "MASSIRA 1 RUE TATA  TEMARA",
+    "AdresseA": "المسيرة 1 زنقة طاطا تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAREK IBN ZIAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "MASSIRA 1  TEMARA",
+    "AdresseA": "المسيرة 1 تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR IBN EL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "MAGHREB ARABI MASSIRA 2  TEMARA",
+    "AdresseA": "حي المغرب العربي المسيرة 2",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": " بدر",
+    "AdresseL": "QUARTIER MAGHREB EL ARABI TEMARA",
+    "AdresseA": "حي المغرب العربي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELMAATI AZMI",
+    "NOM_ETABA": "المعطي عزمي",
+    "AdresseL": "MAGHREB ARABI MASSIRA2 TEMARA",
+    "AdresseA": "لمغرب العربي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN AL HAYTAM",
+    "NOM_ETABA": "ابن الهيثم",
+    "AdresseL": "TALAA CHEIKH DAOUI  TEMARA",
+    "AdresseA": "طلعة الشيخ الضاوي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ITTIHAD AL ARABI",
+    "NOM_ETABA": "الاتحاد العربي",
+    "AdresseL": "HAY alitihad al arabi  TEMARA",
+    "AdresseA": "حي الاتحاد العربي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALED IBN AL WALID",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "HAY NAHDA TEMARA",
+    "AdresseA": "حي النهضة تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JABER IBN HAYANE",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "RUE LE CAIRE HAY wad adahab TEMARA",
+    "AdresseA": "شارع القاهرة حي واد الذهب تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MEKKI NACIRI",
+    "NOM_ETABA": "المكي الناصري",
+    "AdresseL": "MAGHREB ARABI MASSIRA 2 TEMARA",
+    "AdresseA": "لمغرب العربي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKARIM KHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "CITE EL ghazali  TEMARA",
+    "AdresseA": "حي االغزالي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA IBN NOUSSAIR",
+    "NOM_ETABA": "موسى بن نصير",
+    "AdresseL": "LOULALDA CITE el ghazali  TEMARA",
+    "AdresseA": "الولالدة حي الغزالي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL EL FASSI",
+    "NOM_ETABA": "علال الفاسي",
+    "AdresseL": "HAY AL MAGHREB AL ARABI  MASSIRA 2 TEMARA",
+    "AdresseA": "قطاع 2 حي المغرب العربي المسيرة 2",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OTMAN IBN AFFANE",
+    "NOM_ETABA": "عثمان بن عفان",
+    "AdresseL": "Lotissement Riad oulad Mtaa SECTEUR 01",
+    "AdresseA": "تجزئة رياض أولاد امطاع قطاع 01",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL HIZAM AL AKHDAR",
+    "NOM_ETABA": "الحزام الاخضر",
+    "AdresseL": "DOUAR OULAD MTAA  TEMARA",
+    "AdresseA": "دوار اولاد مطاع تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR EL BATOUL",
+    "NOM_ETABA": "دار الباتول",
+    "AdresseL": "av hassa1 route mers el khayr ",
+    "AdresseA": "شارع الحسن الأول طريق مرس الخير ",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUCHIHA",
+    "NOM_ETABA": "أولاد بوشيحة",
+    "AdresseL": "DOUAR OULAD BOUCHIHA ",
+    "AdresseA": "دوار أولاد بوشيحة ",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELMOUMEN",
+    "NOM_ETABA": "عبد المومن",
+    "AdresseL": "Rue Jaber bno somra Quartier Elmansour eddahabi",
+    "AdresseA": "زنقة جابربن سمرة، حي المنصور الذهبي",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM ALI",
+    "NOM_ETABA": "الإمام علي",
+    "AdresseL": "HAY NAMSIA temara",
+    "AdresseA": "حي الانبعاث النمسية  2 تمارة ",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANAS BNOU MALIK",
+    "NOM_ETABA": "انس بن مالك",
+    "AdresseL": "RUE BOUJDOUR QUARTIER MASSIRA 1 ",
+    "AdresseA": "زنقة بوجدور حي االمسيرة 1",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SALMANE EL FARISSI",
+    "NOM_ETABA": "سلمان الفارسي",
+    "AdresseL": "GUICHE LOUDAYA tamara",
+    "AdresseA": "حي كيش الوداية",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HALIMA ESSADIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": "LOT RIAD1  LAMNACEUR   TEMARA ",
+    "AdresseA": "حي ابن رشد زنقة فاطمة الجوردانية ",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOURIA ESSAKAT",
+    "NOM_ETABA": "ثريا السقاط",
+    "AdresseL": "SECT 3 HAY almaghrib arabi MASSIRA 2",
+    "AdresseA": " سكتور3 حي المغرب العربي المسيرة 2",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED EL HANSALI",
+    "NOM_ETABA": "احمد الحنصالي",
+    "AdresseL": "Hay al maghreb al arabi al massira 2 ",
+    "AdresseA": "  حي المغرب العربي المسيرة 2",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DRISS BEN ZEKRI",
+    "NOM_ETABA": "ادريس بنزكري",
+    "AdresseL": "HAY NASR TEMARA",
+    "AdresseA": "حي النصر تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ELKARRAT",
+    "NOM_ETABA": "محمد الكغاط",
+    "AdresseL": "Cité Annasr temara",
+    "AdresseA": "حي النصر تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN TOUMERT",
+    "NOM_ETABA": "ابن تومرت",
+    "AdresseL": "bnou toumert",
+    "AdresseA": "ابن تومرت",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ANDALOUS",
+    "NOM_ETABA": "الاندلس",
+    "AdresseL": "CITE ANDALOUS RUE saraqosta TEMARA",
+    "AdresseA": "حي الاندلس تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH CHAFCHAOUNI",
+    "NOM_ETABA": "عبد الله الشفشاوني",
+    "AdresseL": "ROUTE PRINCIPALE 1 TEMARA",
+    "AdresseA": "شارع الحسن الثاني تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IMAM ALGHAZALI",
+    "NOM_ETABA": "الامام الغزالي",
+    "AdresseL": "BOULEVARD MOHAMED 5   TEMARA",
+    "AdresseA": "شارع محمد الخامس تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "CITE FIRDAOUS TEMARA",
+    "AdresseA": "حي الفردوس تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ALI CHERIF",
+    "NOM_ETABA": "مولاي علي الشريف",
+    "AdresseL": "MASSIRA 1   TEMARA",
+    "AdresseA": "المسيرة 1 تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ABD EL JABRI",
+    "NOM_ETABA": " محمد عابد الجابري ",
+    "AdresseL": "Hay Ennasr temara",
+    "AdresseA": "حي النصر تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ANNASSIME",
+    "NOM_ETABA": "النسيم",
+    "AdresseL": "hay maamoura massira2",
+    "AdresseA": "حي المعمورة المسيرة 2",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LARBI DOGHMI",
+    "NOM_ETABA": "العربي الدغمي",
+    "AdresseL": "OULAD MTAAE QUARTIER INDUSTRIEL",
+    "AdresseA": "اولاد مطاع الحي الصناعي تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BILAL BNOU RABAH",
+    "NOM_ETABA": "بلال بن رباح",
+    "AdresseL": "HAY ENNAHDA bvd ezzerktouni",
+    "AdresseA": "حي النهضة 2، شارع الزرقطوني تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MAATI BOUABID",
+    "NOM_ETABA": "المعطي بوعبيد",
+    "AdresseL": "boulevard my idriss premier massira 1",
+    "AdresseA": "شارع الأوداية تجزئة الأندلس ",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IMAM BOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "MASSIRA 1 temara",
+    "AdresseA": "المسيرة 1 تمارة",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "SELMANE EL FARISSI",
+    "NOM_ETABA": "سلمان الفارسي",
+    "AdresseL": "  Rue Rabat  Hay wad edahab  TEMARA",
+    "AdresseA": "زنقة الرباط - حي واد الذهب - تمارة ",
+    "COMMUNE": "Témara",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AVENZOAR",
+    "NOM_ETABA": "مجموعة مدارس أفنزوار الخاصة",
+    "AdresseL": "P19 lot zaki route sidi yahya ",
+    "AdresseA": "ب19 تجزئة زكي  طريق سيدي يحيى ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARISS AL ARIFINE III",
+    "NOM_ETABA": " III مدارس العارفين الخصوصية",
+    "AdresseL": "tranche F secteur 3 Hay Massir",
+    "AdresseA": "القطعة ف سكتور 3 حي المسيرة 2",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE EDEN GARDENS JUNIORS",
+    "NOM_ETABA": "المدرسة الخصوصية إيدن كاردن جينيور",
+    "AdresseL": "N 72 lot abbi rakkrak",
+    "AdresseA": "رقم 72 تجزئة ابي رقراق",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NADINE SCHOOL",
+    "NOM_ETABA": "نادين سكول",
+    "AdresseL": "groupe 1-1-86 (titre foncier 0",
+    "AdresseA": "مجموعة 1-1-86 (الرسم العقاري 0",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "creche maternelle al maarifa",
+    "NOM_ETABA": "مؤسسة المعرفة و التنوير للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "سكتور 1 اولاد امطاع تمارة 290",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BAB EL KHIR",
+    "NOM_ETABA": "المجموعة المدرسية باب الخير الخصوصية",
+    "AdresseL": "QUARTIER MANSOUR DAHBI(EX HACH",
+    "AdresseA": "تجزئة باب الخير 2",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA GONDOLE",
+    "NOM_ETABA": "لا كوندول",
+    "AdresseL": "lotissement marhat n°148 temar",
+    "AdresseA": "تجزئة مرحات , 148",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "soluce primaire",
+    "NOM_ETABA": "سوليس ابتدائي خصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الوفاق 3240",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "horizon kids",
+    "NOM_ETABA": "أوريزون كيدس",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الوفاق",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "papillon jaune",
+    "NOM_ETABA": "بابيون جون",
+    "AdresseL": "NULL",
+    "AdresseA": "82 تجزئة رياض الحمد تمارة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire alexandre dumas fils",
+    "NOM_ETABA": "مجموعة مدارس ألكسندر دوما فيس",
+    "AdresseL": "",
+    "AdresseA": "214-215 تجزئة النهضة تمارة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "mamlakate azzohour",
+    "NOM_ETABA": "مملكة الزهور",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1055 الطابق الارضي حي الوف",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bara im Oued Eddahab",
+    "NOM_ETABA": "براعم وادي الذهب",
+    "AdresseL": "hay el ghazali n 9 ",
+    "AdresseA": "حي الغزالي الرقم 9 ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Irfane",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "Hay enNahda N° 44 - Commune Te",
+    "AdresseA": "حي النهضة 2  رقم 44 - جماعة تم",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Iman",
+    "NOM_ETABA": "الإيمان",
+    "AdresseL": "7-Lotissement Benssouda -Hay A",
+    "AdresseA": "حي الوفاق تجزئة بنسودة رقم 7 ت",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Moustakbal",
+    "NOM_ETABA": "المستقبل",
+    "AdresseL": "Hay Al Firdouss N° 16 - Commun",
+    "AdresseA": "حي الفردوس رقم 16 - جماعة تمار",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Azhar 1",
+    "NOM_ETABA": "الأزهر 1",
+    "AdresseL": "Cité Al Andalouss Rue 4, N° 92",
+    "AdresseA": "حي الأندلس زنقة 4 رقم 92 - جما",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Azhar 2",
+    "NOM_ETABA": "الأزهر 2",
+    "AdresseL": "HAY EL MAGHRIB ARABI N°6 Temar",
+    "AdresseA": "حي المغرب العربي رقم6 تمارة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Qods",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "N° 24, Massira 2Hay Magreb Ara",
+    "AdresseA": "رقم 24، المسيرة 2 حي المغرب ال",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Maria",
+    "NOM_ETABA": "مدارس مارية",
+    "AdresseL": "Hay Al Andalouss, Rue N° 1 - C",
+    "AdresseA": "حي الأندلس، زنقة رقم 1 - جماعة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mohammed Ben Abdellah",
+    "NOM_ETABA": "محمد بن عبد الله",
+    "AdresseL": "Avenue du caire rue masrour te",
+    "AdresseA": "شارع القاهرة، مسرور 1 - جماعة ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Abi Bakr Essedik",
+    "NOM_ETABA": "أبي بكر الصديق",
+    "AdresseL": "Hay 9 Juillet, Route Sidi Yahy",
+    "AdresseA": "حي 9 يوليوز، طريق سيدي يحيى زع",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE Achbal Al Fath  TEMARA",
+    "NOM_ETABA": "مجموعة مدارس أشبال الفتح تمارة",
+    "AdresseL": "N° 4 et 5, Hay Al Fath, Rue Da",
+    "AdresseA": "رقم 4 و 5، حي الفتح، زنقة دمشق",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Ichraq",
+    "NOM_ETABA": "الإشراق",
+    "AdresseL": "Dakhla 7, N° 113, Guich Louday",
+    "AdresseA": "الداخلة 7، رقم 113، كيش الوداي",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Andaloussia",
+    "NOM_ETABA": "الأندلسية",
+    "AdresseL": "N° 147, Guich Loudaya, Dakhla ",
+    "AdresseA": "رقم 147، كيش الوداية، الداخلة ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Borj Al maârifa",
+    "NOM_ETABA": " برج المعرفة",
+    "AdresseL": "50 rue al bitrik dakhla 7 cité",
+    "AdresseA": "50تمارة زنقة البطريق  الدخلة 7",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Riad Al Anjal",
+    "NOM_ETABA": "رياض الأنجال",
+    "AdresseL": "Lotis. 24 Hectares,sect 4, N° ",
+    "AdresseA": "تجزئة 24 هكتار، مجموعة 4، رقم ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Fadila",
+    "NOM_ETABA": "الفضيلة",
+    "AdresseL": "Hay Al Firdaous, N° 68, Al MAs",
+    "AdresseA": "حي الفردوس، رقم 68 ، المسيرة -",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHERIF TIJANI",
+    "NOM_ETABA": "الشريف التيجاني",
+    "AdresseL": "HAY ELALAOUIN RUE GIZA N° 76/7",
+    "AdresseA": "حي العلويين زنقة الجيزة رقم 76",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bayt Al Hikma",
+    "NOM_ETABA": "بيت الحكمة",
+    "AdresseL": "Hay Al Maghreb El Arabi, secte",
+    "AdresseA": "حي المغرب العربي سكتور 3، بلوك",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE FUTURE SCHOOL",
+    "NOM_ETABA": "فيوتشر سكول",
+    "AdresseL": "Hay Essalam 3, N° 23",
+    "AdresseA": "حي السلام 3، رقم 23",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sanabil Al Khair",
+    "NOM_ETABA": "سنابل الخير",
+    "AdresseL": "Avenue Driss Premier Massira I",
+    "AdresseA": "شارع إدريس الأول، المسير ة 1",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Massar ALMAARIFIE",
+    "NOM_ETABA": "المسار المعرفي",
+    "AdresseL": "Hay Al Andalous, Rue N° 7",
+    "AdresseA": "حي الأندلس، زنقة رقم 7",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Achbal Atlas",
+    "NOM_ETABA": "أشبال الأطلس",
+    "AdresseL": "Hay Al Maghreb Al Arabi, Lot. ",
+    "AdresseA": "C  حي المغرب العربي، قطعة رقم",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Arrayhan",
+    "NOM_ETABA": "مؤسسة الريحان",
+    "AdresseL": "Dakhla 7, N° 44 - Guiche Louda",
+    "AdresseA": "الداخلة 7 ، رقم 44، كيش الوداي",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annexe Ecole Maria",
+    "NOM_ETABA": "ملحقة مدارس مارية",
+    "AdresseL": "RUE LAMASOULIA - Lot. Al Wifaq",
+    "AdresseA": "تجزئة الوفاق2، زنقة المسؤولية ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ohoud",
+    "NOM_ETABA": "أحد",
+    "AdresseL": "A 18, Cooperative Ouhoud, Guic",
+    "AdresseA": "أ 18، تعاونية أحد، كيش الوداية",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Maarifa Wa Attanouir 1",
+    "NOM_ETABA": "مدارس المعرفة و التنوير 1",
+    "AdresseL": "Secteur 4, N° 69, Av. Moulay A",
+    "AdresseA": "سكتور 4، رقم 69، شارع مولاي عل",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "almadaris al ilmia",
+    "NOM_ETABA": "المدارس العلمية",
+    "AdresseL": "Lotissement al manal n 94",
+    "AdresseA": "تجزئة المنال رقم 94",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "صلاح الدين الأيوبي",
+    "AdresseL": "Lotissement al wifaq secteur 4",
+    "AdresseA": "تجزئة الوفاق رقم 4024 قطاع 4 ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARISS ALKHIAMe",
+    "NOM_ETABA": "مدارس الخيام الخصوصية",
+    "AdresseL": "N° 13 Lotissement Al khiame  6",
+    "AdresseA": "تجزئة الخيام 6 رقم 13",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM  OUED EDDAHAB II",
+    "NOM_ETABA": "IIبراعم وادي الذهب ",
+    "AdresseL": "6 AL KASSABA  AV MOHAMMEDV",
+    "AdresseA": "حي القصبة رقم 6  شارع محمد الخ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT CHIADMI",
+    "NOM_ETABA": "معهد الشياظمي",
+    "AdresseL": "Lot 6 moujamaa lahbab",
+    "AdresseA": "          -حي الأندلس -  نجزئة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUJABAE",
+    "NOM_ETABA": "نجباء",
+    "AdresseL": "699 Guich Loudaya ",
+    "AdresseA": "رقم699  كيش الوداية",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMAARIFA WA ATTANOUIR 2",
+    "NOM_ETABA": "المعرفة والتنوير    2",
+    "AdresseL": "lotissement amicale al maghrib",
+    "AdresseA": "تجزئة ودادية المغرب العربي رقم",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT BENHAMZA",
+    "NOM_ETABA": "معهد بنحمزة",
+    "AdresseL": "461,462 lot , riyad oulad mtaa",
+    "AdresseA": "461-462 رياض أولاد أمطاع ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire al imaniat",
+    "NOM_ETABA": "مجموعة مدارس الإيمانيات ",
+    "AdresseL": "268 hay el mansour dahbi (MASR",
+    "AdresseA": "رفم 268 المنصور الذهبي( مسرور ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire balzacguiche",
+    "NOM_ETABA": "مجموعة مدارس بالزاك",
+    "AdresseL": "dakhla 7 n°125 guiche loudayas",
+    "AdresseA": "الداخلة 7 رفم 125 كيش الوداية",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut temara",
+    "NOM_ETABA": "معهد تمارة",
+    "AdresseL": "n°44 TALAA 10 TEMARA",
+    "AdresseA": "الطلعة 10 رقم 44",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "thales",
+    "NOM_ETABA": "طاليس",
+    "AdresseL": "1301 qartier wifak temara",
+    "AdresseA": "رقم 1301 تجزئة الوفاق إيراك ر/",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madaris al aarifine",
+    "NOM_ETABA": "مدارس العارفين",
+    "AdresseL": " lot g QUARTIER AL MAGHRIB ALL",
+    "AdresseA": "تجزئة ج حي المغرب العربي المسي",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe al makrizi",
+    "NOM_ETABA": "مجموعة المقريزي",
+    "AdresseL": "angle bd. med vi et hay al and",
+    "AdresseA": "ماتقى شارع محمد السادس  وحي ال",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROWAD2",
+    "NOM_ETABA": "الرواد 2",
+    "AdresseL": "359 hay oulad mtaa temara",
+    "AdresseA": "اولاد مطاع رقم 359",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achbal al atlas 2",
+    "NOM_ETABA": "مدارس أشبال الأطلس 2",
+    "AdresseL": "lot b gr a hay maghreb arabi",
+    "AdresseA": "حي المغرب العربي بقعة ب مجموعة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oum alghayt",
+    "NOM_ETABA": "أم الغيث",
+    "AdresseL": "immeuble 53 hay al fath",
+    "AdresseA": "عمارة 53 حي الفتح",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROWAD1",
+    "NOM_ETABA": "الرواد 1",
+    "AdresseL": "oulad metaa 357",
+    "AdresseA": "357 اولاد امطاع",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE RIEMANN",
+    "NOM_ETABA": "مجموعة مدارس رايمان الخصوصية",
+    "AdresseL": "avenue moulay ali cherif secte",
+    "AdresseA": " 68 شارع مولاي علي الشريف سكتو",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annexe abi bakr assidik",
+    "NOM_ETABA": "ملحقة أبي بكر الصديق",
+    "AdresseL": "CITE 9 JUILLET ROUTE SIDI YAHY",
+    "AdresseA": "تجزئة 9 يوليوز طريق سيدي يحى ز",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut annabil",
+    "NOM_ETABA": "معهد النبيل",
+    "AdresseL": "17 rue Hossein Al sheikh Manso",
+    "AdresseA": "رقم 17 زنقة ال الحسين الشيخ حي",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut noukhbat al atlas",
+    "NOM_ETABA": "معهد نخبة الأطلس",
+    "AdresseL": "n1, lotissement SALAM TEMARA",
+    "AdresseA": "رقم 1 تجزئة السلام  تمارة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire d enseignement jules hoffmann",
+    "NOM_ETABA": "مجموعة مدارس جيل هوفمان للتعليم الخاص",
+    "AdresseL": "bvd moulay ali cherfi rue ibno",
+    "AdresseA": "مجموعة 342-343-334 زنقة ابن ال",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les citronnierse",
+    "NOM_ETABA": "مؤسسة ليسيترونيي الخاصة ",
+    "AdresseL": "115, loT  el mEssaoudi",
+    "AdresseA": "115, تجزئة المسعودي تمارة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g.s.al bayanee",
+    "NOM_ETABA": "مجموعة مدارس البيان الخصوصية",
+    "AdresseL": "lot al moustakbal al badil laq",
+    "AdresseA": "اقامة المستقبل البديل ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ritaj alilme",
+    "NOM_ETABA": "رتاج العلم الخصوصية",
+    "AdresseL": "N°42,AVENUE TARIK IBN ZIAD,LOT",
+    "AdresseA": "رقم 42، شارع طارق ابن زياد، تج",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lina",
+    "NOM_ETABA": "لينة الخصوصية",
+    "AdresseL": "96,lot3 oulad mtaa",
+    "AdresseA": "(رقم 96 , قطاع 3 أولاد مطاع ، ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "a nache",
+    "NOM_ETABA": "النشء",
+    "AdresseL": "55, lot tout hassan",
+    "AdresseA": "55 تجزئة صومعة حسان",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jnane alim 2",
+    "NOM_ETABA": "جنان العلم2",
+    "AdresseL": "60, lot dhar elkidar, avenue t",
+    "AdresseA": "رقم 60 ,تجزئة ظهر الكيدار,شارع",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HAKIM GROUP",
+    "NOM_ETABA": "مجموعة مدارس جيل هوفمان للتعليم الخاص",
+    "AdresseL": "boulevard moulay ali cherif ; ",
+    "AdresseA": "شارع مولاي علي الشريف،زنقة ابن",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole idrake",
+    "NOM_ETABA": "مدرسة ادراك الخصوصية",
+    "AdresseL": "1et2, lotissement belfkih,aven",
+    "AdresseA": "رقم 1و2 تجزئة بلفقيه شارع طارق",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire beauregard",
+    "NOM_ETABA": "مجموعة مدارس بوروكار للتعليم الخصوصي",
+    "AdresseL": "7, lotissement al menzeh",
+    "AdresseA": "رقم 7 تجزئة المنزه تمارة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMJAD AL MAGHRIBIA ANNEXE 2",
+    "NOM_ETABA": "الأمجاد المغربية الملحقة 2",
+    "AdresseL": " hay nahda2, N°10",
+    "AdresseA": "حي النهضة 2 رقم 10",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la petite fontaine",
+    "NOM_ETABA": "مدرسة النافورة الصغيرة الإبتدائية",
+    "AdresseL": "Lotissement al fadila n°31 BOU",
+    "AdresseA": "رقم 31 تجزئة الفضيلة شارع عبد ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AZ PRIV2",
+    "NOM_ETABA": "مجموعة مدارس AZ الخصوصية",
+    "AdresseL": "CITE IBN ROCHD BOULEVARD AMINA",
+    "AdresseA": "حي ابن رشد شارع امنة بنت وهب ح",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT OUAHAT AL ILM ",
+    "NOM_ETABA": "معهد واحة العلم الخاص",
+    "AdresseL": "avenue ghaza n°2402 wifak tema",
+    "AdresseA": "رقم 2402 شارع غزة الوفاق",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PETITE FONTAINE",
+    "NOM_ETABA": "النافورة الصغيرة",
+    "AdresseL": "69،lotissement al hoda",
+    "AdresseA": "69،تجزئة الهدى،تمارة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RYAD ALAWAEL",
+    "NOM_ETABA": "رياض الاوائل",
+    "AdresseL": "83, lot al wifaq fath al kheir",
+    "AdresseA": "83، تجزئة الوفاق فتح الخير",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES BOURGEONS DE MADARISS AL KHIAME",
+    "NOM_ETABA": "براعم مدارس الخيام",
+    "AdresseL": "lot C, lotissement chateau, re",
+    "AdresseA": "تجزئة الشاطو1 قطعة C  الطابق ا",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole smirie",
+    "NOM_ETABA": "مدرسة سميري الخصوصية",
+    "AdresseL": "12,g,secteur3, lotissement 24 ",
+    "AdresseA": "تجزئة 24 هكتار سكتور 3 رقم ج12",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les copains",
+    "NOM_ETABA": "ليكوبان الخاصة",
+    "AdresseL": "Villa 168 Dakhla 7 Guich des o",
+    "AdresseA": "الداخلة 7 رقم 168 كيش الاوداية",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee la maitrise ",
+    "NOM_ETABA": "مدرسة لا ميتريز الخصوصية",
+    "AdresseL": "2LOT ASSALAM 1",
+    "AdresseA": "رقم2.تجزئة السلام1",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ma seconde  residence",
+    "NOM_ETABA": "إقامتي الثانية الخصوصية",
+    "AdresseL": "3409 HAY AL WIFAK ",
+    "AdresseA": "3409 حي االوفاق",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire wissal al maarifa",
+    "NOM_ETABA": "مجموعة مدارس وصال المعرفة الخصوصية",
+    "AdresseL": "N° 4 SECTEUR 3 OUALAD BENNASSR",
+    "AdresseA": "رقم 4 سكتور 3 ، أولاد بناصر : ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annafoura saghira",
+    "NOM_ETABA": "النافورة الصغيرة",
+    "AdresseL": "69, lotissement al houda",
+    "AdresseA": "69 تجزئة الهدى",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baby home ",
+    "NOM_ETABA": "بيبي هوم ",
+    "AdresseL": "173, sec1, oulad mtaa",
+    "AdresseA": "173، سكتور1، أولاد مطاع ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole la croisieree",
+    "NOM_ETABA": "مؤسسة لاكروازيير الخصوصية ",
+    "AdresseL": "59, dakhla 7, guich loudaya",
+    "AdresseA": "رقم 59، الداخلة 7، كيش الأوداي",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee la maitrise ",
+    "NOM_ETABA": "مدرسة لا ميتريز الخصوصية",
+    "AdresseL": "2, lotissement essalam",
+    "AdresseA": "2.تجزئة السلام ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ABRAR",
+    "NOM_ETABA": "الابرار الخصوصية",
+    "AdresseL": "71, smara, hay ibn rochd, al w",
+    "AdresseA": "71، سمارة حي بن رشد الوفاق ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g.s el safwa",
+    "NOM_ETABA": "مجموعة مدارس الصفوة الخصوصية",
+    "AdresseL": "3, dakhla, guich loudaya",
+    "AdresseA": "3. الداخلة كيش الوداية",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "l horizone",
+    "NOM_ETABA": "لوريزون",
+    "AdresseL": "3358,hay alwifaq, 1er etage",
+    "AdresseA": "3358 حي الوفاق الطابق الاول",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAZIRATE AL ATFALE",
+    "NOM_ETABA": "مؤسسة جزيرة الأطفال",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة ،تمارة716 ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut bentounssi",
+    "NOM_ETABA": "مؤسسة بن التونسي",
+    "AdresseL": "NULL",
+    "AdresseA": "18. تجزئة فرح.مرس الخير",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire la fraternelle",
+    "NOM_ETABA": "مجموعة مدارس لافراتيرنيل الخصوصية",
+    "AdresseL": "lot imane n°12 fouarat temara",
+    "AdresseA": "تجزئة إيمان رقم 12 الفوارات ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTIONE LOUDAYA",
+    "NOM_ETABA": "مؤسسة الوداية الخصوصية",
+    "AdresseL": "171, Lot laayoune guich louday",
+    "AdresseA": "رقم 171 تجزئة العيون كيش الأود",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut al amana temara",
+    "NOM_ETABA": "معهد الأمانة تمارة الخصوصي",
+    "AdresseL": "tarik ibn ziad lfwarat temara",
+    "AdresseA": "الفوارات مرس الخير تمارة",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lile ",
+    "NOM_ETABA": "ليل",
+    "AdresseL": "rue jakarta",
+    "AdresseA": "9 زنقة جاكارتا",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madaris maria litaalim al aouali",
+    "NOM_ETABA": "مدارس مارية للتعليم الأولي",
+    "AdresseL": "256krue1,hay al andalous",
+    "AdresseA": "حي الأندلس زنقة 1 رقم 256 ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les rosiers",
+    "NOM_ETABA": "ليروزيي",
+    "AdresseL": "lot alhouda massira 1",
+    "AdresseA": "إقامة الهدى المسيرة 1",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " groupe scolaire al jawzia",
+    "NOM_ETABA": "مجموعة مدارس الجوزية الخصوصية",
+    "AdresseL": "avenue tareq ibno ziad lotisse",
+    "AdresseA": "شارع طارق ابن زياد تجزئة النصر",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le chemin de l odyssee",
+    "NOM_ETABA": "لوشومان دولوديسي",
+    "AdresseL": "num 64 lot sanchiz temara",
+    "AdresseA": " تمارة رقم 64 تجزئة سانشيز ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la guirlande",
+    "NOM_ETABA": "لاجيرلوند",
+    "AdresseL": "avenue Mohammed V N° 59 B tala",
+    "AdresseA": "شارع محمد الخامس رقم 59  الطلع",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alwifaq",
+    "NOM_ETABA": "الوفاق الخصوصية",
+    "AdresseL": "NASSIL 1 HAY AL WIFAQ",
+    "AdresseA": "نسيم 1 حي الوفاق",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "benmchich",
+    "NOM_ETABA": "بنمشيش الخصوصية",
+    "AdresseL": "28 Av Mooulay Ali Chérif Benna",
+    "AdresseA": "شارع مولاي علي الشريف أولاد بن",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire hibat",
+    "NOM_ETABA": "مجموعة مدارس هبة",
+    "AdresseL": "Avenue Hassan 1er lotissement ",
+    "AdresseA": "شارع الحسن الأول تجزئة الفاتحي",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole almostakbal alilmia",
+    "NOM_ETABA": "مدرسة المستقبل العلمية",
+    "AdresseL": "SECTEUR 5 AVENUE MOULAY ALI CH",
+    "AdresseA": "عمارة 13 سكتور 5 مولاي علي الش",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al fayhae al ilmya",
+    "NOM_ETABA": "الفيحاء العلمية",
+    "AdresseL": "16 cooperative essalam guiche ",
+    "AdresseA": "رقم 16 تعاونية السلام كيش الأو",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES HEURES JOYEUSES",
+    "NOM_ETABA": "الساعات السعيدة",
+    "AdresseL": "amicale almiftah n° 91",
+    "AdresseA": "أميكال المفتاح رقم 91",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES GENIES EN HERBE",
+    "NOM_ETABA": "لي جيني أون إرب",
+    "AdresseL": "hay alaouine mesrour place med",
+    "AdresseA": "295حي العلويين،مسرور 1 .ساحة ا",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANDALOUSIA 1",
+    "NOM_ETABA": "الأندلسية 1",
+    "AdresseL": "lotissement alamal numéro 78",
+    "AdresseA": "تجزئة الأمل رقم 78 شارع مولاي ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALEXANDRE DUMAS",
+    "NOM_ETABA": "م/م أليكساندر دوماس ",
+    "AdresseL": "lotissement almanal n° 46",
+    "AdresseA": "46 تجزئة المنال رقم",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JNANE ALILM",
+    "NOM_ETABA": "جنان العلم",
+    "AdresseL": "lotissement  diar almansour n°",
+    "AdresseA": "58 تجزئة ديار المنصور رقم ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIYAD AL ANJAL ANNEXE",
+    "NOM_ETABA": "ملحقة رياض الأنجال",
+    "AdresseL": "secteur 4 lotissement 24 hecta",
+    "AdresseA": "51 سكتور 4 تجزئة 24 هكتار رقم ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole charcot",
+    "NOM_ETABA": "مدرسة شاركو",
+    "AdresseL": "75 lot Alabtal bd Tarik ibn zi",
+    "AdresseA": "رقم 75 تجزئة الابطال شارع طارق",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MARCONI",
+    "NOM_ETABA": "م/م ماركوني",
+    "AdresseL": "lotissement houria n° 59",
+    "AdresseA": "59 تجزئة حورية رقم ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les nations",
+    "NOM_ETABA": "ليناسيون",
+    "AdresseL": "n° 3 hay almaghreb al arabi",
+    "AdresseA": "رقم 3 حي المغرب العربي ",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALFOUWARATE",
+    "NOM_ETABA": "الفوارات",
+    "AdresseL": "avenu tarik ben ziad N° 1 loti",
+    "AdresseA": " المنزه تجزئة  رقم 01 شارع طار",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "miral  ",
+    "NOM_ETABA": "ميرال ",
+    "AdresseL": "hay elmanssour dahbi lotisseme",
+    "AdresseA": "حي المنصور الذهبي  تجزئة الكتب",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alamjad almaghribia",
+    "NOM_ETABA": "الأمجاد المغربية",
+    "AdresseL": "hay nahda2 n 30 temara",
+    "AdresseA": "30 حي النهضة 2",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annexe oum el ghait ",
+    "NOM_ETABA": "ملحقة أم الغيث",
+    "AdresseL": "hay alfath 47",
+    "AdresseA": "47 حي الفتح",
+    "COMMUNE": "Témara ",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

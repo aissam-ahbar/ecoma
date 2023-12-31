@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IBN SINA",
+    "NOM_ETABA": "الثانوية الاعدادية ابن سينا",
+    "AdresseL": "BIZDAD",
+    "AdresseA": "بيزضاض",
+    "COMMUNE": "Bizdad",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S BIR ANZARANE",
+    "NOM_ETABA": "م.م. بئر أنزران",
+    "AdresseL": "CENTRE DE BIZDAD BIZDAD",
+    "AdresseA": "مركز بيزضاض",
+    "COMMUNE": "Bizdad",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAHALOUANT",
+    "NOM_ETABA": "م.م. تهلوانت",
+    "AdresseL": "TNINE IDA OUZEMZEM  BIZDAD",
+    "AdresseA": "دوار اداوزمزم بزضاض",
+    "COMMUNE": "Bizdad",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

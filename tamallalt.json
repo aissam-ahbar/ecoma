@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL IBN BATTOUTA",
+    "NOM_ETABA": "ثانوية  إبن بطوطة الاعدادية",
+    "AdresseL": "TAMeLLALeT",
+    "AdresseA": "تملالت",
+    "COMMUNE": "Tamallalt",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAMELLALT CENTRE",
+    "NOM_ETABA": "مدرسة تملالت المركزية",
+    "AdresseL": "MUNICIPALITE TAMELLALET",
+    "AdresseA": "تملالت المركز",
+    "COMMUNE": "Tamallalt",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHOUKI",
+    "NOM_ETABA": "مدرسة شوقي",
+    "AdresseL": "ECOLE CHAOUKI TAMELLELAT",
+    "AdresseA": "مدرسة شوقي تملالت",
+    "COMMUNE": "Tamallalt",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOUAR TOUMI CENTRE",
+    "NOM_ETABA": "دوار التومي المركزية",
+    "AdresseL": "DOUAR TOUMI TAMELLALt",
+    "AdresseA": "دوار التومي تملالت",
+    "COMMUNE": "Tamallalt",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT TAMELLALET",
+    "NOM_ETABA": "ثانوية تملالت التأهيلية",
+    "AdresseL": "TAMALLALET CENTRE",
+    "AdresseA": "بلدية تملالت",
+    "COMMUNE": "Tamallalt",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "DOUCHANI",
+    "NOM_ETABA": "الدوشاني",
+    "AdresseL": "Lot. al alim n° 248",
+    "AdresseA": "تجزئة العالم رقم 248",
+    "COMMUNE": "Tamallalt ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FAN EL MAARIFA POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "فن المعرفة للتعليم المدرسي الخصوصي",
+    "AdresseL": "N104/105 lotissement  Albissat",
+    "AdresseA": "رقم 104/105 تجزئة البساط 2 تمل",
+    "COMMUNE": "Tamallalt ",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

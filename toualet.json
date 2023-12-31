@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL CHAHID MOHAMED ZIRAOUI",
+    "NOM_ETABA": "ثانوية الشهيد محمد الزيراوي الإعدادية",
+    "AdresseL": "Commune Toualet",
+    "AdresseA": "جماعة التوالت",
+    "COMMUNE": "Toualet",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TMASSINE CENTRE",
+    "NOM_ETABA": "مركزية تماسين",
+    "AdresseL": "DOUAR TMASSINE COMMUNE TOUALET",
+    "AdresseA": "دوار تماسين  جماعة الثوالث",
+    "COMMUNE": "Toualet",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AZZI CENTRE",
+    "NOM_ETABA": "مركزية اولاد عزي",
+    "AdresseL": "DOUAR OULAD AZZI COMMUNE TOUALET",
+    "AdresseA": "دوار اولاد عزي",
+    "COMMUNE": "Toualet",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUALET CENTRE",
+    "NOM_ETABA": "مركزية التوالت",
+    "AdresseL": "CENTRE AWLAD BOZIRI  COMMUNE TOUALET  KIADAT BENI ",
+    "AdresseA": " مركز اولاد بوزيري الثوالث قيادة بني يكرين ",
+    "COMMUNE": "Toualet",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

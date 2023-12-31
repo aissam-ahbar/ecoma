@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "C AIT ABDELLAH",
+    "NOM_ETABA": "ثإ.ايت عبد الله",
+    "AdresseL": "centre de COMMUNE AIT ABDELLAH",
+    "AdresseA": "مركز ايت عبدالله",
+    "COMMUNE": "Ait Abdallah",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " SS ELHAJ ABDELLAH ZAGOUR",
+    "NOM_ETABA": "م.م الحاج عبد الله زاكور",
+    "AdresseL": "DOUAR   ASSAKA C AIT ABDALLAH",
+    "AdresseA": "دوار أساكا جماعة أيت عبد الله",
+    "COMMUNE": "Ait Abdallah",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

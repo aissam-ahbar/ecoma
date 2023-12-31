@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS JAAFAR ESSADIK",
+    "NOM_ETABA": "م.م جعفر الصادق",
+    "AdresseL": "DOUAR   BOULAAJLATE C AIT MAKHLOUF  TAROUDANT",
+    "AdresseA": "دوار بوالعجلات  جماعة ايت مخلوف . تارودانت",
+    "COMMUNE": "Ait Makhlouf",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BITELJANE",
+    "NOM_ETABA": "م.م بطلجان",
+    "AdresseL": "DOUAR   BITELJANE C AIT MAKHLOUF",
+    "AdresseA": "دوار بطلجان",
+    "COMMUNE": "Ait Makhlouf",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SOUK SEBT CENTRE",
+    "NOM_ETABA": "سوق السبت المركزية",
+    "AdresseL": "DOUAR SEBT COMMUNE OULED ELGaRNE LOUNASDA",
+    "AdresseA": "دوار السبت",
+    "COMMUNE": "Oulad El Garne",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD DAOUD CENTRE",
+    "NOM_ETABA": "اولاد داوود المركزية",
+    "AdresseL": "DOUAR OULAD DAOUAD COMMUNE OULAD EL GARNE",
+    "AdresseA": "دوار اولاد داوود",
+    "COMMUNE": "Oulad El Garne",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

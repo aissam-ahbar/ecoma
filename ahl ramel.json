@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C IBNOU SINA",
+    "NOM_ETABA": "ثإ.ابن سينا",
+    "AdresseL": "CENTRE Communal AHL RAMEL",
+    "AdresseA": "مركز جماعة أهل الرمل",
+    "COMMUNE": "Ahl Ramel",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ELMAMOUN",
+    "NOM_ETABA": "م.م المامون",
+    "AdresseL": "DOUAR   DCHIRA   Cr   AHL RAMEL",
+    "AdresseA": "دوارالدشيرة-جماعة أهل الرمل-أولاد تايمة",
+    "COMMUNE": "Ahl Ramel",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN ALKHATIB",
+    "NOM_ETABA": "م.م إبن الخطيب",
+    "AdresseL": "CENTRE DE LA COMMUNE AHL RAMEL",
+    "AdresseA": "مركز جماعة أهل الرمل",
+    "COMMUNE": "Ahl Ramel",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ENNAYMA",
+    "NOM_ETABA": "م.م النعيمة",
+    "AdresseL": "DOUAR   ennayma AHL RMEL",
+    "AdresseA": "د. النعيمة",
+    "COMMUNE": "Ahl Ramel",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AGHCHIYINE",
+    "NOM_ETABA": "م. أغشيين",
+    "AdresseL": "douar AGHCHIYINE COMMUNE AHL RAMEL",
+    "AdresseA": "دوار أغشيين جماعة أهل الرمل",
+    "COMMUNE": "Ahl Ramel",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

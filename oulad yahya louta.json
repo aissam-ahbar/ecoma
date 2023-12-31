@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS OULED YAHYA CENTRE ",
+    "NOM_ETABA": "م/م أولاد يحيى المركزية ",
+    "AdresseL": "DOUAR LAAOUANESSE COMMUNE OULED YAHYA LOUTA",
+    "AdresseA": "دوار لعوانس جماعة اولاد يحيى لوطا",
+    "COMMUNE": "Oulad Yahya Louta",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S ELWAHDA CENTRE",
+    "NOM_ETABA": "م/م الوحدة المركزية",
+    "AdresseL": "DOUAR RHAHLA COMMUNE OULED YAHYA LOUTA",
+    "AdresseA": "دوار الرحاحلة جماعة اولاد يحيى لوطا",
+    "COMMUNE": "Oulad Yahya Louta",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMAME MALIK  CENTRE",
+    "NOM_ETABA": "م/م الإمام مالك المركزية",
+    "AdresseL": "DOUAR BNI KARZAZ COMMUNE OULAD YAHYA LOUTA",
+    "AdresseA": "دوار بني كرزاز جماعة اولاد يحيى لوطا",
+    "COMMUNE": "Oulad Yahya Louta",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

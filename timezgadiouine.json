@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TIMZGADIOUINE",
+    "NOM_ETABA": "الثانوية الإعدادية تمزكدوين",
+    "AdresseL": "commune rurale timzgadiuine centre",
+    "AdresseA": "جماعة تمزكدوين المركز",
+    "COMMUNE": "Timezgadiouine",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIMEZGADIOUINE",
+    "NOM_ETABA": "تمزكدوين",
+    "AdresseL": "DOUAR TIMEZGADIOUINE COMMUNE TIMEZGADIOUINE",
+    "AdresseA": "دوار تمزكدوين",
+    "COMMUNE": "Timezgadiouine",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OUAARAB",
+    "NOM_ETABA": "أيت واعراب",
+    "AdresseL": "DOUAR AIT OUAARAB COMMUNE TIMEZGADIOUINE",
+    "AdresseA": "دوار أيت واعراب",
+    "COMMUNE": "Timezgadiouine",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT KHATTAB",
+    "NOM_ETABA": "ايت خطاب",
+    "AdresseL": "DOUAR AIT KHATTAB COMMUNE TIMEZGADIOUINE",
+    "AdresseA": "دوار  ايت خطاب  جماعة تمزكدوين قيادة دمسيرة",
+    "COMMUNE": "Timezgadiouine",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IRGHI",
+    "NOM_ETABA": "إرغي",
+    "AdresseL": "DOUAR IRGHI COMMUNE TIMEZGADIOUINE",
+    "AdresseA": "دوار  إرغي",
+    "COMMUNE": "Timezgadiouine",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT CHAAIB",
+    "NOM_ETABA": "ايت  شعيب",
+    "AdresseL": "DOUAR AMSLANE COMMUNE TIMEZGADIOUINE",
+    "AdresseA": "دوار امسلان جماعة تمزكدوين ",
+    "COMMUNE": "Timezgadiouine",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMLALEN",
+    "NOM_ETABA": "إملالن",
+    "AdresseL": "DOUAR IMLALEN COMMUNE TIMEZGADIOUINE TRIBU DEMSIRA",
+    "AdresseA": "دوار إملالن جماعة تمزكدوين قيادة دمسيرة",
+    "COMMUNE": "Timezgadiouine",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IHARDANEN",
+    "NOM_ETABA": "إحرضانن",
+    "AdresseL": "DOUAR IHARDANEN  COMMUNE TIMAZGADIOUINE",
+    "AdresseA": "دوار  إحرضانن",
+    "COMMUNE": "Timezgadiouine",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

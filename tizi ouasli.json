@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "TISI OUSLI CENTRE",
+    "NOM_ETABA": "تيزي وسلي المركز",
+    "AdresseL": "TISI OUSLI COMMUNE TIZI OUASLI",
+    "AdresseA": "دوار تيزي وسلي جماعة تيزي وسلي",
+    "COMMUNE": "Tizi Ouasli",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGHILASTE CENTRE",
+    "NOM_ETABA": "تاغلاست المركز",
+    "AdresseL": "DOUAR TAGHILASTE  COMMUNE TIZI OUASLI",
+    "AdresseA": "دوار تاغلاست جماعة تيزي وسلي",
+    "COMMUNE": "Tizi Ouasli",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANDOUF CENTRE",
+    "NOM_ETABA": "أندوف المركز",
+    "AdresseL": "DOUAR ANDOUF COMMUNE TIZI OUASLI",
+    "AdresseA": "دوار أندوف  جماعة تيزي وسلي",
+    "COMMUNE": "Tizi Ouasli",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant TIZI OUSLI",
+    "NOM_ETABA": "الثانوية التأهيلية تيزي وسلي ",
+    "AdresseL": "TISI OUSLI CENTRE",
+    "AdresseA": "تيزي وسلي المركز",
+    "COMMUNE": "Tizi Ouasli",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "IMAGDAL",
+    "NOM_ETABA": "امكدال",
+    "AdresseL": "DOUAR IMAGDAL COMMUNE IMAGDAL ",
+    "AdresseA": "دوار امكدال جماعة امكدال قيادة ويركان",
+    "COMMUNE": "Imgdal",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AMESLANE",
+    "NOM_ETABA": " مركزية امسلان",
+    "AdresseL": "DOUAR AMESLANE COMMUNE IMGDAL",
+    "AdresseA": "دوار امسلان جماعة امكدال قيادة ويركان",
+    "COMMUNE": "Imgdal",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TINISKTE",
+    "NOM_ETABA": "تنيسكت",
+    "AdresseL": "DOUAR TINISKTE COMMUNE IMGDAL",
+    "AdresseA": "دوار تنيسكت جماعة امكدال",
+    "COMMUNE": "Imgdal",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAOURIRTE",
+    "NOM_ETABA": "  مركزية تاوريرت",
+    "AdresseL": "DOUAR TAOURIRTE COMMUNE IMGDAL",
+    "AdresseA": "دوار تاوريرت جماعة امكدال",
+    "COMMUNE": "Imgdal",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

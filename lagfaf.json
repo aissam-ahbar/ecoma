@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ECOLE SALMANE EL FARISSI",
+    "NOM_ETABA": "مدرسة سلمان الفارسي",
+    "AdresseL": "CENTRE COMMUNE GUEFFAF COMMUNE GUEFFAF",
+    "AdresseA": "مركز جماعة الكفاف",
+    "COMMUNE": "Lagfaf",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BELKHIR",
+    "NOM_ETABA": "م/م بلخير",
+    "AdresseL": "DOUAR OULED ALI COMMUNE GUEFFAF",
+    "AdresseA": "  دوار  اولاد  علي  الكفاف",
+    "COMMUNE": "Lagfaf",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BENCHAQRA",
+    "NOM_ETABA": "م/م بنشقرى",
+    "AdresseL": "DOUAR LAGFAF LAHRAR COMMUNE LAGFAF",
+    "AdresseA": "دوار الكفاف الحرار جماعة الكفاف",
+    "COMMUNE": "Lagfaf",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU TOUMERT",
+    "NOM_ETABA": "الثانوية التأهيلية ابن تومرت",
+    "AdresseL": "CENTRE COMMUNE EL GUEFAF",
+    "AdresseA": "مركز  جماعة  الكفاف",
+    "COMMUNE": "Lagfaf",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

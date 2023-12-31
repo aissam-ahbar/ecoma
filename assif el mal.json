@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL ASSIF ALMAL",
+    "NOM_ETABA": "الثانوية الإعدادية أسيف المال",
+    "AdresseL": "Assif Almal",
+    "AdresseA": "أسيف المال",
+    "COMMUNE": "Assif El Mal",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ASSIF EL MAL",
+    "NOM_ETABA": "أسيف المال",
+    "AdresseL": "DOUAR ASSIF EL MAL COMMUNE ASSIF EL MAL",
+    "AdresseA": "Saada 4 n\" 159 M'hamid Marrakech",
+    "COMMUNE": "Assif El Mal",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMINE OUASSIF",
+    "NOM_ETABA": "إمين  واسيف",
+    "AdresseL": "DOUAR IMINE OUASSIF COMMUNE ASSIF EL MAL",
+    "AdresseA": "دوار إمين  واسيف جماعة أسيف المال",
+    "COMMUNE": "Assif El Mal",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR AKIMAKH",
+    "NOM_ETABA": "دار أكيماخ",
+    "AdresseL": "DOUAR DAR AKIMAKH COMMUNE ASSIF EL MAL",
+    "AdresseA": "دوار دار أكيماخ",
+    "COMMUNE": "Assif El Mal",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

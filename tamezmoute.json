@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL IBN ROCHD",
+    "NOM_ETABA": "الثانوية الإعدادية ابن رشد",
+    "AdresseL": "DOUAR IRCHEG C TAMAZMOUTE",
+    "AdresseA": "إرشك",
+    "COMMUNE": "Tamezmoute",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCE COLLGIAL  TANESSIKHETE",
+    "NOM_ETABA": "الثانوية الإعدادية تانسيخت",
+    "AdresseL": "Douar Tanessikhte",
+    "AdresseA": "دوار تانسيخت",
+    "COMMUNE": "Tamezmoute",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAMAZMOUTE",
+    "NOM_ETABA": "م.م تمزموط",
+    "AdresseL": "TAMAZMOUTE CENTRE",
+    "AdresseA": "تمزموط المركز",
+    "COMMUNE": "Tamezmoute",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TANSSIKHTE ",
+    "NOM_ETABA": "م.م تانسيخت ",
+    "AdresseL": "TANSSIKHTE CR TAMAZMOUTE",
+    "AdresseA": "تانسيخت",
+    "COMMUNE": "Tamezmoute",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABERNOUSS",
+    "NOM_ETABA": "م.م أبرنوص",
+    "AdresseL": "DOUAR ABERNOUSS CTAMEZMOUTE",
+    "AdresseA": "أبرنوص",
+    "COMMUNE": "Tamezmoute",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL JAHID",
+    "NOM_ETABA": "الثانوية التأهيلية الجاحظ",
+    "AdresseL": "TAMEZMOUTE",
+    "AdresseA": "تمزموط",
+    "COMMUNE": "Tamezmoute",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

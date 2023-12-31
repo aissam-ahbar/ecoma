@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Abdelkarim  EL KHETTABI",
+    "NOM_ETABA": "ثانوية عبد الكريم الخطابي الإعدادية",
+    "AdresseL": "commune kasr lmajaz DHAR ELKHAROUB",
+    "AdresseA": "جماعة القصر المجاز، دهار الخروب",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Province: Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL HAOUMA",
+    "NOM_ETABA": "م/م الحومة الابتدائية",
+    "AdresseL": "DOUAR AL HAOUMA CKSAR AL MAJAZ ",
+    "AdresseA": "دوار الحومة جماعة قصر المجاز",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KETAMA",
+    "NOM_ETABA": "م/م كتامة الابتدائية",
+    "AdresseL": "DOUAR KETAMA CKSAR AL MAJAZE",
+    "AdresseA": "دوار كتامة,قصر المجاز",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DOUKCHIR",
+    "NOM_ETABA": "م/م دوقشير الابتدائية",
+    "AdresseL": "DOUAR DOUKCHIR C KaSR AL MAJAZE",
+    "AdresseA": "دوار دوقشير جماعة  قصر المجاز",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DHAR LKHARROUBE",
+    "NOM_ETABA": "م/م دهار الخروب الابتدائية",
+    "AdresseL": "DOUAR DHAR lkharroube C kasr lmajaz",
+    "AdresseA": "دوار دهار الخروب ، جماعة قصر المجاز",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KASR AL MAJAZ",
+    "NOM_ETABA": "م/م قصر المجاز الابتدائية",
+    "AdresseL": "CENTRE KSAR SGHIR KSAR AL MAJAZE ",
+    "AdresseA": "مركز القصر الصغير جماعة قصر المجاز لإقليم الفحص أن",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUABAD SOUFLI",
+    "NOM_ETABA": "م/م بوعباد السفلى الابتدائية",
+    "AdresseL": "DOUAR BOUaBAD C KSAR EL MAJAZ",
+    "AdresseA": "دوار بوعباد ، جماعة قصر المجاز",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecolee el-kaser",
+    "NOM_ETABA": "مدرسة القصر الخصوصية",
+    "AdresseL": "TARIK AL MINAE KASER ELMAJAZ",
+    "AdresseA": "طريق الميناء جماعة قصر المجاز",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecolee Essalam",
+    "NOM_ETABA": "مدرسة السلام الخصوصية",
+    "AdresseL": "Route de Sebta, Km 4, Oued Ghl",
+    "AdresseA": " طريق سبتة، كلم 4، واد غلالة، ",
+    "COMMUNE": "Ksar El Majaz",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

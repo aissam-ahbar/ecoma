@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "ALMANSOUR ADDAHBI",
+    "NOM_ETABA": "المنصور الدهبي",
+    "AdresseL": "AMELLAL FERKLA ELOULIA",
+    "AdresseA": "املال فركلة العليا",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL OUAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "FERKLA ELOULIA GOULMIMA",
+    "AdresseA": "فركلة العليا كلمبمة",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU BATOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "KSAR SIDI YAHIA FERKLA EL oulia",
+    "AdresseA": "قصر سيدي يحيى",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMANE DAKHIL",
+    "NOM_ETABA": "عبد الرحمان الداخل",
+    "AdresseL": "ASRIR NUMERO TINJDAD FERKLA ELOULIA",
+    "AdresseA": "اسرير النمرو تنجداد فركلة العليا",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSATE",
+    "NOM_ETABA": "السات",
+    "AdresseL": "KSAR ESSATE FERKLA ELOULIA",
+    "AdresseA": "قصر السات فركلة العليا",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KHORBATE",
+    "NOM_ETABA": "الخربات",
+    "AdresseL": "KSAR EL KHORBATE FERKLA ELOULIA",
+    "AdresseA": "قصر الخربات فركلة العليا",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BOUR",
+    "NOM_ETABA": "البور",
+    "AdresseL": "KSAR EL BOUR FERKLA ELOULIA",
+    "AdresseA": "البور1  تنجداد",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZAG NOUCHNE",
+    "NOM_ETABA": "ازاك نووشن",
+    "AdresseL": "KSAR AZAG NOUCHENE FERKLA ELOULIA",
+    "AdresseA": "ازاك نووشن        تنجداد",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA BNOU NOUSSAIR",
+    "NOM_ETABA": "موسى بن نصير",
+    "AdresseL": "KSRA AMELLAL FERKLA ELOULIA",
+    "AdresseA": "قصر املال فركلة العليا",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IHANDAR",
+    "NOM_ETABA": "احندار",
+    "AdresseL": "KSAR IHANDAR FERKLA ELOULIA",
+    "AdresseA": "قصر احندار فركلة العليا",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGHYA",
+    "NOM_ETABA": "تاغيا",
+    "AdresseL": "KSAR TAGHYA FERKLA ELOULIA",
+    "AdresseA": "تاغيا فركلة العليا",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASRIR",
+    "NOM_ETABA": "اسرير",
+    "AdresseL": "KSAR ASRIR FERKLA ELOULIA",
+    "AdresseA": "قصر اسرير فركلة العليا",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIT AASM",
+    "NOM_ETABA": "ثانوية أيت عاصم التأهيلية",
+    "AdresseL": "Ksar Ait Aasm Ferkla el oulia ",
+    "AdresseA": " قصر ايت عاصم فركلة العليا ",
+    "COMMUNE": "Ferkla El Oulia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

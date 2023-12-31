@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": " COLLEGE BNI HADIFA",
+    "NOM_ETABA": "إعدادية بني حذيفة",
+    "AdresseL": "CENTRE BNI HADIFA  COMMUNE BNI HADIFA",
+    "AdresseA": "مركز بني حذيفة جماعة بني حذيفة",
+    "COMMUNE": "Bni Hadifa",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BNI HADIFA",
+    "NOM_ETABA": "م/م بني حديفة",
+    "AdresseL": "ROUTE PRINCIPALE N9 COMMUNE BNI HADIFA",
+    "AdresseA": "الطريق الرئيسة رقم 9 جماعة بني حديفة",
+    "COMMUNE": "Bni Hadifa",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMARKALTE",
+    "NOM_ETABA": "تمركالت",
+    "AdresseL": "DOUAR TAMARKALATE COMMUNE BNI HADIFA",
+    "AdresseA": "دوارتمركالت جماعة بني حديفة",
+    "COMMUNE": "Bni Hadifa",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IHAROUNEN 1",
+    "NOM_ETABA": "اهارونن 1",
+    "AdresseL": "DOUAR IHAROUNEN  COMMUNE BANI HADIFA",
+    "AdresseA": "دواراهارونن  جماعة بني حديفة",
+    "COMMUNE": "Bni Hadifa",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MADRASSATCOM bni hadifa",
+    "NOM_ETABA": "مدرسة.كم-بني حذيفة",
+    "AdresseL": "centre bni hdifa",
+    "AdresseA": "مركز بني حذيفة",
+    "COMMUNE": "Bni Hadifa",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED AMEZIANE",
+    "NOM_ETABA": "ثانوية الشريف محمد أمزيان التأهيلية",
+    "AdresseL": "CENTRE BeNI HADIFA",
+    "AdresseA": "مركز بني حذيفة",
+    "COMMUNE": "Bni Hadifa",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

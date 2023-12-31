@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LABRARHA CENTRE",
+    "NOM_ETABA": "البرارحة المركز",
+    "AdresseL": "COMMUNE BRARHA COMMUNE BRARHA",
+    "AdresseA": "دوار العمارنة المركز جماعة البرارحة",
+    "COMMUNE": "Brarha",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NBABLA CENTRE",
+    "NOM_ETABA": "النبابلة المركز",
+    "AdresseL": "DOUAR NBABLA COMMUNE BRARHA",
+    "AdresseA": "دوار  النبابلة جماعة البرارحة     ",
+    "COMMUNE": "Brarha",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI M HAMED CENTRE",
+    "NOM_ETABA": "بني امحمد المركز",
+    "AdresseL": "COMMUNE BRARHA",
+    "AdresseA": "دوار  بني امحمد المركز جماعة البرارحة",
+    "COMMUNE": "Brarha",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

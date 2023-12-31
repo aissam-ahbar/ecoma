@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL BOUAROUSS",
+    "NOM_ETABA": "ثانوية  بوعروس الإعدادية",
+    "AdresseL": "Commune Bouarouss Tissa",
+    "AdresseA": "جماعة بوعروس تيسة",
+    "COMMUNE": "Bouarouss",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULAD ALI",
+    "NOM_ETABA": "م/م  اولاد علي",
+    "AdresseL": "DOUAR SIDI SAID COMMUNE BOUAROUSS TISSA",
+    "AdresseA": "دوار سيدي سعيد   -جماعة بوعروس-   تيسة",
+    "COMMUNE": "Bouarouss",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUAROUSS",
+    "NOM_ETABA": " م/م بوعروس",
+    "AdresseL": "COMMUNE BOUAROUSS CENTRE TISSA",
+    "AdresseA": "    -مركزية م/م بوعروس جماعة بوعروس-   تيسة",
+    "COMMUNE": "Bouarouss",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL KHYAYTA",
+    "NOM_ETABA": "م/م الخيايطة",
+    "AdresseL": "DOUAR EL KHYAYTA COMMUNE BOUAROUSS TISSA",
+    "AdresseA": "دوار الخيايطة   -جماعة بوعروس-   تيسة",
+    "COMMUNE": "Bouarouss",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN MARCHOUCH",
+    "NOM_ETABA": "م/م عين مرشوش",
+    "AdresseL": "DOUAR AIN MARCHOUCH COMMUNE BOOAROUS  TISSA",
+    "AdresseA": "دوارعين مرموش    -جماعة بوعروس-   تيسة",
+    "COMMUNE": "Bouarouss",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

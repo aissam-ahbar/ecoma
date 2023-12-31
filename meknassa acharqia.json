@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "BIR ANZARANE CENTRE",
+    "NOM_ETABA": "بئر انزران المركز",
+    "AdresseL": "COMMUNE MAKNASSA ACHARQIA",
+    "AdresseA": "جماعة مكناسة الشرقية",
+    "COMMUNE": "Meknassa Acharqia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUKELLAL CENTRE",
+    "NOM_ETABA": "بوقلال المركز",
+    "AdresseL": "COMMUNE MAKNASSA ACHARQIA",
+    "AdresseA": " بوقلال المركز  جماعة مكناسة الشرقية",
+    "COMMUNE": "Meknassa Acharqia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAATAMNA CENTRE",
+    "NOM_ETABA": "العثامنة المركز",
+    "AdresseL": "COMMUNE MAKNASSA ACHARQIA",
+    "AdresseA": "دوار  العثامنة ا جماعة مكناسة الشرقية",
+    "COMMUNE": "Meknassa Acharqia",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

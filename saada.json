@@ -1,0 +1,282 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ESSAADA",
+    "NOM_ETABA": "الثانوية الاعدادية السعادة",
+    "AdresseL": "COMUNE SAADA LAMRABTINE",
+    "AdresseA": "جماعة اسعادة لمرابطين",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL AFAK",
+    "NOM_ETABA": "الثانوية الإعدادية الآفاق",
+    "AdresseL": "OULED BA  SAADA",
+    "AdresseA": "أولاد با سعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED ABED ALJABRI",
+    "NOM_ETABA": "الثانوية الإعدادية  محمد عابد الجابري",
+    "AdresseL": "LOTISSEMENT DAR ESSALAM",
+    "AdresseA": "تجزئة دار السلام",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ESSAADIYINE",
+    "NOM_ETABA": "الثانوية الإعدادية السعديين",
+    "AdresseL": "DOUAR JNANE DRAOUI CR SAADA",
+    "AdresseA": "دوار جنان الضراوي جماعة سعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MHAMID 10",
+    "NOM_ETABA": "الثانوية الإعدادية المحاميد 10",
+    "AdresseL": "MHAMID 10",
+    "AdresseA": "المحاميد 10",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE DAR ESSOULTAN",
+    "NOM_ETABA": "مدرسة دار السلطان",
+    "AdresseL": "DAR ESSOULTAN ",
+    "AdresseA": "دار السلطان ",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss JAMAA centrale",
+    "NOM_ETABA": "مجموعة مدارس الجامع المركزية",
+    "AdresseL": "DOUAR JAMAA  C SAADA",
+    "AdresseA": "دوار الجامع ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole BNI IICH",
+    "NOM_ETABA": " مدرسة بن إعيش",
+    "AdresseL": "DOUAR BNI IICH C SAADA",
+    "AdresseA": "دوار بن إعيش ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole LAMRABTINE ",
+    "NOM_ETABA": " مدرسة المرابطين",
+    "AdresseL": "DOUAR EL BAAJA  CSAADA",
+    "AdresseA": "دوار البعجة ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI BEN YAAGOUB",
+    "NOM_ETABA": "مدرسة سيدي بنيعكوب",
+    "AdresseL": " DR SIDI BEN YAGHOUB SAADA MARRAKECH",
+    "AdresseA": "دوار سيدي بنيعكوب جماعة سعادة مراكش",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole BOUSHAB",
+    "NOM_ETABA": " مدرسة بوسحاب",
+    "AdresseL": "DOUAR BOUSHAB lmrabtine CSAADA",
+    "AdresseA": "دواربوسحاب لمرابطين ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss SAADA centrale",
+    "NOM_ETABA": "مجموعة مدارس اسعادة المركزية",
+    "AdresseL": "DOUAR BROUK SAADA",
+    "AdresseA": "دوار بروك ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss BEN ALLAL centrale",
+    "NOM_ETABA": " مجموعة مدارس بن علال المركزية",
+    "AdresseL": "DOUAR BEN ALLAL CSAADA",
+    "AdresseA": "دوار بن علال ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss EL BACHA centrale",
+    "NOM_ETABA": "مجموعة مدارس الباشا المركزية",
+    "AdresseL": "DOUAR EL BACHA CSAADA",
+    "AdresseA": "دوار الباشا ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss ABI MOUSSA ALACHAARI centrale",
+    "NOM_ETABA": "مجموعة مدارس أبي موسى الأشعري المركزية",
+    "AdresseL": "DOUARMOULAY EL YAZID CSAADA",
+    "AdresseA": "دوار مولاي اليزيد ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss IBN AL ATIR centrale",
+    "NOM_ETABA": "مجموعة مدارس ابن الأثير المركزية",
+    "AdresseL": "douar hmar c saada",
+    "AdresseA": "دوار احمر ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL BASSATINE OULAD BA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس  البساتين أولاد ابا مركزية",
+    "AdresseL": "DOUAR OULED BA CSAADA",
+    "AdresseA": "دوار أولاد ابا ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss TAZAKOURTE centrale",
+    "NOM_ETABA": "مجموعة مدارس تازاكورت المركزية",
+    "AdresseL": "DOUAR TAZAKOURTE CSAADA",
+    "AdresseA": "دوار تازاكورت ج اسعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RIAD ZITOUNE",
+    "NOM_ETABA": "مدرسة رياض الزيتون",
+    "AdresseL": "quartier afaq",
+    "AdresseA": "حي الآفاق",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL KAOUTHAR",
+    "NOM_ETABA": "مدرسة الكوثر",
+    "AdresseL": "Hay al afak cr Saada",
+    "AdresseA": "حي الآفاق ج.ق سعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL IKHLASSE",
+    "NOM_ETABA": "مدرسة الإخلاص",
+    "AdresseL": "MHAMID 10 lbahja",
+    "AdresseA": "محاميد 10",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE DAR ESSALAM",
+    "NOM_ETABA": "مدرسة دار السلام",
+    "AdresseL": "LOTISSEMENT DAR ESSALAM",
+    "AdresseA": "تجزئة دار السلام",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU AL HAYTHAM",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الهيثم",
+    "AdresseL": "SAADA",
+    "AdresseA": "السعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL GUEROUANI ENS.PRESCOLAIR",
+    "NOM_ETABA": "مؤسسة الكرواني للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "الآفاق 1 رقم 283 جماعة سعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RIAD SALAM POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة رياض السلام للتعليم المدرسي الخصوصي",
+    "AdresseL": "lotissement dar salam N 245 c.",
+    "AdresseA": "تجزئة دار السلام الشطر الاول 2",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CHOJAR ENS preSCO",
+    "NOM_ETABA": "مؤسسة شجار للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "آفاق 1 رقم 357 جماعة سعادة مرا",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT al guerraoui ENS preSCO",
+    "NOM_ETABA": "مؤسسة الكرواني للتعليم الاولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "الآفاق 1 رقم 283 السعادة",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT tissafi ENS SCO",
+    "NOM_ETABA": "مؤسسة تيسافي للتعليم المدرسي الخصوصي",
+    "AdresseL": "douar jamaa",
+    "AdresseA": "دوار الجامع",
+    "COMMUNE": "Saada",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

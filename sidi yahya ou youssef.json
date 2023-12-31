@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S/S AIT HNINI",
+    "NOM_ETABA": "م/م ايت حنيني",
+    "AdresseL": "DOUAR AIT HNINI COMMUNE SIDI YAHYA OU youssef",
+    "AdresseA": "دوار ايت حنيني جماعة سيدي يحيي ويوسف   ",
+    "COMMUNE": "Sidi Yahya Ou Youssef",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI YAHIA OU YOUSSEF",
+    "NOM_ETABA": "سيدي يحيى ويوسف",
+    "AdresseL": "SIDI YAHIA OU YOUSSEF CENTRE",
+    "AdresseA": " قصر الزاوية . جماعة سيدي يحيى ابوسف",
+    "COMMUNE": "Sidi Yahya Ou Youssef",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUADIL",
+    "NOM_ETABA": "بواضيل",
+    "AdresseL": "DOUAR BOUADIL COMMUNE SIDI YAHIA OU YOUSSEF",
+    "AdresseA": "دوار بواضيل جماعة سيدي يحيى ويوسف",
+    "COMMUNE": "Sidi Yahya Ou Youssef",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

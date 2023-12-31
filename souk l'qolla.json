@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE ALKOLLA",
+    "NOM_ETABA": "الثانوية الإعدادية القلة ",
+    "AdresseL": "commune kolla",
+    "AdresseA": "جماعة سوق  القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ELKOURTOBI CENTRE",
+    "NOM_ETABA": "م/م القرطبي المركزية ",
+    "AdresseL": "KOLLA CENTRE COMMUNE SOUK L QOLLA",
+    "AdresseA": "القلة المركز جماعة القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZROUT EL KOLLA CENTRE",
+    "NOM_ETABA": "م/م تزروت  -القلة- المركزية",
+    "AdresseL": "MADCHAR TAZROUTE BNI ZEKKAR COMMUNE SOUK L QOLLA",
+    "AdresseA": "مدشر تزروت بني زكار، جماعة سوق القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAFOHAR CENTRE ",
+    "NOM_ETABA": "م/م صفهارالمركزية ",
+    "AdresseL": "DOUAR SAFOHAR COMMUNE L QOLLA",
+    "AdresseA": "دوار صفهار جماعة القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMGADI BNI YASSEF CENTRE",
+    "NOM_ETABA": "أمكادي بني يسف المركزية ",
+    "AdresseL": "DOUAR AMGADI BNI YESSEF COMMUNE SOUK LQOLLA",
+    "AdresseA": "دوار أمكادي بني يسف جماعة القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUNSSAR BNI ABDALLAH CENTRE",
+    "NOM_ETABA": "م/م عنصر بن عبد الله المركزية ",
+    "AdresseL": "DOUAR OUNSSAR BNI ABDALLAH COMMUNE L QOLLA",
+    "AdresseA": "دوار عنصر بني عبد الله جماعة القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMEZOIK CENTRE ",
+    "NOM_ETABA": "م/م أمزواق المركزية",
+    "AdresseL": "DOUAR AMEZOUAK COMMUNE L QOLLA",
+    "AdresseA": "دوار أمزواق جماعة القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUNSSAR EL HAJ  CENTRE ",
+    "NOM_ETABA": "م/م عنصر الحاج المركزية",
+    "AdresseL": "DOUAR OUNSSAR EL HAJ COMMUNE L QOLLA",
+    "AdresseA": "دوار عنصر الحاج جماعة القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAF  CENTRE ",
+    "NOM_ETABA": "م/م الصف المركزية ",
+    "AdresseL": "DOUAR ESSAF COMMUNE L QOLLA",
+    "AdresseA": "دوار الصف الحدادين جماعة سوق القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ANASSEL HADDADINE CENTRE",
+    "NOM_ETABA": " أناسيل حدادين",
+    "AdresseL": "DOUAR ANASSEL HADDADINE COMMUNE SOUK L QOLLA",
+    "AdresseA": "دوار أنسل حدادين جماعة سوق القلة",
+    "COMMUNE": "Souk L'Qolla",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 11 JANVIER",
+    "NOM_ETABA": "الثانوية الإعدادية 11 يناير",
+    "AdresseL": "SIDI BOUSBER CENTRE  COMMUNE SIDI BOUSBER",
+    "AdresseA": "سيدي بوصبر",
+    "COMMUNE": "Sidi Bousber",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS Al-Khwarizmi",
+    "NOM_ETABA": "مجموعة مدارس الخوارزمي",
+    "AdresseL": "CENTRE  SIDI BOUSBER",
+    "AdresseA": "مركز سيدي بوصبر",
+    "COMMUNE": "Sidi Bousber",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Tariq ibn Ziyad",
+    "NOM_ETABA": "مجموعة مدارس طارق بن زياد",
+    "AdresseL": "DOUAR MAHLIL COMMUNE SIDI BOUSBER",
+    "AdresseA": "دوار محليل - جماعة سيدي بوصبر",
+    "COMMUNE": "Sidi Bousber",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI SOUFI",
+    "NOM_ETABA": "م م سيدي الصوفي",
+    "AdresseL": "DOUAR SIDI SOUFI COMMUNE SIDI BOUSBER",
+    "AdresseA": "دوار سيدي الصوفي جماعة سيدي بوصبر",
+    "COMMUNE": "Sidi Bousber",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI BOUSBER",
+    "NOM_ETABA": "الثانوية التاهيلية سيدي بوصبر",
+    "AdresseL": "sidi bousber",
+    "AdresseA": "سيدي بوصبر",
+    "COMMUNE": "Sidi Bousber",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

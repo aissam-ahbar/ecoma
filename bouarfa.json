@@ -1,0 +1,172 @@
+[
+  {
+    "NOM_ETABL": "TIFARITI",
+    "NOM_ETABA": "تفاريتي",
+    "AdresseL": "RUE SIDI HARAZEM",
+    "AdresseA": "شارع سيدي حرازم",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL-FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "BD HASSAN II BOUARFA",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN TACHFINE",
+    "NOM_ETABA": "ابن تاشفين",
+    "AdresseL": "AVENUE HASSAN II",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAMMAN EL FATOUAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "RUE SIDI KACEM HAY TOBA BOUARFA",
+    "AdresseA": "شارع سيدي قاسم حي الطوبة",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "RUE DE RABAT HAY ELWAHDA BOUARFA",
+    "AdresseA": "زنقة الرباط حي الوحدة",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZZELLAKA",
+    "NOM_ETABA": "الزلاقة",
+    "AdresseL": "AVENUE PRINCE MOULAY RACHID CITE ADMINISTRATIVE",
+    "AdresseA": "شارع الأمير مولاي رشيد الحي الإداري",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "20 AOUT",
+    "NOM_ETABA": "20 غشت",
+    "AdresseL": "QUARTIER AL MAGHRIB AL ARABI",
+    "AdresseA": "حي المغرب العربي",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "AVENUE LA MARCHE VERTE BOUARFA",
+    "AdresseA": "شارع المسيرة الخضراء",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZERKTOUNI",
+    "NOM_ETABA": "الزرقطوني",
+    "AdresseL": "RUE ESSALAM",
+    "AdresseA": "زنقة السلام",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHIKH ZAID",
+    "NOM_ETABA": "الشيخ زايد",
+    "AdresseL": "HAY EL IMARAT",
+    "AdresseA": "حي الإمارات",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  GUERGUERAT ",
+    "NOM_ETABA": "مدرسة الكركرات الابتدائية",
+    "AdresseL": "quartier ABOU DHABI",
+    "AdresseA": "حي أبو ظبي",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE MOHAMMED ABED EL JABERI ",
+    "NOM_ETABA": "ثانوية محمد عابد الجابري التقنية",
+    "AdresseL": "HEY EZZELAKA BOUARFA",
+    "AdresseA": "حي الزلاقة بوعرفة",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "KADI AYAD",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "AVENUE  MOHAMMED VI",
+    "AdresseA": "شارع محمد السادس",
+    "COMMUNE": "Bouarfa",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "etablissement al maarifa",
+    "NOM_ETABA": "مؤسسة المعرفة",
+    "AdresseL": "route  errachidia",
+    "AdresseA": "طريق الراشيدية ",
+    "COMMUNE": "Bouarfa ",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sindibad",
+    "NOM_ETABA": "السندباد",
+    "AdresseL": "Lotissement Ettadamoune",
+    "AdresseA": "تجزئة التضامن",
+    "COMMUNE": "Bouarfa ",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Jadid Attarbaoui",
+    "NOM_ETABA": "الجديدي التربوي",
+    "AdresseL": "N° 19, Rue Errachidia - C.U. B",
+    "AdresseA": "رقم 19، زنقة الراشيدية - ج. ح.",
+    "COMMUNE": "Bouarfa ",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SCOLAIRE JOMANA",
+    "NOM_ETABA": "مؤسسة جمانة للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة الشطر الأول رقم 87 ",
+    "COMMUNE": "Bouarfa ",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

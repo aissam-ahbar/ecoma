@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial BOUFEKRANE",
+    "NOM_ETABA": "الثانوية الإعدادية  بوفكران",
+    "AdresseL": "boufekrane",
+    "AdresseA": "بوفكران",
+    "COMMUNE": "Boufakrane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HOUMANE F TWAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "BOUFKRANE COMMUNE BOUFKRANE",
+    "AdresseA": "بوفكران",
+    "COMMUNE": "Boufakrane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZIRI BEN AATIA",
+    "NOM_ETABA": "زيري بن عطية",
+    "AdresseL": "BOUFKRANE COMMUNE BOUFKRANE",
+    "AdresseA": "مدرسة زيري بن عطية بوفكران",
+    "COMMUNE": "Boufakrane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBRAHIM ROUDANI",
+    "NOM_ETABA": "ابراهيم الروداني",
+    "AdresseL": "BOUFEKRANE COMMUNE BOUFEKRANE",
+    "AdresseA": " جماعة بوفكران",
+    "COMMUNE": "Boufakrane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant MALIKA EL FASSI",
+    "NOM_ETABA": "الثانوية التأهيلية مالكة الفاسي",
+    "AdresseL": "BOUFKRANE COMMUNE BOUFKRANE",
+    "AdresseA": "بوفكران",
+    "COMMUNE": "Boufakrane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire al inaya",
+    "NOM_ETABA": "مجموعة مدارس العناية",
+    "AdresseL": "Lotissement Albaraka n) 48",
+    "AdresseA": "تجزئة البركة رقم 48",
+    "COMMUNE": "Boufakrane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ajial boufekrane",
+    "NOM_ETABA": "أجيال بوفكران",
+    "AdresseL": "lot.  el menzeh 3 boufekrane",
+    "AdresseA": "تجزئة المنزه 3 بوفكران",
+    "COMMUNE": "Boufakrane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RISALAT AL ABRAR",
+    "NOM_ETABA": "رسالة الأبرار",
+    "AdresseL": "lot el menezeh 2 n°39 boufekra",
+    "AdresseA": "تجزئة المنزه 2 رقم 39 بوفكران",
+    "COMMUNE": "Boufakrane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROSN ZAYTOUN",
+    "NOM_ETABA": "غصن الزيتون",
+    "AdresseL": "Rue prince My Rachid N° 39HAY ",
+    "AdresseA": "شارع الأمير موللي رشيد  رقم 39",
+    "COMMUNE": "Boufakrane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Amani",
+    "NOM_ETABA": "الأماني",
+    "AdresseL": "Lotissement El manzeh 2, N° 38",
+    "AdresseA": "تجزئة المنزه 2، رقم 389 - بوفك",
+    "COMMUNE": "Boufakrane ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LE GRAND ATLAS",
+    "NOM_ETABA": "الثانوية الإعدادية الأطلس الكبير",
+    "AdresseL": "ASNI CENTRE",
+    "AdresseA": "مركز اسني",
+    "COMMUNE": "Asni",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ASNI",
+    "NOM_ETABA": "اسني",
+    "AdresseL": "CENTRE ASNI COMMUNE ASNI",
+    "AdresseA": "مركز اسني جماعة اسني",
+    "COMMUNE": "Asni",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE IMLIL",
+    "NOM_ETABA": "مركزية امليل",
+    "AdresseL": "DOUAR IMLIL COMMUNE ASNI",
+    "AdresseA": "دوار امليل جماعة اسني",
+    "COMMUNE": "Asni",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMESKAR",
+    "NOM_ETABA": "امسكر",
+    "AdresseL": "DOUAR AMESKAR COMMUNE ASNI",
+    "AdresseA": "دوار امسكر جماعة اسني",
+    "COMMUNE": "Asni",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUANSKRA",
+    "NOM_ETABA": "وانسكرا",
+    "AdresseL": "DOUAR OUANSKRA COMMUNE ASNI",
+    "AdresseA": "دوار واتسكرا جماعة اسني",
+    "COMMUNE": "Asni",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "WAOUISSAFTE",
+    "NOM_ETABA": "واوسفت",
+    "AdresseL": "DOUAR WAOUISAFT COMMUNE ASNI",
+    "AdresseA": "دوار واوسفت جماعة اسني",
+    "COMMUNE": "Asni",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI FARS",
+    "NOM_ETABA": "سيدي فارس",
+    "AdresseL": "DOUAR SIDI FARS COMMUNE ASNI",
+    "AdresseA": "دوار سيدي فارس جماعة اسني",
+    "COMMUNE": "Asni",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  ASNI",
+    "NOM_ETABA": "الثانوية التأهيلية أسنــي",
+    "AdresseL": "ASNI",
+    "AdresseA": "أسنــي",
+    "COMMUNE": "Asni",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

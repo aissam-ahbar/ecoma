@@ -1,0 +1,702 @@
+[
+  {
+    "NOM_ETABL": "LYCEE IBNOU HANBAL COLLEGIAL",
+    "NOM_ETABA": "ثانوية ابن حنبل الإعدادية",
+    "AdresseL": "quartier erramel Tarrast inezgane",
+    "AdresseA": "حي الرمل تراست إنزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE  JAMAL EDDINE AL AFGHANI COLLEGIAL",
+    "NOM_ETABA": "ثانوية جمال الدين الأفغاني الإعدادية",
+    "AdresseL": "HAY JORF INEZGANE",
+    "AdresseA": "حي الجرف",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AHMED EL MANSOUR DAHBI COLLEGIAL",
+    "NOM_ETABA": "ثانوية أحمد المنصور الذهبي الإعدادية",
+    "AdresseL": "RUE DES ECOLES INEZGANE",
+    "AdresseA": "شارع المدارس انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBN ZOHR COLLEGIAL",
+    "NOM_ETABA": "ثانوية ابن زهر الإعدادية",
+    "AdresseL": "RUE  DES ECOLES INEZGANE",
+    "AdresseA": "شارع المدارس انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE RAHAL BEN AHMED COLLEGIAL",
+    "NOM_ETABA": "ثانوية رحال بن احمد الإعدادية",
+    "AdresseL": "QUARTIER RMEL TARAST INEZGANE",
+    "AdresseA": "حي الرمل تراست انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE ATLAS COLLEGIAL",
+    "NOM_ETABA": "ثانوية الاطلس الإعدادية",
+    "AdresseL": "HAY JORF INEZGAN",
+    "AdresseA": "الجرف انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE ANNAJAH COLLEGIAL",
+    "NOM_ETABA": " ثانوية النجاح الإعدادية",
+    "AdresseL": "boulevard ibn toufail  rmel tarrast inezgane",
+    "AdresseA": "شارع ابن طفيل الرمل تراست انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBN TOUFAIL COLLEGIAL",
+    "NOM_ETABA": " ثانوية ابن طفيل الإعدادية",
+    "AdresseL": "HAY RMEL TARRAST INEZGANE",
+    "AdresseA": "حي الرمل  تراست انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ZELLAKA",
+    "NOM_ETABA": "مدرسة الزلاقة",
+    "AdresseL": "Avenue ibn battouta taraste inezgane ",
+    "AdresseA": "زنقة ابن بطوطة   تراست  انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOUSSA IBNOU NOUSSAIR",
+    "NOM_ETABA": "مدرسة  موسى بن نصير",
+    "AdresseL": "HAY HASSANI TAGHZOUT  INEZGANE",
+    "AdresseA": " الحي الحسني تغزوت انزكان ",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ELMOUAHIDINE",
+    "NOM_ETABA": "مدرسة الموحدين",
+    "AdresseL": "RUE DES ECOLES INEZGANE",
+    "AdresseA": "زنقة المدارس",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "مدرسة عمر بن عبد العزيز",
+    "AdresseL": "Av Hassan 1er",
+    "AdresseA": "شارع الحسن الأول",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL IRFANE",
+    "NOM_ETABA": "مدرسة العرفان",
+    "AdresseL": "CITE TARRASTE INEZGANE",
+    "AdresseA": "حي تراست",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALI BEN ABI TALEB",
+    "NOM_ETABA": "مدرسة علي بن أبي طالب",
+    "AdresseL": "CITE TARRASTE INEZGANE",
+    "AdresseA": "حي تراست",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUED EDDAHAB",
+    "NOM_ETABA": "مدرسة وادي الذهب",
+    "AdresseL": "CITE JORFE INEZGANE",
+    "AdresseA": "حي الجرف",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI HANIFA",
+    "NOM_ETABA": "مدرسة أبي حنيفة",
+    "AdresseL": "CITE JORFE INEZGANE",
+    "AdresseA": "حي الجرف",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL AMAOUYINE",
+    "NOM_ETABA": "مدرسة الأمويين",
+    "AdresseL": "CITE TARRASTE ",
+    "AdresseA": "حي تراست",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU HORAIRA",
+    "NOM_ETABA": "مدرسة ابي هريرة",
+    "AdresseL": "CITE JORFE INEZGANE",
+    "AdresseA": "حي الجرف",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANNOBOUGH",
+    "NOM_ETABA": "مدرسة النبوغ",
+    "AdresseL": "RUE 923 CITE TARRASTE INEZGANE",
+    "AdresseA": "زنقة 923 حي تراست ",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANNAKHIL",
+    "NOM_ETABA": "مدرسة النخيل",
+    "AdresseL": "CITE JORFE INEZGANE",
+    "AdresseA": "حي الجرف",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IDRISS 1ER",
+    "NOM_ETABA": "مدرسة إدريس الأول",
+    "AdresseL": "CITE TARRASTE INEZGANE",
+    "AdresseA": "حي تراست",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN KHALDOUNE",
+    "NOM_ETABA": "مدرسة ابن خلدون",
+    "AdresseL": "CITE TARRAST INEZGANE",
+    "AdresseA": "حي تراست",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELFALAH",
+    "NOM_ETABA": "مدرسة الفلاح",
+    "AdresseL": "avmyali chrif hmmam adrar tarrast",
+    "AdresseA": "شارع مولاي علي الشريف قرب حمام ادرار تراست/إنزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AFFAQ",
+    "NOM_ETABA": "مدرسة الآفاق",
+    "AdresseL": "HAY TARAST INEZGANE",
+    "AdresseA": "حي تراست إنزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BOUHTOURI",
+    "NOM_ETABA": "مدرسة البحتري",
+    "AdresseL": "HAY reml 2 TARRAST INEZGANE",
+    "AdresseA": "حي الرمل 2 تراست",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MAGHREB LAARABI",
+    "NOM_ETABA": "مدرسة المغرب العربي",
+    "AdresseL": "JORF INEZGANE",
+    "AdresseA": "حي الجرف",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL WAHDA",
+    "NOM_ETABA": "مدرسة الوحدة",
+    "AdresseL": "HAY TIMGRAD JORF INEZGANE",
+    "AdresseA": "حي تمكراض الجرف",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABDALLAH IBN YASSINE QUALIFIANT",
+    "NOM_ETABA": "ثانوية عبد الله بن ياسين التأهيلية",
+    "AdresseL": "RUE ECOLES   INEZGANE",
+    "AdresseA": "شارع المدارس انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ALHASSANE BEN MOHAMED EL KHYAT QUALIFIANT",
+    "NOM_ETABA": "ثانوية الحسن بن محمد الخياط التأهيلية",
+    "AdresseL": "cite des fonctionnaires inezgane",
+    "AdresseA": "حي الموظفين انزكان",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL MUTANABBI QUALIFIANT ",
+    "NOM_ETABA": "ثانوية المتنبي التأهيلية",
+    "AdresseL": "HAY TARRAST",
+    "AdresseA": "حي تراست",
+    "COMMUNE": "Inezgane",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "riad al wafaee",
+    "NOM_ETABA": "رياض الوفاء الخاصة",
+    "AdresseL": "av. al amaouiine rue 606 tarra",
+    "AdresseA": "شارع الامويين زنقة 606 تراست ا",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ETOILE DU SAVOIR",
+    "NOM_ETABA": "مؤسسة اطوال دي سفوار الخاصة",
+    "AdresseL": "PLACE DE LA VICTOIR N° 314 TAG",
+    "AdresseA": "ساحة النصر رقم 314 تغزوت انزكا",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "maahad al fawaed",
+    "NOM_ETABA": "معهد الفوائد",
+    "AdresseL": "rue bouzgar massdoura inezgane",
+    "AdresseA": "شارع بوزكار حي مسدورة",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "attaallouk",
+    "NOM_ETABA": "التــــــألق",
+    "AdresseL": "hay timghrad el jorf",
+    "AdresseA": "حي تمكراض الجرف",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arrassekh",
+    "NOM_ETABA": "الراسخ",
+    "AdresseL": "Ilot e 27 avenue principale rm",
+    "AdresseA": "حي الرمل الرقم : e46  تراست إن",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DEBONO SCOOL",
+    "NOM_ETABA": "ديبونو سكول الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة الحسن الوزاني رقم 10 الحي",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TIMITAR SChOOL",
+    "NOM_ETABA": "تيميتار سكول",
+    "AdresseL": "Rue sidi fedoul n 1021, tarras",
+    "AdresseA": "حي سيدي فضول، رقم 1021، تراست",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MERyeM",
+    "NOM_ETABA": "مريم",
+    "AdresseL": "darb lmohandiss rue 837 tarras",
+    "AdresseA": "درب الحاج المهندس زنقة 837 ترا",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KONOUZ ALMAARIFA",
+    "NOM_ETABA": "كنوز المعرفة",
+    "AdresseL": "taghzout1 rml2 tarrast",
+    "AdresseA": "تاغزوت 2 حي الرمل ",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES NOMBRES premiers",
+    "NOM_ETABA": "الاعداد الاولية",
+    "AdresseL": "Rue 142 N°6 Rmel 2 tarrast ine",
+    "AdresseA": "زنقة 142 رقم 6 الرمل 2 تراست ا",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la vallee dor",
+    "NOM_ETABA": "لا فالي دور",
+    "AdresseL": "cité 10 ramadan jorf.inezgane",
+    "AdresseA": "زنقة 10 رمضان الجرف.إنزكان",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fayçal school",
+    "NOM_ETABA": "فيصل سكوول",
+    "AdresseL": "lot rmal 2 n° 14 c3 inzegan",
+    "AdresseA": "حي الرمل 2 رقم 14 س3 إنزكان",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HANANE 3",
+    "NOM_ETABA": "الحنان 3",
+    "AdresseL": "cite taghzout ",
+    "AdresseA": "حي تاغزوت",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AAOUCH ASSIGHAR",
+    "NOM_ETABA": "عش الصغار",
+    "AdresseL": "Rue BAILLA  N°236  jORF",
+    "AdresseA": "زنقة بايلا رقم 236 الجرف",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT OMAR EL FAROUK",
+    "NOM_ETABA": "مؤسسة عمر الفاروق الخاصة",
+    "AdresseL": "N° 8, Place Assais - Inezgane ",
+    "AdresseA": "رقم 8، ساحة أسايس - انزكان",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JASSANI",
+    "NOM_ETABA": "مؤسسة جساني الخاصة",
+    "AdresseL": "N° 6, Rue Ait Atta, Hay Hassan",
+    "AdresseA": "رقم 6، زنقة أيت عطا، الحي الحس",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Quatre Saisons",
+    "NOM_ETABA": "الفصول الأربعة",
+    "AdresseL": "Hay RmEl N 156  - Inezgane",
+    "AdresseA": "حي الرمل رقم 156 إنزكان",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Petit Ange",
+    "NOM_ETABA": "الملاك الصغير",
+    "AdresseL": "AV Moulay ABDELLAH Cite Moulay",
+    "AdresseA": "شارع مولاي عبد الله، حي مولاي ",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT PREMIERS PAS ",
+    "NOM_ETABA": "مؤسسة الخطوات الأولى الخصوصية ",
+    "AdresseL": "65; QUARTIER RMEL 2, TARRASTE;",
+    "AdresseA": "رقم 65، حي الرمل 2، تراست، إنز",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADAE AL ATFAL",
+    "NOM_ETABA": "مؤسسة فضاء الأطفال الخصوصية",
+    "AdresseL": "RUE N°1019; QUARTIER AOUCHAH, ",
+    "AdresseA": "الزنقة رقم 1019، حي أوشاح، ترا",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAHD TOFOLA - PRESCO",
+    "NOM_ETABA": "مهد الطفولة للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 05، زنقة 662، حي بوزكار ال",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JARDINET D ENFANCE",
+    "NOM_ETABA": "بستان الطفولة الخصوصي ",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 10، زنقة 119، ساحة المقهى،",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL-BAHAAE",
+    "NOM_ETABA": "البهاء الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 08، تجزئة إجوكاك، حي النور",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SNABIL ALMAARIFA",
+    "NOM_ETABA": "سنابل المعرفة الخصوصية ",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 548، حي تراست، إنزكان",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LALA HABIBA",
+    "NOM_ETABA": "لالة حبيبة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 03، زنقة مصطفى المعاني، ال",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANZI PRESCOLAIRE",
+    "NOM_ETABA": "أنزي للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم35، ساخة السعديين، الحي الح",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WAHAT EL BARAEM PRESCOLAIRE",
+    "NOM_ETABA": "واحة البراعم للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "  رقم 155 ،بلوك 01، حي الجديد،",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMOSSLIM ASSAGHIR",
+    "NOM_ETABA": "مؤسسة المسلم الصغير الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "الحي الحسني،  زنقة سيدي الرباط",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAWI NOUHA",
+    "NOM_ETABA": "مؤسسة ذوي النهى الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تراست، شارع مولاي علي الشريف، ",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANADIL ALBACHIR",
+    "NOM_ETABA": "عنادل البشير الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 675، زنقة المصلى، حي الجرف",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOLTAKA ETTOFOULA",
+    "NOM_ETABA": "ملتقى الطفولة الخصوصي ",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 31، زنقة القرويين، الحي ال",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BADABOUM",
+    "NOM_ETABA": "بادابوم الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة ورززات، رقم 88، حي مولاي ",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ABAOUAINE ",
+    "NOM_ETABA": "مؤسسة الأبوين الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة ورززات، رقم 88، حي مولاي ",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANOUR 2 PRESCOLAIRE",
+    "NOM_ETABA": "النور 2 للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 568، رقم 04،تجزئة لكريني ",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIL AL FAWAID PRESCOLAIRE",
+    "NOM_ETABA": "جيل الفوائد للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 942، شارع علي وحمان، تراس",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIL AL FAWAID PRESCOLAIRE",
+    "NOM_ETABA": "جيل الفوائد للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 942، شارع علي وحمان، تراس",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KASR AL ATFAL ",
+    "NOM_ETABA": "قصر الأطفال الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 925، تراست، إنزكان",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " EL BARAKA",
+    "NOM_ETABA": "البركة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 10، زنقة 1016، حي إكر أوما",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOULTAKA TOFOULA",
+    "NOM_ETABA": "ملتقى الطفولة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "N° 31; RUE ELKARAOUIYINE; HAY ",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AYOUR",
+    "NOM_ETABA": "مؤسسة أيور الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 226، زنقة المصلى، الجرف إن",
+    "COMMUNE": "Inezgane ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

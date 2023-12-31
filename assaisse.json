@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS ELFARAHIDI",
+    "NOM_ETABA": "م.م الفراهيدي",
+    "AdresseL": "DOUAR   TAMNOT NOUFELLA  C ASSAISSE",
+    "AdresseA": "دوار تمنوط نوفلا جماعة أسايس",
+    "COMMUNE": "Assaisse",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIROUA",
+    "NOM_ETABA": "م.م سيروا",
+    "AdresseL": "DOUAR   AIT MAAROUF C ASSAISSE",
+    "AdresseA": "دوار أيت معروف جماعة أسايس",
+    "COMMUNE": "Assaisse",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMRO IBN ALAAS",
+    "NOM_ETABA": "م.م عمرو ابن العاص",
+    "AdresseL": "DOUAR   TINIDER  C ASSAISSE",
+    "AdresseA": "د. تنيدر",
+    "COMMUNE": "Assaisse",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

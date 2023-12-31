@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "SS BENI MALEK",
+    "NOM_ETABA": "م/م بني مالك",
+    "AdresseL": " DOUAR OULED KACEM   COM MALEK CENTRE",
+    "AdresseA": "دوار اولاد قاسم  ج/ بني مالك",
+    "COMMUNE": "Beni Malek",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " LBAABCHA",
+    "NOM_ETABA": "البعابشة",
+    "AdresseL": "DOUAR LABAABCHA    COM   BENI MALEK",
+    "AdresseA": "دوار البعابشة  ج/ نبي مالك",
+    "COMMUNE": "Beni Malek",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN TIHLI",
+    "NOM_ETABA": "عين تيهلي",
+    "AdresseL": "DOUAR  AIN TIHLI COM BENI MALEK",
+    "AdresseA": "دوار عين تيهلي  ج/ بني مالك",
+    "COMMUNE": "Beni Malek",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JBEL DAL",
+    "NOM_ETABA": "جبل الظل",
+    "AdresseL": "DOUAR JBEL DAL COMMUNE BNI MALEK",
+    "AdresseA": "دوار جبل الظل جماعة بني مالك",
+    "COMMUNE": "Beni Malek",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ZIARE",
+    "NOM_ETABA": "أولاد زيار",
+    "AdresseL": "DOUAR OULED ZIARE     COMMUNE BNI MALEK",
+    "AdresseA": "دوار  أولاد زيار جماعة بني مالك",
+    "COMMUNE": "Beni Malek",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED   ELMAJDOUB",
+    "NOM_ETABA": "أولاد المجذوب",
+    "AdresseL": "DOUAR OULED MAJDOUB COMMUNE BENI MALEK",
+    "AdresseA": "دوار أولاد المجذوب جماعة بني مالك",
+    "COMMUNE": "Beni Malek",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

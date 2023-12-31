@@ -1,0 +1,302 @@
+[
+  {
+    "NOM_ETABL": "SIDI ABID COLLEGE",
+    "NOM_ETABA": "إعدادية سيدي عابد",
+    "AdresseL": "AVENUE RHAMNA 45 AL HOCEIMA",
+    "AdresseA": "شارع الرحامنة 45  الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "NOUVEAU COLLEGE",
+    "NOM_ETABA": "الإعدادية الجديدة",
+    "AdresseL": "AVENUE BIR ANZARAN AL HOCEIMA",
+    "AdresseA": "شارع بئر انزران  الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OMAR IBN ALKHATTAB (COLLEGE)",
+    "NOM_ETABA": "إعدادية عمر ابن الخطاب",
+    "AdresseL": "AVENUE DAKHLA hay almadariss AL HOCEIMA",
+    "AdresseA": "شارع الداخلة حي المدارس  الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE ANOUAL",
+    "NOM_ETABA": "إعدادية انوال",
+    "AdresseL": "hay mirador haut",
+    "AdresseA": "حي ميرادور الأعلى",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TIGHANIMINE",
+    "NOM_ETABA": "الثانوية الإعدادية تغانمين",
+    "AdresseL": "tighanimine quartier ",
+    "AdresseA": "حي تغانمين",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE IGRE AZGUAGH",
+    "NOM_ETABA": "الثانوية الاعدادية إكرازوكاغ",
+    "AdresseL": "MUNICIPALE ALHOCEIMA",
+    "AdresseA": "بلدية الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOHAMED V",
+    "NOM_ETABA": "محمد الخامس",
+    "AdresseL": "32rue mohamed hassan el ouazzani",
+    "AdresseA": "32شارع محمد الحسن الوزاني",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALI BEN HASSOUN",
+    "NOM_ETABA": "علي بن حسون",
+    "AdresseL": "AV 9JUILLET AL HOCEIMA",
+    "AdresseA": "شارع 9 يوليوز",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELAZIZ EL OUARIAGHLI",
+    "NOM_ETABA": "عبد العزيز الورياغلي",
+    "AdresseL": "RUE DAKHLA AL HOCEIMA",
+    "AdresseA": "زنقة الداخلة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA ZOHRA",
+    "NOM_ETABA": "فاطمة الزهراء",
+    "AdresseL": "AV ESSAOUIRA AL HOCEIMA",
+    "AdresseA": "شارع الصويرة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL HAY EL JADID",
+    "NOM_ETABA": "الحي الجديد",
+    "AdresseL": "AV HASSAN II AL HOCEIMA",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIGHANIMINE",
+    "NOM_ETABA": "تيغانيمين",
+    "AdresseL": " TIGHANIMINE AL HOCEIMA",
+    "AdresseA": "حي تيغانمين ",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MASSIRAT FATH",
+    "NOM_ETABA": "مسيرة فتح",
+    "AdresseL": "AV ABBAS SAADI AL HOCEIMA",
+    "AdresseA": "شارع عباس السعدي",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH BEN YASSINE",
+    "NOM_ETABA": "عبد الله بن ياسين",
+    "AdresseL": " rue ouhrane HAY MARMOUCHA ",
+    "AdresseA": "شارع وهران حي مرموشة ",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY RACHID",
+    "NOM_ETABA": "مولاي رشيد",
+    "AdresseL": "AV ALMAHBES AL HOCEIMA",
+    "AdresseA": "شارع انوال",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "PLACE MELILIA AL HOCEIMA",
+    "AdresseA": "ساحة مليلية",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHATIE EL JAMIL",
+    "NOM_ETABA": "الشاطيء الجميل",
+    "AdresseL": "HAY CHATAIE ALJAMIL AL HOCEIMA",
+    "AdresseA": "حي الشاطيء الجميل",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU EL KHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "HAY SIDI ABED AL HOCEIMA",
+    "AdresseA": "حي سيدي عابد",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HOMMAN EL FATOUAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "HAY MIRADOR BAS  AL HOCEIMA",
+    "AdresseA": "حي ميرادور الأسفل   الحسيمة ",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EGURE AZOUGAR",
+    "NOM_ETABA": "مدرسة اكر ازوكاغ",
+    "AdresseL": "ALHOCEIMA",
+    "AdresseA": "الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI ABID",
+    "NOM_ETABA": "مدرسة سيدي عابد",
+    "AdresseL": "C/ MINADOUR HUAT ",
+    "AdresseA": "حي مينادور",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL KHOUZAMA",
+    "NOM_ETABA": "ثانوية الخزامى",
+    "AdresseL": "AL HOCEIMA",
+    "AdresseA": "الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOULAY ALI CHRIF ",
+    "NOM_ETABA": " ثانوية مولاي علي الشريف",
+    "AdresseL": "HAY MARMOUCHA AL HOCEIMA",
+    "AdresseA": "حي مرموشة الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL BADISSI ",
+    "NOM_ETABA": " ثانوية الباديسي",
+    "AdresseL": "AVENUE ANOUAL AL HOCEIMA",
+    "AdresseA": "شارع انوال  الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IMAM MALIK ",
+    "NOM_ETABA": "ثانوية الإمام مالك",
+    "AdresseL": "AVENUE TAREK BNOU ZIYAD AL HOCEIMA",
+    "AdresseA": "شارع طارق بن زياد الحسيمة",
+    "COMMUNE": "Al Hoceima",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "écoleS al irfane",
+    "NOM_ETABA": "مدارس العرفان",
+    "AdresseL": "hay calabonita",
+    "AdresseA": "حي كلابونيطا",
+    "COMMUNE": "Al Hoceima ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Al Walae",
+    "NOM_ETABA": "معهد الولاء",
+    "AdresseL": "Boulevard Tariq Ibnou Ziad - C",
+    "AdresseA": "شارع طارق بن زياد رقم 119- الح",
+    "COMMUNE": "Al Hoceima ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DISNEY KIDS",
+    "NOM_ETABA": "ديزني كيدز",
+    "AdresseL": "RUE AIT BAHA CARTIER SIDI AABI",
+    "AdresseA": "شارع ايت باها حي سيدي عابد عما",
+    "COMMUNE": "Al Hoceima ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "chataeil",
+    "NOM_ETABA": "شتائل",
+    "AdresseL": "RUE SALAH EDDINE ALAYOUBI NUM ",
+    "AdresseA": " 145 شارع صلاح الدين الأيوبي ر",
+    "COMMUNE": "Al Hoceima ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Amana Baraeim",
+    "NOM_ETABA": "أمانة براعم",
+    "AdresseL": " résidence rania 1 boujibar",
+    "AdresseA": "إقامة رانيا 1 بوجيبار",
+    "COMMUNE": "Al Hoceima ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

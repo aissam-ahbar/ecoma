@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABBASS SEBTI",
+    "NOM_ETABA": "الثانوية الإعدادية أبي العباس السبتي",
+    "AdresseL": "MECHOUAR FES JDID Bv Allal ElFassi",
+    "AdresseA": "شارع علال الفاسي المشور فاس الجديد",
+    "COMMUNE": "Méchouar Fès Jdid",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED VI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد السادس",
+    "AdresseL": "RUE ALLAL EL FASSI BAB RIAFA",
+    "AdresseA": "باب ريافة شارع علال الفاسي",
+    "COMMUNE": "Méchouar Fès Jdid",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELLATIF ALLAEBI",
+    "NOM_ETABA": "المدرسة الابتدائية عبد اللطيف اللعبي",
+    "AdresseL": "BOULEVARD UNESCO  fes jdid   al machouar",
+    "AdresseA": "شارع اليونسكو فاس الجديد المشور",
+    "COMMUNE": "Méchouar Fès Jdid",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU HORAYRA",
+    "NOM_ETABA": "المدرسة الابتدائية أبو هريرة",
+    "AdresseL": "BOULEVARD MOULAY HASSAN",
+    "AdresseA": "شارع مولاي الحسن فاس الجديد المشور",
+    "COMMUNE": "Méchouar Fès Jdid",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALKHALIL BNO AHMED ALFARAHIDY",
+    "NOM_ETABA": "المدرسة الابتدائية الخليل بن أحمد الفراهيدي",
+    "AdresseL": "DERB EZZAOUYA FES JDID",
+    "AdresseA": "درب الزاوية فاس الجديد",
+    "COMMUNE": "Méchouar Fès Jdid",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EJJILALI BENANI",
+    "NOM_ETABA": "المدرسة الابتدائية الجيلالي بناني",
+    "AdresseL": "DERB MOULAY   EL MAMOUN FES JDID",
+    "AdresseA": "درب مولاي المامون. فاس الجديد ",
+    "COMMUNE": "Méchouar Fès Jdid",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL AL FASSI",
+    "NOM_ETABA": "الثانوية التأهيلية علال الفاسي",
+    "AdresseL": "FES JDID BP956 FES",
+    "AdresseA": "زنقة بوطويل فاس الجديد ص ب 956",
+    "COMMUNE": "Méchouar Fès Jdid",
+    "PROVINCE": "Fès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

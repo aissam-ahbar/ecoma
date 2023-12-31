@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "EZZHILIGA",
+    "NOM_ETABA": "الزحليكة",
+    "AdresseL": "ezzhiliga centre",
+    "AdresseA": "مركز الزحليكة",
+    "COMMUNE": "Ezzhiliga",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD MOUSSA",
+    "NOM_ETABA": "اولاد موسى",
+    "AdresseL": "DOUAR kmala COMMUNE ZHILIGA",
+    "AdresseA": "دوار قمالة ج الزحيلكة",
+    "COMMUNE": "Ezzhiliga",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU LHASSAN LMARRAKCHI",
+    "NOM_ETABA": "ابو الحسن المراكشي",
+    "AdresseL": "CENTRE ZHILIGA COMMUNE ZHILIGA",
+    "AdresseA": "الزحيلكة المركز",
+    "COMMUNE": "Ezzhiliga",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAADAM",
+    "NOM_ETABA": "لعظم",
+    "AdresseL": "TRIBU OULED AMRANE   COMMUNE ZHILIGA",
+    "AdresseA": " قبيلة أولاد عمران الزحيلكة",
+    "COMMUNE": "Ezzhiliga",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED LAMBALLAJ",
+    "NOM_ETABA": "احمد لبلج",
+    "AdresseL": "DOUAR LAARAARA  COMMUNE ZHILIGA",
+    "AdresseA": "دوار لعراعرة ج الزحيليكة",
+    "COMMUNE": "Ezzhiliga",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAOUINA LAHMIRA CENTRE",
+    "NOM_ETABA": "لعوينة لحميرة المركز",
+    "AdresseL": "DOUAR ait kaddour  COMMUNE ZHILIGA",
+    "AdresseA": " دوارايت قدور ج الزحيلكة",
+    "COMMUNE": "Ezzhiliga",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NZALA",
+    "NOM_ETABA": "النزالة",
+    "AdresseL": "DOUAR NZALA zhiliga CENTRE",
+    "AdresseA": "دوار نزالة الزحيلكة المركز",
+    "COMMUNE": "Ezzhiliga",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA ZAHRA",
+    "NOM_ETABA": "فاطمة الزهراء",
+    "AdresseL": "CENTRE ZHILIGA COMMUNE ZHILIGA",
+    "AdresseA": "الزحيلكة المركز",
+    "COMMUNE": "Ezzhiliga",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

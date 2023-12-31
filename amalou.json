@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS KHMISS AIT YOUNESS",
+    "NOM_ETABA": "م.م خميس ايت يونس",
+    "AdresseL": "DOUAR   KHMISS AIT YOUNSS C AMALOU",
+    "AdresseA": "دوار. خميس ايت يونس",
+    "COMMUNE": "Amalou",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZZOHOUR",
+    "NOM_ETABA": "م.م الزهور",
+    "AdresseL": "DOUAR   AIT KHALF C AMALOU",
+    "AdresseA": "د. ايت خالف",
+    "COMMUNE": "Amalou",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

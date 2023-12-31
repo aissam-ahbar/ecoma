@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "C ADOUAR",
+    "NOM_ETABA": "ثإ. اضوار",
+    "AdresseL": "douaradouar communemachraa elaain TAROUDANT",
+    "AdresseA": "دوار اضوارجماعة مشرع العين اقليم تارودانت",
+    "COMMUNE": "Machraa El Ain",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ABI BAKR ESSADIK",
+    "NOM_ETABA": "م.م ابي بكر الصديق",
+    "AdresseL": "DOUAR  AGAFAY CMECHRAA EL AIN",
+    "AdresseA": "دوار اكفاي جماعة مشرع العين دائرة اولاد التايمة ",
+    "COMMUNE": "Machraa El Ain",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AINE LAMDIOUR",
+    "NOM_ETABA": "م. عين المديور",
+    "AdresseL": "DOUAR  AINE EL MADIOUR MECHRAA EL AIN",
+    "AdresseA": "د. عين المديور",
+    "COMMUNE": "Machraa El Ain",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASSALAM",
+    "NOM_ETABA": "م.م السلام",
+    "AdresseL": "DOUAR  OULAD M HALLA CMECHRAA EL AIN",
+    "AdresseA": "د. اولاد محلة",
+    "COMMUNE": "Machraa El Ain",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L CHABBI",
+    "NOM_ETABA": "ثأ.الشابي",
+    "AdresseL": "DOUAR   AIN LAMDIOUER COMMUNE MACHRAA AL AINE",
+    "AdresseA": "د. عين المديور",
+    "COMMUNE": "Machraa El Ain",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

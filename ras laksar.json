@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RAS LAKSAR",
+    "NOM_ETABA": "الثانوية الإعدادية راس لقصر",
+    "AdresseL": "Centre Ras laksar",
+    "AdresseA": "مركز جماعة راس لقصر",
+    "COMMUNE": "Ras Laksar",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "STAH LAMGHASSEL CENTRE",
+    "NOM_ETABA": "سطح المغاسل المركز",
+    "AdresseL": "STAH LAMGHASSEL  COMMUNE RAS LAKSAR",
+    "AdresseA": "دوار سطح المغاسل جماعة رأس لقصر",
+    "COMMUNE": "Ras Laksar",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI DAMAL CENTRE",
+    "NOM_ETABA": "بني دمال المركز",
+    "AdresseL": "BNI DAMAL  COMMUNE RAS LAKSAR",
+    "AdresseA": "دوار بني دمال جماعة رأس القصر",
+    "COMMUNE": "Ras Laksar",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABIAD CENTRE",
+    "NOM_ETABA": "إبياض المركز",
+    "AdresseL": "DOUAR ABIAD RAS LAKSAR CENTRE",
+    "AdresseA": "دوار أبياض جماعة رأس القصر",
+    "COMMUNE": "Ras Laksar",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SMIOU",
+    "NOM_ETABA": "سميو",
+    "AdresseL": "DOUAR SMIOUCOMMUNE RAS LAKSAR",
+    "AdresseA": "دوار سميو جماعة رأس القصر",
+    "COMMUNE": "Ras Laksar",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

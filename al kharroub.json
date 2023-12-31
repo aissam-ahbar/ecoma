@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ALLAL LFASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "COMMUNE AL KHARROUB",
+    "AdresseA": "جماعة الخروب",
+    "COMMUNE": "AL Kharroub",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ss BNI HMAYED",
+    "NOM_ETABA": "م.م بني احمايد",
+    "AdresseL": "DOUAR LTNINE C ALKHARROUB  TETOUAN",
+    "AdresseA": "دوار الاثنين جماعة الخروب تطوان",
+    "COMMUNE": "AL Kharroub",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss ZAOUIA",
+    "NOM_ETABA": "م.م الزاوية",
+    "AdresseL": "DOUAR ZAOUIA  COMMUNE RURAL  ALKHARROUB  TETOUAN",
+    "AdresseA": "دوار  الزاوية  جماعة  الخروب  عمالة  اقليم تطوان",
+    "COMMUNE": "AL Kharroub",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

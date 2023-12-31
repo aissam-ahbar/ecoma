@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS TIMICHA",
+    "NOM_ETABA": "م.م تميشا",
+    "AdresseL": "DOUAR   TIMICHA C TIZGAOUINE",
+    "AdresseA": "جماعة تزكزاوين قيادةة أساكي دائرة تالوين ",
+    "COMMUNE": "Tizgzaouine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 18 NOVEMRE",
+    "NOM_ETABA": "م.م 18 نونبر",
+    "AdresseL": "DOUAR   TIRITE   TIZGZAOUINE",
+    "AdresseA": "دوار تريت دوار تزكزاوين",
+    "COMMUNE": "Tizgzaouine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IHLOUCHEN",
+    "NOM_ETABA": "م.م إحلوشن",
+    "AdresseL": "DOUAR   IHLOUCHEN C TIZGZAOUINE taliouine",
+    "AdresseA": "دوار إحلوشن جماعة تزكزاوين تالوين",
+    "COMMUNE": "Tizgzaouine",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

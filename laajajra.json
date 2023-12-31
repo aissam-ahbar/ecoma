@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE HOUMANE EL FETOUAKI",
+    "NOM_ETABA": "الثانوية الاعدادية حمان الفطواكي",
+    "AdresseL": "CENTRE DE LA COMMUNE RURALE LAAJAJRA",
+    "AdresseA": "مركز جماعة العجاجرة",
+    "COMMUNE": "Laajajra",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAJAJRA CENTRE",
+    "NOM_ETABA": "العجاجرة المركز",
+    "AdresseL": "CENTRE DE LA COMMUNE LAJAJRA",
+    "AdresseA": "مركز جماعة العجاجرة",
+    "COMMUNE": "Laajajra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JOUABERE CENTRE",
+    "NOM_ETABA": "الجوابر المركز",
+    "AdresseL": "DOUAR JOUAbERE COMMUNE LAJAJRA",
+    "AdresseA": "دوار الجوابر العجاجرة",
+    "COMMUNE": "Laajajra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZYAYNA CENTRE ",
+    "NOM_ETABA": "الزياينة المركز",
+    "AdresseL": "DOUAR OULAD TAYEB COMMUNE LAJAJRA",
+    "AdresseA": "دوار اولاد الطيب العجاجرة",
+    "COMMUNE": "Laajajra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD LAGHRINI CENTRE",
+    "NOM_ETABA": "اولاد الكريني المركز",
+    "AdresseL": "DOUAR OULADE LAGRINI COMMUNE LAJAJRA",
+    "AdresseA": "دوار اولاد الكريني العجاجرة",
+    "COMMUNE": "Laajajra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ALLAM CENTRE",
+    "NOM_ETABA": "اولاد العلام المركز",
+    "AdresseL": "DOUAR DHAMNA COMMUNE LAJAJRA",
+    "AdresseA": "دوار الدحامنة العجاجرة",
+    "COMMUNE": "Laajajra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAABZA",
+    "NOM_ETABA": "الدعابزة",
+    "AdresseL": "DOUAR DAABZA COMMUNE LAAJAJRA",
+    "AdresseA": "دوار الدعابزة العجاجرة",
+    "COMMUNE": "Laajajra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELAZIZ MEZIANE BELFQUIH",
+    "NOM_ETABA": "الثانوية التأهيلية عبد العزيز مزيان بلفقيه",
+    "AdresseL": "Centre commune Laajajra",
+    "AdresseA": "مولاي يعقوب",
+    "COMMUNE": "Laajajra",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNO ARABI",
+    "NOM_ETABA": "الثانوية الإعدادية ابن عربي",
+    "AdresseL": "BOUSKOURA CENTRE LOTI IZDIHAR",
+    "AdresseA": "بوسكورة المركز تجزئة الازدهار",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELMALEK ESSAADI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد المالك السعدي",
+    "AdresseL": "almssalha bouskoura",
+    "AdresseA": "المصالحة بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM CHATIBI",
+    "NOM_ETABA": "الثانوية الإعدادية الأمام الشاطبي",
+    "AdresseL": "Bouskoura",
+    "AdresseA": "بوسكورة ",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNO MALEK",
+    "NOM_ETABA": "الثانوية الإعدادية ابن مالك",
+    "AdresseL": "lamkansa bouskoura",
+    "AdresseA": "لمكانسة بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED EL HIBA",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد الهبة",
+    "AdresseL": "LOT ASSAFAA ",
+    "AdresseA": "تجزئة الصفاء",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDRISS I",
+    "NOM_ETABA": "الثانوية الإعدادية ادريس الأول",
+    "AdresseL": "bouskoura centre",
+    "AdresseA": "بوسكورة المركز",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUSKOURA",
+    "NOM_ETABA": "الثانوية الإعدادية بوسكورة",
+    "AdresseL": "BOUSKOURA CENTRE KM 18",
+    "AdresseA": "بوسكورة المركز  كلم 18",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E BOUSKOURA",
+    "NOM_ETABA": "م. بوسكورة",
+    "AdresseL": "ROUTE 109 CENTRE BOUSKOURA",
+    "AdresseA": "طريق 109 بوسكورة المركزإقليم النواصر",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E RMEL LAHLAL",
+    "NOM_ETABA": "م. رمل لهلال",
+    "AdresseL": "DOUAR RMEL LAHLA  BOUSKURA",
+    "AdresseA": "دوار رمل لهلال  بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E CHRAKA",
+    "NOM_ETABA": "م. الشراقة",
+    "AdresseL": "DOUAR CHRAKA OULAD MALAK BOUSKOURA",
+    "AdresseA": "  دوار الشراقة أولاد مالك بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DRABNA",
+    "NOM_ETABA": "م.م الضرابنة",
+    "AdresseL": "OULED MALEK HAMRIBOUSKOURANOUACEUR",
+    "AdresseA": " أولاد مالك حمري - جماعة بوسكورة -إقليم النواصر",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OULED MALEK",
+    "NOM_ETABA": "م. اولاد مالك",
+    "AdresseL": "DOUAR OULED MALEK HAMRI BOUSKOURA",
+    "AdresseA": "دوار اولاد مالك  حمري بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AIN JEMAA",
+    "NOM_ETABA": "م. عين الجمعة",
+    "AdresseL": "DOUAR AIN JEMAA",
+    "AdresseA": "دوار عين الجمعة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OULED CHEIKH",
+    "NOM_ETABA": "م. اولاد الشيخ",
+    "AdresseL": "douar ouled cheikh  commune bouskoura",
+    "AdresseA": "    دوار اولاد الشيخ   . جماعة بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E LAHFAYA",
+    "NOM_ETABA": "م. لحفاية",
+    "AdresseL": "lahfaya  OULED HADDOU BOUSKOURA",
+    "AdresseA": " الحفاية أولاد حدو بوسكورة  ",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OULED EL KADI",
+    "NOM_ETABA": "م. اولاد القاضي",
+    "AdresseL": "DOUAR lamzabiyne",
+    "AdresseA": "دوار لمزابيين",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU EL ARIF",
+    "NOM_ETABA": "م. ابن العريف",
+    "AdresseL": "BOUSKOURA CENTRE ROUTE 109",
+    "AdresseA": "طريق 109 بوسكورة إقليم النواصر",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E 18 NOVEMBRE",
+    "NOM_ETABA": "م. 18 نونبر",
+    "AdresseL": "DOUAR JILALI COMMUNE BOUSSEKOURA",
+    "AdresseA": "دوار الجيلالي جماعة بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL ABRAR",
+    "NOM_ETABA": "م. الأبرار",
+    "AdresseL": "DOUAR LAHFAYA  COMMUNE BOUSKOURA nouaceur CASABLAN",
+    "AdresseA": "دوار لحفاية جماعة بوسكورة النواصر الدارالبيضاء",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OULED BEN AMER",
+    "NOM_ETABA": "م. اولاد بنعمر",
+    "AdresseL": "duoar ouled benamer",
+    "AdresseA": "دوار اولاد بنعمر",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TARIK IBN ZYAD",
+    "NOM_ETABA": "م. طارق بن زياد",
+    "AdresseL": "  DOUAR lamkansa 1 BLOC A COMmUNE DE BOUSKOURA",
+    "AdresseA": "جماعة بوسكورة  A دوار لمكانسة 1 بلوك  ",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BMCE COM",
+    "NOM_ETABA": "م. كوم",
+    "AdresseL": "douar bougaadiya combouskoura provnouaceur",
+    "AdresseA": "دوار البوجعدية جماعة بوسكورة إقليم النواصر",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E al IMAM AL BOUKHARI",
+    "NOM_ETABA": "م. الإمام البخاري",
+    "AdresseL": "darbna",
+    "AdresseA": "الضرابنة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU TOUFAIL",
+    "NOM_ETABA": "م. ابن طفيل ",
+    "AdresseL": "bouskoura",
+    "AdresseA": "بوسكورة ",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDELKRIM ELKHATABI",
+    "NOM_ETABA": "م. عبد الكريم الخطابي",
+    "AdresseL": "almssalha bouskoura",
+    "AdresseA": "المصالحة بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMMED EL KORRI",
+    "NOM_ETABA": "م. محمد القري",
+    "AdresseL": "DR OULAD BEN AMER DHAMNA BOUSKOURA",
+    "AdresseA": "دوار اولاد بنعمر الدحامنة بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBRAHIM ERROUDANI",
+    "NOM_ETABA": "م. ابراهيم الروداني",
+    "AdresseL": "BOUSKOURA",
+    "AdresseA": "بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL ANDALOUSS",
+    "NOM_ETABA": "م. الأندلس",
+    "AdresseL": "bouskoura",
+    "AdresseA": "بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "e IBN BAJJA",
+    "NOM_ETABA": "م. ابن باجة",
+    "AdresseL": "BOUSKOURA",
+    "AdresseA": "بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL KHAWARIZMI",
+    "NOM_ETABA": "م. الخوارزمي",
+    "AdresseL": "LOT BASSATINE BOUSSKOURA",
+    "AdresseA": "تجزئة بساتين بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ASSOU OUBASSLAM",
+    "NOM_ETABA": "م.عسو أوبسلام",
+    "AdresseL": "LOT ASSAFAA ",
+    "AdresseA": "تجزئة الصفاء",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDELLAH IBRAHIM",
+    "NOM_ETABA": "م. عبد الله إبراهيم",
+    "AdresseL": "LOT AL BASSATINE ",
+    "AdresseA": "تجزئة البساتين",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU HAYANE ATTAOUHIDI",
+    "NOM_ETABA": "الثانوية التأهيلية أبي حيان التوحيدي",
+    "AdresseL": "bouskoura",
+    "AdresseA": "بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FAHDA BENT ALAAS",
+    "NOM_ETABA": "الثانوية التأهيلية فهدة بنت العاص ",
+    "AdresseL": "Douar Ouled ben amer Bouskoura",
+    "AdresseA": "دوار اولاد بنعمر بوسكورة ",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU AL ARABI",
+    "NOM_ETABA": "الثانوية التأهيلية ابن العربي ",
+    "AdresseL": "Bouskoura",
+    "AdresseA": "بوسكورة ",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN HAZM",
+    "NOM_ETABA": "الثانوية التأهيلية ابن حزم",
+    "AdresseL": "تجزئة بساتين بوسكورة",
+    "AdresseA": "LOT BASSATINE BOUSKOURA",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAHA HUSSEIN",
+    "NOM_ETABA": "الثانوية التأهيلية طه حسين",
+    "AdresseL": "LOT ASSAFAA  bouskoura",
+    "AdresseA": "تجزئة الصفاء بوسكورة",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALKINDI",
+    "NOM_ETABA": "الثانوية التأهيلية الكندي",
+    "AdresseL": "bouskoura centre",
+    "AdresseA": "بوسكورة المركز",
+    "COMMUNE": "Bouskoura",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Dalia",
+    "NOM_ETABA": "الدالية الخصوصية",
+    "AdresseL": "N° 38, Lotissement Dalia - C.R",
+    "AdresseA": "رقم 38، تجزئة دالية - ج,ق, بوس",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S. RIAD BOUSKOURA",
+    "NOM_ETABA": "م.م. رياض بوسكورة",
+    "AdresseL": "Bd TOUTE, route secondaire n°1",
+    "AdresseA": "بوسكورة ، شارع التوت ، الطريق ",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IRFANE ENS. ORIGINEL",
+    "NOM_ETABA": "العرفان للتعليم الأصيل",
+    "AdresseL": "douar ouled malek bouskoura",
+    "AdresseA": "دوار أولاد مالك بوسكورة",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Allikaa",
+    "NOM_ETABA": "اللقاء",
+    "AdresseL": "Route 109, Route Bouskoura",
+    "AdresseA": "طريق 109، طريق بو سكورة",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jean ferry academy",
+    "NOM_ETABA": "جون فيري أكاديمي",
+    "AdresseL": "perla bouskoura g32 -g32a-g32b",
+    "AdresseA": "بيرلا بوسكورة رقم G32-G32A-G32",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "paul robert",
+    "NOM_ETABA": "بول روبير",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الازدهار ب 04 رقم 4-5",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBDAA ATOUFOULA",
+    "NOM_ETABA": "إبداع الطفولة",
+    "AdresseL": "33, residence Forest Park, vil",
+    "AdresseA": "تجزئة فوريست بارك رقم 33 المدي",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la villette",
+    "NOM_ETABA": "لافيليت",
+    "AdresseL": " lahwama bouskoura nouacer",
+    "AdresseA": "لحوامي بوسكورة النواصر",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jasmine",
+    "NOM_ETABA": "جاسمين الخصوصية",
+    "AdresseL": "LOTISSEMENT IZDIHAR CENTRE COM",
+    "AdresseA": "تجزئة الازدهار بوسكورة",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN FERRY",
+    "NOM_ETABA": "جون فيري",
+    "AdresseL": "lotissement diar al andalouss-",
+    "AdresseA": "تجزئة ديار الأندلس، بوسكورة",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aspirations schools private",
+    "NOM_ETABA": "أسبيراسيون سكول الخصوصية",
+    "AdresseL": "N 20 ET 21 LOTISSEMENT SOFIA",
+    "AdresseA": "رقم 20-21 تجزئة صوفيا ",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALEXANDRITE",
+    "NOM_ETABA": "مؤسسة أليكساندريت",
+    "AdresseL": "DAYAR AL ANDALOUS BOUSKOURA .M",
+    "AdresseA": "ديار الاندلس بوسكورة النواصر ا",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GREENWOOD SCHOOL",
+    "NOM_ETABA": "كرينوود سكول",
+    "AdresseL": "34, lot rive gauche ville vert",
+    "AdresseA": "تجزئة ريف كوش رقم 34 بوسكورة",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "palo alto academy",
+    "NOM_ETABA": "بالو ألطو أكاديمي",
+    "AdresseL": "LOT EUCALYPTUS N 27",
+    "AdresseA": "27 تجزئة أوكاليبتوس",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "henry ford",
+    "NOM_ETABA": "هنري فورد",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة أبواب بوسكورة",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA CONSONNE",
+    "NOM_ETABA": "لاكونصون",
+    "AdresseL": "DIAR IZZDIHAR 2 BOUSKOURA NOUA",
+    "AdresseA": "تجزئة الازدهار 2 بوسكورة النوا",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE PHILIPPE GRENIER ACADEMY ",
+    "NOM_ETABA": "فيليب كرونيي أكاديمي",
+    "AdresseL": "PERLA BOUSKOURA N 52",
+    "AdresseA": "تجزئة بيرلا بوسكورة الرقم 52",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA RESIDENCE",
+    "NOM_ETABA": "لاغيزيدونس",
+    "AdresseL": "NULL",
+    "AdresseA": "البقعة 664 المدينة الخضراء",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA CITE VERTE",
+    "NOM_ETABA": "مجموعة مدارس لاسيتي فيرت",
+    "AdresseL": "BOUSKOOURA OXYGENE DMANA BOUSK",
+    "AdresseA": "بوسكورة أوكسجين الضمان بلدية ب",
+    "COMMUNE": "Bouskoura ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

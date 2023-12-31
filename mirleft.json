@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE collegial YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "الثانوية الإعدادية يوسف بن تاشفين",
+    "AdresseL": " centre COMMUNE MIRLEFT",
+    "AdresseA": "مركز جماعة ميراللفت",
+    "COMMUNE": "Mirleft",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR ELKHIYAM",
+    "NOM_ETABA": "المدرسة الابتدائية عمر الخيام",
+    "AdresseL": "CENTRE COMMUNE MIRLEFT",
+    "AdresseA": "مركز جماعة ميراللفت",
+    "COMMUNE": "Mirleft",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire AL MORABITINE CENTRE TAANDITE",
+    "NOM_ETABA": "مجموعة مدارس المرابطين مركزية تعنديت",
+    "AdresseL": "DOUAR TANAMARTE",
+    "AdresseA": "دوار تنمرت",
+    "COMMUNE": "Mirleft",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire AL KINDI CENTRE ID MOUSSA OALI",
+    "NOM_ETABA": "مجموعة مدارس الكندي مركزية ادموسى وعلي",
+    "AdresseL": "DOUAR ID MOUSSA OU ALI",
+    "AdresseA": "دوار ادموسى وعلي",
+    "COMMUNE": "Mirleft",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire AL CHATI CENTRE IDBOUCHNI",
+    "NOM_ETABA": "مجموعة مدارس الشاطئ مركزية ادبوشني",
+    "AdresseL": "DOUAR IDBOUCHNI mirleft",
+    "AdresseA": "دوار ادبوشني مير اللفت",
+    "COMMUNE": "Mirleft",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MIRLEFT",
+    "NOM_ETABA": "الثانوية التأهيلية ميراللفت",
+    "AdresseL": "CENTRE COMMUNE MIRLEFT",
+    "AdresseA": "مركز جماعة ميراللفت",
+    "COMMUNE": "Mirleft",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ROUADI ",
+    "NOM_ETABA": "اع. الرواضي",
+    "AdresseL": "DOUAR ROUADI COMMUNE ROUADI",
+    "AdresseA": "دوار الرواضي جماعة الرواضي",
+    "COMMUNE": "Rouadi",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ROUADI I",
+    "NOM_ETABA": "م/م الرواضي1",
+    "AdresseL": "DOUAR ROUADI COMMUNE ROUADI",
+    "AdresseA": "دوارالرواضي جماعة الرواضي",
+    "COMMUNE": "Rouadi",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUGHAMBOU",
+    "NOM_ETABA": "بوغمبو",
+    "AdresseL": "DOUAR BOUGHAMBOU COMMUNE ROUADI",
+    "AdresseA": "دواربوغمبو جماعة الرواضي",
+    "COMMUNE": "Rouadi",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SS ROUADI II",
+    "NOM_ETABA": "م/م الرواضي 2",
+    "AdresseL": "ROUADI CENTRE COMMUNE ROUADI",
+    "AdresseA": "مركز الرواضي جماعة الرواضي",
+    "COMMUNE": "Rouadi",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASKRAM",
+    "NOM_ETABA": "اسكرام",
+    "AdresseL": "DOUAR ASKRAM COMMUNE ROUADI",
+    "AdresseA": "دواراسكرام جماعة الرواضي",
+    "COMMUNE": "Rouadi",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ROUADI",
+    "NOM_ETABA": "الثانوية التأهيلية الرواضي",
+    "AdresseL": "COMMUNE ROUADI",
+    "AdresseA": "جماعة الرواضي",
+    "COMMUNE": "Rouadi",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

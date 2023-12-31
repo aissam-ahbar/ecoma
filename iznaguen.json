@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDRISS ALAOUAL",
+    "NOM_ETABA": "الثانوية الاعدادية ادريس الاول",
+    "AdresseL": "iZNAGUEN",
+    "AdresseA": "ازناكن",
+    "COMMUNE": "Iznaguen",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S AGOUINES",
+    "NOM_ETABA": "م.م. اكوينس",
+    "AdresseL": "TAZNAKHTE",
+    "AdresseA": "دوار اكويس جماعة إزناكن",
+    "COMMUNE": "Iznaguen",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAMAAROUFTE",
+    "NOM_ETABA": "م.م. تماعروفت",
+    "AdresseL": "TAZNAKHTE",
+    "AdresseA": "دوار تامعروفت ",
+    "COMMUNE": "Iznaguen",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAZOULT",
+    "NOM_ETABA": "م.م. تازولت",
+    "AdresseL": "TAZNAKHTE",
+    "AdresseA": "دوار تازولت جماعة إزناكن",
+    "COMMUNE": "Iznaguen",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAZALMIMTE",
+    "NOM_ETABA": "م.م. تزلميمت",
+    "AdresseL": "TAZNAKHTE",
+    "AdresseA": "دوار تزلميمت جماعة إزناكن",
+    "COMMUNE": "Iznaguen",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAOURIRTE ANISSI",
+    "NOM_ETABA": "م.م. تاوريرت انيسي",
+    "AdresseL": "TAOURIRTE ANISSI IZENAGUEN",
+    "AdresseA": "تاوريرت انيسي ازناكن ",
+    "COMMUNE": "Iznaguen",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AGUALMIME",
+    "NOM_ETABA": "م.م. اكالميم",
+    "AdresseL": "douar agualmime commune aznaguen",
+    "AdresseA": "دوار اكالميم جماعة  إزناكَن",
+    "COMMUNE": "Iznaguen",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

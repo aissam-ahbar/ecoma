@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "C IDRISS I",
+    "NOM_ETABA": "إع. ادريس الاول",
+    "AdresseL": "RUE EL MASSIRA MIDAR",
+    "AdresseA": "شارع المسيرة ميضار",
+    "COMMUNE": "Midar",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ALI BEN ABI TALIB",
+    "NOM_ETABA": "م. علي بن ابي طالب",
+    "AdresseL": "KOUDYAT DIB MIDAR",
+    "AdresseA": "جماعة ميضار",
+    "COMMUNE": "Midar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TARIQ IBN ZIYAD",
+    "NOM_ETABA": "م.م طارق بن زياد",
+    "AdresseL": "COMMUNE MIDAR CENTRE",
+    "AdresseA": "   بلدية ميضار المركز",
+    "COMMUNE": "Midar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOUSSA IBN NOUSSAIR",
+    "NOM_ETABA": "م.م موسى بن نصير",
+    "AdresseL": "DOUAR ITAHRIOUENE COMMUNE MIDAR",
+    "AdresseA": "اطهراوين ميضار",
+    "COMMUNE": "Midar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MIDAR AL JADIDA",
+    "NOM_ETABA": "م. ميضار الجديدة",
+    "AdresseL": "HAY lamsalla COMMUNE MIDAR",
+    "AdresseA": "حي  المصلى جماعة ميضار                            ",
+    "COMMUNE": "Midar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MIDAR",
+    "NOM_ETABA": "م. ميضار",
+    "AdresseL": "midar centre",
+    "AdresseA": "ميضار المركز",
+    "COMMUNE": "Midar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BOUHJAR",
+    "NOM_ETABA": "مدرسة بوحجار",
+    "AdresseL": "Hay bouhjar Midar",
+    "AdresseA": "حي بوحجار ميضار",
+    "COMMUNE": "Midar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL AMAL",
+    "NOM_ETABA": "ثانوية الأمل التأهيلية",
+    "AdresseL": "avenue de FRANCE ;MIDAR",
+    "AdresseA": "شارع فرنسا -ميضار",
+    "COMMUNE": "Midar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "attalaie",
+    "NOM_ETABA": "الطلائع",
+    "AdresseL": "B.P 259 Midar62502 ",
+    "AdresseA": "ص ب 259 ميضار",
+    "COMMUNE": "Midar ",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

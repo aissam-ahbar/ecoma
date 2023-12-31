@@ -1,0 +1,422 @@
+[
+  {
+    "NOM_ETABL": "YAACOUB ALMANSOUR",
+    "NOM_ETABA": "يعقوب المنصور",
+    "AdresseL": "38 RUE MEKKA HASSAN",
+    "AdresseA": "حسان38 زنقة مكة ",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LALLA AICHA",
+    "NOM_ETABA": "للا عائشة",
+    "AdresseL": "RUE  MY ALI CHRIF HASSANE",
+    "AdresseA": "زنقة مولاي علي الشريف حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOUHAMMED BENABDESLAM SAIH",
+    "NOM_ETABA": "محمد بن عبد السلام السايح",
+    "AdresseL": "BAB CHALLAH HASSANE",
+    "AdresseA": "باب شالة حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALMAGHREB ALKABIR",
+    "NOM_ETABA": "المغرب الكبير",
+    "AdresseL": "AV HASSAN 2 HASSANE N 414",
+    "AdresseA": "شارع الحسن الثاني رقم 414",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "AV GRAND MAGREB  HASSANE",
+    "AdresseA": "شارع المغرب العربي حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LALLA KENZA",
+    "NOM_ETABA": "للا كنزة",
+    "AdresseL": "AV ABDELKRIM EL KHATABI HASSANE",
+    "AdresseA": "شارع عبدالكريم الخطابي حي المحيط",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELMOUMENE",
+    "NOM_ETABA": "عبدالمومن",
+    "AdresseL": "RUE LAKSSIBA HASSAN",
+    "AdresseA": "زنقة القصيبة حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTAWHID",
+    "NOM_ETABA": "التوحيد",
+    "AdresseL": "98 RUE OUKASSA BAB EL MALLAH HASSAN",
+    "AdresseA": "98 زنقة وقاصة الملاح",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY RACHID",
+    "NOM_ETABA": "مولاي رشيد",
+    "AdresseL": "AV SIDI FATEH Rue  taht el hammam  Rabat",
+    "AdresseA": "زنقة تحت   الحمام  سيدي فاتح    ",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LOUDAYA",
+    "NOM_ETABA": "الاوداية",
+    "AdresseL": "CHARIA BAB LAALOU LOUDAYA HASSAN",
+    "AdresseA": "شارع لعلو الاوداية الرباط",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSANE BNO TABIT",
+    "NOM_ETABA": "حسان بن ثابت",
+    "AdresseL": "avenue medv rue 26 Legza",
+    "AdresseA": "شارع محمد الخامس، زنقة 26 الجزاء",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED CHERKAOUI",
+    "NOM_ETABA": "أحمد الشرقاوي",
+    "AdresseL": "AV LA RISISTANCE ELMOHITE HASSAN",
+    "AdresseA": "شارع المقاومة حي المحيط حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAHATE CHOUHADA",
+    "NOM_ETABA": "ساحة الشهداء",
+    "AdresseL": "AV ABDELKRIM KHATABI LOCEON HASSAN",
+    "AdresseA": "شارع عبد الكريم الخطابي  المحيط حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELCADI AYYAD",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "RUE TONCAN AV HASSAN 2 HASSAN",
+    "AdresseA": "زنقة طنكان شارع الحسن الثاني حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "AV ZARKTOUNI EL AKARI HASSANE",
+    "AdresseA": "شارع محمد الزرقطوني القبيبات العكاري",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DRISS BAHRAOUI",
+    "NOM_ETABA": "إدريس البحراوي",
+    "AdresseL": "RUE BEN OTMANE MEKNASSI  AKKARI",
+    "AdresseA": "زنقة بن عثمان المكناسي العكاري",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MASIRA LKHADRA AKKARI",
+    "NOM_ETABA": "المسيرة الخضراء العكاري",
+    "AdresseL": "AV SIDI MED BENABDELLAH AKKARI HASSANE",
+    "AdresseA": "شارع سيدي محمد بنعبد الله العكاري- حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " MADARIS MOHAMED CINQ",
+    "NOM_ETABA": "مدارس محمد الخامس",
+    "AdresseL": "BAB CHALLAH HASSANE",
+    "AdresseA": "باب شالة حسان",
+    "COMMUNE": "Hassan ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " HASSAN II",
+    "NOM_ETABA": " الحسن الثاني ",
+    "AdresseL": "RUE CHALLAH HASSANE",
+    "AdresseA": "زنقة شالة حسان",
+    "COMMUNE": "Hassan ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Moulay Youssef",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي يوسف ",
+    "AdresseL": "AV MED 5 HASSANE",
+    "AdresseA": "شارع محمد الخامس حسان",
+    "COMMUNE": "Hassan ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LALLA AICHA",
+    "NOM_ETABA": "للاعائشة",
+    "AdresseL": "AV YOUSSOUF IBNOU TACHAFINE HASSANE",
+    "AdresseA": "شارع يوسف بن تاشفين ",
+    "COMMUNE": "Hassan ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ALMALQY",
+    "NOM_ETABA": "المالقي",
+    "AdresseL": "AVENUE MOHAMED EZARKTOUNI KEBIBATE RABAT HASSAN",
+    "AdresseA": " شارع محمد الزرقطوني- القبيبات   -الرباط حسان",
+    "COMMUNE": "Hassan ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MRC SCHOOL",
+    "NOM_ETABA": "MRC SCHOOL",
+    "AdresseL": "",
+    "AdresseA": "العمار 10 شقة رقم 1 زنقة القاض",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut hayat tayba",
+    "NOM_ETABA": "معهد الحياة الطيبة الخصوصي",
+    "AdresseL": "12 rue togo l ocean",
+    "AdresseA": "2 زنقة الطوكو 11 مكرر  زنقة فا",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hay",
+    "NOM_ETABA": "الحــي",
+    "AdresseL": "N° 57, Rue Moulay Ismail - Rab",
+    "AdresseA": "رقم 57، زنقة مولاي إسماعيل - ا",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Oumnia Ettakafia",
+    "NOM_ETABA": "الأمنية الثقافية غ-م",
+    "AdresseL": "Ksar El Bahr, Bloc \"F\", N° 1, ",
+    "AdresseA": "قصر البحر، بلوك \"ف\"، رقم 1، ال",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMaâtaouia",
+    "NOM_ETABA": "المعطوية",
+    "AdresseL": "Rue Sidi El Maâti, Souika - Ra",
+    "AdresseA": "زنقة سيدي المعطي، السويقة - ال",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Idriss Al Azhar",
+    "NOM_ETABA": "إدريس الأزهر",
+    "AdresseL": "N° 55, Avenue Madagascar - Rab",
+    "AdresseA": "رقم 55، شارع مدغشقر - الرباط ح",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sainte Marguerite Marie",
+    "NOM_ETABA": "سانت ماركوريت",
+    "AdresseL": "N° 253, Avenue Abdelkrim Khatt",
+    "AdresseA": "رقم 253، شارع عبد الكريم الخطا",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut AL  Jalil",
+    "NOM_ETABA": "معهد الجليل",
+    "AdresseL": "N° 26, Angle Rue aSsaadieyine ",
+    "AdresseA": "رقم 26، زنقة السعديين  - الربا",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL Mansour",
+    "NOM_ETABA": "المنصور ",
+    "AdresseL": "N° 6, Rue Stokholm, Océan - Ra",
+    "AdresseA": "رقم 6، زنقة استو كهولم، المحيط",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Akram",
+    "NOM_ETABA": "أكرم",
+    "AdresseL": "N° 4, Rue Mohamed EL Mellakh, ",
+    "AdresseA": "رقم 4، زنقة محمد الملاخ، العكا",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Culturel du Bouregreg",
+    "NOM_ETABA": "المعهد الثقافي لأبي رقراق",
+    "AdresseL": "N° 9, Avenue Bouregreg - HASSA",
+    "AdresseA": "رقم 9، شارع أبي رقراق - حسان ا",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Saint Gabriel",
+    "NOM_ETABA": "سان كبرييل",
+    "AdresseL": "N° 10, Avenue Tour Hassan - Ra",
+    "AdresseA": "رقم 10، شارع صومعة حسان - الرب",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Youssef bno Tachafine",
+    "NOM_ETABA": "يوسف بن تاشفين غ-م",
+    "AdresseL": "N° 4, Rue Lonakry, Bab Had - R",
+    "AdresseA": "رقم 4، زنقة كوناكري، باب الحد ",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Panthère Rose",
+    "NOM_ETABA": "روض الفهد الوردي",
+    "AdresseL": "N° 64, Rue Raiss Laânaya - Rab",
+    "AdresseA": "رقم 54، زنقة الرايس لعناية - ا",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ADAM SMITH",
+    "NOM_ETABA": "مؤسسة أدم سميت الخصوصية",
+    "AdresseL": "11 RUE AL JADIDA HASSAN",
+    "AdresseA": " حساان  11 زنقة الجديدة",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SCIENTIFIQUE TOUR  HASSAN",
+    "NOM_ETABA": "الثانوية العلمية صومعة حسان",
+    "AdresseL": "16 RUE OUJDA HASSAN RABAT.",
+    "AdresseA": "رقم 16 زنقة جدة حسان الرباط ",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALKHAWARIZMI",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "70, Avenue patrice lumumba HAS",
+    "AdresseA": "70، زنقة باتريس لومومبا حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut henri moissan",
+    "NOM_ETABA": "هنري مواسون",
+    "AdresseL": "37 rue tanger hassan",
+    "AdresseA": "37 زنقة طنجة حسسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "college scientifique mouine",
+    "NOM_ETABA": "الإعدادية العلمية معين",
+    "AdresseL": "rue tindouf n 8 ",
+    "AdresseA": "زنقة تيندوف رقم 8",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut Louis le grand",
+    "NOM_ETABA": "معهد لويس لوكران",
+    "AdresseL": "rue tanger n36 hassan",
+    "AdresseA": "زنقة طنجة رقم 36 حسان",
+    "COMMUNE": "Hassan",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

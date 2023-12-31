@@ -1,0 +1,3062 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MAAMOURA",
+    "NOM_ETABA": "الثانوية الاعدادية المعمورة ",
+    "AdresseL": "LOT ADDOHA HAY ATTATSSIR KENITRA",
+    "AdresseA": "تجزئة الضحى حي التيسير القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AL MOQAFFAE",
+    "NOM_ETABA": "الثانوية الاعدادية إبن المقفع",
+    "AdresseL": "KENITRA",
+    "AdresseA": "القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ASSAFSAF",
+    "NOM_ETABA": "الثانوية الاعدادية الصفصاف",
+    "AdresseL": "KENITRA",
+    "AdresseA": "القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHADIJA BENT KHOUAYLID",
+    "NOM_ETABA": "الثانوية الإعدادية خديجة بنت خويلد",
+    "AdresseL": "ain sbaa lemkhalif",
+    "AdresseA": "عين السبع المخاليف",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHEIKH MAA AL AINNINE",
+    "NOM_ETABA": "الثانوية الإعدادية الشيخ ماء العينين",
+    "AdresseL": "lhancha oulad mbarek",
+    "AdresseA": "الحنشة اولاد مبارك",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH GUENNOUN",
+    "NOM_ETABA": "الثانوية الاعدادية عبدالله كنون",
+    "AdresseL": "01 rue maamoura kenitra",
+    "AdresseA": "01 حي معمورة القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LALLA MARYAM",
+    "NOM_ETABA": "الثانوية الاعدادية للا مريم",
+    "AdresseL": "OULED MBAREK",
+    "AdresseA": "اولاد مبارك",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ISMAIL",
+    "NOM_ETABA": " الثانوية الاعدادية مولاي اسماعيل",
+    "AdresseL": "EL HAdDADAKENITRA",
+    "AdresseA": "الحدادة  القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MAHDI BEN TOUMERT",
+    "NOM_ETABA": " الثانوية الاعدادية المهدي بن تومرت",
+    "AdresseL": "RUE EL MASSIRASAKNIA KENITRA",
+    "AdresseA": "شارع المسيرة  الساكنية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULAD OUJIH",
+    "NOM_ETABA": " الثانوية الاعدادية اولاد اوجيه",
+    "AdresseL": "OULED OUJIH KENITRA",
+    "AdresseA": "اولاد اوجيه القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ALI CHRIF",
+    "NOM_ETABA": " الثانوية الاعدادية مولاي علي الشريف",
+    "AdresseL": "BIR RAMI EST   KENITRA",
+    "AdresseA": "بئر الرامي الشرقية",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED EDDAHAB",
+    "NOM_ETABA": " الثانوية الاعدادية وادي الدهب",
+    "AdresseL": "RUE YAKOUB EL MANSOUR KENITRA",
+    "AdresseA": "زنقة يعقوب المنصور",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN HAZM",
+    "NOM_ETABA": " الثانوية الاعدادية ابن حزم",
+    "AdresseL": "AVENUE TARIK BEN ZAYAD KENITRA",
+    "AdresseA": "شارع طارق بن زياد القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUM EL BANINE  ",
+    "NOM_ETABA": " الثانوية الاعدادية ام البنين",
+    "AdresseL": "ROUTE AIN SBAA KENITRA",
+    "AdresseA": "طريق عين السبع شارع الرياضة القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOUKHTAR ESSOUSSI",
+    "NOM_ETABA": " الثانوية الاعدادية المختار السوسي",
+    "AdresseL": "MOKHTAR ESSOUSSI LA CIGOGNE KENITRA",
+    "AdresseA": "المختار السوسي  حي لاسيكون",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL KHAOUARIZMI",
+    "NOM_ETABA": "الثانوية الاعدادية الخوارزمي",
+    "AdresseL": "AVENUE bACHA ABD ALHAMID ELALAOUI KENITRA",
+    "AdresseA": "شارع باشا عبد الحميد العلوي القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN KHALDOUNE",
+    "NOM_ETABA": "الثانوية الاعدادية ابن خلدون",
+    "AdresseL": "AVENUE ABD AL HAMID ELALAOUI KENITRA",
+    "AdresseA": "شارع عبد الحميد العلوي القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL HARIRI",
+    "NOM_ETABA": "الثانوية الاعدادية الحريري",
+    "AdresseL": "SAKNIA PAM KENITRA",
+    "AdresseA": "الساكنية بام القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OQBA BNOU NAFEA",
+    "NOM_ETABA": " الثانوية الاعدادية عقبة بن نافع",
+    "AdresseL": "Hay chabab PAM1 KENITRA",
+    "AdresseA": "حي الشباب  بام1 القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL BEN ABDELLAH",
+    "NOM_ETABA": " الثانوية الاعدادية علال بن عبد الله",
+    "AdresseL": "QUARTIER errahma PAM2 KENITRA",
+    "AdresseA": "حي الرحمة بام 2 القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 20 AOUT",
+    "NOM_ETABA": "الثانوية الاعدادية 20 غشت",
+    "AdresseL": "AIN SBAA KENITRA",
+    "AdresseA": "عين السبع القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MANZAH",
+    "NOM_ETABA": "المنزه",
+    "AdresseL": "bloc  i  OULED OUJIH KENITRA",
+    "AdresseA": "ابلوك i  أولاد وجيه القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "HAY WAFA 4 ET MKHALIF AIN SBAA  KENITRA",
+    "AdresseA": "تجزئة الوفاء4 والمخاليف عين السبع القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID IBNOU EL OUALID",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "ALIRCHAD   SAKNIA KENITRA",
+    "AdresseA": "حي الارشاد الشاكنية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "3EME   BASE AERIENNE",
+    "NOM_ETABA": "القاعدة الجوية 3",
+    "AdresseL": "BASE AERIENNE 3 KENITRA",
+    "AdresseA": "القاعدة الجوية 3",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HOMMANE FATWAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "PLACE ABI BAKR SADDIK KENITRA",
+    "AdresseA": "ساحة أبو بكر الصديق القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KADI AYAD",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "BLOC D OULED OUJIH KENITRA",
+    "AdresseA": "بلوك  D أولاد اوجيه القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDERAHMANE DAKHIL",
+    "NOM_ETABA": "عبدالرحمان الداخل",
+    "AdresseL": "RUE LIBAN KENITRA",
+    "AdresseA": "زنقة لبنان القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JAMAL EDIN ELAFGHANI",
+    "NOM_ETABA": "جمال الدين الأفغاني",
+    "AdresseL": "AVENUE IMAM ALI KENITRA",
+    "AdresseA": "شارع الإمام علي القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED OUJIH 1",
+    "NOM_ETABA": "أولاد اوجيه1",
+    "AdresseL": "ECOLEOULED OUJIH 1  KENITRA",
+    "AdresseA": "مدرسة اولاد اوجيه 1 القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ELKHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "RUE TARIK IBN ZIAD KENITRA",
+    "AdresseA": "شارع طارق بن زياد معمورة القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KHANSAA",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "VOIE 060 ANCIENNE MEDINA  KENITRA",
+    "AdresseA": "زنقة 060  المدينة القديمة القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN TOUFAIL",
+    "NOM_ETABA": "ابن طفيل",
+    "AdresseL": "RUE 13 NO 24 KENITRA",
+    "AdresseA": "زنقة13 رقم 24 باب فاس",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOUKAINA BENT ELHOUSSIN",
+    "NOM_ETABA": "سكينة بنت الحسين",
+    "AdresseL": "ROUTE AIN SBAA HAY CHOUHADA KENITRA",
+    "AdresseA": "طريق عين السبع حي الشهداء القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAB FES",
+    "NOM_ETABA": "باب فاس",
+    "AdresseL": "ROUTE 206 RUE 13 BAB FES KENITRA",
+    "AdresseA": "طريق 206 باب فاس الزنقة 13 القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASMAE DAT NITAKAINE",
+    "NOM_ETABA": "أسماء ذات النطاقين",
+    "AdresseL": "RUE 45 AL HOURRIA KENITRA",
+    "AdresseA": "زنقة 45 شارع الحرية المعمورة القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL ANDALOUS",
+    "NOM_ETABA": "الأندلس",
+    "AdresseL": "RUE 150 PLACE BIR ANZAREN KENITRA",
+    "AdresseA": "زنقة 150 بئر انزران القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY LHASSAN PREMIER",
+    "NOM_ETABA": "مولاي الحسن الأول",
+    "AdresseL": "RUE 164 MEDINA KENITRA",
+    "AdresseA": " الزنقة 164  م  مولاي الحسن الأول المدينة القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL ATLAS",
+    "NOM_ETABA": "الأطلس",
+    "AdresseL": "RUE 159 AFKA KENITRA",
+    "AdresseA": "الزنقة 159 أفكا القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY RACHID",
+    "NOM_ETABA": "مولاي رشيد",
+    "AdresseL": "RUE 159  AFKA KENITRA",
+    "AdresseA": "الزنقة 159  حي آفكا القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RIAD",
+    "NOM_ETABA": "الرياض",
+    "AdresseL": "RUE 287 AFKA KENITRA",
+    "AdresseA": "الزنقة 287 افكا القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL IMAM LBOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "EL HADDADA KENITRA",
+    "AdresseA": " بلدية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH IBN ABBAS",
+    "NOM_ETABA": "عبد الله بن العباس",
+    "AdresseL": "OULED MBAREK BIR RAMI KENITRA",
+    "AdresseA": "أولاد امبارك بئر الرامي",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED OUJIH 2",
+    "NOM_ETABA": "أولاد وجيه2",
+    "AdresseL": "BLOC l  OULED OUJIH KENITRA",
+    "AdresseA": "مجموعة  L أولاد وجيه القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED OUJIH 3",
+    "NOM_ETABA": "أولاد أوجيه 3",
+    "AdresseL": "BLOC B   OULED OUJIH KENITRA",
+    "AdresseA": "حي أولاد أوجيه بلوك ب القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARIK IBN ZIAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "hay ennasr SAKNIA KENITRA",
+    "AdresseA": "حي النصر الساكنية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHARIF EL IDRISSI",
+    "NOM_ETABA": "الشريف الادريسي",
+    "AdresseL": "HAY ELJADID  SAKNIA KENITRA",
+    "AdresseA": "الحي الجديد الساكنية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI BAKR ERRAZI",
+    "NOM_ETABA": "أبي بكر الرازي",
+    "AdresseL": "hay elouhda  SAKNIA KENITRA",
+    "AdresseA": "حي الوحدة الساكنية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL BOUHTOURI",
+    "NOM_ETABA": "البحتري",
+    "AdresseL": "AVENUE EL MASSIRA AL KHADRAA  KENITRA",
+    "AdresseA": "شارع المسيرة الخضراء القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA EL FIHRIA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "CITE EL MAJMOUATE KENITRA",
+    "AdresseA": "حي المجموعات القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI CHOUAIB DOUKKALI",
+    "NOM_ETABA": "ابي شعيب الدكالي",
+    "AdresseL": "HAY  EL AMAL  7EME ARRONDISSEMENT  SAKNIA  KENITRA",
+    "AdresseA": "حي الأمل  قرب المقاطعة السابعة  الساكنية  القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN KATIR",
+    "NOM_ETABA": "ابن كثير",
+    "AdresseL": "RUE 155 KENITRA",
+    "AdresseA": "زنقة 155 القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "18-nov.",
+    "NOM_ETABA": "18 نونبر",
+    "AdresseL": "RUE 154 GROUPE 11 KENITRA",
+    "AdresseA": "مجموعة 11 زنقة154 القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABD ELHAMID ALAOUI",
+    "NOM_ETABA": "عبدالحميد العلوي",
+    "AdresseL": "hay elbouchteine  RUE 165 KENITRA",
+    "AdresseA": "حي البوشتيين زنقة 165 القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN SBAA",
+    "NOM_ETABA": "عين السبع",
+    "AdresseL": "AIN SBAA KENITRA",
+    "AdresseA": "عين السبع القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI OUBAIDA IBNOU EL JERRAH",
+    "NOM_ETABA": "أبي عبيدة بن الجراح",
+    "AdresseL": "EL ASSAM KENITRA",
+    "AdresseA": "حي العصام القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL YANABIE",
+    "NOM_ETABA": "الينابيع",
+    "AdresseL": "route ain sbaa  KENITRA",
+    "AdresseA": "طريق عين السبع القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MALIKA EL FASSIA",
+    "NOM_ETABA": "مالكة الفاسية",
+    "AdresseL": "hay NKHAKHSSA KENITRA",
+    "AdresseA": "حي النخاخصة القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELJOULANE",
+    "NOM_ETABA": "الجولان",
+    "AdresseL": "hay safaa  KENITRA",
+    "AdresseA": "حي الصفاء القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR  KHYAM",
+    "NOM_ETABA": "عمر الخيام",
+    "AdresseL": "hay safaa  KENITRA",
+    "AdresseA": "حي الصفاء القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAJ MANSOUR",
+    "NOM_ETABA": "الحاج منصور",
+    "AdresseL": "HAY ELMANZAH SECTEUR D   KENITRA",
+    "AdresseA": "قطاع د   حي المنزه الحاج منصور",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL YARMOUK",
+    "NOM_ETABA": "اليرموك",
+    "AdresseL": "BIR RAMI  KENITRA",
+    "AdresseA": "بئر الرامي القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MAGHRIB AL ARABI",
+    "NOM_ETABA": "المغرب العربي",
+    "AdresseL": "MAGHREB ARABI  B3  OULED OUJIH  KENITRA",
+    "AdresseA": "المغرب العربي بلوك 3 اولاد اوجيه القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BRAHIM ROUDANI",
+    "NOM_ETABA": "ابراهيم الروداني",
+    "AdresseL": "ain sbaa saknia kenitra",
+    "AdresseA": "عين السبع الساكنية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EL MAKHAZINE II",
+    "NOM_ETABA": "وادي المخازن2",
+    "AdresseL": "ecole OUED EL MAKHAZINE II SAKNIA KENITRA",
+    "AdresseA": " الساكنية مدرسة وادي المخازن 2 القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI LARBI BOUJEMAA",
+    "NOM_ETABA": "سيدي العربي بوجمعة",
+    "AdresseL": "HAY ELOUAFA1   SAKNIA KENITRA",
+    "AdresseA": "حي الوفاء 1 الساكنية  القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AAHD AL JADID",
+    "NOM_ETABA": "العهد الجديد",
+    "AdresseL": "DOUAR OULED MBAREK KENITRA",
+    "AdresseA": "دوار أولاد امبارك القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMMAR IBN YASSER",
+    "NOM_ETABA": "عمار بن ياسر",
+    "AdresseL": "DOUAR OULED MBAREK  KENITRA",
+    "AdresseA": "دوار أولاد امبارك القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED BALAFREJ",
+    "NOM_ETABA": "احمد بلافريج",
+    "AdresseL": "LMKHALIF AIN SBAA ",
+    "AdresseA": "المخاليف عين السبع",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ADDOHA",
+    "NOM_ETABA": "الضحى",
+    "AdresseL": "LOTISSEMENT golf addoha kenitra",
+    "AdresseA": "تجزئة الكولف الضحى بلدية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ABED EL JABRI",
+    "NOM_ETABA": "محمد عابد الجابري",
+    "AdresseL": "BIR RAMI",
+    "AdresseA": "بئر الرامي",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED EL HANSALI",
+    "NOM_ETABA": "أحمد الحنصالي",
+    "AdresseL": "OULAD ARFA KENITRA",
+    "AdresseA": "أولاد عرفة القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTAYSSIR",
+    "NOM_ETABA": "التيسير",
+    "AdresseL": "LOT ADDOHA HAY ATTATSSIR KENITRA",
+    "AdresseA": "تجزئة الضحى حي التيسير القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSOU OUBASLAM",
+    "NOM_ETABA": "عسو أو بسلام",
+    "AdresseL": "SOUK SEBT EL MKHALIF",
+    "AdresseA": "سوق السبت المخاليف",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUHA OU HAMOU ZAYANI",
+    "NOM_ETABA": "موحى او حمو الزياني",
+    "AdresseL": "lhancha oulad mbarek",
+    "AdresseA": "الحنشة اولاد مبارك",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL HADIKA",
+    "NOM_ETABA": "الحديقة",
+    "AdresseL": "lotissement al hadika",
+    "AdresseA": "تجزئة الحديقة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELMAJID BEN JALLOUN",
+    "NOM_ETABA": "الثانوية التأهيلية عبد المجيد بن جلون",
+    "AdresseL": "ain sbaa lemkhalif",
+    "AdresseA": "عين السبع لمخاليف",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant ELMEKKI ENNACIRI",
+    "NOM_ETABA": "الثانوية التأهيلية المكي الناصري",
+    "AdresseL": "lotissement Doha  quartier taissir",
+    "AdresseA": "تجزئة التسيير الضحى",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL WIFAQ",
+    "NOM_ETABA": "الثانوية التأهيلية الوفاق",
+    "AdresseL": "KENITRA",
+    "AdresseA": "القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED ECHRAYBI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الشرايبي",
+    "AdresseL": "KENITRA",
+    "AdresseA": "القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU AL HAYTAM",
+    "NOM_ETABA": " الثانوية التأهيلية ابن الهيثم",
+    "AdresseL": "OULED OUJIH KENITRA",
+    "AdresseA": "أولاد اوجيه القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU HAYANE ATTAOUHIDI",
+    "NOM_ETABA": " الثانوية التأهيلية ابو حيان التوحيدي",
+    "AdresseL": "saknia kenitra",
+    "AdresseA": "الساكنية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Mohammed 6",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس ",
+    "AdresseL": "KENITRA",
+    "AdresseA": "القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL QODS",
+    "NOM_ETABA": "الثانوية التأهيلية القدس",
+    "AdresseL": "RUE ABDELAZIZ BOUTALEB KENITRA",
+    "AdresseA": "زنقة عبدالعزيز بوطالب القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ABBAD",
+    "NOM_ETABA": " الثانوية التأهيلية ابن عباد",
+    "AdresseL": "RUE MOHAMED ALFIHRI KENITRA",
+    "AdresseA": "شارع محمد الفهري القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAHA HOUSSEIN",
+    "NOM_ETABA": "الثانوية التأهيلية طه حسين",
+    "AdresseL": "AVENUE HAROUN ERRACHID KENITRA",
+    "AdresseA": "زنقة هارون الرشيد القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDERRAHMAN ENNACER",
+    "NOM_ETABA": " الثانوية التأهيلية عبد الرحمان الناصر",
+    "AdresseL": "AVENUE HOUMMANE ALFATOUAKI KENITRA",
+    "AdresseA": "شارع حمان الفطواكي القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE IBN SINA",
+    "NOM_ETABA": "الثانوية التأهلية التقنية ابن سينا ",
+    "AdresseL": "RUE CHAKIB ARSSALANE KENITRA",
+    "AdresseA": "زنقة شكيب أرسلان القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELMALEK ESSAADI",
+    "NOM_ETABA": " الثانوية التأهيلية عبد المالك السعدي",
+    "AdresseL": "RUE SEBOU KENITRA",
+    "AdresseA": "زنقة سبو القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED V",
+    "NOM_ETABA": "  الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "Route ain sebaa KENITRA",
+    "AdresseA": "طريق عين السبع القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IDRISS PREMIER",
+    "NOM_ETABA": "الثانوية التأهيلية إدريس الأول",
+    "AdresseL": "AVENUE MOHAMMED V KENITRA",
+    "AdresseA": "شارع محد الخامس القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN BATOUTA ",
+    "NOM_ETABA": "الثانوية التأهيلية ابن بطوطة ",
+    "AdresseL": "AVENUE LA MARCHE VERTE ",
+    "AdresseA": "شارع المسيرة الخضراء ",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ETTAKADDOUM",
+    "NOM_ETABA": " الثانوية التأهيلية التقدم",
+    "AdresseL": "AVENUE MOULAY YOUSSEF KENITRA",
+    "AdresseA": "شارع مولاي يوسف القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MASSIRA ALKHADRA",
+    "NOM_ETABA": " الثانوية التأهيلية المسيرة الخضراء",
+    "AdresseL": "PAM SAKNIA  KENITRA",
+    "AdresseA": "بام الساكنية القنيطرة",
+    "COMMUNE": "Kénitra",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "EL MALAIKA",
+    "NOM_ETABA": "الملائكة ",
+    "AdresseL": " N° 28, Rue Dimachque et amr i",
+    "AdresseA": "رقم 28، زنقة دمشق وعمرو بن الع",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MORTAQA",
+    "NOM_ETABA": "المرتقى",
+    "AdresseL": "52,rue ahmed chaouki kenitra",
+    "AdresseA": " شارع أحمد شوقي،رقم52  القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ANOUAL",
+    "NOM_ETABA": "مجموعة مدارس أنوال الخصوصية",
+    "AdresseL": "Coopérative Saada, N° 83 kenit",
+    "AdresseA": "تعاونية السعادة، رقم   83 القن",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAKHILE",
+    "NOM_ETABA": "النخيل الخاصة",
+    "AdresseL": "Lotissement E Haouzia, N° 97 K",
+    "AdresseA": "تجزئة الحوزية، رقم 97  القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AFAQ ENNOUR",
+    "NOM_ETABA": "آفاق النور الخاصة",
+    "AdresseL": "N° 97, Bloc I, Ouled Oujih KEN",
+    "AdresseA": "رقم 97، بلوك\"اي\" اولاد اوجيه ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BENDAOUD",
+    "NOM_ETABA": "ابن داود",
+    "AdresseL": "Bir Erami Ouest, N° 218 kenitr",
+    "AdresseA": "بير الرامي الغربية، رقم  218 ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KAOUS KOZAH",
+    "NOM_ETABA": "قوس قزح",
+    "AdresseL": "ROUTE ANTARA N° 85 KENITRA",
+    "AdresseA": "طريق عنترة رقم 85 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE  ANNAJMA",
+    "NOM_ETABA": "مجموعة مدارس النجمة",
+    "AdresseL": "Lot. El Maghrib Al Arabi - ًzO",
+    "AdresseA": "تجزئة المغرب العربي - ج. س. بئ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JANNATE AL ATFALE",
+    "NOM_ETABA": "جنة الأطفال",
+    "AdresseL": " Rue Lahssen ounasser Lot 498.",
+    "AdresseA": "زنقة لحسن أوناصر بقعة 498 بير ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BICHARA",
+    "NOM_ETABA": "البشارة",
+    "AdresseL": "Rue 19 N° 653 Hay Al Irchad - ",
+    "AdresseA": "زنقة 19رقم 653، حي الإرشاد -  ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annexe Groupe scolaire Almajd",
+    "NOM_ETABA": "فرعية مجموعة مدارس المجد الخاصة",
+    "AdresseL": "N° 64, Hay Tanchit KENITRA",
+    "AdresseA": "رقم 64، حي التنشيط القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAKHIL EL HAOUZIA",
+    "NOM_ETABA": "النخيل الحوزية",
+    "AdresseL": "N°96b;  El Haouzia KENITRA",
+    "AdresseA": "رقم 96 ب الحوزية القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD AL MAARIFA 2",
+    "NOM_ETABA": "2رياض المعرفة",
+    "AdresseL": "Bloc B N° 213, Ouled Oujih - C",
+    "AdresseA": "بلوك ب، رقم 213 ولاد اوجيه - ج",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANABIL AL KHAIR",
+    "NOM_ETABA": "سنابل الخير",
+    "AdresseL": "Rue 2, N° 8, Bir Rami Ouest - ",
+    "AdresseA": "زنقة 2، رقم 8، بئر الرامي الغر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL OUAZZANI",
+    "NOM_ETABA": "الوزاني",
+    "AdresseL": "Lot. El Basma N° 83, Ouled Ouj",
+    "AdresseA": "تجزئة البسمة رقم 83 اولاد اوجي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA FLEUR MAUVE",
+    "NOM_ETABA": "لافلور موف",
+    "AdresseL": "N° 19, Bloc A, El Haouzia, Ken",
+    "AdresseA": "رقم 19 بلوك  -أ-  الحوزية  الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE NID MIMOSAS PRIMAIRE",
+    "NOM_ETABA": "لني ميموزا الإبتدائية",
+    "AdresseL": "N° 260, Bir Rami Est - C.U. Ke",
+    "AdresseA": "رقم 260، بئر الرامي الشرقية - ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARIS AZZOHOUR",
+    "NOM_ETABA": "مدارس الزهور",
+    "AdresseL": "Rue Des Ecoles Bir Rami - C. K",
+    "AdresseA": "زنقة المدارس بئر الرامي الشرقي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BENNIS ET TERRAB",
+    "NOM_ETABA": "  مجموعة مدارس بنيس و التراب",
+    "AdresseL": "3,4 Rue Anoual-Mimosas- KENITR",
+    "AdresseA": "رقم 4،3 زنقة أنوال- ميموزا -ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANABIL AL MANZAH",
+    "NOM_ETABA": "سنابل المنزه",
+    "AdresseL": "93, Av. almenzeh bir rami est ",
+    "AdresseA": "رقم 93 المنزه بئر الرامي السرق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSABIL",
+    "NOM_ETABA": "السبيل",
+    "AdresseL": "LOTISSEMENT IRCHAD N 437 KENIT",
+    "AdresseA": "حي الارشاد رقم  437 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HIJRA",
+    "NOM_ETABA": "الهجرة",
+    "AdresseL": "bir rami ouest n°84 rue 15 KEN",
+    "AdresseA": "بئر الرامي الغربية رقم:84 شارع",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION   SAINTE  FAMILLE",
+    "NOM_ETABA": " الأسرة القديسة",
+    "AdresseL": " PLACE ALMAGHREB ALARABI",
+    "AdresseA": " ساحة المغرب العربي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MIFTAH AL KHAYR",
+    "NOM_ETABA": "مفتاح الخير",
+    "AdresseL": "RUE16 N48 HAY MAAMORA  SAKNIA ",
+    "AdresseA": "الزنقة 16 رقم 48 حي معمورة الس",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE NID MIMOSAS",
+    "NOM_ETABA": "العش ميموزا",
+    "AdresseL": "14 RUE du CAIRE MIMOSAS kenitr",
+    "AdresseA": "زنقة القاهرة رقم 14 ميموزة الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALMAJD AL ASSIL",
+    "NOM_ETABA": "مجموعة مدارس المجد الاصيل",
+    "AdresseL": "4 RUE CHELLAH KENITRA",
+    "AdresseA": "رقم 4 زنقة شالة القنيطرة   ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT NOUR ARRACHAD",
+    "NOM_ETABA": " معهد نور الرشاد",
+    "AdresseL": "1751 ismailia",
+    "AdresseA": "1751 الإسماعيلية",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MONTCLAIR",
+    "NOM_ETABA": "مو نكلير",
+    "AdresseL": "RUE W, N°18 VAL FLEURY",
+    "AdresseA": "       رقم 18 فال فلوري W  زنق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GAUSS",
+    "NOM_ETABA": "كوس",
+    "AdresseL": "Rue moulay abdelhafid n° 17 ",
+    "AdresseA": "زنقة مولاي عبد الحفيظ رقم 17 ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FLORAISON",
+    "NOM_ETABA": "فلوريزون",
+    "AdresseL": "HAY alwafae I N° 2067 saknia K",
+    "AdresseA": "حي الوفاء 1 رقم 2067 الساكنية ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL GHIZLANE ADDAHABIA",
+    "NOM_ETABA": " الغزلان الذهبية ",
+    "AdresseL": "N° 53 IMPASSE RUE ICHBILYA MIM",
+    "AdresseA": "    الرقم 53 ممر مغلق زنقة إشب",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAVAL",
+    "NOM_ETABA": "لافال",
+    "AdresseL": "150 BIR RAMI OUEST KENITRA",
+    "AdresseA": " القنيطرة 150، بئر الرامي الغر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BENNISS",
+    "NOM_ETABA": "مجموعة مدارس بنيس",
+    "AdresseL": "63, RUe MOHAMMED RARNIT, 3 rue",
+    "AdresseA": "63 زنقة محمد غرنيط",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN HAZM AL ANDALOUSSI",
+    "NOM_ETABA": "ابن حزم الأندلسي الخصوصية ",
+    "AdresseL": "41 RUE SEBOU kenitra",
+    "AdresseA": "زنقة سبو القنيطرة 41 ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAKADOUM",
+    "NOM_ETABA": " مدرسة التقدم",
+    "AdresseL": "54 RUE ALMASJID ",
+    "AdresseA": "زنقة المسجد رقم 54",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DON BOSCO",
+    "NOM_ETABA": "دون بوسكو",
+    "AdresseL": "RUE MOHAMED ABDOU N 19",
+    "AdresseA": "زنقة محمد عبدو رقم 19",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SINDIBAD OLYMPIAD",
+    "NOM_ETABA": "مؤسسة سندباد أولمبياد",
+    "AdresseL": "LOTISSEMENT BARGACH LOT 8-9-10",
+    "AdresseA": " القنيطرة تجزئة بركاش قطع 8-9-",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE VAL FLEURY",
+    "NOM_ETABA": "مدرسة فالفلوري",
+    "AdresseL": "RUE BENDAOUD GHAZOUANI N .24 k",
+    "AdresseA": "  القنيطرة      24 زنقة ابن دا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR ELHIKMA EL JADIDA",
+    "NOM_ETABA": "دار الحكمة الجديدة",
+    "AdresseL": "171 BLOC B OULED OUJIH KENITRA",
+    "AdresseA": " بلوك ب أولاد وجيه 171 القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES MIMOSAS DU GHARB",
+    "NOM_ETABA": "مجموعة مدارس لميموزا الغرب",
+    "AdresseL": "40 RUE ZEM ZEM  MIMOSAS kenitr",
+    "AdresseA": "رقم 40زنقة زمزم ميموزا القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASMAA ESSADIKIA",
+    "NOM_ETABA": "أسماء الصديقية",
+    "AdresseL": "104 .RUE AHMED BOUGHABA .BIR R",
+    "AdresseA": "رقم 104   زنقة احمد بوغابة، بئ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  AL QIMMA",
+    "NOM_ETABA": "مؤسسة مجموعة مدارس القمة",
+    "AdresseL": "Bloc \"k\" N° 356, ouled oujih",
+    "AdresseA": "رقم 356 أولاد اوجيه  \"K\" بلوك ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT OUMNIA CULTURELLE",
+    "NOM_ETABA": "معهد الامنية الثقافية",
+    "AdresseL": "PAM GROUPE 94 KENITRA",
+    "AdresseA": " بام مجموعة 94 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BODOUR",
+    "NOM_ETABA": "بذور",
+    "AdresseL": "Almaghrib alaarabi   b3 n°13 K",
+    "AdresseA": "حي المغرب العربي ب3 رقم 13 الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OCHTAR",
+    "NOM_ETABA": "عشتار",
+    "AdresseL": "19 lotissement elmanzah",
+    "AdresseA": " بئر الرامي الشرقية - 19 تجزئة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BENNISS ET TERRAB",
+    "NOM_ETABA": "مجموعة مدارس بنيس و التراب",
+    "AdresseL": "3.4 RUE ANOUAL MIMOSA",
+    "AdresseA": "رقم 4،3- زنقة أنوال - ميموزا ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE BASTION ",
+    "NOM_ETABA": "لبستيون",
+    "AdresseL": "N° 812, Hay Smailia KENITRA",
+    "AdresseA": "رقم 812، الاسماعلية القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Alquantara",
+    "NOM_ETABA": "مجموعة مدارس القنطرة",
+    "AdresseL": "N° 27, Cooperative Al Wafae ou",
+    "AdresseA": "رقم 27، تعاونية الوفاء اولاد ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ISSRAE",
+    "NOM_ETABA": "الاسراء",
+    "AdresseL": "N° 880, Maghreb Arabi, Bloc D ",
+    "AdresseA": "رقم 880، المغرب العربي، بلوك  ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRABIE AL AKHDAR",
+    "NOM_ETABA": "الربيع الأخضر",
+    "AdresseL": "N° 748, Lot. Maghreb Arabi ken",
+    "AdresseA": "رقم 748، تجزئة المغرب العربي ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ALLIANCE MAROCAINE CULTURELLE",
+    "NOM_ETABA": "الأهلية الثقافية المغربية",
+    "AdresseL": "av.imam ali 107",
+    "AdresseA": "شارع الامام علي 107",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR AL MANAHIL",
+    "NOM_ETABA": "نور المناهل",
+    "AdresseL": "N° 784 Rue 19 Hay Elirchad sak",
+    "AdresseA": "رقم 784 زنقة 19 حي الإرشاد الس",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA COLLINE DES ANGES",
+    "NOM_ETABA": "لاكولين دي أونج",
+    "AdresseL": "486.lot.Ismailia KENITRA",
+    "AdresseA": "رقم 486 الاسماعيلية القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BEN AMAR",
+    "NOM_ETABA": "مجموعة مـدارس بـن عـمـر",
+    "AdresseL": "Rue 7 SAMITAL 1 KENITRA",
+    "AdresseA": "زنقة 7 ساميطال  1 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BACHAIR LKHAIR",
+    "NOM_ETABA": "بشائر الخير",
+    "AdresseL": "hay irchad n664-665 KENITRA",
+    "AdresseA": "رقم 464-465 حي الارشاد القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR ASSAFWA",
+    "NOM_ETABA": "نور الصفوة",
+    "AdresseL": "109 LOT alhizam kenitra",
+    "AdresseA": "رقم 109 تجزئة الحزام القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "488 ismailia kenitra",
+    "AdresseA": "رقم 488 الاسماعيلية القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL THALIS",
+    "NOM_ETABA": "أجيال طاليس",
+    "AdresseL": "Lot n°11, zone d activité, sak",
+    "AdresseA": "رقم 11، حي التنشيط، الساكنية ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TARIK",
+    "NOM_ETABA": "طارق",
+    "AdresseL": "LOT b2 N°32 M.ARABE KENITRA",
+    "AdresseA": "تجزئة  المغرب العربي القنيطرة ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT ECO-PLUS",
+    "NOM_ETABA": "معهد ايكو بلوس",
+    "AdresseL": "rue antara n°35 kenitra",
+    "AdresseA": "طريق عنترة رقم 35 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PETITE VALLEE PRIMAIRE",
+    "NOM_ETABA": "لابوتيت فالي ابتدائي",
+    "AdresseL": "bir rami est lot 129 KENITRA",
+    "AdresseA": "بقعة 129 بئر الرامي الشرقية ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IKRAE LILMOSTAKBAL",
+    "NOM_ETABA": "إقرأ للمستقبل",
+    "AdresseL": "B2 Nr 4 almaghrib alarabi oule",
+    "AdresseA": "تجزئة الحريشي 166 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HOUDA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "162, quartier wrida KENITRA",
+    "AdresseA": "رقم 162، حي وريدة  القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASSIDIQ",
+    "NOM_ETABA": "مؤسسة الصديق",
+    "AdresseL": "AVENUE AL QADISSIA loT al magh",
+    "AdresseA": "شارع القادسية تجزئة المغرب تمد",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE PHENIX",
+    "NOM_ETABA": "فينيكس",
+    "AdresseL": "90/A zone d activitée - route ",
+    "AdresseA": "رقم 90 بكوك أ منطقة التنشيط طر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KAWTAR",
+    "NOM_ETABA": "الكوثر",
+    "AdresseL": "n 55 rue 23 bab fes kenitra",
+    "AdresseA": "رقم 55 الزنقة 23 باب فاس القني",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOLIERE",
+    "NOM_ETABA": "موليير",
+    "AdresseL": "177 RUE AL IMAME ALI",
+    "AdresseA": "شارع الامام علي رقم 177 ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHABAB AL ANDALOUS",
+    "NOM_ETABA": "شباب الأندلس",
+    "AdresseL": "1363 el ismailia kenitra",
+    "AdresseA": "الاسماعيلية 1363 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES BOURGEONS",
+    "NOM_ETABA": "ليبورجون",
+    "AdresseL": "valfleury lot bargach n°11 KEN",
+    "AdresseA": " رقم 11 فال فلوري تجزئة بركاش ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MARHABA ATFAL",
+    "NOM_ETABA": "مرحبا أطفال",
+    "AdresseL": "1298 ismailia KENITRA",
+    "AdresseA": "رقم 1298 الاسماعيلية القنيطرة ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT A GRANDS PAS",
+    "NOM_ETABA": "مؤسسة أكرون با الخاصة ",
+    "AdresseL": "68 BIS RUE aNOUAL KENITRA",
+    "AdresseA": "شارع انوال  مكرر 68 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Gauss préscolaire",
+    "NOM_ETABA": " كوس التعليم الأولي",
+    "AdresseL": "5, rue yaakoub mansour KENITRA",
+    "AdresseA": "ا5 يعقوب المنصور القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE SENTIER",
+    "NOM_ETABA": "لو سانتيي",
+    "AdresseL": "93 rue eskelli med ben el ouad",
+    "AdresseA": "زنقة الصقلي محمد بن الوادودي ر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN D ALEMBERT",
+    "NOM_ETABA": "جان دلمبير",
+    "AdresseL": "5.rue ibn rochd KENITRA",
+    "AdresseA": " زنقة ابن رشد  رقم 5 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL GHAZALI",
+    "NOM_ETABA": "مجموعة مدارس الغزالي",
+    "AdresseL": "LOT 9, RUE 13, QUARTIER INDUST",
+    "AdresseA": "   تجرئة 9 ، زنقة 13 ، الحي ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PETITE VALLEE 2E",
+    "NOM_ETABA": "لابوتيت فالي 2 الخصوصية",
+    "AdresseL": "497 bir rami est kenitra",
+    "AdresseA": " القنيطرة 497 بئر الرامي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MELANIE KLEINE",
+    "NOM_ETABA": "مجموعة مدارس ميلاني كلاين الخصوصية",
+    "AdresseL": "N 283 BIR RAMI OUEST KENITRA",
+    "AdresseA": "رقم 283 بئر الرامي الغربية الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAHD AL-OLOUM",
+    "NOM_ETABA": "مهد العلوم",
+    "AdresseL": "46 RUE AHMED CHAOUKI KENITRA",
+    "AdresseA": "رقم 46 شارع أحمد شوقي القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ROMAE",
+    "NOM_ETABA": "مدرسة روما الخصوصية",
+    "AdresseL": "LOT HADDADA N 2349 KENITRA",
+    "AdresseA": "تجزئة الحدادة رقم 2349 القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SINDIBAD PRESCOLAIRE",
+    "NOM_ETABA": "سندباد للتعليم الاولي",
+    "AdresseL": "11 rue chakib arsalane kenitra",
+    "AdresseA": "رقم 11، زنقة شكيب ارسلان، القن",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PASSERELLE BLEUE",
+    "NOM_ETABA": "لاباسريل بلو",
+    "AdresseL": "n 24 valfleury rue o kenitra",
+    "AdresseA": " رقم 24 فالفلوري القنيطرةOزنقة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JANT ARREDOUANE",
+    "NOM_ETABA": "جنة الرضوان",
+    "AdresseL": "hay al wafa 2 n 453",
+    "AdresseA": "حي الوفاء 2 رقم 453 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSIRAJ AL OUAHHAJ",
+    "NOM_ETABA": "السراج الوهاج",
+    "AdresseL": "lot al amal 2 n 489 kenitra",
+    "AdresseA": "تجزئة الامل 2 رقم 489 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR ASSAFOUA",
+    "NOM_ETABA": "دار الصفوة",
+    "AdresseL": "hay al WAfae 3 n 203 saknia ke",
+    "AdresseA": "حي الوفاء 3 رقم 203 الساكنية ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FLORAISON 2",
+    "NOM_ETABA": "فلوريزون2",
+    "AdresseL": "lot al amal 2 n 477. 479 kenit",
+    "AdresseA": "تجزئة الامل 2 رقم 477 و 479 ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AYTALS",
+    "NOM_ETABA": "أيتال",
+    "AdresseL": "35 bir rami est kenitra",
+    "AdresseA": "بير الرامي الشرقية 35 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL QIMMA(PRESCOLAIRE)",
+    "NOM_ETABA": "مجموعة مدارس القمة (للتعليم الاولي",
+    "AdresseL": "Bloc  I  n° 182 ouled oujih KE",
+    "AdresseA": "رقم 182 بلوك القنيطرة i اولاد ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE SOLEIL JUNIOR",
+    "NOM_ETABA": "لوصولاي جينيور ",
+    "AdresseL": "27 rue Jamal Eddine Al Afghani",
+    "AdresseA": "زنقة جمال الدين الافغاني رقم 2",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JIL AL MOSTAQBALE",
+    "NOM_ETABA": "مجموعة مدارس جيل المستقبل",
+    "AdresseL": "lot haddada eq20 kenitra",
+    "AdresseA": "تجزئة الحدادة eq20 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EL AMRAOUI",
+    "NOM_ETABA": "مجموعة مدارس العمراوي",
+    "AdresseL": "A 29 El Haouzia kenitra",
+    "AdresseA": "الحوزية a29 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CLAIRE JOIE",
+    "NOM_ETABA": "كلير جوا",
+    "AdresseL": "322 bir rami ouest kenitra",
+    "AdresseA": "رقم 322 بئر الرامي الغربية الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES 4 SAISONS",
+    "NOM_ETABA": "لي 4 سيزون",
+    "AdresseL": "60 hay assalam kenitra",
+    "AdresseA": "رقم 60 حي السلام القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BODOR EL HIKMA",
+    "NOM_ETABA": "بذور الحكمة",
+    "AdresseL": "174 bloc b ouled oujih kenitra",
+    "AdresseA": "174 بلوك ب اولاد اوجيه القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MONCLAIR 2",
+    "NOM_ETABA": "مونكلير 2",
+    "AdresseL": "Rue Q N°5 Val Fleury KENITRA",
+    "AdresseA": "رقم 5 فال فلوري القنيطرة Qزنقة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COMPLEXE SCOLAIRE LENEWTON",
+    "NOM_ETABA": "المركب المدرسي لونيوتن",
+    "AdresseL": "dar assalama 4 kenitra",
+    "AdresseA": "دار السلامة 4 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LA GRANDE FAMILLE",
+    "NOM_ETABA": "مدرسة لاكروند فمي",
+    "AdresseL": "Lot 2076, Bir Rami Sud. KENITR",
+    "AdresseA": "بئر الرامي الجنوبية رقم 2076ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CENTRALE DE KENITRA",
+    "NOM_ETABA": "إيكول سونترال دو القنيطرة",
+    "AdresseL": "89 angle med abdou et rue maam",
+    "AdresseA": "زاوية محمد عبدو زنقة معمورة رق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EULER SCHOOL",
+    "NOM_ETABA": "أولير سكول",
+    "AdresseL": "329 Bloc B Ouled Oujyh KENITRA",
+    "AdresseA": "القنيطرة 329 اولاد اوجيه بلوك ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAURIER",
+    "NOM_ETABA": "لوريي",
+    "AdresseL": "284,Ouled oujih,bloc b,kenitra",
+    "AdresseA": "القنيطرة 284 بلوك ب اولاد اوجي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MARAKI EL MAJD",
+    "NOM_ETABA": "مراقي المجد",
+    "AdresseL": "33 lot esmailia kenitra",
+    "AdresseA": "رقم 33 تجزئة الاسماعيلية القني",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSOMOU",
+    "NOM_ETABA": "السمو",
+    "AdresseL": "LOTISSEMENT iSMAILIA 483 KENIT",
+    "AdresseA": "تجزئة الإسماعلية 483 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA NOUVELLE VAGUE",
+    "NOM_ETABA": "لانوفيل فاك",
+    "AdresseL": "bloc i, n°99, ouled oujih KENI",
+    "AdresseA": " رقم 99 اولاد اوجيه القنيطرة I",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALPHA",
+    "NOM_ETABA": "مجموعة مدارس ألفا",
+    "AdresseL": "al maghrib al arabi c bir rami",
+    "AdresseA": "المغرب العربي س. بئر رامي الغر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NEASDEN",
+    "NOM_ETABA": "نيزدن",
+    "AdresseL": "zone d activités,d40,ismailia ",
+    "AdresseA": "منطقة التنشيط رقم د40 الاسماعي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADL ALLAH",
+    "NOM_ETABA": "فضل الله",
+    "AdresseL": "Groupe 102 N 45 Q Nour Saknia",
+    "AdresseA": "حي النور زنقة 102 رقم 45 بام 2",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ZGHARI",
+    "NOM_ETABA": "مجموعة مدارس الزغاري",
+    "AdresseL": "343, bir rami est ",
+    "AdresseA": "بئر الرامي الشرقية رقم 343 ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE TESLA",
+    "NOM_ETABA": "مجموعة مدارس تسلا",
+    "AdresseL": "bloc b 221 oulad oujih KENITRA",
+    "AdresseA": "بلوك ب رقم 221 أولاد أوجيه الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHANSAE",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "HAY ANNASR RUE 87 N6 BIS SAKNI",
+    "AdresseA": "حي النصر: زنقة 87، رقم 6 مكرر،",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAXWELL",
+    "NOM_ETABA": "ماكسويل",
+    "AdresseL": "N 905 BIR RAMI EST KENITRA",
+    "AdresseA": "رقم 905 بئر الرامي الشرقية الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL ILMIYA",
+    "NOM_ETABA": "مجموعة المدارس العلمية",
+    "AdresseL": "Lot 45e taybia route de mehdia",
+    "AdresseA": "طريق مهدية E الطيبية تجزئة 45",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARIS DELTA",
+    "NOM_ETABA": "مدارس دلتا",
+    "AdresseL": "971 bir rami sud kenitra",
+    "AdresseA": "رقم 971 بئر الرامي الجنوبية ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR AL MANAR",
+    "NOM_ETABA": "دار المنار",
+    "AdresseL": "lotissement al amal 2 n 39et40",
+    "AdresseA": "تجزئة الامل2 رقم 39 و40 الساكن",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL QIMMA 3",
+    "NOM_ETABA": "مجموعة مدارس القمة 3",
+    "AdresseL": "BLOC I N 84 OULAD OUJIH KENITR",
+    "AdresseA": "بلوك القنيطرة i اولاد اوجيه84 ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HILAL",
+    "NOM_ETABA": " الهلال",
+    "AdresseL": "n 228 hay lirchad attaouassoai",
+    "AdresseA": "رقم 228 حي الارشاد التوسعي الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHAJARA AL MOBARAKA",
+    "NOM_ETABA": "الشجرة المباركة",
+    "AdresseL": "rue 6 n 01 saknia kenitra",
+    "AdresseA": "زنقة 6 رقم 01 الساكنية القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZAHRATO AL MADAIN",
+    "NOM_ETABA": "زهرة المدائن",
+    "AdresseL": "rue 101 n 22 hay annour saknia",
+    "AdresseA": "زنقة 101 رقم 62 حي النور الساك",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NASSIM AL FAJR",
+    "NOM_ETABA": "نسيم الفجر",
+    "AdresseL": "angle20 et 24 zone industriell",
+    "AdresseA": "زاوية20 و 24 الحي الصناعي باب ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SINDIBAD  SAKNIA",
+    "NOM_ETABA": "سندباد الساكنية",
+    "AdresseL": "lot sakniya n 12 d kenitra",
+    "AdresseA": "تجزئة الساكنية رقم 12 د القنيط",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE CLEOPATRE",
+    "NOM_ETABA": "مجموعة مدارس كليوباترا",
+    "AdresseL": "lotissement al amal 2 n 5 sakn",
+    "AdresseA": "تجزئة الامل 2 رقم 5 الساكنية ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT PEDAGOGIQUE DES ETUDES FONDAMENTALES ET LANGUES",
+    "NOM_ETABA": "إبيلف",
+    "AdresseL": "rue medv num 77 KENITRA",
+    "AdresseA": "رقم 77 شارع محمد الخامس القنيط",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSIRAJ",
+    "NOM_ETABA": "السراج",
+    "AdresseL": "1112; hay al amal2 kenitra",
+    "AdresseA": "حي الأمل 2 رقم 1112  القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE SENTIER JUNIOR",
+    "NOM_ETABA": "لوسونتيي جينيور",
+    "AdresseL": "34 rue ghandi",
+    "AdresseA": "34 زنقة غاندي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AOUNWANE",
+    "NOM_ETABA": "العنوان",
+    "AdresseL": "2068 Bir RAMI sud kénitra",
+    "AdresseA": "بئر رامي الجنوبية رقم 2068 الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ARD AL MAARIFAE",
+    "NOM_ETABA": "مدرسة ارض المعرفة الخصوصية",
+    "AdresseL": "bloc d ne321elmaghreb arabi",
+    "AdresseA": "بلوك د رقم 321 حي المغرب العرب",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire cleopatre 2",
+    "NOM_ETABA": "مجموعة مدارس كليوباترا 2 الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الأمل 2 رقم 1077-1079 ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire edkou",
+    "NOM_ETABA": "مجموعة مدارس ايدكو",
+    "AdresseL": "",
+    "AdresseA": "حي الامل الساكنية",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETAPE POUR L EXCELLENCEE",
+    "NOM_ETABA": "ايطاب بور ليكسيلونص الخصوصية",
+    "AdresseL": "Lotissement Haddada n 4",
+    "AdresseA": "تجزئة الحدادة رقم 4",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "riad al yassamine",
+    "NOM_ETABA": "رياض الياسمين الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الحدادة رقم 732 ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL NOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "BLOC I N:121 OULED OUJIH KENIT",
+    "AdresseA": "  رقم 121 بلوك   أولاد اوجيه  ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madrassat al manahil litarbia ouAtaalim",
+    "NOM_ETABA": "مدرسة المناهل للتربية والتعليم",
+    "AdresseL": "Val fleury en face du lotissem",
+    "AdresseA": "تجزئة لوفالون الرسم العقاري 13",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "averroes du gharbe - annexe1",
+    "NOM_ETABA": "أفرويس الغرب الخصوصية / الملحقة1  ",
+    "AdresseL": "n° 276 Bir rami ouest",
+    "AdresseA": "رقم 276 بئر الرامي الغربية",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "averroes du gharbe - prescolaire",
+    "NOM_ETABA": "أفرويس الغرب الخصوصية – التعليم الأولي",
+    "AdresseL": "",
+    "AdresseA": "رقم 275 بئر الرامي الغربية الط",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR EL IRFAN",
+    "NOM_ETABA": "دار العرفان",
+    "AdresseL": "258 BLOC K OULED OUJIH",
+    "AdresseA": "بلوك ك رقم 258 أولاد أوجيه",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DAR ALMAARIFA ALHIZAM",
+    "NOM_ETABA": "مؤسسة دار المعرفة  الحزام الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الحزام بلوك d رقم 8 السا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ptit pont",
+    "NOM_ETABA": "بتي بون",
+    "AdresseL": "bloc L n 356 ouled oujih kénit",
+    "AdresseA": "بلوك ل رقم 356 أولاد أوجيه",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al mostakbal al mochrik",
+    "NOM_ETABA": "المستقبل المشرق الخصوصية ",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الحزام الساكنية رقم 114",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Golden Yasminee",
+    "NOM_ETABA": "مدرسة جولدن ياسمين الخاصة",
+    "AdresseL": "236 OULED OUJIH BLOC \"D\"",
+    "AdresseA": "رقم 236 بلوكbأولاد أوجيه القني",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement chorouk chams",
+    "NOM_ETABA": "مؤسسة شروق الشمس الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "61ج المغرب العربي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la petite vallee",
+    "NOM_ETABA": "لا بوتيت فالي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 8 أحمد شوقي فال فلوري",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FLEUR DE PASSION ENSEIGNEMENT",
+    "NOM_ETABA": "فلور دو باسيون التعليم الخاص",
+    "AdresseL": "n 2070 lot al wafae 1 souk ess",
+    "AdresseA": "رقم 2070 تجزئة الوفاء 1 سوق ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE OUAZZANI PLUS",
+    "NOM_ETABA": "مجموعة مدارس الوزاني بليس",
+    "AdresseL": "BLOC \"H\" N° 209 OUELD OUJIH KE",
+    "AdresseA": "بلوك ه 209  أولاد أوجيه القنيط",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE HALOUI",
+    "NOM_ETABA": "مجموعة مدارس الحلوي الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "زاوية زنقة 155 و 163 تجزئة الج",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NASSIM AL BAHR",
+    "NOM_ETABA": "مجموعة مدارس نسيم البحر الخاصة",
+    "AdresseL": "BIr RAmi EST rue 185 et 529 Ké",
+    "AdresseA": "بئر الرامي زنقة 185 و 529 القن",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE YASSAMINE KENITRAE",
+    "NOM_ETABA": "مدرسة ياسمين القنيطرة الخاصة",
+    "AdresseL": "n 260 lot saknia kenitra",
+    "AdresseA": "رقم 260 تجزئة الساكنية القنيطر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ZGHARI",
+    "NOM_ETABA": "مجموعة مدارس الزغاري الخاصة",
+    "AdresseL": "",
+    "AdresseA": "رقم 483 بئر الرامي الشرقية الق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ENFANT D ORE",
+    "NOM_ETABA": "لونفون دور الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 35 الطيبية القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUMAYMA KARIM",
+    "NOM_ETABA": "أميمة كريم",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1874 تجزئة الوفاء 1 القنيط",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANAS PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أنس للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 65 حي المنزه القنيطرة  Cقط",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAWD ALK MOUSTAPHA",
+    "NOM_ETABA": "روض المصطفى الخاص",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 13 زنقة سبتة عمارة 59 الطا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement leila",
+    "NOM_ETABA": "مؤسسة ليلي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 374 بلوك أ أولاد أوجيه",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire le but",
+    "NOM_ETABA": "مجموعة مدارس لو بيت الخاصة",
+    "AdresseL": "lot maghreb arabi bloc f1 oule",
+    "AdresseA": "تجزئة المغرب العربي بلوك f1",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement macharik al maarifa",
+    "NOM_ETABA": "مؤسسة مشارق المعرفة الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "1852 الوفاء (الرسم العقاري 455",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire oumaima karim",
+    "NOM_ETABA": "مجموعة مدارس أميمة كريم الخاصة",
+    "AdresseL": "",
+    "AdresseA": "الوفاء 3 رقم 26",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire nassim al bahr 2",
+    "NOM_ETABA": "مجموعة مدارس نسيم البحر 2 الخاصة",
+    "AdresseL": "ANGLE RUE165 ET 34 BIR RAMI KE",
+    "AdresseA": "ملتقى زنقة 134 وزنقة 65 بئر ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ajial Thales  El jodod",
+    "NOM_ETABA": "أجيال طاليس الجدد الخاصة",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الحاج منصور بلوك C رقمم ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al quantara",
+    "NOM_ETABA": "القنطرة",
+    "AdresseL": "bir rami ouest n- 40",
+    "AdresseA": "رقم 40 بئر الرامي الغربية",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire le bastion",
+    "NOM_ETABA": "مجموعة مدارس لبستيون",
+    "AdresseL": "812 QUARTIER Al Ismailia KENIT",
+    "AdresseA": "الإسماعيلية رقم 812 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "essounboula",
+    "NOM_ETABA": "السنبلة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الوفاء I  رقم 1683 الطاب",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Arrohamae",
+    "NOM_ETABA": "الرحماء",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الوفاء1 رقم 877",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jeu pousse",
+    "NOM_ETABA": "جو بوس",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 557 بئر الرامي الشرقية الط",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arrahma",
+    "NOM_ETABA": "الرحمة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 23 زنقة 2 المدينة القديمة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El malak essaghir",
+    "NOM_ETABA": "الملك الصغير خصوصي",
+    "AdresseL": "",
+    "AdresseA": "   الطابق الارضي   G رقم 414 ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Happy land",
+    "NOM_ETABA": "هابي لاند الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "    Bرقم 342 اولاد اوجيه 2مجمو",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Roots & wings academy",
+    "NOM_ETABA": "روتس & وينكس اكاديمي الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 51 تجزئة بركاش الطابق الاو",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al boustane assihri",
+    "NOM_ETABA": "البستان السحري",
+    "AdresseL": "NULL",
+    "AdresseA": "المغرب العربي c الرسم العقاري ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le depart",
+    "NOM_ETABA": "لودبار الخاصة",
+    "AdresseL": "",
+    "AdresseA": "رقم 2152 حي لوفالون الطابق الأ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe SCOLAIRE ecole plus",
+    "NOM_ETABA": "مجموعة مدارس إكول بليس الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الصديقة رقم 25",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el kinana",
+    "NOM_ETABA": "الكنانة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بام 2 زنقة 101 رقم 24",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madariss diwane al farouke",
+    "NOM_ETABA": "مدارس ديوان الفاروق الخاصة",
+    "AdresseL": "Lot alarsa gr elkaoutar rue ab",
+    "AdresseA": "تجزئة العرصة مجموعة الكوثر شار",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lycee haut potentiel",
+    "NOM_ETABA": "ليسي أوبطونسيال الخاصة",
+    "AdresseL": "53 rue tarik ibn ziad kenitra",
+    "AdresseA": "زنقة طارق بن زياد رقم 53 الرسم",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Aristone ",
+    "NOM_ETABA": "أريستون الخاصة",
+    "AdresseL": "RUE MUSTAPHA RAFII N 18 KENITR",
+    "AdresseA": "رقم 18 زنقة مصطفى الرافعي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Madrassat alfathe",
+    "NOM_ETABA": "مدرسة الفتح الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 31 بلوك B3  تجزئة المغرب",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "college scientifique fadel kenitra",
+    "NOM_ETABA": "كوليج سيونتفيك فاضل القنيطرة",
+    "AdresseL": "",
+    "AdresseA": "تجزئة المغرب العربي ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lycee scientifique bir rami fadel",
+    "NOM_ETABA": "ليسي سيونتفيك بئر الرامي فاضل الخصوصية",
+    "AdresseL": "N 34 AVENUE LAMHANNED KASEME B",
+    "AdresseA": "رقم 34 شارع لمهند قاسم بئر الر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire marie montessori",
+    "NOM_ETABA": "مجموعة مدارس ماريا مونتيسوري",
+    "AdresseL": "ecole maria montessori",
+    "AdresseA": "الرسم العقاري 13/147636 بئر ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nuage blanc",
+    "NOM_ETABA": "نياج بلون الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 68 بلوك K تجزئة أولاد أوجي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Cactus Rosee",
+    "NOM_ETABA": "كاكتيس غوز الخصوصية",
+    "AdresseL": "97 LOTISSEMENT BRIKAT",
+    "AdresseA": "رقم 97 تجزئة ابريكة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole elhaj fateh",
+    "NOM_ETABA": "مدرسة الحاج فاتح الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "بئر الرامي الجنوبية الرسم العق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "perso energiee",
+    "NOM_ETABA": "برسو إنرجي الخاصة",
+    "AdresseL": "oULED OUJIH BLOC D NUMERO132",
+    "AdresseA": "رقم 132 بلوك D تجزئة أولاد أوج",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "junior land",
+    "NOM_ETABA": "جونيور لاند",
+    "AdresseL": "bloc A nr 298 ouled oujih",
+    "AdresseA": "رقم 298 بلوك A اولاد أوجيه",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madrassat rouad al ilm litaalim labtidai",
+    "NOM_ETABA": "مدرسة رواد العلم للتعليم الإبتدائي الخصوصي",
+    "AdresseL": "بقعة 11 تجزئة الإرشاد التوسيعي",
+    "AdresseA": "بقعة 11 تجزئة الإرشاد التوسيعي",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hiba alkarim",
+    "NOM_ETABA": "هبة الكريم",
+    "AdresseL": "NULL",
+    "AdresseA": "684 بئر الرامي الجنوبية",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anware al bayane",
+    "NOM_ETABA": "أنوار البيان الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "1589 الإسماعيلية الطابق الأول",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "college les mimosas",
+    "NOM_ETABA": "كوليج لميموزا الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": " الطابق الأول ميموزا زنقة زمزم",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lycee les mimosas kenitra",
+    "NOM_ETABA": "ليسي لميموزا  القنيطرة الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": " زنقة زمزم  الطابق الأول ميموز",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alaouail",
+    "NOM_ETABA": "الأوائل",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 495 زنقة 9 تجزئة الشعبي  ح",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROOTS AND WINGS ACADEMY 2",
+    "NOM_ETABA": "روتس & وينكس اكاديمي الخاصة 2",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 287 تجزئة بئر الرامي الغرب",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al amal litofoula",
+    "NOM_ETABA": "الأمل للطفولة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الإسماعيلية رقم 1060",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Jaidaee",
+    "NOM_ETABA": "إكول جيداء الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة لوفالون رقم 2597",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les vergers",
+    "NOM_ETABA": "ليفرجي الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 11 فال فلوري",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE PEDAGOGIQUE KENITRA L EXCELLENCE",
+    "NOM_ETABA": " المجموعة التربوية القنيطرة لكسلانس  الخاصة",
+    "AdresseL": "",
+    "AdresseA": "تعاونية الأمل رقم 57",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole la cigogne",
+    "NOM_ETABA": "مؤسسة لاسكون الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك D تجزئة الحزام رقم 37 الس",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement tariq al ilm",
+    "NOM_ETABA": "المؤسسة الخصوصية طريق العلم",
+    "AdresseL": "NULL",
+    "AdresseA": "الوفاء 3 رقم 630",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire diyae al maarifa",
+    "NOM_ETABA": "مجموعة مدارس ضياء المعرفة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 30 د تجزئة الحزام",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al joud generation",
+    "NOM_ETABA": "الجود جنراسيون الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الوفاء 1 رقم 2016",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bilal assalam",
+    "NOM_ETABA": "بلال السلام",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المغرب العربي بلوك F1 ",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chams ALIRCHad",
+    "NOM_ETABA": "شمس الارشاد",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الارشاد زنقة 31 رقم34",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire bendaoud",
+    "NOM_ETABA": "مجموعة مدارس بنداود",
+    "AdresseL": "angle chaouki et mlilia n°1 la",
+    "AdresseA": "زاوية شوقي ومليلية رقم 1",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El bassira",
+    "NOM_ETABA": "البصيرة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك ف رقم 250 الحوزية",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA VOIE D'OR",
+    "NOM_ETABA": "مجموعة مدارس لافوا دوغ الخاصة",
+    "AdresseL": "lotissement bait lkhir nr 21 b",
+    "AdresseA": "تجزئة بيت الخير رقم 21 بير الر",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "coucou walidat biladi ",
+    "NOM_ETABA": "كوكو وليدات بلادي",
+    "AdresseL": "nr 1746 lotissement al ouafa1 ",
+    "AdresseA": "رقم 1746 تجزئة الوفاء 1 الساكن",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee erbily bouziane",
+    "NOM_ETABA": "المؤسسة الخصوصية الربيلي بوزيان",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الأمل الشطر 1 رقم 1976 ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "witty kids",
+    "NOM_ETABA": "ويتي كيدز الخاصة",
+    "AdresseL": "136 Bir Rami est",
+    "AdresseA": "رقم 136 تجزئة بئر الرامي الشرق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aquarelle crechee",
+    "NOM_ETABA": "أكواريل كريش الخاصة",
+    "AdresseL": "33, rue el qahira quartier mim",
+    "AdresseA": "الرسم العقاري عدد 63374/R فيلا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT LILIA",
+    "NOM_ETABA": "مؤسسة ليليا الخصوصية",
+    "AdresseL": "LOTISSEMENT ALOUAFA 3 TITRE FO",
+    "AdresseA": "تجزئة الوفاء3 الرسم العقاري13/",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole la grande valléee",
+    "NOM_ETABA": "إكول لاكروند فالي الخصوصية",
+    "AdresseL": "nr E3 lotissement maamora titr",
+    "AdresseA": "رقم E3 تجزئة المعمورة الرسم ال",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BENAMAR BASSATINE",
+    "NOM_ETABA": "مجموعة مدارس بن عمربساتين الخصوصية",
+    "AdresseL": "NR 8 LOTISSEMENT ELBASSATINE",
+    "AdresseA": "رقم 8 تجزئة البساتين",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT PEDAGOGIQUE DES ETUDES FONDAMENTALES ET LANGUES (AN",
+    "NOM_ETABA": " آنستيتي بيداغوجيك دي إتيد فوندامونطال إي لونج  (الملحقة)",
+    "AdresseL": "nr 48 bir rami est (titre fonc",
+    "AdresseA": " رقم 48 بئر الرامي  الرسم العق",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole rouad al ilm de l'enseignement",
+    "NOM_ETABA": "إكول رواد العلم للتعليم الخصوصي",
+    "AdresseL": "alirchad tawasouai nr 30 titre",
+    "AdresseA": "الإرشاد التوسعي رقم 30 الرسم ا",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jardin d'enfants",
+    "NOM_ETABA": "جردان دونفون الخصوصية",
+    "AdresseL": "alouafa1 nr 535 ",
+    "AdresseA": "الوفاء 1 رقم 535",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Majorelle  Junior",
+    "NOM_ETABA": "ماجوريل جنيور",
+    "AdresseL": "nr9  lotissement elqods",
+    "AdresseA": "رقم 9 تجزئة القدس",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire Barrire",
+    "NOM_ETABA": "مجموعة مدارس برير الخاصة",
+    "AdresseL": "lotissement alirchad nr 398 ké",
+    "AdresseA": "تجزئة الإرشاد رقم 398 القنيطرة",
+    "COMMUNE": "Kénitra ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

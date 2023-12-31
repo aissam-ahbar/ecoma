@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI BAKR ESSIDDIQ",
+    "NOM_ETABA": "الثانوية الإعدادية أبي بكر الصديق",
+    "AdresseL": "CHOUAFAA",
+    "AdresseA": "الشوافع",
+    "COMMUNE": "Chouafaa",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHOUAFAA",
+    "NOM_ETABA": "الشوافع",
+    "AdresseL": "DOUAR CHOUAFAA CENTRE COMMNE CHOUAFAA",
+    "AdresseA": "دوار الشوافع المركز جماعة الشوافع",
+    "COMMUNE": "Chouafaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MHAMID BOUIB",
+    "NOM_ETABA": "امحاميد بويب",
+    "AdresseL": "DOUAR MHAMID BOUIB COM CHOUAFAA",
+    "AdresseA": "دوار امحاميد بويب  ج/ الشوافع",
+    "COMMUNE": "Chouafaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HART TEDDANA",
+    "NOM_ETABA": "حرث تدانة",
+    "AdresseL": "HART TADDANA CENTRE",
+    "AdresseA": "حرث تدانة المركز",
+    "COMMUNE": "Chouafaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " DAR ELHARRAK",
+    "NOM_ETABA": "دار الحراق",
+    "AdresseL": "DOUAR DAR EL HARRAK COMMUNE CHOUAFAA",
+    "AdresseA": "دوار دار الحراق جماعة الشوافع",
+    "COMMUNE": "Chouafaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BESSAM",
+    "NOM_ETABA": "اولاد بسام",
+    "AdresseL": "DOUAR OULED BESSAM COMMUNE CHOUAFAA",
+    "AdresseA": "دوار اولاد بسام جماعة الشوافع",
+    "COMMUNE": "Chouafaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

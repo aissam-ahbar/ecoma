@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SS IBNOU SINAA CENTRE AMARAR ",
+    "NOM_ETABA": "م.م ابن سيناء مركزية امراغ",
+    "AdresseL": "DOUAR AMARAGH COMMUNE AGLOU",
+    "AdresseA": "دوار أمراغ جماعة أكلو",
+    "COMMUNE": "Tnine Aglou",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED VI IDERK CENTRE IDERK",
+    "NOM_ETABA": "م.م محمد السادس ادرق مركزية ادرق",
+    "AdresseL": "DOUAR IDERK",
+    "AdresseA": "دوار ادرق",
+    "COMMUNE": "Tnine Aglou",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SOUSS ALAALIMA CENTRE ZAOUITE",
+    "NOM_ETABA": "م.م سوس العالمة مركزية الزاوية",
+    "AdresseL": "DOUAR ZAOUITE",
+    "AdresseA": "دوار الزاوية",
+    "COMMUNE": "Tnine Aglou",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOU ALHAITAM CENTRE ELGAADA IDOUBIDA",
+    "NOM_ETABA": "م.م ابن الهيثم مركزية الكعدة ادوبيضة",
+    "AdresseL": "DOUAR IDOUBIDA ELGAADA",
+    "AdresseA": "     دوار إدوبيضة الكعدة ",
+    "COMMUNE": "Tnine Aglou",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI OUAGAG",
+    "NOM_ETABA": "الثانوية التاهيلية سيدي وكاك",
+    "AdresseL": "douar AMaRAGH commune TNINE AGLOU province de TIZN",
+    "AdresseA": "دوار أمراغ جماعة إثنين أكلو إقليم تيزنيت",
+    "COMMUNE": "Tnine Aglou",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

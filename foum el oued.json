@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FOUM EL OUED",
+    "NOM_ETABA": "الثانوية الإعدادية فم الواد",
+    "AdresseL": "COMMUN RURAL FOUM EL OUED",
+    "AdresseA": "جماعة فم الواد",
+    "COMMUNE": "Foum El Oued",
+    "PROVINCE": "Province: Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MÈRE FOUM EL OUED AL KARIA",
+    "NOM_ETABA": "مركزية فم الواد القرية",
+    "AdresseL": "Commune FOUM eloued ALKARIA laayoune",
+    "AdresseA": "  جماعة فم الواد القرية العيون",
+    "COMMUNE": "Foum El Oued",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAROUMA",
+    "NOM_ETABA": "المدرسة الإبتدائية تارومة",
+    "AdresseL": "village des pecheurs Tarouma ",
+    "AdresseA": "قرية الصيادين تاروما",
+    "COMMUNE": "Foum El Oued",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  PALISTINE",
+    "NOM_ETABA": "المدرسة الإبتدائية فلسطين",
+    "AdresseL": "cité al villat foum el oued",
+    "AdresseA": "حي الفيلات فم الواد",
+    "COMMUNE": "Foum El Oued",
+    "PROVINCE": "Laâyoune",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  }
+]

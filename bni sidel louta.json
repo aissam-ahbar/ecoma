@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL JABER BNOU HAYAN",
+    "NOM_ETABA": "الثانوية الإعدادية جابر بن حيان",
+    "AdresseL": "BNI SIDEL LOUTA",
+    "AdresseA": "بني سيدال لوطا",
+    "COMMUNE": "Bni Sidel Louta",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ILAHYANENE",
+    "NOM_ETABA": "مجموعة مدارس الحيانن",
+    "AdresseL": "DOUAR ILAHYANENE COMMUNE BNI SIDEL LOUTA",
+    "AdresseA": "دوار الحيانن",
+    "COMMUNE": "Bni Sidel Louta",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE LAAZIB",
+    "NOM_ETABA": "مجموعة مدارس لعزيب",
+    "AdresseL": "DOUAR LAAZIB COMMUNE BNI SIDEL LOUTA",
+    "AdresseA": "دوار لعزيب",
+    "COMMUNE": "Bni Sidel Louta",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OMAR ALKHAYAM",
+    "NOM_ETABA": "مجموعة مدارس عمر الخيام",
+    "AdresseL": "DOUAR AL HAMMAM COMMUNE BNI SIDAL LOUTA",
+    "AdresseA": "دوار الحمام",
+    "COMMUNE": "Bni Sidel Louta",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

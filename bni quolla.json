@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial Imam al-Ghazali",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام الغزالي",
+    "AdresseL": "centre commune Beni Quolla",
+    "AdresseA": "مركز جماعة بني كلة ",
+    "COMMUNE": "Bni Quolla",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ABDELLAH BEN MASAOUD",
+    "NOM_ETABA": "م م عبد الله بن مسعود ",
+    "AdresseL": "DOUAR LAMNASRA COMMUNE BNI QUOLLA",
+    "AdresseA": "جماعة بني كلة",
+    "COMMUNE": "Bni Quolla",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDELKRIM AL KHATTABI",
+    "NOM_ETABA": "م م عبد الكريم الخطابي",
+    "AdresseL": "DOUAR RMILA  COMMUNE BNI QUOLLA OUEZZANE",
+    "AdresseA": "دوار الرميلة",
+    "COMMUNE": "Bni Quolla",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DRISS II",
+    "NOM_ETABA": "م م ادريس الثاني",
+    "AdresseL": "DOUAR DCHIRA COMMUNE BNI QUOLLA",
+    "AdresseA": "دوار دشيرة ـ جماعة بني كلة",
+    "COMMUNE": "Bni Quolla",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUED ADDAHAB",
+    "NOM_ETABA": "م/م واد الذهب",
+    "AdresseL": "DOUAR RMIEL COMMUNE BNI QUOLLA",
+    "AdresseA": "جماعة بني كلة",
+    "COMMUNE": "Bni Quolla",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TABARI",
+    "NOM_ETABA": "م م الطبري",
+    "AdresseL": "DOUAR DAR CHEIKH COMMUNE BNI QUOLLA",
+    "AdresseA": "دوار دار الشيخ جماعة بني كلة ",
+    "COMMUNE": "Bni Quolla",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

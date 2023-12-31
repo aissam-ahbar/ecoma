@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMASSIRA ALKHADRAE",
+    "NOM_ETABA": "ثانوية المسيرة الخضراء الإعدادية",
+    "AdresseL": "centre commune bni oual",
+    "AdresseA": "مركز جماعة بني وال",
+    "COMMUNE": "Bni Oual",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COOPERATIVE AL FANIA",
+    "NOM_ETABA": "التعاونية الفنية",
+    "AdresseL": "COOPERATIVE AL FANIA  COMMUNE BNI OUAL",
+    "AdresseA": "التعاونية الفنية",
+    "COMMUNE": "Bni Oual",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "COOPERATIVE  AL MASOUDIA",
+    "NOM_ETABA": "التعاونية المسعودية",
+    "AdresseL": "COOPERATIVE AL MASOUDIA DOUAR AIN LAHJAR",
+    "AdresseA": "التعاونية المسعودية",
+    "COMMUNE": "Bni Oual",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " EL MAGHRIB AL ARABI",
+    "NOM_ETABA": "المغرب العربي",
+    "AdresseL": "DOUAR LAFLALKA COMMUNE BNI OUAL",
+    "AdresseA": "دوار الفلالقة",
+    "COMMUNE": "Bni Oual",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

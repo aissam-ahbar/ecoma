@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANOUAL",
+    "NOM_ETABA": "ثانوية أنوال الاعدادية",
+    "AdresseL": "centre LAMHARZA ESSAHEL",
+    "AdresseA": "مركز لمهارزة الساحل",
+    "COMMUNE": "Lamharza Essahel",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S ESSAADA",
+    "NOM_ETABA": "م/م السعادة",
+    "AdresseL": "DOUAR LAMHARZA ",
+    "AdresseA": "التعاونية الفلاحية السعادة",
+    "COMMUNE": "Lamharza Essahel",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAMKHATRA",
+    "NOM_ETABA": "م/م المخاطرة",
+    "AdresseL": "DOUAR LAMKHATRA ",
+    "AdresseA": "دوار المخاطرة",
+    "COMMUNE": "Lamharza Essahel",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAHOUIRA",
+    "NOM_ETABA": "م/م الحويرة",
+    "AdresseL": "DOUAR LAHOUIRA ",
+    "AdresseA": "دوار الحويرة",
+    "COMMUNE": "Lamharza Essahel",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS ANAMMER",
+    "NOM_ETABA": "م.م انمر",
+    "AdresseL": "DOUAR ANAMMER C SIDI BOUAL",
+    "AdresseA": "دوار أنمر جماعة سيدي بوعل",
+    "COMMUNE": "Sidi Boaal",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN HANBAL",
+    "NOM_ETABA": "م.م ابن حنبل",
+    "AdresseL": "DOUAR   TANATAMTE C SIDI BOUAL",
+    "AdresseA": "دوار تنتامت جماعة سيدي بوعل",
+    "COMMUNE": "Sidi Boaal",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

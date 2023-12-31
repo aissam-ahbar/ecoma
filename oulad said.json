@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SAAD BNOU ABI OUAQQAS",
+    "NOM_ETABA": "الثانوية الإعدادية سعد بن ابي وقاص",
+    "AdresseL": "COMMUNE OULAD SAID",
+    "AdresseA": "قصبة اولاد سعيد",
+    "COMMUNE": "Oulad Said",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " OULAD SAID CENTRE",
+    "NOM_ETABA": "مركزية اولاد سعيد",
+    "AdresseL": "qasbat  OULAD SAID",
+    "AdresseA": "قصبة اولاد سعيد",
+    "COMMUNE": "Oulad Said",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD HMITTI CENTRE",
+    "NOM_ETABA": "مركزية اولاد احميتي",
+    "AdresseL": "DOUAR OULAD HMITTI COMMUNE OULAD SAID",
+    "AdresseA": "اولاد احميتي جماعة اولاد سعيد",
+    "COMMUNE": "Oulad Said",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEAOUAMRA CENTRE",
+    "NOM_ETABA": "مركزية العوامرة",
+    "AdresseL": "DOUAR LEAOUAMRA COMMUNE OULAD SAID",
+    "AdresseA": "دوار العوامرة",
+    "COMMUNE": "Oulad Said",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE  SLAMATE",
+    "NOM_ETABA": "مركزية السلامات",
+    "AdresseL": "DOUAR OULAD ATTOU COMMUNE OULAD SAID",
+    "AdresseA": "دوار السلامات أولاد عتوجماعة اولاد سعيد",
+    "COMMUNE": "Oulad Said",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE OULAD SAID",
+    "NOM_ETABA": "الثانوية التأهيلية أولاد سعيد",
+    "AdresseL": "CENTRE rural  OULAD SAID",
+    "AdresseA": "مركز اولاد سعيد",
+    "COMMUNE": "Oulad Said",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "s/s riyan",
+    "NOM_ETABA": "م/م الريان",
+    "AdresseL": "NULL",
+    "AdresseA": "مركز اولاد سعيد",
+    "COMMUNE": "Oulad Said",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUJE AMINE",
+    "NOM_ETABA": "بوج أمين",
+    "AdresseL": " Centre Ouled Said",
+    "AdresseA": " مركز اولاد سعيد",
+    "COMMUNE": "Oulad Said",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

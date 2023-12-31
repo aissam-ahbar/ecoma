@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL BOUYA OMAR",
+    "NOM_ETABA": "ثانوية  بويا عمر الاعدادية",
+    "AdresseL": "commune bouya omar cercle el attaouia",
+    "AdresseA": "جماعة بويا عمر دائرة العطاوية",
+    "COMMUNE": "Bouya Omar",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOUROUTA CENTRE",
+    "NOM_ETABA": "بوروطة المركزية",
+    "AdresseL": "BOUROUTA COMMUNE BOYA OMAR",
+    "AdresseA": "بوروطة جماعة بوي عمر",
+    "COMMUNE": "Bouya Omar",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BEN RAHAL CENTRE",
+    "NOM_ETABA": "اولاد بنرحال المركزية",
+    "AdresseL": "DOUAR OULED BEN RAHAL COMMUNE BOYA OMAR",
+    "AdresseA": "دوار اولاد بن رحال جماعة بوي عمر",
+    "COMMUNE": "Bouya Omar",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUYA OMAR CENTRE",
+    "NOM_ETABA": "بويا عمر المركزية",
+    "AdresseL": "COMMUNE BOUYA OMAR",
+    "AdresseA": "جماعة بويا عمر",
+    "COMMUNE": "Bouya Omar",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

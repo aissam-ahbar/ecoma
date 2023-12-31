@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LAFRAITA CENTRE",
+    "NOM_ETABA": "الفرائطة المركزية",
+    "AdresseL": "HAD LAFRAITA COMMUNE LAFRAITA",
+    "AdresseA": "حد الفرائطة جماعة الفرائطة",
+    "COMMUNE": "Fraita",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MOUSSA CENTRE",
+    "NOM_ETABA": "سيدي موسى المركزية",
+    "AdresseL": "SIDI MOUSSA COMMUNE LAFRAITA",
+    "AdresseA": "سيدي موسى جماعة الفرائطة",
+    "COMMUNE": "Fraita",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEKSSOUR CENTRE",
+    "NOM_ETABA": "القصور المركزية",
+    "AdresseL": "DOUAR LEKSSOUR COMMUNE LAFRAITA",
+    "AdresseA": "دوار القصور المركزية",
+    "COMMUNE": "Fraita",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ERRAZI",
+    "NOM_ETABA": "ثانوية الرازي التأهيلية",
+    "AdresseL": "COMMUNE LAFRAITA",
+    "AdresseA": "جماعة الفرائطة",
+    "COMMUNE": "Fraita",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

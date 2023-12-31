@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AL IMAM AL GHAZALI",
+    "NOM_ETABA": "ثانوية الإمام الغزالي الإعدادية",
+    "AdresseL": "OULED AYAD CENTRE",
+    "AdresseA": "مركز بلدية أولاد عياد",
+    "COMMUNE": "Ouled Ayad",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ABDELLAH IBN YASSINE",
+    "NOM_ETABA": "ثانوية عبد الله بن ياسين الإعدادية",
+    "AdresseL": "HAY SAFA OULED AYAD",
+    "AdresseA": "حي الصفا بلدية أولادعياد",
+    "COMMUNE": "Ouled Ayad",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRALE OULED AYAD",
+    "NOM_ETABA": "م المركزية أ. عياد",
+    "AdresseL": "Qartier inbiaat OUled ayad",
+    "AdresseA": "حي الانبعاث اولاد عياد",
+    "COMMUNE": "Ouled Ayad",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAFA",
+    "NOM_ETABA": "م الصفاء",
+    "AdresseL": "OULED AYAD",
+    "AdresseA": "بلدية  اولاد عياد",
+    "COMMUNE": "Ouled Ayad",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S OULED AYAD CENTRE",
+    "NOM_ETABA": "مركزية  م/م أولاد عياد  ",
+    "AdresseL": "QUARTIER NACER OULED AYAD",
+    "AdresseA": "حي النصر اولاد عياد",
+    "COMMUNE": "Ouled Ayad",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HANBAL",
+    "NOM_ETABA": "م ابن حنبل",
+    "AdresseL": "OULED AYAD",
+    "AdresseA": "بلدية  اولاد عياد",
+    "COMMUNE": "Ouled Ayad",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE EL FARABI",
+    "NOM_ETABA": "ثانوية الفارابي التأهيلية",
+    "AdresseL": "HAY ANNASR",
+    "AdresseA": "حي النصر",
+    "COMMUNE": "Ouled Ayad",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Ibnou toufail 2",
+    "NOM_ETABA": "ابن طفيل 2",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النصر أولادعياد الفقيه بن ص",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kouttab ouafaa",
+    "NOM_ETABA": "كتاب وفاء",
+    "AdresseL": "",
+    "AdresseA": "حي التقدم أولاد عامر اولاد عيا",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAJIB",
+    "NOM_ETABA": "النجيب",
+    "AdresseL": "quartier al atlas ouled ayad f",
+    "AdresseA": "حي الأطلس اولاد عياد الفقيه بن",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JILE ANNAJIBE",
+    "NOM_ETABA": "جيل النجيب ",
+    "AdresseL": "",
+    "AdresseA": "حي القدس زنقة خالد بن الوليد ا",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT JUBA",
+    "NOM_ETABA": "جوبا الصغير ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة اولاد عياد الفقيه ب",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL EL FADILA ",
+    "NOM_ETABA": "اجيال الفضيلة ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الرجاء رقم 169 اولاد عيا",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JOUBA 2",
+    "NOM_ETABA": "جوبا 2",
+    "AdresseL": "QUARTIER AL MASSIRA OULED AYAD",
+    "AdresseA": "حي المسيرة اولاد عياد اقليم ال",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibnou toufeil",
+    "NOM_ETABA": "ابن طفيل",
+    "AdresseL": "QUARTIER ENNASR OULED AYAD FKI",
+    "AdresseA": "حي النصر اولادعياد الفقيه بن ص",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAJIB ARRAIDA",
+    "NOM_ETABA": "النجيب الرائدة",
+    "AdresseL": "HAY ALATLAS OULED AYAD   FKIH ",
+    "AdresseA": "حي الأطلس أولاد عياد إقليم الف",
+    "COMMUNE": "Ouled Ayad ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

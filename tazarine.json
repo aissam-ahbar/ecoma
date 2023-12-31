@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "SS OKBA BEN NAFIAA",
+    "NOM_ETABA": "م.م عقبة بن نافع",
+    "AdresseL": "TAZARINE CENTRE C TAZARINE ",
+    "AdresseA": "تزارين المركز",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELLOUKAMAN",
+    "NOM_ETABA": "م.م لوكمان",
+    "AdresseL": "DOUAR ELLOUKAMAN  TAZARINE ZAGORA",
+    "AdresseA": "دوار اللوكمان تازارين زاكورة",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN SINA",
+    "NOM_ETABA": "م.م إبن سينا",
+    "AdresseL": "DOUAR SOUK LAKDIM TAZARINE",
+    "AdresseA": "دوار السوق القديم",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUM ERROUMANE",
+    "NOM_ETABA": "م.م أم الرمان",
+    "AdresseL": "DOUAR OUM ERRAMANE CTAZARINE",
+    "AdresseA": "أم الرمان/تزارين",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMSSAHALT",
+    "NOM_ETABA": "م.م تمساهلت",
+    "AdresseL": "DOUAR TAMASSAHLET   TAZARINE",
+    "AdresseA": "تمساهلت",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELMOURABITINE",
+    "NOM_ETABA": "م.م المرابطين",
+    "AdresseL": "DOAUR AIT SIDI MSSAAD CTAZARINE",
+    "AdresseA": "ايت سيدي مساعد",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIMARIGHINE",
+    "NOM_ETABA": "م.م تيمارغين",
+    "AdresseL": "DOUAR TIMARIGHINE CTAZARINE",
+    "AdresseA": "تيمارغين تزارين",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZARINE CENTRE",
+    "NOM_ETABA": "تازارين المركز",
+    "AdresseL": "DOUAR TAZARINE COMMUNE TAZARINE ",
+    "AdresseA": " دوارتازارين جماعة تازرين",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JAMAA ESSOUK CENTRE",
+    "NOM_ETABA": "جامع السوق المركز",
+    "AdresseL": "DOUAR JAMAA ESSOUK COMMUNE TAZARINE",
+    "AdresseA": "دوار جامع السوق جماعة تازرين",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI AMROU",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي عمرو",
+    "AdresseL": "centre tazarine",
+    "AdresseA": "مركز تزارين",
+    "COMMUNE": "Tazarine",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

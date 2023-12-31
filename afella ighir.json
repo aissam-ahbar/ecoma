@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AFELLA IGHIR",
+    "NOM_ETABA": "الثانوية الإعدادية افلا اغير",
+    "AdresseL": " centre COMMUNE AFELLA IGHIR",
+    "AdresseA": "مركز جماعة افلا اغير",
+    "COMMUNE": "Afella Ighir",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SAADIYINE CENTRE TIMAGICHT",
+    "NOM_ETABA": "م.م السعديين مركزية تيمكيشت",
+    "AdresseL": "DOUAR TIMAGICHTE",
+    "AdresseA": "دوار تيمكيشت",
+    "COMMUNE": "Afella Ighir",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

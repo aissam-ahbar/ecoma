@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "م.م علال بن عبد الله",
+    "AdresseL": "DOUAR   AIT HAMD IDA OU KAISS C TINZERTE",
+    "AdresseA": "د. ايت حامد",
+    "COMMUNE": "Tinzart",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT SALEH",
+    "NOM_ETABA": "م.م أيت صالح",
+    "AdresseL": "DOUAR   AIT SALEH COMMUNE TINZaRT OULED BERHIL",
+    "AdresseA": "دوار ايت صالح جماعة تنزرت اولاد برحيل",
+    "COMMUNE": "Tinzart",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TINZART",
+    "NOM_ETABA": "ثأ تينزرت",
+    "AdresseL": "COMMUNE TENZERT",
+    "AdresseA": "جماعة تينزرت",
+    "COMMUNE": "Tinzart",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

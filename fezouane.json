@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "ABI LABAS AL JIRAOUI",
+    "NOM_ETABA": "أبي العباس جراوي",
+    "AdresseL": "YAALOU CENTRE COMMUNE DE FEZOUANE",
+    "AdresseA": "دوار يعلو جماعة فزوان الركادة",
+    "COMMUNE": "Fezouane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JRAOUA",
+    "NOM_ETABA": "جراوة",
+    "AdresseL": "COMMUNE DE FEZOUANE",
+    "AdresseA": "دوار اجراوة -جماعة فزوان",
+    "COMMUNE": "Fezouane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI HSAINE",
+    "NOM_ETABA": "الثانوية الاعدادية سيدي احساين",
+    "AdresseL": "MUNICIPALITE LAKHSSAS",
+    "AdresseA": "بلدية الاخصاص",
+    "COMMUNE": "Lakhsas",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAIKH MAa EL AIYNIN",
+    "NOM_ETABA": "المدرسة الابتدائية الشيخ ماء العينين",
+    "AdresseL": "MUNICIPALITE lAKHSAS",
+    "AdresseA": "بلدية الاخصاص",
+    "COMMUNE": "Lakhsas",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MARGHITI",
+    "NOM_ETABA": "المدرسة الابتدائية المرغيتي",
+    "AdresseL": "MUNICIPALITE LAKHSSAS",
+    "AdresseA": "بلدية الاخصاص",
+    "COMMUNE": "Lakhsas",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAKHSAS",
+    "NOM_ETABA": "الثانوية التأهيلية الاخصاص",
+    "AdresseL": "MUNICIPALITE LAKHSSAS",
+    "AdresseA": "بلدية الاخصاص",
+    "COMMUNE": "Lakhsas",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "instutition Ennour",
+    "NOM_ETABA": " مؤسسة النور ",
+    "AdresseL": "NULL",
+    "AdresseA": "ساحة بئر انزران مركز الاخصاص س",
+    "COMMUNE": "Lakhsas ",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  }
+]

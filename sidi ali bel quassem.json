@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED 5",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الخامس",
+    "AdresseL": "Commune rural Sidi Ali Bel Quassem",
+    "AdresseA": "الجماعة القروية سيدي علي بلقاسم",
+    "COMMUNE": "Sidi Ali Bel Quassem",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAGRANZA",
+    "NOM_ETABA": "لكرانزة",
+    "AdresseL": "DOUAR LAGRANZA COMMUNE SIDI ALI BELKACEM",
+    "AdresseA": "دوار لكرانزة جماعة سيدي بلقاسم",
+    "COMMUNE": "Sidi Ali Bel Quassem",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED TAYER",
+    "NOM_ETABA": "اولاد ثاير",
+    "AdresseL": "DOUAR OULAD TAYER COMMUNE DE SIDI ALI BELKACEM",
+    "AdresseA": "دوار اولاد الثاير بني ريص جماعة سيدي علي بلقاسم",
+    "COMMUNE": "Sidi Ali Bel Quassem",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ABDELLAH",
+    "NOM_ETABA": "اولاد عبد الله",
+    "AdresseL": "DOUAR OULAD ABDELLAH COMMUNE DE SIDI ALI BELKACEM",
+    "AdresseA": "دوار أولاد عبد الله جماعة سيدي علي بلقاسم",
+    "COMMUNE": "Sidi Ali Bel Quassem",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GRAOUZROU",
+    "NOM_ETABA": "كروزرو",
+    "AdresseL": "DOUAR GRAOUZROU  COMMUNE DE SIDI ALI BELKACEM",
+    "AdresseA": "دوار بني فاشات كروزرو",
+    "COMMUNE": "Sidi Ali Bel Quassem",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL WAD DAHAB",
+    "NOM_ETABA": "ثانوية وادي الذهب الإعدادية",
+    "AdresseL": "centre commune bir taleb",
+    "AdresseA": "مركز جماعة بير الطالب",
+    "COMMUNE": "Bir Taleb",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU HAZEM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "BIR TALEB CENTRE COMMUNE BIR TALEB",
+    "AdresseA": "جماعة بئر الطالب دائرة اشراردة ",
+    "COMMUNE": "Bir Taleb",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "10 RAMADAN",
+    "NOM_ETABA": "عاشر رمضان",
+    "AdresseL": "DOUAR LAHRICHA COMMUNE BIR TALEB",
+    "AdresseA": "دوار الفقرة الفحليين",
+    "COMMUNE": "Bir Taleb",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

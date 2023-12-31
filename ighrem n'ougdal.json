@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL ELATLAS ELKABIR ",
+    "NOM_ETABA": " الثانوية الإعدادية الاطلس الكبير",
+    "AdresseL": "COMMUNE IGHREM NOUGDAL",
+    "AdresseA": "جماعة اغرم نوكدال",
+    "COMMUNE": "Ighrem N'Ougdal",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S TOURJDAL",
+    "NOM_ETABA": "م.م.  تورجدال",
+    "AdresseL": "douar tiourjdal commune IGHREM NOUGDAL ",
+    "AdresseA": "دوار تورجدال جماعة اغرم نوكدال",
+    "COMMUNE": "Ighrem N'Ougdal",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGOUIME",
+    "NOM_ETABA": "م.م أكويم",
+    "AdresseL": "IGHREM NOUGDAL AMERZEGANE",
+    "AdresseA": "اغرم نوكدال",
+    "COMMUNE": "Ighrem N'Ougdal",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AGUERD NOUADOUZE",
+    "NOM_ETABA": "م.م. اكرض نوادوز",
+    "AdresseL": "IGHREM NOUGDAL AMERZEGANE",
+    "AdresseA": "اغرم نوكدال",
+    "COMMUNE": "Ighrem N'Ougdal",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT   IMAM ALI",
+    "NOM_ETABA": "الثانوية التأهيلية الامام علي",
+    "AdresseL": "IGHERM NOUGDAL",
+    "AdresseA": "اغرم نوكدال",
+    "COMMUNE": "Ighrem N'Ougdal",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED EDDAHAB",
+    "NOM_ETABA": "ثانوية وادي الذهب الاعدادية ",
+    "AdresseL": "CENTRE OULED AISSA",
+    "AdresseA": "مركز أولاد عيسى",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULED AISSA",
+    "NOM_ETABA": "الثانوية الاعدادية اولاد عيسى",
+    "AdresseL": "Com ouled Aissa",
+    "AdresseA": "جماعة اولاد عيسى",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S HAD OULED AISSA",
+    "NOM_ETABA": "م/م أحد أولاد عيسى",
+    "AdresseL": "CENTRE OULED AISSA ",
+    "AdresseA": "مركز أولاد عيسى",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL AKKADE",
+    "NOM_ETABA": "م/م العقاد",
+    "AdresseL": "DOUAR OULED BELMEHDI",
+    "AdresseA": "دوار أولاد بالمهدي",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S CHROUKA",
+    "NOM_ETABA": "م/م الشروقة",
+    "AdresseL": "DOUAR CHROUKA  ",
+    "AdresseA": "  الشروقة طريق الواليدية",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKHMAMLA",
+    "NOM_ETABA": "م/م لخماملة",
+    "AdresseL": "DOUAR LAKHMAMLA ",
+    "AdresseA": "دوار الخماملة ",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S GHILASSE",
+    "NOM_ETABA": "م/م غيلاس",
+    "AdresseL": "DOUAR GHILASSE ",
+    "AdresseA": "دوار غيلاس",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI GHANEM",
+    "NOM_ETABA": "م/م سيدي غانم",
+    "AdresseL": "DOUAR SIDI GHANEM ",
+    "AdresseA": "دوار سيدي غانم",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED AISSA",
+    "NOM_ETABA": "م/م أولاد عيسى",
+    "AdresseL": "DOUAR OULED DIK COMMUNE OULED AISSA",
+    "AdresseA": "دوار  اولاد الديك",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED AHMED",
+    "NOM_ETABA": "م/م أولاد أحمد",
+    "AdresseL": "DOUAR OULED AHMED COMMUNE OULED AISSA",
+    "AdresseA": "دوار اولاد احمد",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABILMAHAJIR",
+    "NOM_ETABA": "م.م ابي المهاجر",
+    "AdresseL": "DOUAR   OULAD AISSA C OULAD AISSA",
+    "AdresseA": "د. اولاد عيسى جما عة اولادعيسي ",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN ELHAITEM",
+    "NOM_ETABA": "م.م إبن الهيثم",
+    "AdresseL": "DOUAR   ouled aissa Commune OULAD AISSA",
+    "AdresseA": "دوار أولاد عيسى جماعة أولاد عيسى",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL MAARIFA",
+    "NOM_ETABA": "ثأ.المعرفة",
+    "AdresseL": "DOUAR   OULAD AISSA COMMUNE OULAD AISSA",
+    "AdresseA": "د. اولاد عيسى",
+    "COMMUNE": "Oulad Aissa",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

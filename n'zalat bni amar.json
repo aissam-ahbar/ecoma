@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial AHMED BEN IDRISS MELLOULI",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد بن إدريس ملولي",
+    "AdresseL": "COMMUNE N ZALAT BNI AMAR",
+    "AdresseA": "مركز نزالة بني عمار 50352",
+    "COMMUNE": "N'zalat Bni Amar",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BNI AMMAR",
+    "NOM_ETABA": "بني عمار",
+    "AdresseL": "MADCHAR BNI AMMAR COMMUNE NZALAT ZERHOUNE",
+    "AdresseA": " جماعة نزالة بني عمار مدشر بني عمار دائرة زرهون",
+    "COMMUNE": "N'zalat Bni Amar",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD YOUSSEF",
+    "NOM_ETABA": "اولاد يوسف",
+    "AdresseL": "DOUAR OULAD YOUSSEF COMMUNE NZALAT BNI AMAR",
+    "AdresseA": "مدشر أولاد يوسف جماعة انزالة بني عمار دائرة زرهون",
+    "COMMUNE": "N'zalat Bni Amar",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NZALA",
+    "NOM_ETABA": "النزالة",
+    "AdresseL": "COMMUNE NZALAT BNI AMAR",
+    "AdresseA": "مركز انزالة بني عمار",
+    "COMMUNE": "N'zalat Bni Amar",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL EL OUALIDIA",
+    "NOM_ETABA": "ثانوية الوليدية الإعدادية ",
+    "AdresseL": "CENTRE EL OUALIDIA ",
+    "AdresseA": "الوليدية المركز",
+    "COMMUNE": "Loualidia",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MAE EL AINAINE",
+    "NOM_ETABA": "ماء العينين",
+    "AdresseL": "CENTRE LOUALIDIA COMMUNE OUALIDIA",
+    "AdresseA": "مدلرسة ماء العينين جماعة الوليدية",
+    "COMMUNE": "Loualidia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHARIF IDRISSI",
+    "NOM_ETABA": "الشريف الادريسي",
+    "AdresseL": "CENTRE LOUALIDIA COMMUNE OUALIDIA",
+    "AdresseA": "مركزالواليدية  جماعة الواليدية",
+    "COMMUNE": "Loualidia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSTAKBALE",
+    "NOM_ETABA": "المستقبل",
+    "AdresseL": "DOUAR OULED HLAL COMMUNE OUALIDIA",
+    "AdresseA": "دوار اولاد هلال جماعة الوالدية",
+    "COMMUNE": "Loualidia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DHAHJA",
+    "NOM_ETABA": "الدهاهجة",
+    "AdresseL": "DOUAR DHAHJA COMMUNE OUALIDIA",
+    "AdresseA": "دوار الدهاهجة جماعة الوليدية",
+    "COMMUNE": "Loualidia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT MOHAMMED V",
+    "NOM_ETABA": "ثانوية محمد الخامس التأهيلية ",
+    "AdresseL": "OUALIDIA ",
+    "AdresseA": "الواليدية المركز",
+    "COMMUNE": "Loualidia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL OUALIDIA",
+    "NOM_ETABA": "مدرسة الوليدية",
+    "AdresseL": "23 Lotissement EL KOUCH simon",
+    "AdresseA": "تجزئة الكوش سيمون الرقم 23",
+    "COMMUNE": "Loualidia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ELFARSI",
+    "NOM_ETABA": "مؤسسة الفارسي الخاصة",
+    "AdresseL": "",
+    "AdresseA": "طريق الغربية مركز الوليدية",
+    "COMMUNE": "Loualidia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

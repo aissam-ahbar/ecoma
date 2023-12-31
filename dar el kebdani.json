@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AL FARABI",
+    "NOM_ETABA": "ثانوية الفرابي الاعدادية",
+    "AdresseL": "lycee  collegial al farabi DAR EL KABDANI",
+    "AdresseA": " الثانوية الاعدادية  الفارابي دار الكبداني",
+    "COMMUNE": "Dar El Kebdani",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED VI",
+    "NOM_ETABA": "م م محمد السادس",
+    "AdresseL": "BNI SAID COMMUNE DAR EL KEBDANI",
+    "AdresseA": "بني سعيد دار الكبداني المركز",
+    "COMMUNE": "Dar El Kebdani",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU ROCHD",
+    "NOM_ETABA": "م. ابن رشد",
+    "AdresseL": "COMMUNE DAR KEBDANI CENTRE",
+    "AdresseA": "جماعة دار الكبداني المركز",
+    "COMMUNE": "Dar El Kebdani",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR AL KABDANI ",
+    "NOM_ETABA": "م م  دار الكبداني",
+    "AdresseL": "DOUAR tijdit          BNI SAID COMMUNE DAR KEBDANI",
+    "AdresseA": "دوار تجديت  جماعة دار الكبداني",
+    "COMMUNE": "Dar El Kebdani",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOU ARROUMI",
+    "NOM_ETABA": "م م ابن الرومي",
+    "AdresseL": "douar laari nafaa c dar el kabdani",
+    "AdresseA": "دوار لعري النافع    ج,دار الكبداني",
+    "COMMUNE": "Dar El Kebdani",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALKINDI",
+    "NOM_ETABA": "ثانوية الكندي التأهيلية",
+    "AdresseL": "Dar El Kebdani centre",
+    "AdresseA": "دار الكبداني المركز",
+    "COMMUNE": "Dar El Kebdani",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

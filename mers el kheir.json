@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "MERS ELKHEIR",
+    "NOM_ETABA": "مرس الخير",
+    "AdresseL": "mers elkheir",
+    "AdresseA": "مرس الخير",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOUHA OUHAMMOU ZAIANI",
+    "NOM_ETABA": "موحى احمو الزياني",
+    "AdresseL": "MERS EL KHEIR CENTRE",
+    "AdresseA": "مرس الخير المركز",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OKBA IBN NAFIE",
+    "NOM_ETABA": "عقبة بن نافغ",
+    "AdresseL": "ROUTE DE SIDI YAHYA DES ZAERS   MERS ELKHEIR",
+    "AdresseA": "طريق سيدي يحيى زعير مرس الخير",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "MERS ELKHEIR CENTRE",
+    "AdresseA": "مرس الحير",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED CHAWKI",
+    "NOM_ETABA": "أحمد شوقي",
+    "AdresseL": "COMMUNE MERS EL KHIR",
+    "AdresseA": "جماعة مرس الخير",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MERS EL KHEIR",
+    "NOM_ETABA": "مرس الخير",
+    "AdresseL": "MERS EL KHEIR CENTRE",
+    "AdresseA": "مرس الخير",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "madariss al arifine",
+    "NOM_ETABA": "مدارس العارفين الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "1، تجزئة نور",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BASMA PRO POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "بسمة برو للتعليم المدرسي الخصوصي",
+    "AdresseL": "lOT MERS EL KHEIR N 57 ",
+    "AdresseA": "تجزئة الخير رقم 57  مرس الخير",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire moumen",
+    "NOM_ETABA": "مجموعة مدارس مومن",
+    "AdresseL": "lotissement el kheir lot 262-2",
+    "AdresseA": "رقم 259-261-262 تجزئة الخير ",
+    "COMMUNE": "Mers El Kheir",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

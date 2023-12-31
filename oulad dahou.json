@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE OTHMAN IBN AFFANE COLLEGIAL",
+    "NOM_ETABA": "ثانوية عثمان بن عفان الإعدادية",
+    "AdresseL": "douar lekhrarza      OULED DAHOU",
+    "AdresseA": "دوار الخرارزة",
+    "COMMUNE": "Oulad Dahou",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OKBA BNO NAFIAE CENTRE OULAD SOUM",
+    "NOM_ETABA": "مجموعة مدارس عقبة بن نافع المركزية أولاد سمان",
+    "AdresseL": "OULED SOUMANE OULED DAHOU",
+    "AdresseA": "دوار أولاد سمان",
+    "COMMUNE": "Oulad Dahou",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ALARGANE CENTRE DIABATE",
+    "NOM_ETABA": "مجموعة مدارس الأركان المركزية الديابات",
+    "AdresseL": "DOUAR DIABATE OULED DAHOU",
+    "AdresseA": "دوار الديابات",
+    "COMMUNE": "Oulad Dahou",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE MOHAMED EL KHANBOUBI CENTRE OULAD",
+    "NOM_ETABA": "مجموعة مدارس محمد الخنبوبي المركزية اولاد علي",
+    "AdresseL": "DOUAR OULED ALI OULED DAHOU",
+    "AdresseA": "دوار اولاد علي",
+    "COMMUNE": "Oulad Dahou",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ADEFFAF CENTRE AROU",
+    "NOM_ETABA": "مجموعة مدارس الضفاف المركزية أرو",
+    "AdresseL": "DOUAR AROU OULED DAHOU",
+    "AdresseA": "دوار أرو",
+    "COMMUNE": "Oulad Dahou",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TARIQ BEN ZYAD QUALIFIANT",
+    "NOM_ETABA": "ثانوية طارق بن زياد التأهيلية",
+    "AdresseL": "JORF OULED DAHOU",
+    "AdresseA": "دوار الجرف اولاد داحو",
+    "COMMUNE": "Oulad Dahou",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

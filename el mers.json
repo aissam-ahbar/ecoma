@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OUMJNIBA",
+    "NOM_ETABA": "ام اجنيبة",
+    "AdresseL": "DOUAR OUM JNIBA COMMUNE EL MERS",
+    "AdresseA": "دوار ام اجنيبة جماعة المرس",
+    "COMMUNE": "El Mers",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BEN CHRIF",
+    "NOM_ETABA": "ايت بن الشريف",
+    "AdresseL": "DOUAR AIT BEN CHRIF COMMUNE EL MERS",
+    "AdresseA": "دوار ايت بن الشريف جماعة المرس",
+    "COMMUNE": "El Mers",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BADR",
+    "NOM_ETABA": "الثانوية التأهيلية بدر",
+    "AdresseL": "EL MERS CENTRE",
+    "AdresseA": "المرس المركز",
+    "COMMUNE": "El Mers",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

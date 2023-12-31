@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": " c idaougmad",
+    "NOM_ETABA": "ثإ اداوكماض",
+    "AdresseL": "Centre Commune Ida ougoummad",
+    "AdresseA": "مركز جماعة إداوكماض",
+    "COMMUNE": "Ida Ougoummad",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAHALA",
+    "NOM_ETABA": "م.م تهلا",
+    "AdresseL": "TAHLA  IDOUGMAD",
+    "AdresseA": "تهلا اداوكماض",
+    "COMMUNE": "Ida Ougoummad",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL MOUAHHIDIN",
+    "NOM_ETABA": "م.م الموحدين",
+    "AdresseL": "DOUAR   AGADIR NTAFOUKTE C IDA OUGUEMMAD",
+    "AdresseA": "د. أكادير نتافوكت",
+    "COMMUNE": "Ida Ougoummad",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAHACHMOUMTE",
+    "NOM_ETABA": "م.م تحشمومت",
+    "AdresseL": "DOUAR   TAHACHMOUMTE C IDA OU GUEMMAD",
+    "AdresseA": "د. تحشمومت",
+    "COMMUNE": "Ida Ougoummad",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

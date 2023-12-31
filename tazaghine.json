@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "C TAZAGHINE",
+    "NOM_ETABA": "إع تزغين",
+    "AdresseL": "COMMUNE RURAL TAZAGHINE BENI SAID driouach",
+    "AdresseA": "الجماعة القروية تزغين بني سعيد الدريوش",
+    "COMMUNE": "Tazaghine",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAZAGHINE",
+    "NOM_ETABA": "م.م تازغين",
+    "AdresseL": "COMMUNE TAZAGHINE BNI SAID DRIOUCH",
+    "AdresseA": "جماعة تزغين  بني سعيد االدربوش",
+    "COMMUNE": "Tazaghine",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

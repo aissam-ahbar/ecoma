@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI MHAMED BEN RAHAL",
+    "NOM_ETABA": " ثانوية سيدي محمد بن رحال الإعدادية",
+    "AdresseL": "COMMUNE SIDI MOHAMMED BENRAHAL",
+    "AdresseA": "مركز سيدي محمد بن رحال",
+    "COMMUNE": "Sidi Mohammed Ben Rahal",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI REHHAL CENTRE",
+    "NOM_ETABA": " مركزية سيدي محمد برحال",
+    "AdresseL": "SIDI MOHAMED BEN REHAl",
+    "AdresseA": "مركزية سيدي محمد برحال",
+    "COMMUNE": "Sidi Mohammed Ben Rahal",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SLIMANE CENTRE",
+    "NOM_ETABA": "مركزية اولاد سليمان",
+    "AdresseL": "DOUAR OULAD SLIMANE COMMUNE SIDI MOHAMED BEN REHAL",
+    "AdresseA": "دوار اولاد سليمان جماعة سيدي محمد بن رحال",
+    "COMMUNE": "Sidi Mohammed Ben Rahal",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " OULAD SAID BENALI SID LEGHRIB CENTRE",
+    "NOM_ETABA": "مركزية اولاد سعيد  بن علي سيد لغريب",
+    "AdresseL": "DR OULAD SAID BALI COMMUNE SIDI MOHAMED BEN REHAL",
+    "AdresseA": "اولاد سعيد  بن علي سيدي رحال",
+    "COMMUNE": "Sidi Mohammed Ben Rahal",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT AL BOHTORI",
+    "NOM_ETABA": " الثانوية التأهيلية البحتري",
+    "AdresseL": "centre Sidi Mohammed Ben Rahal",
+    "AdresseA": "مركز سيدي محمد بن رحال",
+    "COMMUNE": "Sidi Mohammed Ben Rahal",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

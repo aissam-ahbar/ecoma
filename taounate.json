@@ -1,0 +1,282 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL ENAHDA",
+    "NOM_ETABA": "ثانوية النهضة الإعدادية",
+    "AdresseL": "HAY ALIDARI MUNICIPALITE TAOUNATE  TAOUNATE",
+    "AdresseA": "الحي الاداري -بلدية تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCE COLLGIAL ALLAL ELFASSI",
+    "NOM_ETABA": "ثانوية علال الفاسي الإعدادية",
+    "AdresseL": "HAY ERMILA  ASTAR  TAOUNATE",
+    "AdresseA": "حي الرميلة-اسطار تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL LALA MERYEM",
+    "NOM_ETABA": "ثانوية للا مريم الإعدادية",
+    "AdresseL": "KILSA ALHAYLA  MUNICIPALITE TAOUNATE",
+    "AdresseA": "الكلسة الحايلة -تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ECHARIF EL IDRISSI",
+    "NOM_ETABA": "مدرسة الشريف الادريسي",
+    "AdresseL": "HAY ALIDARRI TAOUNATE CENTRE",
+    "AdresseA": "الحي الاداري تاونات المركز",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MAGHRIB AL ARABI",
+    "NOM_ETABA": "مدرسة المغرب العربي",
+    "AdresseL": "HAY AL IDARI MUNICIPALITE TAOUNATE  TAOUNATE",
+    "AdresseA": "الحي الاداري تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUSSA IBN NOUSSAIR",
+    "NOM_ETABA": "مدرسة موسى بن نصير",
+    "AdresseL": "HAY RMILLA ASTAR TAOUNATE",
+    "AdresseA": "حي الرميلة تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GHOSN EZZAITOUNE",
+    "NOM_ETABA": "م/م  غصن الزيتون",
+    "AdresseL": "RUE KADISS OULAD SAID TAOUNATE",
+    "AdresseA": "زنقة قاديس اولاد سعيد تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY EL AMAL",
+    "NOM_ETABA": "مدرسة حي الامل",
+    "AdresseL": "DOUAR HJARDERIAN TAOUNATE",
+    "AdresseA": "دوار احجر دريان تاونات المركز",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL ACHAICH",
+    "NOM_ETABA": "م/م العشايش",
+    "AdresseL": "quartier EL ACHAICH TAOUNATE",
+    "AdresseA": "حي العشايش تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ECHOHADA",
+    "NOM_ETABA": "مدرسة الشهداء",
+    "AdresseL": "HAY RMILA MUNICIPALITE TAOUNATE",
+    "AdresseA": "بلدية تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL WAHDA ",
+    "NOM_ETABA": "ثا نوية الوحدة التأهيلية",
+    "AdresseL": "MUNICIPALITE TAOUNATE CENTRE TAOUNATE",
+    "AdresseA": "بلدية تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBN SINA",
+    "NOM_ETABA": "ثانوية ابن سينا التأهيلية",
+    "AdresseL": "Lotissement El Wahda Taounate Soufla",
+    "AdresseA": "تجزئة الوحدة تاونات السفلى",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCE QUALIFIANT OTHMAN IBN AFFANE",
+    "NOM_ETABA": "ثانوية عثمان بن عفان التأهيلية",
+    "AdresseL": "Quartier Ermila Muncipalité Taounate",
+    "AdresseA": "حي الرميلة بلدية تاونات",
+    "COMMUNE": "Taounate",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "mahjouba li taalom",
+    "NOM_ETABA": "محجوبة للتعلم الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة سميرة زنقة المتوكل رقم 2",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "riad des anges",
+    "NOM_ETABA": "رياض الملائكة",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الدمنة شارع الجيش الملكي تا",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PETIT OISEAU",
+    "NOM_ETABA": "العصفور الصغير",
+    "AdresseL": "NULL",
+    "AdresseA": "مرج يحيى أولاد سعيد تاونات",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAOUNATE KIDS ACADEMY",
+    "NOM_ETABA": "تاونات كدز أكاديمي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي أولاد سعيد تاونات",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LINAYACHI SCHOOL",
+    "NOM_ETABA": "لينا ياشي سكول للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع 20غشت حيط يدو تاونات",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT LES PONDS DU SAVOIR",
+    "NOM_ETABA": "معهد  جسور المعرفة",
+    "AdresseL": "ain mrabta,DEMNA TAOUNATE",
+    "AdresseA": "عين المرابطة الدمنة تاونات ",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CERCLE DES SCENCES",
+    "NOM_ETABA": "دائرة العلوم",
+    "AdresseL": "HAY EL AMAL DCHIAR",
+    "AdresseA": "حي الأمل - الدشيار",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire NOUR ALBADRE",
+    "NOM_ETABA": "مجموعة مدارس نور البدر",
+    "AdresseL": "",
+    "AdresseA": "حي الدشيار تاونات",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SCIENCE ET SAVOIR EL BAKKOURI",
+    "NOM_ETABA": "مدرسة العلم والمعرفة البكوري",
+    "AdresseL": "quartier administratif taounat",
+    "AdresseA": "الحي الإداري تاونات المركز",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MIMOSA",
+    "NOM_ETABA": "مدرسة ميموزا",
+    "AdresseL": "hay oulad said route fes ",
+    "AdresseA": "حي اولاد سعيد طريق فاس",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL AZAMI ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة الأزمي للتعليم الخصوصي",
+    "AdresseL": "LOTISSEMENT EL WAHDA TAOUNATE",
+    "AdresseA": "تجزئة الوحدة",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES FRACTALES",
+    "NOM_ETABA": "لفركتال",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الدشيار تاونات",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIR NOUR ALBADRE 2",
+    "NOM_ETABA": "مجموعة مدارس نور البدر 2",
+    "AdresseL": "",
+    "AdresseA": "حي الدمنة شارع الجيش الملكي",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA MAISON DES ANGES",
+    "NOM_ETABA": "مؤسسة دار الملائكة",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الجيش الملكي حي الدمنة",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES PASSERELLES DES LUMIERES",
+    "NOM_ETABA": "مجموعة مدارس ليباسريل دي ليميير",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الرميلة تاونات",
+    "COMMUNE": "Taounate ",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

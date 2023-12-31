@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial OULAD SLIM",
+    "NOM_ETABA": "الثانوية الإعدادية أولاد سليم ",
+    "AdresseL": "CENTRE OULAD SLIM MHAYA",
+    "AdresseA": "مركز أولاد سليم جماعة المهاية",
+    "COMMUNE": "M'haya",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MHAYA",
+    "NOM_ETABA": "المهاية",
+    "AdresseL": "DOUAR TNINENE MHAYA COMMUNE MHAYA",
+    "AdresseA": "دوارا تنينن المهاية ج, المهاية",
+    "COMMUNE": "M'haya",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZWALA",
+    "NOM_ETABA": "زوالة",
+    "AdresseL": "DOUAR ZWALA COMMUNE MHAYA",
+    "AdresseA": "دوار زوالة جماعة المهاية",
+    "COMMUNE": "M'haya",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SLIM",
+    "NOM_ETABA": "أولاد سليم",
+    "AdresseL": "DOUAR OULAD SLIM COMMUNE EL  MHAYA",
+    "AdresseA": "دوار أولاد سليم المهاية",
+    "COMMUNE": "M'haya",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ARAB SEBBAH",
+    "NOM_ETABA": "اعرب الصباح",
+    "AdresseL": "DOUAR MACHRAA LAMOUR  COMMUNE MHAYA",
+    "AdresseA": "دوار مشرع لعمور جماعة المهاية",
+    "COMMUNE": "M'haya",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ABDELAZIZ MHAYA",
+    "NOM_ETABA": "عمر بن عبد العزيز المهاية",
+    "AdresseL": "HAY EL FATH  EL MHAYA",
+    "AdresseA": "حي الفتح المهاية",
+    "COMMUNE": "M'haya",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S OULAD SLIM EL JADIDA",
+    "NOM_ETABA": "مجموعة مدارس أولاد سليم الجديدة",
+    "AdresseL": " Commune Mhaya",
+    "AdresseA": "جماعة المهاية",
+    "COMMUNE": "M'haya",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant LAHCEN BEN MOHAMED BEN MBAREK",
+    "NOM_ETABA": "الثانوية التأهلية لحسن بن محمد بن مبارك",
+    "AdresseL": "COMMUNE MHAYA",
+    "AdresseA": "المهاية",
+    "COMMUNE": "M'haya",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

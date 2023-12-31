@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLÈGE OMAR IBN KHATAB",
+    "NOM_ETABA": "إعدادية عمر بن الخطاب",
+    "AdresseL": "quartier economique",
+    "AdresseA": "الحي الاقتصادي",
+    "COMMUNE": "Touissit",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED ENNASSIRI",
+    "NOM_ETABA": "احمد الناصري",
+    "AdresseL": "MUNICIPALITE  TOUISSIT",
+    "AdresseA": "بلدية تويسيت",
+    "COMMUNE": "Touissit",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUISSIT CENTRE",
+    "NOM_ETABA": "تويسيت ",
+    "AdresseL": "TOUISSIT CENTRE",
+    "AdresseA": "حي الاطلال تويسيت",
+    "COMMUNE": "Touissit",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE AL QODS",
+    "NOM_ETABA": "ثانوية القدس التأهيلية",
+    "AdresseL": "MUNICIPALITE TOUISSIT",
+    "AdresseA": "بلدية تويسيت",
+    "COMMUNE": "Touissit",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

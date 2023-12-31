@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL ERRAFIAYA",
+    "NOM_ETABA": "ثانوية الرافعية الاعدادية",
+    "AdresseL": "Commune Errafiaya",
+    "AdresseA": "جماعة الرافعية",
+    "COMMUNE": "Errafiaya",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD RAFEE CENTRE",
+    "NOM_ETABA": "اولاد رافع المركزية",
+    "AdresseL": "DOUAR OULED RAFEE COMMUNE ERRAFAYA",
+    "AdresseA": "دوار اولاد رافع",
+    "COMMUNE": "Errafiaya",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

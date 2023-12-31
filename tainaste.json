@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "BAB ESHAM CENTRE",
+    "NOM_ETABA": "باب السهام المركز",
+    "AdresseL": "DOUAR BAB ESHAM COMMUNE TAINASTE TAZA",
+    "AdresseA": "دوار باب السهام جماعة تايناست -تازة",
+    "COMMUNE": "Tainaste",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAINASTE CENTRE",
+    "NOM_ETABA": "تايناست المركز",
+    "AdresseL": "COMMUNE TAINASTE",
+    "AdresseA": "  تايناست المركز",
+    "COMMUNE": "Tainaste",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI KRAMA CENTRE",
+    "NOM_ETABA": "م/م بني كرامة المركز",
+    "AdresseL": "DOUAR BNI KRAMA COMMUNE TAINASTE",
+    "AdresseA": "دوار  بني اكرامة جماعة تايناست",
+    "COMMUNE": "Tainaste",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHL MOULA CENTRE",
+    "NOM_ETABA": "أهل مولة المركز",
+    "AdresseL": "DOUAR AHL MOULA COMMUNE TAINASTE",
+    "AdresseA": "دوار  أهل مولة المركز جماعة تايناست",
+    "COMMUNE": "Tainaste",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL JALA CENTRE",
+    "NOM_ETABA": "الجالة المركز",
+    "AdresseL": " DOUAR HLOUNA COMMUNE TAINASTE",
+    "AdresseA": "دوار  اهلاونة  جماعة تايناست",
+    "COMMUNE": "Tainaste",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FARABI",
+    "NOM_ETABA": "الثانوية التأهيلية الفرابي",
+    "AdresseL": "COMMUNE RURAL TAINASTE",
+    "AdresseA": "جماعة تيناست",
+    "COMMUNE": "Tainaste",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

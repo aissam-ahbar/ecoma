@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI BOUAATMANE",
+    "NOM_ETABA": "الثانوبة الإعدادية سيدي بوعثمان",
+    "AdresseL": "COMMUNE SIDI BOU OTHMANE",
+    "AdresseA": "جماعة سيدي بوعثمان",
+    "COMMUNE": "Sidi Bou Othmane",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL IRFANE",
+    "NOM_ETABA": "مدرسة العرفان",
+    "AdresseL": "SIDI BOU OUTMAN CENTRE",
+    "AdresseA": "سيدي بوعثمان",
+    "COMMUNE": "Sidi Bou Othmane",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULAD MASSOUD",
+    "NOM_ETABA": "مدرسة اولاد مسعود",
+    "AdresseL": "OULED MaSSAOUD COMMUNE sidi bouathman",
+    "AdresseA": "اولاد مسعود سيدي بوعثمان",
+    "COMMUNE": "Sidi Bou Othmane",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNASR",
+    "NOM_ETABA": "النصر",
+    "AdresseL": "municipalité sidi bou othmane",
+    "AdresseA": " بلدية     سيدي بوعثمان   ",
+    "COMMUNE": "Sidi Bou Othmane",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT GHAZAL ADAM",
+    "NOM_ETABA": "الثانوية التأهيلية غزال آدم",
+    "AdresseL": "Sidi Bouatmane ",
+    "AdresseA": "سيدي بوعثمان",
+    "COMMUNE": "Sidi Bou Othmane",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

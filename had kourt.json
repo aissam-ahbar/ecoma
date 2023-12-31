@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": " COLLEGE ENNAHDA ",
+    "NOM_ETABA": "إعدادية النهضة ",
+    "AdresseL": "HAD KOURT CENTRE COMMUNE HAD KOURT",
+    "AdresseA": "أحد كورت",
+    "COMMUNE": "Had Kourt",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL JAHID",
+    "NOM_ETABA": "الجاحظ",
+    "AdresseL": "CENTRE COMMUNE HAD KOURT",
+    "AdresseA": " بلدية أحدكورت",
+    "COMMUNE": "Had Kourt",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ACHADLI",
+    "NOM_ETABA": "الشادلي",
+    "AdresseL": "HAD KOURT CENTRE",
+    "AdresseA": "احد كورت",
+    "COMMUNE": "Had Kourt",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ALFARABI",
+    "NOM_ETABA": "ثانوية الفرابي",
+    "AdresseL": "MUNICIPALITE HAD KOURT",
+    "AdresseA": "مركز أحد كورت",
+    "COMMUNE": "Had Kourt",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL HODA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "avenue mohamed 5 n° 33",
+    "AdresseA": "شارع محمد الخامس رقم 33",
+    "COMMUNE": "Had Kourt ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANARA",
+    "NOM_ETABA": "المنارة",
+    "AdresseL": "QUARTIER knadla ",
+    "AdresseA": " حي القنادلة - أحد كورت",
+    "COMMUNE": "Had Kourt ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

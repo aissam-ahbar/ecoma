@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HADOU-BEN-HAMMOU",
+    "NOM_ETABA": "ثانوية حدو بن حمو الإعدادية",
+    "AdresseL": "COMMUNE IZMMOUREN",
+    "AdresseA": "جماعة ازمورن",
+    "COMMUNE": "Izemmouren",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IZAMMOUREN",
+    "NOM_ETABA": "ازمورن",
+    "AdresseL": "DOUAR IZAMMOUREN COMMUNE IZAMMOUREN",
+    "AdresseA": "إزمورن المركز 32024 إقليم الحسيمة",
+    "COMMUNE": "Izemmouren",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

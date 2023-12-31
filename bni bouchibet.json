@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS TABARANT",
+    "NOM_ETABA": "م/م تبرانت",
+    "AdresseL": "DOUAR TABARANTE COMMUNE BNI BOUCHIBET",
+    "AdresseA": "دوار تبرانت جماعة بني بوشيبت",
+    "COMMUNE": "Bni Bouchibet",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI AYACH",
+    "NOM_ETABA": "بني عياش",
+    "AdresseL": "DOUAR BNI AYACH COMMUNE BNI BOUCHIBET",
+    "AdresseA": "دوار بني عياش جماعة بني بوشيبت",
+    "COMMUNE": "Bni Bouchibet",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TABARRANTE",
+    "NOM_ETABA": "ثانوية تبرانت التأهيلية",
+    "AdresseL": "COMMUNE BNI BOUCHIBT ketama",
+    "AdresseA": " جماعة بني بوشيبت كتامة",
+    "COMMUNE": "Bni Bouchibet",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

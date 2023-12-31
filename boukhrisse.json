@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID MOHAMED KDAMA",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد محمد كدامة",
+    "AdresseL": "centre commune rurale boukhrisse  cercle bejaad",
+    "AdresseA": "مركز جماعة بوخريص دائرة بجعد",
+    "COMMUNE": "Boukhrisse",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BIR TINE",
+    "NOM_ETABA": "م/م بير الطين",
+    "AdresseL": "DOUAR AIT RAHHAL COMMUNE BOUKHRISS",
+    "AdresseA": "دوار  ايت  رحال",
+    "COMMUNE": "Boukhrisse",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHAHID TAOUSSI",
+    "NOM_ETABA": "م/م الشهيد الطوسي",
+    "AdresseL": "DOUAR AIT RAHHAL COMMUNE BOUKHRISSE",
+    "AdresseA": "دوار  ايت  رحال",
+    "COMMUNE": "Boukhrisse",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AOUID EL MA",
+    "NOM_ETABA": "مدرسة عويد الما",
+    "AdresseL": "DOUAR AOUID EL MAA COMBOUKHRISS CERCBEJAAD",
+    "AdresseA": "دوار  عويد  الما",
+    "COMMUNE": "Boukhrisse",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

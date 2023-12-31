@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "SS ZAITOUN",
+    "NOM_ETABA": "م.م الزيتون",
+    "AdresseL": "DOUAR   LAGROUNE LAGFIFAT",
+    "AdresseA": "دوار الكرون",
+    "COMMUNE": "Lagfifat",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI AYAD SOUSSI",
+    "NOM_ETABA": "م.م سيدي عياد السوسي",
+    "AdresseL": "DOUAR   EZZAOUIA C LAGFIFATE",
+    "AdresseA": "د. الزاوية",
+    "COMMUNE": "Lagfifat",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MAGHREB ARABI",
+    "NOM_ETABA": "م.م المغرب العربي",
+    "AdresseL": "DOUAR  DELLALATE COMMUNE LAGFIFAT",
+    "AdresseA": "د. الدلالات",
+    "COMMUNE": "Lagfifat",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOU AACHIR",
+    "NOM_ETABA": "م.م ابن عاشر",
+    "AdresseL": "DR LAKRAOUITE COMMUNE LAGFIFAT oulad teima",
+    "AdresseA": "د. الكراويط جماعة الكفيفات - اولاد تايمة ",
+    "COMMUNE": "Lagfifat",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L TABARI",
+    "NOM_ETABA": "ثأ.الطبري",
+    "AdresseL": "COMMUNE LAGFIFAT ANNEXE AIN CHAIB",
+    "AdresseA": "جماعة الكفيفات",
+    "COMMUNE": "Lagfifat",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "RITAJ",
+    "NOM_ETABA": "رتاج",
+    "AdresseL": "NULL",
+    "AdresseA": "جماعة لكفيفات",
+    "COMMUNE": "Lagfifat",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

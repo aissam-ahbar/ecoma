@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE DE BOUMERIEME",
+    "NOM_ETABA": "إعدادية بومريم",
+    "AdresseL": "COMMUNE DE BOUMERIEME",
+    "AdresseA": "جماعة بومريم",
+    "COMMUNE": "Boumerieme",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TAMESLEMT",
+    "NOM_ETABA": "تامسلمت",
+    "AdresseL": "KSAR TAMESLEMT",
+    "AdresseA": "قصر تامسلمت",
+    "COMMUNE": "Boumerieme",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASDAD",
+    "NOM_ETABA": "أسداد",
+    "AdresseL": "KSAR ASDAD",
+    "AdresseA": "قصر أسداد",
+    "COMMUNE": "Boumerieme",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMRIJA ALOULIA",
+    "NOM_ETABA": "المريجة العليا",
+    "AdresseL": "DOUAR LAMRIJA ALOULIA",
+    "AdresseA": "دوار المريجة العليا",
+    "COMMUNE": "Boumerieme",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

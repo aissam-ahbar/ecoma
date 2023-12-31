@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MANSSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية الإعدادية المنصور الذهبي",
+    "AdresseL": "HAD HRARA COMMUNE HRARA",
+    "AdresseA": "احد احرارة -المركز-",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HAD HRARA",
+    "NOM_ETABA": "م/م حد حرارة",
+    "AdresseL": " HAD HRARA COMMUNE HRARA",
+    "AdresseA": " حد حرارة جماعة حرارة",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAOUINA",
+    "NOM_ETABA": "م/م لعوينة",
+    "AdresseL": "DOUAR LAAOUINA COMMUNE HRARA",
+    "AdresseA": "دوار لعوينة جماعة حرارة",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELBOUHIDDATE",
+    "NOM_ETABA": "م/م البوحيدات",
+    "AdresseL": "DOUAR EL BOUHIDDATE COMMUNE HRARA",
+    "AdresseA": "دوار البوحيدات جماعة حرارة",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S EZZIDANIA",
+    "NOM_ETABA": "م/م الزيدانية",
+    "AdresseL": "DOUAR OULAD BOUHASSOUNE COMMUNE HRARA",
+    "AdresseA": "دوار اولاد بوحسون جماعة حرارة",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KAROUCH",
+    "NOM_ETABA": "م/م كاروش",
+    "AdresseL": "DOUAR KAROUCH COMMUNE HRARA",
+    "AdresseA": "دوار كاروش جماعة حرارة",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " SS SAHAL",
+    "NOM_ETABA": " م/م الساحل",
+    "AdresseL": "DOUAR AIT MOULI COMMUNE HRARA",
+    "AdresseA": "دوار أيت مولي جماعة حرارة",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " AGDAL",
+    "NOM_ETABA": "م/م أكدال",
+    "AdresseL": "DOUAR LAMAACHATE   COMMUNE HRARA",
+    "AdresseA": "دوار المعاشات جماعة حرارة",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL JAHED",
+    "NOM_ETABA": "الثانوية التأهيلية الجاحظ",
+    "AdresseL": "CENTRE COMMUNE HRARA",
+    "AdresseA": "مركز جماعة احد احرارة",
+    "COMMUNE": "Hrara",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

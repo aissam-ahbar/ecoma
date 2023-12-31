@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OULAD SAID CENTRE",
+    "NOM_ETABA": "اولاد سعيد المركزية",
+    "AdresseL": "DOUAR LAKRABLA OULED SAID COMMUNE SIDI MOUSSA",
+    "AdresseA": "دوار لقرابلة",
+    "COMMUNE": "Sidi Moussa",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUMNIEE CENTRE",
+    "NOM_ETABA": "اولاد بومنيع المركزية",
+    "AdresseL": "DOUAR OULED BOUMNIAE COMMUNE SIDI MOUSSA",
+    "AdresseA": "دوار اولاد بومنيع",
+    "COMMUNE": "Sidi Moussa",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI MOUSSA",
+    "NOM_ETABA": "ثانوية سيدي موسى التأهيلية",
+    "AdresseL": "SIDI MOUSSA",
+    "AdresseA": "سيدي موسى",
+    "COMMUNE": "Sidi Moussa",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

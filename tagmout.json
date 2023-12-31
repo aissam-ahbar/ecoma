@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLEGIAL AZZAYTOUN",
+    "NOM_ETABA": "ثانوية الزيتون الإعدادية",
+    "AdresseL": "centre tagmout",
+    "AdresseA": "تكموت",
+    "COMMUNE": "Tagmout",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S TAGMOUT",
+    "NOM_ETABA": "م/م تاكموت",
+    "AdresseL": "TAGMOUT   TATA",
+    "AdresseA": "تكموت طاطا",
+    "COMMUNE": "Tagmout",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AGADIR EL JADID",
+    "NOM_ETABA": "م/م اكادير الجديد",
+    "AdresseL": "CENTRE TAGMOUT  TATA",
+    "AdresseA": "مركز تكموت طاطا",
+    "COMMUNE": "Tagmout",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

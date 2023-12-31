@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "BOUAASSEM",
+    "NOM_ETABA": "بوعاصم",
+    "AdresseL": "SKOURA CENTRE COMMUNE SKOURA MDAZ",
+    "AdresseA": "سكورة المركز جماعة سكورة امداز",
+    "COMMUNE": "Skoura M'Daz",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ICH NAAKI",
+    "NOM_ETABA": "اشنعكي",
+    "AdresseL": "DOUAR ICH NAAKI COMMUNE SKOURA MDAZ",
+    "AdresseA": "دوار اشنعكي جماعة سكورة امداز",
+    "COMMUNE": "Skoura M'Daz",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MAHYOU",
+    "NOM_ETABA": "سيدي محيو",
+    "AdresseL": "DOUAR SIDI MAHYOU COMMUNE SKOURA M DAZ",
+    "AdresseA": "دوار سيدي محيو  جماعة سكورة امداز",
+    "COMMUNE": "Skoura M'Daz",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAJJINE",
+    "NOM_ETABA": "تاجين",
+    "AdresseL": "DOUAR TAJJINE COMMUNE SKOURA MDAZ",
+    "AdresseA": "دوار تاجين جماعة سكورة امداز",
+    "COMMUNE": "Skoura M'Daz",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHARIF AL IDRISSI",
+    "NOM_ETABA": "الثانوية التأهيلية الشريف الإدريسي",
+    "AdresseL": "SKOURA CENTRE COMMUNE SKOURA MDAZ",
+    "AdresseA": "سكورة المركز جماعة سكورة امداز",
+    "COMMUNE": "Skoura M'Daz",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

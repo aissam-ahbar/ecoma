@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SIDI BRAHIM EL KANOUN CENTRE",
+    "NOM_ETABA": "سيدي ابراهيم الكانون المركزية",
+    "AdresseL": "DOUAR SIDI BRAHIM EL KANOUN COMMUNE DZOUZ",
+    "AdresseA": "دوار سيدي ابراهيم الكانون جماعة الدزوز",
+    "COMMUNE": "Dzouz",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZZAITOUNE CENTRE",
+    "NOM_ETABA": "الزيتون المركزية",
+    "AdresseL": "DOUAR OULAD BRAHIM COMMUNE DZOUZ",
+    "AdresseA": "دوار اولاد ابراهيم جماعة الدزوز",
+    "COMMUNE": "Dzouz",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

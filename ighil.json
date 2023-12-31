@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IGHIL",
+    "NOM_ETABA": "الثانوية الإعدادية إغيل",
+    "AdresseL": "centre commune Ighil",
+    "AdresseA": "مركز جماعة إغيل",
+    "COMMUNE": "Ighil",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IGHIL",
+    "NOM_ETABA": "اغيل",
+    "AdresseL": "DOUAR IGHIL COMMUNE IGHIL",
+    "AdresseA": "دوار اغيل جماعة اغيل",
+    "COMMUNE": "Ighil",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASLOUNE",
+    "NOM_ETABA": "اسلون",
+    "AdresseL": "DOUAR ASLOUNE COMMUNE IGHIL",
+    "AdresseA": "دوار اسلون جماعة اغيل",
+    "COMMUNE": "Ighil",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANFGHIKHTE",
+    "NOM_ETABA": "تانفكيغت",
+    "AdresseL": "DOUAR TANFGHUIKHT COMMUNE IGHIL",
+    "AdresseA": "دوار تانفكيغت جماعة اغيل",
+    "COMMUNE": "Ighil",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

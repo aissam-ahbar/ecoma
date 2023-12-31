@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN HANBAL",
+    "NOM_ETABA": "الثانوية الإعدادية ابن حنبل",
+    "AdresseL": "centre commune lahdar",
+    "AdresseA": "مركز جماعة لحضر",
+    "COMMUNE": "Lahdar",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " MCHAAREN",
+    "NOM_ETABA": " م/م امشعرن",
+    "AdresseL": "DOUAR LAGHOUAL COMMUNE LAHADR",
+    "AdresseA": "دوار لغوال جماعة لحضر",
+    "COMMUNE": "Lahdar",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DANOUN LHADRI",
+    "NOM_ETABA": "م/م سيدي دنون الحضري",
+    "AdresseL": "DOUAR LABRAHMACOMMUNE LAHDAR",
+    "AdresseA": "دوار البراهمة جماعة لحضر",
+    "COMMUNE": "Lahdar",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSOUR",
+    "NOM_ETABA": "م/م السور",
+    "AdresseL": "DOUAR ESSOURCOMMUNE LAHDAR",
+    "AdresseA": "دوار الصور جماعة لحضر",
+    "COMMUNE": "Lahdar",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

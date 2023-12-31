@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ROCHD",
+    "NOM_ETABA": "ثانوية ابن رشد الاعدادية",
+    "AdresseL": "ait yahia oualla commune Tigrigra",
+    "AdresseA": "ايت يحيى وعلا جماعة تكركرة",
+    "COMMUNE": "Tigrigra",
+    "PROVINCE": "Province: Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSANE BNOU TABIT",
+    "NOM_ETABA": "مدرسة حسان بن ثابت الابتدائية",
+    "AdresseL": "DOUAR AIT YAHIA OUALLA COMMUNE TIGRIGRA",
+    "AdresseA": "دوار أيت يحيى أوعلا جماعة تكريكرة",
+    "COMMUNE": "Tigrigra",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN AGHBAL CENTRE",
+    "NOM_ETABA": "م م عين أغبال المركزية",
+    "AdresseL": "AIN AGHBAL COMMUNE TIGRIGRA",
+    "AdresseA": "عين أغبال جماعة تكريكرة",
+    "COMMUNE": "Tigrigra",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT AMR OUALI CENTRE",
+    "NOM_ETABA": "م م ايت عمرو وعلي المركزية",
+    "AdresseL": "ss AIT AMR OUALI commune tigrigra",
+    "AdresseA": "م/م ايت عمرووعلي جماعة تكركرة",
+    "COMMUNE": "Tigrigra",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUAD MAGHRA CENTRE",
+    "NOM_ETABA": "م م واد مغرة المركزية",
+    "AdresseL": " OUAD MAGHRATALMARST COMMUNE TIGRIGRA",
+    "AdresseA": "واد مغرة  اتا لمرست جماعة تكريكرة",
+    "COMMUNE": "Tigrigra",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ADAROUCH CENTRE",
+    "NOM_ETABA": "م م أضاروش المركزية",
+    "AdresseL": "ADAROUCH COMMUNE TIGRIGRA",
+    "AdresseA": "أضاروش جماعة تكريكرة",
+    "COMMUNE": "Tigrigra",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "annajah",
+    "NOM_ETABA": "النجاح",
+    "AdresseL": "",
+    "AdresseA": "ايت يحيى و علا تيكريكرة",
+    "COMMUNE": "Tigrigra",
+    "PROVINCE": "Ifrane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

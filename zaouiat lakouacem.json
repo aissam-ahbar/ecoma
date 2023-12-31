@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S BOUKHNINE",
+    "NOM_ETABA": "م/م بوخنين",
+    "AdresseL": "DOUAR EL KHNINATE ",
+    "AdresseA": "دوار الخنينات",
+    "COMMUNE": "Zaouiat Lakouacem",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SMAMDA",
+    "NOM_ETABA": "م/م الصمامدة",
+    "AdresseL": "DOUAR SMAMDA ",
+    "AdresseA": "دوار الصمامدة",
+    "COMMUNE": "Zaouiat Lakouacem",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKOUACEM",
+    "NOM_ETABA": "م/م القواسم",
+    "AdresseL": "DOUAR LEMOHAMDIENE ",
+    "AdresseA": "دوار المحمديين",
+    "COMMUNE": "Zaouiat Lakouacem",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

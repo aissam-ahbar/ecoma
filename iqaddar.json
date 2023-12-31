@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "MAKHZAN MOBIL",
+    "NOM_ETABA": "المخزن المتنقل",
+    "AdresseL": "MAKHZAN MOBIL IQADDAR",
+    "AdresseA": "المخزن المتنقل اقدار",
+    "COMMUNE": "Iqaddar",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BLOC 429",
+    "NOM_ETABA": "الضيعة 429",
+    "AdresseL": "DAIA 429",
+    "AdresseA": "الضيعة 429",
+    "COMMUNE": "Iqaddar",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHCEN AKAMACHE",
+    "NOM_ETABA": "لحسن اقماش",
+    "AdresseL": " lahcen akamache IQADDAR",
+    "AdresseA": "لحسن اقماش اقدار",
+    "COMMUNE": "Iqaddar",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUCHARMOU",
+    "NOM_ETABA": "بوشرمو",
+    "AdresseL": "BOUCHARMOU IQADDAR",
+    "AdresseA": "بوشرمو اقدار",
+    "COMMUNE": "Iqaddar",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

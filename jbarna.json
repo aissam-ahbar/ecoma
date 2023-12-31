@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "BASSATINE LOUZE CENTRE",
+    "NOM_ETABA": "بساتين اللوز المركز",
+    "AdresseL": "JBARNA COMMUNE JBARNA",
+    "AdresseA": "دوار بساتين اللوز جماعة الجبارنة",
+    "COMMUNE": "Jbarna",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED HADOU CENTRE",
+    "NOM_ETABA": "أولاد حدو المركز",
+    "AdresseL": "DOUAR OULED HADOU COMMUNE JBARNA ",
+    "AdresseA": "دوار أولاد حدو  جماعة اجبارنة",
+    "COMMUNE": "Jbarna",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

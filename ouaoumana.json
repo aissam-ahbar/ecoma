@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "OUAOUMANA",
+    "NOM_ETABA": "واومنة",
+    "AdresseL": "OUAOUMANA CENTRE COMMUNE OUAOUMANA",
+    "AdresseA": "واومنة المركز",
+    "COMMUNE": "Ouaoumana",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AOURRACH",
+    "NOM_ETABA": "اوراش",
+    "AdresseL": "DOUAR AOURRACH COMMUNE OUAOUMANA",
+    "AdresseA": "دوار اوراش جماعة واومنة",
+    "COMMUNE": "Ouaoumana",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALMOU",
+    "NOM_ETABA": "المو",
+    "AdresseL": "hay almou ouaoumana centre",
+    "AdresseA": "حي المو مركز جماعة واومنة",
+    "COMMUNE": "Ouaoumana",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IRFANE",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "OUAOUMANA CENTRE",
+    "AdresseA": "واومنة المركز",
+    "COMMUNE": "Ouaoumana",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUAOUMANA",
+    "NOM_ETABA": "الثانوية التأهيلية واومنة",
+    "AdresseL": "OUAOUMNA CENTRE COMMUNE OUAOUMNA",
+    "AdresseA": "مركز جماعة واومنة",
+    "COMMUNE": "Ouaoumana",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

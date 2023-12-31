@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS AIN ZOHRA",
+    "NOM_ETABA": "م.م عين الزهراء",
+    "AdresseL": "commune ain zahra centre",
+    "AdresseA": "جماعة عين الزهراء المركز",
+    "COMMUNE": "Ain Zohra",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GHALEB DRIOUCH",
+    "NOM_ETABA": "م.م غالب ادريوش",
+    "AdresseL": "DOUAR OULAD HAQQONE COMMUNE AIN ZOHRA",
+    "AdresseA": "دوار اولاد حقون  ج  عين الزهراء",
+    "COMMUNE": "Ain Zohra",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD MIMOUNE",
+    "NOM_ETABA": "م.م اولاد ميمون",
+    "AdresseL": "DOUAR OULAD MIMOUNE COMMUNE AIN ZOHRA",
+    "AdresseA": "دوار اولاد ميمون جماعة عين الزهراء",
+    "COMMUNE": "Ain Zohra",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIN ZAHRA",
+    "NOM_ETABA": "ثانوية عين الزهرة التأهيلية",
+    "AdresseL": "COMMUNE AIN ZOHRA CENTRE",
+    "AdresseA": "جماعة عين زورة",
+    "COMMUNE": "Ain Zohra",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

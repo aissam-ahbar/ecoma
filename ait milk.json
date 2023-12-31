@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "C SIDI KHLIL",
+    "NOM_ETABA": "ثإ. سيدي خليل",
+    "AdresseL": "SEBT AIT MILK",
+    "AdresseA": "دوار سبت أيت ميلك",
+    "COMMUNE": "Ait Milk",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ARRAJA",
+    "NOM_ETABA": "م م الرجــاء",
+    "AdresseL": "DOUAR IMMI OUGHGAMI",
+    "AdresseA": "دوار إمي أوغكمي",
+    "COMMUNE": "Ait Milk",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT CHARIF",
+    "NOM_ETABA": "م.م ايت الشريف",
+    "AdresseL": "DOUAR AIT CHRIF   ",
+    "AdresseA": "دوار أيت الشريف",
+    "COMMUNE": "Ait Milk",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASSARSSIF",
+    "NOM_ETABA": "م.م  أسرسيف",
+    "AdresseL": "DOUAR ASSARSSIF",
+    "AdresseA": "دوار أسرسيف",
+    "COMMUNE": "Ait Milk",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IDAWAISSA",
+    "NOM_ETABA": "م.م اداوعيسي",
+    "AdresseL": "DOUAR IDAWAISSI",
+    "AdresseA": "دوار إداوعيسي",
+    "COMMUNE": "Ait Milk",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "L AL QODS",
+    "NOM_ETABA": "ثأ. القدس",
+    "AdresseL": "CENTRE SEBT AIT MILK",
+    "AdresseA": "مركز سوق سبت ايت ميلك",
+    "COMMUNE": "Ait Milk",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

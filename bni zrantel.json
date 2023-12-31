@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED AMINE",
+    "NOM_ETABA": "الثانوية الاعدادية أحمد أمين",
+    "AdresseL": "CENTRE COMMUNE BNI ZRANTEL",
+    "AdresseA": "مركز  جماعة  بني  ازرنتل",
+    "COMMUNE": "Bni Zrantel",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS LAGRAR",
+    "NOM_ETABA": "م/م الكرار",
+    "AdresseL": "DOUAR AIT BEN YAHYA COMMUNE BENI ZRANTEL",
+    "AdresseA": "دوار ايت بن يحيى",
+    "COMMUNE": "Bni Zrantel",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOUALA",
+    "NOM_ETABA": "م/م بوعلى",
+    "AdresseL": "DOUAR BOUALA COMMUNE BENI ZRANTEL",
+    "AdresseA": "Err :509",
+    "COMMUNE": "Bni Zrantel",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BNI ZRANTEL",
+    "NOM_ETABA": "الثانوية التاهيلية بني زرنتل",
+    "AdresseL": "centre commune bni zrantel",
+    "AdresseA": "مركزجماعة بني زرنتل",
+    "COMMUNE": "Bni Zrantel",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

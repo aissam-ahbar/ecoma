@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial BNOU HAZM",
+    "NOM_ETABA": "الثانوية الإعدادية ابن حزم",
+    "AdresseL": "BAB LAMROUJ CENTRE",
+    "AdresseA": "باب المروج المركز",
+    "COMMUNE": "Taifa",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI AHMED ZERROUK CENTRE",
+    "NOM_ETABA": "سيدي أحمد زروق المركز",
+    "AdresseL": "SIDI AHMED ZEZRROUK COMMUNE TAIFA",
+    "AdresseA": "سيدي أحمد زروق  جماعة الطايفة",
+    "COMMUNE": "Taifa",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAAIDA CENTRE",
+    "NOM_ETABA": "السعايدة المركز",
+    "AdresseL": "SAIDA COMMUNE TAIFA",
+    "AdresseA": "السعايدة المركز جماعة الطايفة",
+    "COMMUNE": "Taifa",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAB LAMROUJ CENTRE",
+    "NOM_ETABA": "باب المروج المركز",
+    "AdresseL": "BAB LAMROUJ COMMUNE TAIFA",
+    "AdresseA": "باب المروج جماعة الطايفة",
+    "COMMUNE": "Taifa",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

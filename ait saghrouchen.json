@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial AL MAGHREB EL ARABI",
+    "NOM_ETABA": "المغرب العربي الثانوية الإعدادية",
+    "AdresseL": "CENTRE BOUZMLEN COMMUNE AIT SAGHROUCHEN",
+    "AdresseA": "مركز بوزملان جماعة آيت سغروشن",
+    "COMMUNE": "Ait Saghrouchen",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOUZEMLANE CENTRE",
+    "NOM_ETABA": "بوزملان المركز",
+    "AdresseL": " BOUZEMLAN CENTRECOMMUNE AIT SEGHROUCHENE",
+    "AdresseA": " بوزملان المركز جماعة آيت سغروشن",
+    "COMMUNE": "Ait Saghrouchen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUFEKRANE CENTRE",
+    "NOM_ETABA": "بوفكران المركز",
+    "AdresseL": "DOUAR BOUFAKRAN COMMUNE AIT SEGHROUCHENE",
+    "AdresseA": "دوار بوفكران جماعة آيت سغروشن",
+    "COMMUNE": "Ait Saghrouchen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIBARBARINE CENTRE",
+    "NOM_ETABA": "تيبربارين المركز",
+    "AdresseL": "DOUAR EL ABOUZ COMMUNE AIT SAGHROUCHEN",
+    "AdresseA": "دوار العبوزجماعة آيت سغروشن",
+    "COMMUNE": "Ait Saghrouchen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN DFALI CENTRE",
+    "NOM_ETABA": "عين الدفالي المركز",
+    "AdresseL": "DOUAR AIN DFALI COMMUNE AIT SAGHROUCHEN",
+    "AdresseA": "دوار عين الدفالي جماعة آيت سغروشن",
+    "COMMUNE": "Ait Saghrouchen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHZANA CENTRE",
+    "NOM_ETABA": "لخزانة المركز",
+    "AdresseL": "DOUAR LAKHZANA COMMUNE AIT SEGHROUCHENE ",
+    "AdresseA": "دوارالخزانة  جماعة آيت سغروشن",
+    "COMMUNE": "Ait Saghrouchen",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

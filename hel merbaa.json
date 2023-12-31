@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "HAL MARBAA",
+    "NOM_ETABA": "م اهل المربع",
+    "AdresseL": "CENTRE HAL MARBAA COMMUNE HAL MARBAA",
+    "AdresseA": "جماعة  اهل المربع",
+    "COMMUNE": "Hel Merbaa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED YAALA CENTRE",
+    "NOM_ETABA": "مركزية اولاد يعلى",
+    "AdresseL": "OULED YAALA COMMUNE HAL MARBAA",
+    "AdresseA": "جماعة  اهل المربع",
+    "COMMUNE": "Hel Merbaa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED RGUIA CENTRE",
+    "NOM_ETABA": "مجموعة مدارس اولاد اركيعة",
+    "AdresseL": "OULED RGUIAA COMMUNE HAL MARBAA",
+    "AdresseA": "جماعة  اهل المربع",
+    "COMMUNE": "Hel Merbaa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE EL MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "ثانوية المختار السوسي التأهيلية",
+    "AdresseL": "DOUAR OULED RGUIaA COMMUNE HeL MERBAA",
+    "AdresseA": "دوار اولاد اركيعة جماعة هل المربع",
+    "COMMUNE": "Hel Merbaa",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

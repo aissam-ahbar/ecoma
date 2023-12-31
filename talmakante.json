@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "C TALMAKANTE",
+    "NOM_ETABA": "ثإ.تالمكانت",
+    "AdresseL": "Commune Talmakante",
+    "AdresseA": "جماعة تالمكانت",
+    "COMMUNE": "Talmakante",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TALMAKANTE",
+    "NOM_ETABA": "م.م تلمكانت",
+    "AdresseL": "DOUAR  TALMAKANTE COMMUNE TALMAKANTE",
+    "AdresseA": "تلمكانت",
+    "COMMUNE": "Talmakante",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TOUNIRT",
+    "NOM_ETABA": "م.م تونيرت",
+    "AdresseL": "DOUAR  TALATANE COMMUNE TALMAKANTE",
+    "AdresseA": "د. تلتان",
+    "COMMUNE": "Talmakante",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ICHKAJEN",
+    "NOM_ETABA": "م.م إشكاجن",
+    "AdresseL": "DOUAR  AZAR COMMUNE TALMAKANTE",
+    "AdresseA": "د. أزارجماعة تلمكانت",
+    "COMMUNE": "Talmakante",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

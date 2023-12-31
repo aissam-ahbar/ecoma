@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS SAADIYIN",
+    "NOM_ETABA": "م.م السعديين",
+    "AdresseL": "centr cr bounrar taroudant",
+    "AdresseA": "مركزجماعة بونرار،تارودانت",
+    "COMMUNE": "Bounrar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AOURIR",
+    "NOM_ETABA": "م.م اورير",
+    "AdresseL": "DOUAR  AOURIR Cr BOUNRAR ",
+    "AdresseA": "دوار أورير",
+    "COMMUNE": "Bounrar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS GATTIOUA",
+    "NOM_ETABA": "م.م كطيوة",
+    "AdresseL": "DOUAR  AZOUR NEZIGUE C BOUNRAR",
+    "AdresseA": "دوار أزور نيزيك جماعة بونرار",
+    "COMMUNE": "Bounrar",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

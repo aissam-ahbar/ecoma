@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OUTAT ZITOUN",
+    "NOM_ETABA": "اوطاط الزيتون",
+    "AdresseL": "DOUAR OULAD MELLOUK COMUNE ERMILA",
+    "AdresseA": "دوار اولاد ملوك جماعة الرميلة",
+    "COMMUNE": "Ermila",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AABBOU",
+    "NOM_ETABA": "اولاد عبو",
+    "AdresseL": "DOUAR OULED ABBOU COMMUNE ERMILA",
+    "AdresseA": "دوار اولاد عبو جماعة الرميلة",
+    "COMMUNE": "Ermila",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGGOUR EL GHARBIA",
+    "NOM_ETABA": "تكور الغربية",
+    "AdresseL": "DOUAR TAGGOUR COMMUNE ERMILA",
+    "AdresseA": "دوار تكور جماعة الرميلة",
+    "COMMUNE": "Ermila",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

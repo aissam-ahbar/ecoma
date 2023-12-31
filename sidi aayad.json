@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": " S/S SIDI AYADE",
+    "NOM_ETABA": " م/م سيدي عياد",
+    "AdresseL": "KSARE TILLICHTE SIDI AYAD RICH",
+    "AdresseA": "قصر تليشت سيدي عياد الريش",
+    "COMMUNE": "Sidi Aayad",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S TAGRSIFTE",
+    "NOM_ETABA": "م/م تكرسيفت",
+    "AdresseL": "KSAR TAGRSIFTE SIDI AAYAD RICH MIDELT",
+    "AdresseA": "قصر تكرسيفت جما عة سيدي عياد الريش ميدات",
+    "COMMUNE": "Sidi Aayad",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OUAALOU",
+    "NOM_ETABA": "ايت وعلو",
+    "AdresseL": "KSAR AIT OUAALOU SIDI AYAD RICH",
+    "AdresseA": "ايت وعلو الريش",
+    "COMMUNE": "Sidi Aayad",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TASSALEHTE",
+    "NOM_ETABA": "تصالحت",
+    "AdresseL": "KSAR TASSALAHTE SIDI AYAD RICH",
+    "AdresseA": "قصر تصالحت سيدي عياد الريش",
+    "COMMUNE": "Sidi Aayad",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TADRAKLOUTE",
+    "NOM_ETABA": "تدركلوت",
+    "AdresseL": "KSAR TADRAKLOUTE RICH  MIDELT",
+    "AdresseA": "قصر تدركلوت الريش اقليم ميدلت",
+    "COMMUNE": "Sidi Aayad",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

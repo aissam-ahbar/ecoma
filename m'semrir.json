@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SAID MOUTIA",
+    "NOM_ETABA": "الثانوية الاعدادية سعيد مطيع",
+    "AdresseL": "Douar oussikis",
+    "AdresseA": "دوار اوسكيس",
+    "COMMUNE": "M'Semrir",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS M SEMRIR",
+    "NOM_ETABA": "م م امسمرير",
+    "AdresseL": "M'smerir Boumalne-Dades Tinghir",
+    "AdresseA": "امسمرير المركز",
+    "COMMUNE": "M'Semrir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAADADATE",
+    "NOM_ETABA": "م م تعدادات",
+    "AdresseL": "MSEMRIR BOUMALENE TINGHIR",
+    "AdresseA": "امسمرير",
+    "COMMUNE": "M'Semrir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUSSIKISSE",
+    "NOM_ETABA": "م م اسكيس",
+    "AdresseL": "oussikiss m semrir tinghir",
+    "AdresseA": "اسكيس امسمرير تنغير",
+    "COMMUNE": "M'Semrir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  YOUSSEF IBN TACHFINE",
+    "NOM_ETABA": "الثانوية التأهيلية يوسف بن تاشفين",
+    "AdresseL": "CENTRE MSEMRIR",
+    "AdresseA": "مركز امسمرير",
+    "COMMUNE": "M'Semrir",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LC AZZAITOUNE",
+    "NOM_ETABA": " ثانوية الزيتون الإعدادية",
+    "AdresseL": "DOUAR  Bouarguane              COMMUNE  TAMRI",
+    "AdresseA": "دوار بواركان  جماعة تامري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL MANAR TAMRI",
+    "NOM_ETABA": "م.م المنار-التامـري",
+    "AdresseL": "TAMRI CENTRE AGADIR",
+    "AdresseA": "تامري المركز أكادير",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI YAAQOUB ZAOUIA",
+    "NOM_ETABA": "م.م سيدي يعقوب-الـزاويـة",
+    "AdresseL": "DOUAR  ZAOUIA               COMMUNE  TAMRI",
+    "AdresseA": "دوار الزاويــة جماعـة التامــري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI ABOUDAOUD TOURARINE",
+    "NOM_ETABA": "م.م سيدي  أبوداود-تـوراريـن",
+    "AdresseL": "DOUAR  TOURARINE             COMMUNE  TAMRI",
+    "AdresseA": "دوار تورارين  جماعـة التامـري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGHROD AGHROD",
+    "NOM_ETABA": "م.م اغـروض-اغروض",
+    "AdresseL": "DOUAR  AGHROD            COMMUNE  TAMRI",
+    "AdresseA": "دوار اغتروض  جماعـة التامـري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL ARGANE JITAKOUL",
+    "NOM_ETABA": "م.م الأركان-جـيـــتـكـل",
+    "AdresseL": "DOUAR  JITAKOUL            COMMUNE  TAMRI",
+    "AdresseA": "دوار جبتـكـل جماعـة التامـري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANNAKHIL TIKIOUINE",
+    "NOM_ETABA": "م.م النخيل-تيكـويــن",
+    "AdresseL": "DOUAR  TIKIOUINE              COMMUNE  TAMRI",
+    "AdresseA": "دوارتكوين  جماعـة التامـري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIMASNINE IDORANE",
+    "NOM_ETABA": "م.م تماسنين-إضـوران",
+    "AdresseL": "DOUAR IDORANE              COMMUNE  TAMRI",
+    "AdresseA": "دوار اضـوران  جماعة التامـري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AIT TAMR TAMRI",
+    "NOM_ETABA": "م. أيت تامرـ تامري",
+    "AdresseL": "COMMUNE RURALE TAMRI",
+    "AdresseA": "الجماعة القروية التامري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LQ AHL SOUSS",
+    "NOM_ETABA": "ثانوية أهل سوس التأهيلية",
+    "AdresseL": "CENTRE TAMRI",
+    "AdresseA": "مركز جماعة تامري",
+    "COMMUNE": "Tamri",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

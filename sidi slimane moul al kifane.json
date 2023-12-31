@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial BEN AISSA EL JARROUANI",
+    "NOM_ETABA": "الثانوية الإعدادية بن عيسى الجرواني",
+    "AdresseL": " SIDI SLIMANE MOUL KIFANE HAJ KADDOUR",
+    "AdresseA": "سيدي سليمان مول الكيفان الحاج قدور",
+    "COMMUNE": "Sidi Slimane Moul Al Kifane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial HANAAE",
+    "NOM_ETABA": "الثانوية الإعدادية الهناء",
+    "AdresseL": " COMMUNE SIDI SLIMANE MOUL AL KIFANE",
+    "AdresseA": "جماعة سيدي سليمان مول الكيفان",
+    "COMMUNE": "Sidi Slimane Moul Al Kifane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HAJ KADDOUR",
+    "NOM_ETABA": "الحاج قدور",
+    "AdresseL": "HAJ KADOUR COMMUNE SIDI SLIMANE MOUL AL KIFANE",
+    "AdresseA": "الحاج قدور",
+    "COMMUNE": "Sidi Slimane Moul Al Kifane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ZOHR",
+    "NOM_ETABA": "ابن زهر",
+    "AdresseL": "HAJ KADDOUR COMMUNE SIDI SLIMANE MOUL AL KIFANE",
+    "AdresseA": "الحاج قدور",
+    "COMMUNE": "Sidi Slimane Moul Al Kifane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI SLIMANE",
+    "NOM_ETABA": "سيدي سليمان المركز",
+    "AdresseL": "COMMUNE SIDI SLIMANE MOUL AL KIFANE",
+    "AdresseA": "جماعة سيدي سليمان مول الكيفان",
+    "COMMUNE": "Sidi Slimane Moul Al Kifane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED DAHAB",
+    "NOM_ETABA": "وادي الذهب",
+    "AdresseL": "ECOLE AGRICOLE COMMUNE SIDI SLIMANE MOUL KIFANE",
+    "AdresseA": "سيدي سليمان",
+    "COMMUNE": "Sidi Slimane Moul Al Kifane",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

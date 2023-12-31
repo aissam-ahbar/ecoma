@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL LALLA AZIZA",
+    "NOM_ETABA": "الثانوي الإعدادية للا عزيزة",
+    "AdresseL": "Lalla Aziza",
+    "AdresseA": "للا عزيزة",
+    "COMMUNE": "Lalla Aaziza",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT MOUSSA",
+    "NOM_ETABA": "أيت موسى",
+    "AdresseL": "DOUAR AIT MOUSSA COMMUNE LALLA AAZIZA",
+    "AdresseA": "دوار أيت موسى جماعة للاعزيزة",
+    "COMMUNE": "Lalla Aaziza",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMZGOURTE",
+    "NOM_ETABA": "تمزكورت",
+    "AdresseL": "DOUAR TAMZGOURT COMMUNE LALLA AAZIZA",
+    "AdresseA": "دوار  تمزكورت",
+    "COMMUNE": "Lalla Aaziza",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT MHANED",
+    "NOM_ETABA": "ايت  محند",
+    "AdresseL": "DOUAR AIT MHANED COMMUNE LALLA AAZIZA",
+    "AdresseA": "دوار ايت محند جماعة للا عزيزة",
+    "COMMUNE": "Lalla Aaziza",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANSMAKHTE",
+    "NOM_ETABA": "تنسماخت",
+    "AdresseL": "DOUAR TANSMAKHTE COMMUNE LALLA AAZIZA",
+    "AdresseA": "دوار تنسماخت",
+    "COMMUNE": "Lalla Aaziza",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUANCHAKRIR",
+    "NOM_ETABA": "ونشكرير",
+    "AdresseL": "DOUAR OUNCHAKRIR  COMMUNE LALLA AAZIZA",
+    "AdresseA": "دوار ونشكرير",
+    "COMMUNE": "Lalla Aaziza",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

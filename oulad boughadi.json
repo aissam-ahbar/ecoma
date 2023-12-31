@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZ ZARKTOUNI",
+    "NOM_ETABA": "الثانوية الاعدادية الزرقطوني",
+    "AdresseL": "CENTRE COMMUNE OULED BOUGHADI ",
+    "AdresseA": "مركز  جماعة  اولاد   بوغادي",
+    "COMMUNE": "Oulad Boughadi",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SOUK TNINE",
+    "NOM_ETABA": "م/م سوق التنين",
+    "AdresseL": "CENTRE COMMUNE OULED BOUGHADI",
+    "AdresseA": "مركز جماعة اولاد بوغادي",
+    "COMMUNE": "Oulad Boughadi",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED KEHIL",
+    "NOM_ETABA": "م/م أولاد اكحيل",
+    "AdresseL": "DOUAR OULED KHIL  COMMUNE OULED BOURHADI",
+    "AdresseA": "دوار اولاد اكحيل",
+    "COMMUNE": "Oulad Boughadi",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD RAHOU",
+    "NOM_ETABA": "م/م اولاد رحو",
+    "AdresseL": "DOUAR OULED RAHHOU COMMUNE OULED BOURHADI",
+    "AdresseA": "دوار  اولاد  رحو",
+    "COMMUNE": "Oulad Boughadi",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

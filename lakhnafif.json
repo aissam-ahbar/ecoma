@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS AL BAHRANI",
+    "NOM_ETABA": "م.م البحراني",
+    "AdresseL": "DOUAR   LABRAKIK EL BAHRANI CLAKHNAFIF",
+    "AdresseA": "د. البراكيك البحراني جماعة الخنافيف",
+    "COMMUNE": "Lakhnafif",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HASSAN BNOU TABIT",
+    "NOM_ETABA": "م.م حسان بن ثابت",
+    "AdresseL": "DOUAR   LAKHNAFIF CLAKHNAFIFguerdane",
+    "AdresseA": "دوار الخنافيف جماعة الخنافيف  بلدية الكردان",
+    "COMMUNE": "Lakhnafif",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRAZI ",
+    "NOM_ETABA": "الثانوية الإعدادية الرازي",
+    "AdresseL": " SOUK SEBT OULED NEMMA MUN  ",
+    "AdresseA": "بلدية سوق السبت أولاد النمة",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MOHAMED VI",
+    "NOM_ETABA": "ثانوية محمد السادس الإعدادية",
+    "AdresseL": "SOUK SEBT",
+    "AdresseA": " سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE SID EL HADRI",
+    "NOM_ETABA": "ثانوية سيدي الحضري الإعدادية",
+    "AdresseL": "SID EL HADRI SOUK SEBT",
+    "AdresseA": "سيدي الحضري  سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "ثانوية المنصور الذهبي الإعدادية",
+    "AdresseL": "COLLEGE ALMNSOUR DAHBI  souk sebt",
+    "AdresseA": "اعدادية المنصور الذهبي سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DAKHLA",
+    "NOM_ETABA": "م الداخلة",
+    "AdresseL": "RUE DAKHLA  quartier dakhla SOUK SEBT oulad nemma",
+    "AdresseA": "زنقة الداخلة حي الداخلة  سوق السبت اولاد النمة",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY RACHID",
+    "NOM_ETABA": "مدرسة مولاي رشيد",
+    "AdresseL": "RUE HASSAN II SOUK SEBT",
+    "AdresseA": "بلدية سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL INARA",
+    "NOM_ETABA": "م الإنارة",
+    "AdresseL": "SOUK SEBT",
+    "AdresseA": "بلدية سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IRFANE",
+    "NOM_ETABA": "م العرفان",
+    "AdresseL": "SOUK SEBT",
+    "AdresseA": "بلدية سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL ANOUAR",
+    "NOM_ETABA": "م الأنوار",
+    "AdresseL": "SOUK SEBT",
+    "AdresseA": "بلدية سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL ANDALOUSS",
+    "NOM_ETABA": "م الأندلس",
+    "AdresseL": "SOUK SEBT",
+    "AdresseA": "بلدية سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MAAMEL SOUK SEBT",
+    "NOM_ETABA": "مدرسة المعمل",
+    "AdresseL": "L USINE DU SUCRE SOUK SEBT",
+    "AdresseA": "بلدية سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRACHAD",
+    "NOM_ETABA": "م الرشاد",
+    "AdresseL": "SOUK SEBT",
+    "AdresseA": "بلدية سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMOTANABBI",
+    "NOM_ETABA": "مدرسة المتنبي",
+    "AdresseL": "LOTTISSEMENT ALMOSTAKBAL SOUK ESSEBT",
+    "AdresseA": "تجزئة المستقبل سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE EL KHAWAREZMI",
+    "NOM_ETABA": " ثانوية الخوارزمي التقنية",
+    "AdresseL": "ROUTE OULED AYAD",
+    "AdresseA": "طريق أولاد عياد",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 30 JUILLET",
+    "NOM_ETABA": "ثانوية 30 يوليوز التأهيلية",
+    "AdresseL": "ROUTE DAR OLD ZAYDOUH",
+    "AdresseA": "طريق دار ولد زيدوح",
+    "COMMUNE": "Souk Sebt Ouled Nemma",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ALHARF ALARABI",
+    "NOM_ETABA": "الحرف العربي",
+    "AdresseL": "CITE ADMINISTRATIVE CENTRECOMM",
+    "AdresseA": "الحي الإداري مركز جماعة سيدي ع",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hamza",
+    "NOM_ETABA": "حمزة ",
+    "AdresseL": "",
+    "AdresseA": "حي السعادة الرقم 143 سوق السبت",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHANSAA",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "sidi-aissa oulad mrah lafjagna",
+    "AdresseA": "سيدي عيسى أولادامراح لفجاكنة س",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chahid Al Quods",
+    "NOM_ETABA": "شهيد القدس",
+    "AdresseL": "Quartier Dakhla, Bloc 18, N° 9",
+    "AdresseA": "حي الداخلة، بلوك 8،18 رقم 8/9",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Ibnou Hazm",
+    "NOM_ETABA": "ابن حرم",
+    "AdresseL": "Quartier rajaa bloc 5 n° 28 - ",
+    "AdresseA": "حي الرجاء بلوك 5 الرقم 28 سوق ",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Safir Essalam",
+    "NOM_ETABA": "سفير السلام",
+    "AdresseL": "105 Bd, des FAR S/SEBT",
+    "AdresseA": "شارع الجيش الملكي رقم 105سوق ا",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fadwa",
+    "NOM_ETABA": "فدوى",
+    "AdresseL": "177,Bd. Mohamed V - C.U. Souk ",
+    "AdresseA": "177،شارع محمد الخامس ،ج،ح -سوق",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hanaa",
+    "NOM_ETABA": "الهناء",
+    "AdresseL": "Bd. Hassan II, N° 22",
+    "AdresseA": "شارع الحسن الثاني، رقم22",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNASIM 2 ",
+    "NOM_ETABA": "النسيم 2 ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النجاة زنقة اكادير سوق السب",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " IBN KHALDOUN 2",
+    "NOM_ETABA": "ابن خلدون 2",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الوحدة الحي الاداري سوق ا",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BNOU HAZEM 2 ",
+    "NOM_ETABA": "ابن حزم 2 ",
+    "AdresseL": "Hay Errajaaa Souk sebt",
+    "AdresseA": "حي الرجاء سوق السبت اولاد النم",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ibn khaldoun 1",
+    "NOM_ETABA": "ابن خلدون 1",
+    "AdresseL": "",
+    "AdresseA": "الحي الإداري شارع الوحدة سوق ا",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNASIM",
+    "NOM_ETABA": "النسيم",
+    "AdresseL": "boulevard bir anzarane souk se",
+    "AdresseA": "شارع بئر أنزران سوق السبت أولا",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRAHMA",
+    "NOM_ETABA": "الرحمة ",
+    "AdresseL": "lotissement al mostakbal n° 89",
+    "AdresseA": "تجزئة المستقبل رقم 89 سوق السب",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABU MOUSA AL Asya-ari",
+    "NOM_ETABA": "ابو موسى الاشعري ",
+    "AdresseL": "n° 52 bd hassan 2 quartier sut",
+    "AdresseA": "رقم 52 شارع الحسن الثاني حي سي",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBNOU  SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "bvd biranzaran n 68 souk sebt",
+    "AdresseA": " شارع بئر أنزران الرقم 68  سوق",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIL ALHANA",
+    "NOM_ETABA": "جيل الهناء",
+    "AdresseL": "quartier alyasmine bd moulay i",
+    "AdresseA": "حي الياسمين شارع مولاي إسماعيل",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUN 3",
+    "NOM_ETABA": "ابن خلدون 3",
+    "AdresseL": "",
+    "AdresseA": "شارع محمد السادس تجزئة الفلاح ",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " IBNO KATIR",
+    "NOM_ETABA": " ابن كثير للتعليم ",
+    "AdresseL": "9  RUE MARCHE VERTE QUARTIER E",
+    "AdresseA": "9 شارع المسيرة الخضراء حي النج",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALGHOFRAN ",
+    "NOM_ETABA": "الغفران",
+    "AdresseL": "NULL",
+    "AdresseA": "حي  الياسمين رقم 2  بلوك 4 سوق",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Madariss Al Manar",
+    "NOM_ETABA": "مدارس المنار ",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع الخوارزمي حي الانارة سوق ",
+    "COMMUNE": "Souk Sebt Ouled Nemma ",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

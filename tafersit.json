@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANOUAL",
+    "NOM_ETABA": "ثانوية أنوال الإعدادية",
+    "AdresseL": "DOUAR HAMMOUDA COMMUNE TAFERSIT",
+    "AdresseA": "دوار حمودة جماعة تفرسيت",
+    "COMMUNE": "Tafersit",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAFERSIT",
+    "NOM_ETABA": " م م تفرسيت",
+    "AdresseL": "COMMUNE TAFERSIT CENTRE",
+    "AdresseA": "جماعة تافرسيت المركز",
+    "COMMUNE": "Tafersit",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BENI YOUSSEF",
+    "NOM_ETABA": "م.م بني يوسف",
+    "AdresseL": "DOUAR BENI YOUSSEF COMMUNE TAFERSIT",
+    "AdresseA": "بني يوسف تافرسيت",
+    "COMMUNE": "Tafersit",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABI HANIFA",
+    "NOM_ETABA": "م م ابي حنيفة",
+    "AdresseL": "DOUAR BENI YAROUAL COMMUNE TAFERSIT",
+    "AdresseA": "بني يرول تفرسيت",
+    "COMMUNE": "Tafersit",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAFERSSIT",
+    "NOM_ETABA": "ثانوية تافرسيت التأهيلية",
+    "AdresseL": "centre Tafersit",
+    "AdresseA": "مركز تافرسيت",
+    "COMMUNE": "Tafersit",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "OMAR BEN KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "DOUAR AIT AHMED yaekoub COMMUNE SIDI ALGHANDOUR",
+    "AdresseA": "دوار ايت احمد يعقوب جماعة سيدي الغندور الخميسات",
+    "COMMUNE": "Sidi El Ghandour",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EDDAHAB",
+    "NOM_ETABA": "واد الدهب",
+    "AdresseL": "DOUAR AIT BOUGRINE SIDI GHANDOUR",
+    "AdresseA": "د ايت بوكرين ج س الغندور",
+    "COMMUNE": "Sidi El Ghandour",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

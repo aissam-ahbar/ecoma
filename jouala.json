@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL JWALLA",
+    "NOM_ETABA": "ثانوية الجوالة الاعدادية",
+    "AdresseL": "commune jouala",
+    "AdresseA": "جماعة الجوالة",
+    "COMMUNE": "Jouala",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JOUALA CENTRE",
+    "NOM_ETABA": "الجوالة المركزية",
+    "AdresseL": "DOUAR JOUALLA COMMUNE JOUALLA",
+    "AdresseA": "دوار الجوالة جماعة الجوالة",
+    "COMMUNE": "Jouala",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BA RAHAL CENTRE",
+    "NOM_ETABA": "اولاد ابارحال المركزية",
+    "AdresseL": "DOUAR OULED BA RAHAL COMMUNE JOUALLA",
+    "AdresseA": "دوار اولاد ابارحال جماعة الجوالة",
+    "COMMUNE": "Jouala",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKRARMA CENTRE",
+    "NOM_ETABA": "الكرارمة المركزية",
+    "AdresseL": "DOUAR LAKRARMA COMMUNE JOUALLA",
+    "AdresseA": "دوارالكرارمة",
+    "COMMUNE": "Jouala",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "الثانوية الإعدادية عمر بن عبد العزيز",
+    "AdresseL": "CENTRE COMMUNE SIDI EL JAZOULI",
+    "AdresseA": "مركز جماعة سيدي الجازولي",
+    "COMMUNE": "Sidi El Jazouli",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SIDI ELJAZOULI",
+    "NOM_ETABA": "م.م. سيدي الجازولي",
+    "AdresseL": "SOUK SEBT NAKNAFA SIDI EL JAZOULI",
+    "AdresseA": "سوق سبت الجازولي",
+    "COMMUNE": "Sidi El Jazouli",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ITAYBINE ",
+    "NOM_ETABA": "م م اطايبين",
+    "AdresseL": "DOUAR EL BOURIKI  SIDI EL JAZOULI",
+    "AdresseA": "دوار البوريقي سيدي الجزولي",
+    "COMMUNE": "Sidi El Jazouli",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S  IMMAM BOUKHARI",
+    "NOM_ETABA": "م.م. الإمام البخاري",
+    "AdresseL": "DOUAR rguibat SIDI EL JAZOULI",
+    "AdresseA": "دوار الركيبة سيدي الجازولي",
+    "COMMUNE": "Sidi El Jazouli",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "OUED BROUM CENTRE",
+    "NOM_ETABA": "واد ابروم المركز",
+    "AdresseL": "OUED BROUM COMMUNE BNI FTAH",
+    "AdresseA": "دوارواد ابروم جماعة بني افتح",
+    "COMMUNE": "Bni Ftah",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI FTAH CENTRE",
+    "NOM_ETABA": "بني افتح المركز",
+    "AdresseL": "COMMUNE BNI YAFTAH COMMUNE BNI FTAH",
+    "AdresseA": "بني افتح المركز جماعة بني افتح",
+    "COMMUNE": "Bni Ftah",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MIZAB CENTRE",
+    "NOM_ETABA": "الميزاب المركز",
+    "AdresseL": "EL MIZAB COMMUNE BNI FTAH",
+    "AdresseA": "الميزاب  جماعة بني افتح",
+    "COMMUNE": "Bni Ftah",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant JABER IBNOU HAYANE",
+    "NOM_ETABA": "الثانوية التأهيلية جابر بن حيان",
+    "AdresseL": "BENI FTAH CENTRE",
+    "AdresseA": "بني افتح المركز ",
+    "COMMUNE": "Bni Ftah",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

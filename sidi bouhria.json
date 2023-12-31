@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SIDI BOUHRIA",
+    "NOM_ETABA": "سيدي بوهرية",
+    "AdresseL": "COLLEGE SIDI BOUHRIA COMMUNE DE SIDI BOUHRIA",
+    "AdresseA": "جماعة سيدي بوهرية",
+    "COMMUNE": "Sidi Bouhria",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUHOUD",
+    "NOM_ETABA": "أحد",
+    "AdresseL": "COMMUNE DE SIDI BOUHRIA",
+    "AdresseA": "سيدي بوهرية",
+    "COMMUNE": "Sidi Bouhria",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI MOUSSI",
+    "NOM_ETABA": "بني موسي",
+    "AdresseL": "COMMUNE DE SIDI BOUHRIA",
+    "AdresseA": "جماعة سيدي بوهرية",
+    "COMMUNE": "Sidi Bouhria",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

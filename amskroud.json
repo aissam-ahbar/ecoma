@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LC AL AKKAD",
+    "NOM_ETABA": "ثانوية العقاد الإعدادية",
+    "AdresseL": "DOUAR  AMSKROUD           COMMUNE  AMSKROUD",
+    "AdresseA": "دوار امسكرود  جماعة امسكرود",
+    "COMMUNE": "Amskroud",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL HIDAB AMESKROUD",
+    "NOM_ETABA": "م.م الهضاب- أمسكــرود",
+    "AdresseL": "DOUAR  AMESKROUD       COMMUNE  AMESKROUD",
+    "AdresseA": "دوار أمسكـروض - ج. أمسكروض",
+    "COMMUNE": "Amskroud",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMINA BENT OUAHB TAMAIT OUFELLA",
+    "NOM_ETABA": "م.م امنة بنت وهب- تماعيـت أوفـلا",
+    "AdresseL": "DOUAR  TAMAIT OUFELLA      COMMUNE  AMESKROUD",
+    "AdresseA": "دوار تماعيـت أوفـلا  - ج. أمسكـروض",
+    "COMMUNE": "Amskroud",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TOURAR TOURAR",
+    "NOM_ETABA": "م.م تـــورار- تورار",
+    "AdresseL": "DOUAR  TOURAR        COMMUNE  AMESKROUD",
+    "AdresseA": "دوار تورار جماعة أمسكروض",
+    "COMMUNE": "Amskroud",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

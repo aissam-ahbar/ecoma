@@ -1,0 +1,282 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AL HAYTAM",
+    "NOM_ETABA": "ثانوية ابن الهيثم الإعدادية",
+    "AdresseL": "AV TETOUAN MARTIL",
+    "AdresseA": "شارع تطوان",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY RACHID",
+    "NOM_ETABA": "ثانوية مولاي رشيد الاعدادية",
+    "AdresseL": "martil",
+    "AdresseA": "مارتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL RIAD MARTIL",
+    "NOM_ETABA": "الثانوية الإعدادية رياض مرتيل",
+    "AdresseL": "Lot Riad Sofia",
+    "AdresseA": "تجزئة رياض صوفيا",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ROCHD",
+    "NOM_ETABA": "ثانوية ابن رشد الإعدادية ",
+    "AdresseL": "HAY AHRAIK",
+    "AdresseA": "حي أحريق",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN SINA",
+    "NOM_ETABA": "ثانوية ابن سينا الإعدادية ",
+    "AdresseL": "dv al massira al khadra N 147 ",
+    "AdresseA": "شارع المسية الخضراء رقم 147 ",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAHA HOUSSINE",
+    "NOM_ETABA": "ثانوية طه حسين الإعدادية ",
+    "AdresseL": "HAY AL QODS BP409",
+    "AdresseA": "حي القدس ص.ب :409",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI AHMED RHOUNI",
+    "NOM_ETABA": "مدرسة سيدي أحمد الرهوني",
+    "AdresseL": "RUE ALMOUKAWAMA  MARTIL",
+    "AdresseA": "شارع المقاومة . مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOUSSA IBNOU NOUSSAIR",
+    "NOM_ETABA": "مدرسة موسى بن نصير",
+    "AdresseL": "AVENUE  MOUSSA BNOU NOUSSAIR SAKIA DFEL MARTIL",
+    "AdresseA": "شارع موسى بن نصير.ساقية الدفل . مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "مدرسة يوسف بن تاشفين",
+    "AdresseL": "HAY KATALAN  MARTIL ",
+    "AdresseA": "حي كطلان مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOUHTAMID IBN ABBAD",
+    "NOM_ETABA": "مدرسة المعتمد بن عباد",
+    "AdresseL": "QUARTIER AHRIK  MARTIL",
+    "AdresseA": "حي أحريق. مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDALLAH IBRAHIM          ",
+    "NOM_ETABA": "مدرسة عبد الله إبراهيم",
+    "AdresseL": "QUATIER DIZA   MARTIL",
+    "AdresseA": "حي الديزة . مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BADRE",
+    "NOM_ETABA": "مدرسة بدر",
+    "AdresseL": "HAY AL QODS COMMUNE MARTIL TETOUAN ",
+    "AdresseA": "حي القدس مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "sS RMILATE",
+    "NOM_ETABA": "م . م ارميلات",
+    "AdresseL": "DOUDR RMILAT CUMARTIL",
+    "AdresseA": "الرميلات، مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL AHD AL JADID",
+    "NOM_ETABA": "مدرسة العهد الجديد ",
+    "AdresseL": "QUARTIER AHRIK av el makbara MARTIL",
+    "AdresseA": "حي احريق شارع المقبرة  ",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 18 NOVEMBRE",
+    "NOM_ETABA": "مدرسة 18 نوفمبر ",
+    "AdresseL": "hay al aghrasse martil",
+    "AdresseA": "حي الأغراس مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN TAWIT",
+    "NOM_ETABA": "مدرسة ابن تاويت ",
+    "AdresseL": "LOT MIXTA",
+    "AdresseA": "تجزئة ميكستا ",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM KALTOUM ",
+    "NOM_ETABA": "مدرسة أم كلثوم",
+    "AdresseL": "LOTISSEMENT OUM KALTOUM",
+    "AdresseA": "تجزئة أم كلثوم",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RIYAD JAMIAA",
+    "NOM_ETABA": "مدرسة رياض الجامعي",
+    "AdresseL": "LOTISSEMENT RIYAD SOFYA COMMUNE MARTIL",
+    "AdresseA": "تجزئة رياض صوفيا بلدية مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED VI",
+    "NOM_ETABA": "ثانوية محمد السادس التأهيلية ",
+    "AdresseL": "rue tetouan hay dfel martil",
+    "AdresseA": "شارع تطوان حي الدفل مرتيل",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM AL GHAZALI",
+    "NOM_ETABA": " ثانوية الإمام الغزالي التأهيلية ",
+    "AdresseL": "HAY EL QODS",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "Martil",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Établissement Inass Et Dina",
+    "NOM_ETABA": "المؤسسة الخصوصية إيناس و دينا",
+    "AdresseL": "RUE ALMANBAT ROUTE CABO NEGRO",
+    "AdresseA": "شارع المنبت طريق كابو نكرو  ",
+    "COMMUNE": "Martil ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Haya Nabdae Martil Pour l’Enseignement P",
+    "NOM_ETABA": "المؤسسة الخصوصية هيا نبدأ مرتيل للتعليم الأولي",
+    "AdresseL": "hay  ahrik av zerhoune ouad ma",
+    "AdresseA": "حي أحريق شارع زرهون الواد الما",
+    "COMMUNE": "Martil ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Chams Martil",
+    "NOM_ETABA": "المؤسسة الخصوصية شمس مرتيل ",
+    "AdresseL": "hay  ahrik av manbit rue kabon",
+    "AdresseA": "شارع المنبت طريق كبونكرو حي أح",
+    "COMMUNE": "Martil ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Aya De L'éducation Et L'enseignement",
+    "NOM_ETABA": "المؤسسة الخصوصية آية للتربية والتعليم",
+    "AdresseL": "Quartier Choumbira",
+    "AdresseA": "حي شومبيرا",
+    "COMMUNE": "Martil ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée Méditerranéen LYMED",
+    "NOM_ETABA": "ثانوية البحر الأبيض المتوسط ليميد",
+    "AdresseL": "zone tetouan shore",
+    "AdresseA": "منطقة تطوان شور",
+    "COMMUNE": "Martil ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Al Karama Boussaid",
+    "NOM_ETABA": "المؤسسة الخصوصية الكرامة بوسعيد",
+    "AdresseL": "LOT.ALKARAMA;4 HAY AL AGHRASS-",
+    "AdresseA": "مجمع الكرامة 4-حي الأغراس",
+    "COMMUNE": "Martil ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Kafaat Al bayte Al Aatiq",
+    "NOM_ETABA": "المؤسسة الخصوصية كفاءات البيت العتيق",
+    "AdresseL": "BAYT EL ATIQ-QUARTIER AL AGHRA",
+    "AdresseA": "المركب السكني البيت العتيق تجه",
+    "COMMUNE": "Martil ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Établissement Rawassi Al Bayane",
+    "NOM_ETABA": "المؤسسة الخصوصية رواسي البيان",
+    "AdresseL": "bv de barritz hay tasiast",
+    "AdresseA": "شارع بيارتز حي تاسيت ",
+    "COMMUNE": "Martil ",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S BOUZEMMOUR",
+    "NOM_ETABA": "م.م بوزمور",
+    "AdresseL": "ARBIA BOUZEMMOUR BOUZEMMOUR",
+    "AdresseA": "مركز بوزمور",
+    "COMMUNE": "Bouzemmour",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT JERMOUN",
+    "NOM_ETABA": "م. م ايت جرمون",
+    "AdresseL": "DOUAR AIT JARMOUN BOUZEMMOUR",
+    "AdresseA": "دوار ايت جرمون بوزمور",
+    "COMMUNE": "Bouzemmour",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ABD ALLAH BNO YASSINE",
+    "NOM_ETABA": "م.م. عبد الله بن ياسين",
+    "AdresseL": "DOUAR TAFIDAHT BOUZEMMOUR",
+    "AdresseA": "دوار تفداحت جماعة بوزمور",
+    "COMMUNE": "Bouzemmour",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

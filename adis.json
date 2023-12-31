@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL OUAHDA",
+    "NOM_ETABA": "ثانوية الوحدة الاعدادية ",
+    "AdresseL": "ADISS  TATAT",
+    "AdresseA": "اديس طاطا",
+    "COMMUNE": "Adis",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S ADISS",
+    "NOM_ETABA": " م/م اديس",
+    "AdresseL": "DOUAR  ADISS   TATA",
+    "AdresseA": "دوار اديس طاطا",
+    "COMMUNE": "Adis",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S EL OUAHATE",
+    "NOM_ETABA": "م/م الواحات",
+    "AdresseL": "DOUAR TOUG RIH   TATA",
+    "AdresseA": "دوار توك الريح",
+    "COMMUNE": "Adis",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S DARAA",
+    "NOM_ETABA": "م/م درعة",
+    "AdresseL": "DOUAR TIGUANE   TATA",
+    "AdresseA": "د.تيكان طاطا",
+    "COMMUNE": "Adis",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN AL HAYTAM",
+    "NOM_ETABA": "ثانوية ابن الهيثم التأهيلية",
+    "AdresseL": "CENTRE ADIS",
+    "AdresseA": "مركز أديس",
+    "COMMUNE": "Adis",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL RAS EL OUAD ",
+    "NOM_ETABA": "ثانوية راس الواد الإعدادية",
+    "AdresseL": "TISSA",
+    "AdresseA": "تيسة",
+    "COMMUNE": "Ras El Oued",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BRATLA  ",
+    "NOM_ETABA": "م/م البراطلة",
+    "AdresseL": "DOUAR BRATLA COMMUNE RAS ELOUED TISSA",
+    "AdresseA": "دوار البراطلة جماعة راس الواد -تيسة",
+    "COMMUNE": "Ras El Oued",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD LASRI",
+    "NOM_ETABA": "م/م  اولاد العسري",
+    "AdresseL": "DOUAR OULAD LASRI RAS  EL OUED TISSA",
+    "AdresseA": "دوار أولاد العسري جماعة راس الواد -تيسة",
+    "COMMUNE": "Ras El Oued",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED BOUKMAKH",
+    "NOM_ETABA": " م/م أحمد بوكماخ",
+    "AdresseL": "COMMUNE RAS ELOUED CENTRE TISSA",
+    "AdresseA": "جماعة راس الواد المركز -تيسة",
+    "COMMUNE": "Ras El Oued",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD MEHDI",
+    "NOM_ETABA": "م/م  اولاد المهـدي",
+    "AdresseL": "DOUAR OULAD MEHDI COMMUNE RAS EL OUED TISSA",
+    "AdresseA": "دوار أولاد المهدي جماعة راس الواد -تيسة",
+    "COMMUNE": "Ras El Oued",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

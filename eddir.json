@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EDDIR",
+    "NOM_ETABA": "الثانوية الإعدادية الدير",
+    "AdresseL": "CENTRE COMMUNE",
+    "AdresseA": "مركز الجماعة",
+    "COMMUNE": "Eddir",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BOUYAHIA",
+    "NOM_ETABA": "م.م بويحي",
+    "AdresseL": "DOUAR   BOUYAHIA CDIR",
+    "AdresseA": "دوار بويحي جماعة الدير",
+    "COMMUNE": "Eddir",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TASDERTE",
+    "NOM_ETABA": "م.م تصدرت",
+    "AdresseL": "DOUAR   TASDERTE COMMUNE EDDIR",
+    "AdresseA": "د. تصدرت جماعة الدير سيدي موسى الحمري  ",
+    "COMMUNE": "Eddir",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DKHILA",
+    "NOM_ETABA": "م.م الدخيلة",
+    "AdresseL": "DOUAR   DKHILA CDIR",
+    "AdresseA": "د. الدخيلة",
+    "COMMUNE": "Eddir",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

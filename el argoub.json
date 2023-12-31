@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ECOLE EL ARGOUB",
+    "NOM_ETABA": "مدرسةالعركوب",
+    "AdresseL": "EL ARGOUB CENTRE COMMUNE EL ARGOUB",
+    "AdresseA": "جماعة العركوب",
+    "COMMUNE": "El Argoub",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAOURTA",
+    "NOM_ETABA": "مدرسة تاورطة",
+    "AdresseL": "TAOURTA 1 COMMUNE EL ARGOUB",
+    "AdresseA": "تاورطة 1 جماعة العركوب",
+    "COMMUNE": "El Argoub",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL ARGOUB EL JADID",
+    "NOM_ETABA": "مدرسة العركوب الجديد",
+    "AdresseL": "elargoub eljadid",
+    "AdresseA": "العركوب الجديد",
+    "COMMUNE": "El Argoub",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RAOUD AL ASKARI EL AARGOUB",
+    "NOM_ETABA": "الروض العسكري العركوب",
+    "AdresseL": "CENTRE EL AARGOUB",
+    "AdresseA": "مركز العركوب",
+    "COMMUNE": "El Argoub",
+    "PROVINCE": "Oued Ed-Dahab",
+    "REGION": "Eddakhla-Oued Eddahab",
+    "TYPE": "PRIVE"
+  }
+]

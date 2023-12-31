@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "S S TAGADIRT",
+    "NOM_ETABA": "م م تكاديرت",
+    "AdresseL": "DOUAR TAGADIRT AGLIF",
+    "AdresseA": "دوار تكاديرت اكليف",
+    "COMMUNE": "Aglif",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " S S  BEN TOUMART",
+    "NOM_ETABA": "    م م ابن تومرت ",
+    "AdresseL": "DOUAR DIKHT AGLIF",
+    "AdresseA": "دوار ديخت اكليف",
+    "COMMUNE": "Aglif",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAMENT",
+    "NOM_ETABA": "م.م. تمنت",
+    "AdresseL": "DOUAR BOUZOUKKENI AGLIF",
+    "AdresseA": "دوار بوزوكني أكليف",
+    "COMMUNE": "Aglif",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT AADDI",
+    "NOM_ETABA": "م م ايت عدي",
+    "AdresseL": "DOUAR AIT AADDI AGLIF",
+    "AdresseA": "دوار ايت عدي أكليف",
+    "COMMUNE": "Aglif",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AGLIF",
+    "NOM_ETABA": "م.م. أكليف",
+    "AdresseL": "DOUAR AGUIRAR OUZEDAR AGLIF",
+    "AdresseA": "دوار اكويرار اوزدار",
+    "COMMUNE": "Aglif",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

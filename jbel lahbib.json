@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE MOUAAD BNOU JABAL",
+    "NOM_ETABA": "الثانوية الإعدادية معاذ بن جبل",
+    "AdresseL": "commun jbel lehbib",
+    "AdresseA": "جماعة جبل الحبيب",
+    "COMMUNE": "Jbel Lahbib",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS JBEL LAHBIBE",
+    "NOM_ETABA": "م.م جبل الحبيب",
+    "AdresseL": "CENTRE COMMUNE JBEL LAHBIBE  ",
+    "AdresseA": "مركز جماعة جبل الحبيب",
+    "COMMUNE": "Jbel Lahbib",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HABATA",
+    "NOM_ETABA": "م.م هباطة",
+    "AdresseL": "DOUAR HABATA CJBEL LAHBIBE",
+    "AdresseA": "دوار هباطة جماعة جبل الحبيب",
+    "COMMUNE": "Jbel Lahbib",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABOU DAR AL GHIFARI",
+    "NOM_ETABA": "الثانوية التأهيلية أبو ذر الغفاري ",
+    "AdresseL": "commune jbel lahbib",
+    "AdresseA": "جماعة جبل لحبيب",
+    "COMMUNE": "Jbel Lahbib",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

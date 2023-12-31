@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HAROUNE ARRACHID",
+    "NOM_ETABA": "الثانوية الإعدادية هارون الرشيد",
+    "AdresseL": " essouirria commune lamaachate",
+    "AdresseA": " الصويرية جماعة المعاشات",
+    "COMMUNE": "Lamaachate",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MALEH",
+    "NOM_ETABA": "م/م المالح",
+    "AdresseL": "DOUAR EL MALEH COMMUNE LAMAACHATE",
+    "AdresseA": "دوار المالح جماعة المعاشات",
+    "COMMUNE": "Lamaachate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR EL HAJJI",
+    "NOM_ETABA": "م/م دار الحاجي",
+    "AdresseL": "COMMUNE LAMAACHATE CERCLE GZOULA",
+    "AdresseA": "جماعة المعاشات  دائرة جزولة",
+    "COMMUNE": "Lamaachate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMAACHATE",
+    "NOM_ETABA": "م/م المعاشات",
+    "AdresseL": "DOUAR LAMAACHATE COMMUNE LAMAACHATE",
+    "AdresseA": "دوار المعاشات  جماعة المعاشات",
+    "COMMUNE": "Lamaachate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S SIDI HSSAIN",
+    "NOM_ETABA": "م/م سيدي احساين",
+    "AdresseL": "SIDI HSSINE COMMUNE LAMAACHATE",
+    "AdresseA": "سيدي احساين جماعة المعاشات",
+    "COMMUNE": "Lamaachate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAL EL WAD",
+    "NOM_ETABA": "م/م أهل الواد",
+    "AdresseL": "HAL EL WAD COMMUNE LAMAACHATE",
+    "AdresseA": "أهل الواد جماعة المعاشات",
+    "COMMUNE": "Lamaachate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAMAACHATE",
+    "NOM_ETABA": "الثانوية التأهيلية المعاشات",
+    "AdresseL": "CENTRE COMMUNE LAMAACHATE",
+    "AdresseA": "مركز جماعة المعاشات",
+    "COMMUNE": "Lamaachate",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Ait Toukhsine",
+    "NOM_ETABA": "الثانوية الإعدادية أيت توخسين",
+    "AdresseL": "DOUAR AIT TOUKHSINE",
+    "AdresseA": "دور ايت توخسين جماعة ايت سدرات ج ع",
+    "COMMUNE": "Ait Sedrate JbelEl Oulia",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS  AIT TOUKHSINE",
+    "NOM_ETABA": "م.م ايت توخسين",
+    "AdresseL": "AIT SEDRATE JBEL OULIA BOUMALNE tinghir",
+    "AdresseA": "ايت سدرات الجبل العليا",
+    "COMMUNE": "Ait Sedrate JbelEl Oulia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  AIT MELLOUANE",
+    "NOM_ETABA": "م.م ايت ملوان",
+    "AdresseL": "DOUAR AIT HAMMOU BOUMALNE tinghir",
+    "AdresseA": "دوار ايت ملوان جماعة أيت سدرات ج.ع تنغير",
+    "COMMUNE": "Ait Sedrate JbelEl Oulia",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

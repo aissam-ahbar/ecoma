@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ZAOUIAT AL KANATER",
+    "NOM_ETABA": "زاوية القناطر",
+    "AdresseL": "DOUAR ZAOUIAT AL KANATER COMMUNE BNI BOUNSAR",
+    "AdresseA": "دوارزاوية القناطر جماعة بني بونصار",
+    "COMMUNE": "Bni Bounsar",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIZI KHATTAB",
+    "NOM_ETABA": "تيزي خطاب",
+    "AdresseL": "DOUAR TIZI KHATTAB COMMUNE BNI BOUNSAR",
+    "AdresseA": "دوار تيزي خطاب جماعة بني بونصار",
+    "COMMUNE": "Bni Bounsar",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI BOUNSAR",
+    "NOM_ETABA": "م/م بني بونصار",
+    "AdresseL": "DOUAR amaktan COMMUNE BNI BOUNSAR",
+    "AdresseA": "دوار أمعكطان جماعة بني بونصار",
+    "COMMUNE": "Bni Bounsar",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE BNI BOUNSAR  ",
+    "NOM_ETABA": "تانوية بني بونصار الثأهيلية",
+    "AdresseL": "CENTRE BNI BOUNSAR",
+    "AdresseA": "مركزبني بونصار  جماعة بني بونصار",
+    "COMMUNE": "Bni Bounsar",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

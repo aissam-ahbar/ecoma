@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "OULED CHAKER",
+    "NOM_ETABA": "اولاد شاكر",
+    "AdresseL": "DOUAR OULED CHAKER COMMUNE AOUFOUS",
+    "AdresseA": "دوار اولاد شاكر  اوفوس",
+    "COMMUNE": "Aoufous",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AOUFOUS",
+    "NOM_ETABA": "اوفوس",
+    "AdresseL": "CENTRE AOUFOUS",
+    "AdresseA": "اوفوس المركز",
+    "COMMUNE": "Aoufous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KSAR JDID",
+    "NOM_ETABA": "قصر الجديد",
+    "AdresseL": "KSAR JDID AOUFOUS",
+    "AdresseA": "قصر جديد اوفوس",
+    "COMMUNE": "Aoufous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED CHAKER",
+    "NOM_ETABA": "اولاد شاكر",
+    "AdresseL": "KSAR OULED CHAKER AOUFOUS",
+    "AdresseA": "قصر اولاد شاكر اوفوس",
+    "COMMUNE": "Aoufous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUIT AMELKISS",
+    "NOM_ETABA": "زاوية املكيس",
+    "AdresseL": "KSAR ZAOUIT AMELKIS AOUFOUS",
+    "AdresseA": "قصر زاوية امليكس اوفوس",
+    "COMMUNE": "Aoufous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN I AOUFOUS",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الأول اوفوس",
+    "AdresseL": "CENTRE AOUFOUS",
+    "AdresseA": "مركز اوفوس",
+    "COMMUNE": "Aoufous",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

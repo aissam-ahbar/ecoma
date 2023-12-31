@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULAD AAMER",
+    "NOM_ETABA": "الثانوية الإعدادية اولاد عمرو",
+    "AdresseL": "commune ouled aamer",
+    "AdresseA": "جماعة اولاد عمرو",
+    "COMMUNE": "Oulad Aamer",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD AMROU CENTRE",
+    "NOM_ETABA": "اولاد عمرو المركزية",
+    "AdresseL": "DOUAR OULED AMROU COMMUNE OULED AMROU",
+    "AdresseA": "دوار اولاد عمرو",
+    "COMMUNE": "Oulad Aamer",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT EL ALI BEN AHMED CENTRE",
+    "NOM_ETABA": "ايت العالي بن احمد المركزية",
+    "AdresseL": "DOUAR OULED AAMER COMMUNE OULAD AAMER",
+    "AdresseA": "دوار اولاد اعمر",
+    "COMMUNE": "Oulad Aamer",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

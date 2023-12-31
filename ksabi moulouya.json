@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNASR",
+    "NOM_ETABA": "الثانوية الإعدادية النصر",
+    "AdresseL": "LAKSABI COMMUNE LAKSABI MOULOUYA",
+    "AdresseA": "لقصابي جماعة لقصابي",
+    "COMMUNE": "Ksabi Moulouya",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAKSABI CENTRE",
+    "NOM_ETABA": "لقصابي المركز",
+    "AdresseL": "ksabI CENTRE COMMUNE ksabi MOULOUYA",
+    "AdresseA": "القصابي المركز جماعة القصابي ملوية",
+    "COMMUNE": "Ksabi Moulouya",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT BLAL",
+    "NOM_ETABA": "ايت  بلال",
+    "AdresseL": "DOUAR AIT BLAL COMMUNE LAKSABI MOULOUYA",
+    "AdresseA": "دوار ايت بلال جماعة لقصابي ملوية",
+    "COMMUNE": "Ksabi Moulouya",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ISSARRAREN",
+    "NOM_ETABA": "اسرارن",
+    "AdresseL": "DOUAR ISSARRAREN COMMUNE LAKSABI MOULOUYA",
+    "AdresseA": "دوار اسرارن جماعة لقصابي ملوية",
+    "COMMUNE": "Ksabi Moulouya",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAIDA",
+    "NOM_ETABA": "اسعيدة",
+    "AdresseL": "DOUAR SAIDA COMMUNE KSABI MOULOUYA",
+    "AdresseA": "دوار اسعيدة  جماعة لقصابي ملوية",
+    "COMMUNE": "Ksabi Moulouya",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAOURIRT",
+    "NOM_ETABA": "تاوريرت",
+    "AdresseL": "DOUAR TAOURIRT COMMUNE KSABI MOULOUYA",
+    "AdresseA": "دوار تاوريرت جماعة لقصابي ملوية",
+    "COMMUNE": "Ksabi Moulouya",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUSSELLAM",
+    "NOM_ETABA": "بوسلام",
+    "AdresseL": "DOUAR BOUSSELLAM COMMUNE LAKSABI MOULOUYA",
+    "AdresseA": "دوار بوسلام جماعة لقصابي ملوية",
+    "COMMUNE": "Ksabi Moulouya",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU HANIFA",
+    "NOM_ETABA": "الثانوية التأهيلية أبو حنيفة",
+    "AdresseL": "COMMUNE LAKSABI MOULOUYA",
+    "AdresseA": " جماعة لقصابي",
+    "COMMUNE": "Ksabi Moulouya",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

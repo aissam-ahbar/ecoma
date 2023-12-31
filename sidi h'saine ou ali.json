@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SS OMAR BN EL KHATTAB CENTRE MIRGHT",
+    "NOM_ETABA": "م.م عمر ابن الخطاب مركزية ميرغت",
+    "AdresseL": "DOUAR MIRGHT  CENTRE COMMUNE SIDI HSSAINE OU ALI",
+    "AdresseA": "دوار ميرغت مركز جماعة سيدي حساين او علي",
+    "COMMUNE": "Sidi H'Saine Ou Ali",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS YACOB EL MANSOUR CENTRE ID WAARAB",
+    "NOM_ETABA": "م.م  يعقوب المنصور مركزية ادوعراب",
+    "AdresseL": "DOUAR ID WAARAB",
+    "AdresseA": "دوار ادوعراب",
+    "COMMUNE": "Sidi H'Saine Ou Ali",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUM EL MOUMININE CENTRE ID BIFANCHKAR",
+    "NOM_ETABA": "م.م أم المؤمنين مركزية ادبيفنشكير",
+    "AdresseL": "DOUAR ID BIFANCHKAR",
+    "AdresseA": "دوار ادبيفنشكير",
+    "COMMUNE": "Sidi H'Saine Ou Ali",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOU YOUNESS CENTRE ADAROU",
+    "NOM_ETABA": "م.م ابن يونس مركزية ادارو",
+    "AdresseL": "DOUAR ADAROU",
+    "AdresseA": "دوار ادارو",
+    "COMMUNE": "Sidi H'Saine Ou Ali",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MARGHITI",
+    "NOM_ETABA": "الثانوية التأهيلية المرغيتي",
+    "AdresseL": "centre commune sidi hsain ouali",
+    "AdresseA": "مركز جماعة سيدي احساين اعلي",
+    "COMMUNE": "Sidi H'Saine Ou Ali",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

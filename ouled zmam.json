@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABDELMALEK ESSAADI",
+    "NOM_ETABA": "ثانوية عبد المالك السعدي الإعدادية",
+    "AdresseL": "CENTRE OULED ZMAM",
+    "AdresseA": "مركز اولاد زمام",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULED ZMAM",
+    "NOM_ETABA": "مدرسة اولاد ازمام",
+    "AdresseL": "OULED ZMAM SOUK SEBT OULED NEMMA",
+    "AdresseA": "جماعة اولاد ازمام - سوق السبت اولاد النمة",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALMARKAZ ALFILAHI CENTRE",
+    "NOM_ETABA": "مركزية المركز الفلاحي",
+    "AdresseL": "ALMARKAZ ALFILAHI OZZIF COMMUNE OULED ZMAM",
+    "AdresseA": "جماعة اولاد زمام",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR EL FALLAH CENTRE",
+    "NOM_ETABA": "مركزية دار الفلاح",
+    "AdresseL": "DAR EL FALLAH COMMUNE OULED ZMAM",
+    "AdresseA": "جماعة اولاد زمام",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MASGHOUNA CENTRE",
+    "NOM_ETABA": "مركزية مسغونة",
+    "AdresseL": "MASGHOUNA COMMUNE OULED ZMAM",
+    "AdresseA": "مسغونة جماعة أولاد ازمام ",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMRABTA CENTRE",
+    "NOM_ETABA": "مركزية المرابطة",
+    "AdresseL": "LAMRABTA COMMUNE OULED ZMAM",
+    "AdresseA": "جماعة اولاد زمام",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED AABED AL JABRI",
+    "NOM_ETABA": "مدرسة محمد عابد الجابري",
+    "AdresseL": " OULED ZMAM (Centre)",
+    "AdresseA": " (أولاد زمام ( المركز",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SAADIYIN QUALIFIANT",
+    "NOM_ETABA": "ثانوية السعديين التأهيلية",
+    "AdresseL": " OULED ZMAM Centre",
+    "AdresseA": " (أولاد زمام ( المركز",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OULED ARIF",
+    "NOM_ETABA": "اولاد عريف ",
+    "AdresseL": "NULL",
+    "AdresseA": "اولاد ازمام الفقيه بن صالح ",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JARDIN D ENFANT ASSAADA",
+    "NOM_ETABA": "جرداه دنفو السعادة",
+    "AdresseL": "CENTRE COMMUNE OULED ZMAM",
+    "AdresseA": "مركز جماعة أولاد ازمام",
+    "COMMUNE": "Ouled Zmam",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

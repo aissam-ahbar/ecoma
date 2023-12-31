@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S TARIQ BNO ZAYAD",
+    "NOM_ETABA": "م.م. طارق بن زياد",
+    "AdresseL": "SOUK TNIN TAROUA ALI IDA OU KAZZOU",
+    "AdresseA": "سوق  اثنين تروا علي إداوكازو",
+    "COMMUNE": "Ida Ou Kazzou",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AGUERGOUR",
+    "NOM_ETABA": "م.م أكركور",
+    "AdresseL": "DOUAR AGUERGOUR IDA OU KAZZOU",
+    "AdresseA": "دوار اكركور - جماعة اداوكازو",
+    "COMMUNE": "Ida Ou Kazzou",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ABOU BAKER ASSADIQ",
+    "NOM_ETABA": "م.م. ابو بكر الصديق",
+    "AdresseL": "DOUAR TAMSSOULT IDA OU KAZZOU",
+    "AdresseA": "دوار تمسولت اداوكازو",
+    "COMMUNE": "Ida Ou Kazzou",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

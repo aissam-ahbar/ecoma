@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S MOUSSA BNO NOSSAIR",
+    "NOM_ETABA": "م.م. موسى بن نصير",
+    "AdresseL": "TNINE MOUARID CENTRE ",
+    "AdresseA": "مركز اثنين المواريد",
+    "COMMUNE": "Mouarid",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S  BIR ZAA",
+    "NOM_ETABA": "م م بئر الزاع",
+    "AdresseL": "DOUAR BIR ZAA MOUARID",
+    "AdresseA": "دوار بير الزاع المواريد",
+    "COMMUNE": "Mouarid",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "BNI MAADANE",
+    "NOM_ETABA": "بني معدان",
+    "AdresseL": "DOUAR BNI MAADANE COMMUNE CHERQUAWA",
+    "AdresseA": "دوار بني معدان جماعة شرقاوة",
+    "COMMUNE": "Charqaoua",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZIB LHAMRA",
+    "NOM_ETABA": "عزيب الحمراء",
+    "AdresseL": "DOUAR AZIB LHAMRA COMMUNE CHARQUAWA",
+    "AdresseA": "دوار عزيب الحمراء جماعة شرقاوة دائرة زرهون",
+    "COMMUNE": "Charqaoua",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

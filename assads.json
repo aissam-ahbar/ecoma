@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "C ASSADS",
+    "NOM_ETABA": "ثإ. اصادص",
+    "AdresseL": "douar bouranim commune assads",
+    "AdresseA": "دوار بوغانيم جماعة أصادص",
+    "COMMUNE": "Assads",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL AFAK",
+    "NOM_ETABA": "م.م الأفاق",
+    "AdresseL": "DOUAR   BOUGHANIME CASSADS",
+    "AdresseA": "د. بوغانيم",
+    "COMMUNE": "Assads",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANEFGUENE",
+    "NOM_ETABA": "م.م انفكن",
+    "AdresseL": "DOUAR   ANEFGUENE Commune ASSADS",
+    "AdresseA": "دوار إنفكن ، جماعة أصادص",
+    "COMMUNE": "Assads",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL BOUHTOURI",
+    "NOM_ETABA": "الثانوية الاعدادية البحتري",
+    "AdresseL": "BADRIOUNE GZENAYA",
+    "AdresseA": "بدريون اكزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ATLASSI",
+    "NOM_ETABA": "الثانوية الاعدادية الأطلسي",
+    "AdresseL": "GUEZNAIA",
+    "AdresseA": "كزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FATIMA LAMRABET",
+    "NOM_ETABA": "الثانوية الاعدادية فاطمة المرابط",
+    "AdresseL": "ROUTE DE RABAT KM 12 COMMUNE GZENAYA",
+    "AdresseA": " مركز اجزناية طريق الرباط كلم 12",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BADRIOUINE ",
+    "NOM_ETABA": "مدرسة بدريون الابتدائية",
+    "AdresseL": "DOUAR BADRIOUINE COMMUNE gzenaya",
+    "AdresseA": "دوار بدريون جماعة  اكزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ABDELHAMID HSSAIN",
+    "NOM_ETABA": "مجموعة مدارس عبد الحميد احساين",
+    "AdresseL": "ROUTE DE RABAT KM 12 COMMUNE GZANAIA",
+    "AdresseA": "طريق الرباط كلم 12 جماعة اجزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AIN EL ASSEL",
+    "NOM_ETABA": "مدرسة عين العسل الابتدائية",
+    "AdresseL": "DOUAR AIN EL ASSEL COMMUNE gzenaya",
+    "AdresseA": "دوار عين العسل جماعة اكزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ASSALAM",
+    "NOM_ETABA": "مدرسة السلام الابتدائية",
+    "AdresseL": "ZONE INDUSTIELLE GZENNAYA",
+    "AdresseA": "المنطقة الصناعية اكزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BENI SAID ",
+    "NOM_ETABA": "مدرسة بني سعيد الابتدائية",
+    "AdresseL": "bni said  commune  agzenaya",
+    "AdresseA": "بني سعيد  جماعة  اجزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI KACEM",
+    "NOM_ETABA": "مدرسة سيدي قاسم الابتدائية",
+    "AdresseL": "ROUTE SIDI KACEM GZENAYA",
+    "AdresseA": "طريق سيدي قاسم اكزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAFRIHIENNE",
+    "NOM_ETABA": "مدرسة الفريحيين الابتدائية",
+    "AdresseL": "lafriyienne gueznaia",
+    "AdresseA": "الفريحيين اجزناية",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELMEHDI ELMENJRA",
+    "NOM_ETABA": "الثانوية التأهيلية المهدي المنجرة",
+    "AdresseL": "gzenaya centre",
+    "AdresseA": "اكزناية المركز",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED ELOUAFA",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الوفا",
+    "AdresseL": "Alliance Darna Forêt Diplomatique Gzenaia Tanger",
+    "AdresseA": "أليانس دارنا الغابة الدبلوماسية اكزناية طنجة",
+    "COMMUNE": "Gueznaia",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE  LES GRAINES DU SAVOIR",
+    "NOM_ETABA": "المجموعة المدرسية لي غرين دو سافوار",
+    "AdresseL": "COMPLEXE BRAHIM KHALIL (VILLE ",
+    "AdresseA": "المركب السكني ابراهيم الخليل",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALGHAD ALJADID",
+    "NOM_ETABA": "الغد الجديد",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار بدريون اكزناية",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NIHAD",
+    "NOM_ETABA": "نهاد",
+    "AdresseL": "NULL",
+    "AdresseA": "بني سعيد بوعمار",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUSSAMA",
+    "NOM_ETABA": "أسامة",
+    "AdresseL": "bni said bouamar",
+    "AdresseA": "بني سعيد بوعمار",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manal info",
+    "NOM_ETABA": "منال أنفو",
+    "AdresseL": "fraihienne Gzenaya",
+    "AdresseA": "فريحيين اجزناية",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOULOUDI",
+    "NOM_ETABA": "المولودي",
+    "AdresseL": "NULL",
+    "AdresseA": "إقامة السعادة طريق البدراويين ",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DOUNIA AL ILME",
+    "NOM_ETABA": "دنيا العلم",
+    "AdresseL": "route de rabat commune boukhal",
+    "AdresseA": "طريق سيدي قاسم اكزناية",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES POUSSINS D AVENIR",
+    "NOM_ETABA": "LES POUSSINS D AVENIR",
+    "AdresseL": "BNI SAID GZENAYA ",
+    "AdresseA": "بني سعيد جماعة بوعمار اجزناية",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al maali",
+    "NOM_ETABA": "المعالي",
+    "AdresseL": "lots soukna n5 gzenaya",
+    "AdresseA": "تجزئة السكنى رقم5 اكزناية ",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "belles feuilles",
+    "NOM_ETABA": "بيل فوي",
+    "AdresseL": "boukhalf",
+    "AdresseA": "المنطقة اللوجستيكية تجزئة 85 ب",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAILA",
+    "NOM_ETABA": "ليلى",
+    "AdresseL": "NULL",
+    "AdresseA": "غرسة حجاوي مدشر اكزناية",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "fajr assabah amas",
+    "NOM_ETABA": "فجر الصباح ام اس",
+    "AdresseL": "route de rabat,complexe réside",
+    "AdresseA": "طريق الرباط المجمع السكني سفيا",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "okole dahabia ",
+    "NOM_ETABA": "العقول الذهبية الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "المجمع الحسني 3 اكزناية طنجة",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ajial tanjae",
+    "NOM_ETABA": "أجيال طنجة الخصوصية",
+    "AdresseL": "Quartier GZENAYA 1 A  lotissem",
+    "AdresseA": "مدشر اجزناية a1 تجزئة 3996 rdc",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "toubkal tanger",
+    "NOM_ETABA": "توبقال طنجة",
+    "AdresseL": "z.i guezenaya lot .1124. tange",
+    "AdresseA": "المنطقة الصناعية أكزناية قطعة ",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jabrane abdou",
+    "NOM_ETABA": "جبران عبدو",
+    "AdresseL": "route de rabat commune boukhal",
+    "AdresseA": "طريق الرباط بوخالف أكزناية ",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJMAL BIDAYAATI",
+    "NOM_ETABA": "أجمل بدايتي",
+    "AdresseL": "",
+    "AdresseA": "الفريحيين أكزناية",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "issam",
+    "NOM_ETABA": "عصـــام",
+    "AdresseL": "COMMUNE GZENAYA",
+    "AdresseA": "جماعة أكزناية",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oumona amina",
+    "NOM_ETABA": "أمنا أمينة",
+    "AdresseL": "DOUAR FRIHIENNE GZENNAYA ",
+    "AdresseA": "دوار الفريحيين اجزناية ",
+    "COMMUNE": "Gueznaia ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

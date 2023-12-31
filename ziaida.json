@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "S/S SEHB LAASSEL CENTRE",
+    "NOM_ETABA": "م/م سهب العسل المركزية",
+    "AdresseL": "COMMUNE ZIAIDA BEN SLIMANE",
+    "AdresseA": "جماعة الزيايدة",
+    "COMMUNE": "Ziaida",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TLAT ZIAIDA CENTRE",
+    "NOM_ETABA": "م/م ثلاثاء الزيايدة المركزية",
+    "AdresseL": "SOUK TLAT ZIAIDA COMMUNE ZIAIDA",
+    "AdresseA": "سوق ثلاثاء الزيايدة جماعة الزيايدة",
+    "COMMUNE": "Ziaida",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AIN CHGUIGUA CENTRE",
+    "NOM_ETABA": "م/م عين الشكيكة المركزية",
+    "AdresseL": "DOUARC labssasla COMMUNE ZIAIDA",
+    "AdresseA": "دوار البصاصلة جماعة الزيايدة",
+    "COMMUNE": "Ziaida",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHAJARAT EL AZZOUZI",
+    "NOM_ETABA": "مجموعة مدارس شجرة العزوزي",
+    "AdresseL": "DOUAR OULAD SAADA COMMUNE ZIAIDA",
+    "AdresseA": "دوار أولاد اسعادة جماعة الزيايدة",
+    "COMMUNE": "Ziaida",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AHAD FRIDE CENTRE",
+    "NOM_ETABA": "م/م احد فريد المركزية",
+    "AdresseL": "DOUAR OULED YOUNESS COMMUNE ZIAIDA",
+    "AdresseA": "دوار اولاد يونس جماعة الزيايدة",
+    "COMMUNE": "Ziaida",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL FIDA  CENTRE",
+    "NOM_ETABA": "م/م الفداء المركزية",
+    "AdresseL": "DOUAR OULED KHLIFA COMMUNE ZIAIDA",
+    "AdresseA": "دوار اولاد خليفة جماعة الزيايدة",
+    "COMMUNE": "Ziaida",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SEFROU CENTRE",
+    "NOM_ETABA": "م/م صفرو المركزية",
+    "AdresseL": "DOUAR LAMCHAARYINE COMMUNE ziaida",
+    "AdresseA": "دوارالمشعريين جماعة الزيايدة",
+    "COMMUNE": "Ziaida",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZIAIDA",
+    "NOM_ETABA": "الثانوية التأهيلية الزيايدة ",
+    "AdresseL": "HAD FRID ECENTRE",
+    "AdresseA": "مركز حد فريد ",
+    "COMMUNE": "Ziaida",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

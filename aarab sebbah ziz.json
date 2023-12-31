@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "AARAB SABBAH ZIZ Erfoud",
+    "AdresseA": "عرب الصباح زيز ارفود",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALLAL EL FASSI",
+    "NOM_ETABA": "علال الفاسي",
+    "AdresseL": "aarab sebah ziz",
+    "AdresseA": "قصر اللحاين عرب الصباح زيز أرفود",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED MAATELLAH",
+    "NOM_ETABA": "اولاد معطلة",
+    "AdresseL": "KSAR OULED MAATALLAH AARAB SEBBAH ZIZ ERFOUD",
+    "AdresseA": "قصر اولاد معطلة عرب الصباح زيز أرفود ",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHSASNA",
+    "NOM_ETABA": "لحساسنة",
+    "AdresseL": "KSAR LAHSASNA AARAB SEBBAH ZIZ ",
+    "AdresseA": "قصر لحساسنة عرب الصباح زيز",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ZAHRA",
+    "NOM_ETABA": "اولاد الزهراء",
+    "AdresseL": "KSAR OULED ZAHRA AARAB SEBBAH ZIZ ERFOUD",
+    "AdresseA": "اولاد الزهراء     ارفود",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAADID",
+    "NOM_ETABA": "المعاضيد",
+    "AdresseL": "KSAR MAADID ARAB SEBBAH ZIZ ERFOUD",
+    "AdresseA": "قصر المعاضيد عرب الصباح زيز ارفود",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAARI",
+    "NOM_ETABA": "الزعاري",
+    "AdresseL": "KSAR OULED TALEB  AARAB SEBBAH ZIZ ARFOUD",
+    "AdresseA": "قصر أولاد الطالب عرب الصباح زيز ارفود",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HBIBATE",
+    "NOM_ETABA": "اهبيبات",
+    "AdresseL": "KSAR HBIBATE AARAB SEBBAH ZIZ",
+    "AdresseA": "قصر هبيبات اعرب الصباح زيز",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAABADLA ",
+    "NOM_ETABA": "العبادلة ",
+    "AdresseL": "maadid  ERFOUD",
+    "AdresseA": "المعاضيد  ارفود",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire le nomade",
+    "NOM_ETABA": "المجموعة المدرسية الخاصة لونوماد",
+    "AdresseL": "route de jorf C.R.AS.ZIZ",
+    "AdresseA": "طريق الجرف عرب الصباح زيز",
+    "COMMUNE": "Aarab Sebbah Ziz",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

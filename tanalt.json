@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "C TAHER EL IFRANI",
+    "NOM_ETABA": "ثإ. الطاهر الإفراني",
+    "AdresseL": "CENTRE TANALT ",
+    "AdresseA": " تنالت  مركز",
+    "COMMUNE": "Tanalt",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL ATLAS  ESSAGHIR",
+    "NOM_ETABA": "م.م  الأطلس الصغير",
+    "AdresseL": "CENTRE TANALT",
+    "AdresseA": " تنالت  مركز",
+    "COMMUNE": "Tanalt",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAHOUMNI",
+    "NOM_ETABA": "م.م  تهمني",
+    "AdresseL": "DOUAR TAHMNI COMMUNE TANALT",
+    "AdresseA": "دوار تهمني",
+    "COMMUNE": "Tanalt",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

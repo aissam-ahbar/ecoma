@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LAKSSIBA",
+    "NOM_ETABA": "القصيبة",
+    "AdresseL": "DOUAR EL KARIA COMUNE KHMIS KSIBA",
+    "AdresseA": "دوار القرية ج القصيبة",
+    "COMMUNE": "Khmis Ksiba",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAIT SLIMANE",
+    "NOM_ETABA": "حائط سليمان",
+    "AdresseL": "DOUAR HAIT SLIMANE COMMUNE KHMIS KSIBA",
+    "AdresseA": "دوار حائط سليمان ج القصيبة",
+    "COMMUNE": "Khmis Ksiba",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

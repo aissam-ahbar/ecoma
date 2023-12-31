@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI BENHAMDOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي بنحمدون",
+    "AdresseL": "DOUAR MEDDAHA",
+    "AdresseA": "دوار مداحة",
+    "COMMUNE": "Zaouiat Sidi Ben Hamdoun",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED SLIMANE CENTRE",
+    "NOM_ETABA": "مركزية اولاد سليمان",
+    "AdresseL": "DOUAR LEAAMAMRA COMMUNE SIDI BENHAMDOUNE",
+    "AdresseA": "دوار لعمامرة اولاد سليمان جماعة سيدي بنحمدون",
+    "COMMUNE": "Zaouiat Sidi Ben Hamdoun",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAMROUDA CENTRE",
+    "NOM_ETABA": "مركزية حمرودة",
+    "AdresseL": "DOUAR HAMROUDA COMMUNE SIDI BENHAMDOUNE",
+    "AdresseA": "دوار حمرودة جماعة سيدي بن حمدون",
+    "COMMUNE": "Zaouiat Sidi Ben Hamdoun",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MEDDAHA CENTRE",
+    "NOM_ETABA": "مركزية مداحة",
+    "AdresseL": "DOUAR OULAD KHDIJ  COMMUNE SIDI BEN HAMDOUNE",
+    "AdresseA": "دوار اولاد خديج جماعة سيدي بنحمدون",
+    "COMMUNE": "Zaouiat Sidi Ben Hamdoun",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BENHAMDOUN CENTRE",
+    "NOM_ETABA": "مركزية سيدي بنحمدون",
+    "AdresseL": "DR OULAD SIDI BOUAANAN COMMUNE SIDI BEN HAMDOUNE",
+    "AdresseA": "دوار اولاد سي بوعنان جماعة سيدي بنمحدون",
+    "COMMUNE": "Zaouiat Sidi Ben Hamdoun",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ALHAITAM",
+    "NOM_ETABA": "الثانوية الإعدادية ابن الهيثم",
+    "AdresseL": "CENTRE DE LA COMMUNE TAH",
+    "AdresseA": "مركز جماعة الطاح ",
+    "COMMUNE": "Tah",
+    "PROVINCE": "Province: Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE LA MARCHE VERTE",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء",
+    "AdresseL": "Commune Tah",
+    "AdresseA": "جماعة الطاح",
+    "COMMUNE": "Tah",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AMEGRIO",
+    "NOM_ETABA": "مدرسة أمكريو",
+    "AdresseL": "VILLAGE de peche AMGRIO",
+    "AdresseA": "قرية الصيد أمكريو",
+    "COMMUNE": "Tah",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  }
+]

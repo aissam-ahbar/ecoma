@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIT DAOUD",
+    "NOM_ETABA": "الثانوية الإعدادية ايت داوود",
+    "AdresseL": "centre ait daoud",
+    "AdresseA": "بلدية ايت داوود المركز",
+    "COMMUNE": "Ait Daoud",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ERRAZI",
+    "NOM_ETABA": " مدرسة الرازي ",
+    "AdresseL": "CENTRE AIT DAOUD",
+    "AdresseA": "مركز ايت داوود",
+    "COMMUNE": "Ait Daoud",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL ARAAR",
+    "NOM_ETABA": "الثانوية التأهيلية العرعار",
+    "AdresseL": "MUNICIPALE AIT DAOUD",
+    "AdresseA": "بلدية أيت داوود",
+    "COMMUNE": "Ait Daoud",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

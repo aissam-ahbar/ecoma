@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS IJERMAOUAS",
+    "NOM_ETABA": "م م إجرماواس",
+    "AdresseL": "DOUAR MIMOUNT COMMUNE IJERMAOUAS",
+    "AdresseA": "دوار ميمونت جماعة اجرماوس",
+    "COMMUNE": "Ijermaouas",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ENNAHDA",
+    "NOM_ETABA": "م م النهضة",
+    "AdresseL": "DOUAR BENI MELIK COMMUNE IJERMAOUAS",
+    "AdresseA": "بني مليك اجرماوس",
+    "COMMUNE": "Ijermaouas",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOU ANNAFISSE",
+    "NOM_ETABA": "م م ابن النفيس",
+    "AdresseL": "DOUAR IMISSER COMMUNE IJERMAOUAS",
+    "AdresseA": "اميسار اجرماوس",
+    "COMMUNE": "Ijermaouas",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNOU ARRACHIK",
+    "NOM_ETABA": "م م ابن الرشيق",
+    "AdresseL": "DOUAR IOUARDIJENE JBELBNI AKKI COMMUNE IJERMAOUAS",
+    "AdresseA": "اورديجن بني عكي جماعة اجرماوس",
+    "COMMUNE": "Ijermaouas",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

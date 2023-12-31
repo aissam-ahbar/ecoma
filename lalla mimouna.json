@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AZZOHOUR",
+    "NOM_ETABA": "الثانوية الاعدادية الزهور",
+    "AdresseL": "LALLA MIMOUNA CENTRE",
+    "AdresseA": "للاميمونة المركز",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOSTAFA AL MAANI",
+    "NOM_ETABA": " الثانوية الاعدادية مصطفى المعاني",
+    "AdresseL": "LALLA MIMOUNA CENTRE ",
+    "AdresseA": "للا ميمونة المركز",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LALLA MIMOUNA",
+    "NOM_ETABA": "للا ميمونة",
+    "AdresseL": "LALLA MIMOUNA centre",
+    "AdresseA": "للا ميمونة المركز",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAANABSSA",
+    "NOM_ETABA": "العنابسة",
+    "AdresseL": "DOUAR LAANABSSA     COMMUNE LALLA MIMOUNA",
+    "AdresseA": "دوار العنابسة ج/ للا ميمونة",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMRIJA",
+    "NOM_ETABA": "المريجة",
+    "AdresseL": "DOUAR LAMRIJA  COMMUNE LALLA MIMOUNA",
+    "AdresseA": "دوار المريجة جماعة للا ميمونة",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED NEFKHA",
+    "NOM_ETABA": "م.م اولاد النفخة",
+    "AdresseL": "DOUAR OULED NEFKHA COMMUNE LALLA MIMOUNA ",
+    "AdresseA": "دوار اولاد النفخة جماعة للا ميمونة",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HALIMA SAADIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": " COMMUNE LALLA MIMOUNA centre",
+    "AdresseA": "جماعة للا ميمونة المركز",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRABIE",
+    "NOM_ETABA": "الربيع",
+    "AdresseL": "lallamimouna centre",
+    "AdresseA": "مركز للاميمونة",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL AMIRA LALLA KHADIJA",
+    "NOM_ETABA": " الثانوية التأهيلية الأميرة للا خديجة",
+    "AdresseL": "LALLA MIMOUNA centre",
+    "AdresseA": "للا ميمونة المركز",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AVIGNONE",
+    "NOM_ETABA": "مدرسة أفينيون الخاصة",
+    "AdresseL": "lalla mimouna centre",
+    "AdresseA": "للاميمونة المركز",
+    "COMMUNE": "Lalla Mimouna",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

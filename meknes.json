@@ -1,0 +1,3182 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial ERRAZI",
+    "NOM_ETABA": "الثانوية الإعدادية الرازي",
+    "AdresseL": "marjane 1 tranche2",
+    "AdresseA": "مرجان 1 الشطر 2",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial SIDI BOUZEKRI",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي بوزكري",
+    "AdresseL": "marjane 4 sidi bouzekri ",
+    "AdresseA": "مرجان 4 سيدي بوزكري",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial EL MANSOUR",
+    "NOM_ETABA": "الثانوية الإعدادية المنصور",
+    "AdresseL": "quartier chahdia el mansour ",
+    "AdresseA": "حي الشهدية المنصور",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial MOULAY HFID",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي حفيظ",
+    "AdresseL": "BD MY HFID COMMUNE MEKNES",
+    "AdresseA": "شارع مولاي حفيظ مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية علال بن عبد الله",
+    "AdresseL": "5 BD ALLAL BEN ABDELLAH COMMUNE MEKNES",
+    "AdresseA": "5 شارع علال بن عبد الله",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial ZEHRAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية الزهراوي",
+    "AdresseL": "AVENUE BIR ANZARANE QUARTIER ABBAS LAMSAADI",
+    "AdresseA": "شارع بئر انزران حي عباس المسعدي",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial FECHTALI",
+    "NOM_ETABA": "الثانوية الإعدادية الفشتالي",
+    "AdresseL": "RUE BRAHIM ROUDANI COMMUNE MEKNES",
+    "AdresseA": "زنقة أبراهيم الروداني",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial QODS",
+    "NOM_ETABA": "الثانوية الإعدادية القدس",
+    "AdresseL": "BD IBN SINA BELAIR BMO",
+    "AdresseA": "شارع إبن سينا بلير برج مولاي عمر",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial IBN TOFAIL",
+    "NOM_ETABA": "الثانوية الإعدادية إبن طفيل",
+    "AdresseL": "hay al manar ain choubik meknes",
+    "AdresseA": "حي المنار عين الشبيك",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial MANSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية الإعدادية المنصور الذهبي",
+    "AdresseL": "HACIENDA COMMUNE MEKNES",
+    "AdresseA": "لاسيندا ب,م,ع مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial BASSATINE",
+    "NOM_ETABA": "الثانوية الإعدادية البساتين",
+    "AdresseL": " AVENUE SAADYINE BASSATINE COMMUNE MEKNES",
+    "AdresseA": "شارع السعديين البساتين",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial ZERKTOUNI",
+    "NOM_ETABA": "الثانوية الإعدادية الزرقطوني",
+    "AdresseL": "QUARTIER BASSATINE COMMUNE MEKNES",
+    "AdresseA": "حي البساتين مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial ABOU BAKR ESSEDIK",
+    "NOM_ETABA": "الثانوية الإعدادية أبو بكر الصديق",
+    "AdresseL": "QUARTIER AGDAL COMMUNE MEKNES",
+    "AdresseA": "حي أكدال",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial AL AZHAR",
+    "NOM_ETABA": "الثانوية الإعدادية الأزهر",
+    "AdresseL": "QURTIER SIDI AMROU  COMMUNE MEKNES",
+    "AdresseA": "حي سيدي عمرو مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial SEHRIJ SOUANI",
+    "NOM_ETABA": "الثانوية الإعدادية صهريج السواني",
+    "AdresseL": "SEHRIJ SOUANI COMMUNE MEKNES",
+    "AdresseA": "صهريج السواني",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial ALLAL AL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "BD ABDELKRIM AL KHATABI SBATA  C MMEKNES",
+    "AdresseA": "شارع عبد الكريم الخطابي اسباتا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial MOHAMED ABDOU",
+    "NOM_ETABA": "الثانوية الإعدادية محمد عبده",
+    "AdresseL": "LYCEE COLLEGIAL MOHAMED ABDOU TOUARGA CMEKNES",
+    "AdresseA": "ثانوية محمد عبده الإعدادية. تواركة مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial JABER IBN HAYANE",
+    "NOM_ETABA": "الثانوية الإعدادية جابر بن حيان",
+    "AdresseL": "QUARTIER ZITOUNE COMMUNE MEKNES",
+    "AdresseA": "الزيتون مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial MOHAMED BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بن عبد الله",
+    "AdresseL": "BAB RHA LAHDIM COMMUNE MEKNES",
+    "AdresseA": "باب الرحى مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial RIAD",
+    "NOM_ETABA": "الثانوية الإعدادية الرياض",
+    "AdresseL": "BD mohamed 6 hay riad  MEKNES",
+    "AdresseA": "   شارع محمد السادس  حي الرياض  ",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial IBN OTMANE EL MEKNASSI",
+    "NOM_ETABA": "الثانوية الإعدادية إبن عثمان المكناسي",
+    "AdresseL": "RUE ELMOSTAOUSSEF QUARTIER RIAD ",
+    "AdresseA": "زنقة المستوصف حي الرياض",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial TAHA HOUSSINE",
+    "NOM_ETABA": "الثانوية الإعدادية طه حسين",
+    "AdresseL": "BAB JEDID  COMMUNE MEKNES",
+    "AdresseA": "باب الجديد مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial IBN AL MONACIF",
+    "NOM_ETABA": "الثانوية الإعدادية إبن المناصف",
+    "AdresseL": "QUARTIER EZZARHOUNIA  COMMUNE al ISMAILIA  ",
+    "AdresseA": "جماعة الإسماعلية  حي الزرهونية",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial ATTANMIA",
+    "NOM_ETABA": "الثانوية الإعدادية التنمية",
+    "AdresseL": "OUJAH AROSS COMMUNE MEKNES",
+    "AdresseA": "وجه عروس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial AL IMAM MALIK",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مالك",
+    "AdresseL": "SIDI BABA  ",
+    "AdresseA": "حي سيدي بابا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial IBNOU ROCHD",
+    "NOM_ETABA": "الثانوية الإعدادية إبن رشد",
+    "AdresseL": "MARJANE4 SIDI BOUZEKRI COMMUNE MEKNES",
+    "AdresseA": "مرجان 4 سيدي بوزكري",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial DAKHLA",
+    "NOM_ETABA": "الثانوية الإعدادية الداخلة",
+    "AdresseL": " QUARTIER PLAISANCE",
+    "AdresseA": "حي المنزه",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial ESSAADA",
+    "NOM_ETABA": "الثانوية الإعدادية السعادة",
+    "AdresseL": "Q ATLAS2",
+    "AdresseA": "حي الأطلس 2",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial IBN HAZM",
+    "NOM_ETABA": "الثانوية الإعدادية إبن حزم",
+    "AdresseL": "HAY KAMILIA MEKNES",
+    "AdresseA": "حي الانبعاث2 المنصور",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collègial SALAH EDDINE AYOUBI",
+    "NOM_ETABA": "الثانوية الإعدادية صلاح الدين الأيوبي",
+    "AdresseL": "LOT ALM EXT 6 AL BASSATINE",
+    "AdresseA": "تجزئةALM توسيع 6 حي البساتين",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALKHANSAE",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "BD BEN SINA BMO MEKNES",
+    "AdresseA": "شارع ابن سينا -  ب . م . ع",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMMAM CHAFII",
+    "NOM_ETABA": "الامام الشافعي",
+    "AdresseL": "BORJ MY OMAR ",
+    "AdresseA": "برج مولاي عمر  ",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN HAZM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "BORJ MY OMAR COMMUNE MEKNES",
+    "AdresseA": "شارع المدرسة ب-م-ع",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MASAOUD",
+    "NOM_ETABA": "سيدي مسعود",
+    "AdresseL": "BORJ MY OMAR  COMMUNE MEKNES",
+    "AdresseA": "برج م-عمر",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH BEN YASSINE",
+    "NOM_ETABA": "عبد الله بن ياسين",
+    "AdresseL": "BORJ MY OMAR COMMUNE MEKNES",
+    "AdresseA": "برج م-عمر",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA FIHRIA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "BORJ MY OMAR bloc 9 ",
+    "AdresseA": "قطاع  9 ب-م-ع",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OKBA BEN NAFII",
+    "NOM_ETABA": "عقبة بن نافع",
+    "AdresseL": "quartier belair borj moulay omar meknes",
+    "AdresseA": "حي بلير ب-م-ع",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZINE EL ABIDINE EL HABIB BEN EL ABBASS EL ALAOUI",
+    "NOM_ETABA": "زين العابدين الحبيب بن العباس العلوي",
+    "AdresseL": "BORJ MY OMAR COMMUNE MEKNES",
+    "AdresseA": "شارع السكة ب-م-ع",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHADIJA OUM LMOUMININE",
+    "NOM_ETABA": "خديجة ام المومنين",
+    "AdresseL": "RUE ALI BEN RAHAL COMMUNE MEKNES",
+    "AdresseA": "زنقة علي بن الرحال حمرية",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BATHA",
+    "NOM_ETABA": "البطحاء",
+    "AdresseL": "18 BD DRISS 2 COMMUNE MEKNES",
+    "AdresseA": "18 شارع ادريس الثاني",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BASE AERIENNE",
+    "NOM_ETABA": "القاعدة الجوية",
+    "AdresseL": "2IEME BASE AIRIENNE  COMMUNE MEKNES",
+    "AdresseA": "مدرسة القاعدة الجوية الثانية",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN LWANNANE",
+    "NOM_ETABA": "ابن الونان",
+    "AdresseL": "BELLE VUE  COMMUNE MEKNES",
+    "AdresseA": "راس أغيل المنظر الجميل",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH BEN RAWAHA",
+    "NOM_ETABA": "عبد الله بن رواحة",
+    "AdresseL": "98 RUE SAADIENNE COMMUNE MEKNES",
+    "AdresseA": "98 شارع السعديين المدينة الجديدة  مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "RUE NADOR COMMUNE MEKNES",
+    "AdresseA": "شارع الناضور حمرية",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ABBAD",
+    "NOM_ETABA": "ابن عباد",
+    "AdresseL": "BD BIR INZARENE COMMUNE MEKNES",
+    "AdresseA": "شارع بئر انزران طريق الحاجب",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN GHAZI",
+    "NOM_ETABA": "ابن غازي",
+    "AdresseL": "RUE FARHAT HACHAD COMMUNE MEKNES",
+    "AdresseA": "زنقة فرحات حشاد",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAMZA BEN ABDELMOUTTALIB",
+    "NOM_ETABA": "حمزة بن عبد المطلب",
+    "AdresseL": "HAY MOULAY ISMAIL COMMUNE MEKNES",
+    "AdresseA": "حي مولاي اسماعيل مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "R HOUNI",
+    "NOM_ETABA": "الرهوني",
+    "AdresseL": "BASSATINE COMMUNE MEKNES",
+    "AdresseA": "سيكتور ًُسُ البساتين",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU LKACEM ZAYANI",
+    "NOM_ETABA": "ابو القاسم الزياني",
+    "AdresseL": "BASSATINE COMMUNE MEKNES",
+    "AdresseA": "البساتين مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAIF",
+    "NOM_ETABA": "الطائف",
+    "AdresseL": "RUE SAADIYINE BASSATINE COMMUNE MEKNES",
+    "AdresseA": "شارع السعديين البساتين مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI TEMMAM TAI",
+    "NOM_ETABA": "ابي تمام الطائي",
+    "AdresseL": "RUE acacias quartier el MENZEH  ",
+    "AdresseA": "زنقة اكسياس حي المنزه  مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAKADDOUME",
+    "NOM_ETABA": "التقدم",
+    "AdresseL": "BASSATINE COMMUNE MEKNES",
+    "AdresseA": "البساتين مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAYMOUNE",
+    "NOM_ETABA": "الليمون",
+    "AdresseL": "BASSATINE  MEKNES",
+    "AdresseA": "البساتين مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MATAR",
+    "NOM_ETABA": "المطار",
+    "AdresseL": "ROUTE HAJ KADOUR COMMUNE MEKNES",
+    "AdresseA": "طريق الحاج قدور كلم 6",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN NAFIS",
+    "NOM_ETABA": "ابن النفيس",
+    "AdresseL": "AIN CHOUBIK COMMUNE MEKNES",
+    "AdresseA": "اقامة المنار ب-م-ع",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NZALA RADDAYA",
+    "NOM_ETABA": "النزالة الرداية",
+    "AdresseL": "DOUAR NZALA RADDAYA  route my idrisse",
+    "AdresseA": "دوار النزالة الرداية طريق مولاي ادريس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED GHAZI",
+    "NOM_ETABA": "محمد غازي",
+    "AdresseL": "QUARTIER AGDAL COMMUNE MEKNES",
+    "AdresseA": "اكدال",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RABIA AL ADAOUIA",
+    "NOM_ETABA": "رابعة العدوية",
+    "AdresseL": "QUARTIER AGDAL ",
+    "AdresseA": "حي أكدال",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU AL KACIM ECHABBI",
+    "NOM_ETABA": "ابو القاسم الشابي",
+    "AdresseL": "QUARTIER AGDAL COMMUNE MEKNES",
+    "AdresseA": "حي أكدال",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKARIM EL KHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "RUE N 1 QUARTIER SIDI AMAR COMMUNE MEKNES",
+    "AdresseA": "سيدي عمرو",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AZHAR",
+    "NOM_ETABA": "الازهر",
+    "AdresseL": "RUE N 1 QUARTIER SIDI AMAR ",
+    "AdresseA": "ديور اجداد سيدي عمرو",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH ALAOUI EL MDAGHRI",
+    "NOM_ETABA": "عبد الله علوي المدغري",
+    "AdresseL": "AVENUE ABDELKARIM ALKHATTABI SBATA MEKNES",
+    "AdresseA": "شارع عبد الكريم الخطابي اسباتا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "BD ABDELKARIM ALKHATTABI SBATA ",
+    "AdresseA": "شارع عبد الكريم الخطابي اسبابتا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU AL AMIDE",
+    "NOM_ETABA": "ابن العميد",
+    "AdresseL": "N44 RUE ABDELLAH CHEFCHAOUNI BENI MHAMEDMEKNES",
+    "AdresseA": "رقم 44 شارع عبد الله الشفشاوني بني امحمد",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED MOJAHID",
+    "NOM_ETABA": "محمد مجاهد",
+    "AdresseL": " DIOUR CHAOURI  BENI MHAMED",
+    "AdresseA": "ديور الشاوري بني امحمد",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAY ZIADA",
+    "NOM_ETABA": "مي زيادة",
+    "AdresseL": "ABDELLAZIZ 2 QUARTIER TOUARGA MEKNES",
+    "AdresseA": "حي تواركة",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAAROF ARROSSAFI",
+    "NOM_ETABA": "معروف الرصافي",
+    "AdresseL": "BD RAHHAL EL MASKIKNI Q TOUARGA ",
+    "AdresseA": "شارع رحال المسكيني تواركة",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOKHTAR ASSENTISSI",
+    "NOM_ETABA": "المختار السنتيسي",
+    "AdresseL": "Q SOLTANE MED BEN ABDELLAH C MEKNES",
+    "AdresseA": "حي السلطان محمد بن عبد الله الروا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SOUKAYNA BENT AL HOUSSINE",
+    "NOM_ETABA": "سكينة بنت الحسين",
+    "AdresseL": "RUE ALFAKIH GHAZI ZITOUNE  COMMUNE MEKNES",
+    "AdresseA": "شارع الفقيه غازي الزيتون مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID BEN ALOUALID",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "RUE ZAIR QUARTIER ZITOUNE",
+    "AdresseA": "زعير حي الزيتون",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH ECHEFCHAOUNI",
+    "NOM_ETABA": "عبدالله الشفشاوني",
+    "AdresseL": "BD AHMED B IDRISS AL MALLOULI",
+    "AdresseA": "شارع أحمد بن ادريس الملولي",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAADA",
+    "NOM_ETABA": "السعادة",
+    "AdresseL": "N23 RUE CHOUAIB DOUKKALI ESSAADA  MEKNES",
+    "AdresseA": " حي السعادة",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU JABER AL MEKNASSI",
+    "NOM_ETABA": "ابن جابر المكناسي",
+    "AdresseL": " q  ATLAS 1 SIDI BOUZEKRI MEKNEs",
+    "AdresseA": "حي الأطلس 1 سيدي بوزكري . مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "CARIERE ASSABOUNI SIDI BOUZEKRI ",
+    "AdresseA": "سيدي بوزكري",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOSTAFA LAMAANI",
+    "NOM_ETABA": "مصطفى المعني",
+    "AdresseL": "RTE ALHAJEB DOUAR EDDOU SIDI BOUZEKRI MEKNES",
+    "AdresseA": "طريق الحاجب",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ISSAWI MESTASSI",
+    "NOM_ETABA": "محمد عيساوي مسطاسي",
+    "AdresseL": "QUARTIER AL AMAL DOUAR MOUSSA ",
+    "AdresseA": "حي الأمل سيدي  بوزكري  مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EL MAKHAZIN",
+    "NOM_ETABA": "واد المخازن",
+    "AdresseL": "Q AL ATLAS 1 SIDI BOUZEKRI  C MEKNES",
+    "AdresseA": "حي الأطلس1 سيدي بوزكري",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IDRISS AL AOUAL",
+    "NOM_ETABA": "ادريس الاول",
+    "AdresseL": "QUARTIER SIDI BOUZEKRI C MEKNES",
+    "AdresseA": " مرجان 4 حي سيدي بوزكري",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ANDALOUS",
+    "NOM_ETABA": "الأندلس",
+    "AdresseL": "DERB MAKOUAR BOUAMAYER C MEKNES",
+    "AdresseA": "درب مكوار بوعماير",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU ALAALAA AL MAARRI",
+    "NOM_ETABA": "ابو العلاء المعري",
+    "AdresseL": "DERB SLAOUI ANCIENNE MEDINA",
+    "AdresseA": "درب السلاوي  المدينة القديمة",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LISSANE EDDINE IBN AL KHATIB",
+    "NOM_ETABA": "لسان الدين بن الخطيب",
+    "AdresseL": "BIN LAMAASAR MEDINA CMEKNES",
+    "AdresseA": "زنقة بين لمعاصر المدينة القديمة",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUMMOU SALAMA",
+    "NOM_ETABA": "أم سلمة",
+    "AdresseL": "28 DERB SLAOUI MEDINA C MEKNES",
+    "AdresseA": "درب سلاوي رقم  28     المدينة القديمة ",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED CHAOUKI",
+    "NOM_ETABA": "احمد شوقي",
+    "AdresseL": "102  BAB ALJADID  bab siba",
+    "AdresseA": " باب السبا باب الجديد",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BEN CHEMSI",
+    "NOM_ETABA": "عمر بن شمسي",
+    "AdresseL": "BAB ALJADID COMMUNE MEKNES",
+    "AdresseA": "باب الجديد دار الدبغ مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA KHADIJA BENT SIDI MOHAMED EL ALAOUI",
+    "NOM_ETABA": "للا خديجة بنت سيدي محمد العلوي",
+    "AdresseL": "BD AL YAMOURI OUJAH AROSS  C MEKNES",
+    "AdresseA": "شارع إدريس بن العربي اليموري وجه عروس مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL BOUHTOURI",
+    "NOM_ETABA": "البحتري",
+    "AdresseL": "DOIUR JDAD SIDI BABA MEKNES",
+    "AdresseA": "ديور اجداد سيدي بابا مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "WALLADA BENT AL MOSTAKFI",
+    "NOM_ETABA": "ولادة بنت المستكفي",
+    "AdresseL": "QUARTIER SIDI BABA CMEKNES",
+    "AdresseA": "حي سيدي بابا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BRAHIM EL HILALI",
+    "NOM_ETABA": "ابراهيم الهلالي",
+    "AdresseL": "QUARTIER SIDI BABA ",
+    "AdresseA": "سيدي بابا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "المسيرة الخضراء",
+    "AdresseL": "DOUAR JDID QUARTIER SIDI BABA ",
+    "AdresseA": "دوار الجديد حي سيدي بابا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY ASSALAM",
+    "NOM_ETABA": "حي السلام",
+    "AdresseL": "HAY ASSALAM SIDI SAID",
+    "AdresseA": "حي السلام سيدي سعيد",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SALAH EDDINE AL AYOUBI",
+    "NOM_ETABA": "صلاح الدين الايوبي",
+    "AdresseL": "QUARTIER SIDI SAID  ",
+    "AdresseA": "حي سيدي سعيد",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "N 37 RUE PALESTINE QUARTIER RIAD C MEKNES",
+    "AdresseA": " الرقم 37 زنقة فلسطين الرياض",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FARABI",
+    "NOM_ETABA": "الفارابي",
+    "AdresseL": "LOT FARIS  SIDI SAID ",
+    "AdresseA": "تجزئة فارس سيدي سعيد",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ZAIDOUNE",
+    "NOM_ETABA": "ابن زيدون",
+    "AdresseL": "RUE IBN ZAYDOUNE QUARTIER RIAD  C MEKNES",
+    "AdresseA": "شارع ابن زيدون حي الرياض مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ZARKTOUNI",
+    "NOM_ETABA": "محمد الزرقطوني",
+    "AdresseL": "Q TAKADDOUM DIOR ASSALAM  C MEKNES",
+    "AdresseA": "حي التقدم ديور السلام",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOKHTAR ASSOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "QUARTIER ZARHOUNIA  ",
+    "AdresseA": "حي الزرهونية",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL WIFAK",
+    "NOM_ETABA": "الوفاق",
+    "AdresseL": "RUE N 12 OUJAH AROUSS MEKNES",
+    "AdresseA": "زنقة12وجه عروس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HALIMA ASSAADIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": "QUARTIER ASSALAM   COMMUNE MEKNES",
+    "AdresseA": "حي السلام سيدي سعيد مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ISMAILIA",
+    "NOM_ETABA": "الإسماعيلية",
+    "AdresseL": "QUARTIER MARJANE 2 COMMUNE MEKNES",
+    "AdresseA": "مرجان 2",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLATIF SAYEGH",
+    "NOM_ETABA": "عبد اللطيف الصايغ",
+    "AdresseL": "QUARTIER AL AMANE DIOUR ESSALAM 2 C MEKNES",
+    "AdresseA": "حي الأمان ديور السلام",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKHALEK TORRIS",
+    "NOM_ETABA": "عبد الخالق الطريس",
+    "AdresseL": "MARJANE 2 COMMUNE meknes prefecture",
+    "AdresseA": "مرجان 2",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANAS BNOU MALEK",
+    "NOM_ETABA": "أنس بن مالك",
+    "AdresseL": "MARJANE 4 SIDI BOUZEKRI  MEKNES",
+    "AdresseA": "مرجان 4 سيدي بوزكري ",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MANSOUR",
+    "NOM_ETABA": "المنصور",
+    "AdresseL": "QUARTIER AL MANSOUR COMMUNE MEKNES",
+    "AdresseA": "حي المنصور طريق اكوراي مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOSSALLA",
+    "NOM_ETABA": "المصلى",
+    "AdresseL": "QUARTIER MARJANE 6 BAB BTIOUI COMMUNE MEKNES",
+    "AdresseA": "مرجان 6 باب بطيوي ",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ABDELLAZIZ MARJANE",
+    "NOM_ETABA": "عمر بن عبد العزيز مرجان",
+    "AdresseL": "lotissement atlass MARJANE 1 MEKNES",
+    "AdresseA": "تجزئة الأطلس حي مرجان 1 مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY YOUSSEF",
+    "NOM_ETABA": "مولاي يوسف",
+    "AdresseL": "hay alinbiaat  kamilia meknes",
+    "AdresseA": "حي الإنبعاث -كاميليا- مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ALI CHERIF",
+    "NOM_ETABA": "مولاي علي الشريف",
+    "AdresseL": "LOT ZITOUNA Km6 RUE HAJ KADDOUR",
+    "AdresseA": "تجزئة الزيتونة كلم 6 طريق الحاج قدور",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SALMAN EL FARESSI",
+    "NOM_ETABA": "سلمان الفارسي",
+    "AdresseL": "riad zaytoune marjane",
+    "AdresseA": "رياض الزيتون مرجان",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RYAD EL ISMAILIA",
+    "NOM_ETABA": "رياض الإسماعيلية",
+    "AdresseL": "LOTISSEMENT RYAD EL ISMAILIA MARJANE",
+    "AdresseA": "تجزئة رياض الإسماعيلية مرجان مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 18 NOVEMEBRE",
+    "NOM_ETABA": "مدرسة 18 نونبر",
+    "AdresseL": "LOTISSEMEN TAHA  MARJANE",
+    "AdresseA": "تجزئة طه مرجان",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOSTAFA LAMAANI 2",
+    "NOM_ETABA": "مصطفى المعني 2",
+    "AdresseL": "ROUTEDEL HAJEB DOUAR EDDOU SIDI BOUZEKRI MEKNES",
+    "AdresseA": "طرق الحاجب دوار الضو سيدي بوزكري",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant MOHAMED AJANA",
+    "NOM_ETABA": "الثانوية التأهيلية محمد أجانا",
+    "AdresseL": "HAY RIAD  MEKNES",
+    "AdresseA": "حي الرياض - مكناس ",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant IBNOU ARROUMI",
+    "NOM_ETABA": "الثانوية التأهيلية إبن الرومي",
+    "AdresseL": "BD AL FAKIH GHAZI ZITOUNE MEKNES",
+    "AdresseA": "شارع الفقيه الغازي الزيتون مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant ESSALAM",
+    "NOM_ETABA": "الثانوية التأهيلية السلام",
+    "AdresseL": " WAHDA 3 SIDI BOUZEKRI",
+    "AdresseA": "سيدي بوزكري",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant IBNOU EL BAYTAR",
+    "NOM_ETABA": "الثانوية التأهيلية إبن البيطار",
+    "AdresseL": "quartier el mansour route agourai",
+    "AdresseA": "حي المنصور طريق أكوراي",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant ANASSI",
+    "NOM_ETABA": "الثانوية التأهيلية أناسي",
+    "AdresseL": "riad alismaailia",
+    "AdresseA": "رياض الاسماعيلية",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant EL MANFALOUTI",
+    "NOM_ETABA": "الثانوية التأهيلية المنفلوطي",
+    "AdresseL": "el manfalouti lotissement dakhla hay salam",
+    "AdresseA": "المنفلوطي تجزئة الداخلة حي السلام",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant BADR",
+    "NOM_ETABA": "الثانوية التأهيلية بدر",
+    "AdresseL": "riad zitoune 8arr ",
+    "AdresseA": "رياض الزيتون المقاطعة 8",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant HOUMMANE EL FETOUAKI",
+    "NOM_ETABA": "الثانوية التأهيلية حمان الفطواكي",
+    "AdresseL": " DIOUR ESSALAM COMMUNE ALISMAILIA",
+    "AdresseA": "ديور السلام حي التقدم",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant AL MARJIIA",
+    "NOM_ETABA": "الثانوية التأهيلية المرجعية",
+    "AdresseL": "bel air bmo",
+    "AdresseA": "بلير برج مولاي عمر مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant MOULAY YOUSSEF",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي يوسف",
+    "AdresseL": "1RUE ZYANE VILLE NOUVELLE",
+    "AdresseA": "رقم 1 زنقة زيان المدينة الجديدة",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant Moulay Ismail",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي اسماعيل",
+    "AdresseL": "rue wahhabi ali ben jilali vn meknes",
+    "AdresseA": "شارع الوهابي علي بن الجيلالي المدينة الجديد مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant LALLA AMINA",
+    "NOM_ETABA": "الثانوية التأهيلية للا أمينة",
+    "AdresseL": "PLACE ABDELAZIZ BEN DRISS ",
+    "AdresseA": "ساحة عبدالعزيز بن ادريس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant IMAM GHAZALI",
+    "NOM_ETABA": "الثانوية التأهيلية الإمام الغزالي",
+    "AdresseL": "BEL AIR COMMUNE MEKNES",
+    "AdresseA": "حي بلير",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant MASSIRA",
+    "NOM_ETABA": "الثانوية التأهيلية المسيرة",
+    "AdresseL": "BORJ MOULAY OMAR COMMUNE MEKNES",
+    "AdresseA": "برج مولاي عمر",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant TARIK BEN ZYAD",
+    "NOM_ETABA": "الثانوية التأهيلية طارق بن زياد",
+    "AdresseL": "BASSATINE COMMUNE MEKNES",
+    "AdresseA": "البساتين",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant IMAM ALI",
+    "NOM_ETABA": "الثانوية التأهيلية الإمام علي",
+    "AdresseL": "BOULEVARD IBRAHIM ROUDANI AIN MAAZA",
+    "AdresseA": "شارع ابراهيم الروداني عين معزة",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant KASBAT",
+    "NOM_ETABA": "الثانوية التأهيلية القصبة",
+    "AdresseL": "QUARTIER AGDAL",
+    "AdresseA": "حي أكدال",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant MOHAMED EL MEKNASSI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد المكناسي",
+    "AdresseL": " DIOUR JDAD SIDI AMER COMMUNE MEKNES",
+    "AdresseA": "ديور الجداد حي سيدي عمرو",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant IBN AL HAYTHEM",
+    "NOM_ETABA": "الثانوية التأهيلية إبن الهيثم",
+    "AdresseL": "BAB BEL KARI  COMMUNE MEKNES",
+    "AdresseA": "حي باب بلقري مكناس",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant ZITOUNE",
+    "NOM_ETABA": "الثانوية التأهيلية الزيتون",
+    "AdresseL": "   ASAADA  ZITOUNE",
+    "AdresseA": "السعادة  الزيتون",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant Omar Ibn Al-Khattab",
+    "NOM_ETABA": "الثانوية التأهيلية عمر بن الخطاب ",
+    "AdresseL": "BD ABDELKARIM AL KHATTABI SBATA CMMEKNES",
+    "AdresseA": "شارع عبد الكريم الخطابي اسباتا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant ABDERRAHMANE IBN ZIDANE",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الرحمان بن زيدان",
+    "AdresseL": "RUE AL YAMOURI SIDI BABA  COMMUNE MEKNES",
+    "AdresseA": "حي سيدي بابا",
+    "COMMUNE": "Meknès",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT RIHAB ASSADARA",
+    "NOM_ETABA": "مؤسسة رحاب الصدارة ",
+    "AdresseL": "N°567 569 570 BASSATINE 7",
+    "AdresseA": " الرقم 567 و 569 و 570 البساتي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE THOMAS JEFFERSONE",
+    "NOM_ETABA": "مؤسسة توماس جيفرسون ",
+    "AdresseL": "N°19 RUE AGADIR QUARTIER ADMIN",
+    "AdresseA": "الرقم 19 زنقة أڭادير الحي الإد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Future Makers",
+    "NOM_ETABA": "مجموعة مدارس فيوتشر مايكرز",
+    "AdresseL": "N° 2 ES 5 LOT CHAHDIA EL MANSO",
+    "AdresseA": "تجزئة الشهدية المنصور ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EVO COLLEGE",
+    "NOM_ETABA": "إيفو كوليج",
+    "AdresseL": "Avenue Khalid ibn alwalid N25 ",
+    "AdresseA": "قدماء المحاربين شارع خالد بن ا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZAHRANE",
+    "NOM_ETABA": "مؤسسة زهران",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 1027 رياض الإسماعيلية تع",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AMELLAL",
+    "NOM_ETABA": "مجموعة مدارس أملال الخصوصية ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة وليلي سيدي بابا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ADNANE",
+    "NOM_ETABA": "العدنان",
+    "AdresseL": "immeuble 28 dyour essalam aven",
+    "AdresseA": "الرقم 28 تجزئة ديور السلام الش",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA VOIE DE L EXCELLENCE",
+    "NOM_ETABA": "لافوا دوليكسلونس",
+    "AdresseL": "A 23 LOT CHAHDIA 3-7 meknés",
+    "AdresseA": "أ  23  تجزئة الشهدية 3 -7",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL FATH AL MOUBINE",
+    "NOM_ETABA": "مجموعة مدارس الفتح المبين الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة وردة 2 شارع الزيتون ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Essabaya",
+    "NOM_ETABA": "الصبايا",
+    "AdresseL": "Rue 92, N° 4397, Wajh Aarouss",
+    "AdresseA": "زنقة 92،  رقم 4397، وجه عروس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "laureats",
+    "NOM_ETABA": "الأوائل",
+    "AdresseL": "N° 16, Quartier Abbass Lamsaad",
+    "AdresseA": "حي عباس لمساعدي شارع بئر أنزرا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Manhal Al Maarifa",
+    "NOM_ETABA": "منهل المعرفة",
+    "AdresseL": "N° 29, Zenkat Nador, Ville Nou",
+    "AdresseA": "رقم 29، زنقة الناضور - المدينة",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ichrak Al Akhawayne",
+    "NOM_ETABA": "اشراق الأخوين",
+    "AdresseL": "N° 14, Boulevard Yougoslavia, ",
+    "AdresseA": "رقم 14، شارع يوغوسلافيا - طريق",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Ajraoui",
+    "NOM_ETABA": "الأجراوي",
+    "AdresseL": "N° 4 et 5, Derb El Beggar - To",
+    "AdresseA": "رقم 4 و 5، درب البكار - تواركة",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annouha",
+    "NOM_ETABA": "النهى",
+    "AdresseL": "Imm. 19, Bd. Mohamed VI, Marja",
+    "AdresseA": "عمارة 19، شارع محمد السادس - م",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Génies De La Victoiree",
+    "NOM_ETABA": "لي جيني دولفكتوار",
+    "AdresseL": "Lot, 116/117, S 8, Lotissement",
+    "AdresseA": "رقم 116/117، بلوك 8 ، تجزئة قر",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Amal",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "N° 190, Lotissement Al Wifak -",
+    "AdresseA": "رقم 190، تجزئة الوفاق - سيدي س",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHALLENGE SCHOOL",
+    "NOM_ETABA": "التحدي الخاصة",
+    "AdresseL": "Marjane 1, 1ère Tranche, N° 34",
+    "AdresseA": "مرجان 1، الشطر الأول، رقم 34",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MODERNE DE L ENSEIGNEMENT EL FATIH",
+    "NOM_ETABA": "المدرسة الحديثة للتعليم الخصوصي الفاتح",
+    "AdresseL": "Lotissement Sara, MARJANE 1",
+    "AdresseA": "تجزئة سارة، مرجان 1",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Eucalyptus",
+    "NOM_ETABA": "اوكاليبتوس",
+    "AdresseL": "N° 537, Lotissement El Mansour",
+    "AdresseA": "رقم 537، تجزئة المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement  Zouini 3",
+    "NOM_ETABA": "مؤسسة الزويني 3",
+    "AdresseL": "N° 823 et 1045, Lotissement El",
+    "AdresseA": "رقم 823 و 1045، تجزئة المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SADIQUI",
+    "NOM_ETABA": "صديقي",
+    "AdresseL": "Lamrania, Zenkat 8, N° 6 - Zit",
+    "AdresseA": "لمرانية، الزنقة 8، رقم 6 - الز",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Hiba",
+    "NOM_ETABA": "هبة",
+    "AdresseL": "N° 239, Quartier Militaire - B",
+    "AdresseA": "رقم 239، الحي العسكري - البسات",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Adib 2",
+    "NOM_ETABA": "اديب 2",
+    "AdresseL": "15 Bis, Lotissement Krenidis -",
+    "AdresseA": "مكرر 15، تجزئة كرينيديس - لاسي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Romarin",
+    "NOM_ETABA": "لوروماران",
+    "AdresseL": "Lotissement Kamilia, B 2, N° 4",
+    "AdresseA": "تجزئة كاميليا، ب 2 ، رقم 49",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chourouk 3",
+    "NOM_ETABA": "شروق 3",
+    "AdresseL": " N° 213 Zerhounia Extension",
+    "AdresseA": "رقم 213 الزرهونية توسيع مكناس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MEDIOURI",
+    "NOM_ETABA": "مجموعة مدارس مديوري",
+    "AdresseL": "Lotissement El Ghorfa 1, Bd. A",
+    "AdresseA": "تجزئة الغرفة 1، شارع امبواز - ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CARNOT PREPAS",
+    "NOM_ETABA": "كارنو بريبا",
+    "AdresseL": "AL GHORFA i BOULVARD AMBOISE E",
+    "AdresseA": "الغرفة 1 شارع أمبواز السعادة ا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMALI",
+    "NOM_ETABA": "أمالي",
+    "AdresseL": "76 ennasr 3 ",
+    "AdresseA": "رقم 76 النصر 3 ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES BELLES ROSES",
+    "NOM_ETABA": "الزهور الجميلة",
+    "AdresseL": "367 route d agourai",
+    "AdresseA": "367 طريق أكوراي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EMILE ANOUAR",
+    "NOM_ETABA": "إميل أنوار",
+    "AdresseL": "angle avenue des far rue des c",
+    "AdresseA": "شارع الجيش الملكي طريق فاس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GOETHE-HAUS-ASLOUN",
+    "NOM_ETABA": "غوتة هاوس عسلون",
+    "AdresseL": "n° 7 .iSMAILIA 8 PRES HOPITAL ",
+    "AdresseA": "رقم 7 ، الإسماعيلية 8 قرب مستش",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAMS SCHOOL",
+    "NOM_ETABA": "شمس سكول",
+    "AdresseL": "14 SIDI AHMED BEN KHADRA",
+    "AdresseA": "14 سيدي أحمد بن خضراء",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE SAIN ESPRIT",
+    "NOM_ETABA": "لوسان اسبري",
+    "AdresseL": "52 - Marjane Amicale - Marjane",
+    "AdresseA": "رقم 52 - مرجان أميكال - مرجان1",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUIFAQ ESSALM",
+    "NOM_ETABA": "وفاق السلام",
+    "AdresseL": "ETABLISSEMENT DENSEIGNEMENT PR",
+    "AdresseA": "مؤسسة وفاق السلام للتعليم المد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE TREMPLIN DES ROSSIGNOLS",
+    "NOM_ETABA": "لو ترومبلان دي روسينيول",
+    "AdresseL": "128,al mansour,route agourai",
+    "AdresseA": " المنصور طريق اكوراي مكناس128",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE VALlON",
+    "NOM_ETABA": "لوفالون",
+    "AdresseL": "villa121 al mansour avenue Moh",
+    "AdresseA": "فيلا 121  المنصور شارع محمد ال",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NADIA",
+    "NOM_ETABA": "نادية",
+    "AdresseL": "DERB S,HMAMMOUCH - SRAIRIA - V",
+    "AdresseA": "درب سيدي احماموش - السرايرية -",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EIFFEL SCHOOL",
+    "NOM_ETABA": "ايفيل سكول",
+    "AdresseL": "90-zenkat al bouihi ahmed ben ",
+    "AdresseA": "رقم 90 - زنقة البويهي أحمد بن ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNOUR AL MOCHRIK",
+    "NOM_ETABA": "النور المشرق",
+    "AdresseL": "LOT ALMANBAT - RUE 1 -N°10 - M",
+    "AdresseA": "تجزئة المنبت - زنقة 1 - رقم 10",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JIL AL IRFANE",
+    "NOM_ETABA": "جيل العرفان",
+    "AdresseL": "18 -RUE CINEMA RIF - RIAD",
+    "AdresseA": " زنقة سينما الريف - رقم 18",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HANANE ANNOUAR",
+    "NOM_ETABA": "الحنان انوار",
+    "AdresseL": "1 - LOT ELKHAIR LHACIENDA",
+    "AdresseA": "رقم 1 - تجزئة الخير - لاسييندا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANAR AL OMMA",
+    "NOM_ETABA": "منار الأمة",
+    "AdresseL": "LOT ALMANSOUR -N°45",
+    "AdresseA": "تجزئة المنصور - رقم 45",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHOUROUK II",
+    "NOM_ETABA": "شروق  2",
+    "AdresseL": "N°4672- OUJAH AROUSS - RUE 35",
+    "AdresseA": "الزنقة 35  - رقم 4672 - وجه عر",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FLOWERS HIGH SCHOOL",
+    "NOM_ETABA": "فلاورز هاي سكول",
+    "AdresseL": "LOT ISMAILIA 7 - N°49 - RUE EL",
+    "AdresseA": " تجزئة الإسماعيلية  7 - رقم 49",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAHBI FRERES",
+    "NOM_ETABA": "اللهبي اخوان",
+    "AdresseL": "AMICALE 2 - N°14 -HAY EL MANSO",
+    "AdresseA": "ودادية 2 - رقم 14 - المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MASLAK ALILM",
+    "NOM_ETABA": "مسلك العلم",
+    "AdresseL": "411 - HAY AL MANSOUR",
+    "AdresseA": "411 - حي المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAMOUNIA",
+    "NOM_ETABA": "المامونية",
+    "AdresseL": "HAY FORTUNA - VILLE NOUVELLE",
+    "AdresseA": "حي فورتونا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN  GHAZI EL MEKNASSI",
+    "NOM_ETABA": "ابن غازي المكناسي",
+    "AdresseL": "N°1975 - marjane 2",
+    "AdresseA": "رقم 1975 -مرجان 2",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "audenCIa school",
+    "NOM_ETABA": "أودانسيا سكول",
+    "AdresseL": "QUARTIER ABBAS LAMSAADI ROUTE ",
+    "AdresseA": "حي عباس المسعدي طريق الحاجب مك",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LABEL EXCELLENCE",
+    "NOM_ETABA": "لابيل إكسلانس",
+    "AdresseL": "2,avenue des far,route de fes ",
+    "AdresseA": "2 طريق فاس المنزه",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "malaika",
+    "NOM_ETABA": "الملائكة",
+    "AdresseL": "NULL",
+    "AdresseA": "المنظر الجميل 3 مكناس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "coeur maman",
+    "NOM_ETABA": "قلب أم",
+    "AdresseL": "RUE AHMED BEN ELHASSAN ELOUAZZ",
+    "AdresseA": "زنقة أحمد بن الحسن الوزاني الر",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "eiffel school 2",
+    "NOM_ETABA": "إيفيل سكول 2",
+    "AdresseL": "rue fkhih ben said 22 ac mekne",
+    "AdresseA": "زنقة الفقيه بن سعيد 22 ق.م مكن",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire fleurs d orangers",
+    "NOM_ETABA": "مجموعة مدارس زهر البرتقال",
+    "AdresseL": "16,rue chouaib doukkali essaad",
+    "AdresseA": "زنقة شعيب الدكالي الرقم 16 الس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire la source bleue",
+    "NOM_ETABA": "مجموعة مدارس المنبع الأزرق",
+    "AdresseL": "lot AZzouhoUr ",
+    "AdresseA": "تجزئة الزهور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al amine daoudi",
+    "NOM_ETABA": "الأمين الداودي",
+    "AdresseL": "",
+    "AdresseA": "تجزئة صوريا 586/585 2 طريق الح",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baraim zahoua",
+    "NOM_ETABA": "براعم الزهوة",
+    "AdresseL": "LOT ZAHOUA N°305",
+    "AdresseA": "تجزئة الزهوة رقم 305",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NAJAH ALBARAIM",
+    "NOM_ETABA": "نجاح البراعم",
+    "AdresseL": "DERB MY ALI   BNI MHAMMED",
+    "AdresseA": "درب مولاي علي بني امحمد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire atawjih",
+    "NOM_ETABA": "مجموعة مدارس التوجيه",
+    "AdresseL": "78 lot loubaba av med V/",
+    "AdresseA": "تجزئة لوبابة 78 شارع محمد السا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRIAYA ALKHASSA",
+    "NOM_ETABA": "الرعاية الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع عبدالرحمان بن زيدان",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jannat al atfal",
+    "NOM_ETABA": "جنة الأطفال",
+    "AdresseL": "149 al mansoor",
+    "AdresseA": "رقم 149 المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR AL FAJR",
+    "NOM_ETABA": "نور الفجر",
+    "AdresseL": "NULL",
+    "AdresseA": "ديور جعفر التواركة",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAYANE",
+    "NOM_ETABA": "ريان",
+    "AdresseL": "DERB SIDI LAHCEN N°85",
+    "AdresseA": "   درب سسيدي لحسن رقم 85",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHEMIN DU SAVOIR",
+    "NOM_ETABA": "سبيل المعرفة ",
+    "AdresseL": "OUJAH AAROUS N°4237",
+    "AdresseA": "وجه عروس رقم 4237",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anass",
+    "NOM_ETABA": "أنس",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الأمل",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "abou haytam",
+    "NOM_ETABA": "أبو هيثم",
+    "AdresseL": "336 ALM EL BASSATINE MEKNES",
+    "AdresseA": " الرقم 336 البساتين الحي العسك",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "big school",
+    "NOM_ETABA": "بيك سكول",
+    "AdresseL": "n 14 ZENKAT MOHAMED IBN HASSAN",
+    "AdresseA": "زنقة بن  الحسن الوزاني الوزاني",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arreda",
+    "NOM_ETABA": "الرضى",
+    "AdresseL": "n39 lot al inbiat1,route agour",
+    "AdresseA": "تجزئة الإنبعات1 رقم39طريق أكور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "safwat albaraim",
+    "NOM_ETABA": "صفوة البراعم",
+    "AdresseL": "SECTEUR c RUE 10 N 5 AL BASSAT",
+    "AdresseA": "   زنقة 10 رقم 5 سكتور س البسا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupement scolaire moyen atlas",
+    "NOM_ETABA": "مجموعة مدارس الأطلس المتوسط",
+    "AdresseL": "VILLA 56 _ 58EL MANSOUR",
+    "AdresseA": "فيلا 56 و 58 المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE FIGUIER ENSEIGNEMENT",
+    "NOM_ETABA": "لوفيڭيي أونسينيومو",
+    "AdresseL": "ALIM 6 N°557 EL BASSATINE MEKN",
+    "AdresseA": "تج أ ل م 6 البساتين",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Flowers School 3",
+    "NOM_ETABA": " الزهور3",
+    "AdresseL": "N° 41, Lotissement Baladia B.M",
+    "AdresseA": " تجزئة البلدية رقم 41 برج مولا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tafaouk 1",
+    "NOM_ETABA": "التفوق 1",
+    "AdresseL": "N° 130, Quartier Al Wifak, Sid",
+    "AdresseA": "رقم 130، حي الوفاق، سيدي سعيد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Flowers School 2",
+    "NOM_ETABA": "الزهور 2",
+    "AdresseL": " 91 Zenkat BouIhi Ahmed B. Ali",
+    "AdresseA": " 91 زنقة البويهي، أحمد بن علي ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA REFERENCE",
+    "NOM_ETABA": "المرجع",
+    "AdresseL": "8,9,10 Lotissement Mimouza - H",
+    "AdresseA": " 8,9,10 تجزئة ميموزة",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TRESORS DES ENFANTS",
+    "NOM_ETABA": "كنوز الأطفال",
+    "AdresseL": "Lotissement Arrayhane  - Ibn R",
+    "AdresseA": "  تجزئة الريحان ابن رشد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Draoui",
+    "NOM_ETABA": "الدراوي",
+    "AdresseL": "N° 108, Marjane II, boulevard ",
+    "AdresseA": "    مرجان    2  -  شارع محمد ا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Complexe Scolaire Zouini",
+    "NOM_ETABA": "المركب المدرسي الزويني",
+    "AdresseL": "N° 625, Lotissement Al Mansour",
+    "AdresseA": "رقم 625، تجزئة المنصور ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Iqrae Al Mansour",
+    "NOM_ETABA": "اقرأ المنصور",
+    "AdresseL": "N°174lotissement al mansour",
+    "AdresseA": "رقم 174 تجزئة المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Taghbaloute daoudi saada",
+    "NOM_ETABA": "تغبالوت الداودي السعادة",
+    "AdresseL": "8 derb chaib doUKkali saada",
+    "AdresseA": " رقم 8 درب شعيب الدكالي السعاد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Draoui",
+    "NOM_ETABA": "مجموعة مدارس الدراوي",
+    "AdresseL": "VILLA A1 A4 LOT MANSSOUR",
+    "AdresseA": "فيلا أ1 و أ4 تجزئة المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "eLyamani",
+    "NOM_ETABA": "مؤسسة اليماني",
+    "AdresseL": "zahwa n°2 meknes",
+    "AdresseA": "حي االزهوة  رقم 2، مكناس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIHAB ASSaada",
+    "NOM_ETABA": "رحاب السعادة",
+    "AdresseL": "15 SECTEUR 8 RUE 1 Borj Moulay",
+    "AdresseA": "15 شارع 8 زنقة 1 برج مولاي عمر",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tafaouk 4",
+    "NOM_ETABA": "التفوق 4",
+    "AdresseL": "N° 150, Lotissement Dakhla, Si",
+    "AdresseA": " رقم 150، تجزئة الداخلة، سيدي ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tafaouk 3",
+    "NOM_ETABA": "التفوق 3",
+    "AdresseL": "N° 149, Lotissement Ezarhounia",
+    "AdresseA": "رقم 149، تجزئة الزرهونية توسيع",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE Coeur- Maman",
+    "NOM_ETABA": "  مدرسة قلب  أم",
+    "AdresseL": "résidences errayhane et bnou r",
+    "AdresseA": "               المجموعات السكن",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Arz Réscolaire",
+    "NOM_ETABA": "الأرز للتعليم الأولي",
+    "AdresseL": "N° 196, Lot. El Mansour",
+    "AdresseA": "رقم 196، تجزئة المنصور",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement ZOUINI 2",
+    "NOM_ETABA": "مؤسسة الزويني 2",
+    "AdresseL": "N° 160, Lot. El Mansour Meknès",
+    "AdresseA": "رقم 160، تجزئة المنصور مكناس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "challenge school 3",
+    "NOM_ETABA": "التحدي الخصوصية 3",
+    "AdresseL": "N° 144 lot annasr i borj machk",
+    "AdresseA": "رقم 144 تجزئة النصر 1 البرج ال",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "dahdi",
+    "NOM_ETABA": "الداحدي",
+    "AdresseL": "N° 49, Rue Chaouiya, Zitoun",
+    "AdresseA": "رقم 49، زنقة الشاوية، الزيتون",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ile Du Savoir",
+    "NOM_ETABA": "ليل دي سافوار",
+    "AdresseL": "N° 19, Rue 3, Hay Al Wahda (La",
+    "AdresseA": "رقم 19، زنقة 3، حي الوحدة - لا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chourouk",
+    "NOM_ETABA": "شروق",
+    "AdresseL": "N° 28, Lot. My Masoud, Hay Sal",
+    "AdresseA": "رقم 28، تجزئة مولاي مسعود، حي ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tafaouk 2",
+    "NOM_ETABA": "التفوق 2",
+    "AdresseL": "N° 44 et 46, Lot. El Wifak, Si",
+    "AdresseA": "رقم 44  و 46، تجزئة الوفاق، سي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Préférence",
+    "NOM_ETABA": " لبرفرانس",
+    "AdresseL": "N° 5,6,7, Hay Mimosa Ville Nou",
+    "AdresseA": "رقم 5 ،6 ، 7 ،  حي ميموزا، الم",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " SESAME GROUPE  SCOLAIRE",
+    "NOM_ETABA": "مجموعة مدارس   سيزام",
+    "AdresseL": "N° 268, Boulevard Ahmed Benche",
+    "AdresseA": "رقم 268، زنقة محمد بن شقرون، ا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ikrae 2",
+    "NOM_ETABA": "اقرأ 2",
+    "AdresseL": "33 HAY al youmn-1- b m o mekne",
+    "AdresseA": "رقم 33 حي اليمن -1- ب م ع مكنا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jil Talaia Al Ghad",
+    "NOM_ETABA": "جيل طلائع الغد",
+    "AdresseL": " N° 8 Avenue Allal El Fassi Be",
+    "AdresseA": "رقم 8 شارع علال الفاسي بلير",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BADRAT EMILE",
+    "NOM_ETABA": "بدرة إميل",
+    "AdresseL": "N° 70, Lot. Baladia Lacienda -",
+    "AdresseA": "رقم 70، تجزئة البلدية لاسيندة ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "benjamins",
+    "NOM_ETABA": "بنجمان",
+    "AdresseL": "N° 3, Rue Agadir, ville nouvel",
+    "AdresseA": "رقم 3، زنقة أكادير، المدينة ال",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "l evolution",
+    "NOM_ETABA": "النمو",
+    "AdresseL": "N° 18, Rue MBAREK BEN BOUBKER ",
+    "AdresseA": "رقم 18، زنقة امبارك بن بوبكر-ق",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EMILE LYCEE",
+    "NOM_ETABA": "إميل الثانوية",
+    "AdresseL": "N° 7, Rue Tunis, Ville Nouvell",
+    "AdresseA": "رقم 7، زنقة تونس، المدينة الجد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Flowers SCHOOL",
+    "NOM_ETABA": "فلاورز سكول",
+    "AdresseL": "N° 85, Rue El Bouihi Ahmed -  ",
+    "AdresseA": "ق.م  رقم 85، زنقة البويهي أحمد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANDALIB GHITA",
+    "NOM_ETABA": "العندليب غيثة",
+    "AdresseL": "N° 1, Villa Mabrouka Av. Abdel",
+    "AdresseA": "رقم 1، فيلا مبروكة شارع عبد ال",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Les Rossignols",
+    "NOM_ETABA": "العنادل",
+    "AdresseL": "Lotissement Al Mansour e2, Rou",
+    "AdresseA": "تجزئة المنصور e2 طريق أكوراي  ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Rachad",
+    "NOM_ETABA": "الرشاد",
+    "AdresseL": "N° 2, Derb Slaoui Ancienne Med",
+    "AdresseA": "رقم 2، درب السلاوي المدينة الق",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annajm Saghir",
+    "NOM_ETABA": "النجم الصغير",
+    "AdresseL": "N° 48, Rue Salaheddine Al Ayou",
+    "AdresseA": "لرقم 48، زنقة صلاح الدين الأيو",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Belle Vue 1",
+    "NOM_ETABA": "بيل فو 1",
+    "AdresseL": "Rue 2 N° 8Abbass Lamsaadi Bir ",
+    "AdresseA": "زنقة 2 رقم 8 عباس لمساعدي بير ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES  BOURGEONS",
+    "NOM_ETABA": "البراعيم",
+    "AdresseL": "N° 5 Rue Costantine V.N. Hamry",
+    "AdresseA": "رقم 5 زنقة القسطنطينية الحمرية",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Rihab Oum Al Kora",
+    "NOM_ETABA": "رحاب أم القرى",
+    "AdresseL": "N° 23 Boulevard Ibn Sina V.N",
+    "AdresseA": "رقم 23 شارع ابن سينا  المدينة ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Al Wafae",
+    "NOM_ETABA": "مؤسسة الوفاء",
+    "AdresseL": "N° 2 Rue DeSCArtES Hamrya",
+    "AdresseA": "رقم 2 زنقة ديكارت الحمرية",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Allam Attofola",
+    "NOM_ETABA": "مؤسسة عالم الطفولة",
+    "AdresseL": "N° 116 Lotissement Oum Rabie B",
+    "AdresseA": "رقم 116 تجزئة أم الربيع ب.م,ع,",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L Arc En Ciel",
+    "NOM_ETABA": "لارك أنسيال",
+    "AdresseL": "N° 1 Rue Mehdi Ben Toumert Cit",
+    "AdresseA": "رقم 1 زنقة مهدي بن تومرت حي ال",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Talaia Al Ghad",
+    "NOM_ETABA": "طلائع الغد",
+    "AdresseL": "Idrissia I N° 5 LHaceinda Hamr",
+    "AdresseA": "الإدريسية 1 رقم 5 لاسييندا حمر",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Notre Dame",
+    "NOM_ETABA": "سيدتنا مريم",
+    "AdresseL": "9 esplanade du dr .abdelkarim ",
+    "AdresseA": "بطحاء الدكتور عبد الكريم الخطي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Laraichi Alpha",
+    "NOM_ETABA": "العرائشي ألفا",
+    "AdresseL": "Rue Bandoeingue N° 1, V.N. Imm",
+    "AdresseA": "زنقة بندونغ رقم 1 عمارة بروطان",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L Heure Joyeuse",
+    "NOM_ETABA": "الساعة السعيدة",
+    "AdresseL": "Rue8  N°3-HAY ABBAS  LAMSAADI",
+    "AdresseA": "زنقة 8 رقم3-  حي عباس لمساعدي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nakhlat al bassatine",
+    "NOM_ETABA": "نخلة البساتين",
+    "AdresseL": "El Bassatine N° 8 Bouguraa Ham",
+    "AdresseA": "البساتين رقم 8 بوكرعة الحمرية",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AouLADOUNA 2",
+    "NOM_ETABA": "أولادنا 2",
+    "AdresseL": " Quartier des Anciens Combatta",
+    "AdresseA": "حي قدماء المحاربين 7 زنقة عبد ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Majid 2",
+    "NOM_ETABA": "ماجد 2",
+    "AdresseL": "k 9, 11 Rue Mostafa Lmaani A.N",
+    "AdresseA": "ك 9، 11 زنقة مصطفى المعاني ب.م",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ikrae 1",
+    "NOM_ETABA": "1اقرأ",
+    "AdresseL": " Lotissement Ennahda  N 1 Rue ",
+    "AdresseA": "تجزئة النهضة  رقم 1 الزنقة 1  ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES LABEL PERFORMANCEES",
+    "NOM_ETABA": "مدارس لابيل بيرفورمونس الخصوصية",
+    "AdresseL": "N° 3 Rue Sultane My Rachid Ham",
+    "AdresseA": "رقم 3 زنقة السلطان مولاي رشيد ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Khalid Ibn Al Walid",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "N° 11 Avenue Khalid Ibn El Wal",
+    "AdresseA": "رقم 11 شارع خالد بن الوليد ب.م",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Al Jail Assaid",
+    "NOM_ETABA": "مؤسسة الجيل الصاعد",
+    "AdresseL": "N° 17 Avenue Yougoslavie  Hamr",
+    "AdresseA": "رقم 17 شارع يوغسلافيا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution La Fontaine",
+    "NOM_ETABA": "مؤسسة الينبوع",
+    "AdresseL": "N° 4 Avenue Ahmed Chawki  isma",
+    "AdresseA": "رقم 4 شارع أحمد شوقي إسماعلية ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "moyen orient",
+    "NOM_ETABA": "الشرق الأوسط",
+    "AdresseL": "lot hicham rue 3 villa 14 l ha",
+    "AdresseA": "تجزئة هشام الزنقة 3 فيلا 14 لا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Donalds School",
+    "NOM_ETABA": "دونالد سكول",
+    "AdresseL": "N° 132 Avenue des F.A.R. Hamry",
+    "AdresseA": "رقم 132 شارع الجيش الملكي الحم",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution  abouabAl Mostakbal",
+    "NOM_ETABA": "مؤسسة أبواب المستقبل",
+    "AdresseL": "N° 17 Rue 5 Secteur 3 A El Bas",
+    "AdresseA": "رقم 17 زنقة 5 مجموعة 3 أ البسا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Belle Vue II",
+    "NOM_ETABA": "بيل فو 2",
+    "AdresseL": "N° 419 Rue Abbas El Mesaadi  H",
+    "AdresseA": "رقم 419 زنقة عباس المساعدي الح",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Laraichi Al Firdaouss",
+    "NOM_ETABA": "العرائشي الفردوس",
+    "AdresseL": "LA joie de vivre - Route de fè",
+    "AdresseA": "حي بهجة الحياة  الحمرية",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Aouladouna 3",
+    "NOM_ETABA": "     3 أولادنا",
+    "AdresseL": "N° 42 Ras Ighil Belle Vue vill",
+    "AdresseA": "رقم 42 رأس أغيل المنظر الجميل ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "emile 1",
+    "NOM_ETABA": "إميل 1",
+    "AdresseL": "N° 81, Avenue Ben Ghazi B.M.O.",
+    "AdresseA": "رقم 81، شارع ابن غازي ب.م.ع.  ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANBAT",
+    "NOM_ETABA": "المنبت",
+    "AdresseL": "N° 3 Rue nehru Hamrya",
+    "AdresseA": "",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Pyramid High School",
+    "NOM_ETABA": "بيراميد هاي سكول",
+    "AdresseL": "N° 132, Boulevard des F.A.R.  ",
+    "AdresseA": "رقم 132، شارع الجيش الملكي  ال",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Belle Vue 3",
+    "NOM_ETABA": "بيل فو 3",
+    "AdresseL": "Hay Abasse M Ssaadi N° 28 Rue ",
+    "AdresseA": "حي عباس المساعدي رقم 28 زنقة 1",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL AMANA TERRAB",
+    "NOM_ETABA": "مؤسسة الأمانة ",
+    "AdresseL": "N° 4 Rue 4 El Ismailia 1 Hamry",
+    "AdresseA": "رقم 4 زنقة 4 الإسماعلية 1 الحم",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "averoes",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "N° 9/10 rue melilia",
+    "AdresseA": "رقم 9/10 زنقة مليلية",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "full moon",
+    "NOM_ETABA": "فولمون",
+    "AdresseL": "Rue 2 N° 25 Ismailia 1 Hamrya",
+    "AdresseA": "زنقة 2 رقم 25 اللإسماعلية 1 ال",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Khawarizmy",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "Boulevard Allal Ben Abdellah N",
+    "AdresseA": "شارع علال بن عبد الله رقم 23 ح",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "najah el mousstamaire",
+    "NOM_ETABA": "النجاح المستمر ",
+    "AdresseL": "",
+    "AdresseA": "باب المنصور 114 كاميايا 1",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aouladi",
+    "NOM_ETABA": "أولادي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 47 كميليا 1",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "essadaka",
+    "NOM_ETABA": "الصداقة",
+    "AdresseL": "NULL",
+    "AdresseA": "48 زنقة النصر 1 طريق سيفيطا",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jnan el maarifa",
+    "NOM_ETABA": "جنان المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "304. زنقة 23 . سراميطو اسباتا ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "barraem el iman",
+    "NOM_ETABA": "براعم الإيمان",
+    "AdresseL": "NULL",
+    "AdresseA": "الزنقة 14 968 مجان 5",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "riad el amal",
+    "NOM_ETABA": "رياض الأمل",
+    "AdresseL": "NULL",
+    "AdresseA": "الزنقة 2 الرقم 29 حي الوحدة 1",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "barraem el firdaous",
+    "NOM_ETABA": "براعم الفردوس",
+    "AdresseL": "NULL",
+    "AdresseA": "الزنقة 10 الرقم 6 حي واد الذهب",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aya",
+    "NOM_ETABA": "آية",
+    "AdresseL": "NULL",
+    "AdresseA": "92 تجزئة مرجان 2 طريق اكوراي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "fadaa iqrae",
+    "NOM_ETABA": "فضاء إقرأ",
+    "AdresseL": "hay al ouahda 1 rue 30 n°16 me",
+    "AdresseA": "حي الوجدة 1 الزنقة 30 الرقم 16",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour el iman",
+    "NOM_ETABA": "نور الإيمان",
+    "AdresseL": "NULL",
+    "AdresseA": "البساتين اليم 3 عمارة هاجر 105",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les abeilles",
+    "NOM_ETABA": "لزبيى",
+    "AdresseL": "51.lot al wifaq sidi said.",
+    "AdresseA": "تجزئة الوفاق 51 سيدي سعيد",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "birds school",
+    "NOM_ETABA": "بيردز سكول",
+    "AdresseL": "RESIDENCE AL ghorfa 1 zitoune",
+    "AdresseA": "تجزئة الغرفة 1 الزيتون",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOLEIL DU PRINTEMPS",
+    "NOM_ETABA": "شمس الربيع",
+    "AdresseL": "rue 5 n° 104 hay el ouahda",
+    "AdresseA": "الزنقة 5 الرقم 104 حي الوحدة",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nada zit school",
+    "NOM_ETABA": "ندى زيت سكول",
+    "AdresseL": "EL GHORFA 2 saada AVENUE ZITOU",
+    "AdresseA": "الغرفة 2 السعادة شارع الزيتون ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement al athar",
+    "NOM_ETABA": "مؤسسة الأثر",
+    "AdresseL": "RESIDENCE NOURIA 2 LOTISSEMENT",
+    "AdresseA": " إقامة نوريا 2 تجزئة لاباتريوز",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MODERNE DE L ENSEIGNEMENT EL FATIH EL MOUSTAQBAL",
+    "NOM_ETABA": "المدرسة الحديثة للتعليم الخاص الفاتح المستقبل",
+    "AdresseL": "lot youssra bab kbich meknes",
+    "AdresseA": "تجزئة يسرى باب كبيش مكناس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "talai al ghad 3",
+    "NOM_ETABA": "طلائع الغد 3",
+    "AdresseL": "rue mustapha el maani n°14 anc",
+    "AdresseA": "زنقة مصطفى المعني رقم 14 قدماء",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT CANADIEN",
+    "NOM_ETABA": "لوبوتي كنديان",
+    "AdresseL": "NULL",
+    "AdresseA": "فيلا رقم 6 الزنقة 12 حي النصر ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el bouchra",
+    "NOM_ETABA": "البشرى",
+    "AdresseL": "NULL",
+    "AdresseA": "752 مرجان 2",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ajial el qalam",
+    "NOM_ETABA": "أجيال القلم",
+    "AdresseL": "NULL",
+    "AdresseA": "البساتين توسيع 44",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el houda",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "secteur c n°° 1183 rue 21 el b",
+    "AdresseA": "قطاع س رقم 1183 البساتين",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bouziane",
+    "NOM_ETABA": "بوزيان",
+    "AdresseL": "NULL",
+    "AdresseA": "مرجان 1 الشطر 1 الرقم 208",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR SATEAA",
+    "NOM_ETABA": "النور الساطع",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 114 ديور بادو الزيتون",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL AHD EL JADID",
+    "NOM_ETABA": "العهد الجديد",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة مرجان 2 رقم 1996",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUVEL HORIZON",
+    "NOM_ETABA": "نوفيل اريزون",
+    "AdresseL": "NULL",
+    "AdresseA": "2 س تجزئة طه",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA PERFECTION",
+    "NOM_ETABA": "مجموعة مدارس لبرفكسيون",
+    "AdresseL": "LOTISSEMENT sALMA route d Agou",
+    "AdresseA": "تجزئة سلمى طريق أكوراي ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "espace pédagogique al montalak",
+    "NOM_ETABA": "إسباس بيداغوجيك المنطلق",
+    "AdresseL": "SEJILMASSA ROUTE D AGOURAI ",
+    "AdresseA": "سجلماسة طريق أكوراي ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "herzing prepas",
+    "NOM_ETABA": "هرزينغ بريبا",
+    "AdresseL": "N ° 6 AVENUE MOHAMED V VN",
+    "AdresseA": " رقم 6 شارع محمد الخامس المدين",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire almowakaba",
+    "NOM_ETABA": "مجموعة مدارس المواكبة",
+    "AdresseL": "equipement 5 tranche a riad az",
+    "AdresseA": "تجهيز 5 الشطر أ رياض الزيتون",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manar el omma 2",
+    "NOM_ETABA": "منار الأمة 2",
+    "AdresseL": "Jnane zitoune n°9 et11 el mans",
+    "AdresseA": "رقم 9 و 11 جنان الزيتون اللمنص",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "charif nour",
+    "NOM_ETABA": "شريف نور",
+    "AdresseL": "",
+    "AdresseA": "30 صوفال اليمن ب.م.ع مكناس",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire lghazali d  enseignement",
+    "NOM_ETABA": "مجموعة مدارس الغزالي للتعليم الخصوصي",
+    "AdresseL": "NAIM 1 N° 33 MARJANE 3-4",
+    "AdresseA": "رقم 33 -1النعيم 3-4 مرجان",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAZIRAT AL BARAIM",
+    "NOM_ETABA": "جزيرة البراعم",
+    "AdresseL": "N° 7 LHOFRA EL BASATINE",
+    "AdresseA": "رقم 7 الحفرة البساتين",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FIRST PREPARATORY CLASSES OF HIGH SCHOOLS PRIVATE",
+    "NOM_ETABA": "فيرست بريباراتوري كلاس أوف هايت سكول بريفات",
+    "AdresseL": "",
+    "AdresseA": "مكناس  E3-B تجزئة رياض الزيتون",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "madarisse bawabat al ailm",
+    "NOM_ETABA": "مدارس بوابة العلم الخاصة",
+    "AdresseL": "lotissement riad ismailia part",
+    "AdresseA": "تجزئة ريلض الإسماعيلية شطر Rش ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WILLIAM THOMPSON",
+    "NOM_ETABA": "وليام طومسون الخاصة",
+    "AdresseL": "",
+    "AdresseA": "رقم 38 زنثة كيفا المدينة الجدي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SAFWAT AL MAARIFA",
+    "NOM_ETABA": "صفوة المعرفة الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النرجس 2 رقم العمارة 3",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bARAEM EL FATIH",
+    "NOM_ETABA": "براعم الفاتح",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة يسرى مرجان 1",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "M.E.F. LES FUTURISTES",
+    "NOM_ETABA": "م.أ.ف لفتوريست",
+    "AdresseL": "NULL",
+    "AdresseA": "فيلا رقم 67 مرجان",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL JISR",
+    "NOM_ETABA": "الجسر",
+    "AdresseL": "LOTISSEMENT ASSAKAN ANIK",
+    "AdresseA": "تجزئة السكن الأنيق",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "talents de mozart",
+    "NOM_ETABA": "طالون دو موزار",
+    "AdresseL": "1 RUE OMAR FAROUKI VN",
+    "AdresseA": "1 زنقة عمر الفاروقي",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAE SCHOOL",
+    "NOM_ETABA": "ألاء سكول الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة اليم الرقم 558 البساتبن",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALJABR",
+    "NOM_ETABA": "مجموعة مدارس الجبر الخاص",
+    "AdresseL": "Boulvard Saadiyine albassatine",
+    "AdresseA": "شارع السعديين البساتين ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " AL KAWTHAR",
+    "NOM_ETABA": "مؤسسة الكوثر",
+    "AdresseL": "NULL",
+    "AdresseA": "مرجان 4 مكناس ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TALAIA AL AMAL",
+    "NOM_ETABA": "طلائع الأمل",
+    "AdresseL": "NULL",
+    "AdresseA": "الشطر 7 الرقم 2220 البساتين",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BARAIM",
+    "NOM_ETABA": "البراعم",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة القسطنطينة م ح ",
+    "COMMUNE": "Meknès ",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "  C SIDI BOUMOUSSA ",
+    "NOM_ETABA": "ثإ سيدي بوموسى ",
+    "AdresseL": "centre commue sidi boumoussa",
+    "AdresseA": "مركز جماعة سيدي بوموسى",
+    "COMMUNE": "Sidi Boumoussa",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL QODS",
+    "NOM_ETABA": "م.م القدس",
+    "AdresseL": "DOUAR  AIN SADEK COMMUNE SIDI BOUMOUSSA ",
+    "AdresseA": " دوار عين صداق جماعة سيدي بوموسى دائرة أولاد تايمة",
+    "COMMUNE": "Sidi Boumoussa",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 30 JUILLET",
+    "NOM_ETABA": "30 م.م يوليوز",
+    "AdresseL": "DOUAR  LAHMADATE CSIDI BOUMOUSSA",
+    "AdresseA": "دوار الحمادات جماعة سيدي بوموسى دائرة اولاد تايمة",
+    "COMMUNE": "Sidi Boumoussa",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KHALID IBN ALWALID",
+    "NOM_ETABA": "م.م خالد بن الوليد",
+    "AdresseL": "DOUAR SIDI BOUMOUSSA CSIDI BOUMOUSSA",
+    "AdresseA": "د. سيدي بوموسى",
+    "COMMUNE": "Sidi Boumoussa",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

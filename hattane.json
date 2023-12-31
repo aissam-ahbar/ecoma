@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OTHMANE IBNOU AFFANE",
+    "NOM_ETABA": "الثانوية الاعدادية عثمان بن عفان",
+    "AdresseL": "CENTRE HATTANE MUNICIPALITE HATTANE",
+    "AdresseA": "مركز  حطان",
+    "COMMUNE": "Hattane",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU TAMMAME",
+    "NOM_ETABA": "مدرسة ابي تمام",
+    "AdresseL": "QUARTIER AL MADARIS MUNICIPALITE HATTANE",
+    "AdresseA": "حي المدارس بلدية حطان ",
+    "COMMUNE": "Hattane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSAADIYINE",
+    "NOM_ETABA": "مدرسة السعديين",
+    "AdresseL": "QUARTIER AL MADARIS MUNICIPALITE HATTANE",
+    "AdresseA": "حي المدارس -حطان",
+    "COMMUNE": "Hattane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SMARA",
+    "NOM_ETABA": "مدرسة السمارة",
+    "AdresseL": "QUARTIER AL MADARIS MUNICIPALITE HATTANE",
+    "AdresseA": "حي المدارس - حطان",
+    "COMMUNE": "Hattane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM ALI",
+    "NOM_ETABA": "الثانوية التاهيلية الامام علي",
+    "AdresseL": " HATTANE ",
+    "AdresseA": "حطان",
+    "COMMUNE": "Hattane",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ACHCHOUROUF HATTANE",
+    "NOM_ETABA": "الشروف حطان",
+    "AdresseL": "49 derb 1 hattan",
+    "AdresseA": "الرقم 49 درب 1 حطان",
+    "COMMUNE": "Hattane ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

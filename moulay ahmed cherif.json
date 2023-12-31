@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS TIZITCHINE",
+    "NOM_ETABA": "م/م تيزي تشين",
+    "AdresseL": "DOUAR TIZITCHINE COMMUNE MOULAY AHMED CHRIF",
+    "AdresseA": "دوارتيزي تشين جماعة مولاي احمد الشريف",
+    "COMMUNE": "Moulay Ahmed Cherif",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "WARG",
+    "NOM_ETABA": "وارك",
+    "AdresseL": "DOUAR WARG COMMUNE MOULAY AHMED CHRIF",
+    "AdresseA": "دواروارك جماعة مولاي احمد الشريف",
+    "COMMUNE": "Moulay Ahmed Cherif",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI TIMAN",
+    "NOM_ETABA": "بني تيمان",
+    "AdresseL": "DOUAR BNI TIMAN COMMUNE MOULAY AHMED CHRIF",
+    "AdresseA": "دواربني تيمان جماعة مولاي احمد الشريف",
+    "COMMUNE": "Moulay Ahmed Cherif",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TIZITCHINE",
+    "NOM_ETABA": "ثانوية تيزي تشين التأهيلية",
+    "AdresseL": "Commune My Ahmed Cherif Ketama",
+    "AdresseA": "جماعة مولاي علي الشريف  كتامة",
+    "COMMUNE": "Moulay Ahmed Cherif",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

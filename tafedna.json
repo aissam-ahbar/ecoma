@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S TAFADNA",
+    "NOM_ETABA": "م.م. تفضنا",
+    "AdresseL": "DOUAR TAGANT TAFEDNA",
+    "AdresseA": "دوار تكانت تفضنة",
+    "COMMUNE": "Tafedna",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S  OMAR BNO ALASSE",
+    "NOM_ETABA": "م.م. عمرو بن العاص",
+    "AdresseL": "DOUAR AIT TAMELLAL TAFEDNA",
+    "AdresseA": "دوار ايت تملال",
+    "COMMUNE": "Tafedna",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ASSAGHEN",
+    "NOM_ETABA": "م.م  اساغن",
+    "AdresseL": "DOUAR ASSAGHEN TAFEDNA",
+    "AdresseA": "دوار اساغن جماعة تفضنة",
+    "COMMUNE": "Tafedna",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

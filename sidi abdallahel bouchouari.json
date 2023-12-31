@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "C SIDI ABDALLAH EL BOUCHOUARI",
+    "NOM_ETABA": "ثإ. سيدي عبد الله البوشواري",
+    "AdresseL": "CENTRE SIDI ABdaLlah el bouchouari",
+    "AdresseA": "مركز جماعة سيدي عبد الله البوشواري",
+    "COMMUNE": "Sidi AbdallahEl Bouchouari",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL YARMOUK",
+    "NOM_ETABA": "م.م  اليرموك",
+    "AdresseL": "SOUK ELKHAMISS AIT MOUSSA",
+    "AdresseA": "مركز سوق خميس أيت موسى",
+    "COMMUNE": "Sidi AbdallahEl Bouchouari",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT IAAZA",
+    "NOM_ETABA": "م.م ايت اعزا",
+    "AdresseL": "DOUAR AIT IAAZA ",
+    "AdresseA": "دوار أيت إعزا",
+    "COMMUNE": "Sidi AbdallahEl Bouchouari",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL BOUHTORI",
+    "NOM_ETABA": "م.م  البحتري",
+    "AdresseL": "CENTRE SIDI ABDELLAH ELBOUCHOUARI ",
+    "AdresseA": "مركز سيدي عبدالله البوشواري",
+    "COMMUNE": "Sidi AbdallahEl Bouchouari",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBNO  ROCHD",
+    "NOM_ETABA": "م.م  ابن رشد",
+    "AdresseL": "DOUAR AIT SLIMANE IGUI IFARD",
+    "AdresseA": "إكي إفرض دوار أيت سليمان",
+    "COMMUNE": "Sidi AbdallahEl Bouchouari",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MEKTAR",
+    "NOM_ETABA": "م.م مكتار",
+    "AdresseL": "DOUAR MEKTAR ",
+    "AdresseA": "دوار مكتار",
+    "COMMUNE": "Sidi AbdallahEl Bouchouari",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

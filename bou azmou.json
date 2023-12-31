@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE NAJAH ",
+    "NOM_ETABA": "ثانوية النجاح الإعدادية ",
+    "AdresseL": "BOUZMOU",
+    "AdresseA": "بوزمو",
+    "COMMUNE": "Bou Azmou",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " S/S ASSIF MALLOUL",
+    "NOM_ETABA": "م/م اسيف ملول",
+    "AdresseL": "KSAR BOUAZMOU IMILCHIL",
+    "AdresseA": "قصر بوزمو املشيل",
+    "COMMUNE": "Bou Azmou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ALI OUIKOU",
+    "NOM_ETABA": "ايت علي اويكو",
+    "AdresseL": "KSAR AIT ALI OUIKOU BOUAZMOU IMILCHIL",
+    "AdresseA": "قصر ايت علي اويكو،جماعة  بوزمو",
+    "COMMUNE": "Bou Azmou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGDALE",
+    "NOM_ETABA": "اكدال",
+    "AdresseL": "KSAR AGDAL BOUAZMOU IMILCHIL",
+    "AdresseA": "قصر اكدال بوزمو املشيل",
+    "COMMUNE": "Bou Azmou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALEMGHOU",
+    "NOM_ETABA": "المغو",
+    "AdresseL": "KSAR ALEMGHOU BOUAZMOU IMILCHIL",
+    "AdresseA": "قصر المغو بوزمو املشيل",
+    "COMMUNE": "Bou Azmou",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

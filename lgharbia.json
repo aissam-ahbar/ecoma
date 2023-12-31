@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "ABDELKALEK TORES",
+    "NOM_ETABA": "عبد الخالق الطريس",
+    "AdresseL": "TNINE GHARBIA COMMUNE GHARBIA",
+    "AdresseA": "اتنين الغربية",
+    "COMMUNE": "Lgharbia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "TNINE GHARBIA COMMUNE GHARBIA",
+    "AdresseA": "اتنين الغربية",
+    "COMMUNE": "Lgharbia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIOURE",
+    "NOM_ETABA": "الطيور",
+    "AdresseL": "DOUAR TIOUR COMMUNE GHARBIA",
+    "AdresseA": "دوارالطيور",
+    "COMMUNE": "Lgharbia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEN YEFFOU",
+    "NOM_ETABA": "بن يفو",
+    "AdresseL": "DOUAR LAASSAASSA COMMUNE GHARBIA",
+    "AdresseA": "دوار لعساعسةجماعة الغربية",
+    "COMMUNE": "Lgharbia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ALIANE",
+    "NOM_ETABA": "اولاد عليان",
+    "AdresseL": "DOUAR OULED AALIANE COMMUNE LGHARBIA",
+    "AdresseA": "دوار اولاد عليان جماعة الغربية",
+    "COMMUNE": "Lgharbia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZROG",
+    "NOM_ETABA": "زرك",
+    "AdresseL": "DOUAR ZROG COMMUNE GHARBIA",
+    "AdresseA": "دوار زرك",
+    "COMMUNE": "Lgharbia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBN ARABI",
+    "NOM_ETABA": "ثانوية ابن عربي التأهيلية ",
+    "AdresseL": "CENTRE TNINE GHARBIA  ",
+    "AdresseA": "اثنين الغربية",
+    "COMMUNE": "Lgharbia",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

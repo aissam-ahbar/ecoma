@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "CENTRE DE OURIKA  COMMUNE OURIKA",
+    "AdresseA": "مركز اوريكة جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDEL AZIZ BEN IDRISS",
+    "NOM_ETABA": "مدرسة عبد العزيز بن ادريس",
+    "AdresseL": "DOUAR TAKATARTE COMMUNE OURIKA",
+    "AdresseA": "دوار تكترت جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOURABITINE",
+    "NOM_ETABA": "مدرسة المرابطين",
+    "AdresseL": "DOUAR TIMSKRINE COMMUNE OURIKA",
+    "AdresseA": "دوار تمسكرين جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SBITI",
+    "NOM_ETABA": "الصبيطي",
+    "AdresseL": "DOUAR SBITI COMMUNE OURIKA",
+    "AdresseA": "دوار الصبيطي جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAFZA",
+    "NOM_ETABA": "تافزا",
+    "AdresseL": "DOUAR TAFZA COMMUNE OURIKA",
+    "AdresseA": "دوار تافزا جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASGUINE",
+    "NOM_ETABA": "اسكين",
+    "AdresseL": "DOUAR ASGUINE COMMUNE OURIKA",
+    "AdresseA": "دوار اسكين جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKHMISS",
+    "NOM_ETABA": "الخميس",
+    "AdresseL": "DOUAR LAKHMISSE COMMUNE OURIKA",
+    "AdresseA": "دوار الخميس جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAOOUTE",
+    "NOM_ETABA": "ماووت",
+    "AdresseL": "DOUAR agalmous COMMUNE OURIKA",
+    "AdresseA": "دوار اكلموس جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMAKHLIJ",
+    "NOM_ETABA": "امخليج",
+    "AdresseL": "DOUAR AMEKHLIJ COMMUNE OURIKA",
+    "AdresseA": "دوار امخليج جماعة اوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSADAKA",
+    "NOM_ETABA": "الصداقة",
+    "AdresseL": "DOUAR BOUTBIRA COMMUNE OURIKA",
+    "AdresseA": "دوار بوتبيرة جماعة أوريكة",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALMOUKHTAR SOUSSI ",
+    "NOM_ETABA": "الثانوية التأهيلية المختار السوسي",
+    "AdresseL": "LYCEE QUALIFIANT ALMOUKHTAR SOUSSI COMMUNE OURIKA",
+    "AdresseA": "الثانوية التأهيلية المختار السوسيي جماعة اوريكة ",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire tousna",
+    "NOM_ETABA": "مجموعة مدارس توسنا",
+    "AdresseL": "35KM, lieu dit darte ourika pr",
+    "AdresseA": "جماعة أوريكة، إقليم الحوز، الم",
+    "COMMUNE": "Ourika",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

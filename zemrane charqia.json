@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL ZEMRANE CHARKIA",
+    "NOM_ETABA": "ثانوية  زمران الشرقية الاعدادية",
+    "AdresseL": "OuleD NACER ZAMRANE CHARKIA",
+    "AdresseA": "جماعة زمران الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD MESBAH CENTRE",
+    "NOM_ETABA": "اولاد مصباح المركزية",
+    "AdresseL": "DOUAR OULED HACHED COMMUNE ZEMRENE CHERQUIA",
+    "AdresseA": "دوار اولاد حشاد جماعة زمران الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD GAID CENTRE",
+    "NOM_ETABA": "اولاد كايد المركزية",
+    "AdresseL": "DOUAR CHTAOUNA  COMMUNE ZEMRANE ECHARQUIYA",
+    "AdresseA": "دوار شتاونة جماعة زمران الشرقية ",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD RGUIAA CENTRE",
+    "NOM_ETABA": "اولاد ركيعة المركزية",
+    "AdresseL": "DOUAR OULED RGUIAA ZEMRENE CHERQUIA",
+    "AdresseA": "دوار اولاد ركيعة جماعة زمران الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED MAAZOUZ CENTRE",
+    "NOM_ETABA": " اولاد معزوز المركزية",
+    "AdresseL": "DOUAR OULED MAAZOUZ ZEMRENE CHERQUIA",
+    "AdresseA": "دوار اولاد معزوز جماعة زمران الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL ARABATE CENTRE",
+    "NOM_ETABA": "العربات المركزية",
+    "AdresseL": "DOUAR EL ARABATE COMMUNE ZEMRENE CHARQUIA",
+    "AdresseA": "     دوار العربات جماعة زمران  الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI EL ARBI CENTRE",
+    "NOM_ETABA": "سيدي العربي المركزية",
+    "AdresseL": "DOUAR SIDI LARBI COMMUNE ZEMREZNE",
+    "AdresseA": " دوار سيدي العربي جماعة زمران الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MANSOUR CENTRE",
+    "NOM_ETABA": "اولاد منصور المركزية",
+    "AdresseL": "OULED MANSOUR COMMUNE ZEMRANE CHERQUIA",
+    "AdresseA": "اولاد منصور جماعة زمران الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD NACER ZEMRANE CHARQUIA CENTRE",
+    "NOM_ETABA": "مركزية اولاد ناصر - زمران الشرقية ",
+    "AdresseL": "DOUAR OULED NACER COMMUNE ZAMRANE",
+    "AdresseA": "دوار اولاد ناصر جماعة زمران الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL KHAWARIZMI",
+    "NOM_ETABA": "ثانوية الخوارزمي التأهيلية",
+    "AdresseL": "Commune Zemrane charquia",
+    "AdresseA": "جماعة زمران الشرقية",
+    "COMMUNE": "Zemrane Charqia",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

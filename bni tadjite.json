@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "MOULAY ALI BEL ABED",
+    "NOM_ETABA": "مولاي علي بن العابد",
+    "AdresseL": "CENTRE DE BNITADJITE",
+    "AdresseA": "مركز بني تاجيت",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNO TOFAIL",
+    "NOM_ETABA": "ابن طفيل",
+    "AdresseL": "CENTRE BNI TAJITE",
+    "AdresseA": "مركز بني تجيت",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EDDAKHLA",
+    "NOM_ETABA": "الداخلة",
+    "AdresseL": "CENTRE DE BNITADJITE",
+    "AdresseA": "مركز بني تجيت",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "UNESCO",
+    "NOM_ETABA": "اليونسكو",
+    "AdresseL": "CENTRE DE BNI TADJITE",
+    "AdresseA": "مركز بني تاجيت",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR ANZARANE",
+    "NOM_ETABA": "بئر أنزران",
+    "AdresseL": "KSAR BNITADJITE",
+    "AdresseA": "قصر بني تاجيت",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ATLAS",
+    "NOM_ETABA": "الأطلس",
+    "AdresseL": "KSAR SBAIK",
+    "AdresseA": "قصر السبايك",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAMOU YACHOU",
+    "NOM_ETABA": "حمو يشو",
+    "AdresseL": "KSAR BNIBASSIA",
+    "AdresseA": "قصر بني باصيا",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUHA AZOUGAGH",
+    "NOM_ETABA": "موحى أزكاغ",
+    "AdresseL": "KSAR AIT OUZAG",
+    "AdresseA": "قصر آيت وزاك",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM MALIK",
+    "NOM_ETABA": "الإمام مالك",
+    "AdresseL": "KSAR AIT AHMAD OU HADDOU",
+    "AdresseA": "قصر آيت احمد أو حدو",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKR ESSEDIK",
+    "NOM_ETABA": "ابو بكر الصديق",
+    "AdresseL": "CENTRE BNI TAJITE",
+    "AdresseA": "مركز بني تجيت",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU EL BANAA EL MORRAKOCHI",
+    "NOM_ETABA": "ابن البناء المراكشي",
+    "AdresseL": "CENTRE DE BNI TADJITE  BP 27",
+    "AdresseA": "مركز بني تاجيت ص,ب 27",
+    "COMMUNE": "Bni Tadjite",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

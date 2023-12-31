@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL SIDI ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية سيـــدي عــبــدالـــله",
+    "AdresseL": "Centre Sidi Abdellah",
+    "AdresseA": "مركز جماعة سيدي عبدالله",
+    "COMMUNE": "Sidi Abdallah",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DAR EL OUASTI CENTRE",
+    "NOM_ETABA": "دار الواسطي المركزية",
+    "AdresseL": "DOUAR OULED SIDI ABDELLAH COMMUNE SIDI ABDELLAH",
+    "AdresseA": "دوار اولاد سيدي عبد الله",
+    "COMMUNE": "Sidi Abdallah",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ABDELLAH CENTRE",
+    "NOM_ETABA": "سيدي عبد الله المركزية",
+    "AdresseL": "DOUAR SIDI ABDELLAH COMMUNE SIDI ABDELLAH",
+    "AdresseA": "دوار سيدي عبد الله",
+    "COMMUNE": "Sidi Abdallah",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD KHLIFA JHAIFA CENTRE",
+    "NOM_ETABA": "اولاد خليفة جحيفة المركزية",
+    "AdresseL": "DOUAR OULAD KHLIFA COMMUNE SIDI ABDELLAH",
+    "AdresseA": "دوار  اولاد خليفة جحيفة",
+    "COMMUNE": "Sidi Abdallah",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZZAOUIA EL MOUJIBIA CENTRE",
+    "NOM_ETABA": "الزاوية الموجيبية المركزية",
+    "AdresseL": "DOUAR EZZAOUIA COMMUNE SIDI ABDELLAH",
+    "AdresseA": "دوار الزاوية ",
+    "COMMUNE": "Sidi Abdallah",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

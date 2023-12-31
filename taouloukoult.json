@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN II",
+    "NOM_ETABA": "الثانوية الإعدادية الحسن الثاني",
+    "AdresseL": " CENTRE TAOULOKOLT CHICHAOUA",
+    "AdresseA": "  مركز جماعة تاولوكلت ، شيشاوة ",
+    "COMMUNE": "Taouloukoult",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TAOULOUKOULT",
+    "NOM_ETABA": "تولوكولت",
+    "AdresseL": "CENTRE  TAOULOUKOULT COMMUNE TAOULOUKOULT",
+    "AdresseA": "مركز جماعة تولوكولت",
+    "COMMUNE": "Taouloukoult",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUAMSA",
+    "NOM_ETABA": "بوامسا",
+    "AdresseL": "DOUAR BOUAMSA COMMUNE TAOULOUKOULT",
+    "AdresseA": "دوار بوامسا",
+    "COMMUNE": "Taouloukoult",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGNI CENTRE",
+    "NOM_ETABA": " أكني المركزية",
+    "AdresseL": "DOUAR AGNI COMMUNE TAOULOUKOULT",
+    "AdresseA": "دوار  أكني",
+    "COMMUNE": "Taouloukoult",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGNI AHNDIR",
+    "NOM_ETABA": "أكني أحندير",
+    "AdresseL": "DOUAR AGNI AHNDIR COMMUNE TAOULOUKOULT",
+    "AdresseA": "دوار أكني أحندير",
+    "COMMUNE": "Taouloukoult",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAOULOUKOULT",
+    "NOM_ETABA": "الثانوية التأهيلية تاولوكولت",
+    "AdresseL": "taouloukoult",
+    "AdresseA": "تاولوكولت",
+    "COMMUNE": "Taouloukoult",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OUKBA BNOU NAFEE CENTRE",
+    "NOM_ETABA": "عقبة بن نافع المركزية",
+    "AdresseL": "DOUAR OULAD LABYAD COMMUNE EL AAMRIA",
+    "AdresseA": "دوار اولاد لبيض",
+    "COMMUNE": "El Aamria",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "REGRAGA CENTRE",
+    "NOM_ETABA": "رجراجة المركزية",
+    "AdresseL": "DOUAR REGRAGA COMMUNE EL AMRIA KELAA DES SRAGHNA",
+    "AdresseA": "دوار رجراجة جماعة العامرية قلعة السراغنة",
+    "COMMUNE": "El Aamria",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT EL AMRIA",
+    "NOM_ETABA": "ثانوية العامرية التأهيلية",
+    "AdresseL": "COMMUNE EL AMRIA",
+    "AdresseA": "جماعة العامرية",
+    "COMMUNE": "El Aamria",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

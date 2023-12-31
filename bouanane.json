@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "ABI INANE",
+    "NOM_ETABA": "أبي عنان",
+    "AdresseL": "AVENUE FORCE ARMEE ROYAL",
+    "AdresseA": "شارع الجيش الملكي",
+    "COMMUNE": "Bouanane",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "المسيرة الخضراء",
+    "AdresseL": "SAHAT AL MASSIRA  AL KHADRA",
+    "AdresseA": "ساحة المسيرة الخضراء",
+    "COMMUNE": "Bouanane",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZIRI BNOU ATTIA",
+    "NOM_ETABA": "زيري بن عطية",
+    "AdresseL": "KSAR BOUANANE",
+    "AdresseA": "قصر بوعنان",
+    "COMMUNE": "Bouanane",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUTAYEB",
+    "NOM_ETABA": "سيدي بوطيب",
+    "AdresseL": "KSAR AMBAJ         COMMUNE DE BOUANANE",
+    "AdresseA": "قصر امباج",
+    "COMMUNE": "Bouanane",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOUVEAU LYCEE QUALIFIANT",
+    "NOM_ETABA": "الثانوية التأهيلية الجديدة",
+    "AdresseL": "bouanane",
+    "AdresseA": "بوعنان",
+    "COMMUNE": "Bouanane",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "NOM_ETABL": "OUED EDDAHAB",
+    "NOM_ETABA": "وادي الدهب",
+    "AdresseL": "LOTISSEMENT ELBORJ ESSAOUIRA",
+    "AdresseA": "تجزئة البرج الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MOHAMMED VI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد السادس",
+    "AdresseL": "RUE FES ESSAOUIRA",
+    "AdresseA": "شارع فاس",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "NOUVEAU COLLEGE",
+    "NOM_ETABA": "الثانوية الإعدادية الجديدة",
+    "AdresseL": "BOULEVARD DE L HOPITAL ESSAOUIRA",
+    "AdresseA": "شارع المستشفى",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLREGE AABDARI",
+    "NOM_ETABA": " الثانوية الإعدادية العبدري",
+    "AdresseL": " avenue almokhtar assoussi LOTISSEMENT 5",
+    "AdresseA": "شارع المختار السوسي التجزئة الخامسة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MOULAY ABDELLAH",
+    "NOM_ETABA": "اعدادية مولاي عبد الله",
+    "AdresseL": "ESSAOUIRA ALJADIDA GHAZOUA",
+    "AdresseA": "الصويرة الجديدة، الغزوة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN KHALDOUN",
+    "NOM_ETABA": "مدرسة ابن خلدون",
+    "AdresseL": "RUE IBN KHALDOUN ESSAOUIRA",
+    "AdresseA": "زنقة ابن خلدون الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA AMINA 2",
+    "NOM_ETABA": "مدرسة للا أمينة 2",
+    "AdresseL": "HAY LALLA AMINA RUE RABAT ESSAOUIRA",
+    "AdresseA": "حي للا أمينة 2 شارع الرباط",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA AMINA 1",
+    "NOM_ETABA": " مدرسة للا أمينة1",
+    "AdresseL": "HAY LALLA AMINA ESSAOUIRA",
+    "AdresseA": "حي للا أمينة 1 الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TILAL",
+    "NOM_ETABA": "مدرسة التلال",
+    "AdresseL": "BOULEVARD ELAAKABA N 34 ESSAOUIRA",
+    "AdresseA": "شارع العقبة الصويرة  الرقم  34 الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HASANIA 1",
+    "NOM_ETABA": "مدرسة الحسنية 1",
+    "AdresseL": "BOULEVAD ELAKOUASS ESSAOUIRA",
+    "AdresseA": "شارع الأقواس الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR DHAB",
+    "NOM_ETABA": "دار الدهب",
+    "AdresseL": "RUE DAR DHAB ESSAOUIRA",
+    "AdresseA": "زنقة دار الدهب",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL BOUHAYRA",
+    "NOM_ETABA": " مدرسة البحيرة",
+    "AdresseL": "LOTISSEMENT 5 ESSAOUIRA",
+    "AdresseA": "التجزئة 5 الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL OUYONE",
+    "NOM_ETABA": "م.م. العيون",
+    "AdresseL": "ELGHAZOUA ESSAOUIRA",
+    "AdresseA": "الغزوة الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S MOHAMED EZZARKTOUNI",
+    "NOM_ETABA": "      م.م. محمد الزرقطوني",
+    "AdresseL": "DOUAR LAARAB ESSAOUIRA",
+    "AdresseA": "دوار العرب الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSAKALA",
+    "NOM_ETABA": "مدرسة الصقالة",
+    "AdresseL": "ESSAKALA ESSAOUIRA",
+    "AdresseA": "الصقالة الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL KHANSSA",
+    "NOM_ETABA": "مدرسة الخنساء",
+    "AdresseL": "nouvelle essaouira essaouira",
+    "AdresseA": "الصويرة الجديدة الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI DAR ELGHAFFARI",
+    "NOM_ETABA": "أبي ذر الغفاري",
+    "AdresseL": "LOT ELBORJ",
+    "AdresseA": "تجزئة البرج",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI MOHAMMED BNOU ABDELLAH",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي محمد بن عبدالله",
+    "AdresseL": "LOTISSEMENT ELBORJ ESSAOUIRA",
+    "AdresseA": "حي البرج 1 الصويرة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED V",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "BOULEVARD EL AQABA ",
+    "AdresseA": "شارع العقبة  ",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AKENSOUS",
+    "NOM_ETABA": " الثانوية التأهيلية أكنسوس",
+    "AdresseL": "BOULEVARD ELAKOUASS ESSAOUIRA",
+    "AdresseA": "شارع للا عائشة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT NAWRAS MOGADOR   ",
+    "NOM_ETABA": "الثانوية التأهيلية نورس موكادور",
+    "AdresseL": "avenu haj mohamed barzi LOTISSEMENT tafoukt",
+    "AdresseA": " شارع الحاج محمد بارزي تجزئة تفوكت ",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL FATH",
+    "NOM_ETABA": "الثانوية التأهيلية الفتح",
+    "AdresseL": "Essaouira Al jadida Lghazwa",
+    "AdresseA": "الصويرة الجديدة الغزوة",
+    "COMMUNE": "Essaouira",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "annour 2",
+    "NOM_ETABA": "النور 2",
+    "AdresseL": "hay lala amina bloc3 n°12",
+    "AdresseA": "حي لالة أمينة بلوك 3 الرقم 12",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el boudor",
+    "NOM_ETABA": "البذور",
+    "AdresseL": "LOT.5 BD ELKOUTOBIA 3.01 ",
+    "AdresseA": "التزئة 5 شارع الكتبية رقم 3.01",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el maarifa",
+    "NOM_ETABA": "المعرفة",
+    "AdresseL": "RUE ICHEBILIA LOT.BAB DOKKALA ",
+    "AdresseA": "زنقة لإشبيلية حي باب دكالة الص",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manar almaarifa",
+    "NOM_ETABA": "منار المعرفة",
+    "AdresseL": " 80 la lagune 4eme tranche Ess",
+    "AdresseA": "البحيرة الشطر الرابع    80",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALIF LAM",
+    "NOM_ETABA": "ألف لام",
+    "AdresseL": "544 lot azlef",
+    "AdresseA": "تجزئة أزلف 544",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al aouail",
+    "NOM_ETABA": "الأوائل",
+    "AdresseL": "LOT.AL AMAL BLOC H N 1",
+    "AdresseA": "التجزئة الامل  بلوك ه   رقم 1 ",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL fadilla",
+    "NOM_ETABA": "الفضيلة",
+    "AdresseL": "NULL",
+    "AdresseA": "الصويرة",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "hiba",
+    "NOM_ETABA": "هبة",
+    "AdresseL": "lot el bouhaira tr.4 n 406",
+    "AdresseA": "تجزئة البحيرة الشطر 4 رقم 406",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HIKMA",
+    "NOM_ETABA": "الحكمة",
+    "AdresseL": "24 lot taghzout essaoujira alj",
+    "AdresseA": "الصويرة",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AHLAM EL KATAKIT",
+    "NOM_ETABA": "أحلام الكتاكيت",
+    "AdresseL": "essaouira",
+    "AdresseA": "الصويرة",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "asma",
+    "NOM_ETABA": "أسماء",
+    "AdresseL": "369 TAFOUKET",
+    "AdresseA": "396 تافوكت",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aouaile elghazoua",
+    "NOM_ETABA": "أوائل الغزوة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النسيم 02 c56 الصويرة ال",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Freinet",
+    "NOM_ETABA": "فريني",
+    "AdresseL": "248 lot errawnaq ",
+    "AdresseA": "248 تجزئة الرونق",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Arrahma",
+    "NOM_ETABA": "مؤسسة الرحمة للتعليم الأولي والابتدائي",
+    "AdresseL": "N 402 2ème etage la-lagune 4èm",
+    "AdresseA": "رقم 402 الطابق الثاني شارع الج",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aljil aljadid",
+    "NOM_ETABA": "الجيل الجديد للتعليم المدرسي الخصوصي",
+    "AdresseL": "401 LA LAGUNE 4 EME TRANCHE ES",
+    "AdresseA": "تجزئة البحيرة الشطر 4 رقم 401",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ADKIAH",
+    "NOM_ETABA": "الأذكياء",
+    "AdresseL": "avenue allal fassi n°111 bouha",
+    "AdresseA": "شارع علال الفاسي رقم 111 تجزئة",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OFOQ ",
+    "NOM_ETABA": "الأفق",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 756 تجزئة البحيرة",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARC EN CIEL",
+    "NOM_ETABA": "قوس قزح",
+    "AdresseL": "N° 523 villa mogador tafoukt",
+    "AdresseA": "رقم 526 فيلا موكادور تافوكت",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al aydi assaghira",
+    "NOM_ETABA": "الأيدي الصغيرة",
+    "AdresseL": "Lot al menzar1 N°188 el ghazou",
+    "AdresseA": "تجزئة المنزه1 رقم 188 الغزوة",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al imane",
+    "NOM_ETABA": "الإيمان",
+    "AdresseL": "N° 202 lot al bouhayra",
+    "AdresseA": "رقم 202 تجزئة البحيرة",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Alyaa",
+    "NOM_ETABA": "علياء",
+    "AdresseL": "lot la lagune tranche 4 n°303",
+    "AdresseA": "تجزئة  البحيرة الشطر الرابع رق",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "LOT lagune 4eme tranche rue al",
+    "AdresseA": " نجزئة البحيرة الشطر الرابع زن",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE AL ANDALIB",
+    "NOM_ETABA": "ملحقة العندليب",
+    "AdresseL": "23 bd Abdel karim el khatabi l",
+    "AdresseA": " شارع عبد الكريم الخطابي رقم 2",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRAWNAQ",
+    "NOM_ETABA": "الرونق",
+    "AdresseL": "ERRAOUNAK",
+    "AdresseA": "الرونق",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARGANIERS",
+    "NOM_ETABA": "الأركان",
+    "AdresseL": "334 quartier Erraounak",
+    "AdresseA": "حي الرونق رقم 334",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire sindibad al bahri",
+    "NOM_ETABA": "مجموعة مدارس سندباد البحري",
+    "AdresseL": "Lot Elbouhayra B 9 ",
+    "AdresseA": "تجزئة البحيرة 9 ب ",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Abdellah ben masaoud",
+    "NOM_ETABA": "عبد الله بن مسعود",
+    "AdresseL": "rue my rachid hay tilal",
+    "AdresseA": "زنقة مولاي رشيد حي التلال",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL HAFID",
+    "NOM_ETABA": "مجموعة مدارس الحافظ",
+    "AdresseL": "N° 617, Av. Al Aqaba, Lot. Bor",
+    "AdresseA": "رقم 617، شارع العقبة، تجزئة ال",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la belle marguerite",
+    "NOM_ETABA": "مؤسسة لابيل مارغريت للتعليم الخصوصي",
+    "AdresseL": "51 Cité Tilal",
+    "AdresseA": "51 حي التلال",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Andalib",
+    "NOM_ETABA": "العندليب",
+    "AdresseL": "N° 78, Rue Bouchaib Doukali- E",
+    "AdresseA": "رقم 78، زنقة بوشعيب الدكالي - ",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oued eddahab mogador",
+    "NOM_ETABA": "واد الذهب موكادور",
+    "AdresseL": "N° 111 lot azelf",
+    "AdresseA": "رقم 111 تجزئة أزلف",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TOYOUR EL JANNA",
+    "NOM_ETABA": "طيور الجنة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 6 تجزئة المنزه1",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAFOUKT",
+    "NOM_ETABA": "تافوكت",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 528 تجزئة تافوكت",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ibtissama",
+    "NOM_ETABA": "الابتسامة للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 461 تجزئة تافوكت",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ALSSONE",
+    "NOM_ETABA": "مؤسسة الألسن للتعليم المدرسي الخصوصي",
+    "AdresseL": "532 borj 1 rue errachidia",
+    "AdresseA": "رقم 532 البرج 1 زنقة الراشيدية",
+    "COMMUNE": "Essaouira ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

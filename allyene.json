@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKHALEK TORRES",
+    "NOM_ETABA": " ثانوية عبد الخالق الطريس الإعدادية",
+    "AdresseL": "Douar Frasou",
+    "AdresseA": "دوار فراسو",
+    "COMMUNE": "Allyene",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL ELLIYENNE",
+    "NOM_ETABA": "العليين",
+    "AdresseL": "CENTRE COMMUNE ELLIYENE M dieq TETOUAN",
+    "AdresseA": "مركز جماعة العليين",
+    "COMMUNE": "Allyene",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL KOUF",
+    "NOM_ETABA": "م.م الكوف",
+    "AdresseL": "DOUAR AL KOUF AL FOUKI CALLYENE  TETOUAN",
+    "AdresseA": "دوار الكوف الفوقي العليين",
+    "COMMUNE": "Allyene",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BOULOUAZEN",
+    "NOM_ETABA": "م.م بولوازن",
+    "AdresseL": "DOUAR BOULOUZEN  CALLYENE",
+    "AdresseA": "دوار بولوازن جماعة العليين",
+    "COMMUNE": "Allyene",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KEDDANA",
+    "NOM_ETABA": "م.م كدانة",
+    "AdresseL": "DOUAR KEDDANA C ILLIYINE ",
+    "AdresseA": "دوار كدانة جماعة العليين",
+    "COMMUNE": "Allyene",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN LIN",
+    "NOM_ETABA": "م.م عين لين",
+    "AdresseL": " DOUAR AIN LINE COMMUNE rURALE  AL ILLYENE",
+    "AdresseA": "دوار عين لين جماعة العليين",
+    "COMMUNE": "Allyene",
+    "PROVINCE": "M'Diq-Fnideq",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

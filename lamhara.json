@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS LAMHARA",
+    "NOM_ETABA": "م.م المهارة",
+    "AdresseL": "DOUAR   TASSOUKTE C LAMHARA",
+    "AdresseA": "د. تسوقت",
+    "COMMUNE": "Lamhara",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT LEHCEN OU BRAHIM",
+    "NOM_ETABA": "م.م ايت الحسن اوبراهيم",
+    "AdresseL": "DOUAR   ZAOUIT AIT LEHCEN OU BRAHIM C LAMHARA",
+    "AdresseA": "دوار زاوية ايت الحسن اوبراهيم جماعة المهارة",
+    "COMMUNE": "Lamhara",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LAMHARA LOULIJA",
+    "NOM_ETABA": "الثانوية التأهيلية المهارة لوليجة",
+    "AdresseL": "lamhara asidi abdallah ou moussa",
+    "AdresseA": "المهارة قيادة سيدي عبد الله اموسى",
+    "COMMUNE": "Lamhara",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ZAYTOUNE",
+    "NOM_ETABA": "الزيتون",
+    "AdresseL": "centre lamhara",
+    "AdresseA": "مركز لمهارة",
+    "COMMUNE": "Lamhara",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

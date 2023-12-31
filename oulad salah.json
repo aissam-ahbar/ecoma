@@ -1,0 +1,222 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANNASR",
+    "NOM_ETABA": "الثانوية الإعدادية النصر",
+    "AdresseL": "LOTISSEMENT ANNASR",
+    "AdresseA": "تجزئة النصر",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUJDOUR",
+    "NOM_ETABA": "الثانوية الإعدادية بوجدور",
+    "AdresseL": "VILLE ENNASR VICTORIA",
+    "AdresseA": "مدينة النصر فكتوريا",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "VILLE ENNASR",
+    "AdresseA": "مدينة النصر",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ECHAHID AHMED BEN MOHAMMED ERRACHD",
+    "NOM_ETABA": "الثانوية الإعدادية الشهيد أحمد بن محمد الراشدي",
+    "AdresseL": "COMMUNE OULED SALEH",
+    "AdresseA": "جماعة اولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ELMAHDI ELMANJRA",
+    "NOM_ETABA": "م. المهدي المنجرة",
+    "AdresseL": "DOUAR ABDSLAMYINELAHCEINAT COMMUNE OULAD SALAH",
+    "AdresseA": "دوارالعبدسلاميين لحسينات  اولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR SAHRAOUI ",
+    "NOM_ETABA": "م.م دار الصحراوي ",
+    "AdresseL": "DOUAR LEHOUAOURA COMMUNE OULAD SALAH",
+    "AdresseA": "دوار الهواورة اولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR DMANA",
+    "NOM_ETABA": "م.م دار الضمانة",
+    "AdresseL": "DOUAR OULAD SLIMANE COMMUNE OULAD SALAH",
+    "AdresseA": "دوار اولاد سليمان اولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ELJOUABER",
+    "NOM_ETABA": "م. الجوابر",
+    "AdresseL": "DOUAR EJOUABER COMMUNE OULAD SALAH  nouaceur",
+    "AdresseA": "دوار الجوابرة جماعة أولاد صالح اقليم النواصر",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU AL AAMID",
+    "NOM_ETABA": "م. ابن العميد",
+    "AdresseL": "DOUAR LAKROUTA COMMUNE OULAD SALAH     NOUACEUR",
+    "AdresseA": "دوار لكروطة جماعة أولاد صالح اقليم النواصر",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ALACHAARI",
+    "NOM_ETABA": "م. الأشعري",
+    "AdresseL": "DOUAR OULAD ALI BEN BRAHIM COMMUNE OULAD SALAH",
+    "AdresseA": "دوار اولاد علي بن ابراهيم",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E LEAMAMRA",
+    "NOM_ETABA": "م. العمامرة",
+    "AdresseL": "douar lQraqra ouled salah",
+    "AdresseA": "دوار لقراقرة  اولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E SALAH EDDINE ALAYOUBI",
+    "NOM_ETABA": "م. صلاح الدين الأيوبي",
+    "AdresseL": "Douar sahel ouled saleh ",
+    "AdresseA": "دوار الساحل اولاد صالح ",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNOU TOUMARTE",
+    "NOM_ETABA": "م. ابن تومرت",
+    "AdresseL": "oulad Saleh",
+    "AdresseA": "اولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IDRISS LAHRIZI",
+    "NOM_ETABA": "م. ادريس لحريزي",
+    "AdresseL": "oulad saleh",
+    "AdresseA": "اولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL BOUHTOURI",
+    "NOM_ETABA": "م. البحتري",
+    "AdresseL": "VICTORIA OUELAD SALAH ",
+    "AdresseA": "مشروع النصر أولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDERRAHIM BOUABID",
+    "NOM_ETABA": "م. عبد الرحيم بوعبيد",
+    "AdresseL": "VILLE ENNASR",
+    "AdresseA": "مدينة النصر",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL FARABI",
+    "NOM_ETABA": "الثانوية التأهيلية الفارابي",
+    "AdresseL": "LYCEE AL FARABI VICTORIA NOUACEUR CASABLANCA",
+    "AdresseA": "مدينة النصر فيكتوريا اولاد صالح",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OULED SALAH",
+    "NOM_ETABA": "الثانوية التأهيلية اولاد صالح",
+    "AdresseL": "ouled salah centre",
+    "AdresseA": "اولاد صالح المركز",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MAYSSANE",
+    "NOM_ETABA": "ميسان",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة ميسان رقم 737 و 739 أولا",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la morale",
+    "NOM_ETABA": "لامورال",
+    "AdresseL": "NULL",
+    "AdresseA": "المنطقة الصناعية اولاد صالح رق",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELBILIA SCOLAR MAYSSANE",
+    "NOM_ETABA": "إيلبيليا سكولار ميسان الخصوصية",
+    "AdresseL": "LOT MAYSSANE COMMUNE OULED SAL",
+    "AdresseA": "تجزئة ميسان جماعة أولاد صالح ",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire Malki",
+    "NOM_ETABA": "مؤسسة مالكي الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة النور رقم 27 اولاد صالح ",
+    "COMMUNE": "Oulad Salah",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

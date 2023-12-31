@@ -1,0 +1,482 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IBN ROCHD",
+    "NOM_ETABA": "إعدادية ابن رشد",
+    "AdresseL": "HAY ALMOUSTAAJALAT COMMUNE SIDI KACEM",
+    "AdresseA": "حي المستعجلات",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE EL MAHDI IBN TOUMERT ",
+    "NOM_ETABA": "إعدادية المهدي ابن تومرت",
+    "AdresseL": "AVHAMMANE ELFATOUAKI COMMUNE SIDI KACEM",
+    "AdresseA": "شارع حمان الفطواكي",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE KADI AYAD",
+    "NOM_ETABA": "إعدادية القاضي عياض",
+    "AdresseL": "ROUTE DE MEKNES COMMUNE SIDI KACEM",
+    "AdresseA": "طريق مكناس سيدي قاسم المركز",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE IBN SINA",
+    "NOM_ETABA": "إعدادية ابن سينا",
+    "AdresseL": "HAY ZAOUIA COMMUNE SIDI KACEM",
+    "AdresseA": "حي الزاوية",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE JAOUHARA",
+    "NOM_ETABA": "إعدادية جوهرة",
+    "AdresseL": "hay jaouhara sidi kacem",
+    "AdresseA": "حي جوهرة سيدي قاسم",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ANOUAL",
+    "NOM_ETABA": "إعدادية أنوال",
+    "AdresseL": "SIDI KACEM",
+    "AdresseA": "سيدي قاسم",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ELAAKID AL ALLAM",
+    "NOM_ETABA": "العقيد العلام",
+    "AdresseL": "VENUE ALLAL BEN ABDELLAH COMMUNE SIDI KACEM",
+    "AdresseA": "شارع علال بن عبد الله سيدي قاسم المركز",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR INZARANE",
+    "NOM_ETABA": "بئرانزران",
+    "AdresseL": "AVENUE ALLAL BEN ABDELLAH COMMUNE SIDI KACEM",
+    "AdresseA": "شارع علال ابن عبدالله",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ROKAYA BENT ERRASOUL",
+    "NOM_ETABA": "رقية بنت الرسول",
+    "AdresseL": "RUE 38 HAY AL MERS COMMUNE SIDI KACEM",
+    "AdresseA": "حي لمرس رقم 38",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL JOULANE",
+    "NOM_ETABA": "الجولان",
+    "AdresseL": "HAY SAHRAOUA COMMUNE SIDI KACEM",
+    "AdresseA": "حي صحراوة",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "HAY SAHRAOUA COMMUNE SIDI KACEM",
+    "AdresseA": " حي صحراوة",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZZAOUIA",
+    "NOM_ETABA": "الزاوية",
+    "AdresseL": "HAY AZZAOUIA COMMUNE SIDI KACEM",
+    "AdresseA": "حي الزاوية",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KASBA",
+    "NOM_ETABA": "القصبة",
+    "AdresseL": "HAY AZZAOUIA SIDI KACEM",
+    "AdresseA": "حي الزاوية",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "quartier AFKA COMMUNE SIDI KACEM",
+    "AdresseA": "حي أفكا سيدي قاسم",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNASR",
+    "NOM_ETABA": "النصر",
+    "AdresseL": "HAY ANNASR COMMUNE SIDI KACEM",
+    "AdresseA": "حي النصر",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN AL HAITHAM",
+    "NOM_ETABA": "ابن الهيتم",
+    "AdresseL": " CHLIHAT COMMUNE SIDI KACEM",
+    "AdresseA": "اشليحات جماعة سيدي قاسم",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA IBN NOUSSAIR",
+    "NOM_ETABA": "موسى بن نصير",
+    "AdresseL": "HAY Miloud SIDI KACEM",
+    "AdresseA": "حي ميلود  سيدي قاسم",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSAADA",
+    "NOM_ETABA": "السعادة",
+    "AdresseL": "HAY ASSAADA COMMUNE SIDI KACEM",
+    "AdresseA": "حي السعادة",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL YASSMINE",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "HAY ELYASSMINE",
+    "AdresseA": "حي اليامسمين",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHARAF",
+    "NOM_ETABA": "شرف",
+    "AdresseL": "HAY CHARAF ROUTE DE RABAT",
+    "AdresseA": "حي شرف طريق الرباط ",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOHAMMED V",
+    "NOM_ETABA": "ثانوية محمد الخامس",
+    "AdresseL": "HAY AFKA COMMUNE SIDI KACEM",
+    "AdresseA": "حي أفكا سيدي قاسم",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL MANSOUR EDDAHBI",
+    "NOM_ETABA": "ثانوية المنصور الذهبي",
+    "AdresseL": "AV ALLAL BEN ABDELLAH COMMUNE SIDI KACEM",
+    "AdresseA": "شارع علال بن عبد الله",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE PRINCE MOULAY ABDELLAH",
+    "NOM_ETABA": "ثانوية الأمير مولاي عبد الله التقنية",
+    "AdresseL": "ROUTE DE MEKNES  COMMUNE SIDI KACEM",
+    "AdresseA": "طريق مكناس",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OUHOUD",
+    "NOM_ETABA": "ثانوية أحد",
+    "AdresseL": "HAY MILOUD COMMUNE SIDI KACEM",
+    "AdresseA": "حي ميلود",
+    "COMMUNE": "Sidi Kacem",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL AJYAL EL JADIDA ETABLISSEMENTE",
+    "NOM_ETABA": "ثانوية الأجيال الجديدة مؤسسة خاصة",
+    "AdresseL": "RUE 2 N° 32 EL HAY EL JADID RC",
+    "AdresseA": "الزنقة 2 رقم 32 الحي الجديد (ا",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AMIS MONTESSORI",
+    "NOM_ETABA": "مؤسسة أصدقاء منتسوري للتعليم الخصوصي",
+    "AdresseL": "LOT N° 22 BADR BLOC SCP - SIDI",
+    "AdresseA": "بلوك ش.ش ب رقم 22 بدر سيدي قاس",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zirari pour lenseignement",
+    "NOM_ETABA": "الزيراري للتعليم الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الزيراري 2 رقم 596 سيدي ",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "new benz groupe scolaire annexe",
+    "NOM_ETABA": "ملحقة مجموعة مدارس نيو بنز الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 34 شارع محمد الخامس الحي ا",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AASAFIR AL JANNA",
+    "NOM_ETABA": "عصافير الجنة",
+    "AdresseL": "N 915 JAWHARA",
+    "AdresseA": "الرقم 915 حي جوهرة",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALAOUI MADARHRI",
+    "NOM_ETABA": "مؤسسة العلوي المدغري ",
+    "AdresseL": "Quartier QODS N 483",
+    "AdresseA": "حي القدس الرقم 483",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el kaouttar",
+    "NOM_ETABA": "الكوثر",
+    "AdresseL": "N 4 LOTISSEMENT ISMAILIA",
+    "AdresseA": "الرقم 4 تجزئة الإسماعيلية",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NEW_BENZ GROUPE SCOLAIRE",
+    "NOM_ETABA": "نيو بينز المجموعة المدرسية الخصوصية ",
+    "AdresseL": "N 1 RUE 22 NOUVEAU QUARTIER",
+    "AdresseA": "رقم 1 الزنقة 22 الحي الجديد ",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTARBIA AL HADITHA",
+    "NOM_ETABA": "التربية الحديثة",
+    "AdresseL": "Quartier Charaf N126",
+    "AdresseA": "126 حي شرف",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BENZINA 1",
+    "NOM_ETABA": " 1 بنزينة",
+    "AdresseL": "N 22 aVENUE aLLAL bEN ABDELLAH",
+    "AdresseA": "الرقم 22 شارع علال بن عبدالله",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WAHAT AL MAARIF",
+    "NOM_ETABA": "واحة المعارف",
+    "AdresseL": "n 974 jawhara",
+    "AdresseA": "الرقم 974 جوهرة",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BENZINA 2",
+    "NOM_ETABA": "بنزينة 2 ",
+    "AdresseL": "N3 rue 22 nouveau quartier",
+    "AdresseA": "الرقم 3 الزنقة 22 الحي الجديد",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HODA",
+    "NOM_ETABA": "الهدى الخصوصية",
+    "AdresseL": "N362 Bloc C Yasmine",
+    "AdresseA": "الرقم 362 بلوك س حي الياسمين",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAJD JAWHARA",
+    "NOM_ETABA": "المجد ملحقة جوهرة",
+    "AdresseL": "lot jawhara n° 1345-1347-1342",
+    "AdresseA": "تجزئة جوهرة الرقم 1345-1347-13",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AJIAL AL JADIDA",
+    "NOM_ETABA": "الأجيال الجديدة",
+    "AdresseL": "Quartier Jawhara",
+    "AdresseA": "حي جوهرة ",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANABEL",
+    "NOM_ETABA": "السنابل",
+    "AdresseL": "n 184 quartier nasr",
+    "AdresseA": "رقم 184 حي النصر",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IMANE",
+    "NOM_ETABA": "الإيمان",
+    "AdresseL": "N° 42 Quartier Znibria ",
+    "AdresseA": "رقم 42 حي الزنبرية",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAE",
+    "NOM_ETABA": "ألاء",
+    "AdresseL": "295  lot qods ",
+    "AdresseA": "رقم 295 تجزئة القدس",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAOUI Mdaghri SAFOUA",
+    "NOM_ETABA": "العلوي المدغري الصفوة",
+    "AdresseL": "lotissement riad 1349",
+    "AdresseA": "تجزئة رياض 1349",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAJD",
+    "NOM_ETABA": "المجد",
+    "AdresseL": "N° 43, rue 22 nouveau quartier",
+    "AdresseA": "زنقة 22 رقم 43 الحي الجديد",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUMEGFOUTI",
+    "NOM_ETABA": " بومكوتي ",
+    "AdresseL": "quartier read n°255A ET n°257A",
+    "AdresseA": "حي الرياض رقم 255أ و257أ ",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZOHOUR",
+    "NOM_ETABA": "الزهور",
+    "AdresseL": "Hay Azghar, N° 102",
+    "AdresseA": "حي أزغار، رقم 102",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ADDOHA",
+    "NOM_ETABA": "الضحى",
+    "AdresseL": "Immeuble Al Hafid, N° 9 et 12",
+    "AdresseA": "عمارة الحافظ، شقة رقم 9 و 12",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAOUI MDAGHRI",
+    "NOM_ETABA": " العلوي المدغري",
+    "AdresseL": "Hay ElJADID ,  RUE 2  N° 36  -",
+    "AdresseA": "الحي الجديد الزنقة 2 رقم 36 سي",
+    "COMMUNE": "Sidi Kacem ",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

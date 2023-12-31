@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIT MAIT",
+    "NOM_ETABA": "ثانوية أيت مايت الإعدادية",
+    "AdresseL": "commune ait mait",
+    "AdresseA": "جماعة آيت مايت",
+    "COMMUNE": "Ait Mait",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ARMILA",
+    "NOM_ETABA": "م م ارميلة",
+    "AdresseL": "douar rmila ait mait dar lkabdani driwache",
+    "AdresseA": "دوار ارميلة  ايت مايت دار الكبداني ادريوش",
+    "COMMUNE": "Ait Mait",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TWOUNT",
+    "NOM_ETABA": "م م توونت",
+    "AdresseL": "COMMUNE AIT MAIT CENTRE",
+    "AdresseA": "جماعة ايت مايت  المركز",
+    "COMMUNE": "Ait Mait",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

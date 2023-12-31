@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE BOUTFERDA",
+    "NOM_ETABA": "ثانوية بوتفردة الإعدادية",
+    "AdresseL": "BOUTFERDA",
+    "AdresseA": "بوتفردة",
+    "COMMUNE": "Boutferda",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOUTFERDA CENTRE",
+    "NOM_ETABA": "مركزية بوتفردة",
+    "AdresseL": "BOUTFERDA COMMUNE BOUTFERDA",
+    "AdresseA": "جماعة  بوتفردة",
+    "COMMUNE": "Boutferda",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE CHRAKT",
+    "NOM_ETABA": "مركزية الشركت",
+    "AdresseL": "CHARKET COMMUNE BOUTFERDA",
+    "AdresseA": "جماعة  بوتفردة",
+    "COMMUNE": "Boutferda",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TINGUERF ",
+    "NOM_ETABA": "مركزية تنكارف",
+    "AdresseL": " COMMUNE BOUTFERDA",
+    "AdresseA": "جماعة  بوتفردة",
+    "COMMUNE": "Boutferda",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

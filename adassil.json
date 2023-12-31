@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ADASSIL",
+    "NOM_ETABA": "الثانوية الإعدادية أداسل",
+    "AdresseL": "COMMUNE ADASSIL CENTRE",
+    "AdresseA": "جماعة أداسيل المركز",
+    "COMMUNE": "Adassil",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ADASSIL",
+    "NOM_ETABA": "أداسيل",
+    "AdresseL": "DOUAR MAROSSA COMMUNE ADASSIL ME",
+    "AdresseA": "دوارمغوسة جماعة اداسيل دائرة مجاط ",
+    "COMMUNE": "Adassil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGHERMANE",
+    "NOM_ETABA": "إغرمان",
+    "AdresseL": "DOUAR IGHERMANE COMMUNE ADASSIL mejat chichaoua",
+    "AdresseA": " دوار إغرمان جماعة أداسيل دائرة مجاط",
+    "COMMUNE": "Adassil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSAIS",
+    "NOM_ETABA": "أسايس",
+    "AdresseL": "DOUAR ASSAIS COMMUNE ADASSIL",
+    "AdresseA": "دوار أسايس جماعة أداسيل قيادة أسيف المال شيشاوة",
+    "COMMUNE": "Adassil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

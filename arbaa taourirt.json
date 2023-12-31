@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ARBIAA TAOURIRT ",
+    "NOM_ETABA": "اع. اربعاء تاوريرت",
+    "AdresseL": "CENTRE ARBIAA TAOURIRT COM ARBIAA TAOURIRT",
+    "AdresseA": "مركز اربعاء تاوريرت جماعة اربعاء تاوريرت",
+    "COMMUNE": "Arbaa Taourirt",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ARBIAE TAOURIRT",
+    "NOM_ETABA": "م/م اربعاء تاوريرت",
+    "AdresseL": "DOUAR TAOURIRT COMMUNE ARBAA TAOURIRT",
+    "AdresseA": "دوار تاوريرت جماعة اربعاء تاوريرت",
+    "COMMUNE": "Arbaa Taourirt",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAYENTI",
+    "NOM_ETABA": "بينتي",
+    "AdresseL": "DOUAR BEINTI COMMUNE ARBAA TAOURIRT",
+    "AdresseA": "دواربينتي جماعة اربعاء تاوريرت",
+    "COMMUNE": "Arbaa Taourirt",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUAADIA",
+    "NOM_ETABA": "وعضية",
+    "AdresseL": "DOUAR OUAADIA COMMUNE ARBAA TAOURIRT",
+    "AdresseA": "دوار وعضية جماعة اربعاء تاوريرت",
+    "COMMUNE": "Arbaa Taourirt",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

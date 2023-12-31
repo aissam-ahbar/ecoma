@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TASSAOUT",
+    "NOM_ETABA": "ثانوية تساوت الإعدادية",
+    "AdresseL": "centre anzou",
+    "AdresseA": "مركز انزو",
+    "COMMUNE": "Anzou",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAGLAOUTE",
+    "NOM_ETABA": "مدرسة تكلاووت",
+    "AdresseL": "DOUAR TAGLAOUTE COMMUNE ANZOU TIDILI",
+    "AdresseA": "دوار تكلاووت جماعة  أنزو قيادة تديلي ",
+    "COMMUNE": "Anzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TASSAOUT",
+    "NOM_ETABA": "مركزية تساوت",
+    "AdresseL": "AGADIR BOUAACHIBA FATOUAKA",
+    "AdresseA": "اكادير بوعشبة فطواكة",
+    "COMMUNE": "Anzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TAGUENDAFT",
+    "NOM_ETABA": "مركزية تكندافت",
+    "AdresseL": "DOUAR TAGUENTAFT ANZOU DEMNAT",
+    "AdresseA": "دوار تكنتافت أنزو دمنات",
+    "COMMUNE": "Anzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ISKAJEN",
+    "NOM_ETABA": "مركزية اسكاجن",
+    "AdresseL": "DOUAR ISKAJEN ",
+    "AdresseA": "دوار اسكاجن ",
+    "COMMUNE": "Anzou",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

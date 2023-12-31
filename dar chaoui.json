@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL DAR CHAOUI",
+    "NOM_ETABA": "الثانوية الإعدادية دار الشاوي ",
+    "AdresseL": "DAR CHAOUI CENTRE COMMUNE DAR CHAOUI",
+    "AdresseA": "دار الشاوي الجديدة جماعة دار الشاوي",
+    "COMMUNE": "Dar Chaoui",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE RAMLA",
+    "NOM_ETABA": "المجموعة المدرسية الرملة",
+    "AdresseL": "DOUAR RAMLA COMMMUNE DAR CHAOUI",
+    "AdresseA": "دوار الرملة جماعة دار الشاوي",
+    "COMMUNE": "Dar Chaoui",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE KHANDAK SNAN",
+    "NOM_ETABA": "المجموعة المدرسية خندق سنان",
+    "AdresseL": "DOUAR KHANDAK ASNAN COMMUNE DAR CHAOUI",
+    "AdresseA": "دوار خندق سنان جماعة دار الشاوي",
+    "COMMUNE": "Dar Chaoui",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

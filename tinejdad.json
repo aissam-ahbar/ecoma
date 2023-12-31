@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "DRISS LAMHAMDI",
+    "NOM_ETABA": "ادريس المحمدي",
+    "AdresseL": "dris lamhamdi",
+    "AdresseA": "ادريس المحدي",
+    "COMMUNE": "Tinejdad",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MIXTE TINJDAD",
+    "NOM_ETABA": "المختلطة تنجداد",
+    "AdresseL": "CENTRE TINEJDAD      errachidia",
+    "AdresseA": "تنجداد المركز     الرشيدية",
+    "COMMUNE": "Tinejdad",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GARDMIT",
+    "NOM_ETABA": "كردميت",
+    "AdresseL": "KSAR GARDMITTINEJDAD",
+    "AdresseA": "قصر كردميت تنجداد",
+    "COMMUNE": "Tinejdad",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MADRASSA EL JADIDA ",
+    "NOM_ETABA": " المدرسة الجديدة",
+    "AdresseL": "village pilote centre tinejdad",
+    "AdresseA": "القرية النمودجية تنجداد المركز",
+    "COMMUNE": "Tinejdad",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II TINJDAD",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني تنجداد",
+    "AdresseL": "CENTRE TINJDAD ",
+    "AdresseA": "مركز تنجداد",
+    "COMMUNE": "Tinejdad",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ITRANE",
+    "NOM_ETABA": "اتران",
+    "AdresseL": "rue almoukhayam ALMASIRA TINJD",
+    "AdresseA": "زنقة المخيم المسيرة تنجداد ",
+    "COMMUNE": "Tinejdad ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOLTAKA ",
+    "NOM_ETABA": "الملتقى",
+    "AdresseL": "tinjdad centre",
+    "AdresseA": "تنجداد المركز",
+    "COMMUNE": "Tinejdad ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

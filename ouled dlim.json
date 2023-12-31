@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CENTRE  44",
+    "NOM_ETABA": "الثانوية الإعدادية مركز 44",
+    "AdresseL": "centre 44 commune ouled dlim",
+    "AdresseA": "مركز 44 جماعة أولاد دليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULAD DLIM CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس أولاد دليم المركزية",
+    "AdresseL": "DOUAR ZAOUIAT AL ANTRI CR OULAD DLIM PRMARRAKECH",
+    "AdresseA": "دوار زاوية العنتري جماعة أولاد دليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TOULATA AL BOUR CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس ثلاثاء البور المركزية",
+    "AdresseL": "DOUAR TOULATA AL BOUR CR OULAD DLIM PR MARRAKECH",
+    "AdresseA": "دوار ثلاثاء البور جماعة اولاد دليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 44 CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس 44 المركزية ",
+    "AdresseL": "CENTRE 44 CR OULAD DLIM PROV MARRAKECH",
+    "AdresseA": "مركز 44 جماعة أولاد دليم عممالة مراكش",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HAYANE CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس حيان المركزية ",
+    "AdresseL": "DOUAR HAYANE CR OULAD DLIM PROV MARRAKECH",
+    "AdresseA": "دوار حيان جماعة أولاد دليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SOUIGUIA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس السويكية المركزية",
+    "AdresseL": "DOUAR SOUIGUIA CR OULAD DLIM PROV MARRAKECH",
+    "AdresseA": "دوار السويكية جماعة اولاد دليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DOUAR JAMAA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس دوار الجامع المركزية",
+    "AdresseL": "DOUAR JAMAA CR OULAD DLIM PROV MARRAKECH",
+    "AdresseA": "دوار الجامع جماعة أولاد دليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL HAJ DRISS CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس الحاج ادريس المركزية",
+    "AdresseL": "DOUAR AL HAJ DRISS CR OULAD DLIM PROV MARRAKECH",
+    "AdresseA": "دوار الحاج ادريس جماعة اولاد الدليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHAABA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس الشعبة المركزية",
+    "AdresseL": "DOUAR CHAABA CR OULAD DLIM PROV MARRAKECH",
+    "AdresseA": "دوار الشعبة جماعة اولاد دليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL HAJ ZAOUIA",
+    "NOM_ETABA": "مدرسة الحاج الزاوية",
+    "AdresseL": "DOUAR EL HAJ ZAOUIA CR OULED DLIM",
+    "AdresseA": "دوار الحاج الزاوية جماعة اولاد ادليم",
+    "COMMUNE": "Ouled Dlim",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

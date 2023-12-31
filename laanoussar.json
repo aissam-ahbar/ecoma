@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial MOUHA OU HAMOU EZZAYANI",
+    "NOM_ETABA": "ثانوية موحى وحمو الزياني الإعدادية",
+    "AdresseL": "centre laanousser",
+    "AdresseA": "مركز لعنوصر",
+    "COMMUNE": "Laanoussar",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss EL KADI AYAD Centre",
+    "NOM_ETABA": " م/م  القاضي عياض-المركز  ",
+    "AdresseL": "laanoussar",
+    "AdresseA": "لــعــنــوصــر",
+    "COMMUNE": "Laanoussar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIT AISSA OU LAHCEN Centre",
+    "NOM_ETABA": "م/م أيت عيسى ولحسن-المركز",
+    "AdresseL": "DOUAR AIT AISSA OU LAHCEN",
+    "AdresseA": "دوار أيت عيسى ولحسن",
+    "COMMUNE": "Laanoussar",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

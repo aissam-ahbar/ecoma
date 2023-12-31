@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL TLAUH",
+    "NOM_ETABA": "الثانوية الإعدادية الطلوح",
+    "AdresseL": "C R Tlauh",
+    "AdresseA": "جماعة الطلوح",
+    "COMMUNE": "Tlauh",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TLOUH CENTRE",
+    "NOM_ETABA": "الطلوح المركزية",
+    "AdresseL": "DOUAR TLOUH COMMUNE TLOUH",
+    "AdresseA": "دوار اولاد منصور جماعة الطلوح قيادة راس العين",
+    "COMMUNE": "Tlauh",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD GHANNAM CENTRE",
+    "NOM_ETABA": "اولاد غنام المركزية",
+    "AdresseL": "DOUAR OULAD GHANNAM COMMUNE TLOUH",
+    "AdresseA": "دوار اولاد غنام",
+    "COMMUNE": "Tlauh",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

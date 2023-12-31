@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELMALEK ESSAADI",
+    "NOM_ETABA": "ثانوية عبد المالك السعدي الاعدادية",
+    "AdresseL": "centre COMMUNE meTtOUH",
+    "AdresseA": "مركز جماعة متوح",
+    "COMMUNE": "Mettouh",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHMIS METTOUH",
+    "NOM_ETABA": "مدرسة خميس متوح",
+    "AdresseL": "KHMIS METTOUH ",
+    "AdresseA": "سوق خميس متوح ",
+    "COMMUNE": "Mettouh",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BIR LAKOUARA",
+    "NOM_ETABA": "م/م بير الكوارة",
+    "AdresseL": "AHLE EL FAID BIR LAKOUARA",
+    "AdresseA": "دوار أهل الفيض",
+    "COMMUNE": "Mettouh",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BOUAALLALA",
+    "NOM_ETABA": "م/م بوعلالة",
+    "AdresseL": "DOUAR BOUAALALA ",
+    "AdresseA": "دوار بوعلالة",
+    "COMMUNE": "Mettouh",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAHMIDDATE",
+    "NOM_ETABA": "م/م لحميدات",
+    "AdresseL": "DOUAR LAHMIDDATE ",
+    "AdresseA": "دوار لحميدات",
+    "COMMUNE": "Mettouh",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKIACHE",
+    "NOM_ETABA": "م/م القياش",
+    "AdresseL": "DOUAR LAKIACHE",
+    "AdresseA": "دوار لقياش ",
+    "COMMUNE": "Mettouh",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUSSA IBN NOSSAIR",
+    "NOM_ETABA": "ثانوية موسى ابن نصير التأهيلية",
+    "AdresseL": "CENTRE KHMIS METTOUH ",
+    "AdresseA": "مركز خميس متوح ",
+    "COMMUNE": "Mettouh",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZAAROURA",
+    "NOM_ETABA": "الثانوية الإعدادية زعرورة",
+    "AdresseL": "CENTRE COMMUNE ZAAROURA",
+    "AdresseA": "مركز جماعة الزعرورة",
+    "COMMUNE": "Zaaroura",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI MEZOUAR  TAOULA CENTRE ",
+    "NOM_ETABA": "م/م سيدي مزوارتاولة المركزية  ",
+    "AdresseL": "DOUAR TAOULA COMMUNE ZAAROURA",
+    "AdresseA": "دوار تاولة جماعة زعرورة",
+    "COMMUNE": "Zaaroura",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGHLIMINE CENTRE",
+    "NOM_ETABA": "أغليمين المركز",
+    "AdresseL": "DOUAR AGHLIMINE COMMUNE ZAAROURA",
+    "AdresseA": "دوار أغليمين جماعة زعرورة",
+    "COMMUNE": "Zaaroura",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AOURMOUT CENTRE",
+    "NOM_ETABA": "م/م  أورموت  ",
+    "AdresseL": "DOUAR AOURMOUT COMMUNE ZAAROURA",
+    "AdresseA": "دوار أورموت جماعة زعرورة",
+    "COMMUNE": "Zaaroura",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHARBAT ELHARAKINE ",
+    "NOM_ETABA": "   م/م خربة الحراقين ",
+    "AdresseL": "medchar khriba COMMUNE ZAAROURA",
+    "AdresseA": " مدشر الخريبة، جماعة زعرورة",
+    "COMMUNE": "Zaaroura",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHEFRAOUCHE  CENTRE",
+    "NOM_ETABA": "م/م شفراوش المركزية ",
+    "AdresseL": "DOUAR CHEFRAOUCH COMMUNE ZAAROURA",
+    "AdresseA": "دوار شفراوش",
+    "COMMUNE": "Zaaroura",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

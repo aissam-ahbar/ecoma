@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "TIGMMAT",
+    "NOM_ETABA": "تكماط",
+    "AdresseL": "DOUAR TIGMMAT COMMUNE IMINDOUNIT",
+    "AdresseA": "دوار  تكماط",
+    "COMMUNE": "Imindounit",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TANAMERT",
+    "NOM_ETABA": "تنامرت",
+    "AdresseL": "DOUAR TANAMERT COMMUNE IMINDOUNIT",
+    "AdresseA": "دوار تنامرت",
+    "COMMUNE": "Imindounit",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIZGUI",
+    "NOM_ETABA": "تزكي",
+    "AdresseL": "DOUAR TIZGUI COMMUNE IMINDOUNIT province chichaoua",
+    "AdresseA": " دوار  تزكي جماعة انيت الدونيت شيشاوة",
+    "COMMUNE": "Imindounit",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAOUNGHASTE",
+    "NOM_ETABA": "تونغاست",
+    "AdresseL": "DOUAR TAOUNGHASTE COMMUNE IMINDOUNIT",
+    "AdresseA": "دوار  تونغاست",
+    "COMMUNE": "Imindounit",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

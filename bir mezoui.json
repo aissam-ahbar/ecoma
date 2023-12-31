@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS BIR MEZOUI",
+    "NOM_ETABA": "م/م بير مزوي",
+    "AdresseL": "CENTRE COMMUNE BIR MEZOUICOMMUNE BIR MEZOUI",
+    "AdresseA": "مركز  جماعة  بير  مزوي",
+    "COMMUNE": "Bir Mezoui",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MSSAADA",
+    "NOM_ETABA": "م/م المساعدة",
+    "AdresseL": "DOUAR OULED  EL  AATI COMMUNE BIR MEZOUI",
+    "AdresseA": "دوار  اولاد  العاتي",
+    "COMMUNE": "Bir Mezoui",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUARDIGHA",
+    "NOM_ETABA": "الثانوية التأهيلية ورديغة",
+    "AdresseL": "CENTRE COMUNE BIR MEZOUI  COMMUNE BIR MEZOUI",
+    "AdresseA": "مركز  جماعة  بير  مزوي",
+    "COMMUNE": "Bir Mezoui",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

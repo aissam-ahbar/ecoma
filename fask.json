@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S FASK",
+    "NOM_ETABA": "م م فاصك",
+    "AdresseL": "FASK CENTRE COMMUNE FASK",
+    "AdresseA": "فاصك المركز جماعة  فاصك",
+    "COMMUNE": "Fask",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAIDALT",
+    "NOM_ETABA": "م م تيدالت",
+    "AdresseL": "TAIDALT COMMUNE FASK",
+    "AdresseA": "تيدالت  جماعة فاصك",
+    "COMMUNE": "Fask",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TARIK BEN ZYAD",
+    "NOM_ETABA": "الثانوية التأهيلية طارق ابن زياد",
+    "AdresseL": " FASK  CENTRE",
+    "AdresseA": " فاصك المركز",
+    "COMMUNE": "Fask",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

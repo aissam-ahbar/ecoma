@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "DOUIRANE",
+    "NOM_ETABA": " ادويران",
+    "AdresseL": "CENTRE DOUIRANE  COM DOUIRANE",
+    "AdresseA": "بوزضوض  ادويران",
+    "COMMUNE": "Douirane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGADIR OUMNSOUR",
+    "NOM_ETABA": "أكدير  أومنصور",
+    "AdresseL": "DOUAR AGADIR OUMNSOUR COMMUNE DOUIRANE",
+    "AdresseA": "دوار  أكدير  أومنصور",
+    "COMMUNE": "Douirane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZNADA",
+    "NOM_ETABA": "ازنادة",
+    "AdresseL": "DOUAR ZNADA COMMUNE DOUIRANE",
+    "AdresseA": "دوار ازنادة جماعة ادويران",
+    "COMMUNE": "Douirane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMHEDJAT",
+    "NOM_ETABA": "لمحدجات",
+    "AdresseL": "DOUAR LAMHEDJAT COMMUNE DOUIRANE",
+    "AdresseA": "دوار لمحدجات",
+    "COMMUNE": "Douirane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ADDOUZ",
+    "NOM_ETABA": "أدوز",
+    "AdresseL": "DOUAR ADDOUZ COMMUNE idouirane",
+    "AdresseA": " دوار أدوز جماعة ادويران",
+    "COMMUNE": "Douirane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IDDAZEN",
+    "NOM_ETABA": "إدازن",
+    "AdresseL": "DOUAR IDDAZEN COMMUNE DOUIRANE",
+    "AdresseA": "دوار إدازن جماعة ادويران",
+    "COMMUNE": "Douirane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL ATLASS",
+    "NOM_ETABA": "الثانوية التأهيلية الأطلس",
+    "AdresseL": "CENTRE COMMUNE DOUIRANE",
+    "AdresseA": "مركز  جماعة ادويران",
+    "COMMUNE": "Douirane",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "SS TAZOULTE",
+    "NOM_ETABA": "م.م تازولت ",
+    "AdresseL": "DOUAR   AARABENE  C  TAOUYALTE",
+    "AdresseA": "دوارأعرابن",
+    "COMMUNE": "Taouyalte",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAOUAYALTE",
+    "NOM_ETABA": "م.م تاويالت",
+    "AdresseL": "DOUAR   TAMEJRICHTE C TAOUYALTE",
+    "AdresseA": "د. تمجريشت",
+    "COMMUNE": "Taouyalte",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS JABER BEN HAYYAN",
+    "NOM_ETABA": "م.م جابر بن حيان",
+    "AdresseL": "DOUAR   TAOURIRTE C TAOUAYALTE",
+    "AdresseA": "دوار توريرت جماعة تاويالت",
+    "COMMUNE": "Taouyalte",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

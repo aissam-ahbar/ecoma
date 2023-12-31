@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ATLAS",
+    "NOM_ETABA": "الثانوية الاعدادية الاطلس",
+    "AdresseL": "MUNICIPALITE TAFRAOUT",
+    "AdresseA": "بلدية تافراوت",
+    "COMMUNE": "Tafraout",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED V",
+    "NOM_ETABA": "م. محمد الخامس",
+    "AdresseL": "AV HASSAN II TAFRAOUT",
+    "AdresseA": "شارع الحسن التاني",
+    "COMMUNE": "Tafraout",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALLOUZ CENTRE TIFRADINE",
+    "NOM_ETABA": "م.م اللوز مركزية  تفراضن ",
+    "AdresseL": "hay TIFRADINE",
+    "AdresseA": "حي تفراضن",
+    "COMMUNE": "Tafraout",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT NOUVEAU LYCEE",
+    "NOM_ETABA": "الثانوية التاهيلية الجديدة",
+    "AdresseL": "municipalite tafraout",
+    "AdresseA": "بلدية تافراوت",
+    "COMMUNE": "Tafraout",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

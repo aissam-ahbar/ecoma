@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS TARGA NMIMOUNE",
+    "NOM_ETABA": "م.م تاركة نميمون",
+    "AdresseL": "DOUAR   TARGA NMIMOUNE  C ASSAKI",
+    "AdresseA": "د. تاركة نميمون",
+    "COMMUNE": "Assaki",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMALOU",
+    "NOM_ETABA": "م.م امالو",
+    "AdresseL": "DOUAR   AMALOU  C ASSAKI",
+    "AdresseA": "د. امالو",
+    "COMMUNE": "Assaki",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIDNASSE",
+    "NOM_ETABA": "م.م تدناس",
+    "AdresseL": "DOUAR   TIDNASSE  ASSAKI",
+    "AdresseA": "dr elbahrani elguerdane taroudant",
+    "COMMUNE": "Assaki",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée Qualifiant ASSAKI",
+    "NOM_ETABA": "الثانوية التأهيلية أساكي ",
+    "AdresseL": "centre commune assaki",
+    "AdresseA": "مركز الجماعة القروية اساكي",
+    "COMMUNE": "Assaki",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

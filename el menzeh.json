@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "ABI BAKR ESSEDIK",
+    "NOM_ETABA": "ابي بكر الصديق",
+    "AdresseL": "ROUTE DE AIN AOUDA COMMUNE EL MENZEH",
+    "AdresseA": "طريق عين العودة المنزه",
+    "COMMUNE": "El Menzeh",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MASJID",
+    "NOM_ETABA": "المسجد",
+    "AdresseL": "ROUTE DE AIN AOUDA  COMMUNE EL MENZEH",
+    "AdresseA": "طريق عين العودة",
+    "COMMUNE": "El Menzeh",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MENZEH",
+    "NOM_ETABA": "المنزه",
+    "AdresseL": "ROUTE DE AIN AOUDA  DOUAR OULAD MBAREK",
+    "AdresseA": "طريق عين العودة دوار اولاد مبارك",
+    "COMMUNE": "El Menzeh",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUTAIEB",
+    "NOM_ETABA": "اولاد بوطيب",
+    "AdresseL": "DOUAR LAKBABRA COMMUNE EL MENZAH",
+    "AdresseA": "دوار لكبابرة المنزه",
+    "COMMUNE": "El Menzeh",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " OULAD MBAREK",
+    "NOM_ETABA": "اولاد امبارك",
+    "AdresseL": "DOUAR OULAD  MBAREK el menzeh",
+    "AdresseA": "دوار اولاد امبارك المنزه",
+    "COMMUNE": "El Menzeh",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI HOURAYRA",
+    "NOM_ETABA": "أبي هريرة",
+    "AdresseL": "BASSATINE MENZEH KM 20 AV MED6 TEMARA",
+    "AdresseA": "المنزه المركز",
+    "COMMUNE": "El Menzeh",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LES PEUPLIERS",
+    "NOM_ETABA": "مدرسة لي بوبليي",
+    "AdresseL": "bassatine n°191 el menzeh km 2",
+    "AdresseA": "رقم 191، تجزئة بساتين المنزه",
+    "COMMUNE": "El Menzeh",
+    "PROVINCE": "Skhirate- Tém",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

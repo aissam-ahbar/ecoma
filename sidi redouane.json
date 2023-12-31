@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHALID IBN ALWALID",
+    "NOM_ETABA": "الثانوية الإعدادية خالد ابن الوليد",
+    "AdresseL": "SIDI REDOUANE CENTRE  COMMUNE SIDI REDOUANE",
+    "AdresseA": " مركز جماعة سيدي رضوان",
+    "COMMUNE": "Sidi Redouane",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL QUADI TAYEB ZEWAQUI",
+    "NOM_ETABA": "الثانوية الإعدادية قاضي الطيب الزواقي",
+    "AdresseL": "ZOUAKINE COMMUNE SIDI REDOUANE",
+    "AdresseA": "الزواقين سيدي رضوان",
+    "COMMUNE": "Sidi Redouane",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "م م علال بن عبدالله",
+    "AdresseL": "douare zowakine   COMMUNE SIDI REDOUANE",
+    "AdresseA": "دوار الزواقين جماعة سيدي رضوان",
+    "COMMUNE": "Sidi Redouane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN TOUFAIL",
+    "NOM_ETABA": "م م ابن طفيل",
+    "AdresseL": "DOUAR TAKSERT COMMUNE SIDI REDOUANE",
+    "AdresseA": "دوار تكسرت",
+    "COMMUNE": "Sidi Redouane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABOU ALKASSEM ALZAHRAOUI",
+    "NOM_ETABA": "م م أبو القاسم الزهراوي",
+    "AdresseL": "DOUAR TAMALOUS COMMUNE SIDI REDOUANE",
+    "AdresseA": "دوار اتمالوس",
+    "COMMUNE": "Sidi Redouane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZZAITOUNE",
+    "NOM_ETABA": "م م الزيتون",
+    "AdresseL": "DOUAR AL KAITOUNE COMMUNE SIDI REDOUANE",
+    "AdresseA": "دوار القيطون",
+    "COMMUNE": "Sidi Redouane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 3 MARS",
+    "NOM_ETABA": "الثانوية التأهيلية 3 مارس",
+    "AdresseL": "CENTRE SIDI REDOUANE",
+    "AdresseA": "مركز سيدي رضوان",
+    "COMMUNE": "Sidi Redouane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

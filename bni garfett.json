@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SECONDAIRE  BNI GARFETT",
+    "NOM_ETABA": "الثانوية الإعدادية بني جرفط ",
+    "AdresseL": "COMMUNE BNI GORFET",
+    "AdresseA": "سبت بني جرفط",
+    "COMMUNE": "Bni Garfett",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DRISS PREMIER CENTRE",
+    "NOM_ETABA": "م/م  إدريس  الأول  المركزية ",
+    "AdresseL": "DOUAR SEBT COMMUNE BNI GARFETT",
+    "AdresseA": "دوار السبت جماعة بني جرفط",
+    "COMMUNE": "Bni Garfett",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL QODS  BOUHANI CENTRE ",
+    "NOM_ETABA": "م/م القدس المركزية ",
+    "AdresseL": "DOUAR BOUHANI COMMUNE BNI GARFETT",
+    "AdresseA": "دوار بوهاني جماعة بني جرفط",
+    "COMMUNE": "Bni Garfett",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SEFSSAF CENTRE",
+    "NOM_ETABA": "م/م الصفصاف المركز",
+    "AdresseL": "DOUAR SEFSSAF COMMUNE BNI GARFETT",
+    "AdresseA": "دوار الصفصاف جماعة بني جرفط",
+    "COMMUNE": "Bni Garfett",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN MANSSOUR CENTRE",
+    "NOM_ETABA": "م/م عين منصور المركزية",
+    "AdresseL": "DOUAR AIN MANSOUR COMMUNE BNI GARFETT",
+    "AdresseA": "دوار عين منصور جماعة بني جرفط",
+    "COMMUNE": "Bni Garfett",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAADANA CENTRE",
+    "NOM_ETABA": "م/م سعدانة  المركزية ",
+    "AdresseL": "DOUAR SAADANA COMMUNE BNI Guerfet",
+    "AdresseA": "دوار سعدانة جماعة بني جرفط",
+    "COMMUNE": "Bni Garfett",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

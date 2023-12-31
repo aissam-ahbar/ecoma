@@ -1,0 +1,1532 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AIT TISSLIT",
+    "NOM_ETABA": "ثانوية أيت تسليت الإعدادية ",
+    "AdresseL": "Douar Ait Tisslit Beni mellal",
+    "AdresseA": "  بني ملال دوار أيت تسليت",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MOAAD BNOU JABAL",
+    "NOM_ETABA": "ثانوية معاد بن جبل الإعدادية",
+    "AdresseL": "hay chouhada",
+    "AdresseA": "حي الشهداء ",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE IDRISS BEN ZEKRI",
+    "NOM_ETABA": "ثانوية ادريس بن زكري الاعدادية ",
+    "AdresseL": "QU  LES ORANGERS",
+    "AdresseA": "حي الليمون",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE MOHAMMADIA",
+    "NOM_ETABA": "ثانوية المحمدية الإعدادية",
+    "AdresseL": "HAY SISALEM  BD TAHA HOSSEINE BENI MELLAL",
+    "AdresseA": "حي سي سالم شارع طه حسين  بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE DAY",
+    "NOM_ETABA": "ثانوية داي الإعدادية",
+    "AdresseL": "HAY el  HOUDA  BENI MELLAL",
+    "AdresseA": "حي الهدى بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE EL QODS",
+    "NOM_ETABA": "ثانوية القدس الإعدادية",
+    "AdresseL": "BD HOMMANE EL FATTOUAKI     BENI MELLAL",
+    "AdresseA": "شارع حمان الفطواكي    بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AHMED ESSAOUMAI",
+    "NOM_ETABA": "ثانوية احمد الصومعي الإعدادية",
+    "AdresseL": "HAY EL ADARISSA BENI MELLAL",
+    "AdresseA": "حي الأدارسة بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE AHMED EL HANSALI",
+    "NOM_ETABA": "ثانوية احمد الحنصالي الإعدادية",
+    "AdresseL": "BD DES FAR BENI MELLAL",
+    "AdresseA": "شارع الجيش الملكي  بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE ABDELKARIM EL KHATTABI",
+    "NOM_ETABA": "ثانوية عبد الكريم الخطابي الإعدادية",
+    "AdresseL": "HAY EL HOUDA BENI MELLAL",
+    "AdresseA": "حي الهدى بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE IBNOU EL MOKAFFAE",
+    "NOM_ETABA": "ثانوية ابن المقفع الإعدادية",
+    "AdresseL": "HAY OUMDAHR BENI MELLAL",
+    "AdresseA": "حي أم ظهر بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUED EL MAKHAZINE",
+    "NOM_ETABA": "م.واد المخازن",
+    "AdresseL": "HAY RMILA BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL HAY ASSINAI",
+    "NOM_ETABA": "م. الحي الصناعي",
+    "AdresseL": "AL HAY ASSINAI BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAOMAA",
+    "NOM_ETABA": "م. الصومعة",
+    "AdresseL": "ELHAY ELKASSIMI ESSAOMAA BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZZAYTOUNA",
+    "NOM_ETABA": "م. الزيتونة",
+    "AdresseL": "HAY SI SALEM BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM CHAFIAI",
+    "NOM_ETABA": "م الإمام الشافعي",
+    "AdresseL": " BOULEVARD CHAOUKI  2",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 11 JANVIER",
+    "NOM_ETABA": "م 11 يناير",
+    "AdresseL": "PLACE AIT TISLIT BENI MELLAL",
+    "AdresseA": "ساحة آيت تسليت بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL HOUDA ATLAS",
+    "NOM_ETABA": "م الهدى اطلس",
+    "AdresseL": "HAY takadoum BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BAB FTOUH ",
+    "NOM_ETABA": "م باب افتوح ",
+    "AdresseL": "HAY BAB FTOUH BENI MELLAL",
+    "AdresseA": "حي باب افتوح بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN ASSERDOUNE",
+    "NOM_ETABA": "م عين اسردون",
+    "AdresseL": "HAY MOHAMMADI RUE BAGHDAD BENI MELLAL",
+    "AdresseA": "الحي المحمدي شارع بغداد بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMRYA",
+    "NOM_ETABA": " م العامرية",
+    "AdresseL": "HAY AL AMRYA BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMADYA",
+    "NOM_ETABA": "م المحمدية",
+    "AdresseL": "HAY asfet esserhani   BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OURYER",
+    "NOM_ETABA": " م اورير",
+    "AdresseL": "OURYER BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MANDAR AL JAMIL",
+    "NOM_ETABA": "م المنظر الجميل",
+    "AdresseL": "AL HAY AL IDARI BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NAHDA",
+    "NOM_ETABA": "م النهضة",
+    "AdresseL": "OULED HAMDANE BENI MELLAL",
+    "AdresseA": "شارع ابن خلدون اولاد حمدان بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KADI AYAD",
+    "NOM_ETABA": "م القاضي عياض",
+    "AdresseL": "HAY HOUDA BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MSALLA AL GHARBYA",
+    "NOM_ETABA": "م المصلى الغربية",
+    "AdresseL": "HAY BEN ADDI BENI MELLAL",
+    "AdresseA": "حي بن عدي، بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KASSIMYA",
+    "NOM_ETABA": "م القاسمية",
+    "AdresseL": "HAY HOUDA BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU AL HAYTEM",
+    "NOM_ETABA": "م ابن الهيثم",
+    "AdresseL": "OULAD AYAD BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID IBNOU AL OUALID",
+    "NOM_ETABA": "م خالد بن الوليد",
+    "AdresseL": " quartier elmohammadi 2 beni mellal ",
+    "AdresseA": "الحي المحمدي 2 بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OTMAN IBNOU AFFANE",
+    "NOM_ETABA": "م عثمان بن عفان",
+    "AdresseL": "HAY ELAMAL OULED HAMDANE BENI MELLAL",
+    "AdresseA": "حي الأمل أولاد حمدان بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANWAL",
+    "NOM_ETABA": "م انوال",
+    "AdresseL": "OULED AYAD BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MGHILA CENTRE",
+    "NOM_ETABA": "مركزية امغيلة",
+    "AdresseL": "MGHILA BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIT TISLIT",
+    "NOM_ETABA": "م آيت تيسليت",
+    "AdresseL": "AIT TISLIT BENI MELLAL",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OURBIE",
+    "NOM_ETABA": "م اوربيع",
+    "AdresseL": "quartier zaarati OURBIE BENI MELLAL",
+    "AdresseA": "حي الزعراطي أوربيع بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN EL GHAZI",
+    "NOM_ETABA": "م عين الغازي",
+    "AdresseL": "AIN EL GHAZI COMMUNE BENI MELLAL",
+    "AdresseA": "جماعة  بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MOUTANABBI",
+    "NOM_ETABA": "م المتنبي",
+    "AdresseL": "HAY ZAYTOUNE BENI MELLAL",
+    "AdresseA": " حي الزيتون بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAHA HOUSSINE",
+    "NOM_ETABA": "م طه حسين",
+    "AdresseL": "DAR JDIDA OULED HAMDANE BENI MELLAL",
+    "AdresseA": "الدار الجديدة أولاد حمدان  بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "م الأمل",
+    "AdresseL": "HAY MASSIRA 2  BENI MELLAL",
+    "AdresseA": "حي المسيرة 2  بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA",
+    "NOM_ETABA": "م المسيرة",
+    "AdresseL": "HAY ALMOHAMADI 2",
+    "AdresseA": "بلدية بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RIAD ESSALAM",
+    "NOM_ETABA": "م رياض السلام ",
+    "AdresseL": "RIAD ESSALAM BENI MELLAL",
+    "AdresseA": "رياض السلام بني ملال ",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATLAS",
+    "NOM_ETABA": "م الأطلس",
+    "AdresseL": "QUARTIER QL AL ATLAS BENI MELLAL",
+    "AdresseA": "حي الأطلس  بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAJD",
+    "NOM_ETABA": "م النجد",
+    "AdresseL": "OULED DRID",
+    "AdresseA": "اولاد اضريد",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHARTOUSS",
+    "NOM_ETABA": "خرطوس",
+    "AdresseL": "HAY KHARTOUSS OURBIE  ",
+    "AdresseA": "حي خرطوس أوربيع ",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JEGHOU",
+    "NOM_ETABA": "م جغو",
+    "AdresseL": "quartier jeghou",
+    "AdresseA": "حي جغو",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RIAD BENI MELLAL",
+    "NOM_ETABA": " م رياض بني ملال",
+    "AdresseL": "Lotissement Alliance Darna Mghila",
+    "AdresseA": "تجزأة أليانس دارنا مغيلة",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBNOU SINA",
+    "NOM_ETABA": "ثانوية ابن سينا التاهيلية",
+    "AdresseL": "BAB FTOUH BENIMELLAL",
+    "AdresseA": "باب افتوح بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE HASSAN II",
+    "NOM_ETABA": "ثانوية الحسن الثاني التأهيلية",
+    "AdresseL": "BD BEYROUT BENI MELLAL",
+    "AdresseA": "شارع بيروت",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE MOHAMMED V",
+    "NOM_ETABA": "الثانوية  محمد الخامس التقنية",
+    "AdresseL": "BOULEVARD 20 AOUT QUARTIER ATLAS",
+    "AdresseA": "شارع 20 غشت حي اطلس ",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL AMRYA",
+    "NOM_ETABA": "ثانوية العامرية التأهيلية",
+    "AdresseL": "HAY EL AMRIA",
+    "AdresseA": "حي العامرية",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOHA OU HAMMOU",
+    "NOM_ETABA": "ثانوية موحى وحمو التأهيلية",
+    "AdresseL": "HAY OURIR BENI MELLAL",
+    "AdresseA": "حي أورير بني ملال",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ZERKTOUNI ",
+    "NOM_ETABA": "ثانوية الزرقطوني التأهيلية",
+    "AdresseL": "  HAY OUM EDDAHR",
+    "AdresseA": "حي أم الظهر",
+    "COMMUNE": "Béni Mellal",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Abi Hamid El Ghazali 2",
+    "NOM_ETABA": "ابي حامد الغزالي 2",
+    "AdresseL": "Quartier El Hoda",
+    "AdresseA": "حي الهدى ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bait Al Hikma",
+    "NOM_ETABA": "بيت الحكمة",
+    "AdresseL": "N° 37, Quartier Ben Addi, Rue ",
+    "AdresseA": "رقم 37، حي بن عدي، رقم 5",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Nassim",
+    "NOM_ETABA": "مؤسسة النسيم",
+    "AdresseL": "N° 4, Al Amria 1, Rue N° 1",
+    "AdresseA": "رقم 4، العامرية 1، زنقة 1",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Arabia",
+    "NOM_ETABA": "مؤسسة الربيع",
+    "AdresseL": "N° 60, Rue 5, Quartier Essalam",
+    "AdresseA": "رقم 60، زنقة 5، حي السلام",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Al Borouj",
+    "NOM_ETABA": "مؤسسة البروج",
+    "AdresseL": "N° 90, Jamila Ou Rabia",
+    "AdresseA": "رقم 90، تجزئة جميلة وربيع",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Abir",
+    "NOM_ETABA": "مؤسسة عبير",
+    "AdresseL": "N° 13, Groupe 16, Quartier Al ",
+    "AdresseA": "رقم 13، المجموعة 16، حي الهدى",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "YASMINE",
+    "NOM_ETABA": "ياسمين",
+    "AdresseL": "bloc  10 n 41 quartier Takadou",
+    "AdresseA": "بلوك  10  رقم  41 حي التقدم",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "VICTOR HUGO  II",
+    "NOM_ETABA": "فيكتور هيجو  2",
+    "AdresseL": "lotissement el mehdi ii bd 20 ",
+    "AdresseA": "تجزئة المهدي 2 شارع 20 غشت بني",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FADLE",
+    "NOM_ETABA": "الفضل",
+    "AdresseL": "",
+    "AdresseA": "",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL FAJER",
+    "NOM_ETABA": "الفجر",
+    "AdresseL": "lotissement riyade quartier el",
+    "AdresseA": "حي ام الظهر تجزئة الريلض بلوك ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL FARAH",
+    "NOM_ETABA": "الفرح",
+    "AdresseL": "HAY BEN CHOUYA RUE 05 N° 03",
+    "AdresseA": "حي بن شوية زنقة 05 رقم 03",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BABY HOUSE",
+    "NOM_ETABA": "بيبي هاوس",
+    "AdresseL": "hay darkoum bloc 4 n 6 beni me",
+    "AdresseA": " حي داركم بلوك 4 رقم 6 بني ملا",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RYAD AL AJIAL",
+    "NOM_ETABA": "رياض الأجيال",
+    "AdresseL": " RIAD ASSA BENI MELLAL ",
+    "AdresseA": " رياض أسا بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "elassil",
+    "NOM_ETABA": "الأصيل",
+    "AdresseL": " lotiss feddan nouail amria2 b",
+    "AdresseA": "تجزئة فدان االنوايل العامرية2 ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LABEL ECOLE",
+    "NOM_ETABA": "لابيل إيكول",
+    "AdresseL": "BLOC 4 N° 6 JNANE TAHER  BENI ",
+    "AdresseA": "رقم 6 بلوك 4 جنان الطاهر",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FIRDAOUS ASSAGHIR",
+    "NOM_ETABA": "الفردوس الصغير",
+    "AdresseL": "12 rue 4 el adarissa",
+    "AdresseA": "الزنقة 4 القم 12 الادارسة",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAY PREPAS",
+    "NOM_ETABA": " داي بريـبا",
+    "AdresseL": "boulevard Hassan II immeuble c",
+    "AdresseA": "بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Alirtiqaa de l enseignement primaire",
+    "NOM_ETABA": "الارثقاء للتعليم  الابثدائي الخصوصي    ",
+    "AdresseL": "N°28 ;26;lot alfarah oumdahr",
+    "AdresseA": "     رقم 28;26;ثجزئة  الفرح  أ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN JACQUES ROUSSEAU",
+    "NOM_ETABA": "جان جاك روسو",
+    "AdresseL": "lotissement el mehdi ii bd 20 ",
+    "AdresseA": "تجزئة المهدي 2 شارع 20 غشت ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT savant",
+    "NOM_ETABA": "العالم الصغير",
+    "AdresseL": "boulevard mohamed v, quartier ",
+    "AdresseA": "شارع محمد الخامس حي التقدم الر",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAKAIK annouamane",
+    "NOM_ETABA": "شقائق النعمان",
+    "AdresseL": "bd almoutanabi n56",
+    "AdresseA": "بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAMA MARIA",
+    "NOM_ETABA": "ماما مرية",
+    "AdresseL": "NULL",
+    "AdresseA": "بين ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OISEAUX DU PARADIS",
+    "NOM_ETABA": "طيور الجنة",
+    "AdresseL": "NULL",
+    "AdresseA": "بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAA",
+    "NOM_ETABA": "البراءة",
+    "AdresseL": "NULL",
+    "AdresseA": "بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ennakhil",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "hay oum dhar lotissement ennak",
+    "AdresseA": "حي أم ظهر تجزئة النخيل بلوك 2 ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALIRTIQAA",
+    "NOM_ETABA": "الارتقاء ",
+    "AdresseL": "5 LOT ACHIFAA OUMDHAR",
+    "AdresseA": " رقم 5تجزئة الشفاء حي أم الظهر",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole al itilaf d enseignement originel",
+    "NOM_ETABA": "مؤسسة الائتلاف للتعليم المدرسي الخصوصي الأصيل",
+    "AdresseL": "RUE MOHAMED VI COMPLEXE OMNIA ",
+    "AdresseA": "شارع محمد السادس مركب أمنية رق",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL iktibassE ",
+    "NOM_ETABA": "الاقتباس",
+    "AdresseL": "QUARTIER AL ATLAS bloc 3 n° 98",
+    "AdresseA": "حي الأطلس بلوك 3 رقم 98 بني مل",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FRANCOIS RABLAIS",
+    "NOM_ETABA": "فرانسوا رابلي",
+    "AdresseL": "N° 2 BD ATTAIF QUARTIER ADMINI",
+    "AdresseA": " شارع الطائف الحي الإداري رقم ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HIBA",
+    "NOM_ETABA": "هبة",
+    "AdresseL": "N° 182 RUE 2 QUARTIER IBNOU SI",
+    "AdresseA": "الرقم 182 الزنقة 2 حي ابن سينا",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNABAT ATTAYEB",
+    "NOM_ETABA": "النبات الطيب",
+    "AdresseL": "RUE 2 QUARTIER SI SALEM BENI M",
+    "AdresseA": "زنقة 2 حي سي سالم بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "09-mars",
+    "NOM_ETABA": "مارس9",
+    "AdresseL": "N° 63 LOTISSEMENT EL HAOUAT BE",
+    "AdresseA": "الرقم 63 تجزئة الحوات بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FAJR",
+    "NOM_ETABA": "الفجر",
+    "AdresseL": "N0 2 LOTISSEMENT ERRACHIDIA EL",
+    "AdresseA": "الرقم 2 تجزئة الراشيدية بني مل",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIJAL AL GHAD",
+    "NOM_ETABA": "رجال الغد",
+    "AdresseL": "BD BAGHDAD QUARTIER AIT ATHAYC",
+    "AdresseA": "حي اطحيش شارع بغداد بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S.KAD",
+    "NOM_ETABA": "مجموعة مدارس قادري",
+    "AdresseL": "BD MED V ROUTE MARRAKECH BENI ",
+    "AdresseA": "شارع محمد الخامس طريق مراكش",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Maarij",
+    "NOM_ETABA": "المعارج",
+    "AdresseL": "Avenue Mohamed V, Route de Mar",
+    "AdresseA": "شارع محمد الخامس، طريق مراكش",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Safir Alqalam",
+    "NOM_ETABA": "سفير القلم",
+    "AdresseL": "Rue 5, Hay Al Adarissa.N°6 - C",
+    "AdresseA": "الزنقة 5، حي الأدارسة الرقم 6-",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Abou Hamed El Ghazali 1",
+    "NOM_ETABA": " 1ابو حامد الغزالي",
+    "AdresseL": "N° 7, Hay Chrif - C.U. beni Me",
+    "AdresseA": "رقم 7، حي الشرف - ج.ح. بني ملا",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Tarik Ibn Ziad",
+    "NOM_ETABA": "مؤسسة طارق بن زياد",
+    "AdresseL": "Place de la Marche Verte - Ben",
+    "AdresseA": "ساحة المسيرة الخضراء - بني ملا",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Abou Alkacim Essaoumai",
+    "NOM_ETABA": "أبو القاسم الصومعي",
+    "AdresseL": "Boulevard Mohamed V - Beni Mel",
+    "AdresseA": "شارع محمد الخامس - بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL Irfane",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "Avenue Hassan II, Quartier Ada",
+    "AdresseA": "شارع الحسن الثاني، حي الأدارسة",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Assabah",
+    "NOM_ETABA": "الصباح",
+    "AdresseL": "Lot. Joulali, Bloc 1, N° 5, Ou",
+    "AdresseA": "تجزئة الجولالي، بلوك 1، رقم 5،",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jil Al Moustakbal",
+    "NOM_ETABA": "جيل المستقبل",
+    "AdresseL": "Complexe Oumnia, Boulevard 20 ",
+    "AdresseA": "مجمع أمنية، شارع 20 غشت - بني ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Victor Hugo",
+    "NOM_ETABA": "فيكتور هيجو",
+    "AdresseL": "Avenue Hassan II, N° 314 - Ben",
+    "AdresseA": "شارع الحسن الثاني، رقم 314 - ب",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al itilaf2",
+    "NOM_ETABA": "الإئتلاف2",
+    "AdresseL": "bd MOHAMED VI lotissement khal",
+    "AdresseA": "شارع  محمد السادس تجزئة خليفة ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gs alam attarbya",
+    "NOM_ETABA": "م/م عالم التربية",
+    "AdresseL": "LOTISSEMENT ARGANA N° 16-17",
+    "AdresseA": "تجزئة اركانة 16-17",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SABAYA ALKHAYR",
+    "NOM_ETABA": "صبايا الخير",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الفتح زنقة6 رقم 49",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OM AL-KHAYR",
+    "NOM_ETABA": "ام الخير",
+    "AdresseL": "NULL",
+    "AdresseA": "حي النصر رقم 77 زنقة 9",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BEL AIR",
+    "NOM_ETABA": "بيل اير",
+    "AdresseL": "LOT KHAWLA N°18",
+    "AdresseA": "تجزئة خولة رقم 18",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ADAM",
+    "NOM_ETABA": "آدم",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة القدس بلوك 1",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEORGES PEREC 1",
+    "NOM_ETABA": "جورج بيريك 1",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 837 حي المسيرة 2",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL iktibassE 2",
+    "NOM_ETABA": "الإقتباس 2",
+    "AdresseL": "QUARTIER  atlas bloc 2 N°61 BE",
+    "AdresseA": "رقم 61 بلوك2حي الأطلس بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIYAD ALAHMADAYNE",
+    "NOM_ETABA": "رياض الاحمدين",
+    "AdresseL": "hay administratif bd med v imm",
+    "AdresseA": "الحي الإداري شارع محمد الخامس ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annbat al taib 2",
+    "NOM_ETABA": "النبات الطيب 2",
+    "AdresseL": "HAY BEN ADDI N 17 AV TAHA HSSE",
+    "AdresseA": "حي بن عدي رقم 17 شارع طه حسين",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GHALI",
+    "NOM_ETABA": "غالي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بن سينا بلوك 11 رقم 12 بني ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KINDER GARTEN",
+    "NOM_ETABA": "KINDER GARTEN",
+    "AdresseL": "NULL",
+    "AdresseA": "حي التقدم بلوك 17 رقم 1 بني مل",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE RAYID",
+    "NOM_ETABA": "مجموعة مدارس الرائد",
+    "AdresseL": "quartier zaytoune ourbia beni ",
+    "AdresseA": "حي الزيتون أوربيع بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROWAD ALMARIFA",
+    "NOM_ETABA": "رواد المعرفة",
+    "AdresseL": "lotissement lbaraka lot n° 12 ",
+    "AdresseA": "تجزئة البركة رقم 12 بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE IBN ROCHD AVERROES",
+    "NOM_ETABA": "مجموعة مدارس ابن رشد افيروس",
+    "AdresseL": "Quartier Darkoum bloc 5 num 2",
+    "AdresseA": "حي داركوم بلوك 5 الرقم 2 بني م",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HADAIQ AL MAARIFA",
+    "NOM_ETABA": "حدائق المعرفة",
+    "AdresseL": "boulevard hassan ii lotissemen",
+    "AdresseA": "شارع الحسن الثاني تجزئة باباي ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JACQUE YVE COUSTEAU ",
+    "NOM_ETABA": "جاك ايف كوسطو",
+    "AdresseL": "lotissement oum dhar lot n° 38",
+    "AdresseA": "تجزئة أم الظهر الرقم38  التقدم",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT PONT  ",
+    "NOM_ETABA": "الجسر الصغير",
+    "AdresseL": "lotissement chems 2 n° 35 beni",
+    "AdresseA": "تجزئة الشمس 2 رقم 35 بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FADL 2 ",
+    "NOM_ETABA": "الفضل 2",
+    "AdresseL": "lotissement touta 3 lot n° 12 ",
+    "AdresseA": "تجزئة التوتة 3 رقم 12 بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL KAWTAR  ",
+    "NOM_ETABA": "مجموعة مدارس الكوثر",
+    "AdresseL": "QUARTIER  ADMINISTRATIF BENI M",
+    "AdresseA": "الحي الإداري بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "  TOYOUR ERRAYANE ",
+    "NOM_ETABA": "طيور الريان ",
+    "AdresseL": "boulevard el moutanabi n° 173 ",
+    "AdresseA": "شارع المتنبي رقم 173 بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JACQUES PREVERT   ",
+    "NOM_ETABA": "جاك بريفار",
+    "AdresseL": "lotissement 5 n° 40 oum dhar b",
+    "AdresseA": "التجزئة 5 الرقم 40 أم اظهر بني",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GEORGES ORWELL   ",
+    "NOM_ETABA": "جورج اورويل",
+    "AdresseL": "massira 1 lotissement ennaciri",
+    "AdresseA": "المسيرة 1 تجزئة الناصرية البقع",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALPHONSE DE LAMARTINE ",
+    "NOM_ETABA": "ألفونس دولا مارتين",
+    "AdresseL": "lotissement al amal n°3 avenue",
+    "AdresseA": "تجزئة الأمل رقم 3 شارع 20 غشت ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FROEBEL",
+    "NOM_ETABA": "فروبيل ",
+    "AdresseL": "NULL",
+    "AdresseA": "عمارة الشرفاء رقم 4  حي  الصوم",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HILAL",
+    "NOM_ETABA": "الهلال ",
+    "AdresseL": "villa 51 quartier alhouda beni",
+    "AdresseA": "فيلا 51 حي الهدى بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MIFTAH ALMOUSTAKBAL",
+    "NOM_ETABA": "مجموعة مدارس مفتاح المستقبل ",
+    "AdresseL": "QUARTIER mIFTAH LOTISSEMENT AS",
+    "AdresseA": "حي مفتاح تجزئة السلام بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LILE AUX ENFANTS ",
+    "NOM_ETABA": "LILE AUX ENFANTS ",
+    "AdresseL": "bv tamagnount,rue 05,n448 beni",
+    "AdresseA": "شارع تمكنونت الزنقة 05 الرقم 4",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAMA NAJMA",
+    "NOM_ETABA": "ماما نجمة ",
+    "AdresseL": "",
+    "AdresseA": "تجزئة المسيرة 2 بلوك 8 الرقم 4",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNASR ",
+    "NOM_ETABA": "النصر ",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة ام اظهر رقم 72 بني ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLES ABDELLAH GUENNOUN",
+    "NOM_ETABA": "مدارس عبدالله كنون ",
+    "AdresseL": "lot:cadiayad oumdhar el massir",
+    "AdresseA": "تجزئة القاضي عياض حي ام الظهر ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EL MOUTANABI ",
+    "NOM_ETABA": "مجموعة مدارس المتنبي ",
+    "AdresseL": "NULL",
+    "AdresseA": "اولاد حمدان جنان التوت بني ملا",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD AL WIAM ",
+    "NOM_ETABA": "رياض الوئام ",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الاطلس  فيلا رقم 1 بلوك ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNBAT AL TAIB 3",
+    "NOM_ETABA": "النبات الطيب 3 ",
+    "AdresseL": "N°1 BD RABAT LOT BABAY ROUTE O",
+    "AdresseA": "تجزئة باباي طارق رقم 1 شارع ال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SAFIR ETTAHADI ",
+    "NOM_ETABA": "مجموعة مدارس سفير التحدي ",
+    "AdresseL": "BLOC 2 N 3 BENI MELLAL",
+    "AdresseA": "المسيرة 2 بلوك 3 بني ملال ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TARIK BENZIAD 2",
+    "NOM_ETABA": "طارق بن زياد 2",
+    "AdresseL": "BD HASSAN II OULED HAMDAN BENI",
+    "AdresseA": "شارع الحسن الثاني اولاد حمدان ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBNOU AL  KHATIB ",
+    "NOM_ETABA": "ابن الخطيب ",
+    "AdresseL": "",
+    "AdresseA": "تجزئة البلسم رقم 72 بني ملال ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE  JACQUES CARTIER",
+    "NOM_ETABA": "   مجموعة مدارس جاك كارتيي  ",
+    "AdresseL": "19 LOTISSEMENT AIN ATTI BENIME",
+    "AdresseA": "الرقم 19 تجزئة عين العاطي بني ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ezzahraoui",
+    "NOM_ETABA": "الزهراوي",
+    "AdresseL": "",
+    "AdresseA": "شارع الجيش الملكي حي المسيرة ب",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sabil Ennajah",
+    "NOM_ETABA": "سبيل النجاح ",
+    "AdresseL": "lot.lalla faiza . n.3 beni mel",
+    "AdresseA": "تجزئة لالة فائزة الرقم 3 بني م",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sokrat",
+    "NOM_ETABA": "سقراط",
+    "AdresseL": "Quartier ziToune numero 47",
+    "AdresseA": "حي الزيتون رقم 47 ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement kawtar",
+    "NOM_ETABA": "مؤسسة كوثر",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة اليوسفية 1 رقم 51 أولاد ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAAT SALSABIL",
+    "NOM_ETABA": "براءة سلسبيل الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي بياض الصومعة زنقة 1 رقم 2 ب",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "labrar atlas",
+    "NOM_ETABA": "لبرار أطلس",
+    "AdresseL": "Hay Atlas Elmenzah, villa 32 b",
+    "AdresseA": "حي الأطلس المنزه فيلا 32 بني م",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZEyyati",
+    "NOM_ETABA": "الزياتي الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "lot assmae N°66 Beni Mellal",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOROUH",
+    "NOM_ETABA": "صروح",
+    "AdresseL": "BOULVARD 20 AOUT BENI MELLAL",
+    "AdresseA": "شارع 20 غشت بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el farouki",
+    "NOM_ETABA": "الفاروقي",
+    "AdresseL": "Avenue Hassan II Oulad hamdane",
+    "AdresseA": "شارع الحسن الثاني ، أولاد حمدا",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GHOSN ALBARAAIM",
+    "NOM_ETABA": "غصن البراعم",
+    "AdresseL": "Hay meftah bloc 2 Numero 41",
+    "AdresseA": "حي مفتاح بلوك 2 رقم 23",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le château des petits génies ",
+    "NOM_ETABA": "لوشاتو دي بوتي جيني",
+    "AdresseL": "lot hayat quartier allaymone",
+    "AdresseA": "تجزئة حياة حي الليمون",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMINE",
+    "NOM_ETABA": "الأمين",
+    "AdresseL": "lot Ain Asserdoun bloc 4 numér",
+    "AdresseA": "تجزئة عين أسردون بلوك 4 رقم 1",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire la racine carree",
+    "NOM_ETABA": "مجموعة مدارس لاراسين كاري الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "III تجزئة الشطبي ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS Tahar Ben Jelloun",
+    "NOM_ETABA": "مجموعة مدارس الطاهر بن جلون",
+    "AdresseL": "Lotissement Badia, Almadhar- B",
+    "AdresseA": " تجزئة بديعة حي أم اظهر بني مل",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GEORGES PEREC OUZOU",
+    "NOM_ETABA": "جورج بريك أوزو",
+    "AdresseL": "",
+    "AdresseA": "تجزئة كنزة 1 رقم 18 بني ملال ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE MONDE Dexcellence",
+    "NOM_ETABA": "لو موند ديكسلونس",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الريف رقم 13 أم الظهر بن",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS Graines de succès",
+    "NOM_ETABA": "مجموعة مدارس بذور النجاح",
+    "AdresseL": "lotissement elkods n°33 BENI M",
+    "AdresseA": "تجزئة القدس رقم 33 بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS espace al akhawayne",
+    "NOM_ETABA": "مجموعة مدارس فضاء الأخوين",
+    "AdresseL": "LOTISSEMENT ALWAHA 1",
+    "AdresseA": "تجزئة الواحة 1 بني ملال",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole sabile ennajah beni mallal",
+    "NOM_ETABA": "مدرسة سبيل النجاح بني ملال",
+    "AdresseL": "lotissement Bahija Beni Mellal",
+    "AdresseA": "تجزئة بهيجة بني ملال ",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al itilaf succursale 1",
+    "NOM_ETABA": "1 الائتلاف الخاصة سيكرسال",
+    "AdresseL": "lotissement oumnia N°20 Bd 20 ",
+    "AdresseA": "تجزئة امينة رقم 20 شارع 20 غشت",
+    "COMMUNE": "Béni Mellal ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

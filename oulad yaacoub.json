@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL OULED YAAGOUB",
+    "NOM_ETABA": "ثانوية  اولاد يعقوب الاعدادية",
+    "AdresseL": "commune ouled yagoub",
+    "AdresseA": "جماعة اولاد يعقوب",
+    "COMMUNE": "Oulad Yaacoub",
+    "PROVINCE": "Province: El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD YAAGOUB CENTRE",
+    "NOM_ETABA": "اولاد يعقوب المركزية",
+    "AdresseL": "OULED ELGHAZI COMMUNE OULED YAAGOUB",
+    "AdresseA": "دوار اولاد الغازي",
+    "COMMUNE": "Oulad Yaacoub",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEBRARJA CENTRE",
+    "NOM_ETABA": "لبرارجة المركزية",
+    "AdresseL": "DOUAR LEBRARJA COMMUNE OULED YAAGOUB",
+    "AdresseA": "دوار لبرارجة",
+    "COMMUNE": "Oulad Yaacoub",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

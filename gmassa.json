@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL GMASSA",
+    "NOM_ETABA": "الثانوية الإعدادية كماسة",
+    "AdresseL": "commune Gmassa province chichaoua",
+    "AdresseA": " جماعة كماسة شيشاوة",
+    "COMMUNE": "Gmassa",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GMASSA",
+    "NOM_ETABA": "كماسة",
+    "AdresseL": "DOUAR GMASSA COMMUNE GMASSA",
+    "AdresseA": "دوار كماسة جماعة كماسة قيادة فروكة مجاط",
+    "COMMUNE": "Gmassa",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT ABEDELLAH",
+    "NOM_ETABA": "ايت عبد الله",
+    "AdresseL": "DOUAR AIT ABEDELLAH COMMUNE GUEMASSA",
+    "AdresseA": "دوار ايت عبد الله",
+    "COMMUNE": "Gmassa",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAR AHMED SALEM",
+    "NOM_ETABA": "أحمد سالم",
+    "AdresseL": "DOUAR DAR AHMED SALEM COMMUNE GUEMASSA",
+    "AdresseA": "دوار احمد سالم جماعة كماسة",
+    "COMMUNE": "Gmassa",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAOUILOULT",
+    "NOM_ETABA": "تاويلولت",
+    "AdresseL": "DOUAR TAOULOULT COMMUNE GMASSA",
+    "AdresseA": "دوار تاويلولت",
+    "COMMUNE": "Gmassa",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALAMENZOU",
+    "NOM_ETABA": "تلامنزو",
+    "AdresseL": "DOUAR TALAMENZOU COMMUNE GuMASSA CERCLE MEJJAT CHI",
+    "AdresseA": "  دوار تلامنزو جماعة كماسة دائرة مجاط اقليم شيشاوة",
+    "COMMUNE": "Gmassa",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMREMDA",
+    "NOM_ETABA": "لمرمضة",
+    "AdresseL": "DOUAR LAMREMDA COMMUNE GMASSA",
+    "AdresseA": "دوار  لمرمضة",
+    "COMMUNE": "Gmassa",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

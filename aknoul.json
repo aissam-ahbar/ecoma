@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "ELOUZ",
+    "NOM_ETABA": "اللوز",
+    "AdresseL": "AKNOUL CENTRE",
+    "AdresseA": "أكنول المركز",
+    "COMMUNE": "Aknoul",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AKNOUL",
+    "NOM_ETABA": "أكنول",
+    "AdresseL": "AKNOUL CENTRE",
+    "AdresseA": "أكنول المركز",
+    "COMMUNE": "Aknoul",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant 2 OCTOBRE 1955",
+    "NOM_ETABA": "الثانوية التأهيلية2 اكتوبر 1955 ",
+    "AdresseL": "AKNOUL CENTRE",
+    "AdresseA": "أكنول المركز",
+    "COMMUNE": "Aknoul",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

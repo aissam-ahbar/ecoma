@@ -1,0 +1,1032 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDERRAHIM BOUABID",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الرحيم بوعبيد",
+    "AdresseL": "MOULAY RACHID HAY RAJA 1",
+    "AdresseA": "مولاي رشيد حي الرجاء 1",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL HASSAN EL YOUSSI",
+    "NOM_ETABA": "الثانوية الإعدادية الحسن  اليوسي",
+    "AdresseL": "AV 20 AOUT AL MADINA AL JADIDA HAY MOULAY RACHID",
+    "AdresseA": "محج 20 غشت المدينة الجديدة  حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL KADI AYYAD",
+    "NOM_ETABA": "الثانوية الإعدادية القاضي عياض",
+    "AdresseL": "HAY ERRAHMA RUE 5 MOULAY RACHID",
+    "AdresseA": "حي الرحمة زنقة 5 مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRACHID",
+    "NOM_ETABA": "الثانوية الإعدادية الرشيد",
+    "AdresseL": "HAY BOURNAZEL  MOULAY RACHID",
+    "AdresseA": "حي مولاي رشيد 2 ــ بورنازيل سابقا ــ   ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL FARABI",
+    "NOM_ETABA": "الثانوية الإعدادية الفارابي",
+    "AdresseL": "HAY ESSADRI g3  MOULAY RACHID",
+    "AdresseA": "حي السدري مجموعة 3 مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL AKID  EL ALLAM",
+    "NOM_ETABA": "الثانوية الإعدادية العقيد العلام",
+    "AdresseL": "HAY MASSIRA 3  AVENUE EL AKID EL ALLAM",
+    "AdresseA": "حي المسيرة 3 شارع العقيد العلام",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDALLAH BEN YASSINE",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله بن ياسين",
+    "AdresseL": "HAY ESSADRI  RUE66  MOULAY RACHID",
+    "AdresseA": "حي السدري الزنقة 66  مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IFRIQUIA",
+    "NOM_ETABA": "الثانوية الإعدادية إفريقيا",
+    "AdresseL": "GROUPE 4 HAY MOULAY RACHID",
+    "AdresseA": "المجموعة 4 حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI DER  ELGHIFARI",
+    "NOM_ETABA": "الثانوية الإعدادية أبي ذر الغفاري",
+    "AdresseL": "GROUPE 6 Bd OKBA BNO NAFII HAY MOULAY RACHID",
+    "AdresseA": "مجموعة 6 شارع عقبة بن نافع حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL 20 AOUT",
+    "NOM_ETABA": "  الثانوية الإعدادية 20 غشت ",
+    "AdresseL": "AVENUE ABDELKADER ESSAHRAOUI  HAY MASSIRA 3",
+    "AdresseA": "شارع عبد القادر الصحراوي حي المسيرة 3",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL BOUKHARI",
+    "NOM_ETABA": "الثانوية الإعدادية البخاري",
+    "AdresseL": "Lotissement El Abrar Hay Moulay Rachid",
+    "AdresseA": "تجزئة الأبرار حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ARRAHALI AL FAROUKI",
+    "NOM_ETABA": "الثانوية الإعدادية الرحالي الفاروقي",
+    "AdresseL": "Bv Idriss Alharti Hy Albaraka",
+    "AdresseA": "شارع إدريس الحارثي حي البركة",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL RAHHAL ALMASKINI",
+    "NOM_ETABA": "الثانوية الإعدادية رحال المسكيني",
+    "AdresseL": "Elmadinajadida",
+    "AdresseA": "المدينة الجديدة",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MEHDI BEN TOUMART",
+    "NOM_ETABA": "الثانوية الإعدادية المهدي بن تومرت",
+    "AdresseL": "Avenue Maati BOUZIANE hay Essadri Moulay Rachid",
+    "AdresseA": "شارع ا محمد بوزيان حي السدري مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNO SINA",
+    "NOM_ETABA": "الثانوية الإعدادية إبن سينا",
+    "AdresseL": "LOTISSEMENT ALFADL",
+    "AdresseA": "تجزئة الفضل",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE   BILAL",
+    "NOM_ETABA": "المدرسة الإبتدائية بلال",
+    "AdresseL": "ecole bilal  HAY MOULAY RACHID2",
+    "AdresseA": " 2مدرسة بلال حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   LALLA MALIKA",
+    "NOM_ETABA": "المدرسة الإبتدائية للا مليكة",
+    "AdresseL": "BOURNAZEL HAY MOULAY RACHID",
+    "AdresseA": "بورنازيل حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ABDERRAHMANE ENNASSER",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الرحمان الناصر",
+    "AdresseL": "GROUPE 3 RUE 1 HAY ESSADRI",
+    "AdresseA": "مجموعة 3 زنقة 1 حي السدري",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   EL MASSIRA EL KHADRA",
+    "NOM_ETABA": "المدرسة الإبتدائية المسيرة الخضراء",
+    "AdresseL": "AVENUE EL AKID EL ALLAM g1 HAY MOULAY RACHID ",
+    "AdresseA": "شارع  العقيد العلام  - مجموعة 1 - حي مولاي رشيد ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   EL KODS",
+    "NOM_ETABA": "المدرسة الإبتدائية القدس",
+    "AdresseL": " BD KHALIFA BEN ISMAIL HAY MASSIRA3",
+    "AdresseA": "شارع خليفة بن اسماعيل حي المسيرة 03",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ABDERRAHMANE LEMKHANET",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الرحمان لمخنث",
+    "AdresseL": "HAY SADRI GROUPE 2 HAY MOULAY RACHID",
+    "AdresseA": "حي السدري مجموعة 2  حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   TARIK BEN ZIYAD",
+    "NOM_ETABA": "المدرسة الإبتدائية طارق بن زياد",
+    "AdresseL": "HAY MOULAY RACHID GROUPE 2  boulevard    B CASA BL",
+    "AdresseA": "   حي مولاي رشيد مجموعة 2 شارع B  الدار البيضاء",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   OKBA BNOU NAFII",
+    "NOM_ETABA": "المدرسة الإبتدائية عقبة بن نافع",
+    "AdresseL": "RUE G GROUPE 3 HAY MOULAY RACHID",
+    "AdresseA": "مجموعة 3 زنقة ج حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ABDERRAHMEN EDDAKHIL",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الرحمان الداخل",
+    "AdresseL": "HAY ERRAHMA  MOULAY RACHID",
+    "AdresseA": "حي  الرحمة مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ABDELKARIM EL KHATTABI",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الكريم الخطابي",
+    "AdresseL": "BD JOUDAR HAY MOULAY RACHID GRPOUPE 5",
+    "AdresseA": "شارع جودار حي مولاي رشيد مجموعة 5",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ISLI",
+    "NOM_ETABA": "المدرسة الإبتدائية إسلي",
+    "AdresseL": "EL MASSIRA 3 AVENUE E HAY MOULAY RACHID",
+    "AdresseA": " حي مولاي رشيد   E المسيرة 3 شارع  ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   IMAM MALIK",
+    "NOM_ETABA": "المدرسة الإبتدائية الإمام مالك",
+    "AdresseL": "HAY MOULAY RACHID GROUPE 3",
+    "AdresseA": "حي مولاي رشيد مجموعة 3",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   IBNO EL HAYTEM",
+    "NOM_ETABA": "المدرسة الإبتدائية إبن الهيثم",
+    "AdresseL": "RUE  M  GROUPE 2 HAY MOULAY RACHID",
+    "AdresseA": "حي مولاي رشيد المجموعة 2 شارع م",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   GENERAL KETTANI",
+    "NOM_ETABA": "المدرسة الإبتدائية الجنرال الكتاني",
+    "AdresseL": "HAY MOULAY RACHID GROUPE 1",
+    "AdresseA": "حي مولاي رشيد مجموعة 1",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ABDERRAHMEN BEN ZIDANE",
+    "NOM_ETABA": "المدرسة الإبتدائية عبد الرحمان بن زيدان",
+    "AdresseL": "AVMED BOUZIANE HAY MOULAY RACHID",
+    "AdresseA": "شارع محمد بوزيان حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   MOHAMMED EL KORRI",
+    "NOM_ETABA": "المدرسة الإبتدائية محمد القري",
+    "AdresseL": "HAY ESSADRI  MOULAY RACHID",
+    "AdresseA": "حي السدري مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   RABIA EL ADAOUIA",
+    "NOM_ETABA": "المدرسة الإبتدائية رابعة العدوية",
+    "AdresseL": "RUE 44 HAY EL MASSIRA 2  MOULAY RACHID",
+    "AdresseA": "الزنقة 44 حي المسيرة 2 مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ABOU EL KACEM EZZAYANI",
+    "NOM_ETABA": "المدرسة الإبتدائية أبو القاسم  الزياني",
+    "AdresseL": "AV DRIS HARTI HAY BARAKA HAY MOULAY RACHID",
+    "AdresseA": "شارع إدريس الحارتي حي البركة حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   IBNOU EL OUANANE",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن الونان",
+    "AdresseL": "HAY BARAKA BD DRIS HARTI RUE 20 HAY MOULAY RACHID",
+    "AdresseA": "حي البركة شارع ادريس الحارثي زنقة 20 مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   EL ATLAS",
+    "NOM_ETABA": "المدرسة الإبتدائية الأطلس",
+    "AdresseL": "BD JOUDAR HAY MOULAY RACHID",
+    "AdresseA": "شارع جودار حي مولاي  رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   MOSSAAB BNOU OMAIR",
+    "NOM_ETABA": "المدرسة الإبتدائية مصعب  بن عمير",
+    "AdresseL": "hay Moulay rachid cartier indistreal",
+    "AdresseA": "حي مولاي رشيد  الحي الصناعي",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   OTHMAN IBN AFFANE",
+    "NOM_ETABA": "المدرسة الإبتدائية عثمان ابن عفان",
+    "AdresseL": "Almadina Algadida Av 20 A0UT",
+    "AdresseA": "المدينة الجديدة محج 20 غشت",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   TARMIDI",
+    "NOM_ETABA": "المدرسة الإبتدائية الترمذي",
+    "AdresseL": "Emadina Eljadida Moulay Rachid",
+    "AdresseA": "المدينة الجديدة   مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ALFADL",
+    "NOM_ETABA": "المدرسة الإبتدائية الفضل",
+    "AdresseL": "LOT AFADL MOULAY RCHID",
+    "AdresseA": "تجزئة الفضل",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ALKHALIL",
+    "NOM_ETABA": "المدرسة الإبتدائية الخليل",
+    "AdresseL": "LOT ALFADL MOULAY RCHID",
+    "AdresseA": "تجزئة الفضل",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ELOKHOUA",
+    "NOM_ETABA": "المدرسة الإبتدائية الأخوة",
+    "AdresseL": "MADINA JADIDA MOULAY RCHID",
+    "AdresseA": "المدينة الجديدة مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANNASRE",
+    "NOM_ETABA": "المدرسة الإبتدائية النصر",
+    "AdresseL": "LOT ALABRAR ALMADINA ALJADIDA MOULAY RACHID",
+    "AdresseA": "تجزئة الأبرار المدينة الجديدة مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   EL MANFALOUTI",
+    "NOM_ETABA": "المدرسة الابتدائية المنفلوطي",
+    "AdresseL": "Lotissement El Abrar Hay Moulay Rachid",
+    "AdresseA": "تجزئة الأبرار حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUSSA BNO NOSSAIR",
+    "NOM_ETABA": "الثانوية التأهيلية موسى بن نصير",
+    "AdresseL": "LOTISSEMENT ALFADL",
+    "AdresseA": "تجزئة الفضل",
+    "COMMUNE": "Moulay Rachid ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELMAKDISSI",
+    "NOM_ETABA": "الثانوية التأهيلية المقدسي",
+    "AdresseL": "EL BAIDA 2 Elmadina Eljadida  Moulay Rachid",
+    "AdresseA": "البيضاء 2، المدينة الجديدة، مولاي رشيد",
+    "COMMUNE": "Moulay Rachid ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH EL MEDIOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الله المديوني",
+    "AdresseL": "bd 20 aout ALMADINA ALJADIDA HAY MOULAY RACHID",
+    "AdresseA": "شارع 20 غشت المدينة الجديدة حي مولاي رشيد",
+    "COMMUNE": "Moulay Rachid ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY IDRISS",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي إدريس",
+    "AdresseL": "HAY MOULAY RACHID Bloc 4",
+    "AdresseA": "حي مولاي رشيد بلوك 4",
+    "COMMUNE": "Moulay Rachid ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT JAAFAR EL FASSI",
+    "NOM_ETABA": "الثانوية التأهيلية جعفر الفاسي",
+    "AdresseL": "AVENUE EL AKID EL ALLAM MOULAY RACHID",
+    "AdresseA": "شارع العقيد العلام ملاي رشيد",
+    "COMMUNE": "Moulay Rachid ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELMALEK ESSAADI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد المالك السعدي",
+    "AdresseL": "AVENUE DES FORCES AUXILIERES HAY ESSADRI",
+    "AdresseA": "شارع القوات المساعدة حي السدري",
+    "COMMUNE": "Moulay Rachid ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ASSALAM",
+    "NOM_ETABA": "الثانوية التأهيلية السلام",
+    "AdresseL": "BOULEVARD ABDELKADER ASSAHRAOUI LOTS ALMOSTAKBEL",
+    "AdresseA": "شارع عبد القادر الصحراوي تجزئة المستقبل",
+    "COMMUNE": "Moulay Rachid ",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire rifak",
+    "NOM_ETABA": "مجموعة مدارس رفاق الخصوصية",
+    "AdresseL": "boulevard mohamed abdou diouf ",
+    "AdresseA": "شارع محمد عبدو ضيوف إقامة جوهر",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire Oxford",
+    "NOM_ETABA": "مجموعة مدارس اوكسفورد الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "الشطر B  الرقم EPV1 المدينة ال",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MENDEL DEUX",
+    "NOM_ETABA": "مؤسسة مندل 2 الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة النسمة 2 مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ANOUAR AL MIAARAJ 2",
+    "NOM_ETABA": "مجموعة مدارس أنوار المعراج",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الرحمة 184 مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZIYAD ACADEMY SCHOOLe",
+    "NOM_ETABA": "زياد أكاديمي سكول الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الفضل الرقم 1026 مولاي ر",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD ANNOBALAA 2",
+    "NOM_ETABA": "رياض النبلاء 2 الخصوصية",
+    "AdresseL": "lot N°13 Hay ESSENAI Moulay Ra",
+    "AdresseA": "بقعة 13 الحي الصناعي مولاي رشي",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ABOU MAROUANE",
+    "NOM_ETABA": "مجموعة مدارس أبو مروان الخصوصية",
+    "AdresseL": "Lotissement Al Baraka N° 300 M",
+    "AdresseA": "تجزئة البركة رقم 300 مولاي رشي",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL INTELAKA  AL OULAe",
+    "NOM_ETABA": "الإنطلاقة الأولى الخصوصية",
+    "AdresseL": "avenue assia alwadiai lotissem",
+    "AdresseA": "تحزئة المستقبل بقعة 2-8-14-",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRAFIEE",
+    "NOM_ETABA": "الرفيع الخصوصية",
+    "AdresseL": "90 Lotissement al mostakbal al",
+    "AdresseA": "تجزئة المستقبل رقم 103 مولاي ر",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JACQUES YVES COUSTEAU",
+    "NOM_ETABA": " مجموعة مدارس جاك ايف كوسطو الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة مناوس2 رقم 158 حي مولاي ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOROUJ ALMAARIFA",
+    "NOM_ETABA": "بروج المعرفة الخصوصية",
+    "AdresseL": "Lotissement Al Mostakbal N° 10",
+    "AdresseA": "تجزئة المستقبل رقم 10 مولاي رش",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZOBAIR BNO AOUAM",
+    "NOM_ETABA": "زبير بن العوام الخصوصية",
+    "AdresseL": "Résidence Almostakbel N°82 Alm",
+    "AdresseA": "82 إقامة المستقبل المدينة الجد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JESR ANNAJAH",
+    "NOM_ETABA": "جسر النجاح",
+    "AdresseL": "bd.mohammed Bouziane hay elbar",
+    "AdresseA": " شارع محمد بوزيان حي البركة زن",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHOLM",
+    "NOM_ETABA": "الحلم الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المستقبل زنقة 50 الرقم 7",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD ANOUBALAEE",
+    "NOM_ETABA": "رياض النبلاء الخصوصية",
+    "AdresseL": "lotissement Zakaria My Rchid",
+    "AdresseA": "تجزئة زكرياء مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALABRIYAA ",
+    "NOM_ETABA": "الأبرياء  الخصوصية",
+    "AdresseL": "246 Rue 5 Hay Arahma",
+    "AdresseA": "زنقة 5  رقم 246 حي الرحمة ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MABCHOUR",
+    "NOM_ETABA": "مبشور الخصوصية",
+    "AdresseL": "HAY SADRI MOULAY RCHID",
+    "AdresseA": "حي السدري مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ANOUAR ALMIAARAJ",
+    "NOM_ETABA": "مجموعة مدارس انوار المعراج  الخصوصية",
+    "AdresseL": "bd abdelkader sahraoui n°71, h",
+    "AdresseA": "شارع عبد القادر الصحراوي رقم 7",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR",
+    "NOM_ETABA": "نور الخصوصية",
+    "AdresseL": "LOT MERYEM N° 1",
+    "AdresseA": "تجزئة مريم رقم 1 مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KAMILI",
+    "NOM_ETABA": "كميلي الخصوصية",
+    "AdresseL": "HAY RAHMA BV ABDELKADER ESSAHR",
+    "AdresseA": "حي الرحمة شارع عبد القادر الصح",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RESSALAT ALHAYAT",
+    "NOM_ETABA": "رسالة الحياة الخصوصية",
+    "AdresseL": "Hay Afalah N° 418 Moulay Rchid",
+    "AdresseA": "حي الفلاح رقم 418 مولاي رشيد ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RAYHANA",
+    "NOM_ETABA": "ريحانة الخصوصية",
+    "AdresseL": "hay rahma bv khalifa ben smail",
+    "AdresseA": "حي الرحمة  شارع خليفة ابن اسما",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aloula 2",
+    "NOM_ETABA": "العلا 2 الخصوصية",
+    "AdresseL": "127 BIS BOURNAZIL MOULAY RCHID",
+    "AdresseA": " مكرر 127 بورنازيل  مولاي رشيد",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAJORELLE 2",
+    "NOM_ETABA": "ماجوريل 2 خصوصية",
+    "AdresseL": "ALMASSIRA2 HAY MOULAY RACHID",
+    "AdresseA": "المسيرة 2 حي مولاي رشيد ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE GHAZZA",
+    "NOM_ETABA": "مجموعة مدارس غزة الخصوصية",
+    "AdresseL": "36-37-38 Av Idris Alharty Moul",
+    "AdresseA": "مولاي رشيد شارع إدريس الحارثي ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKR",
+    "NOM_ETABA": "أبو بكر الخصوصية",
+    "AdresseL": "hay My Rachid 2° tranche Gr3 N",
+    "AdresseA": "حي مولاي رشيد الشطر الثاني مجم",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FAIHAA",
+    "NOM_ETABA": "الفيحاء الخصوصية",
+    "AdresseL": "Hay Errahma Bd Khalifa Ben Ism",
+    "AdresseA": "حي الرحمة شارع خليفة بن اسماعي",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JADIR",
+    "NOM_ETABA": "مجموعة مدارس جدير الخصوصية",
+    "AdresseL": "Hay Sadri, Rue 54, N° 64 Group",
+    "AdresseA": "حي الصدري، زنقة 54، مجموعة 5، ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Annacirate",
+    "NOM_ETABA": "مدرسة الناصرة الخصوصية",
+    "AdresseL": "Lotissement Safia, N° 27 , El ",
+    "AdresseA": "تجزئة صفية، رقم 27، حي المسيرة",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Houdae",
+    "NOM_ETABA": "مؤسسة الهدى الخصوصية",
+    "AdresseL": "Lot. Meriem, N° 14, Av. Mohame",
+    "AdresseA": "تجزئة مريم شارع محمد بوزيان رق",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Ayadi Albaida",
+    "NOM_ETABA": "مؤسسة الأيادي البيضاء الخصوصية",
+    "AdresseL": "Angle Rue 1 et Rue 4, Quartier",
+    "AdresseA": "ملتقى زنقة 1 و زنقة 4، حي مولا",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE HANAA ",
+    "NOM_ETABA": "مجموعة مدارس هناء الخصوصية",
+    "AdresseL": "Hay Arrahma Rue 12 N° 294 My R",
+    "AdresseA": "حي الرحمة زنقة 12 الرقم 294 - ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMANE",
+    "NOM_ETABA": "ايمان الخصوصية",
+    "AdresseL": "Hay Arrahma Rue 8 N° 2 Moulay ",
+    "AdresseA": "حي الرحمة زنقة 8 الرقم 2 مولاي",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOULALI",
+    "NOM_ETABA": "سولالي  الخصوصية",
+    "AdresseL": "Hay Arrahma Bd Khalifa Ibn Ism",
+    "AdresseA": "حي الرحمة شارع خليفة بن إسماعي",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE AL MAJD",
+    "NOM_ETABA": "ملحقة المجد الخصوصية",
+    "AdresseL": "Hay Sadri Groupe 2 Rue 48 N° 2",
+    "AdresseA": "حي الصدري مجموعة 2 زنقة 48 الر",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BOUSTANE ALFASSIH",
+    "NOM_ETABA": "البستان الفسيح الخصوصية",
+    "AdresseL": "Groupe 6 Lot 66 Moulay Rachid ",
+    "AdresseA": "المجموعة 6 الزنقة39 الرقم32",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SAYL ",
+    "NOM_ETABA": "مؤسسة السائل الخصوصية",
+    "AdresseL": "Hay Rahma;rue11; N° 350 Moulay",
+    "AdresseA": "حي الرحمة,الزنقة 11 ,رقم 350 م",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ARRIHAB  ",
+    "NOM_ETABA": "مجموعة مدارس الرحاب الخصوصية",
+    "AdresseL": "bd.idriss el harti n° 24 hay m",
+    "AdresseA": "شارع ادريس الحارثي الشطر 1 بقع",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJYALOUNA",
+    "NOM_ETABA": "أجيالنا الخصوصية",
+    "AdresseL": "P90 groupe 4 Hay Abaraka Moula",
+    "AdresseA": "حي البركة مجموعة 4 بقعة رقم P9",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMADINA ALJADIDA",
+    "NOM_ETABA": "المدينة الجديدة الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "شارع عبد القادر الصحراوي مولاي",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL OULA",
+    "NOM_ETABA": "العلا الخصوصية",
+    "AdresseL": "Hay Moulay Rachid 1 Bloc 4, Ru",
+    "AdresseA": "حي مولاي رشيد 1 بلوك 4، زنقة 1",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALMOUNTADA",
+    "NOM_ETABA": "مؤسسة المنتدى الخصوصية",
+    "AdresseL": "Moulay Rachid, Hay Errahma, Ru",
+    "AdresseA": "مولاي رشيد، حي الرحمة، زنقة 23",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LINA",
+    "NOM_ETABA": "لينا الخصوصية",
+    "AdresseL": " BV Mouhammed Bouzian Lot. Mer",
+    "AdresseA": "شارع محمد بوزيان تجزئة مريم ال",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALKHALAF",
+    "NOM_ETABA": "الخلف الخصوصية",
+    "AdresseL": "Hay Errahma N° 19, Rue 22 -  M",
+    "AdresseA": "حي الرحمة، الرقم 19، الزنقة 22",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL KADISSIA",
+    "NOM_ETABA": "  القادسية الخصوصية",
+    "AdresseL": "Hay Errahma, Lot. N° 514 -  My",
+    "AdresseA": "حي الرحمة، تجزئة 514 -  مولاي ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Alam El Maarifae",
+    "NOM_ETABA": "مدرسة عالم المعرفة الخاصة",
+    "AdresseL": "N° 66, Bd. Khalifa Ben Smail, ",
+    "AdresseA": "رقم 66-68، شارع خليفة بن اسماع",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA RESSOURCE",
+    "NOM_ETABA": "مجموعة مدارس المورد الخصوصية",
+    "AdresseL": "N° 380, Avenue Khalifa Ben Sma",
+    "AdresseA": "رقم 380، 381شارع خليفة بن اسما",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Al Boustane",
+    "NOM_ETABA": "مجموعة مدارس البستان الخصوصية",
+    "AdresseL": "HAY FALAH BD IDRISS AHARTY N° ",
+    "AdresseA": "حي الفلاح، تجزئة عائشة رقم 9 ش",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ennassiria",
+    "NOM_ETABA": "الناصرية الخصوصية",
+    "AdresseL": "N° 16, Avenue Forces Auxiliair",
+    "AdresseA": "رقم 16، شارع القوات المساعدة ح",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole HAMZA El Aminee",
+    "NOM_ETABA": "مدرسة حمزة الأمين الخصوصية",
+    "AdresseL": "Hay Errahma, Rue 1 - pref. d a",
+    "AdresseA": "حي الرحمة، الزنقة 1 - عمالة مق",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annexe Ecole El Amine",
+    "NOM_ETABA": "ملحقة مدرسة الأمين الخصوصية",
+    "AdresseL": "Hay Errahma, Rue 12, N° 12 - M",
+    "AdresseA": "حي الرحمة، زنقة 12، رقم 12 - م",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATAJRIBA",
+    "NOM_ETABA": "التجربة   الخصوصية",
+    "AdresseL": "Hay Raja1, Rue 9, N° 101 - Bou",
+    "AdresseA": "حي الرجاء1، زنقة 9، رقم 101 - ",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut El Majd",
+    "NOM_ETABA": "مؤسسة المجد الخصوصية",
+    "AdresseL": "Hay Sadri, Groupe II Rue 5 -  ",
+    "AdresseA": "حي السدري، مجموعة 2 زنقة 5 - م",
+    "COMMUNE": "Moulay Rachid",
+    "PROVINCE": "Préf. d’Arr. Moulay R'chi",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

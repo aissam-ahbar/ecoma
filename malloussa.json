@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI AHMED BEN AJIBA",
+    "NOM_ETABA": "ثانوية سيدي احمد بن عجيبة الإعدادية",
+    "AdresseL": "MELLOUSSA CENTRE  COMMUNE MELLOUSSA",
+    "AdresseA": "ملوسة المركز جماعة ملوسة",
+    "COMMUNE": "Malloussa",
+    "PROVINCE": "Province: Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MELOUSSA",
+    "NOM_ETABA": "م/م ملوسة الابتدائية",
+    "AdresseL": "KIADAT MELLOUSSA  COMMUNE MELLOUSSA ",
+    "AdresseA": "ملوسة المركز/ قيادة ملوسة",
+    "COMMUNE": "Malloussa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ERROUMAN",
+    "NOM_ETABA": " م/م الرمان الابتدائية",
+    "AdresseL": "DOUAR ERROUMAN COMMUNE MELLOUSSA ",
+    "AdresseA": "دوار الرمان ، جماعة ملوسة",
+    "COMMUNE": "Malloussa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZEMMIJ",
+    "NOM_ETABA": " م/م الزميج الابتدائية",
+    "AdresseL": "DOUAR ZEMMIJ  COMMUNE MELLOUSSA ",
+    "AdresseA": "دوار الزميج، جماعة ملوسة",
+    "COMMUNE": "Malloussa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL HAMOUMI",
+    "NOM_ETABA": "م/م الحمومي الابتدائية",
+    "AdresseL": "DOUAR AL HAMOUMI COMMUNE MELLOUSSA  ",
+    "AdresseA": "الحمومي جماعة ملوسة",
+    "COMMUNE": "Malloussa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DAR SALAM",
+    "NOM_ETABA": "ثانوية دار السلام التاهيلية",
+    "AdresseL": "CENTRE DE COMMUNE RURALE MELLOUSSA ",
+    "AdresseA": "مركز جماعة ملوسة",
+    "COMMUNE": "Malloussa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT PRESCOLAIRE EL HAMZAOUI",
+    "NOM_ETABA": "مؤسسة الحمزاوي الخصوصة للتعليم الاولي",
+    "AdresseL": "KARIAT ROMMAN MELLOUSSA FAHS A",
+    "AdresseA": "قرية الرمان جماعة ملوسة",
+    "COMMUNE": "Malloussa",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

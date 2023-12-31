@@ -1,0 +1,2832 @@
+[
+  {
+    "NOM_ETABL": "LC OUED  EL MAKHAZINE",
+    "NOM_ETABA": "ثانوية وادي المخازن الإعدادية",
+    "AdresseL": "QUARTIER  MOULAY RACHID   MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي مـولاي رشيـد الخيام أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC SOUSS  AL ALIMA",
+    "NOM_ETABA": " ثانوية سوس العالمة الإعدادية",
+    "AdresseL": "AVENUE  GENERAL KETTANI   MUNICIPALITE D AGADIR",
+    "AdresseA": "شارع الجنرال الكتاني",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC MOHAMMED VI",
+    "NOM_ETABA": " ثانوية محمد السادس الإعدادية",
+    "AdresseL": "AVENUE  MOULAY YOUSSEF   MUNICIPALITE D AGADIR",
+    "AdresseA": "حي مولاي يوسف  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC 20 AOUT",
+    "NOM_ETABA": "ثانوية 20 غشت الإعدادية",
+    "AdresseL": "QUARTIER BOUARGANE   MUNICIPALITE D AGADIR",
+    "AdresseA": "حي بوركان  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC AL FIDIA",
+    "NOM_ETABA": "ثانوية الفضية الإعدادية",
+    "AdresseL": "QUARTIER DAKHLA       MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الداخلة  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC MOHAMED CHEIKH SAADI",
+    "NOM_ETABA": "ثانوية محمد الشيخ السعدي الإعدادية",
+    "AdresseL": "QUARTIER INDUSTRIEL     MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الصناعي   بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC IBN  AL HAYTHAM",
+    "NOM_ETABA": "ثانوية ابن الهيثم الإعدادية",
+    "AdresseL": "QUARTIER DAKHLA        MUNICIPALITE  AGADIR",
+    "AdresseA": "حي الداخلة بلدية أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC ABDELALI  BEN CHEKROUN",
+    "NOM_ETABA": "ثانوية عبد العالي بنشقرون الإعدادية",
+    "AdresseL": "QUARTIER  AL WIFAQ     MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الوفاق بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC IBN TOFAIL",
+    "NOM_ETABA": "ثانوية ابن طفيل الإعدادية",
+    "AdresseL": "DOUAR  AMZIL       MUNICIPALITE D AGADIR",
+    "AdresseA": " اكادير   دوار أمزيل بنسركاو",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC IBN KHALDOUN",
+    "NOM_ETABA": "ثانوية ابن خلدون الإعدادية",
+    "AdresseL": "QUARTIER  AL MOHIT    MUNICIPALITE D AGADIR",
+    "AdresseA": "حي المحيط  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC IDRISS  LAHRIZI",
+    "NOM_ETABA": "ثانوية ادريس الحريزي الإعدادية",
+    "AdresseL": "hay zitoune tikiouine      MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الزيتون تكوين بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC AHMED CHAOUKI",
+    "NOM_ETABA": "ثانوية احمد شوقي الإعدادية",
+    "AdresseL": "EXTENSION  DAKHLA      MUNICIPALITE  D AGADIR",
+    "AdresseA": "تمديد الداخلة  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC ABOU FIRASS   AL HAMADANI",
+    "NOM_ETABA": "ثانوية ابو فراس الحمداني الإعدادية",
+    "AdresseL": "LOTISSEMENT ASSAKA    MUNICIPALITE D AGADIR",
+    "AdresseA": "تجزئة اساكا  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC JAMAL EDDINE  AL AFGHANI",
+    "NOM_ETABA": "ثانوية جمال الدين الافغاني الإعدادية",
+    "AdresseL": "QUARTIER TADDART      MUNICIPALITE D AGADIR",
+    "AdresseA": "حي تدارت  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC AL QODS",
+    "NOM_ETABA": "ثانوية القدس الإعدادية",
+    "AdresseL": "HAY MOHAMMADI       MUNICIPALITE DAGADIR",
+    "AdresseA": "الحي المحمــدي",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC MEHDI BNOU TOUMERT",
+    "NOM_ETABA": "ثانوية المهدي بن تومرت الإعدادية",
+    "AdresseL": "HAY AL HOUDA AGADIR",
+    "AdresseA": "حي الهدى اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC AL BOUHTOURI",
+    "NOM_ETABA": "ثانوية البحتري الإعدادية",
+    "AdresseL": "Tikiouine alhajeb",
+    "AdresseA": "  تيكوين الحاجب اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC AL INBIAAT",
+    "NOM_ETABA": "ثانوية الانبعاث الإعدادية",
+    "AdresseL": "HAY ALHOUDA",
+    "AdresseA": "حي الهدى",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC AL KHALIL",
+    "NOM_ETABA": "ثانوية الخليل الإعدادية",
+    "AdresseL": "Quartier Tilila",
+    "AdresseA": "حي تليلا",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC RAMALLAH",
+    "NOM_ETABA": "ثانوية رام الله الإعدادية",
+    "AdresseL": "Quartier Tadart Anza Al Oulya ",
+    "AdresseA": "حي تدارت انزا العليا",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC 11 JANAVIER",
+    "NOM_ETABA": "ثانوية 11 يناير الإعدادية",
+    "AdresseL": "AL HAY ALMOHAMADI ",
+    "AdresseA": "الحي المحمدي أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OTHMANE BNO AFFANE",
+    "NOM_ETABA": "الثانوية الإعدادية عثمان بن عفان ",
+    "AdresseL": "Quartier Adrar",
+    "AdresseA": "حي أدرار",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC SAAD BEN ABI OUAQASS",
+    "NOM_ETABA": "ثانوية سعد بن أبي وقاص الإعدادية",
+    "AdresseL": "CITE ASSAKA TIKIOUINE",
+    "AdresseA": "حي أساكا تيكوين",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC ALHOUDA",
+    "NOM_ETABA": "ثانوية الهدى الإعدادية",
+    "AdresseL": "CITE ALHOUDA Agadir",
+    "AdresseA": "حي الهدى أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC MOHAMED KHAYR DINE",
+    "NOM_ETABA": "ثانوية محمد خير الدين الإعدادية",
+    "AdresseL": "CITE HAUT FOUNTY BENSERGAO",
+    "AdresseA": "حي فونتي العليا بنسركاو",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LC AICHA OUM ALMOUMININE",
+    "NOM_ETABA": "ثانوية عائشة أم المؤمنين الإعدادية",
+    "AdresseL": "AGHROUD, BENSERGAO",
+    "AdresseA": "أغروض، بنسركاو",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E ATTAQADDOUM",
+    "NOM_ETABA": "م. التقـدم",
+    "AdresseL": "QUARTIER TALBORJT      MUNICIPALITE D AGADIR",
+    "AdresseA": "تالبورجت  أكـادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OMAR  IBN  AL KHATTAB",
+    "NOM_ETABA": "م. عمر بن الخطاب",
+    "AdresseL": "QUARTIER  MOHAMMED VI    MUNICIPALITE D AGADIR",
+    "AdresseA": "حي محمد السادس أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN SINA",
+    "NOM_ETABA": "م. ابـن سيـنا",
+    "AdresseL": "QUARTIER  LES AMICALES   MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الموظفيـن أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E FATIMA  AL FIHRYA",
+    "NOM_ETABA": "م. فاطمـة الفهريـة",
+    "AdresseL": "QUARTIER INDUSTRIEL     MUNICIPALITE D AGADIR",
+    "AdresseA": "الحي الصناعـي أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E SOUKAINA BENT ALHOUSSAIN",
+    "NOM_ETABA": "م. سكينـة بنت الحسيـن",
+    "AdresseL": "QUARTIER INDUSTRIEL     MUNICIPALITE D AGADIR",
+    "AdresseA": "الحي الصناعي أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN BATTOUTA",
+    "NOM_ETABA": "م. ابن بطـوطـة",
+    "AdresseL": "QUARTIER AMSERNAT      MUNICIPALITE D AGADIR",
+    "AdresseA": "حي امسرنـات أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E CHAER  AL HAMRA",
+    "NOM_ETABA": "م. شاعر  الحمراء",
+    "AdresseL": "QUARTIER LAKHIAM       MUNICIPALITE D AGADIR",
+    "AdresseA": "شارع محمد بن حسن الوزاني حي الخيام  2 أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ANNASR",
+    "NOM_ETABA": "م. النصـر",
+    "AdresseL": "QUARTIER BOUARGANE      MUNICIPALITE D AGADIR",
+    "AdresseA": "حي بوركـان أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL FATH",
+    "NOM_ETABA": "م. الفتــح",
+    "AdresseL": "QUARTIER  BOUARGANE     MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي بوركـان أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDELMAJID BEN JALLOUN",
+    "NOM_ETABA": "م.عبد المجيد بن جلـون",
+    "AdresseL": "QUARTIER  ERAC BOUARGANE   MUNICIPALITE D AGADIR",
+    "AdresseA": "حي إيـراك بوركـان أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN HANBAL",
+    "NOM_ETABA": "م. ابـن حنبـل",
+    "AdresseL": "QUARTIER  AL QODS       MUNICIPALITE D AGADIR",
+    "AdresseA": "حي القـدس أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MAGHRIB  AL ARABI",
+    "NOM_ETABA": "م. المغـرب العربـي",
+    "AdresseL": "QUARTIER  AL MASSIRA     MUNICIPALITE D AGADIR",
+    "AdresseA": "شـارع الكوفـة حـي المسيـرة أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MOUJAHIDINE",
+    "NOM_ETABA": "م. المجاهديــن",
+    "AdresseL": "QUARTIER DAKHLA   MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الداخلــة",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ASSALAM",
+    "NOM_ETABA": "م. الســلام",
+    "AdresseL": "QUARTIER ASSALAM   MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي السـلام",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ANNAJAH",
+    "NOM_ETABA": "م. النجــاح",
+    "AdresseL": "QUARTIER  BOUARGANE      MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي إيراك بوركـان",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL WAFAE",
+    "NOM_ETABA": "م. الوفــاء",
+    "AdresseL": "QUARTIER  AL WAFA     MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي الوفـاء",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MASSIRA",
+    "NOM_ETABA": "م. المسيرة",
+    "AdresseL": "QUARTIER  AL MASSIRA     MUNICIPALITE D AGADIR",
+    "AdresseA": "شارع توبقـال  حـي المسيـرة",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MATAR",
+    "NOM_ETABA": "م. المطــار",
+    "AdresseL": "CITE  IBN KHALDOUN    MUNICIPALITE  AGADIR",
+    "AdresseA": "تجزئـة ابن خلـدون بنسركاو بلديـة أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL WAHDA",
+    "NOM_ETABA": "م. الوحــدة",
+    "AdresseL": "HABITAT  OLM     agadir",
+    "AdresseA": "التجزئة العسكرية بنسركاو اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABOU BAKR  ASSIDDIQ",
+    "NOM_ETABA": "م.أبـو بكـر الصديـق",
+    "AdresseL": "  AGHROD ocean     MUNICIPALITE D AGADIR",
+    "AdresseA": " أغــروض المحيط بلدية أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ATTAHER AL IFRANI",
+    "NOM_ETABA": "م. الطاهـر الإفرانـي",
+    "AdresseL": "CITE IBN KHALDOUNE BENSERGAO AGADIR",
+    "AdresseA": "حي ابن خلـدون بنسـركـاو  بلديـة أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDALLAH  AL GUERSIFI",
+    "NOM_ETABA": "م.عبد الله الكرسيفـي",
+    "AdresseL": "DOUAR AMZIL        MUNICIPALITE D AGADIR",
+    "AdresseA": "حي أمزيــل  بنسـركـاو بلديـة أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MOKHTAR   SOUSSI",
+    "NOM_ETABA": "م. المختـار السوسـي",
+    "AdresseL": "AVENUE  AL MOHIT        MUNICIPALITE D AGADIR",
+    "AdresseA": "شارع أورير زنقة المحيط أنزا بلدية أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDELMOUMEN BEN ALI",
+    "NOM_ETABA": "م.عبد المـومـن بن علــي",
+    "AdresseL": "QUARTIER  TADDARTE       MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي تــدارت  أنـزا  بلديـة أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDERRAHIM BOUABID",
+    "NOM_ETABA": "م.عبد الرحيــم  بوعبيــد",
+    "AdresseL": "QUARTIER TADDARTE        MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي تــدارت أنــزا  بلديــة أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E 2 MARS",
+    "NOM_ETABA": "م.2 مارس",
+    "AdresseL": "DOUAR  LAAREB      MUNICIPALITE D AGADIR",
+    "AdresseA": "دوار العرب تيكوين بلديـة أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BIR ANZARANE",
+    "NOM_ETABA": "م. بئـر انزران",
+    "AdresseL": "QUARTIER BIR ANZARANE    MUNICIPALITE D AGADIR",
+    "AdresseA": "حي بئـر أنزران  تيكويـن  بلديـة أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E YAAQOUB   AL MANSOUR",
+    "NOM_ETABA": "م.يعقــوب المنصــور",
+    "AdresseL": "QUARTIER EL HAJEB     MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي الحـاجـب  تيكويـن  بلديـة أكاديـر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MASSAMIDA",
+    "NOM_ETABA": "م. المصامـــدة",
+    "AdresseL": "QUARTIER ADMINISTRATIf TIKIOUINE AGADIR",
+    "AdresseA": "الحي الإداري  تيكوين اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL ATLAS AIT EL MOUDDEN",
+    "NOM_ETABA": "م. الأطلس أيت المودن ",
+    "AdresseL": "DOUAR  AIT EL MOUDDEN       COMMUNE  AGADIR",
+    "AdresseA": "أيـت المودن",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MSIGUINA IGHIL OUDARDOR",
+    "NOM_ETABA": "م.م مسكينة- اغيــل  اوضرضــور",
+    "AdresseL": "DOUAR  IGHIL OUDARDOR        COMMUNE  AGADIR",
+    "AdresseA": "دوار إغيل اوضرضور",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MOHAMED  KHOUIBI",
+    "NOM_ETABA": "م. محمد الخويبــي",
+    "AdresseL": "QUARTIER  AL HASSANYA     MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي الحسنيــة  أنزا  بلديـة أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL FARABI",
+    "NOM_ETABA": "م. الفـرابـي",
+    "AdresseL": "QUARTIER  AL WIFAQ     MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي الوفـاق بنسركـاو بلديـة أكـاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL GHAZALI",
+    "NOM_ETABA": "م. الغزالــي",
+    "AdresseL": "LOTISSEMENT EZZAITOUNE   MUNICIPALITE D AGADIR",
+    "AdresseA": "تجزئــة الزيتـون  تيكويـن  بلديـة أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E OMAR IBN ABDELAZIZ",
+    "NOM_ETABA": "م. عمـر بن عبـد العـزيــز",
+    "AdresseL": "QUARTIER  ASSAYSS     MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي اسايس  تيكويــن  بلديـة أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ATTAKADDOUM II",
+    "NOM_ETABA": "م. التقـدم 2",
+    "AdresseL": "QUARTIER  AL HOUDA     MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي الهـدى",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AC IBN TOFAIL",
+    "NOM_ETABA": "ملحقة ابن طفيل",
+    "AdresseL": "GHITA  SAKANE      MUNICIPALITE  DAGADIR",
+    "AdresseA": "غيب سكن  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ALLAL BEN ABDALLAH",
+    "NOM_ETABA": "م. علال بن عبد الله",
+    "AdresseL": "QUARTIER TADDARTE       MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي تــدارت أنزا  بلديـة أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL ADARISSA",
+    "NOM_ETABA": "م. الادارســة",
+    "AdresseL": "QUARTIER  AL HOUDA      MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الهـدى بلــوك س",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL ATLAS  TILILA",
+    "NOM_ETABA": "م. الاطلـس تليــلا",
+    "AdresseL": "QUARTIER TILILA      MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي تليــلا  بلديـــة أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " E ALI AZIKOU   ",
+    "NOM_ETABA": "م علي ازيكو",
+    "AdresseL": "Q TADDART AL OULIA    MUNICIPALITE  AGADIR",
+    "AdresseA": "حـي تدارت العليا  أنـزا  بلديـة أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HAY MOHAMMADI",
+    "NOM_ETABA": "م. الحي المحمدي",
+    "AdresseL": "HAY MOHAMMADI       MUNICIPALITE AGADIR",
+    "AdresseA": "الحي المحمــدي     بلدية أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MOBADARA",
+    "NOM_ETABA": "م. المبادرة ",
+    "AdresseL": "HAY BIR INZRANE TIKIOUINE  COMM URBAIN  AGADIR",
+    "AdresseA": "حي بئر إنزران تكوين بلدية أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL IZDIHAR",
+    "NOM_ETABA": "م. الإزدهار",
+    "AdresseL": "Lot ALIZDIHAR JET Sakane",
+    "AdresseA": "تجزئة الإزدهار جيت سكن",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL FARAH",
+    "NOM_ETABA": "م. الفرح",
+    "AdresseL": " JET SAKANE AMAL 2  BENSERGAO",
+    "AdresseA": " جيت سكن أمل 2 بنسركاو",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL MARINYINE",
+    "NOM_ETABA": "م. المرينيين",
+    "AdresseL": "Q TILILA BLOC 22 RUE 2",
+    "AdresseA": "حي تيليلا  المجمع 22 زنقة 2",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABDELAZIZ AL MASSI",
+    "NOM_ETABA": "م. عبدالعزيز الماسي",
+    "AdresseL": "QUARTIER HAY MOHAMMADI",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MEDERSATCOM TADDART",
+    "NOM_ETABA": "مدرسة.كوم تدارت",
+    "AdresseL": "Bloc B Anza aloulya",
+    "AdresseA": "بلوك ب /أنزا العليا",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E TADDART",
+    "NOM_ETABA": "م.تدارت",
+    "AdresseL": "HAY TADDART ANZA AL OULIA ",
+    "AdresseA": "  حي تدارت انزا العليا",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E DRISS BENZEKRI",
+    "NOM_ETABA": "م.ادريس بن زكري",
+    "AdresseL": "HAY AL FARAH BENSERGAO",
+    "AdresseA": "شارع الكرم حي الفرح بن سركاو",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ADRAR",
+    "NOM_ETABA": "م أدرار",
+    "AdresseL": "lotissement adrar",
+    "AdresseA": "حي  أدرار",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AZZALLAQA",
+    "NOM_ETABA": "م. الزلاقة",
+    "AdresseL": "Quartier Mohammadi",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE ECOLE ADRAR",
+    "NOM_ETABA": "ملحقة مدرسة أدرار",
+    "AdresseL": "Cité Adrar",
+    "AdresseA": "حي أدرار",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL YARMOUK",
+    "NOM_ETABA": "م. اليرموك",
+    "AdresseL": "AGADIR",
+    "AdresseA": "أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E BOUGAFER",
+    "NOM_ETABA": "م. بوكافر",
+    "AdresseL": "AGADIR",
+    "AdresseA": "أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E HAFSA OUM ALMOUMININE",
+    "NOM_ETABA": "م. حفصة أم المؤمنين",
+    "AdresseL": "TADDARTE ANZA AGADIR",
+    "AdresseA": "أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ASSOU OUBASSLAM",
+    "NOM_ETABA": "م. عسو أوبسلام",
+    "AdresseL": "AGADIR",
+    "AdresseA": "أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E MIFTAH ASSAHIL",
+    "NOM_ETABA": "م. مفتاح الساحل",
+    "AdresseL": "Cité Anza ",
+    "AdresseA": "حي أنزا",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AL IMAM MOUSLIM",
+    "NOM_ETABA": "م. الإمام مسلم",
+    "AdresseL": "Cité Assaka",
+    "AdresseA": "حي أسكا",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LQ AL MOUTANABI",
+    "NOM_ETABA": " ثانوية المتنبي التأهيلية",
+    "AdresseL": "QUARTIER  ANOUAR SOUSS    MUNICIPALITE D AGADIR",
+    "AdresseA": "حي انوار سوس  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ ABDELKARIM  AL KHATTABI",
+    "NOM_ETABA": "ثانوية عبد الكريم الخطابي التأهيلية ",
+    "AdresseL": "QUARTIER LAKHIAM       MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الخيام  بلدية أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "L AL IDRISSI TECHNIQUE",
+    "NOM_ETABA": "ثانوية الادريسي التقنية",
+    "AdresseL": "QUARTIER INDUSTRIEL     MUNICIPALITE D AGADIR",
+    "AdresseA": "الحي الصناعي  بلدية أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ YOUSSEF BNOU TACHFIN",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين التأهيلية ",
+    "AdresseL": "CITE SUISSE        MUNICIPALITE D AGADIR",
+    "AdresseA": "الحي  السويسري  بلدية أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ ZERKTOUNI",
+    "NOM_ETABA": "ثانوية الزرقطوني التأهيلية ",
+    "AdresseL": "BD  ABDERRAHIM BOUABID    MUNICIPALITE D AGADIR",
+    "AdresseA": "شارع عبد الرحيم بوعبيد  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ AL KHALIJ",
+    "NOM_ETABA": "ثانوية الخليــج التأهيلية ",
+    "AdresseL": "QUARTIER  AL MOHIT       MUNICIPALITE D AGADIR",
+    "AdresseA": "حـي الحسنيـة  بلديــة أكاديــر",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ LALLA MERIYEM",
+    "NOM_ETABA": "ثانوية للا مريم التأهيلية ",
+    "AdresseL": "AVENUE  CHEIKH SAADI     MUNICIPALITE D AGADIR",
+    "AdresseA": "شارع الشيخ السعدي",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ BADR",
+    "NOM_ETABA": "ثانوية بدر التأهيلية ",
+    "AdresseL": "DOUAR  AMZIL       MUNICIPALITE D AGADIR",
+    "AdresseA": "دوار امزيل  بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ MOHAMED DERFOUFI",
+    "NOM_ETABA": " ثانوية محمد الدرفوفي التأهيلية ",
+    "AdresseL": "LOTISSEMENT AZZAITOUN   MUNICIPALITE DE TIKIOUINE",
+    "AdresseA": "تجزئة الزيتون  بلدية تكوين",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ IBN MAJA",
+    "NOM_ETABA": "ثانوية ابن ماجة التأهيلية ",
+    "AdresseL": "QUARTIER DAKHLA    MUNICIPALITE D AGADIR",
+    "AdresseA": "حي الداخلة  بلدية أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ ABOULABBAS  SEBTI",
+    "NOM_ETABA": "ثانوية ابو العباس السبتي التأهيلية ",
+    "AdresseL": "QUARTIER  AL WIFAQ BENSERGAO   MUNICIPALITE D AGAD",
+    "AdresseA": "حي الوفاق  بنسركاو بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ ANOUAL",
+    "NOM_ETABA": "ثانوية انوال التأهيلية ",
+    "AdresseL": "BD  ABDERRAHIM BOUABID   MUNICIPALITE D AGADIR",
+    "AdresseA": "شارع عبد الرحيم بوعبيد بلدية اكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ AL AMAL",
+    "NOM_ETABA": "ثانوية الأمل التأهيلية ",
+    "AdresseL": "TIKIOUINE",
+    "AdresseA": "تكوين",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ AJDIR",
+    "NOM_ETABA": "ثانوية أجدير التأهيلية",
+    "AdresseL": "Quartier Al Houda",
+    "AdresseA": "حي الهدى",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ AL MAJD",
+    "NOM_ETABA": "ثانوية المجد التأهيلية ",
+    "AdresseL": "Quartier Hay Mohamadi",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ IBN HAZM",
+    "NOM_ETABA": "ثانوية ابن حزم التأهيلية",
+    "AdresseL": "rue Smara Lot Alouifaq2 Bensergaou",
+    "AdresseA": "شارع السمارة تجزئة الوفاق 2 بنسركاو",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ AMRO BNOU LAAS",
+    "NOM_ETABA": "ثانوية عمرو بن العاص التأهيلية",
+    "AdresseL": "ANZA LAOULIA AGADIR",
+    "AdresseA": "أنزا العليا أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ 06 NOVEMBRE",
+    "NOM_ETABA": "ثانوية 06 نونبر التأهيلية",
+    "AdresseL": "QUARTIER TILILA",
+    "AdresseA": "حي تيليلا أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LQ MOHAMMED ABD ELJABRI",
+    "NOM_ETABA": "ثانوية محمد عابد الجابري التأهيلية",
+    "AdresseL": "Operation Tariq Lkhar Sité Alfarah Bensergao",
+    "AdresseA": "مشروع طريق الخير حي الفرح بنسركاو",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION Al Imam Al Kastalani 1",
+    "NOM_ETABA": "مؤسسة الإمام القسطلاني 1",
+    "AdresseL": "Cité EL Farha - IHCHACH - Agad",
+    "AdresseA": "حي الفرحة - إحشاش- أكادير",
+    "COMMUNE": "Agadir",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe gues",
+    "NOM_ETABA": " مجموعة كيس الخصوصية",
+    "AdresseL": "Av.29 Fevrier - Talborjt -Agad",
+    "AdresseA": "شارع 29 فبراير ، تالبورجت أكاد",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mounib",
+    "NOM_ETABA": "منيب",
+    "AdresseL": "bp 1613cite Dakhla - Agadir",
+    "AdresseA": "ص.ب 1613حي الداخلة - أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION D EDUCATION ALQALAM ",
+    "NOM_ETABA": " مؤسسة القلم التربوية ",
+    "AdresseL": "PRES D ASWAK ESSALALM ROUTE NA",
+    "AdresseA": "قرب اسواق السلام الطريق الرئيس",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION D EDUCATION ALQALAM II",
+    "NOM_ETABA": "II مؤسسة القلم التربوية ",
+    "AdresseL": "barreau est ouest cité dakhla ",
+    "AdresseA": "محور شرق غرب حي الداخلة اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution Al Hanane 1",
+    "NOM_ETABA": "مؤسسة الحنان 1  الخاصة ",
+    "AdresseL": "Hay Anouar Souss  Agadir",
+    "AdresseA": "حي أنوار سوس  أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Hassania",
+    "NOM_ETABA": "الحسنية",
+    "AdresseL": "N° 130 Rue Oujda Agadir",
+    "AdresseA": "رقم 130 زنقة وجدة  اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION Abadila Najah",
+    "NOM_ETABA": "مؤسسة عبادلة نجاح",
+    "AdresseL": "Hay Najah  Bp 3258 Agadir",
+    "AdresseA": "حي النجاح    ص ب  3258   أكادي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aboubaker Ibn Al Arabi",
+    "NOM_ETABA": "ابو بكر بن العربي الخاصة",
+    "AdresseL": "N° 363 Bis, Hay Najah - Agadir",
+    "AdresseA": "رقم 363 مكرر، حي النجاح - أكاد",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annour",
+    "NOM_ETABA": "النور",
+    "AdresseL": "Cité Sidi Mohamed Avenue Mly I",
+    "AdresseA": "حي سيدي محمد نهج مولاي اسماعيل",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole Maria",
+    "NOM_ETABA": "مدرسة مارية",
+    "AdresseL": "LOT 463 quartier ILLIGH  - Aga",
+    "AdresseA": "تجزئة  463 حي إليغ  - أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Le Petit Savant",
+    "NOM_ETABA": "العالم الصغير",
+    "AdresseL": "Bloc 1 G, N° 69, Cité Dakhla -",
+    "AdresseA": "بلوك 1 ج، رقم 69، حي الداخلة -",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chahine",
+    "NOM_ETABA": "شاهين",
+    "AdresseL": "angle rue zalaka et rue lahouc",
+    "AdresseA": "زاوية زنقة الزلاقة و الحيسين ب",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Abou Al Majd ",
+    "NOM_ETABA": "أبوالمجد الخصوصية",
+    "AdresseL": "N°101 AV. AHMED AL MANSOUR DAH",
+    "AdresseA": "    رقم101 شارع احمد المنصور ا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNABIH",
+    "NOM_ETABA": "النبيه",
+    "AdresseL": "groupe 7 n°192  BenSergao agad",
+    "AdresseA": "مجموعة 7 رقم 192بنسركاو اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Jossour Al Horra Attarbaouia",
+    "NOM_ETABA": "الجسور الحرة التربوية",
+    "AdresseL": "cite al Ouifaq 2 bp 197 nouvel",
+    "AdresseA": "حي الوفاق 02 ص ـ ب 197 ، بنسرك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mimosana",
+    "NOM_ETABA": "ميموزانا",
+    "AdresseL": "residence argana n°48/50 rue m",
+    "AdresseA": "إقامة أركانة رقم48/50 زنقة مسع",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibtissam Annajah",
+    "NOM_ETABA": "ابتسام النجاح",
+    "AdresseL": "N° 5,RUE ASSALAH CITE  ANNajah",
+    "AdresseA": "رقم 5 زنقة الصلاح ، حي النجاح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire AGADIR SCHOOL",
+    "NOM_ETABA": "المجموعة المدرسية أكادير سكول",
+    "AdresseL": "N° 39, Rue Azzaizafoune, Quart",
+    "AdresseA": "رقم 39، زنقة الزيزفون حي الداخ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION Al INbiaate",
+    "NOM_ETABA": "مؤسسة الانبعاث الخصوصية",
+    "AdresseL": "355/354 Rue Isli, Quartier Al ",
+    "AdresseA": "زنقة إسلي 355/354، حي القدس - ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution achbal Al Houda",
+    "NOM_ETABA": "مؤسسة أشبال الهدى الخصوصية",
+    "AdresseL": "N° 245, Rue Anas Ibn Malik, Qu",
+    "AdresseA": "رقم 245، زنقة أنس بن مالك، حي ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissment Founty pour lEnseignement",
+    "NOM_ETABA": " مؤسسة فونتي للتعليم الخصوصي",
+    "AdresseL": "Cité Founty-SONABA -AGADIR",
+    "AdresseA": "فونتي ـ صوناباـ اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institutione \"Les Iris\"",
+    "NOM_ETABA": "مؤسسة\" لزيريس\" الخاصة",
+    "AdresseL": "n°26 ,passage n°2 ,cite el hou",
+    "AdresseA": "رقم 26 ممر رقم 2 حي الهدى اكاد",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution AL Imam Al Kastalani 2",
+    "NOM_ETABA": " مؤسسة الإمام القسطلاني 2",
+    "AdresseL": "Cité Essalam  Place des Taxis ",
+    "AdresseA": " حي السلام موقف سيارات الاجرة-",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Salaheddine",
+    "NOM_ETABA": "صلاح الدين",
+    "AdresseL": "Quartier Taddarte - Anza",
+    "AdresseA": "حي تدارت، أنزا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Himma Attarbaouia",
+    "NOM_ETABA": "الهمة التربوية",
+    "AdresseL": "N° 8, Quartier Industriel",
+    "AdresseA": "رقم 8، الحي الصناعي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissementRiad Salam",
+    "NOM_ETABA": "مؤسسة رياض السلام",
+    "AdresseL": "N° 427, BD. ABbas EL kabBaj  c",
+    "AdresseA": "رقم 427، شارع عباس القباج حي ر",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Mawrid",
+    "NOM_ETABA": "المورد للتعليم الخصوصي",
+    "AdresseL": "Bd. Al Hassan Bounouamani, N° ",
+    "AdresseA": "  أكادير شارع الحسن بونعماني، ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Attaraji",
+    "NOM_ETABA": "الترجي",
+    "AdresseL": "haut founty Barreau Est-Ouest ",
+    "AdresseA": "فونتي العليا محور شرق - غرب، ج",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution BLAISE Pascal",
+    "NOM_ETABA": "مؤسسة بليز بسكال",
+    "AdresseL": "rue oued ziz hay sidi youssef ",
+    "AdresseA": "زنقة واد زيز حي سيدي يوسف اكاد",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Kalb Al Hikma 1",
+    "NOM_ETABA": " 1  مؤسسة قلب الحكمة",
+    "AdresseL": " bloc C n°5 Quartier Al Houda ",
+    "AdresseA": "ابلوك س رقم 5 حي الهدى اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION MASSAR ALABTAL",
+    "NOM_ETABA": "مؤسسة مسار الأبطال",
+    "AdresseL": "bloc e n°284 et n°303 cite alh",
+    "AdresseA": " رقم 284 ورقم 303 حي الهدى اكا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PIRI REIS",
+    "NOM_ETABA": "بيري رايس",
+    "AdresseL": "Lotissement Azaytoune, bloc d1",
+    "AdresseA": "تجزئة الزيتون بلوك د1 تيكيون",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Atlas Education",
+    "NOM_ETABA": "مؤسسة اطلس التربية",
+    "AdresseL": "Lotissement Azaytoune, Lots C ",
+    "AdresseA": " تجزئة الزيتون بلوك س رفم 5  ت",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Annazahae",
+    "NOM_ETABA": "مؤسسة النزاهة الخاصة",
+    "AdresseL": "Lotissement Azaytoune, bloc A ",
+    "AdresseA": "تجزئة الزيتون بلوك أ رقم 13 - ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHOROUK",
+    "NOM_ETABA": "شروق",
+    "AdresseL": "N° V  105 ET V 97  Hay alWIFAQ",
+    "AdresseA": " ،حي الوفاق،بنسركاو-أكادير V  ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution CHAOUKI d enseignemente",
+    "NOM_ETABA": "مؤسسة شوقي للتعليم الخصوصي",
+    "AdresseL": "n°90 secteurf;rue assaka QUART",
+    "AdresseA": "رقم 90 منطقة ف فيلات زنقة أساك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNACHIA",
+    "NOM_ETABA": "الناشئة",
+    "AdresseL": " Rue 1 Bloc 9  cité  Tilila - ",
+    "AdresseA": "زنقة 1 مجمع 9 - حي  تيليلا  أك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire le defi",
+    "NOM_ETABA": "مجموعة مدارس لوديفي الخصوصية",
+    "AdresseL": "Cité administrative, Bareau Es",
+    "AdresseA": "الحي الإداري محور شرق غرب ص.ب:",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTion ESSAKHI 1e",
+    "NOM_ETABA": "مؤسسة الساخي 1 الخصوصية",
+    "AdresseL": "  TIKIOUINE lotissement assaka",
+    "AdresseA": "تجزئة اسكا بلوك ب رقم 257/258 ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANART  SOUSS  AL AALIMA",
+    "NOM_ETABA": "منارة سوس العالمة",
+    "AdresseL": "VILLA  n° 35  Quartier Azzaito",
+    "AdresseA": "فيلا رقم 35 حي الزيتون ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HANANE 2",
+    "NOM_ETABA": "الحنان  2",
+    "AdresseL": "Cité Anouar Souss ",
+    "AdresseA": "حي انور سوس-أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annayir",
+    "NOM_ETABA": "النير",
+    "AdresseL": "N 48  tilila  tikiouine",
+    "AdresseA": "الرقم  48 حي تيليلا  مقاطعة تي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "galois",
+    "NOM_ETABA": "كالوا",
+    "AdresseL": "n°72 RUE 11 JANVIER CIT2 DAKHL",
+    "AdresseA": "الرقم 72 زنقة 11 يناير   حي ال",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kalb al hikma 2",
+    "NOM_ETABA": "قلب الحكمة 2",
+    "AdresseL": "bloc c n°1 al houda agadir",
+    "AdresseA": "بلوك س رقم 1 حي الهدى أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution attamayouz pour l enseignement scolairee",
+    "NOM_ETABA": "مؤسسة التميز للتعليم المدرسي الخصوصي",
+    "AdresseL": "avenue annakhil,n°30,cite dakh",
+    "AdresseA": "شارع النخيل رقم 30 حي الداخلة ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution essakhi 2e",
+    "NOM_ETABA": "مؤسسة الساخي 2 الخصوصية",
+    "AdresseL": "quartier assaka bloc a n°175 t",
+    "AdresseA": "حي أسكا بلوك أ رقم 175 تكيوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution paul signac",
+    "NOM_ETABA": "مؤسسة بول سينياك",
+    "AdresseL": "av ghandi,N°42 Dakhla",
+    "AdresseA": "شارع غندي رقم42 حي الداخلة اكا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution azyar",
+    "NOM_ETABA": "مؤسسة أزيار الخصوصية",
+    "AdresseL": "n° 688 2eme tranche hay elmoha",
+    "AdresseA": "رقم688 الشطر الثاني الحي المحم",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution farah",
+    "NOM_ETABA": "مؤسسة فرح الخصوصية",
+    "AdresseL": "N°9 rue Igli, cite salam - aga",
+    "AdresseA": " زنقة اكلي رقم 9  أمام الـمجمع",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution al balagha",
+    "NOM_ETABA": "مؤسسة البلاغة الخصوصية",
+    "AdresseL": "cite al wifak2 n°312 - benserg",
+    "AdresseA": "حي الوفاق 2 رقم 312 بنسركاو أك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution qalb al maarifa",
+    "NOM_ETABA": "مؤسسة قلب المعرفة ",
+    "AdresseL": "avenue 11 janvier ,cite dakhla",
+    "AdresseA": "شارع 11 يناير رقم 51 حي الداخل",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole pythagore1",
+    "NOM_ETABA": "مؤسسة بيطاغور 1",
+    "AdresseL": "N°23 rue \"y\" quartier ameserna",
+    "AdresseA": "  حي امسرناتY رقم 23 شارع ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution daka at",
+    "NOM_ETABA": "مؤسسة الذكاءات الخاصة ",
+    "AdresseL": "n°l152 cite al houda - agadir",
+    "AdresseA": "رقم ل 152 حي الهدى أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SUD AMAL SCHOOL",
+    "NOM_ETABA": " أمل سكول",
+    "AdresseL": "loc c N° 23 et 25 cite Alhouda",
+    "AdresseA": "بلوك س 23 و 25 حي الهدى أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution anas al qods",
+    "NOM_ETABA": "مؤسسة أناس القدس  ",
+    "AdresseL": "N° 76 Bloc A2 cite al qods - a",
+    "AdresseA": "رقم 76 بلوك أ2 حي القدس -  أكا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution abi gat school",
+    "NOM_ETABA": "مؤسسة أبيكايت سكول",
+    "AdresseL": "bloc 19 fa37 cité dakhla - aga",
+    "AdresseA": "  بلوك 19 ب ف 37 حي الداخلة اك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ad gam school",
+    "NOM_ETABA": "أدغم سكول",
+    "AdresseL": "hay assaka bloc c n°123 tikiou",
+    "AdresseA": "تجزئة أساكا بلوك س رقم 123 تكو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "abd arrahman al kawakibi",
+    "NOM_ETABA": "عبد الرحمان الكواكبي",
+    "AdresseL": "149 bloc b assaka tikiouine ag",
+    "AdresseA": "زنقة  افاق بلوك ب الرقم 50 أسك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole avicennee",
+    "NOM_ETABA": "مدرسة افيسن الخصوصية",
+    "AdresseL": "hay mohammedi bloc 13 rue 1011",
+    "AdresseA": "الحي المحمدي بلوك 13 زنقة 1011",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "eurica",
+    "NOM_ETABA": "اوريكا الخاصة",
+    "AdresseL": "N°150 bloc L cite alhouda",
+    "AdresseA": "رقم150 بلوك ل حي الهدى",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire polygone",
+    "NOM_ETABA": "مؤسسة مجموعة بولكون",
+    "AdresseL": "lot tilila n°E_8 tilila agadir",
+    "AdresseA": "تجزئة تليلا رقم E-8 تليلا اكاد",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire fikri",
+    "NOM_ETABA": "مجموعة مدارس فكري",
+    "AdresseL": "avenue mohamed blhassan el oua",
+    "AdresseA": "شارع محمد بن الحسن الوزاني رقم",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annoubough attarbawi",
+    "NOM_ETABA": "النبوغ  التربوي",
+    "AdresseL": "bloc d3 n°425 cite dakhla agad",
+    "AdresseA": "بلوك د3 الرقم 425 حي الداخلة ا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Ajyal Al Khawarizmi",
+    "NOM_ETABA": "مؤسسة أجيال الخوارزمي الخصوصية",
+    "AdresseL": "hay mouhamadi lot n°683-684",
+    "AdresseA": "الحي المحمدي بقعة رقم 683ـ 684",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jihad",
+    "NOM_ETABA": "جهاد",
+    "AdresseL": "hay al mohammadi",
+    "AdresseA": "الحي المحمدي اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution yousra",
+    "NOM_ETABA": "مؤسسة يسرى الخصوصية",
+    "AdresseL": "RUE ILIGH N 21 HAY SALAM AGADI",
+    "AdresseA": " زنقة إليغ رقم 21 حي السلام اك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution ajyal Al houda",
+    "NOM_ETABA": "مؤسسة أجيال الهدى الخصوصية",
+    "AdresseL": "291/f lot zaitoune tikiouine a",
+    "AdresseA": "حي الزيتون291/ف تكوين اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assafa school",
+    "NOM_ETABA": "الصفا سكول",
+    "AdresseL": "bloc e n101  azzaitoune tikiou",
+    "AdresseA": "   رقم101 حي الزيتون تيكوينeبل",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire amali",
+    "NOM_ETABA": "مجموعة مدارس املي",
+    "AdresseL": "lot387 et 388 lotisseent tadda",
+    "AdresseA": "تجزئة تدارت 387و388 انزا العلي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution albalagha2e",
+    "NOM_ETABA": "مؤسسة البلاغة2 للتربية والتعليم الخصوصي",
+    "AdresseL": "al wefaq2 ben sergao a544",
+    "AdresseA": "الوفاق2 رقم أ 544 اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Morojaddahab",
+    "NOM_ETABA": "مروج الدهب",
+    "AdresseL": "70 rue ahmed almansour addahbi",
+    "AdresseA": "رقم 70 شارع احمد المنصور الذهب",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution al akhawayne",
+    "NOM_ETABA": "مؤسسة الأخوين الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "عمارة رقم 108 زنقة وجدة الحي ا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution diwane",
+    "NOM_ETABA": "مؤسسة ديوان الخاصة",
+    "AdresseL": "bloc 19  rue 1014  n° 50  hay ",
+    "AdresseA": "بلوك 19  زنقة 1014 رقم 50  الح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire denis diderot",
+    "NOM_ETABA": "مجموعة مدارس دوني ديدرو الخاصة",
+    "AdresseL": "Avenue ERRACHIDIA n° 2 Hay Moh",
+    "AdresseA": "شارع الراشيدية رقم 2 الحي المح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement  gauthier",
+    "NOM_ETABA": "مؤسسة كوتيي",
+    "AdresseL": "lot O42 founty bensergaou",
+    "AdresseA": "تجزئة 420 فونتي بنسركاو ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Nour tilila",
+    "NOM_ETABA": "نور تيليلا",
+    "AdresseL": "Lot tilila n 2143",
+    "AdresseA": "تجزئة تليلا رقم 2143 اكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les jeunes talents",
+    "NOM_ETABA": "لجون تالون",
+    "AdresseL": "hay mohamadi n 4874 ",
+    "AdresseA": "الحي المحمدي رقم 4874 أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut ariyada",
+    "NOM_ETABA": "مؤسسة الريادة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع العيون بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "smart school",
+    "NOM_ETABA": "سمارت  سكول",
+    "AdresseL": "Smart school ",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire jilalfitra",
+    "NOM_ETABA": "مجموعة  مدارس جيل الفطرة",
+    "AdresseL": "hay mohamadi n:3203 bd tetouan",
+    "AdresseA": " رقم 3203 شارع تطوان الحي المح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL MAYAMIN ATTARBAWIYAE ",
+    "NOM_ETABA": "مؤسسة الميامين التربوية ",
+    "AdresseL": "",
+    "AdresseA": "تجزئة 2551 حي تليلا تكوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ayour school",
+    "NOM_ETABA": "أيور سكول الخصوصية",
+    "AdresseL": "villa 25 rue hay ennajah",
+    "AdresseA": "فيلا 25 زنقة الاخلاص حي النجاح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole jil espoir",
+    "NOM_ETABA": "مدرسة جيل اسبوار",
+    "AdresseL": " Lot 5718 Rue settat Hay moham",
+    "AdresseA": "5718 شارع سطات الحي المحمدي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution matrzie",
+    "NOM_ETABA": "مؤسسة مترزي للتعليم الخصوصي",
+    "AdresseL": "N° 36 BLOC 12 HUOT ANZA -AGADI",
+    "AdresseA": "رقم 36 بلوك 12 انزا العليا اكا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SCOLAIRE AZAHRAEE",
+    "NOM_ETABA": "مؤسسة الزهراء للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay essalam projet ennahda",
+    "AdresseA": "حي السلام مشروع النهضة",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETS MAHD AL HIKMA",
+    "NOM_ETABA": "مؤسسة مهد الحكمة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Imm el moukhtar soussi 4-2 alw",
+    "AdresseA": "2-4 عمارة المختار السوسي حي ال",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION DAR EL KITAB",
+    "NOM_ETABA": "مؤسسة دار الكتاب الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك ج6 رقم 33 حي الداخلة",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALQODS AL ARABIE",
+    "NOM_ETABA": "القدس العربي",
+    "AdresseL": "hay mohammmadi",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL ANAMILEE",
+    "NOM_ETABA": "مؤسسة الأنامل الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 4 رقم 101 حي  سدي محمد اح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ASMAE",
+    "NOM_ETABA": "مؤسسة أسماء الخصوصية",
+    "AdresseL": "N° 15 hay assalam rue 916",
+    "AdresseA": "رقم 15 حي السلام  916 أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ALAATFE",
+    "NOM_ETABA": "مؤسسة العطف الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الهدى  K301 رقم",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION JANNATEE",
+    "NOM_ETABA": "مؤسسة جنات  الخصوصية",
+    "AdresseL": "رقم 7 بلوك ب تجزئة انزا العليا",
+    "AdresseA": "أنزا العليا تجزئة 7 حي ب ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LES ETOILES DU SUDE",
+    "NOM_ETABA": "مؤسسة لي إتوال دو سود",
+    "AdresseL": "NULL",
+    "AdresseA": "إقامة النجاح 1 بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION PEDA GAUSS PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة بداكوس للتعليم الأولي",
+    "AdresseL": "PEDA GAUSS 543 LOT TILILA AGAD",
+    "AdresseA": "حي تيليلا  رقم 543 تكوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BON DEPARTE",
+    "NOM_ETABA": "مؤسسة بون دبار الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "مشروع الفرابي حي تيليلا رقم 48",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ADRARE",
+    "NOM_ETABA": "مؤسسة أدرار الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "حي أدرار رقم 6 تكوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institution attamaouz 2e",
+    "NOM_ETABA": "مؤسسة التميز 2 الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة أدرار  g1  تكوين رقم  ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION TIGMMI TISNATEE",
+    "NOM_ETABA": "مؤسسة تكمي تيسنات الخصوصية",
+    "AdresseL": "Numero 75 bloc e-b",
+    "AdresseA": " بلوك E-B رقم 75 ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LE PETIT NIDE",
+    "NOM_ETABA": "مؤسسة  العش الصغير الخصوصية",
+    "AdresseL": "Bloc E9 N709 Rue AL FARABI",
+    "AdresseA": "رقم 709 حي الداخلة ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les bouts de choux",
+    "NOM_ETABA": "لي بو دوشو",
+    "AdresseL": "RUE TAGMAT  N°2849 TILILA",
+    "AdresseA": "حي تيليلا 2849 تكوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ARRISALAE",
+    "NOM_ETABA": "مؤسسة الرسالة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة ابن تيمية، رقم 42، حي الم",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION PICASSOE",
+    "NOM_ETABA": "مؤسسة بيكاسو الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "e378 حي الهدى",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ANASSIME",
+    "NOM_ETABA": "مؤسسة النسيم الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 74، زنقة الغزالي، شارع الح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LES ARCSE",
+    "NOM_ETABA": "مؤسسة لي زارك الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الهدى h46 ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION INESE",
+    "NOM_ETABA": "مؤسسة إيناس الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 3132، زنقة المنارة، حي تلي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AMALONAE",
+    "NOM_ETABA": "مؤسسة أملنا الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة تدارت رقم 772",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ALPHONSE DAUDETE",
+    "NOM_ETABA": "مؤسسة ألفونس دوديه الخصوصية",
+    "AdresseL": "n 118lot n 235 haut fonty bens",
+    "AdresseA": "رقم 118، تجزئة رقم 235 فونتي ا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION NEW CITYE",
+    "NOM_ETABA": "مؤسسة نيو سيتي الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "شارع كرينة حي الهدى",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LE FANAL ATTARBAWIE",
+    "NOM_ETABA": "مؤسسة لوفنال التربوي الخصوصية",
+    "AdresseL": "Avenue El Mehdi Ben Aboud Bloc",
+    "AdresseA": "شارع المهدي بن عبود، بلوك ج، ر",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IQRAA WA TAALAM",
+    "NOM_ETABA": "إقرأ و تعلم",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة أبراز الحي ىالمحمدي رقم ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ALAMAL ARRACHID PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الأمل الراشد للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوكE7   رقم 03 زنقة الفارابي ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ARRISALA LINNAJAHE",
+    "NOM_ETABA": "مؤسسة الرسالة للنجاح الخصوصية",
+    "AdresseL": "N° 2894, HAY MOHAMMADI",
+    "AdresseA": "رقم 2894، الحي المحمدي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL AIRFANEE",
+    "NOM_ETABA": "مؤسسة العرفان الجصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك ن 14 رقم 126 حي الداخلة",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL RHAZZALIE",
+    "NOM_ETABA": "مؤسسة الغزالي الخصوصية",
+    "AdresseL": "N° 3355, AVENUE TETOUAN, HAY M",
+    "AdresseA": "رقم 3355، شارع تطوان، الحي الم",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MIRAIE",
+    "NOM_ETABA": "مجموعة مدارس ميراي الخصوصية",
+    "AdresseL": "Imm 13, AvENUE ABDERRAHIM BOUA",
+    "AdresseA": "عمارة 13، شارع عبد الرحيم بوعب",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ANAOUE",
+    "NOM_ETABA": "مؤسسة أناو الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 56، زنقة جبل صاغرو، الخيام",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION TINMELE",
+    "NOM_ETABA": "مؤسسة تنمال الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "  الوفاق، بنسركاو،B150 ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LES JEUNES TALENTS 2E",
+    "NOM_ETABA": "مؤسسة لجون تالون 2 الخصوصية",
+    "AdresseL": "L143BIS HAY LHOUDA",
+    "AdresseA": "143، بلوك L، حي الهدى",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION WLIDATIE",
+    "NOM_ETABA": "مؤسسة اوليداتي الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 32 شارع الإمام البخاري، بو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION TADDARTE",
+    "NOM_ETABA": "مؤسسة تدارت الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تدارت رقم 924 أنزا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION KAWKABI ASSAGHIRE",
+    "NOM_ETABA": "مؤسسة كوكبي الصغير الخصوصية",
+    "AdresseL": "N 147 Assaka Tikiouin",
+    "AdresseA": "رقم 147 ب، أسكا، تكيوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION EXCELLENCEE",
+    "NOM_ETABA": "مؤسسة إكسيلونس الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "إقامة السعادة 1، عمارة رقم 19،",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BOUTZERZITE",
+    "NOM_ETABA": "مؤسسة بوتزرزيت الخصوصية",
+    "AdresseL": "BLOC A N 258 HASANIA ANZA AGAD",
+    "AdresseA": "بلوك أ، رقم 258،  الحسنية أنزا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION RIHAB AL-ILME",
+    "NOM_ETABA": "مؤسسة رحاب العلم الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ENFANT PRODIGEE",
+    "NOM_ETABA": "مؤسسة أونفون بروديج الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة ودادية البيان، تكوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ARIYADA 2E",
+    "NOM_ETABA": "مؤسسة الريادة 2 الخصوصية",
+    "AdresseL": "Lotissement almokhtar soussi.a",
+    "AdresseA": "تجزئة المختار السوسي، شارع عبد",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION CESARE",
+    "NOM_ETABA": "مؤسسة سيزار الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "عمارة تغادوين، بلوك 4، الطابق ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SANABIL MERIEME",
+    "NOM_ETABA": "مؤسسة سنابل مريم الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "بلوك 4، رقم 270، سيدي يوسف",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION NID DOUILLETE",
+    "NOM_ETABA": "مؤسسة العش الدافئ الخصوصية",
+    "AdresseL": "Nr 45, Extension TILILA",
+    "AdresseA": "رقم 45، تمديد تيليلا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION FADAE ATFALENAE",
+    "NOM_ETABA": "مؤسسة فضاء أطفالنا الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "فيلا 10، حي النجاح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION STEPHANIEE",
+    "NOM_ETABA": "مؤسسة ستيفاني الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 3، زنقة إكلي، حي السلام",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LA MERE VEILLEUSEE",
+    "NOM_ETABA": "مؤسسة الأم الساهرة الخصوصية",
+    "AdresseL": "VILLA 80, PROGRAMME AL FARABI ",
+    "AdresseA": "فيلا 80، الفارابي 3، حي تيليلا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SUP DE CRECHEE",
+    "NOM_ETABA": "مؤسسة سيب دو كريش الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "الطابق 1، شارع عمر بن الخطاب، ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ENNAKHILE",
+    "NOM_ETABA": "مؤسسة النخيل الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 138، شارع عبد الله كنون، ح",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SIGMA 3E",
+    "NOM_ETABA": "مؤسسة سيكما 3 الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 43، شارع الحنصالي، الخيام ",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION TIMAR ELGHADE",
+    "NOM_ETABA": "مؤسسة ثمار الغد الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 348 هـ، تجزئة بئر انزران ،",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION OMMOLKORAE",
+    "NOM_ETABA": "مؤسسة أم القرى الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 3، زنقة 7، رقم 6، تيكيوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION MASSMAR PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة مسمار للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1800، الحي المحمدي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL KHAWARIZMI PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الخوارزمي للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 9، رقم 56، بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ACHBAL ALHOUDA PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أشبال الهدى للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الوحدة، رقم 238، أنزا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ALYANABIA PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الينابيع للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1569، حي السلام",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ATAALLAM PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أتعلم للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 513أ، الوفاق 2، بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA GRANDE INSTITUTION D AGADIRE",
+    "NOM_ETABA": "لاكراند أنستتوسيون أكادير الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة السلام، رقم 1267، حي الس",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION IMAM OIRCH PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة إمام ورش للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 108 س، حي الهدى",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION OUM EL BANINE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أم البنين للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 11، رقم 2، بئر انزران، تي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LE PETIT ROBERT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة لوبوتي روبير للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 503، رقم 3، حي البحارة",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ALBOCHRA PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة البشرى للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 24، زنقة 1، رقم 15، تليلا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ANNIR PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أنير للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك \"س\"، رقم 339، حي الهدى",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL BARAA PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة البراءة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تيليلا رقم 2975 أكادير",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BARAIM ATTAOUFIQUE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة براعم التوفيق للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 24، زنقة 661، الخيام 2",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SAFWAT AL MAARIF PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة صفوة المعارف للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة غزة، رقم 19، حي رياض السل",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION FI RIHABE AL MAARIFA PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة في رحاب المعرفة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك أ، رقم 122، حي الزيتون، ت",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LE PETIT SCAPIN PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة لوبتي سكابان للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": " ب 52، الوفاق الكبير، بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION JARDIN DES P-TITS ENFANTS PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة جاردان دي بتي زونفون للتعليم الأولي",
+    "AdresseL": "Imb 2 résidence Ennaser 1 bens",
+    "AdresseA": "إقامة النصر، العمارة 2، بنسركا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL FADAEL PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الفضائل للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 4، رقم 366، بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL MALIK ASSAGHIR PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة المالك الصغير للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك \"س\"، رقم 118، حي الزيتون،",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BARAIM ARRISALA PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة براعم الرسالة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك \"ه\" رقم 55، حي الزيتون، ت",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LES COLIBRIS PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة لي كوليبري للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 134، الفضية",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SIRAJ TILILAE",
+    "NOM_ETABA": "مؤسسة سراج تليلا الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 2611، حي تليلا",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION INTEGRALEE",
+    "NOM_ETABA": "مؤسسة أنتيكرال الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي فونتي العليا، بنسركاو G04 ر",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION DIF PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الضيف للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 160 حي الهدى E بلوك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SIWANEE",
+    "NOM_ETABA": "مؤسسة صوان الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 599، الحي المحمدي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AYAT ARRAHMANE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة آية الرحمان للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 13، رقم 48، حي ولي العهد",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION COUP DE POUCE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة كودبوس للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 556 أ، الوفاق ، بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL ATFAL AWALAN PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الأطفال أولا للتعليم الأولي",
+    "AdresseL": "Cité  Al  wafa ¸  Bloc 17¸ № :",
+    "AdresseA": "رقم 390 بلوك 17، حي الوفاء",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL QALAM 2 PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة القلم 2 للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "الطابق 1، عمارة 51-52 حي أدرار",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BARAIM ENNASIM 2 PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة براعم النسيم 2 للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": " أسكا تكوين  B355",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION EL HIBA PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الهيبة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 4480، الحي المحمدي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION EL AMINE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الأمين للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 2، زنقة 611، درب أيت العرب",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ANNAE",
+    "NOM_ETABA": "مؤسسة أنا الخصوصية",
+    "AdresseL": "Rue823, angle Av Abderrahmane ",
+    "AdresseA": " زنقة 823 زاوية شارع عبد الرحم",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BARAIM AL HADAF ANNABIL PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة براعم الهدف النبيل للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 20، زنقة 630، درب أيت العر",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SIRAJ ALHAYE",
+    "NOM_ETABA": "مؤسسة سراج الحي الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة 5158 الحي المحمدي",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION JARDIN D ANGE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة جاردان دونج للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "عمارة أ6 رقم 3 بلوك أ حي الهدى",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION SARAH MATERNELLE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة سارة ماترنيل للتعليم الأولي",
+    "AdresseL": "GH07,immeuble 141, Saada2, hay",
+    "AdresseA": " عمارة 141، السعادة 2، الحي ال",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION VAN GOGH PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة فان كوخ للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 32، الحي المختلط، زنقة الم",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION CRECHE JARDIN D'ANGE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة كريش جاردان دونج للتعليم الأولي",
+    "AdresseL": "N157 Lot militaire Bensergao",
+    "AdresseA": "رقم 157 التجزئة العسكرية بنسرك",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION BOURGEONS D'ESPOIR PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة بورجون ديسبوار للتعليم الأولي",
+    "AdresseL": "N168 Cité Farah Bensergao",
+    "AdresseA": "رقم 168 حي الفرح بنسركاو",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION JAWHARAT AL MAARIFAE",
+    "NOM_ETABA": "مؤسسة جوهرة المعرفة الخصوصية",
+    "AdresseL": "N 396 Cité Tilila Extention Ti",
+    "AdresseA": "رقم 396 حي تليلا التمديد تكوين",
+    "COMMUNE": "Agadir ",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

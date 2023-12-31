@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "ALI IBNOU ABI TALEB",
+    "NOM_ETABA": "م علي بن ابي طالب",
+    "AdresseL": "OULED M BAREk",
+    "AdresseA": "جماعة اولاد امبارك",
+    "COMMUNE": "Ouled M'Barek",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED MBAREK AUTONOME",
+    "NOM_ETABA": "م اولاد امبارك المستقلة",
+    "AdresseL": "ROUTE TIMOULILTE OULED M BAREK",
+    "AdresseA": "طريق تيمولبلت اولاد امبارك",
+    "COMMUNE": "Ouled M'Barek",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DAHRA 2 CENTRE",
+    "NOM_ETABA": "مركزية الظهرة",
+    "AdresseL": "DAHRA 2 COMMUNE OULED M BAREK",
+    "AdresseA": "جماعة اولاد امبارك",
+    "COMMUNE": "Ouled M'Barek",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OUED EDDAHAB",
+    "NOM_ETABA": "ثانوية وادي الذهب التأهيلية",
+    "AdresseL": "BD 20 AOUT COMMUNE OULED MBAREK",
+    "AdresseA": "شارع 20 غشت جماعة اولاد امبارك",
+    "COMMUNE": "Ouled M'Barek",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ANNOUR",
+    "NOM_ETABA": "ثانوية النور التأهيلية",
+    "AdresseL": "LYCEE ANNOUR  COMMUN OULED MBAREK",
+    "AdresseA": "ثانوية النور التأهيلية-جماعة اولاد امبارك",
+    "COMMUNE": "Ouled M'Barek",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire kamar assabah",
+    "NOM_ETABA": "محموعة مدارس قمر الصباح",
+    "AdresseL": "LOTISSEMENT ANNOUR A COTE DU L",
+    "AdresseA": "تجزئة النور جماعة اولاد امبارك",
+    "COMMUNE": "Ouled M'Barek",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "essorour",
+    "NOM_ETABA": "مؤسسة السرور",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار أولاد أيوب أولاد امبارك",
+    "COMMUNE": "Ouled M'Barek",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

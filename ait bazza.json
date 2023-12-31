@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "AIT MOUMMOU",
+    "NOM_ETABA": "ايت مومو",
+    "AdresseL": "centre COMMUNE AIT BAZZA imouzzer marmoucha boulem",
+    "AdresseA": "مركز جماعة ايت بازة - ايموزار مرموشة -بولمان",
+    "COMMUNE": "Ait Bazza",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT IMANE",
+    "NOM_ETABA": "ايت ايمان",
+    "AdresseL": "DOUAR AIT IMANE COMMUNE AIT BAZZA",
+    "AdresseA": "دوار ايت ايمان جماعة ايت بازة",
+    "COMMUNE": "Ait Bazza",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

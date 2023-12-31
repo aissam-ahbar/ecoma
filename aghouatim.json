@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "YOUSSEF IBNOU TACHAFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "DOUAR TALAT MAGHENE COMMUNE Aghouatim  TAHANAOUT",
+    "AdresseA": "دوار تلاث مرغن جماعة اغواطيم تحناوت",
+    "COMMUNE": "Aghouatim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HOUMMANE EL FATOUAKI",
+    "NOM_ETABA": "حمان الفتواكي",
+    "AdresseL": "DOUAR OULAD RAHOU COMMUNE AGHWATIM",
+    "AdresseA": "دوار اولاد رحو جماعة أغواطيم",
+    "COMMUNE": "Aghouatim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED AD DHAHAB",
+    "NOM_ETABA": "وادى الدهب",
+    "AdresseL": "DOUAR TARZINTE COMMUNE AGHOUATIM",
+    "AdresseA": "دوار ترزينت جماعة اغواطيم",
+    "COMMUNE": "Aghouatim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DERB ACHAMS",
+    "NOM_ETABA": "درب الشمس",
+    "AdresseL": "DOUAR DERB ACHAMS COMMUNE aghouatm",
+    "AdresseA": "دوار درب الشمس جماعة  اغواطيم",
+    "COMMUNE": "Aghouatim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHAROUA",
+    "NOM_ETABA": "الخروع",
+    "AdresseL": "DOUAR AL kharouaa COMMUNE AGHOUATIM",
+    "AdresseA": "دوار الخروع جماعة أغواطيم",
+    "COMMUNE": "Aghouatim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IJIKENE",
+    "NOM_ETABA": "اجيكن",
+    "AdresseL": "DOUAR IJIKENE COMMUNE Aghouatime",
+    "AdresseA": "دوار اجيكن جماعة أعواطيم",
+    "COMMUNE": "Aghouatim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUGGANA",
+    "NOM_ETABA": "تكانة",
+    "AdresseL": "DOUAR TOUGGANA COMMUNE aghouatime",
+    "AdresseA": "دوار تكانة جماعة اغواطيم",
+    "COMMUNE": "Aghouatim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "UNIT AIT EL HAJ",
+    "NOM_ETABA": " وحدة ايت الحاج",
+    "AdresseL": "DOUAR AIT LHAJ COMMUNE AGHWATIME",
+    "AdresseA": "دوار ايت الحاج جماعة اغواطيم",
+    "COMMUNE": "Aghouatim",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

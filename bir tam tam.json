@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial BIR TAMTAM",
+    "NOM_ETABA": "ثانوية بئر طمطم الإعدادية",
+    "AdresseL": "COMMUNE  BIR TAMTAM",
+    "AdresseA": "جماعة بئر طمطم",
+    "COMMUNE": "Bir Tam Tam",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss BIR TAMTAM Centre",
+    "NOM_ETABA": "م/م بئر طمطم-مركز",
+    "AdresseL": "commune BIR TAMTAM",
+    "AdresseA": "جماعة بئر طمطم",
+    "COMMUNE": "Bir Tam Tam",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIT HMIDAN Centre",
+    "NOM_ETABA": "م/م أيت حميدان-المركز",
+    "AdresseL": "DOUAR AIT HMIDAN",
+    "AdresseA": "دوار أيتا حميدان",
+    "COMMUNE": "Bir Tam Tam",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIT OUBERKANE Centre",
+    "NOM_ETABA": "م/م أيت أوبركان-المركز",
+    "AdresseL": "DOUAR AIT OU BERKANE",
+    "AdresseA": "دوار أيت أوبركان",
+    "COMMUNE": "Bir Tam Tam",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

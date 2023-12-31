@@ -1,0 +1,1082 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CADI AYAD",
+    "NOM_ETABA": "الثانوية الاعدادية القاضي عياض",
+    "AdresseL": "QUARTIER YASMINA 2 MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي  ياسمينة 2",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY RACHID",
+    "NOM_ETABA": "الثانوية الاعدادية مولاي رشيد",
+    "AdresseL": "AVENUE BENI AMIR MUNICIPALITE KHOURIBGA",
+    "AdresseA": "شارع  بني  عمير الحي الاداري",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MASSIRA",
+    "NOM_ETABA": "الثانوية الاعدادية المسيرة",
+    "AdresseL": "BD TARABOULS HAY RIAD MUNICIPALITE KHOURIBGA",
+    "AdresseA": "شارع  طرابلس-حي  الرياض",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN KHALDOUN",
+    "NOM_ETABA": "الثانوية الاعدادية ابن خلدون",
+    "AdresseL": "Bd AL wiam hay mabchour",
+    "AdresseA": "شارع الوئام حي مبشور",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KHANSA",
+    "NOM_ETABA": "الثانوية الاعدادية الخنساء",
+    "AdresseL": "QUARTIER EL HANA 2 MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي الهناء 2",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BADRE",
+    "NOM_ETABA": "الثانوية الاعدادية بدر",
+    "AdresseL": "HAY BEN JELLOUNE MUNICIPALITE KHOURIBGA",
+    "AdresseA": "دوار  بن  جلون",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID LAMAALEM LARBI",
+    "NOM_ETABA": "الثانوية الاعدادية الشهيد المعلم العربي",
+    "AdresseL": "RUE ENNASSIRIYA QUARTIER AL AMAL",
+    "AdresseA": "زنقة الناصرية حي الامل",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE NAHDA",
+    "NOM_ETABA": "مدرسة النهضة",
+    "AdresseL": "HAY NAHDA MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي النهضة  بلدية خريبكة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LAAZIZIA",
+    "NOM_ETABA": "مدرسة العزيزية",
+    "AdresseL": "AVENUE MOHAMMED 6 MUNICIPALITE KHOURIBGA",
+    "AdresseA": "شارع محمد السادس",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MORABITINE",
+    "NOM_ETABA": "مدرسة المرابطين",
+    "AdresseL": " HAY YASMINE 2 MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي ياسمين 2",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN BATTOUTA",
+    "NOM_ETABA": "مدرسة ابن بطوطة",
+    "AdresseL": "ZANKAT IMAM CHADLI MUNICIPALITE KHOURIBGA",
+    "AdresseA": "زنقة الامام  الشادلي",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOQAOUAMA",
+    "NOM_ETABA": "مدرسة المقاومة",
+    "AdresseL": "Avenue AL moudon AL arabia AL kods ",
+    "AdresseA": "  شارع المدن العربية حي القدس خريبكة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHADIJA BENT KHOUAILID",
+    "NOM_ETABA": "مدرسة خديجة بنت خويلد",
+    "AdresseL": "ZANKAT CHOUAIB DOUKKALI MUNICIPALITE KHOURIBGA",
+    "AdresseA": "زنقة  شعيب  الدكالي",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANAS IBNOU MALIK",
+    "NOM_ETABA": "مدرسة أنس بن مالك",
+    "AdresseL": "bd el massira el khadra ",
+    "AdresseA": "شارع المسيرة الخضراء  ",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAKADDOUM",
+    "NOM_ETABA": "مدرسة التقدم",
+    "AdresseL": "AVENUE BOUJDOUR MUNICIPALITE KHOURIBGA",
+    "AdresseA": "شارع بوجدور- خريبكة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU HAZME",
+    "NOM_ETABA": "مدرسة ابن حزم",
+    "AdresseL": "ZANKAT IMAM RHAZALI MUNICIPALITE KHOURIBGA",
+    "AdresseA": "زنقة  الامام  الغزالي",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MSALLA",
+    "NOM_ETABA": "مدرسة المصلى",
+    "AdresseL": "CHARII MY IDRISS 1 MUNICIPALITE KHOURIBGA",
+    "AdresseA": "شارع مولاي ادريس الاول",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAHID EL KOUSS",
+    "NOM_ETABA": "مدرسة الشهيد الكوس",
+    "AdresseL": "HAY QODS MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي  القدس",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TAHA HOUSSEINE",
+    "NOM_ETABA": "مدرسة طه حسين",
+    "AdresseL": "DERB OULED SI BOUABID MUNICIPALITE KHOURIBGA",
+    "AdresseA": "درب  ولد  سي  بوعبيد",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARRI",
+    "NOM_ETABA": "مدرسة المعري",
+    "AdresseL": "HAY LAKHOUADRIA JDAD MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي  الخوادرية",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM GHAZALI",
+    "NOM_ETABA": "مدرسة الإمام الغزالي",
+    "AdresseL": "QUARTIER LA FERME MUNICIPALITE KOURIBGA",
+    "AdresseA": "حي  الضيعة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FATIMA ZAHRA",
+    "NOM_ETABA": "مدرسة فاطمة الزهراء",
+    "AdresseL": "7 ZANKAT OUED LAABID  MUNICIPALITE KHOURIBGA",
+    "AdresseA": "7- زنقة  واد  العبيد",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SALAM",
+    "NOM_ETABA": "مدرسة السلام",
+    "AdresseL": "HAY SALEM MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي  السلام",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABDELMALIK ESSAADI",
+    "NOM_ETABA": "مدرسة عبد المالك السعدي",
+    "AdresseL": "DOUAR LAKHDAMA MUNICIPALITE KHOURIBGA",
+    "AdresseA": "دوار لخدامة-خريبكة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE YAAKOUB EL MANSOUR",
+    "NOM_ETABA": "مدرسة يعقوب المنصور",
+    "AdresseL": "HAY LEBYOUTE MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي البيوت-خريبكة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AICHA OUM MOUMININE",
+    "NOM_ETABA": "مدرسة عائشة أم المؤمنين",
+    "AdresseL": "RUE CASABLANCA MUNICIPALITE KHOURIBGA",
+    "AdresseA": "زنقة الدار البيضاء",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JAHID",
+    "NOM_ETABA": "مدرسة الجاحظ",
+    "AdresseL": "QUARTIER LAKHOUADRIA MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي  الرياض",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 11 JANVIER",
+    "NOM_ETABA": "مدرسة 11 يناير",
+    "AdresseL": "DERB OULED BAHLOUSSE  ALQODS MUNICIPALITE KHOURIBG",
+    "AdresseA": "درب ولد بهلوص  القدس- حريبكة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU DAR ELGHIFARI",
+    "NOM_ETABA": "مدرسة أبو ذر الغفاري",
+    "AdresseL": "HAY AMAL  rue babil",
+    "AdresseA": "حي  الامل زنقة بابل",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OKBA IBN NAFIA",
+    "NOM_ETABA": "مدرسة عقبة ابن نافع",
+    "AdresseL": "HAY AL AMAL MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي  الامل",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ALHAYTAM",
+    "NOM_ETABA": "مدرسة ابن الهيثم",
+    "AdresseL": "QUARTIER ERRACHAD MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي الرشاد",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL QODS",
+    "NOM_ETABA": "مدرسة القدس",
+    "AdresseL": "HAY AL QODS 1 ",
+    "AdresseA": "حي  القدس 1",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL AMAL",
+    "NOM_ETABA": "مدرسة الأمل",
+    "AdresseL": "HAY ELQODS MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي الفدس",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAHIDA HADDA EL ATTAOUI",
+    "NOM_ETABA": "مدرسة الشهيدة حادة العتاوي",
+    "AdresseL": "HAY  AL  FATH",
+    "AdresseA": "حي  الفتح",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZAYTOUNE",
+    "NOM_ETABA": "مدرسة الزيتون",
+    "AdresseL": "hay ezzaytoune khouribga",
+    "AdresseA": "حي الزيتون خريبكة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FARAJ",
+    "NOM_ETABA": "مدرسة الفرج",
+    "AdresseL": "RUE AL BIR HAY AL FARAJ",
+    "AdresseA": "زنقة البر حى الفرج",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL INBIATE",
+    "NOM_ETABA": "مدرسة الانبعاث",
+    "AdresseL": "hay al inbiate",
+    "AdresseA": "حي الانبعاث",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JABER IBNO HAYANE",
+    "NOM_ETABA": "مدرسة جابر ابن حيان",
+    "AdresseL": "Lotissement al inbiaat 2EME  TRANCHE ",
+    "AdresseA": "تجزئة الانبعاث الشطر الثاني  ",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE qualifiant AL IMAM MALIK",
+    "NOM_ETABA": "الثانوية التأهيلية الامام مالك",
+    "AdresseL": "AVENUE IMAM MALIK MUNICIPALITE KHOURIBGA",
+    "AdresseA": " شارع بني عمير زنقة  الامام  مالك",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN YASSINE",
+    "NOM_ETABA": "الثانوية التاهيلية بن ياسين",
+    "AdresseL": "AVENUE DES ALAOUITES ",
+    "AdresseA": "شارع  العلويين",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Ibn Abdoun",
+    "NOM_ETABA": "الثانوية التأهيلية ابن عبدون ",
+    "AdresseL": "RUE EL MOUTANABI MUNICIPALITE KHOURIBGA",
+    "AdresseA": "زنقة  المتنبي",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PHOSPHATE",
+    "NOM_ETABA": "الثانوية التأهيلية الفوسفاط",
+    "AdresseL": "HAY AL amal rUE rafah",
+    "AdresseA": "حي الامل زنقة رفح",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MOUAHIDINE",
+    "NOM_ETABA": "الثانوية التاهيلية الموحدين",
+    "AdresseL": "AVENUE BENI AMIR ",
+    "AdresseA": "شارع  بني  عمير",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT YOUSSEF IBN TACHFINE",
+    "NOM_ETABA": "الثانوية التاهيلية يوسف بن تاشفين",
+    "AdresseL": "HAY YASMINA 1  MUNICIPALITE KHOURIBGA",
+    "AdresseA": "حي  ياسمينة  1",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU EL BANNAE CLASSES PREPARATO",
+    "NOM_ETABA": "الثانوية التاهيلية ابن  البناء للاقسام التحضيرية",
+    "AdresseL": "BOULEVARD  IBRAHIM ERROUDANI",
+    "AdresseA": "شارع  ابراهيم الروداني",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT GRAND MAGHREB",
+    "NOM_ETABA": "الثانوية التأهيلية المغرب الكبير",
+    "AdresseL": "KHOURIBGA",
+    "AdresseA": "خريبكة",
+    "COMMUNE": "Khouribga",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Ampere",
+    "NOM_ETABA": "أمبير",
+    "AdresseL": "Boulevard des ALAOUITES HAY AL",
+    "AdresseA": " C33   شارع العلويين تجزئة اله",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS LA CLAIREVOYANCE",
+    "NOM_ETABA": "م م لاكليرفويانص",
+    "AdresseL": "amicale roumouz al khair",
+    "AdresseA": "ودادية رموز الخير ",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL MOUATASSIM",
+    "NOM_ETABA": "مؤسسة المعتصم",
+    "AdresseL": "quartier des oranges, hamrouka",
+    "AdresseA": "حي الليمون، حمروكات خريبكة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BARAIMRAIHANE",
+    "NOM_ETABA": "مجموعة مدارس براعم ريحان",
+    "AdresseL": "bloc \"s\" nahda n 15 khouribga",
+    "AdresseA": "15 بلوك س حي النهضة خريبكة ",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUSSAMA BNOU ZAiD",
+    "NOM_ETABA": "اسامة بن زيد",
+    "AdresseL": "lotissement al warch hay riad ",
+    "AdresseA": "ودادية الورش حي الرياض الرقم 2",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "centrale",
+    "NOM_ETABA": "المركزية",
+    "AdresseL": "LOT EL MAOULID ",
+    "AdresseA": "تجزئة المولد ",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LINA",
+    "NOM_ETABA": "مؤسسة لينا الخاصة",
+    "AdresseL": "rue ifni ocp 1",
+    "AdresseA": "1 زنقة افني م ش ف",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al andalousse",
+    "NOM_ETABA": "الاندلس",
+    "AdresseL": "LOT.INBIAT RUE LOTF ALLAH",
+    "AdresseA": "تجزئة الانبعاث ش 1",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "baraime rayhana",
+    "NOM_ETABA": "براعم ريحانة",
+    "AdresseL": "LOT ZAITOUNA N° 130 TRANCHE 1",
+    "AdresseA": "تجزئة الزيتونة الشطر الاول رقم",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE LE NIL",
+    "NOM_ETABA": "مدرسة النيل الخاصة",
+    "AdresseL": "49 lot el assil  hamroukat ",
+    "AdresseA": "حمروكات رقم 49 تجزئة الاصيل",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manahij alhouda",
+    "NOM_ETABA": "مناهج الهدى",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1361 زنقة خراسان حي الامل",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHAKAIK ANNOMANE",
+    "NOM_ETABA": "شقائق النعمان",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 579 حي الامل",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAEM ESSAOUSSEN",
+    "NOM_ETABA": "براعم السوسن",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1177 حي الامل",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALWIFAK",
+    "NOM_ETABA": "الوفاق",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك ب رقم 43 حي الامل",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALKATAKIT",
+    "NOM_ETABA": "الكتاكيت",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الرياض تجزئة الحوض رقم 31",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALKANAR",
+    "NOM_ETABA": "الكنار",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 48 زنقة الرجاء حي الهدي",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR ZAITOUNA",
+    "NOM_ETABA": "دار الزيتونة",
+    "AdresseL": "qUArtier zItounA secteur 6 num",
+    "AdresseA": "121,122 سكتور 6 حي الزيتونة ال",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BALABEL ALFATH",
+    "NOM_ETABA": "بلابل الفتح",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1636 حي الفتح",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALHOUDA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 102 حي ياسمينة 2",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAYAZIK",
+    "NOM_ETABA": "النيازك",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 468 حي القدس 2",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement hala bent khouailid",
+    "NOM_ETABA": "مؤسسة هالة بنت خويلد الخاصة",
+    "AdresseL": "lot nour & nabil",
+    "AdresseA": "تجزئة نور و نبيل",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al malak assarhir",
+    "NOM_ETABA": "الملاك الصغير",
+    "AdresseL": "cooperative al mostaqbal no 62",
+    "AdresseA": "تعاونية المستفبل رقم 62 حي الا",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al firdaous",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1 زنقة الرماني حي الفتح",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMANE ALKAWAKIBI",
+    "NOM_ETABA": "عبد الرحمان الكواكبي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 246 شارع القائد احمد الشرا",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAALIM ETTOFOULA",
+    "NOM_ETABA": "معالم الطفولة",
+    "AdresseL": "NULL",
+    "AdresseA": "1 رقم 165 زنقة الأبطال حي ياسم",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA VIE LA",
+    "NOM_ETABA": "لافيلا",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 1 زنقة الفلبين حي الكرم",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HOUDA",
+    "NOM_ETABA": "الهدى",
+    "AdresseL": "NULL",
+    "AdresseA": "بلوك 14 الرقم 335 الخوادرية اج",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT WIKIKIDIS",
+    "NOM_ETABA": "مؤسسة ويكيكيدز الخصوصية",
+    "AdresseL": "N90 SECTEUR 04 LOTISSEMENT EZZ",
+    "AdresseA": "الرقم 90 سيكتور 04 تجزئة الزيت",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELBILIA MATERNELLE EL HANA",
+    "NOM_ETABA": "ايلبيليا روض خصوصي الهنا",
+    "AdresseL": "Rue Alaouite. Hana 2 - Khourib",
+    "AdresseA": "شارع العلويين. تجزئة الهنا 2",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS SANABIL IQRAA AWALI",
+    "NOM_ETABA": "م م سنابل اقرأ اولي",
+    "AdresseL": "N° 130 RUE ZAG ELMASSIRA",
+    "AdresseA": "رقم 130 زنقة الزاك حي المسيرة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELBILIA MATERNELLE HANAA",
+    "NOM_ETABA": "البيليا روض خصوصي هناء",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الهناء",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nour al yassamin",
+    "NOM_ETABA": "نور الياسمين",
+    "AdresseL": "NULL",
+    "AdresseA": "الرقم 19 تجزئة الفجر حي الكرم",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "raouabi al maarifa",
+    "NOM_ETABA": "روابي المعرفة",
+    "AdresseL": "lot ezohor  i 31 ",
+    "AdresseA": "تجزئة الزهور  I 31 رقم",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al akhawayn",
+    "NOM_ETABA": "الأخوين",
+    "AdresseL": "NULL",
+    "AdresseA": "ياسمينة 2 رقم 201",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al manbaa",
+    "NOM_ETABA": "المنبع",
+    "AdresseL": "",
+    "AdresseA": "الرقم 7 ودادية الانارة حي الفت",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire chorok al imran",
+    "NOM_ETABA": "مجموعة مدارس شروق آل عمران الخصوصية",
+    "AdresseL": "bd beni amir qu. admenistratif",
+    "AdresseA": "شارع بني عمير الحي الإداري",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manbat 2",
+    "NOM_ETABA": "المنبت 2",
+    "AdresseL": "Yasmina 1, 2ème tranche",
+    "AdresseA": "ياسمينة 1 ، الشطر الثاني",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Kawtar",
+    "NOM_ETABA": "الكوثر",
+    "AdresseL": "Hay Riad, N° 2, Rue Trablesse",
+    "AdresseA": "حي الرياض، رقم 2، زنقة طرابلس",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " GROUPE SCOLAIRE SANABIL IQRAA ",
+    "NOM_ETABA": "مجموعة مدارس سنابل اقرأ الخصوصية  ",
+    "AdresseL": "39 RUE ALWOROUD Hay Riad -khou",
+    "AdresseA": "رقم 39 زنقة الورود حي الرياض خ",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE LA REUSSITE",
+    "NOM_ETABA": "مجموعة النجاح",
+    "AdresseL": "HAY EL FATH quartier des fonct",
+    "AdresseA": "تجزئة الفتح حي الموظفين طريق ا",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANABIL AL AMAL",
+    "NOM_ETABA": "سنابل الأمل",
+    "AdresseL": "N°26 BD Almoqawama QODS 1  Kho",
+    "AdresseA": "رقم 26 شارع المقاومة القدس 1 خ",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecoles le savoir",
+    "NOM_ETABA": "مدارس المعرفة",
+    "AdresseL": "bd ahmed belafrij yasmina 2",
+    "AdresseA": "شارع احمد بلافريج ياسمينة 2",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA residence",
+    "NOM_ETABA": "الاقامة",
+    "AdresseL": "2MARS HAY ZITOUNA KHOURIBGA",
+    "AdresseA": "2 مارس خريبكة حي الزيتونة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESSAOUSSen",
+    "NOM_ETABA": "السوسن",
+    "AdresseL": "rue najd cite alamal khouribga",
+    "AdresseA": "1167 -1169 زنقة نجد حي الامل خ",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Badiae",
+    "NOM_ETABA": "مدرسة البديع الخاصة ",
+    "AdresseL": "197 Quartier Edakhla, Rue des ",
+    "AdresseA": "حي الداخلة، رقم 197 ، محج اللي",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Khawarizmi Pour l Education et l Enseig.",
+    "NOM_ETABA": "معهد الخوارزمي للتربية والتعليم",
+    "AdresseL": "Angle Rue Tadla, Rue Moulay Ab",
+    "AdresseA": "زاوية زنقة تادلة، زنقة مولاي ع",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Omar Khayam",
+    "NOM_ETABA": "معهد عمر الخيام الخاص",
+    "AdresseL": "Hay Ryad, Avenue Mu Idriss 1er",
+    "AdresseA": "حي الرياض، شارع مولاي إدريس ال",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Ibn Sina",
+    "NOM_ETABA": "مؤسسة ابن سينا الخاصة",
+    "AdresseL": "route el khatouate BP 738 Ezel",
+    "AdresseA": "طريق الخطوات - ص-ب 738 الزلاقة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Al Manbate ",
+    "NOM_ETABA": "مدرسة المنبت الحرة",
+    "AdresseL": "Hay Massira, Villa 1 - Commune",
+    "AdresseA": "حي المسيرة، فيلا 1 - جماعة خري",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut de Promotion Socio-Educative",
+    "NOM_ETABA": "معهد الترقية الاجتماعية والتعليمية",
+    "AdresseL": " Rue larache-  Khouribga",
+    "AdresseA": "زنقة العرائش - خريبكة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Al Khattabi",
+    "NOM_ETABA": "مؤسسة الخطابي الخاصة",
+    "AdresseL": "Rue du Four- N° 14-Bp 135, Kho",
+    "AdresseA": "زنقة الفران الرقم 14 خريبكة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Chaouki ",
+    "NOM_ETABA": "مؤسسة شوقي",
+    "AdresseL": "N° 1 Boulevard 16 Novembre Nah",
+    "AdresseA": "رقم 1 شارع 16 نونبر - خريبكة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Razi",
+    "NOM_ETABA": "مؤسسة الرازي",
+    "AdresseL": "N° 20 Rue Meknès - Khouribga",
+    "AdresseA": "رقم 20 زنقة مكناس - خريبكة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Al Azhar",
+    "NOM_ETABA": "مؤسسة الأزهرالخاصة  ",
+    "AdresseL": "N°18 Angle Rue Caid Ahmed Cher",
+    "AdresseA": "رقم 18 زاوية زنقة القائد أحمد ",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM ENNOUR",
+    "NOM_ETABA": "براعم النور ",
+    "AdresseL": "N° 74 Zankat Moulay Abdellah -",
+    "AdresseA": "رقم 74، زنقة مولاي عبد الله - ",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Complexe Achchorouk pour l enseignement",
+    "NOM_ETABA": "مركب الشروق للتعليم الخاص",
+    "AdresseL": "Bd Bni Amir Qu administratif",
+    "AdresseA": "  شارع  بني  عمير الحي الإداري",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire sanabil iqraa massira",
+    "NOM_ETABA": "مجموعة مدارس سنابل اقرأ المسيرة",
+    "AdresseL": "N° 122, Bloc H Rue Zag Massira",
+    "AdresseA": "رقم 122، بلوك هاء زنقة الزاك ا",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Al Irfane",
+    "NOM_ETABA": "مؤسسة العرفان",
+    "AdresseL": "N° 544, Bd. Abderrahim Bouabid",
+    "AdresseA": "رقم 544، شارع عبد الرحيم بوعبي",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " ETABLISSEMENT YASSAMINE KHOURIBGA 2",
+    "NOM_ETABA": " مؤسسة ياسمين خريبكة 2 الخصوصية",
+    "AdresseL": "LOTISSEMENT BADR",
+    "AdresseA": "تجزئة بدر",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ABIR ESSAOUSSEN ",
+    "NOM_ETABA": "مجموعة مدارس عبير السوسن",
+    "AdresseL": "Lotissement kenza -Ansam- Hay ",
+    "AdresseA": "ودادية كنزة -الانسام- حي الريا",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BARAAIM ENNAYAZIK ",
+    "NOM_ETABA": "مجموعة مدارس براعم النيازك ",
+    "AdresseL": "Lotissement salma khouribga",
+    "AdresseA": "تجزئة سلمى خريبكة",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE ELBILIA GESTION ",
+    "NOM_ETABA": "مجموعة إيبيليا",
+    "AdresseL": "LOTISSEMENT BADR",
+    "AdresseA": "تجزئة بدر",
+    "COMMUNE": "Khouribga ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

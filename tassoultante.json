@@ -1,0 +1,212 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KINDI",
+    "NOM_ETABA": "الثانوية الإعدادية الكندي",
+    "AdresseL": "TASSOULTANTE",
+    "AdresseA": "تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ECHOURAFA",
+    "NOM_ETABA": "الثانوية الإعدادية الشرفاء",
+    "AdresseL": "TASSOULTANTE SIDI MOUSSA",
+    "AdresseA": "دوار سيدي موسى ج تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZEMRANE",
+    "NOM_ETABA": "الثانوية الاعدادية زمران",
+    "AdresseL": "COMMUNE TASSOULTANTE",
+    "AdresseA": "جماعة تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LEGOUASSEM",
+    "NOM_ETABA": "الثانوية الإعدادية الكواسم",
+    "AdresseL": "COMMUNE TASSOULTANTE",
+    "AdresseA": "جماعة تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ss CHRIFIA centrale",
+    "NOM_ETABA": "مجموعة مدارس الشريفية المركزية",
+    "AdresseL": "CHRIFIA  CTASSOLTANTE",
+    "AdresseA": "الشريفية ج تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss BOUAZZA centrale",
+    "NOM_ETABA": "مجموعة مدارس بوعزة المركزية",
+    "AdresseL": "DOUAR BOUAZZA CTASSOLTANTE",
+    "AdresseA": "دوار بوعزة ج تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole TASSOULTANTE ",
+    "NOM_ETABA": " مدرسة تسلطانت",
+    "AdresseL": "TASSOULTANTE douar sidi moussa",
+    "AdresseA": "دوار سيدي موسى",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss LAHNA centrale",
+    "NOM_ETABA": "مجموعة مدارس لهنا المركزية",
+    "AdresseL": "DOUAR LAHNA TASSOULTANTE",
+    "AdresseA": "دوار لهنا ج تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss EL OUALJA ALHARAKATE centrale",
+    "NOM_ETABA": "مجموعة مدارس الولجة الحركات المركزية",
+    "AdresseL": "DOUAR ALHARAKATE  CTASSOLTANTE",
+    "AdresseA": "دوار الحركات ج تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss NZALA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس النزالة المركزية",
+    "AdresseL": "DOUAR ZAMRANE COMMUNE TASSOULTANTE",
+    "AdresseA": "دوار زمران جماعة تسلطانت   ",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RIAD OURIKA",
+    "NOM_ETABA": "مدرسة رياض أوريكا",
+    "AdresseL": "DOUAR KOUKOU COMMUNE TASSALTANTE",
+    "AdresseA": "دوار كوكو جماعة تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL OUIAME",
+    "NOM_ETABA": "مدرسة الوئام",
+    "AdresseL": "DOUAR LAHBICHATE COMMUNE TASSOULTANTE",
+    "AdresseA": "دوار لهبيشات ج تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole TOUGGANA",
+    "NOM_ETABA": " مدرسة تكانة",
+    "AdresseL": "DOUAR TOUGGANA COMMUNE TASSOULTANTE",
+    "AdresseA": "دوار تكانة ج تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ecole LEGOUASSEM",
+    "NOM_ETABA": "مدرسة الكواسم",
+    "AdresseL": "DR lagouassem CR tassoultante",
+    "AdresseA": "دوار الكواسم ج تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss OULED M BAREK",
+    "NOM_ETABA": "مجموعة مدارس أولاد امبارك",
+    "AdresseL": "douar soultane oulad mbarek",
+    "AdresseA": "دوار السلطان اولاد امبارك",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 20 AOUT",
+    "NOM_ETABA": "مدرسة 20 غشت",
+    "AdresseL": "DOUAR ZEMRANE",
+    "AdresseA": "دوار زمران",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NZALA 2",
+    "NOM_ETABA": "مدرسة النزالة 2",
+    "AdresseL": "Douar NZALA TASSOULTANTE",
+    "AdresseA": "دوار النزالة تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL JAOUHARA 2",
+    "NOM_ETABA": "مدرسة الجوهرة 2",
+    "AdresseL": "COMMUNE TASSOULTANTE",
+    "AdresseA": "جماعة تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TASSOULTANTE",
+    "NOM_ETABA": "الثانوية التأهيلية تسلطانت",
+    "AdresseL": "DOUAR LAGOUASSEM commune tassoultante",
+    "AdresseA": "دوار لكواسم، جماعة تسلطانت",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE OTMALI ENS.PRIVE",
+    "NOM_ETABA": "مجموعة مدارس عثمالي للتعليم الخصوصي",
+    "AdresseL": "lot jawharat atlass n°16 TASSO",
+    "AdresseA": "تجزئة جوهرة الأطلس رقم 16 تسلط",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ecole charifa2 ENS SCO",
+    "NOM_ETABA": "مؤسسة شريفة 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "LOT.LAHNA-ROUTE OURIKA-TASSOUL",
+    "AdresseA": "تجزئة لهنا -طرق أوريكة -جماعة ",
+    "COMMUNE": "Tassoultante",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

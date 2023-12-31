@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "AGHBAL",
+    "NOM_ETABA": "أغبال",
+    "AdresseL": "COMMUNE AGHBAL",
+    "AdresseA": "جماعة أغبال",
+    "COMMUNE": "Aghbal",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU LKHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "IBNOU ALKHATIB N72 COMMUNE DE AGHBAL",
+    "AdresseA": "ابن الخطيب",
+    "COMMUNE": "Aghbal",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED ELBALI",
+    "NOM_ETABA": "أولاد  البالي",
+    "AdresseL": "BP 72 COMMUNE DE AGHBAL",
+    "AdresseA": "أولاد البالي  أغبال",
+    "COMMUNE": "Aghbal",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA BNOU NOUSSAIR",
+    "NOM_ETABA": "موسى بن نصير",
+    "AdresseL": "DAIATE BOUTIN COMMUNE DE AGHBAL",
+    "AdresseA": "جماعة أغبال",
+    "COMMUNE": "Aghbal",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ANNAFISS",
+    "NOM_ETABA": "ابن النفيس",
+    "AdresseL": "DOUAR ZIDOUR aghbal",
+    "AdresseA": " دوار زيدور جماعة أغبال",
+    "COMMUNE": "Aghbal",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

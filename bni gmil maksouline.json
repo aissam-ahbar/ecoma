@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ES-SAYIDA EL HORA",
+    "NOM_ETABA": "ثانوية السيدة الحرة الإ عدادية",
+    "AdresseL": "COMMUNE BNI GMIL MAKSSOULINE",
+    "AdresseA": "جماعة بني جميل مكسولين",
+    "COMMUNE": "Bni Gmil Maksouline",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BNI CHBOUN",
+    "NOM_ETABA": "بني اشبون",
+    "AdresseL": "DOUAR BNI CHBOUN COMMUNE BNI GMIL MAKSOULINE",
+    "AdresseA": "دواربني اشبون جماعة بني جميل مكصولين",
+    "COMMUNE": "Bni Gmil Maksouline",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GALLATE",
+    "NOM_ETABA": "كلت",
+    "AdresseL": "DOUAR GALLATE COMMUNE BNI GMIL MAKSOLINE",
+    "AdresseA": "دوار كلت جماعة بني جميل المكصولين",
+    "COMMUNE": "Bni Gmil Maksouline",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEL HAK",
+    "NOM_ETABA": "بلحك",
+    "AdresseL": "DOUAR BEL HAK COMMUNE BNI GMIL MAKSOULINE",
+    "AdresseA": "دواربلحك جماعة بني جميل المكصولين",
+    "COMMUNE": "Bni Gmil Maksouline",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

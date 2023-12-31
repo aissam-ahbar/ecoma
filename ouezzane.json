@@ -1,0 +1,322 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM MALEK",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مالك",
+    "AdresseL": "ROUTE DE CHEFCHAOUEN  COMMUNE OUEZZANE",
+    "AdresseA": " طريق شفشاون",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY TOUHAMI",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي التهامي",
+    "AdresseL": "route d assjen quartier kechryene  ouezzane",
+    "AdresseA": "  حي القشريين طريق أسجن وزان",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Province: Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI HYANETAOUHIDI",
+    "NOM_ETABA": "م ابي حيان التوحيدي",
+    "AdresseL": "HAY AL ADIR AVENUE IBN ROCHD COMMUNE OUEZZANE",
+    "AdresseA": "حي العدير شارع ابن رشد",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI MOUSSA AL ACHAARI",
+    "NOM_ETABA": "م أبو موسى الأشعري",
+    "AdresseL": "TARIK SIDI AHMED BOUHDAN HAY ALKACHRIYINE OUEZZANE",
+    "AdresseA": "حي القشريين",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN HANIE",
+    "NOM_ETABA": "م ابن هاني",
+    "AdresseL": "Qu Agadir Route de rabat n 274",
+    "AdresseA": "حي كادير طريق الرباط رقم 274 ",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOSSALLA",
+    "NOM_ETABA": "م المصلى",
+    "AdresseL": "q haddadine COMMUNE OUEZZANE",
+    "AdresseA": "وزان حي الحدادين",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL IMAM ALI BNOU ABI TALIB",
+    "NOM_ETABA": "م الإمام علي بن أبي طالب",
+    "AdresseL": "Quartier Laadir Lot.Ikrame Avenue Abdelkhalek Torr",
+    "AdresseA": "حي العدير تجزئة إكرام شارع عبد الخالق الطريس",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOULAY AL MAHDI AL WAZZANI",
+    "NOM_ETABA": "م مولاي المهدي الوزاني",
+    "AdresseL": "AVENUE HOMMANE AL FATOUAKI COMMUNE OUEZZANE",
+    "AdresseA": "حي العدير شارع حمان الفطواكي ",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FAKIH RHOUNI",
+    "NOM_ETABA": "م الفقيه الرهوني",
+    "AdresseL": "HAY AGADIR AVENUE MOHAMMED V  COMMUNE OUEZZANE",
+    "AdresseA": "حي أكادير شارع محمد الخامس",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL HASSANIA ",
+    "NOM_ETABA": "م الحسنية ",
+    "AdresseL": "OUEZZANE ",
+    "AdresseA": "وزان",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED BEN AL HASAN AL OUAZZANI",
+    "NOM_ETABA": "م محمد بن الحسن الوزاني",
+    "AdresseL": "quartier agadir",
+    "AdresseA": "حي أكادير",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SALAH EDINE ELAYOUBI",
+    "NOM_ETABA": "م صلاح الدين الأيوبي",
+    "AdresseL": "HAY PALESTINE  COMMUNE OUEZZANE",
+    "AdresseA": "حي فلسطين",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MASSIRA 1",
+    "NOM_ETABA": "مدرسة المسيرة1",
+    "AdresseL": "quartier al hadadine",
+    "AdresseA": "حي الحدادين",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole Dar Dmana",
+    "NOM_ETABA": "مدرسة دار الضمانة",
+    "AdresseL": "LOT NAHDA",
+    "AdresseA": "تجزئة النهضة",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN YASSINE",
+    "NOM_ETABA": "الثانوية التاهيلية ابن ياسين",
+    "AdresseL": "hay kachryine avenue mly ismail",
+    "AdresseA": "حي القشرين",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNZOHR",
+    "NOM_ETABA": "الثانوية التاهيلية ابن زهر",
+    "AdresseL": "AV BIR ANZARANE QU HADDADINE COMMUNE  OUAZZANE",
+    "AdresseA": "شارع بئر انزران الحدادين",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT MOULAY ABDELLAH CHRIF",
+    "NOM_ETABA": "الثانوية التاهيلية مولاي عبد الله الشريف",
+    "AdresseL": "AV MOHAMED V  COMMUNE OUEZZANE",
+    "AdresseA": "شارع محمد الخامس",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL KORTOBI",
+    "NOM_ETABA": "الثانوية التاهيلية القرطبي",
+    "AdresseL": "ROUTE CHEFCHAOUEN COMMUNE OUEZZANE",
+    "AdresseA": "  طريق شفشاون - وزان",
+    "COMMUNE": "Ouezzane",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DESCARTES ",
+    "NOM_ETABA": "مجموعة مدارس ديكارت",
+    "AdresseL": "qu el hadadine av lala zouaoua",
+    "AdresseA": "حي الحدادين شارع لالة زواوة زن",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NAWAT",
+    "NOM_ETABA": "مجموعة مدارس النواة",
+    "AdresseL": "n° 39 RUE EL KENDI LOT KARIMA ",
+    "AdresseA": "رقم 39 زنقة الكندي تجزئة  كريم",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT RIAD AL MAARIFA",
+    "NOM_ETABA": "مؤسسة رياض المعرفة",
+    "AdresseL": "8 RuE ANOUAL QUARTIER laadir ",
+    "AdresseA": " 8 شارع انوال حي العدير",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL AMAL OUAZZANE",
+    "NOM_ETABA": "جروب سكوليغ الأمل وزان",
+    "AdresseL": "alwahda rue ladir n°35/36 ouez",
+    "AdresseA": "تجزئة الوحدة حي العدير رقم 35/",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alkatakit et anakhil",
+    "NOM_ETABA": "االكتاكيت و النخيل",
+    "AdresseL": "QUARTIER KECHRIYEN ROUTE ASJEN",
+    "AdresseA": "حي القشريين طريق اسجن",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Araed",
+    "NOM_ETABA": "الرائد ",
+    "AdresseL": "lot baalach route de rabat ,89",
+    "AdresseA": "طريق الرباط تجزئة بعلاش.رقم 89",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire l Horizon (ex Arc-En-Ciel)",
+    "NOM_ETABA": "مجموعة لوريزون(قوس قزح سابقا    ",
+    "AdresseL": "RuE Touhami Ben Chahed, Lalla ",
+    "AdresseA": "زنقة تهامي بن الشاهد، لالة زوا",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sara",
+    "NOM_ETABA": "سارة",
+    "AdresseL": "Hay Ain Abi Fariss, Rue Stayec",
+    "AdresseA": "حي عين أبي فارس، درب اسطييش، ر",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement rihab sindibad",
+    "NOM_ETABA": "مؤسسة رحاب السندباد",
+    "AdresseL": "N°66 LOT IKRAM AV.ABDESSALAM B",
+    "AdresseA": "تجزئة اكرام شارع عبد السلام با",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee sabil almajd",
+    "NOM_ETABA": "مدرسة سبيل المجد الخاصة",
+    "AdresseL": "ennahda 1 n°3-5",
+    "AdresseA": "النهضة 1 رقم 3-5",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BEN JELOUL",
+    "NOM_ETABA": "بن جلول",
+    "AdresseL": "9, Av Tarfaya, Hay PALESTINE O",
+    "AdresseA": "رقم 9 حي فلسطين شارع طرفاية وز",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BENSASSI",
+    "NOM_ETABA": "مدرسة بنساسي",
+    "AdresseL": "N°318 QUARTIER LAADIR LOT ENNA",
+    "AdresseA": "حي العدير تجزئة النهضة 1 رقم 3",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Elaboudi",
+    "NOM_ETABA": "مجموعة مدارس العبودي",
+    "AdresseL": "Quartier laadir lot annahda 1 ",
+    "AdresseA": "حي لعدير تجزئة النهضة 1 رقم 31",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire moultaqa najah",
+    "NOM_ETABA": "مجموعة مدارس ملتقى النجاح",
+    "AdresseL": "LOT ALMANDAR ALJAMILE N°197-19",
+    "AdresseA": "تجزئة المنظر الجميل رقم 197 و ",
+    "COMMUNE": "Ouezzane ",
+    "PROVINCE": "Ouezzane",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

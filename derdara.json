@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL DERDARA",
+    "NOM_ETABA": "الثانوية الإعدادية الدردارة",
+    "AdresseL": "commune derdara",
+    "AdresseA": "جماعة الدردارة",
+    "COMMUNE": "Derdara",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS LAACHAICH",
+    "NOM_ETABA": "م/م العشايش",
+    "AdresseL": "DOUAR LAACHAICHC  dardara  CHEFCHAOUEN",
+    "AdresseA": "دوار العشايش جماعة  الداردارة",
+    "COMMUNE": "Derdara",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR AKOUBAA",
+    "NOM_ETABA": "م/م دار أقوباع",
+    "AdresseL": "DOUAR DAR AKOUBAA  comune  dardara  CHEFCHAOUEN",
+    "AdresseA": "دوار دار أقوباع جماعة  الداردارة",
+    "COMMUNE": "Derdara",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HASSAN YALSOUTI TARIA",
+    "NOM_ETABA": "م/م الحسن اليلصوتي _تارية",
+    "AdresseL": "DOUAR TARIACDERDARACHEFCHAOUEN",
+    "AdresseA": "دوار تارية جماعة الدردرة",
+    "COMMUNE": "Derdara",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KERDAD",
+    "NOM_ETABA": "م/م كرداد",
+    "AdresseL": "DOUAR KERDAD Commune DERDARA CHEFCHAOUEN",
+    "AdresseA": "دوار كرداد جماعة الدردارة شفشاون",
+    "COMMUNE": "Derdara",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MAGHRIB AL ARABI DARDARA",
+    "NOM_ETABA": "م/م المغرب العربي _الدردارة",
+    "AdresseL": "DARDARA CDERDARACHEFCHAOUEN",
+    "AdresseA": "دوار الدردارة جماعة الدردارة",
+    "COMMUNE": "Derdara",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI ACHIR",
+    "NOM_ETABA": "م/م بني عشير",
+    "AdresseL": "DOUAR BNI ACHIR C  DERDARA  CHEFCHAOUEN",
+    "AdresseA": "بني عشير جماعة الدردرة",
+    "COMMUNE": "Derdara",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

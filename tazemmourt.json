@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "C TAZEMOURT",
+    "NOM_ETABA": "ثإ.تازمورت",
+    "AdresseL": "CENTRE C TAZEMMOURT",
+    "AdresseA": "مركز جماعة تازمورت",
+    "COMMUNE": "Tazemmourt",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS CHAHID IDRISS HARTI",
+    "NOM_ETABA": " م.م الشهيد إدريس الحارثي",
+    "AdresseL": "DOUAR  TAZEMMOURTE CTAZEMMOURTE",
+    "AdresseA": "د. تازمورت",
+    "COMMUNE": "Tazemmourt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TINOUAYNANE",
+    "NOM_ETABA": "م.م تنوينان",
+    "AdresseL": "DOUAR  TINOUAYNANE Commune TAZEMMOURTE",
+    "AdresseA": "دوار تنوينان جماعة تازمورت",
+    "COMMUNE": "Tazemmourt",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

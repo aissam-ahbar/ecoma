@@ -1,0 +1,172 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  AZZARQTOUNI",
+    "NOM_ETABA": "الثانوية الإعدادية الزرقطوني",
+    "AdresseL": "JAADAR SEGANGAN  BENI BOUYAFROUR",
+    "AdresseA": "جعدار ازغنغان بني بويفرور",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  MOHAMMED EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الفاسي",
+    "AdresseL": "HAY IKASRIOUEN ZEGANGAN",
+    "AdresseA": "حي اكسريوا أ زغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL OUM",
+    "NOM_ETABA": "المدرسة الابتدائية الام",
+    "AdresseL": " 25 RUE TANGER MUNICIPALITE ZEGANGANE",
+    "AdresseA": " شارع طنجة  رقم 25   ازغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUM AL MOUMININE",
+    "NOM_ETABA": "المدرسة الابتدائية ام المؤمنين",
+    "AdresseL": "RUE MOHAMED 5 MUNICIPALITE ZEGANGANE",
+    "AdresseA": "شارع محمد الخامس ازغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU BAKRE SEDDIQ",
+    "NOM_ETABA": "المدرسة الابتدائية ابو بكر الصديق",
+    "AdresseL": "HAY IKASSRYOUNE MUNICIPALITE ZEGANGANE",
+    "AdresseA": "حي اكسريون  بلدية  ازغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL QODS",
+    "NOM_ETABA": "المدرسة الابتدائية القدس",
+    "AdresseL": "Douar Jaadar ",
+    "AdresseA": "دوار جعدار",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE MOULAY MOHAMMED",
+    "NOM_ETABA": "مجموعة مدارس مولاي محمد",
+    "AdresseL": "HAY AYCHOUR MUNICIPALITE ZEGHANGHANE",
+    "AdresseA": "حي ايشور   ازغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL OUMAL",
+    "NOM_ETABA": "مجموعة مدارس العمال",
+    "AdresseL": "AL OUMAL MUNICIPALITE ZEGHANGHANE",
+    "AdresseA": "العمال  ازغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI AHMED ABDESLEM",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي احمد عبد السلام",
+    "AdresseL": "ZEGANGAN CENTRE ECOLE SIDI AHMED  ABDESLEM",
+    "AdresseA": "شارع محمد الخامس     ازغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED BELLA FRIJ",
+    "NOM_ETABA": "المدرسة الابتدائية أحمد بلافريج",
+    "AdresseL": "ZEGANGANE",
+    "AdresseA": "بلدية ازغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OHOUD",
+    "NOM_ETABA": "المدرسة الابتدائية أحد",
+    "AdresseL": "Avenue Mly Rachid",
+    "AdresseA": "شارع المولى رشيد ",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAHA HOSSEINE",
+    "NOM_ETABA": "الثانوية التأهيلية طه حسين",
+    "AdresseL": "JAADAR  BENI BOUYAFROUR",
+    "AdresseA": "جعدار- بني بويفرور",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN SINA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن سينا",
+    "AdresseL": "HAY ERROUISSI ZEGANGAN",
+    "AdresseA": "حي الرويسي أزغنغان",
+    "COMMUNE": "Zeghanghane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "al mounir",
+    "NOM_ETABA": "المنير",
+    "AdresseL": "",
+    "AdresseA": "شارع يعقوب المنصور",
+    "COMMUNE": "Zeghanghane ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Maaboudi",
+    "NOM_ETABA": "المعبودي",
+    "AdresseL": "El Hay El Jadid, Zankat de Rab",
+    "AdresseA": "حي الجديد",
+    "COMMUNE": "Zeghanghane ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BAYAN WA TABYN",
+    "NOM_ETABA": "البيان والتبيين",
+    "AdresseL": "ANGLE IBN SINA ET ROUTE IHADDA",
+    "AdresseA": "تقاطع شارع ابن سيناء وطريق احد",
+    "COMMUNE": "Zeghanghane ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PIWIKIDS",
+    "NOM_ETABA": "بيوي كدس",
+    "AdresseL": "NULL",
+    "AdresseA": "حي العمال تجزئة ملاك ازغنغان",
+    "COMMUNE": "Zeghanghane ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

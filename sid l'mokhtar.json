@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SID L MOKHTAR",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي المختار",
+    "AdresseL": "CENTRE SID L MOKHTAR",
+    "AdresseA": "مركز سيدي المختار",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI L MOKHTAR",
+    "NOM_ETABA": "سيدي المختار",
+    "AdresseL": "CENTRE SIDi eL MOKHTAR COMMUNE SIDi eL MOKHTAR",
+    "AdresseA": "مركز سيدي المختار  جماعة سيدي المختار",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ATIR",
+    "NOM_ETABA": "الاثير",
+    "AdresseL": "CENTRE SID L MOKHTAR COMMUNE SID L MOKHTAR",
+    "AdresseA": "مركز سيدي المختار  ج سيدي المختار",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUIJRAT",
+    "NOM_ETABA": "التويجرات",
+    "AdresseL": "DOUAR TOUIJRAT COMMUNE SID LMOKHTAR",
+    "AdresseA": "دوار التويجرات",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGOUAYAT",
+    "NOM_ETABA": "لكوايات",
+    "AdresseL": "DOUAR ESSDIRA LAGOUAYAT COMMUNE SIDI EL MOUKHTAR",
+    "AdresseA": "دوار اسديرة - لكوايات-  جماعة سيدي المختار",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOUAR HMER",
+    "NOM_ETABA": "دوار  احمر",
+    "AdresseL": "DOUAR HMER COMMUNE SID LMOKHTAR",
+    "AdresseA": "دوار  احمر   مركز  سيدي المختار",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AZZOUZ",
+    "NOM_ETABA": "اولاد عزوز",
+    "AdresseL": "DOUAR OULAD AZZOUZ COMMUNE SID LMOKHTAR",
+    "AdresseA": "دوار اولاد عزوز",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD DRIS",
+    "NOM_ETABA": "اولاد ادريس",
+    "AdresseL": "DOUAR OULAD DRIS COMMUNE SID L MOKHTAR",
+    "AdresseA": "دوار  اولاد ادريس",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ROCHD",
+    "NOM_ETABA": "الثانوية التأهيلية ابن رشد",
+    "AdresseL": "CENTRE SIDI L MOKHTAR",
+    "AdresseA": "المركز  الحضري سيدي المختار",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "mohamed",
+    "NOM_ETABA": "محمد",
+    "AdresseL": "centre sidi mokhtar",
+    "AdresseA": "مركز سيدي المختار",
+    "COMMUNE": "Sid L'Mokhtar",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

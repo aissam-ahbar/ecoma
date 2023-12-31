@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHALID IBNOU AL WALID",
+    "NOM_ETABA": "الثانوية الاعدادية خالد بن الوليد",
+    "AdresseL": "QUARTIER SALAM  MUNICIPALITE BOUJNIBA",
+    "AdresseA": "حي  السلام",
+    "COMMUNE": "Boujniba",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE HOMMANE EL FETOUAKI",
+    "NOM_ETABA": "مدرسة حمان الفطواكي",
+    "AdresseL": "HAY OCP MUNICIPALITE BOUJNIBA",
+    "AdresseA": "حي  الفوسفاط",
+    "COMMUNE": "Boujniba",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HALIMA ESSAADIA",
+    "NOM_ETABA": "مدرسة حليمة السعدية",
+    "AdresseL": "HAY AL PHOSPHATE MUNICIPALITE BOUJNIBA",
+    "AdresseA": "حي  الفوسفاط",
+    "COMMUNE": "Boujniba",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOUSSA IBNOU NOUSSAIR",
+    "NOM_ETABA": "مدرسة موسى ابن نصير",
+    "AdresseL": "HAY ELFATH BOUJNIBA",
+    "AdresseA": "حي الفتح بوجنيبة",
+    "COMMUNE": "Boujniba",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL HAMADANI",
+    "NOM_ETABA": "مدرسة الهمداني",
+    "AdresseL": "AVENUE MED5A HAY DAKHLA BLOC B   ",
+    "AdresseA": "شارع محمد الخامس حي الداخلة بلوك ب",
+    "COMMUNE": "Boujniba",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE FATEH",
+    "NOM_ETABA": "مدرسة الفتح",
+    "AdresseL": "MADRASAT AL FATH MUNICIPALITE BOUJNIBA",
+    "AdresseA": "مدرسة  الفتح",
+    "COMMUNE": "Boujniba",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DAKHLA",
+    "NOM_ETABA": "الثانوية التأهيلية الداخلة",
+    "AdresseL": "HAY   dakhla   MUNICIPALITE BOUJNIBA",
+    "AdresseA": "حي  الداخلة",
+    "COMMUNE": "Boujniba",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "achchorouF",
+    "NOM_ETABA": "الشروف",
+    "AdresseL": "lotissement hemria",
+    "AdresseA": "تجزئة حمرية",
+    "COMMUNE": "Boujniba ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bahr alouloume",
+    "NOM_ETABA": "بحر العلوم",
+    "AdresseL": "lot khalil route ouedzem boujn",
+    "AdresseA": "تجزئة الخليل طريق وادي زم بوجن",
+    "COMMUNE": "Boujniba ",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

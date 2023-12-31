@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SIDI BOUZID",
+    "NOM_ETABA": "سيدي بوزيد",
+    "AdresseL": "DOUAR SIDI BOUZID COMMUNE SIDI BOUZID",
+    "AdresseA": "دوار سيدي بوزيد",
+    "COMMUNE": "Sidi Bouzid Arragragui",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NOUACER",
+    "NOM_ETABA": "النواصر",
+    "AdresseL": "DOUAR NOUACER COMMUNE SIDI BOUZID",
+    "AdresseA": "دوار النواصر",
+    "COMMUNE": "Sidi Bouzid Arragragui",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAJJOUJT CENTRE",
+    "NOM_ETABA": "تاجوجت المركزية",
+    "AdresseL": "DOUAR TAJJOUJT COMMUNE SIDI BOUZID",
+    "AdresseA": "دوار  تاجوجت",
+    "COMMUNE": "Sidi Bouzid Arragragui",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL FARABI",
+    "NOM_ETABA": "ثانوية الفارابي التأهيلية",
+    "AdresseL": "CENTRE COMMUNE SIDI BOUZID",
+    "AdresseA": "مركز جماعة  سيدي  بوزيد",
+    "COMMUNE": "Sidi Bouzid Arragragui",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

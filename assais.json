@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "S S AKRARROU",
+    "NOM_ETABA": " م.م. أكرارو",
+    "AdresseL": "DOUAR AKRAROU ASSAis",
+    "AdresseA": "دوار أكرارو جماعة أسايس",
+    "COMMUNE": "Assais",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AL JAHID",
+    "NOM_ETABA": "م.م. الجاحظ",
+    "AdresseL": "DOUAR AGDOUD ASSAIS",
+    "AdresseA": "دوار اكدود جماعة اسايس",
+    "COMMUNE": "Assais",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAGOULT",
+    "NOM_ETABA": " م م تكولت",
+    "AdresseL": "DOUAR TAGOULT ASSAYS",
+    "AdresseA": "دوار تكولت",
+    "COMMUNE": "Assais",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MAOURDI",
+    "NOM_ETABA": "الثانوية الإعدادية الماوردي",
+    "AdresseL": "SID ZOUINE",
+    "AdresseA": "سيد الزوين",
+    "COMMUNE": "Sid Zouine",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ecole SID ZOUINE",
+    "NOM_ETABA": "مدرسة سيد الزوين",
+    "AdresseL": "SID ZOUINE",
+    "AdresseA": "سيد الزوين",
+    "COMMUNE": "Sid Zouine",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUIA centrale",
+    "NOM_ETABA": "مجموعة مدارس الزاوية المركزية",
+    "AdresseL": "SID ZOUINE",
+    "AdresseA": "سيد الزوين",
+    "COMMUNE": "Sid Zouine",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MICHKATE",
+    "NOM_ETABA": "مدرسة المشكاة",
+    "AdresseL": "SID ZOUINE",
+    "AdresseA": "سيد الزوين",
+    "COMMUNE": "Sid Zouine",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL OUIFAK",
+    "NOM_ETABA": "الثانوية التأهيلية الوفاق",
+    "AdresseL": "SID ZOUINE",
+    "AdresseA": "سيد الزوين",
+    "COMMUNE": "Sid Zouine",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

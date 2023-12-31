@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL SIDI EL MOKHFI",
+    "NOM_ETABA": "ثانوية سيدي المخفي الإعدادية",
+    "AdresseL": "COMMUNE SIDI MOKHFI CENTRE GHAFSSAI",
+    "AdresseA": "مركز جماعة سيد المخفي-غفساي",
+    "COMMUNE": "Sidi Mokhfi",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS SIDI EL MOKHFI",
+    "NOM_ETABA": "م/م  سيدي الـمـخفي",
+    "AdresseL": "COMMUNE SIDI EL MOKHFI CENTRE GHAFSSAI",
+    "AdresseA": " جماعة سيدي المخفي المركز غفساي",
+    "COMMUNE": "Sidi Mokhfi",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SENTIA",
+    "NOM_ETABA": "م/م السنـتـيـة",
+    "AdresseL": "DOUAR SENTIA COMMUNE SIDI EL MOKHFI GHAFSSAI",
+    "AdresseA": "دوار السنتية -جماعة سيدي المخفي- غفساي",
+    "COMMUNE": "Sidi Mokhfi",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "CENTRE  OULED CHBANA",
+    "NOM_ETABA": "مركزية اولاد اشبانة",
+    "AdresseL": "DOUAR oulad chbana  COMMUNE OULAD CHBANA",
+    "AdresseA": "دوار اولاد شبانة جماعة اولاد شبانة",
+    "COMMUNE": "Oulad Chbana",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAABADLA centre",
+    "NOM_ETABA": "مركزية لعبادلة",
+    "AdresseL": "DOUAR LAABADLA COMMUNE OULAD CHBANA",
+    "AdresseA": "دوار لعبادلة جماعة اولاد شبانة",
+    "COMMUNE": "Oulad Chbana",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMSIIDATE CENTRE",
+    "NOM_ETABA": "مركزية المسيعدات",
+    "AdresseL": "DOUAR LAMSIIDATE COMMUNE OULAD CHBANA",
+    "AdresseA": "دوار المسيعدات جماعة اولاد شبانة",
+    "COMMUNE": "Oulad Chbana",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

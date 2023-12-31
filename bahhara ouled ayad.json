@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ESSAADA",
+    "NOM_ETABA": "الثانوية الاعدادية السعادة",
+    "AdresseL": "DOUAR OULED MOSBAH ROUIF",
+    "AdresseA": "دوار أولاد مصباح الرويف",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED MOUSSA BAHHARA",
+    "NOM_ETABA": "اولاد موسى البحارة",
+    "AdresseL": "OULED MOUSSA com bhara oulad aiyad",
+    "AdresseA": "اولاد موسى البحارة",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED AYYAD",
+    "NOM_ETABA": "اولاد عياد",
+    "AdresseL": "DOUAR OULED AYYAD COMMUNE BAHHARA OULED AYAD",
+    "AdresseA": "دوار اولاد عياد جماعة  البحارة اولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HSINATE",
+    "NOM_ETABA": "احسينات",
+    "AdresseL": "DOUAR HSSINATE BAHHARA OULED AYAD",
+    "AdresseA": "دوار احسينات البحارة اولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGHOUALMA",
+    "NOM_ETABA": "الغوالمة",
+    "AdresseL": "DOUAR LAGHWALMA BAHHARA OULED AYAD",
+    "AdresseA": "دوار الغوالمة  البحارة اولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GNAFDA",
+    "NOM_ETABA": "الكنافدة",
+    "AdresseL": "DOUAR LAGNAFDA COMMUNE BAHHARA OULED AYYAD",
+    "AdresseA": "دوار الكنافدة ج/ البحارة أولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OULED MESBAH LAKBAR",
+    "NOM_ETABA": "م.م اولاد مصباح لكبار",
+    "AdresseL": "DOUAR OULED MOSBAH LAKBAR BAHHARA OULED AYAD",
+    "AdresseA": "دوار اولاد مصباح لكبار البحارة اولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIAH",
+    "NOM_ETABA": "السياح",
+    "AdresseL": "DOUAR  SIAH COM BAHHARA OULED AYAD",
+    "AdresseA": "دوار السياح ج/ البحارة اولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OULED MESBAH ROUIF",
+    "NOM_ETABA": "مدرسة اولاد مصباح الرويف",
+    "AdresseL": "DOUAR OULED MESBAH ROUIF behhera oulad ayad",
+    "AdresseA": "دوار اولاد مصباح الرويف البحارة اولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MGHITEN",
+    "NOM_ETABA": "امغيطن",
+    "AdresseL": "DOUAR  MGHITEN COM BAHHARA OULED AYAD",
+    "AdresseA": "دوار امغيطن ج/ البحارة أولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAKHNACHA KABLIA",
+    "NOM_ETABA": "م.م لخناشة القبلية",
+    "AdresseL": "DOUAR LAKHNACHCHA KABLIA COMMUNE bahara oulad ayad",
+    "AdresseA": "دوار الخناشة القبلية جماعة البحارة اولاد عياد",
+    "COMMUNE": "Bahhara Ouled Ayad",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

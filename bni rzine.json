@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "SS MY ALI CHARIF LMDIAK",
+    "NOM_ETABA": "م/م مولاي علي الشريف _المضيق",
+    "AdresseL": "CENTRE BNI REZINE COMMUNE BNI RZINE CHEFCHAOUEN",
+    "AdresseA": "مركز أحد بني رزين، جماعة بني رزين _ شفشاون",
+    "COMMUNE": "Bni Rzine",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMRIGHT",
+    "NOM_ETABA": "م/م تمريخت",
+    "AdresseL": "DOUAR TAMRIGHTe BNI RZINE CHEFCHAOUEN",
+    "AdresseA": "دوار تمريخت جماعة بني رزين",
+    "COMMUNE": "Bni Rzine",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IHMEDACHEN",
+    "NOM_ETABA": "م/م احمداشن",
+    "AdresseL": "DOUAR IHMEDACHEN BNI RZIN CHEFCHAOUEN",
+    "AdresseA": "دوار أحمداتن جماعة بني رزين",
+    "COMMUNE": "Bni Rzine",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DRISS 1ER AOUFASS",
+    "NOM_ETABA": "م/م ادريس الاول _أوفاس",
+    "AdresseL": "DOUAR AOUFASS C BNI RZINE CHEFCHAOUEN",
+    "AdresseA": "دوار أوفاس جماعة بني رزين",
+    "COMMUNE": "Bni Rzine",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IHEJJAMEN",
+    "NOM_ETABA": "م/م إحجامن",
+    "AdresseL": "DOUAR IHEJJAMEN C BNI RZINE CHEFCHAOUEN",
+    "AdresseA": "دوار إحجامن جماعة بني رزين",
+    "COMMUNE": "Bni Rzine",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASSAKI",
+    "NOM_ETABA": "م/م أساكي",
+    "AdresseL": "DOUAR ASSAKI BNI RZINE CHEFCHAOUEN",
+    "AdresseA": "دوار أساكي جماعة بني رزين",
+    "COMMUNE": "Bni Rzine",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUED EDDAHAB AZAGHAR",
+    "NOM_ETABA": "م/م وادي الدهب _أزغار",
+    "AdresseL": "DOUAR AZAGHARCBNI RZINECHEFCHAOUEN",
+    "AdresseA": "دوار أزغار جماعة بني رزين",
+    "COMMUNE": "Bni Rzine",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الزرقطوني",
+    "AdresseL": "COMMUNE BNI RZINE PROVINCE CHEFCHAOUEN",
+    "AdresseA": "جماعة بني رزين شفشاون",
+    "COMMUNE": "Bni Rzine",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

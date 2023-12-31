@@ -1,0 +1,562 @@
+[
+  {
+    "NOM_ETABL": "TALHA BNOU OUBAID ALLAH",
+    "NOM_ETABA": "طلحة بن عبيد الله",
+    "AdresseL": "HAY NAHDA 1",
+    "AdresseA": "حي النهضة 1",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOUHAMED AZARKTOUNI",
+    "NOM_ETABA": "محمد الزرقطوني",
+    "AdresseL": "HAY NAHDA 2 YOUSSOUFIA",
+    "AdresseA": "حي النهضة2 اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAARBI ALBANNAY",
+    "NOM_ETABA": "العربي البناي",
+    "AdresseL": "ROUTE OUAD AKRACHE TAKADOUM YOUSSOUFIA",
+    "AdresseA": "طريق واد عكراش التقدم اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL KHAWARIZMI",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "HAY EL MAOIDA YOUSSOUFIA YOUSSOUFIA",
+    "AdresseA": "حي المودة  اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AMROU ALEM",
+    "NOM_ETABA": "عمرو عالم",
+    "AdresseL": "RUE BANI MALLEK YOUSSOUFIA",
+    "AdresseA": "زنقة بني مالك اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN ZIDOUNE",
+    "NOM_ETABA": "ابن زيدون",
+    "AdresseL": "RUE BNI  MALEK HAY EL IDARI YOUSSOUFIA",
+    "AdresseA": "زنقة بني مالك الحي الإداري اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUM ALBANINE",
+    "NOM_ETABA": "أم البنين",
+    "AdresseL": "AV TADLA HAY MABELA YOUSSOUFIA",
+    "AdresseA": "شارع تادلة حي مابيلا اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALAMIRA AICHA",
+    "NOM_ETABA": "الأميرة عائشة",
+    "AdresseL": "ROUTE OILJA YOUSSOUFIA YOUSSOUFIA",
+    "AdresseA": "شارع حمان الفطواكي مابيلا اليوسيفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOHAMED BELHASSAN ELOUAZZANI",
+    "NOM_ETABA": "محمد بلحسن الوزاني",
+    "AdresseL": "HAY NAHDA 1 COMPLEMENTAIRER  RUE  AJANA",
+    "AdresseA": "حي النهضة 1 إضافي    //زنقة أجانا      ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIX NOVEMBRE",
+    "NOM_ETABA": "السادس نونبر",
+    "AdresseL": "HAY NAHDA YOUssouFIA groupe alaahd rabat",
+    "AdresseA": "حي النهضة 1 مجموعة العهد جماعة اليو سفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAMA ABDELLAH ALJIRARI",
+    "NOM_ETABA": "العلامة عبد الله الجراري",
+    "AdresseL": "HAY NAHDA 1 , Avenue TARGA   - Rabat",
+    "AdresseA": "حي النهضة 1 ،  شارع تاركة  - الرباط",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED EL KACIMI",
+    "NOM_ETABA": "أحمد القاسمي",
+    "AdresseL": "TAKADOUME  YOUSSOUFIA",
+    "AdresseA": "التقدم اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELHADI BOUTALEB",
+    "NOM_ETABA": "عبد الهادي بوطالب",
+    "AdresseL": "AV HOUMANE ELFATOIKI  TAKADOUME YOUSSOUFIA",
+    "AdresseA": "شارع حمان الفطواكي   التقدم اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MASSIRA",
+    "NOM_ETABA": "المسيرة",
+    "AdresseL": "DOUAR EHAJA HAY ELFARAH TAKADOUME YOUSSOUFIA",
+    "AdresseA": "حي الفرح، التقدم، جماعة اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LHASSAN ELYOUSSI",
+    "NOM_ETABA": "الحسن اليوسي",
+    "AdresseL": "QUARTIER INDUSTRIEL OILJA YOUSSOUFIA",
+    "AdresseA": "طريق الولجة الحي الصناعي اليوسفية ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IDRISS AL AWWAL",
+    "NOM_ETABA": "إدريس الأول",
+    "AdresseL": "HAY  LINBIAAT  YOUSSOUFIA",
+    "AdresseA": "حي الإنبعاث اليوسفية ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED RACHIDI",
+    "NOM_ETABA": "احمد الراشدي",
+    "AdresseL": "HAY AL INBIAAT YOUSSOUFIA",
+    "AdresseA": "حي الإنبعاث اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELFARABI",
+    "NOM_ETABA": "الفارابي",
+    "AdresseL": "hay abi regrague el youssoufia",
+    "AdresseA": "حي اأبي رقراق اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ALAMA   MOHAMED BEN SOULAIMANE EL JAZOULI",
+    "NOM_ETABA": "ا لعلامة محمد بن سليمان الجزولي",
+    "AdresseL": "boulevard OULED SBAA RUE 82 n 119  HAY bouregreg",
+    "AdresseA": "شارع اولاد السبع زنقة 82   رقم 119 حى أبي رقراق",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DRISS BAHRAOUI YOUSSOUFIA",
+    "NOM_ETABA": "إدريس البحراوي اليوسفية",
+    "AdresseL": "AVENUE HAHHA YOUSSOUFIA OUEST RABAT",
+    "AdresseA": "شارع حاحا اليوسفية الغربية الرباط",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALINBIAAT",
+    "NOM_ETABA": "الانبعاث",
+    "AdresseL": "CITE EL YOUSSOUFIA   OUEST",
+    "AdresseA": "حي اليوسفية الغربية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM MALIK",
+    "NOM_ETABA": "الإمام مالك",
+    "AdresseL": "AV HOUMANE EL FATOIKI  YOUSSOUFIA",
+    "AdresseA": "شارع حمان الفطواكي اليوسفية مابيلا الرباط",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole 11 janvier",
+    "NOM_ETABA": "11 يناير",
+    "AdresseL": "CHARIA TADLA MABELA YOUSOUFIA",
+    "AdresseA": "شارع تادلة، حي الطائرات الرباط",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "عمر بن عبد العزيز",
+    "AdresseL": "HAY EL IDARI YOUSSOUFIA",
+    "AdresseA": " الحي الإداري اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAN GHAZALI",
+    "NOM_ETABA": "ألإمام الغزالي",
+    "AdresseL": "Rue Bani warite HAY NAHDA 3 commune alYOUSSOUFIA R",
+    "AdresseA": "زنقة بني واريث حي النهضة 3 مقاطعة اليوسفية الرباط",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LISSANE EDDINE BNO LKHATIB",
+    "NOM_ETABA": "لسان الدين بن الخطيب",
+    "AdresseL": "HAY NAHDA 2 QUARTIER INDUSTRIEL YOUSSOUIFIA",
+    "AdresseA": "حي النهضة 2 الحي الصناعي اليوسفية",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BILAL BNOU RHABAH",
+    "NOM_ETABA": "بلال بن رباح",
+    "AdresseL": "quartier takaddoum ",
+    "AdresseA": " حي التقدم الرباط",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM CHAFII",
+    "NOM_ETABA": "الإمام الشافعي",
+    "AdresseL": "TAKADDOUME",
+    "AdresseA": "التقدم",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "  DAR ESSALAM",
+    "NOM_ETABA": " دار السلام ",
+    "AdresseL": "AVMOHAMED BEN LHASSAN ELOUAZZANI",
+    "AdresseA": "شارع محمد بنالحسن الوزاني",
+    "COMMUNE": "El Youssoufia ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " ALLAL ALFASSI",
+    "NOM_ETABA": " علال الفاسي ",
+    "AdresseL": "HAY NAHDA 2YOUSSOUFIA",
+    "AdresseA": "حي النهضة 2 اليوسفية",
+    "COMMUNE": "El Youssoufia ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " ABI BAKR ESSADDIK",
+    "NOM_ETABA": "أبي بكر الصديق",
+    "AdresseL": "RUE ECHAOUIA HAY MABELA YOUSSOUFIA",
+    "AdresseA": "زنقة الشاوية حي مابيلا رقم 28",
+    "COMMUNE": "El Youssoufia ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " IBN BATTOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "RUE OULAD HASSOUNE MABILA YOUSSOUFIA",
+    "AdresseA": "زنقة أولاد حسون مابيلا اليوسفية",
+    "COMMUNE": "El Youssoufia ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BRAHIM ROUDANI ",
+    "NOM_ETABA": " ابراهيم الروداني ",
+    "AdresseL": "HAY NAHDA 2 YOUSSOUFIA",
+    "AdresseA": "حي النهضة 2 اليوسفية",
+    "COMMUNE": "El Youssoufia ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " MOULAY ABDELLAH",
+    "NOM_ETABA": " مولاي عبد الله ",
+    "AdresseL": "YOUSSOUFIA HAY ENNAHDA 2",
+    "AdresseA": "حي النهضة 2 اليوسفية",
+    "COMMUNE": "El Youssoufia ",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE PAUL VERNE",
+    "NOM_ETABA": "مجموعة مدارس بول فيرن الخصوصية ",
+    "AdresseL": "26 bis Avenue souss,Souissi ",
+    "AdresseA": "زنقة سوس",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Bissane",
+    "NOM_ETABA": "بيسان",
+    "AdresseL": "rue ouled bouziri,42, aviation",
+    "AdresseA": "زنقة أولاد البوزيري رقم  42 ال",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Attawhid Namoudajia",
+    "NOM_ETABA": "التوحيد النموذجية",
+    "AdresseL": "Croisement Rue Zemmour et Rue ",
+    "AdresseA": "ملتقلى زنقة زمور و زنقة زيان، ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Madaris Al Akssa",
+    "NOM_ETABA": "مدارس الأقصى",
+    "AdresseL": "N° 22, Hay Erraha, Nahda 4 - C",
+    "AdresseA": "رقم 22 ، حي الراحة، النهضة 4 -",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Groupe Scolaire OLM",
+    "NOM_ETABA": " مجموعة مدارس الحي العسكري OLM",
+    "AdresseL": "291, Av MOHAMED VI Rabat",
+    "AdresseA": "291تجزئة السكنى العسكرية ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Madaris Ennahda ELhadita",
+    "NOM_ETABA": "مدارس النهضة الحديثة",
+    "AdresseL": "27  lot Raha, Nahda 4 - Yousso",
+    "AdresseA": " تجزئة الراحة، رقم 27، النهضة ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Tarik Ibn Ziyad",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "N° 28, Rue Mesfioua, Cité Admi",
+    "AdresseA": "رقم 28، زنقة مسفيوة، الحي الإد",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mohamed Ben Ahmed Chemaou",
+    "NOM_ETABA": "محمد بن أحمد اشماعو",
+    "AdresseL": "N° 8, Rue Oulad Amrane, Cité A",
+    "AdresseA": "رقم 8، زنقة اولاد عمران، الحي ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL ATTARBAOUI",
+    "NOM_ETABA": "الأمل التربوي",
+    "AdresseL": "N° 1, Route Oulja, Aviation - ",
+    "AdresseA": "رقم 1، طريق الولجة، المطارات -",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut Youssoufia",
+    "NOM_ETABA": "معهد اليوسفية غ-م",
+    "AdresseL": "N° 164, Avenue Houmane Fatwaki",
+    "AdresseA": "رقم 164، شارع حمان الفطواكي - ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Petite Planète",
+    "NOM_ETABA": "الكوكب الصغير",
+    "AdresseL": "N° 9, Rue Maârif, Aviation - E",
+    "AdresseA": "رقم 9، زنقة المعاريف، الطائرات",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fatima  El Fihriya",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "N° 5, Rue Oulad Hriz - El Yous",
+    "AdresseA": "رقم 5، زنقة اولاد حريز - اليوس",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALJIL ASSAID",
+    "NOM_ETABA": "الجيل الصاعد غ-م",
+    "AdresseL": "N° 9, Rue Satta, Aviation - El",
+    "AdresseA": "رقم 9، زنقة سطا، الطائرات - ال",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Afaq",
+    "NOM_ETABA": "الآفاق",
+    "AdresseL": "N° 7, Route Oulja, Aviation - ",
+    "AdresseA": "رقم 7، طريق الولجة، الطائرات -",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT ACHBAL AL TAALIM",
+    "NOM_ETABA": "مؤسسة أشبال التعليم الخاص غ-م-ت",
+    "AdresseL": "N° 7, Rue Oulja, Aviation - El",
+    "AdresseA": "رقم 7، زنقة الولجة، الطائرات -",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chems el maarifa",
+    "NOM_ETABA": "شمس المعرفة",
+    "AdresseL": "N° 5, Rue Zyayda, Aviation - ",
+    "AdresseA": "رقم 5، زنقة الزيايدة، الطائرات",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ghosn Azzaitoune",
+    "NOM_ETABA": "غصن الزيتون",
+    "AdresseL": "N° 87, Avenue Mohamed VI, Avia",
+    "AdresseA": "رقم 87، شارع محمد السادس، الطا",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Qods",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "N° 36 Bis, Avenue Tadla - Mabe",
+    "AdresseA": "رقم 36 مكرر، شارع تادلة - مابل",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Ibrahim al khalil scientifique",
+    "NOM_ETABA": "مؤسسة إبراهيم الخليل العلمية الخصوصية",
+    "AdresseL": "N° 135, Avenue Houmane Fatwaki",
+    "AdresseA": "رقم 135، شارع حمان الفطواكي - ",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole AL Hayat",
+    "NOM_ETABA": "مدرسة الحياة",
+    "AdresseL": "N° 49, Rue Mellouza, Nahda 3 -",
+    "AdresseA": "رقم 49، زنقة ملوزة، النهضة 3 -",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELBILIA SKOLAR RABAT",
+    "NOM_ETABA": "ELBILIA SKOLAR RABAT",
+    "AdresseL": "Ruen Ibn Amrane Hay Nahda 2",
+    "AdresseA": "زاوية شارع رضا اكديرة وزنقة بن",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE M'DINAT LAMANE POUR L'ENSEIGNEMENT SCOLAIREE",
+    "NOM_ETABA": "مدرسة مدينة لمان للتعليم المدرسي الخصوصي",
+    "AdresseL": "AVENUE AHMED REDA GUEDIRRA INT",
+    "AdresseA": "شارع أحمد رضا كديرة زاوية زنقة",
+    "COMMUNE": "El Youssoufia",
+    "PROVINCE": "Rabat",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

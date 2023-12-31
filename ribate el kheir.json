@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial FATIMA EL FIHRIA",
+    "NOM_ETABA": "ثانوية فاطمة الفهرية الإعدادية",
+    "AdresseL": "Quartier El Mahatta",
+    "AdresseA": "حي المحطة",
+    "COMMUNE": "Ribate El Kheir",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ecole AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء",
+    "AdresseL": "HAY AL MOUSTACHFA RIBAT EL KHEIR",
+    "AdresseA": "حي المستشفى  رباط الخير",
+    "COMMUNE": "Ribate El Kheir",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole IMAM MOUSLIM",
+    "NOM_ETABA": "مدرسة الإمام مسلم",
+    "AdresseL": "HAY TINAGHT  RIBAT EL KHEIR",
+    "AdresseA": "حي تينغت رباط الخير",
+    "COMMUNE": "Ribate El Kheir",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole ALLAL IBNOU ABDELLAH",
+    "NOM_ETABA": "مدرسة علال بن عبد الله",
+    "AdresseL": "MUNICIPALITE RIBATE EL KHEIR",
+    "AdresseA": "بلدية رباط الخير",
+    "COMMUNE": "Ribate El Kheir",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole AL KHANSAE",
+    "NOM_ETABA": "مدرسة الخنساء",
+    "AdresseL": " QUARTIER EL MAHATTA RIBAT EL KHEIR",
+    "AdresseA": "حي المحطة رباط الخير",
+    "COMMUNE": "Ribate El Kheir",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant MOULAY IDRISS AL AKBAR",
+    "NOM_ETABA": "ثانوية مولاي ادريس الأكبر التأهيلية",
+    "AdresseL": "MUNICIPALITE  RIBAT  EL KHEIR",
+    "AdresseA": "بلدية رباط الخير",
+    "COMMUNE": "Ribate El Kheir",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "el fasaha walbalagha",
+    "NOM_ETABA": "الفصاحة والبلاغة بريفي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المحطة رباط الخير",
+    "COMMUNE": "Ribate El Kheir ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire nouzha school",
+    "NOM_ETABA": " مجموعة مدارس نزهة سكول الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": " بلوك 6. تجزئة بويبلان رقم 120",
+    "COMMUNE": "Ribate El Kheir ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "amer",
+    "NOM_ETABA": "عامر",
+    "AdresseL": "HAY ELMASJID",
+    "AdresseA": "حي المسجد",
+    "COMMUNE": "Ribate El Kheir ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "S/S NOZHA",
+    "NOM_ETABA": "م/م النزهة",
+    "AdresseL": "G2 54 Quartier Al Mahata Ribat",
+    "AdresseA": "G2 54 حي المحطة رباط الخير",
+    "COMMUNE": "Ribate El Kheir ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ajial arreda",
+    "NOM_ETABA": "أجيال الرضى",
+    "AdresseL": "hay chabab ribat el khier",
+    "AdresseA": "حي الشباب رباط الخير ",
+    "COMMUNE": "Ribate El Kheir ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL KAWTAR",
+    "NOM_ETABA": "الكوثر ",
+    "AdresseL": "lot bouyablane",
+    "AdresseA": "تجزئة بويبلاان",
+    "COMMUNE": "Ribate El Kheir ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el fajr",
+    "NOM_ETABA": "الفجر",
+    "AdresseL": "hay al massjid",
+    "AdresseA": "حي المسجد رباط الخير",
+    "COMMUNE": "Ribate El Kheir ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

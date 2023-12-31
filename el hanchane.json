@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "ECOLE IBNOU ROCHD",
+    "NOM_ETABA": "مدرسة ابن رشد",
+    "AdresseL": " ZAOUIA EL HANCHANE ",
+    "AdresseA": "مركز الحنشان",
+    "COMMUNE": "El Hanchane",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL JADIDA",
+    "NOM_ETABA": "المدرسة الجديدة",
+    "AdresseL": "quartier BIR ANZARANE EL HANCHANE",
+    "AdresseA": "حي بئر انزران الحنشان",
+    "COMMUNE": "El Hanchane",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT PRINCE MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية الأمير مولاي رشيد",
+    "AdresseL": "CENTRE ELHANCHAN",
+    "AdresseA": "مركز الحنشان",
+    "COMMUNE": "El Hanchane",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

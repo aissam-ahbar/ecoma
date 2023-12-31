@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLGIAL  ENNAKHIL",
+    "NOM_ETABA": "الثانوية الإعدادية النخيل ",
+    "AdresseL": "AGDZ CENTRE ZAGORA",
+    "AdresseA": "اكدز",
+    "COMMUNE": "Agdz",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E AGDZ",
+    "NOM_ETABA": "م. أكدز",
+    "AdresseL": "MUNICIPALITE AGDZ",
+    "AdresseA": "بلدية أكدز",
+    "COMMUNE": "Agdz",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KISSANE",
+    "NOM_ETABA": "م.م كيسان",
+    "AdresseL": "ASLIM AGDZ",
+    "AdresseA": "أسليم أكدز",
+    "COMMUNE": "Agdz",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ZAITOUNA",
+    "NOM_ETABA": "م. الزيتونة   ",
+    "AdresseL": "CENTRE AGDEZ",
+    "AdresseA": "مركز أكدز",
+    "COMMUNE": "Agdz",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMASSIRA ALKHADRA",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء",
+    "AdresseL": "Centre Agdz",
+    "AdresseA": "مركز أكدز",
+    "COMMUNE": "Agdz",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL KHAWARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "centre agdz zagora",
+    "AdresseA": "مركز اكدز زاكورة",
+    "COMMUNE": "Agdz",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IDRISS PREMIER",
+    "NOM_ETABA": "الثانوية التأهيلية إدريس الأول",
+    "AdresseL": "MUNICIPALITE AGDEZ",
+    "AdresseA": "أكدز",
+    "COMMUNE": "Agdz",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MOSTAPHA POUR LENSEIGNEMENT",
+    "NOM_ETABA": "مجموعة مدارس المصطفى للتعليم الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "مركز أكدز",
+    "COMMUNE": "Agdz ",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

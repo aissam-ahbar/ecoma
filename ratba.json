@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": " LYCE COLLGIAL RETBA",
+    "NOM_ETABA": "ثانوية الرتبة الإعدادية",
+    "AdresseL": "COMMUNE RATBA CENTRE GHAFSSAI",
+    "AdresseA": "دوار   جماعة الرتبة -غفساي",
+    "COMMUNE": "Ratba",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS RATBA",
+    "NOM_ETABA": "م/م  الرتبة",
+    "AdresseL": "centre ratba ghafsai",
+    "AdresseA": "الرتبة المركز",
+    "COMMUNE": "Ratba",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZGHARIYINE",
+    "NOM_ETABA": "م/م الزغاريين",
+    "AdresseL": "DOUAR ZGHARIYINE COMMUNE RATBA GHAFSSAI",
+    "AdresseA": "دوار الزغاريين - جماعة الرتبة - غفساي",
+    "COMMUNE": "Ratba",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL MAKMAL",
+    "NOM_ETABA": "م/م  المكمل",
+    "AdresseL": "DOUAR EL MEKMEL COMMUNE RATBA GHAFSSAI",
+    "AdresseA": "دوار  المكمل- جماعة الرتبة - غفساي",
+    "COMMUNE": "Ratba",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAYNZA",
+    "NOM_ETABA": "م/م  تاينزة",
+    "AdresseL": "DOUAR TAYNZA COMMUNE RATBA GHAFSSAI",
+    "AdresseA": "دوار تاينزة - جماعة الرتبة - غفساي",
+    "COMMUNE": "Ratba",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT RETBA",
+    "NOM_ETABA": "ثانوية الرتبة التأهيلية",
+    "AdresseL": "commune retba",
+    "AdresseA": "جماعة الرتبة",
+    "COMMUNE": "Ratba",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

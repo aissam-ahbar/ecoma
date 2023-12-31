@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS ABDELKRIM KHATTABI",
+    "NOM_ETABA": "م.م عبد الكريم الخطابي",
+    "AdresseL": "DOUAR   IMI IGHZER COMMUNE TIDSI NISNDALNE",
+    "AdresseA": "   دوار إميغزر - جماعة تيدسي نيسندالن",
+    "COMMUNE": "Tidsi Nissendalene",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABI MOUSSA ACHAARI",
+    "NOM_ETABA": "م.م أبي موسى الأشعري",
+    "AdresseL": "DOUAR  AIT BEN HAWATIDSSI NISSANDALEN",
+    "AdresseA": "أيت بنهوى-جماعة تدسي نسندالن",
+    "COMMUNE": "Tidsi Nissendalene",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S MOULAY AHMED DERKAOUI",
+    "NOM_ETABA": "م م مولاي أحمد الدرقاوي",
+    "AdresseL": "DOUAR TAGANT  BUIZAKARNE",
+    "AdresseA": "دوار تكانت- بويزكارن",
+    "COMMUNE": "Tagante",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE Qualifiant BRAHIM EL GOURARI",
+    "NOM_ETABA": "الثانوية التأهيلية ابراهيم الكوراري",
+    "AdresseL": "COMMUNE TAGANT CENTRE",
+    "AdresseA": "مركز جماعة تكانت",
+    "COMMUNE": "Tagante",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

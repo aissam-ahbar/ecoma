@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "MOHAMED VI",
+    "NOM_ETABA": "محمد السادس",
+    "AdresseL": "AVENUE EL MADARISS BOUDNIB",
+    "AdresseA": "زتقة المدارس بودنيب",
+    "COMMUNE": "Boudnib",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MIXTE BOUDENIB",
+    "NOM_ETABA": "المختلطة بودنيب",
+    "AdresseL": "CENTRE BOUDNIB",
+    "AdresseA": "بوذنيب المركز",
+    "COMMUNE": "Boudnib",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HASSAN EDDAKHIL",
+    "NOM_ETABA": "الحسن الداخل",
+    "AdresseL": "LHAY LJADID BOUDNIB",
+    "AdresseA": "الحي الجديد بوذنيب",
+    "COMMUNE": "Boudnib",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HAY EL MOHAMMADI",
+    "NOM_ETABA": "الحي المحمدي",
+    "AdresseL": "BOUDENIB",
+    "AdresseA": "بودنيب",
+    "COMMUNE": "Boudnib",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY EL MATAR",
+    "NOM_ETABA": "حي المطار",
+    "AdresseL": "HAY EL MATAR",
+    "AdresseA": "حي المطار",
+    "COMMUNE": "Boudnib",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MASSIRA  ",
+    "NOM_ETABA": "مدرسة المسيرة الابتدائية  ",
+    "AdresseL": "hay El Massira  Boudnib ",
+    "AdresseA": "حي المسيرة بودنيب ",
+    "COMMUNE": "Boudnib",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MAARAKATE BOUDNIB",
+    "NOM_ETABA": "الثانوية التأهيلية معركة بودنيب",
+    "AdresseL": "CENTRE BOUDNIB",
+    "AdresseA": "مركز بودنيب",
+    "COMMUNE": "Boudnib",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire Senho et ses partenaires pour l'enseignement",
+    "NOM_ETABA": "مجموعة مدارس سنهو وشركاؤها للتعليم الخصوصي",
+    "AdresseL": "Hay Elmassira Boudnib",
+    "AdresseA": "حي المسيرة بودنيب",
+    "COMMUNE": "Boudnib ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

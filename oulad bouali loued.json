@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "AIT AISSA CENTRE",
+    "NOM_ETABA": "ايت عيسى المركزية",
+    "AdresseL": "DOUAR AIT AISSA COMMUNE OULED BOUALI ELOUAD",
+    "AdresseA": "دوار ايت عيسى",
+    "COMMUNE": "Oulad Bouali Loued",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD KLIB CENTRE",
+    "NOM_ETABA": "اولاد كليب المركزية",
+    "AdresseL": "DOUAR OULED KLIB COMMUNE OULED BOUALI",
+    "AdresseA": "دوار اولاد كليب",
+    "COMMUNE": "Oulad Bouali Loued",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

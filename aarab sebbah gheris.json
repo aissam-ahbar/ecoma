@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "EN NAKHIL",
+    "NOM_ETABA": "النخيل",
+    "AdresseL": "HANNABOU",
+    "AdresseA": "حنابو",
+    "COMMUNE": "Aarab Sebbah Gheris",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HANNABOU",
+    "NOM_ETABA": "حنابو",
+    "AdresseL": "KSAR HANNBOU JORF",
+    "AdresseA": "قصر حنابو الجرف",
+    "COMMUNE": "Aarab Sebbah Gheris",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKRAYER",
+    "NOM_ETABA": "لكراير",
+    "AdresseL": "LAKRAYER",
+    "AdresseA": "لكراير",
+    "COMMUNE": "Aarab Sebbah Gheris",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

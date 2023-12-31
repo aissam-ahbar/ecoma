@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE FARYATA",
+    "NOM_ETABA": "ثانوية فرياطة الإعدادية",
+    "AdresseL": "FARYATA",
+    "AdresseA": "فرياطة",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAGHZIRT",
+    "NOM_ETABA": "ثانوية تاكزيرت الإعدادية",
+    "AdresseL": "QUARTIER ADMINISTRATIF  AIT HBIBI",
+    "AdresseA": "الحي الإداري , أيت حبيبي",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TAGHZIRT CENTRE",
+    "NOM_ETABA": "مركزية تاكزيرت",
+    "AdresseL": "CENTRE TAGHZIRT COMMUNE TAGHZIRT",
+    "AdresseA": "ايت وودي تاكزيرت",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FARIATA CENTRE",
+    "NOM_ETABA": "مركزية فرياطة",
+    "AdresseL": "FARIATA COMMUNE TAGHZIRT",
+    "AdresseA": "تاكزيرت",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FOUM ZAOUIA CENTRE",
+    "NOM_ETABA": "مركزية فم الزاوية",
+    "AdresseL": "FOUM ZAOUIA COMMUNE TAGHZIRT",
+    "AdresseA": "تاكزيرت",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HBIBI CENTRE",
+    "NOM_ETABA": "مركزية ايت حبيبي",
+    "AdresseL": "AIT HBIBI COMMUNE TAGHZIRT",
+    "AdresseA": "ايت حبيبي تاكزيرت",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TAGHZIRT",
+    "NOM_ETABA": "ثانوية تاكزيرت التأهيلية",
+    "AdresseL": "AIT HBIBI TAGHZIRT",
+    "AdresseA": "ايت احبيبي تاكزيرت",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL WAFAE",
+    "NOM_ETABA": "الوفاء",
+    "AdresseL": "Ait hbibi Tagzirt",
+    "AdresseA": "ايت حبيبي تاكزيرت ",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAYT ALMAARIFA 2",
+    "NOM_ETABA": "بيت المعرفة 2",
+    "AdresseL": "tagante ait hbibi taghzirt",
+    "AdresseA": "تالكانت ايت حبيبي تاكزيرت ",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HADIKAT AL MAARIFA",
+    "NOM_ETABA": "حديقة المعرفة",
+    "AdresseL": "talgante- ait hbibi - tagzirte",
+    "AdresseA": "تالكانت- أيت حبيبي - تاكزيؤت",
+    "COMMUNE": "Taghzirt",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

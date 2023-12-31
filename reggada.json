@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AZZAITOUNE",
+    "NOM_ETABA": "الثانوية الاعدادية الزيتون",
+    "AdresseL": " centre COMMUNE REGGADA",
+    "AdresseA": "جماعة الركادة",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED VI TALAINT",
+    "NOM_ETABA": "م. محمد السادس تالعينت",
+    "AdresseL": "AIN OULED JERRAR COMMUNE REGGADA",
+    "AdresseA": "عين اولاد جرار جماعة الركادة",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SALAH ADDINE ALAYOUBI CENTRE IGHREM",
+    "NOM_ETABA": "م.م صلاح الدين الايوبي مركزية اغرم",
+    "AdresseL": "DOUAR IGHREM",
+    "AdresseA": "دوار اغرم",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN BATTOTA CENTRE  REGGADA",
+    "NOM_ETABA": "م.م ابن بطوطة مركزية الركادة",
+    "AdresseL": "centre COMMUNE REGGADA",
+    "AdresseA": "مركز جماعة الركادة",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDERRAHIM BOAABID CENTRE IGHBOULA ",
+    "NOM_ETABA": "م.م عبد الرحيم بوعبيد مركزية اغبولا",
+    "AdresseL": "DOUAR IGHBOULA",
+    "AdresseA": "دوار اغبولة",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OTMAN IBN AFFAN CENTRE LAHFAYAR",
+    "NOM_ETABA": "م.م عثمان ابن عفان مركزية الحفاير",
+    "AdresseL": "DOUAR LAHFAIR REGGADA",
+    "AdresseA": "دوار الحفاير",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALFAJR CENTRE AGUERD",
+    "NOM_ETABA": "م.م الفجر مركزية اكرض",
+    "AdresseL": "DOUAR AGUERD",
+    "AdresseA": "دوار اكرض",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDELLAH GUENNOUN CENTRE LBAIRE",
+    "NOM_ETABA": "م.م عبد الله كنون مركزية البير",
+    "AdresseL": "DOUAR L BAIRE",
+    "AdresseA": "دوار البير",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL FADILA",
+    "NOM_ETABA": "مدرسة الفضيلة",
+    "AdresseL": "douar nbayka reggada tiznit",
+    "AdresseA": "دوار النبيكة الركادة تزنيت",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ASSALAM",
+    "NOM_ETABA": "الثانوية التأهيلية السلام",
+    "AdresseL": "REGGADA",
+    "AdresseA": " الركادة",
+    "COMMUNE": "Reggada",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

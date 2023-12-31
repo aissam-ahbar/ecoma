@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED EL BAKALI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد البقالي",
+    "AdresseL": "centre idaoussemlal tizoughran",
+    "AdresseA": "مركز اداوسملال جماعة تيزوغران",
+    "COMMUNE": "Tizoughrane",
+    "PROVINCE": "Province: Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ABDELLAH BNO YASSIN CENTRE IDA OUSMLAL",
+    "NOM_ETABA": "م.م عبد الله ابن ياسين مركزية اداوسملال",
+    "AdresseL": "CeNTRE COMMUNE TIZOUGHRANE",
+    "AdresseA": "مركز جماعة تيزغران",
+    "COMMUNE": "Tizoughrane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALWAHDA CENTRE DOUTIZI",
+    "NOM_ETABA": "م.م الوحدة مركزية دوتيزي",
+    "AdresseL": "DOUAR DOUTIZI",
+    "AdresseA": "دوار دوتيزي",
+    "COMMUNE": "Tizoughrane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANNOUR CENTRE TIDLI",
+    "NOM_ETABA": "م.م النور مركزية تيدلي",
+    "AdresseL": "DOUAR TIDLI",
+    "AdresseA": "دوار  تيدلي",
+    "COMMUNE": "Tizoughrane",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

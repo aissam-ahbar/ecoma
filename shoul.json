@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ERRAYHANE",
+    "NOM_ETABA": " الثانوية الإعدادية الريحان",
+    "AdresseL": "sidi     azzouz",
+    "AdresseA": "سيدي عزوز",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI MOHAMED BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي محمد بن عبد الله",
+    "AdresseL": "ALAARJAT ROUTE DE MEKNES COMMUNE DE SHOUL",
+    "AdresseA": "طريق مكناس  جماعة السهول العرجات",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ETTANMIYA",
+    "NOM_ETABA": " مجموعة مدارس التنمية",
+    "AdresseL": "KM 17 RUE MEKNES COMMUNE DE SHOUL",
+    "AdresseA": "كلم 17 طريق مكناس العرجات - السهول",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SIDI CHAFI",
+    "NOM_ETABA": "مجموعة مدارس سيدي الشافي",
+    "AdresseL": "DOUAR SIDI CHAFI COMMUNE DE SHOUL",
+    "AdresseA": "دوار الخليفيين سيدي الشافي - السهول",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE SIDI ABDELAZIZ",
+    "NOM_ETABA": "مجموعة مدارس سيدي عبد العزيز",
+    "AdresseL": "DOUAR OULAD RADI  COMMUNE DE SHOUL",
+    "AdresseA": "دوار أولاد الراضي - السهول",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JBABRA",
+    "NOM_ETABA": "مجموعة مدارس الجبابرة",
+    "AdresseL": "DOUAR JBABRA COMMUNE DE SHOUL",
+    "AdresseA": "دوار الجبابرة - السهول",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE FEDDAN EZZIT",
+    "NOM_ETABA": "مجموعة مدارس فدان الزيت",
+    "AdresseL": "DOUAR FEDDAN EZZIT COMMUNE DE SHOUL",
+    "AdresseA": "السهول",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE OUALJATE SOLTANE",
+    "NOM_ETABA": " مجموعة مدارس ولجة السلطان",
+    "AdresseL": "SS OULJAT SLTON SOUK ARBIAA COMMUNE DE SHOUL",
+    "AdresseA": "م/م ولجة السلطان أربعاء السهول",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SHOUL",
+    "NOM_ETABA": " الثانوية التأهيلية السهول",
+    "AdresseL": "elarjate Shoul",
+    "AdresseA": "العرجات السهول",
+    "COMMUNE": "Shoul",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

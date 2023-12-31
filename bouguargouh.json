@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "BOUGUERGOUH CENTRE",
+    "NOM_ETABA": "مركزية بوكركوح",
+    "AdresseL": "DOUAR OULAD SLIMAN COMMUNE BOUGUERGOUH",
+    "AdresseA": "دوار اولاد سليمان جماعة بوكركوح",
+    "COMMUNE": "Bouguargouh",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUATROUSS CENTRE",
+    "NOM_ETABA": "مركزية بوعتروس",
+    "AdresseL": "DOUAR LAABADLIA COMMUNE BOUGUERGOUH",
+    "AdresseA": "دوار العباضلية جماعة بوكركوح",
+    "COMMUNE": "Bouguargouh",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SLIMANE MZAB CENTRE",
+    "NOM_ETABA": "مركزية اولاد سليمان امزاب",
+    "AdresseL": "DOUAR OULAD SLIMAN EL KARMA COMMUNE BOUGUERGOUH",
+    "AdresseA": "دوار اولاد سليمان جماعة بوكركوح",
+    "COMMUNE": "Bouguargouh",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

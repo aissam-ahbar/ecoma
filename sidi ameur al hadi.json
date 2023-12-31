@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SIDI AMEUR ELHADI",
+    "NOM_ETABA": "إعدادية سيدي عمر الحاضي",
+    "AdresseL": "CENTRE COMMUNE SidiAMEUR ELHADI",
+    "AdresseA": "مركز سيدي اعمر الحاضي",
+    "COMMUNE": "Sidi Ameur Al Hadi",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HALIMA SAIDIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": "DOUAR SIDI AMEUR ELHADI COMMUNE SIDI AMEUR ALHADI",
+    "AdresseA": "دوار سيدي عمر الحاضي",
+    "COMMUNE": "Sidi Ameur Al Hadi",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED IBN ABDELLAH",
+    "NOM_ETABA": "محمد بن عبدالله",
+    "AdresseL": "DOUAR LAMAIZYENE",
+    "AdresseA": "دوار المعيزيين",
+    "COMMUNE": "Sidi Ameur Al Hadi",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOGARA",
+    "NOM_ETABA": " زكارة",
+    "AdresseL": "DOUAR AIN FARROUJ ZOGARA COMMUNE SIDI AMEUR ALHADI",
+    "AdresseA": "دوار عين فروج زكارة جماعة سيدي اعمر الحاضي",
+    "COMMUNE": "Sidi Ameur Al Hadi",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABDELAZIZ MEZIANE BELFKIH QUALIFIANT",
+    "NOM_ETABA": "ثانوية عبد العزيز مزيان بلفقيه التأهيلية ",
+    "AdresseL": "centre commune sidi ameur el hadi",
+    "AdresseA": "مركز جماعة سيدي عمر الحاضي ",
+    "COMMUNE": "Sidi Ameur Al Hadi",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

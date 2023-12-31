@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TACHTOULTE",
+    "NOM_ETABA": " الثانوية الاعدادية تاشتولت",
+    "AdresseL": "DOUAR   TACHTOULTE  C TOUGHMART",
+    "AdresseA": "د. تاشتولت",
+    "COMMUNE": "Toughmart",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AL IMAM  AL BOUKHARI",
+    "NOM_ETABA": "م.م الإمام البخاري",
+    "AdresseL": "DOUAR   MAGNOUNE C TOUGHMART",
+    "AdresseA": "دوار مكنون جماعة توغمرت",
+    "COMMUNE": "Toughmart",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT OTHMAN",
+    "NOM_ETABA": "م.م أيت عثمان",
+    "AdresseL": "DOUAR   IMI NOUMGHAZ  C TOUGHMART",
+    "AdresseA": "د. إمي نومغاز",
+    "COMMUNE": "Toughmart",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN ALARABI",
+    "NOM_ETABA": "م.م ابن العربي",
+    "AdresseL": "DOUAR   TOUGHMERTE C TOUGHMART",
+    "AdresseA": "دوار تغمرت جماعة توغمرت",
+    "COMMUNE": "Toughmart",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN ERROUMI",
+    "NOM_ETABA": "م.م ابن الرومي",
+    "AdresseL": "DOUAR   IMSEKER  C TOUGHMART",
+    "AdresseA": "د. امسكر",
+    "COMMUNE": "Toughmart",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

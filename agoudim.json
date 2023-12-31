@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAGOUDIT",
+    "NOM_ETABA": "الثانوية الإعدادية تاكوديت",
+    "AdresseL": "Ksar Tagoudit",
+    "AdresseA": "قصر تاكوديت",
+    "COMMUNE": "Agoudim",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AGOUDIM",
+    "NOM_ETABA": "مجموعة مدارس اكديم",
+    "AdresseL": "AGOUDIM CENTRE COMMUNE AGOUDIM",
+    "AdresseA": "اكديم المركز جماعة اكديم",
+    "COMMUNE": "Agoudim",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LOUGAGH",
+    "NOM_ETABA": "مجموعة مدارس لكاغ",
+    "AdresseL": "DOUAR LOUGAGH COMMUNE AGOUDIM",
+    "AdresseA": "دوار لكاغ جماعة اكديم",
+    "COMMUNE": "Agoudim",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

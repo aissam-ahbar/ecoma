@@ -1,0 +1,532 @@
+[
+  {
+    "NOM_ETABL": "LYCEE MOULAY RACHID COLLEGIAL",
+    "NOM_ETABA": "ثانوية مولاي رشيد الاعدادية",
+    "AdresseL": "HAY EL MASSIRA ERRACHIDIA",
+    "AdresseA": "حي المسيرة الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA",
+    "NOM_ETABA": "المسيرة",
+    "AdresseL": "N1 AVENUE BIR ANZARANE ERRACHIDIA",
+    "AdresseA": "رقم 1زنقة بئر انزران الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "CITE AL QODS ERRACHIDIA",
+    "AdresseA": "حي القدس الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN SINAE",
+    "NOM_ETABA": "ثانوية ابن سيناء الاعدادية",
+    "AdresseL": "HAY AZMMOUR   ERRACHIDIA",
+    "AdresseA": "حي أزمور        الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE OULAD LHAJ",
+    "NOM_ETABA": "اعدادية اولاد الحاج",
+    "AdresseL": "HAY OULAD LHAJ",
+    "AdresseA": "حي اولاد الحاج",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLEGE HAMMANE EL FATWAKI",
+    "NOM_ETABA": "اعدادية حمان الفطواكي",
+    "AdresseL": "HAY EL MOUNTAZAH",
+    "AdresseA": "حي المنتزه",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Province: Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOHAMED AHMED DIGHOUSSI",
+    "NOM_ETABA": "محمد احماد الديغوسي",
+    "AdresseL": "Errachidia",
+    "AdresseA": "المطار الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU KHALDOUN",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "144 RUE MOULAY YOUSSEF ERRACHIDIA",
+    "AdresseA": "144 زنقة مولاي يوسف الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "BOUTALAMINE ERRACHIDIA",
+    "AdresseA": "بوتلمين الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HAZM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "RUE 16 CITE EL MASSIRA ERRACHIDIA",
+    "AdresseA": "زنقة 16حي المسيرة الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED EL MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "محمد المختار السوسي",
+    "AdresseL": "CITE ELQODSSE ERRACHIDIA",
+    "AdresseA": "حي القدس الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "OUED LAHMAR ERRACHIDIA",
+    "AdresseA": "الواد الاحمر الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " OUED EDDAHAB ",
+    "NOM_ETABA": " وادي الدهب",
+    "AdresseL": "lotissement oued eddahab ERRACHIDIA",
+    "AdresseA": "حي وادي الدهب الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARGA EL JADIDA",
+    "NOM_ETABA": "تاركة الجديدة",
+    "AdresseL": "TARGA EL JADIDA ERRACHIDIA",
+    "AdresseA": "تاركة الجديدة الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "11-janv.",
+    "NOM_ETABA": "11 يناير",
+    "AdresseL": "CITE TOUCHKA ERRACHIDIA",
+    "AdresseA": "حي توشكة الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED BEN LARBI",
+    "NOM_ETABA": "محمد بن العربي",
+    "AdresseL": "hay ESSAHB   ERRACHIDIA",
+    "AdresseA": "حي السهب الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN EL AATTI 1",
+    "NOM_ETABA": "عين العاطي 1",
+    "AdresseL": "CITE AIN EL ATTI 1 ERRACHIDIA",
+    "AdresseA": "حي عين العاطي 1 الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAYOUNE",
+    "NOM_ETABA": "العيون",
+    "AdresseL": "KSAR AMEZOUJE ERRACHIDIA",
+    "AdresseA": "قصر امزوج  الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "AIT BA MOHA ERRACHIDIA",
+    "AdresseA": "ايت ابا موحا الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZMOUR JDID",
+    "NOM_ETABA": "ازمور الجديد",
+    "AdresseL": "HAY AZEMMOUR JDID ERRACHIDIA",
+    "AdresseA": "حي ازمور الجديد الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAMMOU SOUAL",
+    "NOM_ETABA": "حمو سوال",
+    "AdresseL": "hay ouled elhaj ljadid",
+    "AdresseA": " حي اولاد الحاج الجديد",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN ATI  II",
+    "NOM_ETABA": "عين العاطي 2",
+    "AdresseL": "AIN ATTI 2 ERRACHIDIA",
+    "AdresseA": "عين العاطي2الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALOUAHA",
+    "NOM_ETABA": "الواحة",
+    "AdresseL": "Lotissement INARA ERRACHIDIA",
+    "AdresseA": "تجزئة الانارة الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LHAJ AHMED CHARKAOUI",
+    "NOM_ETABA": "الحاج احمد الشرقاوي",
+    "AdresseL": "LOT  ENNAHDA ERRACHIDIA",
+    "AdresseA": "تجزئة النهضة     الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHMED EL YAZIDI",
+    "NOM_ETABA": "احمد اليزيدي",
+    "AdresseL": "hay aloukhoua          ERRACHIDIA",
+    "AdresseA": "حي الاخوة     الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HAY EL JAMII",
+    "NOM_ETABA": "الحي الجامعي",
+    "AdresseL": "ERRACHIDIA",
+    "AdresseA": "الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIT KHLAFA",
+    "NOM_ETABA": "مدرسة ايت خلافة",
+    "AdresseL": "A COTE DE LOTISSEMENT AIT KHLAFA",
+    "AdresseA": "تجزئة الوفاق - الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELOUMRANE ",
+    "NOM_ETABA": "مدرسة العمران ",
+    "AdresseL": "lotissement Eloumrane Errachidia",
+    "AdresseA": "تجزئة العمران الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  IBN TAHIR  ",
+    "NOM_ETABA": "الثانوية التأهيلية ابن طاهر ",
+    "AdresseL": "CITE BOUTALAMINE ERRACHIDIA",
+    "AdresseA": "بوتالمين الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AMIR MOULAY ABDALLAH",
+    "NOM_ETABA": "الثانوية التأهيلية الأمير مولاي عبد الله",
+    "AdresseL": "CITE EL MATAR ERRACHIDIA",
+    "AdresseA": "حي المطار الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIJILMASSA",
+    "NOM_ETABA": "الثانوية التأهيلية  سجلماسة",
+    "AdresseL": "AVENUE MOULAY ALI CHRIF ERRACHIDIA",
+    "AdresseA": "شارع م,علي الشريف الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE",
+    "NOM_ETABA": "الثانوية التأهيلية التقنية",
+    "AdresseL": "CITE boutalamine ERRACHIDIA",
+    "AdresseA": "حي بوتلامين الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAFILALET",
+    "NOM_ETABA": "الثانوية التأهيلية تافيلالت",
+    "AdresseL": "HAY AL KODS     ERRACHIDIA",
+    "AdresseA": "             حي القدس         الرشيدية",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL WAHA ",
+    "NOM_ETABA": "الثانوية التأهيلية الواحة",
+    "AdresseL": "LOTISSEMENT  moperam",
+    "AdresseA": "تجزئة موبرام",
+    "COMMUNE": "Errachidia",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "PLEASENCE SCHOOL",
+    "NOM_ETABA": "بليزانس سكول",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 107 حي الريحان امام القصر ",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al inara",
+    "NOM_ETABA": "الإنارة للتعليم الخصوصي ",
+    "AdresseL": "lotissement al inara",
+    "AdresseA": "تجزئة الانــارة",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERROQEY",
+    "NOM_ETABA": "الرقي",
+    "AdresseL": "pres du marche du gros",
+    "AdresseA": "الرشيدية",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANARAT TAFILALET",
+    "NOM_ETABA": "منارة تافيلالت",
+    "AdresseL": "N1 SOUK HEBDOmadaire cite lOUA",
+    "AdresseA": "شارع السوق الاسبوعي قرب الواحة",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAURE TAIHIL",
+    "NOM_ETABA": "مجموعة مدارس التاهيل الخصوصية",
+    "AdresseL": "AIN EL ATTI 2",
+    "AdresseA": "عين العاطي 2",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement addoha ",
+    "NOM_ETABA": "مؤسسسة الضحى",
+    "AdresseL": "villa357.boutalamine",
+    "AdresseA": "فيلا 357.بوتلامين ",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "alandalous aldahabia",
+    "NOM_ETABA": "الاندلس الدهبية",
+    "AdresseL": "RUE EL ALAOUIYINE N 10",
+    "AdresseA": "شارع العلويين رقم 10",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Talaia El Mostakbal",
+    "NOM_ETABA": "طلائع المستقبل",
+    "AdresseL": "4 Bis, Avenue El Mouhit",
+    "AdresseA": "مكرر 4، شارع المحيط",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Fath",
+    "NOM_ETABA": "مؤسسة الفتح للتعليم الخصوصي",
+    "AdresseL": "N° 16, Hay El Massira - Errach",
+    "AdresseA": "رقم 16، حي المسيرة - الرشيدية",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Farabi",
+    "NOM_ETABA": "مدرسة الفرابي",
+    "AdresseL": "hay chouhada  derriere le lyce",
+    "AdresseA": "حي الشهداء خلف الثانوية التقني",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Wahat Al Anouar",
+    "NOM_ETABA": "واحة الأنوار",
+    "AdresseL": "Lotissement Nahda, Ain Laati 1",
+    "AdresseA": "تجزئة النهضة، عين العاطي 1",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Iqrae 1",
+    "NOM_ETABA": "إقرأ 1",
+    "AdresseL": "N° 85 bis, Rue Salé El Mohit",
+    "AdresseA": "رقم 85 مكرر، زنقة سلا المحيط",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Iqrae 2",
+    "NOM_ETABA": "اقرأ2 للتربية والتعليم الخصوصي",
+    "AdresseL": "Près de I.S.T.A. ",
+    "AdresseA": "قرب المعهد المتخصص للتكنولوجيا",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Leila",
+    "NOM_ETABA": "ليلى",
+    "AdresseL": "Près de la Cité Universitaire",
+    "AdresseA": "قرب الحي الجامعي",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "firihab alhadata",
+    "NOM_ETABA": "في رحاب الحداثة",
+    "AdresseL": "2bis lotissement alamane",
+    "AdresseA": "مكرر تجزئة الامان الرشيدية",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al madina",
+    "NOM_ETABA": "المدينة",
+    "AdresseL": "le boulevard principal moustac",
+    "AdresseA": "الشارع الرئيسي مستقبل زيز",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL QUALAM AL AMINE",
+    "NOM_ETABA": "القلم الامين ",
+    "AdresseL": "oued eddahab errachidia",
+    "AdresseA": "قرب المحجز البلدي تجزئة وادي ا",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement ajialle al ghade ",
+    "NOM_ETABA": "مؤسسة اجيال الغد",
+    "AdresseL": "Lotissement moulay Ali chref",
+    "AdresseA": "تجزئة مولاي علي الشريف ",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "toyor annaim",
+    "NOM_ETABA": "طيور النعيم",
+    "AdresseL": "LOTISSEMENT MOUSTAKBAL ZIZ N 1",
+    "AdresseA": "تجزئة مستقبل زيز رقم 194 مكرر",
+    "COMMUNE": "Errachidia ",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

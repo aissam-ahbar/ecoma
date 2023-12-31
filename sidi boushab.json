@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "C SIDI BOUSHAB",
+    "NOM_ETABA": "ثإ. سيدي بوسحاب",
+    "AdresseL": "CENTRE SOUK SIDI BOUSHAB",
+    "AdresseA": "مركزسوق سيدي بوسحاب",
+    "COMMUNE": "Sidi Boushab",
+    "PROVINCE": "Province: Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BIR ANZARANE  ",
+    "NOM_ETABA": "م.م بئرانزران  ",
+    "AdresseL": "CENTRE SIDI BOUSSHAB ",
+    "AdresseA": "مركز جماعة سيدي بوسحاب",
+    "COMMUNE": "Sidi Boushab",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BRAHIM ROUDANI",
+    "NOM_ETABA": "م.م  إبراهيم الروداني",
+    "AdresseL": "DOUAR IGOURAMANE  COMMUNE SIDI BOUSHAB",
+    "AdresseA": "دوار إكرامن نترست",
+    "COMMUNE": "Sidi Boushab",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL ANWAR",
+    "NOM_ETABA": "م.م الأنوار",
+    "AdresseL": "DOUAR AIT BANANI  COMMUNE SIDI BOUSHAB",
+    "AdresseA": "دوار أيت بناني",
+    "COMMUNE": "Sidi Boushab",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

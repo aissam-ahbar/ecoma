@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FATIMA ALFEHRIA ALKIRAOUANIA",
+    "NOM_ETABA": "الثانوية الإعدادية فاطمة الفهرية القروانية",
+    "AdresseL": "COMMUNE ZOUADA",
+    "AdresseA": "جماعة زوادة",
+    "COMMUNE": "Zouada",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY ISMAIL CENTRE",
+    "NOM_ETABA": "م/م مولاي إسماعيل المركزية ",
+    "AdresseL": "DOUAR AIN LAABID COMMUNE ZOUADA",
+    "AdresseA": "دوار عين لعبيد جماعة زوادة",
+    "COMMUNE": "Zouada",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS FRIHIYINE CENTRE ",
+    "NOM_ETABA": "م/م  الفريحيين المركزية",
+    "AdresseL": "DOUAR FRIHYINE COMMUNE ZOUADA",
+    "AdresseA": "دوار الفريحيين جماعة زوادة",
+    "COMMUNE": "Zouada",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HOUMAN EL FETOUAKI OULED RAFAA CENTRE ",
+    "NOM_ETABA": "م/م حمان الفطواكي المركز",
+    "AdresseL": "DOUAR OULED RAFAE COMMUNE ZOUADA",
+    "AdresseA": "دوار أولاد رافع جماعة زوادة",
+    "COMMUNE": "Zouada",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHLIHATE EL MJAHDINE CENTRE",
+    "NOM_ETABA": "م/م الشليحات المجاهدين المركزية",
+    "AdresseL": "DOUAR CHLIHAT COMMUNE ZOUADA",
+    "AdresseA": "دوار الشليحات جماعة زوادة",
+    "COMMUNE": "Zouada",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BOURBIAA   CENTRE",
+    "NOM_ETABA": "م/م أولاد بوربيع المركزية ",
+    "AdresseL": "DOUAR OULED BOURBIAA COMMUNE ZOUADA",
+    "AdresseA": "دوار أولاد بوربيع جماعة زوادة",
+    "COMMUNE": "Zouada",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OMAR IBNOU ABDELAZIZ",
+    "NOM_ETABA": "م/م عمر بن عبد العزيز",
+    "AdresseL": "DOUAR OULED SAID LGHABA COMMUNE ZOUADA",
+    "AdresseA": "دوار أولاد سعيد الغابة جماعة زوادة",
+    "COMMUNE": "Zouada",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

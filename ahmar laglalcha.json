@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "E MOULAY ZIDANE",
+    "NOM_ETABA": "مدرسة مولاي زيدان",
+    "AdresseL": "DOUAR  AL HOUMER CAHMAR LAGLALCHA",
+    "AdresseA": "دوار الحومر جماعة احمر الكلالشة",
+    "COMMUNE": "Ahmar Laglalcha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS NOUAYL",
+    "NOM_ETABA": "م.م النوايل",
+    "AdresseL": "DOUAR  TALAA CAHMAR LAGLALCHA",
+    "AdresseA": "دوار الطالعة جماعة احمد  لكلالشة",
+    "COMMUNE": "Ahmar Laglalcha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HOUMMAN FATOUAKI",
+    "NOM_ETABA": "م.م حمان الفطواكي",
+    "AdresseL": "DOUAR  LABOUIDA COMMUNE AHMAR LAGLALCHA",
+    "AdresseA": "دوار البيضة جماعة احمر الكلالشة",
+    "COMMUNE": "Ahmar Laglalcha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS WAD ELWAAR",
+    "NOM_ETABA": "م.م الواد الواعر",
+    "AdresseL": "DOUAR  GABA COMMUNE AHMAR LAGLALCHA",
+    "AdresseA": "د. كابة",
+    "COMMUNE": "Ahmar Laglalcha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AIT DHEN",
+    "NOM_ETABA": "م. ايت الدهن",
+    "AdresseL": "D AIT DHEN",
+    "AdresseA": "د. ايت الدهن",
+    "COMMUNE": "Ahmar Laglalcha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALMANSOUR DAHBI",
+    "NOM_ETABA": "الثانوية التأهيلية المنصور الذهبي",
+    "AdresseL": "CENTRE COMMUNE AHMAR LAGLALCHA",
+    "AdresseA": "مركز جماعة أحمر الكلالشة",
+    "COMMUNE": "Ahmar Laglalcha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "institut alatf",
+    "NOM_ETABA": "مؤسسة العطف",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار الجديد احمر لكلالشة تارود",
+    "COMMUNE": "Ahmar Laglalcha",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

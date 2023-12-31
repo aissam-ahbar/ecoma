@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Ss RASS TABOUDA Centre",
+    "NOM_ETABA": "م/م راس تبودة-المركز",
+    "AdresseL": "RAS TABOUDA",
+    "AdresseA": "راس تبودة",
+    "COMMUNE": "Ras Tabouda",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss AIN SBIT Centre",
+    "NOM_ETABA": "م/م عين السبيت-المركز",
+    "AdresseL": "DOUAR AIT AMER OUCHAOU RAS TBOUDA",
+    "AdresseA": " دوار ايت عمرو اشعو راس تبودة",
+    "COMMUNE": "Ras Tabouda",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant TARIK BNOU ZAYAD",
+    "NOM_ETABA": "ثانوية طارق بن زياد التأهيلية",
+    "AdresseL": "COMMUNE RAS TABOUDA",
+    "AdresseA": "جماعة راس تبودة",
+    "COMMUNE": "Ras Tabouda",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "EL WIFAQ",
+    "NOM_ETABA": "الوفاق",
+    "AdresseL": "COMMUNE OULED BEN HAMMADI",
+    "AdresseA": "جماعة اولاد بن حمادي",
+    "COMMUNE": "Ouled Ben Hammadi",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE ELHAMMA OULED BOUTABET",
+    "NOM_ETABA": "المركزية اولاد بوثابت المركز",
+    "AdresseL": "DOUAR OULED BOUTABET COMMUNE OULED BEN HAMMADI",
+    "AdresseA": "دوار اولاد بوثابت  جماعة  اولاد بن حمادي",
+    "COMMUNE": "Ouled Ben Hammadi",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE BOUMAIZ  JBIRATE",
+    "NOM_ETABA": "المركزية بومعيز اجبيرات",
+    "AdresseL": "DOUAR JBIRATE  COMMUNE OULAD BEN HAMMADI",
+    "AdresseA": "دوار اجبيرات جماعة اولاد بنحمادي",
+    "COMMUNE": "Ouled Ben Hammadi",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE HJAOUA",
+    "NOM_ETABA": "المركزية حجاوة",
+    "AdresseL": "DOUAR HJAOUA COMMUNE OULeD BEN HAMMADI",
+    "AdresseA": "دوار احجاوة جماعة اولاد بنحمادي",
+    "COMMUNE": "Ouled Ben Hammadi",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE OULED BELAID",
+    "NOM_ETABA": "المركزية اولاد بلعيد",
+    "AdresseL": "DOUAR OULED BELAID AZGHAR COMMUNE OULED BENHAMMADI",
+    "AdresseA": "دوار اولاد بلعيد ازغار جماعة اولاد بنحمادي",
+    "COMMUNE": "Ouled Ben Hammadi",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "MOHAMMED ZEFZAF",
+    "NOM_ETABA": "محمد الزفزاف",
+    "AdresseL": "SFAFAA",
+    "AdresseA": "الصفافعة",
+    "COMMUNE": "Sfafaa",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OMAR BNOU ABDELAZIZ LAMRADSA",
+    "NOM_ETABA": " مدرسة عمر بن عبد العزيز. المرادسة",
+    "AdresseL": "DOUAR LAMRADSA COMMUNE SFAFAA",
+    "AdresseA": "دوار المرادسة جماعة الصفافعة",
+    "COMMUNE": "Sfafaa",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE MZOURA ELOUED",
+    "NOM_ETABA": "المركزية امزورة الواد",
+    "AdresseL": "DOUAR MZOURA  elouad COMMUNE SFAFAA",
+    "AdresseA": "دوار امزورة الواد جماعة الصفافعة",
+    "COMMUNE": "Sfafaa",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE DOUAGHER BAHT JILALAT",
+    "NOM_ETABA": "المركزية الدواغر بهت جيلالات",
+    "AdresseL": "DOUAR JILALATE COMMUNE SFAFAA",
+    "AdresseA": "دوار جيلالات جماعة الصفافعة",
+    "COMMUNE": "Sfafaa",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE DOUAGHR BAHT",
+    "NOM_ETABA": " المركزية الدواغر بهت",
+    "AdresseL": "DOUAR DOUAGHER BAHT COMMUNE SFAFAA",
+    "AdresseA": "دوار الدواغر بهت جماعة الصفافعة",
+    "COMMUNE": "Sfafaa",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OULED FREIHA",
+    "NOM_ETABA": "ثانوية أولاد فريحة الإعدادية",
+    "AdresseL": "commune Ouled Freiha",
+    "AdresseA": "جماعة أولاد فريحة",
+    "COMMUNE": "Oulad Freiha",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD FRAIHA 1 CENTRE",
+    "NOM_ETABA": "مركزية اولاد فريحة1",
+    "AdresseL": " COMMUNE OULAD FRAIHA",
+    "AdresseA": "جماعة اولاد فريحة",
+    "COMMUNE": "Oulad Freiha",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SAIDANE  CENTRE",
+    "NOM_ETABA": "مركزية اولاد سعيدان",
+    "AdresseL": "DOUAR OULAD SAIDANE COMMUNE OULAD FRAIHA",
+    "AdresseA": "اولاد سعيدان اولاد فريحة",
+    "COMMUNE": "Oulad Freiha",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEQRAQRA BOUCHAKER CENTRE",
+    "NOM_ETABA": "مركزية لقراقرة بوشاكر",
+    "AdresseL": "centre LEQRAQRA BOUCHAKER COMMUNE OULAD FRAIHA",
+    "AdresseA": "مركزلقراقرة بوشاكر جماعة اولاد فريحة",
+    "COMMUNE": "Oulad Freiha",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

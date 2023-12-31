@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN YASSINE",
+    "NOM_ETABA": "الثانوية الاعدادية ابن ياسين",
+    "AdresseL": "aine arisse HADDADA",
+    "AdresseA": "عين عريس الحدادة",
+    "COMMUNE": "Haddada",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SALEH RCHID",
+    "NOM_ETABA": "صالح رشيد",
+    "AdresseL": "DOUAR HEDDADA SALEH RCHID COMM HEDDADA KENITRA",
+    "AdresseA": "دوار الحدادة صالح رشيد جماعة الحدادة القنيطرة",
+    "COMMUNE": "Haddada",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIN  ARISS",
+    "NOM_ETABA": "مدرسة عين عريس",
+    "AdresseL": "AIN AARIS CENTRE     COMMUNE HADDADA",
+    "AdresseA": "دوار عين عريس  ج/ الحدادة",
+    "COMMUNE": "Haddada",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZHANA",
+    "NOM_ETABA": "زهانة",
+    "AdresseL": "DOUAR ZHANA  COMMUNE HADDADA",
+    "AdresseA": "دوار زهانة ج/ الحدادة",
+    "COMMUNE": "Haddada",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MECHREAA EL KETTANE",
+    "NOM_ETABA": "مشرع الكتان",
+    "AdresseL": "DOUAR MECHREAA EL KETTANE  COMMUNE HADDADA",
+    "AdresseA": "دوار مشر ع الكتان جماعة الحدادة",
+    "COMMUNE": "Haddada",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S MGADID",
+    "NOM_ETABA": "م.م مكاديد",
+    "AdresseL": "Douar mgadid",
+    "AdresseA": "دوار مكاديد",
+    "COMMUNE": "Haddada",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

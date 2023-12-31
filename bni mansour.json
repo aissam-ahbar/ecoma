@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLGIALE BNI MANSOUR",
+    "NOM_ETABA": "الثانوية الإعدادية بني منصور",
+    "AdresseL": "CENTRE DE LA COMMUNE BNI MANSOUR",
+    "AdresseA": "مركز الجماعة بني منصور",
+    "COMMUNE": "Bni Mansour",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS IBN HAZM ACHRIBEN",
+    "NOM_ETABA": "م/م ابن حزم _إشريبن",
+    "AdresseL": "DOUAR ACHRIBENCBNI MANSOURCHEFCHAOUEN",
+    "AdresseA": "دوار اشربين جماعة بني منصور",
+    "COMMUNE": "Bni Mansour",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZEGHAR",
+    "NOM_ETABA": "م/م أزغار",
+    "AdresseL": "DOUAR AZEGHAR BNI MANSOURCHEFCHAOUEN",
+    "AdresseA": "دوار أزغار جماعة بني منصور",
+    "COMMUNE": "Bni Mansour",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAREZAT",
+    "NOM_ETABA": "م/م ترزات",
+    "AdresseL": "DOUAR TAREZATCBNI MANSOURCHEFCHAOUEN",
+    "AdresseA": "دوار ترزات جماعة بني منصور",
+    "COMMUNE": "Bni Mansour",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI BECHAR",
+    "NOM_ETABA": "م/م بني بشار",
+    "AdresseL": "DOUAR BNI BECHARCBNI MANSOURCHEFCHAOUEN",
+    "AdresseA": "دوار بني بشار جماعة بني منصور",
+    "COMMUNE": "Bni Mansour",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ISSOUKA",
+    "NOM_ETABA": "م/م اسوكا",
+    "AdresseL": "DOUAR ISSOUKA C BNI MANSOUR CHEFCHAOUEN",
+    "AdresseA": "دوار اسوكا جماعة بني منصور",
+    "COMMUNE": "Bni Mansour",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN TOUFAIL BNI WAKTA",
+    "NOM_ETABA": "م/م ابن طفيل _بني وكتة",
+    "AdresseL": "DOUAR BNI WAKTA CR BNI MANSOUR CHEFCHAOUEN",
+    "AdresseA": "دوار بني وكتة جماعة بني منصور",
+    "COMMUNE": "Bni Mansour",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAGHZOUT ENNOUAR",
+    "NOM_ETABA": "م/م تغزوت النوار",
+    "AdresseL": "DOUAR TAGHZOUT ENNOUAR BNI MANSOUR CHEFCHAOUEN",
+    "AdresseA": "دوار تغزوت النوار جماعة بني منصور",
+    "COMMUNE": "Bni Mansour",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

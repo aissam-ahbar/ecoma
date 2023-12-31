@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LKHOURCHI",
+    "NOM_ETABA": "الخرشي",
+    "AdresseL": "DOUAR LKHOURCHI COMMUNE SIDI MHAMED DALIL",
+    "AdresseA": "دوار الخرشي جماعة سيدي امحمد دليل",
+    "COMMUNE": "Sidi M'Hamed Dalil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AHL LAHRIMA",
+    "NOM_ETABA": "اهل لحريمة",
+    "AdresseL": "DOUAR AHL LAHRIMA  COMMUNE SIDI MOHAMED DALIL",
+    "AdresseA": "دوار اهل لحريمة",
+    "COMMUNE": "Sidi M'Hamed Dalil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUAANGA",
+    "NOM_ETABA": "بوعنكة",
+    "AdresseL": "DOUAR BOUAANGA COMMUNE SIDI MHAMED DALIL",
+    "AdresseA": "دوار  بوعنكة",
+    "COMMUNE": "Sidi M'Hamed Dalil",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

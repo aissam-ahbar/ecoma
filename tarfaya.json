@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU TOUMART",
+    "NOM_ETABA": "الثانوية الاعدادية ابن تومرت",
+    "AdresseL": "HAY ALJADID",
+    "AdresseA": "الحي الجديد",
+    "COMMUNE": "Tarfaya",
+    "PROVINCE": "Province: Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " ECOLE YAHIA ALGOUDALI",
+    "NOM_ETABA": " مدرسة يحيى الكدالي",
+    "AdresseL": "TARFAYA CENTRE",
+    "AdresseA": "طرفاية المركز ص-ب  :1",
+    "COMMUNE": "Tarfaya",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MADRASAT COM tarfaya",
+    "NOM_ETABA": "مدرسة مدرسة.كم طرفاية",
+    "AdresseL": "Hay El Jadid",
+    "AdresseA": "الحي الجديد",
+    "COMMUNE": "Tarfaya",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUKBA IBNOU NAFIAA",
+    "NOM_ETABA": "مدرسة عقبة بن نافع",
+    "AdresseL": "HAY ALJADID",
+    "AdresseA": "الحي الجديد",
+    "COMMUNE": "Tarfaya",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOUBAKER ESSADIK",
+    "NOM_ETABA": "مدرسة أبوبكر الصديق الإبتدائية",
+    "AdresseL": "hay elmassira tarfaya",
+    "AdresseA": "حي المسيرة طرفاية",
+    "COMMUNE": "Tarfaya",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALI IBN ABI TALIB",
+    "NOM_ETABA": "الثانوية التأهيلية علي بن ابي طالب   ",
+    "AdresseL": "TARFAYA CENTRE",
+    "AdresseA": "طرفاية  المركز",
+    "COMMUNE": "Tarfaya",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "KASSAMARE",
+    "NOM_ETABA": "كسمار الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "الحي الجديد ، شارع علال بن عبد",
+    "COMMUNE": "Tarfaya ",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNAJAHE",
+    "NOM_ETABA": "النجاح الخصوصية",
+    "AdresseL": "hay eljadid",
+    "AdresseA": "الحي الجديد",
+    "COMMUNE": "Tarfaya ",
+    "PROVINCE": "Tarfaya",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  }
+]

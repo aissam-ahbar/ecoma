@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "11-janv.",
+    "NOM_ETABA": "11 يناير",
+    "AdresseL": "CENTRE MAAZIZ COMMUNE MAAZIZ",
+    "AdresseA": "المعازيز المركز",
+    "COMMUNE": "Maaziz",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN SIRINE",
+    "NOM_ETABA": "ابن سيرين",
+    "AdresseL": "CENTR MAAZIZ",
+    "AdresseA": "المعازيز المركز",
+    "COMMUNE": "Maaziz",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL OUKHOUA",
+    "NOM_ETABA": "الاخوة",
+    "AdresseL": "hay idari ",
+    "AdresseA": "الحي الإداري-",
+    "COMMUNE": "Maaziz",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "PRINCE MOULAY ABDALLAH",
+    "NOM_ETABA": "الامير مولاي عبد الله",
+    "AdresseL": "CENTRE MAAZIZ",
+    "AdresseA": "المعازيز المركز",
+    "COMMUNE": "Maaziz",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT CHAOU",
+    "NOM_ETABA": "ايت شاعو",
+    "AdresseL": "DOUAR AIT CHAOU COMMUNE MAAZIZ",
+    "AdresseA": "أيت  شعو  جــمــا عــة الــمــعــازيــز",
+    "COMMUNE": "Maaziz",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALMOKHTAR SOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "MAAZIZ CENTRE",
+    "AdresseA": "المعازيز المركز",
+    "COMMUNE": "Maaziz",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

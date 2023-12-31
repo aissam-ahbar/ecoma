@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية الاعدادية علال بن عبد الله",
+    "AdresseL": " HAMRIA COMMUNE AL OUADAYNE",
+    "AdresseA": "Hamria Commune El Ouadaine Province Moulay Yaakoub",
+    "COMMUNE": "Louadaine",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN KHALDOUN",
+    "NOM_ETABA": "مدرسة ابن خلدون",
+    "AdresseL": "CENTRE KHMISSE HAMRIYA COMMUNE AL OUEDAYNE",
+    "AdresseA": "مركز خميس حمرية الوادين",
+    "COMMUNE": "Louadaine",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGRAM CENTRE",
+    "NOM_ETABA": "لكرم المركز",
+    "AdresseL": "DOUAR LAGRAM COMMUNE AL OUEDAYNE",
+    "AdresseA": "دوار لكرم الوادين",
+    "COMMUNE": "Louadaine",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAFCHATLA CENTRE",
+    "NOM_ETABA": "الفشاتلة المركز",
+    "AdresseL": "DOUAR LAFCHATLA COMMUNE AL OUEDAYNE",
+    "AdresseA": "دوار الفشاتلة الوادين",
+    "COMMUNE": "Louadaine",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD HAFED CENTRE",
+    "NOM_ETABA": "اولاد حافظ المركز",
+    "AdresseL": "DOUAR OULED HAFED COMMUNE  Louadaine",
+    "AdresseA": "دوار اولاد حافظ جماعة الوادين",
+    "COMMUNE": "Louadaine",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ADARDARA CENTRE",
+    "NOM_ETABA": "الدردارة المركز",
+    "AdresseL": "DOUAR ADDARDARA COMMUNE AL OUEDAYNE",
+    "AdresseA": "دوار الدردارة الوادين",
+    "COMMUNE": "Louadaine",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD YECHOU CENTRE",
+    "NOM_ETABA": "اولاد يشو المركز",
+    "AdresseL": "DOUAR OULAD YECHOU COMMUNE AL OUEDAYNE",
+    "AdresseA": "دوار اولاد يشو الوادين",
+    "COMMUNE": "Louadaine",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MOUSTAKBAL",
+    "NOM_ETABA": "الثانوية التأهيلية المستقبل",
+    "AdresseL": "HAMRIA CENTRE",
+    "AdresseA": "مركز حمرية",
+    "COMMUNE": "Louadaine",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

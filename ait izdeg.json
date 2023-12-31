@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL KAIRAOUANE",
+    "NOM_ETABA": "الثانوية الاعدادية القيروان",
+    "AdresseL": "SMOURA CENTRE COMMUNE AIT IZDEG",
+    "AdresseA": "سمورة مركز جماعة ايت ازدك",
+    "COMMUNE": "Ait Izdeg",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ASSELIM",
+    "NOM_ETABA": "اسليم",
+    "AdresseL": "KSAR asselim COMMUNE AIT IZEG MIDELT",
+    "AdresseA": "قصر اسليم جماعة ايت ازدك  ميدلت",
+    "COMMUNE": "Ait Izdeg",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BERREM",
+    "NOM_ETABA": "برم",
+    "AdresseL": "KSAR BERREM COMMUNE AIT IZDEG",
+    "AdresseA": "قصر برم جماعة ايت ازدك",
+    "COMMUNE": "Ait Izdeg",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GUEROUANE",
+    "NOM_ETABA": "كروان",
+    "AdresseL": "KSAR GUEROUANE COMMUNE AIT IZDEG",
+    "AdresseA": "قصر كروان جماعة ايت ازدك",
+    "COMMUNE": "Ait Izdeg",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

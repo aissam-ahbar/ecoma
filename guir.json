@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S/S GUIR ALASFAL",
+    "NOM_ETABA": "  م/م كير الاسفل",
+    "AdresseL": "KSAR MELLAHA GUIR GOURRAMA",
+    "AdresseA": "قصر ملاحة كير كرامة",
+    "COMMUNE": "Guir",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT OUSSALE S S IBNE ZAYDOUNE",
+    "NOM_ETABA": "ايت اوسال - م/م ابن زيدون",
+    "AdresseL": "AIT OUSSAL GOURRAMA",
+    "AdresseA": "ايت اوسال كرامة",
+    "COMMUNE": "Guir",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

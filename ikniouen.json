@@ -1,0 +1,142 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Ighrm Amazdar",
+    "NOM_ETABA": "الثانوية الإعدادية اغرم امزدار",
+    "AdresseL": "Douar Ighrm Amazdar Commune Ikniouen tinghir",
+    "AdresseA": "إغرم أمزدار إكنيون  تنغير",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée collégial Ighnsalne",
+    "NOM_ETABA": "الثانوية الاعدادية اغنسلن",
+    "AdresseL": "DR IGHNSLNE COMMUNE  IKNIOUEN",
+    "AdresseA": "دوار إغنسلن جماعة اكنيون",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS  BOUGAFER IKNIOUEN",
+    "NOM_ETABA": "م.م بوكافر اكنيون",
+    "AdresseL": "IKNIOUEN",
+    "AdresseA": "اكنيون",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  TAGMOUT",
+    "NOM_ETABA": "م.م تكموت",
+    "AdresseL": "TAGMOUT IKNIOUN TINGHIR",
+    "AdresseA": "دوار تكموت جماعة إكنيون-تنغير",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Taoulaoualte",
+    "NOM_ETABA": "م م تولوالت",
+    "AdresseL": "TAOULAOUALTE IKNIOUENE tinghir",
+    "AdresseA": "تولوالت اكنيون",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  TINIOURKEN",
+    "NOM_ETABA": "م.م تنوركان",
+    "AdresseL": "IKNIOUEN BOUMALEN DADES",
+    "AdresseA": "اكنيون بومالن دادس",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  ZAKER",
+    "NOM_ETABA": "م.م زاكر",
+    "AdresseL": "DOUAR ZAKER  commune IKNIOUEN   tinghir",
+    "AdresseA": "دوار زاكر جماعة اكنيون إقليم تنغير",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  IGHANSSALEN",
+    "NOM_ETABA": "م.م إغنسلن",
+    "AdresseL": "DOUAR IGHANSELNE COMMUNE IKNIOUEN CERCLE BOUMALEN ",
+    "AdresseA": " دوار اغنسلن جماعة اكنيون دائرة بومالن دادس إقليم ",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  TAGHSSA",
+    "NOM_ETABA": "م.م تغصى",
+    "AdresseL": "IKNIOUEN BOUMALEN DADES TINGHIR",
+    "AdresseA": "     دوار تغصى جماعة إكنيون",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S  AMJDADARE",
+    "NOM_ETABA": "م.م امجدادار",
+    "AdresseL": "AMJDADAR IKNIOUEN BOUMALEN DADES TINGHIR",
+    "AdresseA": "اكنيون",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IGHREM AMAZDAR",
+    "NOM_ETABA": "م.م اغرم امزدار",
+    "AdresseL": "IKNIOUEN TINGHIR",
+    "AdresseA": "اكنيون تنغير",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  IKISS AMAZDAR",
+    "NOM_ETABA": "م.م  اكيس امزدار",
+    "AdresseL": "IKiss ikniouen tinghir ",
+    "AdresseA": "إكيس إكنيون تنغير",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS  TAZLAFTE",
+    "NOM_ETABA": "م.م تزلافت",
+    "AdresseL": "DOUAR TAZLAFTE COMMUNE IKNIOUEN",
+    "AdresseA": "  دوار تزلافت جماعة اكنيون",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT   ASSOU OUBASLAM",
+    "NOM_ETABA": "الثانوية التأهيلية عسو باسلام",
+    "AdresseL": "CENTRE IKNIOUENE",
+    "AdresseA": "مركز اكنيون",
+    "COMMUNE": "Ikniouen",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

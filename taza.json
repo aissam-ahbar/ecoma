@@ -1,0 +1,792 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial AHD EL JADID",
+    "NOM_ETABA": "الثانوية الإعدادية العهد الجديد",
+    "AdresseL": "BAB TETE TAZA OULIA",
+    "AdresseA": "باب طيطي تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial IMAM ALI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام علي",
+    "AdresseL": "PLACE BAB ZITOUNA TAZA HAUT",
+    "AdresseA": "ساحة باب زيتونة تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial ALLAL EL FASSI",
+    "NOM_ETABA": "الثانوية الإعدادية علال الفاسي",
+    "AdresseL": "HAY EL ALAOUIYINETAZA ALJADIDA",
+    "AdresseA": "حي العلويين تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial BNOU KHALDOUNE",
+    "NOM_ETABA": "الثانوية الإعدادية ابن خلدون",
+    "AdresseL": "BD MOHAMMED 5TAZA AL JADIDA",
+    "AdresseA": "شارع محمد الخامس تازة الجديدة ",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial FAKHR EDDINE ERRAZI",
+    "NOM_ETABA": "الثانوية الإعدادية فخر الدين الرازي",
+    "AdresseL": "BD ALLAL EL FASSITAZA AL JADIDA",
+    "AdresseA": "شارع علال الفاسي تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial ESSALAM",
+    "NOM_ETABA": "الثانوية الإعدادية السلام",
+    "AdresseL": "BoulvarD ALLAL EL FASSI      TAZA AL JADIDA",
+    "AdresseA": "شارع علال الفاسي تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial IMAM MALIK",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام مالك",
+    "AdresseL": "HAY TENNISTAZA AL JADIDA",
+    "AdresseA": "حي التينس تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial ABDELAKRIM EL KHATTABI",
+    "NOM_ETABA": " الثانوية الإعدادية عبد الكريم الخطابي",
+    "AdresseL": "MASSIRA 2TAZA AL JADIDA",
+    "AdresseA": "المسيرة الثانية تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial AL AMIR MOULAY RACHID",
+    "NOM_ETABA": "الثانوية الإعدادية الأمير مولاي رشيد",
+    "AdresseL": "PLACE AVATIONTAZA AL JADIDA",
+    "AdresseA": "ساحة الطيران تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée Collégial 6 NOVEMBRE",
+    "NOM_ETABA": "نوفمبر 6 الثانوية الإعدادية",
+    "AdresseL": "HAY OUED EDDAHABE  TAZA NOUVELLE",
+    "AdresseA": "حي واد الذهب - تازة الجديدة.تازة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "lycée collégial AL KINDI",
+    "NOM_ETABA": "الثانوية الإعدادية الكندي ",
+    "AdresseL": "rue youssef ibn tachafine al massira 2 ",
+    "AdresseA": "شارع يوسف بن تاشفين المسيرة 2 ",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MOASCAR",
+    "NOM_ETABA": "المعسكر",
+    "AdresseL": "BD 11 JANVIERQUARTIER DES ABATTOIRESTAZA HAUT",
+    "AdresseA": "شارع 11 يناير حي المجازر تازة العليا ",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RAS EL MAA",
+    "NOM_ETABA": "رأس الماء",
+    "AdresseL": "QUARTIER TAKADOUM 1 EL KOUCHA TAZA HAUT",
+    "AdresseA": "حي التقدم 1 الكوشة تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TATBIKIA",
+    "NOM_ETABA": "التطبيقية",
+    "AdresseL": "QUARTIER EL MSAlLA TAZA HAUT",
+    "AdresseA": "حي المصلى تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY EL HASSAN",
+    "NOM_ETABA": "مولاي الحسن",
+    "AdresseL": "PLACE MY EL HASSANTAZA HAUT",
+    "AdresseA": "ساحة مولاي الحسن تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHALID BNOU ALOUALID",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "AVENUE BIN LAARASSI TAZA HAUT",
+    "AdresseA": "شارع بين العراصي تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZA AL OULIA FILLES",
+    "NOM_ETABA": "تازة العليا بنات",
+    "AdresseL": "RUE SALLE FONDOK TAZA HAUT",
+    "AdresseA": "شارع قاعة الفندق تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL ARZ",
+    "NOM_ETABA": "الأرز",
+    "AdresseL": "QUARTIER BAB ZITOUNA TAZA HAUT",
+    "AdresseA": "حي باب زيتونة تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZAFZOUF",
+    "NOM_ETABA": "الزفزوف",
+    "AdresseL": "HAY AL ALAOUIYINETAZA EL JADIDA",
+    "AdresseA": "حي العلويين تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSOUK",
+    "NOM_ETABA": "السوق",
+    "AdresseL": "AVENUE SULTAN ABOU AL HASSANTAZA AL JADIDA",
+    "AdresseA": "شارع سلطان أبو الحسن تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOUAR JDID",
+    "NOM_ETABA": "دوار الجديد",
+    "AdresseL": "HAY OUED DAHABDOUAR JDIDTAZA AL JADIDA",
+    "AdresseA": "حي وادي الذهب دوار الجديد تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY EL MASSIRA",
+    "NOM_ETABA": "حي المسيرة",
+    "AdresseL": "HAY AL MASSIRA 1 TAZA AL JADIDA",
+    "AdresseA": "حي المسيرة 1 تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAYMOUNE",
+    "NOM_ETABA": "الليمون",
+    "AdresseL": "RUE CHAHID AHMED TAHRAST BIN JRADI TAZA AL JADIDA",
+    "AdresseA": "شارع الشهيد أحمد تهراست بين الجرادي تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABBAS LAMSAADI",
+    "NOM_ETABA": "عباس لمساعدي",
+    "AdresseL": "HAY AL MASSIRA 2 TAZA AL JADIDA",
+    "AdresseA": "حي المسيرة 2 تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "HAY AL QODS 1BLOC 8 TAZA AL JADIDA",
+    "AdresseA": "حي القدس 1 مجموعة 8 تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI MRINE",
+    "NOM_ETABA": "بني مرين",
+    "AdresseL": "HAY AL QODS 2TAZA AL JADIDA",
+    "AdresseA": "حي القدس 2 تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MOUKHTAR SOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "PLACE TAYARANE TAZA AL JADIDA",
+    "AdresseA": "ساحة الطيران تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAFSSAF",
+    "NOM_ETABA": "الصفصاف",
+    "AdresseL": "Rue Sebta  Bit Ghoulem TAZA",
+    "AdresseA": "  زنقة سبتة، بيت غلام، تازة ",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAHATTA TAZA",
+    "NOM_ETABA": "المحطة - تازة -",
+    "AdresseL": "AVENUE MOHAMED 5TAZA AL JADIDA",
+    "AdresseA": "شارع محمد الخامس تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MASBAH",
+    "NOM_ETABA": "المسبح",
+    "AdresseL": "RUE MOHAMED BEN EL HASSAN EL OUAZANI TAZA AL JAD",
+    "AdresseA": "شارع محمد بن الحسن الوزاني تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MASSOUDIA",
+    "NOM_ETABA": "المسعودية",
+    "AdresseL": "HAY AL ASSAADA TAZA AL JADIDA",
+    "AdresseA": "حي السعادة تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY YOUSSEF",
+    "NOM_ETABA": "مولاي يوسف",
+    "AdresseL": "HAY RBAIZ TAZA AL JADIDA",
+    "AdresseA": "حي الربايز تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAARID",
+    "NOM_ETABA": "المعرض",
+    "AdresseL": "RUE ADMAMTAZA AL JADIDA",
+    "AdresseA": "شارع أدمام تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ADARISSA",
+    "NOM_ETABA": "الأدارسة",
+    "AdresseL": "RUE  ibn khaldoun  TAZA AL JADIDA",
+    "AdresseA": "شارع  ابن  خلدون  تازة الجديدةة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH GUENOUN",
+    "NOM_ETABA": "عبد الله كنون",
+    "AdresseL": "PLACE TAYARANETAZA AL JADIDA",
+    "AdresseA": "ساحة الطيران تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOUAR AYAD",
+    "NOM_ETABA": "دوار عياد",
+    "AdresseL": " QUARTIER ANNAHDA DOUAR AYAD TAZA AL JADIDA",
+    "AdresseA": "حي النهضة دوار عياد تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MALHA",
+    "NOM_ETABA": "الملحة",
+    "AdresseL": "QUARTIER EL MALHA TAZA AL JADIDA",
+    "AdresseA": "حي الملحة تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NARJISS",
+    "NOM_ETABA": "النرجس",
+    "AdresseL": "RUE 11 JANVIERTAZA AL JADIDA",
+    "AdresseA": "شارع 11 يناير تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNOU TOFAIL",
+    "NOM_ETABA": "بن طفيل",
+    "AdresseL": "AL QODS 3 TAZA AL JADIDA",
+    "AdresseA": "القدس 3 تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ABDELAZIZ",
+    "NOM_ETABA": "عمر بن عبد العزيز",
+    "AdresseL": "QUARTIER AL HASSANI EL HAJRA TAZA EL JADIDA",
+    "AdresseA": "حي الحسني الحجرة تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA EL FIHRYA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "HAY AL ALAOUYINE ROUTE EL OUAHDA  TAZA EL JADIDA",
+    "AdresseA": "حي العلويين طريق الوحدة تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED ELMAKHAZINE",
+    "NOM_ETABA": "واد المخازن",
+    "AdresseL": "Bd YOUSSEF BNOU TACHAFINE ELKODS 2  TAZA ELJADIDA",
+    "AdresseA": "شارع يوسف بن تاشفين القدس 2 تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHAWARIZMI",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": "HAY AL WIFAQ",
+    "AdresseA": "حي الوفاق",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant OMAR AL KHYAME",
+    "NOM_ETABA": "الثانوية التأهيلية عمر الخيام",
+    "AdresseL": "AL MASSIRA 2 ROUTE OUJDATAZA AL JADIDA",
+    "AdresseA": "المسيرة 2 طريق وجدة تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "KADI AYAD",
+    "NOM_ETABA": "القاضي عياض ",
+    "AdresseL": "RUE FARHA HACHAD TAZA AL JADIDA",
+    "AdresseA": "شارع فرحات حشاد طريق المسبح تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant SIDI AZZOUZ",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي عزوز ",
+    "AdresseL": "PLACE BAB ZITOUNATAZA OULIA",
+    "AdresseA": "ساحة باب زيتونة تازة العليا",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant ALI BEN BARRI",
+    "NOM_ETABA": "الثانوية التأهيلية علي بن بري ",
+    "AdresseL": "BD MOHAMED 5 TAZA AL JADIDA",
+    "AdresseA": "شارع محمد الخامس تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant BNOU LYASSAMINE",
+    "NOM_ETABA": "الثانوية التأهيلية ابن الياسمين ",
+    "AdresseL": "BD MY YOUSSEFTAZA AL JADIDA",
+    "AdresseA": "شارع مولاي يوسف تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycée TECHNIQUE",
+    "NOM_ETABA": "الثانوية التقنية",
+    "AdresseL": "Bv youssef bnou tachafen TAZA AL JADIDA",
+    "AdresseA": "شارع يوف بن تاشفين تازة الجديدة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant AL IRFANE",
+    "NOM_ETABA": "الثانوية التأهيلية العرفان ",
+    "AdresseL": "HAY AL ALAOUYNE",
+    "AdresseA": "حي العلويين بتازة",
+    "COMMUNE": "Taza",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GS ALBAYANE",
+    "NOM_ETABA": "مجموعة مدارس البيان",
+    "AdresseL": "LOT amine sakane n° 446 TAZA ",
+    "AdresseA": "رقم 446، تجزئة أمين سكن،",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RACHADE 3",
+    "NOM_ETABA": "الرشاد 3",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 57، القدس 3، تازة",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "WALAE",
+    "NOM_ETABA": "ولاء",
+    "AdresseL": "Boudik, Douar Lamsar(HAY SALAM",
+    "AdresseA": "ملك بوديك، دوار لمسارة (حي الس",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRACHAD",
+    "NOM_ETABA": "الرشاد",
+    "AdresseL": "N°27Bloc 10, Massira II - C. T",
+    "AdresseA": "رقم 27 بلوك 10، المسيرة 1 - ج.",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Salah Eddine",
+    "NOM_ETABA": " صلاح الدين ",
+    "AdresseL": "B.V ABDELKHALEK TOURIS TAZA HA",
+    "AdresseA": "شارع عبد الخالق الطوريس تازة ا",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL FALAH 2",
+    "NOM_ETABA": "الفلاح 2",
+    "AdresseL": "Lot. Al Jairime, N° 10 - C.U. ",
+    "AdresseA": "تجزئة الجيارين رقم 10 - ج.ح. ت",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AFAQ",
+    "NOM_ETABA": "الآفاق",
+    "AdresseL": "Lot. El Barak, N° 28, Rue My Y",
+    "AdresseA": "تجزئة البركة، رقم 28، حي مولاي",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement essaada 2",
+    "NOM_ETABA": "مؤسسة السعادة 2",
+    "AdresseL": "Hay Moulay Youssef - Taza Al J",
+    "AdresseA": "حي مولاي يوسف - تازة الجديدة",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL FALAH",
+    "NOM_ETABA": "الفلاح",
+    "AdresseL": "Boulevard Prince Heritier, Av.",
+    "AdresseA": "شارع ولي العهد، زنقة تيزي وسلي",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESSAADA 1",
+    "NOM_ETABA": " 1 السعادة",
+    "AdresseL": "2 Avenue Moulay Idriss, Boulev",
+    "AdresseA": "2 زنقة مولاي إدريس، شارع محمد ",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AMIR ESSAGHIR",
+    "NOM_ETABA": "الأمير الصغير",
+    "AdresseL": "Boulevard Ziri Bnou Atya N° 35",
+    "AdresseA": "شارع زيري بن عطية رقم 35 - تاز",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HANAE",
+    "NOM_ETABA": "الهناء",
+    "AdresseL": "Villa Belayachi, Boulevard OUK",
+    "AdresseA": "فيلا بلعياشي، شارع  عقبة بن نا",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MADARISS AL ALBAB TAZAES",
+    "NOM_ETABA": "مدارس الألباب",
+    "AdresseL": "HAY EL MASSIRA 2 TAZA NOUVELLE",
+    "AdresseA": "حي المسيرة 2 تازة الجديدة تازة",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " MISSION SANS FRONTIERES",
+    "NOM_ETABA": "مهمة بلا حدود",
+    "AdresseL": "Bloc 19 N° 10 EL MASSIRA 2 TAZ",
+    "AdresseA": "رقم 10 بلوك 19 المسيرة2 تازة",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MALAK",
+    "NOM_ETABA": "ملاك",
+    "AdresseL": "hay alaouiyen n 2 taza",
+    "AdresseA": "تجزئة الموظفين حي العلويين رقم",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AFAQ2",
+    "NOM_ETABA": "آفاق 2",
+    "AdresseL": "hay mly youssef lot esmailia n",
+    "AdresseA": "حي مولاي يوسف  تجزئة الاسماعلي",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assalam",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الأمل الرقم 458",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al mahir",
+    "NOM_ETABA": "الماهر",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الادريسية رقم 1 البحرة",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aNNEXE ALAMIR ASSAGHIR",
+    "NOM_ETABA": "ملحقة الأمير الصغير",
+    "AdresseL": "NULL",
+    "AdresseA": "11 حي السعديين",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL-AHD",
+    "NOM_ETABA": "العهد",
+    "AdresseL": "n 57 bis qods 3 ",
+    "AdresseA": "رقم 57 مكرر حي القدس 3",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les roses",
+    "NOM_ETABA": "الزهور",
+    "AdresseL": "aV allal ben abdellah",
+    "AdresseA": "شارع علال بن عبد الله رقم 9",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el malaika",
+    "NOM_ETABA": "الملائكة",
+    "AdresseL": "haY MOULAY YOUSSEF",
+    "AdresseA": "حي مولاي يوسف",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al yaqine",
+    "NOM_ETABA": "اليقين",
+    "AdresseL": "bin jradi av ahmed ben mohamed",
+    "AdresseA": "بين جرادي شارع أحمد بن محمد",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL WAHDA",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "n 11 hay al amal msila",
+    "AdresseA": "رقم 11 حي الأمل امسيلة",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "majilan",
+    "NOM_ETABA": "ماجلان",
+    "AdresseL": "",
+    "AdresseA": "127 -حي العلويين مج -ف ",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MON ECOLE",
+    "NOM_ETABA": "مونيكول",
+    "AdresseL": "avenue ml youssef lotissement ",
+    "AdresseA": "حي مولاي يوسف 5 الفتح تازة",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FALAH 3",
+    "NOM_ETABA": "الفلاح 3",
+    "AdresseL": "  6ROUTE NATIONALE VERS OUJDA",
+    "AdresseA": "الطريق الوطنية 6تجاه وجدة ",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SALMA ERRAGRAGUI",
+    "NOM_ETABA": "سلمى الركراكي",
+    "AdresseL": "Lot zaytoune n° 14 et 15 taza",
+    "AdresseA": "تجزئة الزيتون الرقم 14 - 15 تا",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAAZM",
+    "NOM_ETABA": "العزم",
+    "AdresseL": "LOTISSEMENT AL MONTAZAH - TAZA",
+    "AdresseA": "تجزئة المنتزه - تازة",
+    "COMMUNE": "Taza ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

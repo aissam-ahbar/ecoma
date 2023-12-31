@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM ALI",
+    "NOM_ETABA": " ثانوية الامام علي الاعدادية",
+    "AdresseL": "CENTRE SIDI ALI ROUTE DE CASA",
+    "AdresseA": "مركز سيدي علي بن حمدوش",
+    "COMMUNE": "Sidi Ali Ben Hamdouche",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI ALI",
+    "NOM_ETABA": "مدرسة سيدي علي",
+    "AdresseL": "CENTRE SIDI ALI BEN HAMDOUCHE",
+    "AdresseA": " مركز سيدي علي بن حمدوش",
+    "COMMUNE": "Sidi Ali Ben Hamdouche",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ETTALAA MOUSSA",
+    "NOM_ETABA": "م/م الطالع موسى",
+    "AdresseL": "DOUAR MHAIMDAT LOUED",
+    "AdresseA": "دوار امحيمدات الواد ",
+    "COMMUNE": "Sidi Ali Ben Hamdouche",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI HMIDA",
+    "NOM_ETABA": "م/م سيدي احميدة",
+    "AdresseL": "DOUAR SIDI HMIDA",
+    "AdresseA": "دوار سيدي أحميدة",
+    "COMMUNE": "Sidi Ali Ben Hamdouche",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI HAMMOU",
+    "NOM_ETABA": "م/م سيدي حمو",
+    "AdresseL": "DOUAR SIDI HAMMOU ",
+    "AdresseA": "دوار سيدي حمو",
+    "COMMUNE": "Sidi Ali Ben Hamdouche",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ESSALAM",
+    "NOM_ETABA": "م/م السلام",
+    "AdresseL": "DOUAR AIT RKHA ",
+    "AdresseA": "دوار آيت الرخى ",
+    "COMMUNE": "Sidi Ali Ben Hamdouche",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI FARES",
+    "NOM_ETABA": "م/م سيدي فارس",
+    "AdresseL": "DOUAR SIDI FARES ",
+    "AdresseA": "دوار أولاد سيدي فارس",
+    "COMMUNE": "Sidi Ali Ben Hamdouche",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELYASMINE ANNAMODAJIAE",
+    "NOM_ETABA": "مؤسسة الياسمين النمودجية الخصوصية",
+    "AdresseL": "centre sidi ali ben hamdouche ",
+    "AdresseA": " مركز سيدي علي بن حمدوش",
+    "COMMUNE": "Sidi Ali Ben Hamdouche",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

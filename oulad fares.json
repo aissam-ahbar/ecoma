@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "OULAD FARESS CENTRE",
+    "NOM_ETABA": "مركزية اولاد فارس",
+    "AdresseL": "CENTRE TLATE OULAD FARES COMMUNE OULAD FARES",
+    "AdresseA": "مركز ثلاثاء أولاد فارس جماعة أولاد فارس ",
+    "COMMUNE": "Oulad Fares",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AADOU CENTRE",
+    "NOM_ETABA": "مركزية أولاد عدو",
+    "AdresseL": "DOUAR LAHBATA COMMUNE OULAD FARES",
+    "AdresseA": "دوار لهباطة جماعة اولاد فارس",
+    "COMMUNE": "Oulad Fares",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAGRATMA CENTRE",
+    "NOM_ETABA": "مركزية الكراطمة",
+    "AdresseL": "DOUAR ESSOUALEM EL HARCHA COMMUNE OULAD FARES",
+    "AdresseA": "دوار السوالم الحرشة جماعة اولاد فارس",
+    "COMMUNE": "Oulad Fares",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MOUSSA CENTRE",
+    "NOM_ETABA": "مركزية اولاد موسى",
+    "AdresseL": "DOUAR OULAD EL HARRAR COMMUNE OULAD FARES",
+    "AdresseA": "دوار اولاد حرار جماعة اولاد فارس",
+    "COMMUNE": "Oulad Fares",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAAZIB",
+    "NOM_ETABA": "مدرسة لعزيب",
+    "AdresseL": "douar LAAZIB ouled fares",
+    "AdresseA": "دوار لعزيب اولاد فارس",
+    "COMMUNE": "Oulad Fares",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT OULED FARES",
+    "NOM_ETABA": "الثانوية التأهيلية أولاد فارس",
+    "AdresseL": "COMMUNE OULED FARES",
+    "AdresseA": "جماعة أولاد فارس",
+    "COMMUNE": "Oulad Fares",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

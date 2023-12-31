@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 18 NOVEMBRE",
+    "NOM_ETABA": "الثانوية الإعدادية 18 نونبر ",
+    "AdresseL": "CENTRE MELLILA",
+    "AdresseA": "مركز مليلة",
+    "COMMUNE": "Mellila",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MELLILA CENTRE",
+    "NOM_ETABA": "م/م مليلة المركزية",
+    "AdresseL": "CENTRE JEMAA MELLILA COMMUNE MELLILA",
+    "AdresseA": "مركز جمعة مليلة جماعة مليلة",
+    "COMMUNE": "Mellila",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED AISSA CENTRE",
+    "NOM_ETABA": "م/م اولاد عيسى المركزية",
+    "AdresseL": "DOUAR OULED OUDA COMMUNE MELLILA",
+    "AdresseA": "دوار اولاد عودة جماعة مليلة",
+    "COMMUNE": "Mellila",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "s/s ouled chaoui centre",
+    "NOM_ETABA": "م م أولاد الشاوي المركزية",
+    "AdresseL": "DOUAR oulad chaoui MELLILA",
+    "AdresseA": "دوار أولاد الشاوي جماعة مليلة",
+    "COMMUNE": "Mellila",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LAKHBIZIYINE CENTRE",
+    "NOM_ETABA": "م/م الخبيزيين المركزية",
+    "AdresseL": "DOUAR LAKHBIZYINE COMMUNE MELLILA",
+    "AdresseA": "دوار الخبيزيين جماعة مليلة",
+    "COMMUNE": "Mellila",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED BEN ABDELKRIM EL KHATTABI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد بن عبد الكريم الخطابي",
+    "AdresseL": "CENTRE MELLILA COMMUNE MELLILA",
+    "AdresseA": "مركز مليلة جماعة مليلة",
+    "COMMUNE": "Mellila",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

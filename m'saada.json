@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SAFSAFE",
+    "NOM_ETABA": "الصفصاف",
+    "AdresseL": "COMMUNE EL M SAADA",
+    "AdresseA": "جماعة المساعدة",
+    "COMMUNE": "M'saada",
+    "PROVINCE": "Province: Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE 2 MARS  HAWECH SIDI GADDAR",
+    "NOM_ETABA": "المركزية 2 مارس حوش سيدي كدار ",
+    "AdresseL": "HAWECH SIDI GADDAR COMMUNE M SSAADA",
+    "AdresseA": " حوش سيدي كدار جماعة المساعدة",
+    "COMMUNE": "M'saada",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE OULAD LAGZOULI 2",
+    "NOM_ETABA": "المركزية اولاد لكزولي 2",
+    "AdresseL": "DOUAR OULED LAGZOULI COMMUNE MSAADA",
+    "AdresseA": "دوار اولاد لكزولي جماعة المساعدة",
+    "COMMUNE": "M'saada",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MERE ETTORCHANE",
+    "NOM_ETABA": "المركزية الطرشان",
+    "AdresseL": "DOUAR ETTORCHANE COMMUNE MSAADA",
+    "AdresseA": "دوار الطرشان جماعة المساعدة",
+    "COMMUNE": "M'saada",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MSAADA",
+    "NOM_ETABA": "الثانوية التأهيلية المساعدة",
+    "AdresseL": "DOUAR HAWCH SIDI GUEDDAR COMMUNE MSAADA",
+    "AdresseA": "  دوار حوش سيدي كدار جماعة المساعدة",
+    "COMMUNE": "M'saada",
+    "PROVINCE": "Sidi Slimane",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

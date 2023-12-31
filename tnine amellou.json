@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "Lycée collégial AMELOU",
+    "NOM_ETABA": "الثانوية الإعدادية أملو",
+    "AdresseL": "centre amelou",
+    "AdresseA": "مركز املو",
+    "COMMUNE": "Tnine Amellou",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Secteur Scolaire 3 MARS CENTRE TNINE AMELLOU",
+    "NOM_ETABA": "مجموعة مدارس 3 مارس مركزية اتنين املو",
+    "AdresseL": "CENTRE COMMUNE TNINE AMELLOU",
+    "AdresseA": "مركز جماعة اتنين املو",
+    "COMMUNE": "Tnine Amellou",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL ICHAA CENTRE IDAWSOGM",
+    "NOM_ETABA": "مجموعة مدارس الإشعاع مركزية اداوسكوم",
+    "AdresseL": "DOUAR IDAWSOGM",
+    "AdresseA": "دوار اداوسكوم",
+    "COMMUNE": "Tnine Amellou",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL KADISSIYA CENTRE IMI O GUENI",
+    "NOM_ETABA": "مجموعة مدارس القادسية مركزية امي اكني",
+    "AdresseL": "DOUAR Imi ogni",
+    "AdresseA": "دوار امي اكني",
+    "COMMUNE": "Tnine Amellou",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL ZAHRAOUI CENTRE ALHFARAT AIT A",
+    "NOM_ETABA": "مجموعة مدارس الزهراوي مركزية الحفارات ايت ايوب",
+    "AdresseL": "DOUAR ALHFARAT AIT AYOUB",
+    "AdresseA": "دوار الحفارات ايت ايوب",
+    "COMMUNE": "Tnine Amellou",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

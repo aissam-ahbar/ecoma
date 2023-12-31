@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MALIKA EL FASSI",
+    "NOM_ETABA": "ثانوية مالكة الفاسي الإعدادية",
+    "AdresseL": "MUNICIPALE TARGUIST ALHOCEIMA",
+    "AdresseA": "بلدية ترجيست",
+    "COMMUNE": "Targuist",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HASSAN II (COLLEGE)",
+    "NOM_ETABA": "الحسن الثاني",
+    "AdresseL": "AVENUE WALI AL AAHD TARGUIST",
+    "AdresseA": "شارع ولي العهد ترجيست",
+    "COMMUNE": "Targuist",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TARGUIST II",
+    "NOM_ETABA": "ترجيست 2",
+    "AdresseL": "BD WALI ALAAHD TARGUIST",
+    "AdresseA": "شارع ولي العهد",
+    "COMMUNE": "Targuist",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABD LAKRIM KHATABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "rue  DES FAR     TARGUIST",
+    "AdresseA": "شارع الجيش الملكي      تركيست",
+    "COMMUNE": "Targuist",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ABDELLAZIZ",
+    "NOM_ETABA": "عمر بن عبد العزيز",
+    "AdresseL": "TARGUIST CENTRE",
+    "AdresseA": "ترجيست المركز",
+    "COMMUNE": "Targuist",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TARGUIST QUALIFIANT",
+    "NOM_ETABA": "ثانوية ترجيست التأهيلية",
+    "AdresseL": "BD WALI AL AAHD BP156 TARGUIST",
+    "AdresseA": "شارع ولي العهد  ترجيست",
+    "COMMUNE": "Targuist",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ERRAZI ",
+    "NOM_ETABA": "ثانوية الرازي",
+    "AdresseL": "MUNICIPALITE TARGUIST",
+    "AdresseA": "تارجيست",
+    "COMMUNE": "Targuist",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "krouna",
+    "NOM_ETABA": "كرونة",
+    "AdresseL": "NULL",
+    "AdresseA": " زنقة 19 مركز تارجيست",
+    "COMMUNE": "Targuist ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "manarat targuist",
+    "NOM_ETABA": "منارة ترجيست",
+    "AdresseL": "rue des far 62 targuist",
+    "AdresseA": "شاارع الجيش الملكي رقم:62 ترجي",
+    "COMMUNE": "Targuist ",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

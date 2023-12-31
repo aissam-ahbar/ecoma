@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial AL IMAM ALI",
+    "NOM_ETABA": "ثانوية الإمام علي الإعدادية",
+    "AdresseL": "AVFAR  RKIBA",
+    "AdresseA": "شارع الجيش الملكي الركيبة",
+    "COMMUNE": "Bhalil",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ecole PRINCE MOULAY RACHID",
+    "NOM_ETABA": "مدرسة سمو الأمير مولاي رشيد",
+    "AdresseL": "HAY RaMLA BHALIL",
+    "AdresseA": "حي الرملة  البهاليل",
+    "COMMUNE": "Bhalil",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole OUED EDDAHAB",
+    "NOM_ETABA": " مدرسة وادي الذهب",
+    "AdresseL": " RUE ZEKAK BD AMAN MSILA BHALIL",
+    "AdresseA": "زنقة الزقاق شارع عمان امسيلة البهاليل",
+    "COMMUNE": "Bhalil",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Lycée qualifiant MOHAMED EL KOURRI",
+    "NOM_ETABA": "ثانوية محمد القري التأهيلية ",
+    "AdresseL": "HAY MSSILA BHALIL",
+    "AdresseA": "حي امسيلة البهاليل",
+    "COMMUNE": "Bhalil",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE AL KHAWARIZMI",
+    "NOM_ETABA": "ملحقة الخوارزمي",
+    "AdresseL": "Avenue Oman, N° 100, Mssila - ",
+    "AdresseA": "شارع عمان، رقم 100، مسيلة - ال",
+    "COMMUNE": "Bhalil ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Khaouarizmi",
+    "NOM_ETABA": "الخوارزمي",
+    "AdresseL": " 32 rue el kalaa aghzdis BHALI",
+    "AdresseA": " رقم 32 زنقة القلعة اغزديس  ال",
+    "COMMUNE": "Bhalil ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZINEB ELGHAZALI",
+    "NOM_ETABA": "زينب الغزالي",
+    "AdresseL": "",
+    "AdresseA": "الركيبة زنقة المقبرة البهاليل",
+    "COMMUNE": "Bhalil ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BHALIL KHAWARISMI",
+    "NOM_ETABA": "بهاليل خوارزمي",
+    "AdresseL": "",
+    "AdresseA": "شارع الجيش الملكي البهاليل",
+    "COMMUNE": "Bhalil ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ibn rochd",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "NULL",
+    "AdresseA": "حي اغزديس الركيبة",
+    "COMMUNE": "Bhalil ",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

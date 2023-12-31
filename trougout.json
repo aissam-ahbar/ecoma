@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TROUGOUT",
+    "NOM_ETABA": "ثانوية اتروكوت الإعدادية",
+    "AdresseL": "COMMUNE TROUGOUT CENTRE",
+    "AdresseA": "جماعة تروكوت",
+    "COMMUNE": "Trougout",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AZRO",
+    "NOM_ETABA": "م.م ازرو",
+    "AdresseL": "DOUAR AZRO COMMUNE TROUGGOUT",
+    "AdresseA": "ازرو اتروكوت",
+    "COMMUNE": "Trougout",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN ELMOUETAZ",
+    "NOM_ETABA": "م.م ابن المعتز",
+    "AdresseL": "COMMUNE TROUGGOUT CENTRE",
+    "AdresseA": "جماعة اتروكوت",
+    "COMMUNE": "Trougout",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TROUGOUT",
+    "NOM_ETABA": "الثانوية التأهيلية اتروكوت",
+    "AdresseL": "CENTRE TROUGOUT",
+    "AdresseA": "مركز اتروكوت",
+    "COMMUNE": "Trougout",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

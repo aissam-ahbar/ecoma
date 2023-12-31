@@ -1,0 +1,642 @@
+[
+  {
+    "NOM_ETABL": "LYCEE ALLAL EL FASSI COLLEGIAL",
+    "NOM_ETABA": "ثانوية علال الفاسي الإعدادية",
+    "AdresseL": "rue aallal elfassi DCHEIRA elJIHADIA",
+    "AdresseA": "شارع علال الفاسي الدشيرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE EL QADI AYAD COLLEGIAL",
+    "NOM_ETABA": "ثانوية القاضي عياض الإعدادية",
+    "AdresseL": "COLLEGE KADI AYADE DCHEIRA JIHADIA",
+    "AdresseA": "اعدادية القاضي عياض  الدشيرة الجهادية ",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE TAHA HUSSEIN COLLEGIAL ",
+    "NOM_ETABA": "ثانوية طه حسين الإعدادية",
+    "AdresseL": "HAY FADIssa DCHEIRA jihadia",
+    "AdresseA": "حي فاديسا الدشيرة",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE BOUCHWARIÈNE COLLEGIAL",
+    "NOM_ETABA": "ثانوية البوشواريين الإعدادية",
+    "AdresseL": "hay takerkourtdchira jihadia",
+    "AdresseA": "حي تكركورت ",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL FIRDAOUS COLLEGIAL ",
+    "NOM_ETABA": "ثانوية الفردوس الإعدادية",
+    "AdresseL": "HAY eRRABII  dcheira  aLJIHADIA inzegane ",
+    "AdresseA": "حي الربيع ،الدشير الجهادية انزكان ",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHOUHADA",
+    "NOM_ETABA": "مدرسة الشهداء",
+    "AdresseL": "CITE  SAADA LA PERGOLA DCHEIRA",
+    "AdresseA": "حي السعادة لابيركولا الدشيرة",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NAHDA",
+    "NOM_ETABA": "مدرسة النهضة",
+    "AdresseL": "AV mokhtar essoussiQilGHIATen DCHEIRA ",
+    "AdresseA": ". شارع المختار السوسي. حي الغياتن  -الدشيرة",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSAADIYNE",
+    "NOM_ETABA": "مدرسة السعديين",
+    "AdresseL": "AVENUE PRINCIPALE DCHEIRA",
+    "AdresseA": "الشارع الرئيسي للدشيرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM EL MOUMININE",
+    "NOM_ETABA": "مدرسة أم المؤمنين",
+    "AdresseL": "HAY IRHALNE  DCHEIRA JIHADIA",
+    "AdresseA": "حي ارحالن",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOUSSA BEN EL HOUSSINE",
+    "NOM_ETABA": "مدرسة موسى بن الحسين",
+    "AdresseL": "AV abdellah ben yassine DCHEIRA JIHADIA",
+    "AdresseA": "شارع عبد الله بن ياسين الدشيرة",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "مدرسة علال بن عبد الله",
+    "AdresseL": "BOULEVARD OMAR BEn ALKHATAB  dcheira",
+    "AdresseA": " شارع عمر بن الحطاب ",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL ADARISSA",
+    "NOM_ETABA": "مدرسة الأدارسة",
+    "AdresseL": "HAY ALHOURI DCHEIRA JIHADIA",
+    "AdresseA": "حي وا الحري",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IMAM AL BOUKHARI",
+    "NOM_ETABA": "مدرسة الامام البخاري",
+    "AdresseL": "cite IGROUMAYDCHEIRA JIHADIA",
+    "AdresseA": "حي  اكروماعي",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 18 NOVEMBRE",
+    "NOM_ETABA": " مدرسة 18 نونبر",
+    "AdresseL": "HAY TAKERKOURT DCHEIRA EL  JIHADIA",
+    "AdresseA": "حي تكركورت",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 2O AOUT",
+    "NOM_ETABA": "مدرسة 20 غشت",
+    "AdresseL": "DCHEIRA JIHADIA  QUARTIER  ADDOHA",
+    "AdresseA": "الدشيرة  الجهادية حي الضحى",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ANNAFISSE",
+    "NOM_ETABA": "مدرسة ابن النفيس",
+    "AdresseL": "BD OMAR LKHIAM  DCHEIRA JIHADIA",
+    "AdresseA": "شارع عمر الخيام الدشيرة",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SALAM",
+    "NOM_ETABA": "مدرسة السلام",
+    "AdresseL": "IGGUI IFRDEN alal ben abdellah  COMMUNE DCHEIRA EL",
+    "AdresseA": "اكي افرضن  شارع علال بن عبد الله الدشيرة الجهادية ",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE KHALID BNOU AL WALID",
+    "NOM_ETABA": "مدرسة خالد بن الوليد",
+    "AdresseL": "quartier arrahma almers dcheira aljihadia",
+    "AdresseA": "حي الرحمة المرس الدشيرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBNO ELFAREDE",
+    "NOM_ETABA": "مدرسة إبن الفارض",
+    "AdresseL": "LOTISEMENT FADESSA DCHEIRA EL JIHADIA",
+    "AdresseA": "تجزئة فاديسا الدشيرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CHAABI",
+    "NOM_ETABA": "مدرسة الشعبي",
+    "AdresseL": "hay TASSILA dchira aljihadia",
+    "AdresseA": "حي تاسيلا  الدشيرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBNOU LHAYTAME QUALIFIANT ",
+    "NOM_ETABA": "ثانوية ابن الهيثم التأهيلية",
+    "AdresseL": "DCHEIRA JIHADIA",
+    "AdresseA": "الدشبرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE HOUMANE EL FATWAKI QUALIFIANT",
+    "NOM_ETABA": "ثانوية حمان الفطواكي التأهيلية",
+    "AdresseL": "LOTISSEMENT JIHADIA  DCHEIRA EL JIHADIA",
+    "AdresseA": "تجزئة الجهادية الدشيرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OMAR AL KHAYAM QUALIFIANT",
+    "NOM_ETABA": "ثانوية عمر الخيام التأهيلية",
+    "AdresseL": "QUARTIER ILGHIATEN     DCHEIRA EL JIHADIA",
+    "AdresseA": "حي الغياثن الدشيرة",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE FAYCAL BEN ABDELAZIZ QUALIFIANT",
+    "NOM_ETABA": "ثانوية فيصل بن عبد العزيز التأهيلية",
+    "AdresseL": "Q IREHALN   DCHEIRA JIHADIA",
+    "AdresseA": "حي ارحالن الدشيرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ROUADALMAALI SCHOOL",
+    "NOM_ETABA": "رواد المعالي سكول الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": " رقم19، زنقة 863، حي الياسمين،",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AFOULKI PRESCO",
+    "NOM_ETABA": "أفولكي للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "  رقم 23، حي تكمي أوفلا،زنقة 2",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUMNIA",
+    "NOM_ETABA": "مؤسسة أمنية الخصوصية ",
+    "AdresseL": "NULL",
+    "AdresseA": "  رقم 14، حي تناعورت أيت إيدر،",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION INTISSARE",
+    "NOM_ETABA": "مؤسسة انتصار الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "  رقم 113، تجزئة بني زناسن، ال",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PLUME DOREEE",
+    "NOM_ETABA": "الريشة المذهبة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "  رقم 05، زنقة 557، شارع أبي ب",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TITRITEE",
+    "NOM_ETABA": "تيتريت الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "  رقم 195، تجزئة بني زناسن، ال",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETOILE BLANCHEE",
+    "NOM_ETABA": "النجمة البيضاء الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تكمي أوفلا، زنقة 2304، رقم ",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KANZO SALAM PRESCOLAIRE",
+    "NOM_ETABA": "كنز السلام للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 69، تجزئة الجهادية،قرب مس",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD TOFOULA ",
+    "NOM_ETABA": "رياض الطفولة الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع وادي المخازن، زنقة 520، ر",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ERRACHADE PRESCOLAIRE",
+    "NOM_ETABA": "الرشاد للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "  رقم 04، زنقة 1723، حي تكركور",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AZOHOUR PRESCOLAIRE",
+    "NOM_ETABA": "الزهور للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تكمي أوفلا، زنقة 2304،  رقم 26",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMINHAJ ALMOUNIR",
+    "NOM_ETABA": "المنهاج المنير الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المرس، شارع علي بن أبي طالب",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FADAE TIJANI",
+    "NOM_ETABA": " فضاء التجاني الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع وادي المخازن،  درب حفيظ، ",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL JASSANI QUATRE",
+    "NOM_ETABA": "الجساني 4 الخصوصية",
+    "AdresseL": "PROPRIETE ABDELMOUMEN 1; TRANC",
+    "AdresseA": "ملك عبد المومن، الشطر 3، حي ال",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTIONe narjiss",
+    "NOM_ETABA": "مؤسسة النرجس الخاصة",
+    "AdresseL": "Lot. 57/V Hay Al Jihadia Dchei",
+    "AdresseA": "Lot. 57/V  حي الدشيرة الجهادية",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Charaf Eddine",
+    "NOM_ETABA": "شرف الدين الخصوصية",
+    "AdresseL": "Rue El Khawerizmi 1817 N° 5 -C",
+    "AdresseA": "شارع الخوارزمي 1817 رقم 5 - ج.",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Fondation Education Culture, groupe banque populaire",
+    "NOM_ETABA": "الوحدة التعليمية للتربية والثقافة مؤسسة البنك الشعبي",
+    "AdresseL": "Dcheira B.P. : 70230 - Dcheira",
+    "AdresseA": "الدشيرة ص.ب.: 70230 - الدشيرة ",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL MOKHTAR SOUSSI",
+    "NOM_ETABA": "ثانوية العلامة المختار السوسي الخاصة",
+    "AdresseL": "Avenue des FAR - DCHEIRA",
+    "AdresseA": "شارع الجيش الملكي - االدشيرة",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT PRINCE",
+    "NOM_ETABA": "الأمير الصغير الخاصة",
+    "AdresseL": "N° 145 avenue BIR ANZARANE DCH",
+    "AdresseA": "رقم 145 شارع بئر انزران الدشير",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TOUR DE BLANCHE NEIGE",
+    "NOM_ETABA": "برج بيضاء الثلج",
+    "AdresseL": "LOT V6 LOTISSEMENT JIHADIA DCH",
+    "AdresseA": " V6  تجزئة الجهادية الدشيرة ال",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SENTIER DE LA REUSSITE",
+    "NOM_ETABA": "مؤسسة سبيل النجاح الخاصة",
+    "AdresseL": " AL AMANE n° 39 Al JIHADIA",
+    "AdresseA": "  حي الأمان رقم 39 الجهادية ال",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "narjiss 2",
+    "NOM_ETABA": "النرجس 2",
+    "AdresseL": "Hay Zohour N° 29 - Dcheira El ",
+    "AdresseA": "حي الزهور رقم 29 - الدشيرة الج",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Aljossour 2",
+    "NOM_ETABA": "الجسور 2 الخصوصية",
+    "AdresseL": "Hay Al Amane, Rue 155 N° 10 - ",
+    "AdresseA": "حي الأمان، زنقة 155 رقم 10 - ا",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ouahia school",
+    "NOM_ETABA": "وهيا سكول",
+    "AdresseL": "lot KIOUANE 2 av.med 5 dcheira",
+    "AdresseA": "تجزئة كيوان2  شارع محمد الخامس",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assafir al houda",
+    "NOM_ETABA": "عصافير الهدى الخصوصية",
+    "AdresseL": "dcheira",
+    "AdresseA": "الدشيرة",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTIONAL WAHAE",
+    "NOM_ETABA": "مؤسسة الواحة الخاصة",
+    "AdresseL": "N 7 angle av med el fassi ET A",
+    "AdresseA": "ملتقى شارع محمد الفاسي وجابر ب",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES JARDINS DU SAVOIR",
+    "NOM_ETABA": "   ليجاردان دي سافوار الخاصة",
+    "AdresseL": "Lot beni iznasen N° 162",
+    "AdresseA": "تجزئة بني إنزناسن رقم : 162",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IRIZIE",
+    "NOM_ETABA": "اريزي للتعليم المدرسي الخصوصي",
+    "AdresseL": "cite alnassim n20 rue 561 al j",
+    "AdresseA": "تجزئة الجهادية  C-C3",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "assafoua",
+    "NOM_ETABA": "الصفوة الخصوصية",
+    "AdresseL": "HAY TAKRKOURT",
+    "AdresseA": "حي تكركورت",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMAALI E",
+    "NOM_ETABA": "المعالي الخصوصية",
+    "AdresseL": "RUE 250 N°30 HAY EL ILHAM",
+    "AdresseA": "زنقة 255 رقم : 30 حي الإلهام",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "E.ANNAYAZIK",
+    "NOM_ETABA": "م . النيازك الخصوصية",
+    "AdresseL": "BOULEVARD EL QADI AIYAD N°88",
+    "AdresseA": "شارع القاضي عياض الرقم 88",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al ofok attarbaoui",
+    "NOM_ETABA": "الأفق التربوي الخصوصية",
+    "AdresseL": "Rue 302 lot abou tarek hay elm",
+    "AdresseA": "زنقة 302 تجزئة أبو طارق حي الم",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "margo",
+    "NOM_ETABA": "ماركو الخاصة",
+    "AdresseL": "ay essaada lapergola",
+    "AdresseA": "حي السعادة لابيركولا ",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arraed",
+    "NOM_ETABA": "الرائد الخصوصية ",
+    "AdresseL": "lot bani iznassen n 201-207 FA",
+    "AdresseA": " تجزئة بني يزناسن رقم  201/207",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al abakera",
+    "NOM_ETABA": "العباقرة للتعليم الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "شارع الحسن الثاني رقم 110 حي أ",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achbal",
+    "NOM_ETABA": "أشبال الخاصة",
+    "AdresseL": "N° 18; RUE 1607; QUARTIER SAAD",
+    "AdresseA": "رقم 18، زنقة 1607، حي السعادة،",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PASSERELLE",
+    "NOM_ETABA": "لابسغيل",
+    "AdresseL": "N° 12; RUE 352; CITE AL AMANE;",
+    "AdresseA": "رقم 12، زنقة 352، حي الأمان، ا",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TINMAL",
+    "NOM_ETABA": "مؤسسة تنمل للتعليم الأولي",
+    "AdresseL": "N° 169; LOT BNI IZNASSEN; DCHE",
+    "AdresseA": "رقم 169 ، تجزئة بني يزناسن، ال",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "UNIVERS DE L ENFANT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة عالم الطفل للتعليم الأولي",
+    "AdresseL": "N° 31; AVENUE TIZNIT; LOT FAIZ",
+    "AdresseA": "رقم 31، شارع تيزنيت ، تجزئة ال",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA TOUR DE L EDUCATION PRESCOLAIRE",
+    "NOM_ETABA": "قلعة التربية للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 01، زنقة 1005، شارع القاضي",
+    "COMMUNE": "Dcheira El Jihadia ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

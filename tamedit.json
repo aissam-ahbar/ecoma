@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL TAMEDIT ",
+    "NOM_ETABA": "ثانوية تامضيت الإعدادية",
+    "AdresseL": "douar alhanza Tamedit caidat mernissa",
+    "AdresseA": "دوار الهنزة جماعة تمضيت مرنيسة",
+    "COMMUNE": "Tamedit",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS MEHDI BNOU TOUMARTE",
+    "NOM_ETABA": "م/م المهدي بن تومرت ",
+    "AdresseL": "DOUAR AFRAS COMMUNE TAMEDITE thar souk  TAOUNATE",
+    "AdresseA": "دوار افراس جماعة تمضيت طهر السوق تاونات",
+    "COMMUNE": "Tamedit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AOUZAY",
+    "NOM_ETABA": "م/م  أوزاي",
+    "AdresseL": "DOUAR YOUNANE COMMUNE TAMEDITE TAOUNATE",
+    "AdresseA": "دوار يونان جماعة تمضيت - تاونات",
+    "COMMUNE": "Tamedit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI ALI BEN DAOUD",
+    "NOM_ETABA": "م/م  سيدي علي بن داود",
+    "AdresseL": "DOUAR ZAOUYA COMMUNE TAMEDITE TAOUNATE",
+    "AdresseA": "دوار الزاوية جماعة تمضيت - تاونات",
+    "COMMUNE": "Tamedit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDESSALAM ERRADI",
+    "NOM_ETABA": "م/م عبد السلام الراضي ",
+    "AdresseL": "DOUAR YAHYAOITE COMMUNE TAMEDITE TAOUNATE",
+    "AdresseA": "دواريحياوت جماعة تمضيت - تاونات",
+    "COMMUNE": "Tamedit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HASSANE BNOU THABITE",
+    "NOM_ETABA": "م/م حسان بن تابت",
+    "AdresseL": "DOUAR TAMEDITE COMMUNE TAMEDITE TAOUNATE",
+    "AdresseA": "دوارتمضيت جماعة تمضيت - تاونات  ",
+    "COMMUNE": "Tamedit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALI BNOU ABI TALIB",
+    "NOM_ETABA": "م/م علي بن ابي طالب",
+    "AdresseL": "DOUAR AIN BARDA COMMUNE TAMEDITE TAOUNATE",
+    "AdresseA": "دوارعين باردة جماعة تمضيت - تاونات",
+    "COMMUNE": "Tamedit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S OMAR BNOU LKHATTABE",
+    "NOM_ETABA": "م/م عمر بن الخطاب",
+    "AdresseL": "DOUAR TAFZA COMMUNE TAMEDITE TAOUNATE",
+    "AdresseA": "دوار  تافزة جماعة تمضيت - تاونات",
+    "COMMUNE": "Tamedit",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

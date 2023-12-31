@@ -1,0 +1,162 @@
+[
+  {
+    "NOM_ETABL": "ABDELLAH GANNOUNE",
+    "NOM_ETABA": "عبد الله كنون",
+    "AdresseL": "JNANE MEDIOUNA COMMUNE RURALE MEJJATIA",
+    "AdresseA": "جنان مديونة الجماعة القروية المجاطية",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JABIR BNOU HAYANE",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "LOTISSMENT FADAEATE NOUZHA 2 MEDIOUNA",
+    "AdresseA": "تجزئة فضاءات النزهة 2 مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMAM CHATIBI",
+    "NOM_ETABA": "الإمام الشاطبي",
+    "AdresseL": "BOULEVARD HASSAN II MEDIOUNA",
+    "AdresseA": "شارع الحسن الثاني مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELWAHED EL MARRAKCHI",
+    "NOM_ETABA": "عبدالواحد المراكشي",
+    "AdresseL": "HAY AL QODS MUNINIPALITE MEDIOUNA",
+    "AdresseA": "حي القدس بلدية مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Province: Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY DRISS EL AZHAR",
+    "NOM_ETABA": "مولاي ادريس الأزهر",
+    "AdresseL": " AVENUE MOHAMMED  V MEDIOUNA",
+    "AdresseA": "  شارع محمد الخامس بلدية مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "11-janv.",
+    "NOM_ETABA": "م 11 يناير",
+    "AdresseL": "AV  MOHAMED V   MEDIOUNA",
+    "AdresseA": "شارع محمد الخامس بلدية مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BELAARBI",
+    "NOM_ETABA": "اولاد بلعربي",
+    "AdresseL": "DOUAR MERS SOUKAR COMMUNE MEDIOUNA",
+    "AdresseA": "دوار مرس السكار بلدية مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RAHMA OUM CHOUHADA",
+    "NOM_ETABA": "رحمة أم الشهداء",
+    "AdresseL": "LOTISSEMENT BELFAKIR MUNICIPALITE MEDIOUNA",
+    "AdresseA": "تجزئة بلفقير بلدية مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MALIKA EL FASSI",
+    "NOM_ETABA": "مليكة الفاسي",
+    "AdresseL": "PROJET EL KASSABA MUNICIPALITE MEDIOUNA",
+    "AdresseA": "مشروع القصبة بلدية مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ARROUMI",
+    "NOM_ETABA": "ابن الرومي",
+    "AdresseL": "LOTISSEMENT DIAR SAADA MEDIOUNA",
+    "AdresseA": "تجزئة ديار السعادة مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RABIAA AL ADAOUIA",
+    "NOM_ETABA": "رابعة العدوية",
+    "AdresseL": "LOTISSEMENT ANNOUZHA ZONE INDUSTRIELLE MEDIOUNA",
+    "AdresseA": "تجزئة اصال مديونة الدار البيضاء",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMINA BENT OUAHB",
+    "NOM_ETABA": "آمنة بنت وهب",
+    "AdresseL": "LOTISSEMENT JAOUHARA MEDIOUNA",
+    "AdresseA": "تجزئة جوهرة مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ATLAS",
+    "NOM_ETABA": "الأطلس",
+    "AdresseL": "AVENUE  MOHAMMED V MEDIOUNA",
+    "AdresseA": "شارع محمد الخامس مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN BATOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "BD ALLAL BEN ABDELLAH MEDIOUNA",
+    "AdresseA": "شارع علال بن عبدالله مديونة",
+    "COMMUNE": "Mediouna",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AJYAL ASSALAM",
+    "NOM_ETABA": "أجيال السلام",
+    "AdresseL": "AVENUE MOHAMMED V MEDIOUNA",
+    "AdresseA": "شارع محمد الخامس مديونة",
+    "COMMUNE": "Mediouna ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOUTALLATE",
+    "NOM_ETABA": "المثلث",
+    "AdresseL": "AVENUE  ALLAL BEN ABDELLAH MED",
+    "AdresseA": "   شارع علال بن عبد الله مديون",
+    "COMMUNE": "Mediouna ",
+    "PROVINCE": "Médiouna",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

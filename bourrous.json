@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "LAHLIOUATE CENTRE",
+    "NOM_ETABA": "لحليوات المركزية",
+    "AdresseL": "DOUAR LAHLIWAT COMMUNE BOUROUS",
+    "AdresseA": "دوار لحليوات",
+    "COMMUNE": "Bourrous",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD CHERIF CENTRE",
+    "NOM_ETABA": "اولاد شريف المركزية",
+    "AdresseL": "DOUAR OULED CHRIF COMMUNE BOUROUS",
+    "AdresseA": "دوار اولاد شريف",
+    "COMMUNE": "Bourrous",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

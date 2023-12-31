@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ZOHR",
+    "NOM_ETABA": "الثانوية الإعدادية ابن زهر",
+    "AdresseL": "LAHNIBLATE  COMMUNE LAMRASLA",
+    "AdresseA": "الحنيبلات جماعة لمراسلة",
+    "COMMUNE": "Lamrasla",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "RZOUGATE",
+    "NOM_ETABA": "م/م الرزوكات",
+    "AdresseL": "DOUAR RZOUGATE COMMUNE LAMRASLA",
+    "AdresseA": "دوار الرزوكات جماعة لمراسلة",
+    "COMMUNE": "Lamrasla",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HANBAL",
+    "NOM_ETABA": "م/م ابن حنبل",
+    "AdresseL": "OULAD NAGA EL HAMRI COMMUNE LMRASLA",
+    "AdresseA": "اولاد الناقة حمري جماعة لمراسلة",
+    "COMMUNE": "Lamrasla",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SBABHA",
+    "NOM_ETABA": "م/م الصبابحة",
+    "AdresseL": "DOUAR SBABHA  COMMUNE LAMRASLA",
+    "AdresseA": "دوار الصبابحة جماعة لمراسلة",
+    "COMMUNE": "Lamrasla",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMRASLA",
+    "NOM_ETABA": "م/م لمراسلة",
+    "AdresseL": "DOUAR LAMRASLA   COMMUNE LAMRASLA",
+    "AdresseA": "دوار لمراسلة جماعة لمراسلة",
+    "COMMUNE": "Lamrasla",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

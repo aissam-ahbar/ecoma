@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "SS DCHICHA",
+    "NOM_ETABA": "م/م الدشيشة الابتدائية",
+    "AdresseL": "DOUAR DCHICHA CTAGHRAMT ",
+    "AdresseA": "دوار الدشيشة ، جماعة تغرامت",
+    "COMMUNE": "Taghramt",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OUAD AL MARSA",
+    "NOM_ETABA": "م/م واد المرسى  الابتدائية",
+    "AdresseL": "DOUAR OUAD AL MARSSA CTAGHRAMT ",
+    "AdresseA": "دوار واد المرسى ، جماعة تغرامت",
+    "COMMUNE": "Taghramt",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAGHRAMT ",
+    "NOM_ETABA": "م/م تغرامت الابتدائية",
+    "AdresseL": "DOUAR TAGHRAMT COMMUNE TAGHRAMT ",
+    "AdresseA": "دوار تغرامت جماعة تغرامت",
+    "COMMUNE": "Taghramt",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BIN AL OUIDANNE",
+    "NOM_ETABA": "م/م بين الويدان الابتدائية",
+    "AdresseL": "DOUAR BIN AL OUIDANNE Commune TAGHRAMT",
+    "AdresseA": "دوار بين الويدان تغرامت",
+    "COMMUNE": "Taghramt",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MRAH DEBANE",
+    "NOM_ETABA": "م/م أمراح الدبان الابتدائية",
+    "AdresseL": "DOUAR MRAH DEBANE COMMUNE TAGHRAMT  FAHS ANJRA",
+    "AdresseA": "دوار امراح الدبان جماعة تغرامت إقليم الفحص أنجرة",
+    "COMMUNE": "Taghramt",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS Daher",
+    "NOM_ETABA": "م/م الداهر الابتدائية",
+    "AdresseL": "DOUAR Daher CoMMUne TAGHRAMT  FAHS ANJRA",
+    "AdresseA": "مدشر الداهر جماعة تغرامت إقليم الفحص أنجرة",
+    "COMMUNE": "Taghramt",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN BOUKHALFA",
+    "NOM_ETABA": "م/م عين بوخلفة الابتدائية",
+    "AdresseL": "DOUAR AiN BOUKhaLFA Commune TAGHRAMT",
+    "AdresseA": "دوار عين بوخلفة جماعة تغرامت",
+    "COMMUNE": "Taghramt",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAGHRAMT",
+    "NOM_ETABA": "ثانوية تغرامت التأهيلية",
+    "AdresseL": "c taghramt province fahs anjra",
+    "AdresseA": "جماعة تغرامت ,عمالة فحص أنجرة",
+    "COMMUNE": "Taghramt",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

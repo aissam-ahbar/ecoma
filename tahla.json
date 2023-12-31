@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial AL MAJD",
+    "NOM_ETABA": "الثانوية الإعدادية المجد",
+    "AdresseL": "RUE RESISTANCE  TAHALA",
+    "AdresseA": "شارع المقاومة تاهلة",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TAHLA EL JADIDA",
+    "NOM_ETABA": "تاهلة الجديدة",
+    "AdresseL": "QUARTIER AL AMAL TAHALA ",
+    "AdresseA": "حي الأمل تاهلة",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MANDAR EL JAMIL",
+    "NOM_ETABA": "المنظر الجميل",
+    "AdresseL": "HAY AL MANDAR AL JAMILE TAHALA",
+    "AdresseA": "حي المنظر الجميل تاهلة",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ABDELLAH CHRIF",
+    "NOM_ETABA": "مولاي عبد الله الشريف",
+    "AdresseL": "RUE BOUHADLI TAHALA ",
+    "AdresseA": "شارع بوهدلي تاهلة",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARIK BNOU ZIAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "RUE BOUHADLI TAHALA ",
+    "AdresseA": "شارع بوهدلي تاهلة",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EDDAHAB",
+    "NOM_ETABA": "وادي الذهب",
+    "AdresseL": "HAY AL MASSIRATAHALA",
+    "AdresseA": "حي المسيرة تاهلة",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM AL BOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "QUARTIER sidi MOHAMED ESSOUIRI TAHLA ",
+    "AdresseA": "حي الفتح تاهلة",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAHALA",
+    "NOM_ETABA": "الثانوية التأهيلية تاهلة  ",
+    "AdresseL": "RUE AL ATLAS TAHALA ",
+    "AdresseA": "شارع الأطلس تاهلة ",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant TAHALA",
+    "NOM_ETABA": "الثانوية التأهيلية تاهلة ",
+    "AdresseL": "TAHALA CENTRE",
+    "AdresseA": "تاهلة المركز",
+    "COMMUNE": "Tahla",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "balsamin",
+    "NOM_ETABA": "بلسمين الخاصة",
+    "AdresseL": "Av 3 MARs tahla raza",
+    "AdresseA": "شارع 3 مارس. تاهلة",
+    "COMMUNE": "Tahla ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lazaar Aqlam",
+    "NOM_ETABA": "لزعر اقلام",
+    "AdresseL": "Boulevard Bouhadli - C.U. Taha",
+    "AdresseA": "شارع بوهدلي - ج. ح. تاهلة",
+    "COMMUNE": "Tahla ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IKHLASS",
+    "NOM_ETABA": "الإخلاص",
+    "AdresseL": "Quartier Ennahda- C. Tahla",
+    "AdresseA": "حي النهضة - ج. تاهلة",
+    "COMMUNE": "Tahla ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT LAZAR AKLAM 1",
+    "NOM_ETABA": "مؤسسة لزعر أقلام 1 ",
+    "AdresseL": "Rue bouhadli Tahla",
+    "AdresseA": "شارع بوهدلي تاهلة",
+    "COMMUNE": "Tahla ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

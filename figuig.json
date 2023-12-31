@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "AVENUE MOHAMMED BEN FARAj  FIGUIG",
+    "AdresseA": "شارع محمد بن فرج قصر زناقة",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI ABDELJABBAR",
+    "NOM_ETABA": "سيدي عبد الجبار",
+    "AdresseL": " COLLEGE SIDI ABDELJABBAR CITE ADMINISTRATIVe ",
+    "AdresseA": " ثانوية سيدي عبد الجبار الاعدادية الحي الاداري ",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Province: Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED BNOU ABDI RABBIH",
+    "NOM_ETABA": "أحمد بن عبد ربه الأندلسي",
+    "AdresseL": "AVENUE MOHAMMED V ZENAGA FIGUIG",
+    "AdresseA": "شارع محمد الخامس زناقة فجيج",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL YARMOUK",
+    "NOM_ETABA": "اليرموك",
+    "AdresseL": "HAY BAGHDAD ZENAGA  ",
+    "AdresseA": "حي بغداد زناقة",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL IMAM ALI",
+    "NOM_ETABA": "الإمام علي",
+    "AdresseL": "HAY BERKOUKAS   ZENAGA FIGUIG",
+    "AdresseA": "حي بركوكس قصر زناقة",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN RACHIK",
+    "NOM_ETABA": "ابن رشيق",
+    "AdresseL": "CITE ADMINISTRATIVE FIGUIG",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUHOUD",
+    "NOM_ETABA": "أحد",
+    "AdresseL": "ALHAMAM ELFOUKANI  FIGUIG",
+    "AdresseA": "قصر الحمام الفوقاني",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "rue chaaba ksar loudaghir",
+    "AdresseA": "شارع الشعبة قصر الوداغير",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI DARIT",
+    "NOM_ETABA": "بني داريت",
+    "AdresseL": "AVENUE MOHAMMED fraj zENAGA FIGUIG",
+    "AdresseA": "شارع محمد فرج قصر زناكة",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FALLAH",
+    "NOM_ETABA": "الفلاح",
+    "AdresseL": "bd de la résistance  KSAR LMAIZ FIGUIG",
+    "AdresseA": "شارع المقاومة قصر المعيز",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "COM",
+    "NOM_ETABA": ".كم",
+    "AdresseL": "figuig",
+    "AdresseA": "فجيج",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "PRINCE MOULAY RACHID",
+    "NOM_ETABA": "مولاي رشيد",
+    "AdresseL": "HAY BAGHDAD",
+    "AdresseA": "حي بغداد",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IMAM EL BOUKHARI",
+    "NOM_ETABA": "الإمام البخاري",
+    "AdresseL": "CITE ADMINISTRATIVE",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Figuig",
+    "PROVINCE": "Figuig",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

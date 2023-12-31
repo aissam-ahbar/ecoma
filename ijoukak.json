@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "IJOUKAK",
+    "NOM_ETABA": "اجوكاك",
+    "AdresseL": "DOUAR DAR EL ASKAR COMMUNE IJOUKAK",
+    "AdresseA": "دوار دار العسكر اجوكاك جماعة اجوكاك",
+    "COMMUNE": "Ijoukak",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGHIR",
+    "NOM_ETABA": "اغير",
+    "AdresseL": "DOUAR IGHIR COMMUNE IJOUKAK",
+    "AdresseA": "دوار اغير جماعة اجوكاك",
+    "COMMUNE": "Ijoukak",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARGA",
+    "NOM_ETABA": "تاركة",
+    "AdresseL": "DOUAR TARGA COMMUNE IJOUKAK",
+    "AdresseA": "دوار تاركة جماعة اجوكاك",
+    "COMMUNE": "Ijoukak",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL ENNAHDA",
+    "NOM_ETABA": "الثانوية الإعدادية النهضة",
+    "AdresseL": "hay elmajd1 benguerir",
+    "AdresseA": "حي المجد 1 ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL BENGUERIR",
+    "NOM_ETABA": "الثانوية الإعدادية بن جرير",
+    "AdresseL": "Hay el Warda",
+    "AdresseA": "الحي الإداري الجماعة الترابية ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCE COLLGIAL ALJADIDA",
+    "NOM_ETABA": "الثانوية الإعدادية الجــــــديـــدة",
+    "AdresseL": "Lot hay ryad 4",
+    "AdresseA": "تجزئة الرياض 4",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد المنصور الذهبي",
+    "AdresseL": "BEN GUERIR CENTRE COMMUNE BEN GUERIR",
+    "AdresseA": "بلدية ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED ELMAKHAZEN",
+    "NOM_ETABA": "الثانوية الإعدادية واد المخازن",
+    "AdresseL": "HAY AFRIKIA COMMUNE BEN GUERIR",
+    "AdresseA": "حي افريقيا",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL FARABI",
+    "NOM_ETABA": "الثانوية الإعدادية الفارابي",
+    "AdresseL": "BEN GUERIR",
+    "AdresseA": "بلدية ابن ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MASSIRA",
+    "NOM_ETABA": "الثانوية الإعدادية المسيرة",
+    "AdresseL": "BEN GUERIR",
+    "AdresseA": "ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IDRISS LA MHAMDI",
+    "NOM_ETABA": "إدريس المحمدي",
+    "AdresseL": "hay el majd  bengrir   rhamna",
+    "AdresseA": "حي المجد ابن جرير   الرحامنة",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL OUAHDA",
+    "NOM_ETABA": "مدرسة الوحدة",
+    "AdresseL": "QUARTIER EZAWA BEN GUERIR CENTRE",
+    "AdresseA": "حي الزاوية ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL HAJ AHMED EDIOURI",
+    "NOM_ETABA": "مدرسة الحاج احمد الديوري",
+    "AdresseL": "RUE BIR ENZARANE BEN GUERIR",
+    "AdresseA": "شارع بئر انزران",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL HASSAN BOUAYAD",
+    "NOM_ETABA": "مدرسة الحسن بوعياد",
+    "AdresseL": "HAY Al Majd COMMUNE BEN GUERIR",
+    "AdresseA": "حي المجد",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABOU BAKR ESSADDIQ",
+    "NOM_ETABA": "مدرسة ابوبكر الصديق",
+    "AdresseL": "HAY AFRIQUIA COMMUNE BEN GUERIR",
+    "AdresseA": "حي افريقيا  ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AHMED BALAFRIJ",
+    "NOM_ETABA": "مدرسة أحمد بلافريج",
+    "AdresseL": "hay CHAIBATE COMMUNE BEN GUERIR",
+    "AdresseA": "حي الشعيبات",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE HASSAN BEN OMAR ZAHRAOUI",
+    "NOM_ETABA": "مدرسة الحسن بن عمر الزهراوي",
+    "AdresseL": "HAY EL FARAH",
+    "AdresseA": "حي الفرح رقم 624ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MASIRA",
+    "NOM_ETABA": "مدرسة المسيرة الخضراء",
+    "AdresseL": "BEN GUERIR CENTRE COMMUNE BEN GUERIR",
+    "AdresseA": "ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NOUAJI",
+    "NOM_ETABA": "مدرسة النواجي",
+    "AdresseL": "ben guerir",
+    "AdresseA": "دوار النواجي",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALKHANSAE",
+    "NOM_ETABA": "مدرسة الخنساء",
+    "AdresseL": "ben guerir",
+    "AdresseA": "حي الرحمة 2",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBNOU TOFAIL",
+    "NOM_ETABA": "مدرسة ابن طفيل",
+    "AdresseL": "BEN GUERIR CENTRE COMMUNE BEN GUERIR",
+    "AdresseA": "ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL FADILA",
+    "NOM_ETABA": "مدرسة الفضيلة",
+    "AdresseL": "HAY ELMAJD BENGUERIR RHAMNA",
+    "AdresseA": "حي المجد بلدية ابن جرير اقليم  الرحامنة",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALFARAH",
+    "NOM_ETABA": "مدرسة الفرح",
+    "AdresseL": "benguerir",
+    "AdresseA": "بن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUM EL MOUMININE",
+    "NOM_ETABA": "مدرسة أم المؤمنين",
+    "AdresseL": "hay el majd",
+    "AdresseA": "حي المجد",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LA PRINCESSE LALLA KHADIJA",
+    "NOM_ETABA": "مدرسة الأميرة لالة خديجة",
+    "AdresseL": "Lot Ryad",
+    "AdresseA": "تجزئة الرياض",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ECHAHID SALAH ESSERGHINI",
+    "NOM_ETABA": "الثانوية التأهيلية الشهيد صالح السرغيني",
+    "AdresseL": "COMMUNE BEN GUERIR",
+    "AdresseA": "بلدية ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELLAH IBRAHIM",
+    "NOM_ETABA": "الثانوية التأهيلية عبدالله ابراهيم",
+    "AdresseL": "BEN GUERIR CENTRE COMMUNE BEN GUERIR",
+    "AdresseA": "بلدية ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE ERRHAMNA",
+    "NOM_ETABA": "الثانوية التقنية الرحامنة",
+    "AdresseL": "COMMUNE  BEN GUERIR",
+    "AdresseA": "بلدية ابن جرير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ESSALAM",
+    "NOM_ETABA": "الثانوية التأهيلية السلام",
+    "AdresseL": "hay elmajd",
+    "AdresseA": "حي المجد",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ARRAZY",
+    "NOM_ETABA": "الثانوية التأهيلية الرازي",
+    "AdresseL": "Lotissement Jnane Elkhayr",
+    "AdresseA": "تجزئة جنان الخير",
+    "COMMUNE": "Ben Guerir",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Sabil Arrachad 2",
+    "NOM_ETABA": "سبيل الرشاد 2",
+    "AdresseL": "163 hay essalame",
+    "AdresseA": "تجزئة الكدية 163   حي السلام  ",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole anexe essaada",
+    "NOM_ETABA": "مؤسسة ملحقة السعادة",
+    "AdresseL": "HAY SALAM N°174",
+    "AdresseA": "رقم 174 حي السلام",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA RESIDENCE",
+    "NOM_ETABA": "مجموعة مدارس الإقامة",
+    "AdresseL": "Cité Moulay Rachid ",
+    "AdresseA": "حي مولاي رشيد",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMINE",
+    "NOM_ETABA": "أمين",
+    "AdresseL": "municipalite ben guerir",
+    "AdresseA": "بلدية ابن جرير",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sabil Arrachad 1",
+    "NOM_ETABA": "سبيل الرشاد 1",
+    "AdresseL": "19, HAY ESSALAM BENGUERIR",
+    "AdresseA": "حي السلام رقم 19 ابن جرير ",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOUSTAkBALI",
+    "NOM_ETABA": "مستقبلي",
+    "AdresseL": "MUNICIPALITE BEN GUERIR",
+    "AdresseA": "بلدية ابن جرير",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement El Majd",
+    "NOM_ETABA": "مؤسسة المجد للتعليم الخصوصي",
+    "AdresseL": "N° 92, Hay El Farah - C.U. Ben",
+    "AdresseA": "رقم 92، حي الفرح - - ابن جرير",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institut de Promotion Socio- Educative",
+    "NOM_ETABA": "معهد الترقية الإجتماعية و التربوية",
+    "AdresseL": "Groupe Office Cherifien des Ph",
+    "AdresseA": "مجموعة المكتب الشريف للفوسفاط ",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Najah",
+    "NOM_ETABA": "مؤسسة النجاح",
+    "AdresseL": "N° 17, Lotissement Salam - Ben",
+    "AdresseA": "رقم 17، حي السلام - ابن كرير",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement Amal ben guerir",
+    "NOM_ETABA": "مؤسسة أمل ابن جرير",
+    "AdresseL": "N° 181, Lotissement El Kodia -",
+    "AdresseA": "رقم 181، تجزئة الكدية - ابن جر",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sabil Arrachad 3",
+    "NOM_ETABA": "سبيل الرشاد 3",
+    "AdresseL": "n° 1934 - 1935 - 1936 -1937 jE",
+    "AdresseA": "رقم 1934 -1935 -1936- 1937 جنا",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE MOHAMMED VI D'EXCELLENCE",
+    "NOM_ETABA": "ثانوية محمد السادس للتميز\" للتعليم المدرسي الخصوصي\"",
+    "AdresseL": "NULL",
+    "AdresseA": "المدينة الخضراء ابن جرير",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "lajoconde d enseignement scolaire",
+    "NOM_ETABA": "لاجوكند للتعليم المدرسي الخصوصي",
+    "AdresseL": "JNANE el kheir",
+    "AdresseA": "جنان الخير",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "achbal abi chouaib groupe scolaire",
+    "NOM_ETABA": "مؤسسة أشبال أبي شعيب",
+    "AdresseL": "1125/1126 lot jnane el kheir ",
+    "AdresseA": "1125/1126 تجزئة جنان الخير",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ajial el farah",
+    "NOM_ETABA": "أجيال الفرح للتعليم المدرسي الخصوصي",
+    "AdresseL": "205 hay el farah benguerir",
+    "AdresseA": "رقم 205 حي الفرح - ابن جرير",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IPSE POUR L ENSEIGNEMENTE",
+    "NOM_ETABA": "معهد الترقية الإجتماعية والتعليمية للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة المدينة الخضراء محمد الس",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SABIL ARRACHAD 4 POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "سبيل الرشاد 4 للتعليم الخصوصي",
+    "AdresseL": "LOT JNANE ELKHAIRE 2411/2412/2",
+    "AdresseA": "تجزئة جنان الخير رقم2411/2412/",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement El Irfane Benguerir",
+    "NOM_ETABA": "مؤسسة العرفان ابن جرير الخاصة",
+    "AdresseL": "Lotissement Jnane El Khaire N°",
+    "AdresseA": "تجزئة جنان الخير، رقم 2731-273",
+    "COMMUNE": "Ben Guerir ",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

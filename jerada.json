@@ -1,0 +1,232 @@
+[
+  {
+    "NOM_ETABL": "COLLÈGE IBN EL HAYTAM",
+    "NOM_ETABA": "إعدادية ابن الهيثم",
+    "AdresseL": "HASSI BLAL CENTRE JRADA",
+    "AdresseA": "حاسي بلال جرادة",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE JERADA",
+    "NOM_ETABA": "إعدادية جرادة ",
+    "AdresseL": "HAY ESSAADA JRADA",
+    "AdresseA": "حي السعادة",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE SIDI MOHAMED BEN ABDELLAH",
+    "NOM_ETABA": "إعدادية سيدي محمد بن عبدالله",
+    "AdresseL": "Hay Sidi Mohamed ben Abdellah",
+    "AdresseA": "حي سيدي محمد بن عبد الله ",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "COLLÈGE IMAM AL BOUKHARI",
+    "NOM_ETABA": "إعدادية الإمام البخاري",
+    "AdresseL": "HAY ELMASSIRA  JeRADA",
+    "AdresseA": "حي المسيره",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN SINA",
+    "NOM_ETABA": "ثانوية ابن سينا الاعدادية ",
+    "AdresseL": "HAY ZERKTOUNI JERADA",
+    "AdresseA": "حي الزرقطوني جرادة",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "hay IBN SINA JRADA",
+    "AdresseA": "حي ابن سينا",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "BOULEVARD laresistance JRADA",
+    "AdresseA": "شارع المقاومة",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANOUAL",
+    "NOM_ETABA": "انوال",
+    "AdresseL": "HAY abd elkarim elkhatabi JRADA",
+    "AdresseA": "حي عبد الكريم الخطابي",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI BAKR SADDIK",
+    "NOM_ETABA": "أبي بكر الصديق",
+    "AdresseL": "HAY ELMASSIRA HASSI BLAL JRADA",
+    "AdresseA": "حي المسيرة حاسي بلال ",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABI ABID ELBAKRI",
+    "NOM_ETABA": "ابي عبيد البكري",
+    "AdresseL": "HAY ABI ABID ELBAKRI HASSI BLAL JRADA",
+    "AdresseA": "حي ابي عبيد البكري",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL AZHAR",
+    "NOM_ETABA": "الازهار",
+    "AdresseL": "HAY ELOUAHDA HASSI BLAL JRADA",
+    "AdresseA": "حي الوحدة حاسي بلال",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL INBIAT",
+    "NOM_ETABA": "الانبعاث",
+    "AdresseL": "HAY ELMOJAHAZ  JRADA",
+    "AdresseA": "الحي المجهز",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EDAHAB",
+    "NOM_ETABA": "واد الدهب",
+    "AdresseL": "HAY OUED EDAHAB HASSI BLAL JRADA",
+    "AdresseA": "حي واد الدهب",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL OUAFA",
+    "NOM_ETABA": "الوفاء",
+    "AdresseL": "QUARTIER OULAD SIDI ALI    JRADA",
+    "AdresseA": "حي اولاد سيدي علي",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAFAHIM EL MAGHRIB 1",
+    "NOM_ETABA": "مفاحم المغرب 1",
+    "AdresseL": "RUE HASSAN II JERADA",
+    "AdresseA": "حي الرازي شارع الحسن الثاني",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "HAY ELHANAE HASSI BLAL COMMUNE JRADA",
+    "AdresseA": "حي الهناء حاسي بلال جماعة جرادة",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCE EZZARKTOUNI",
+    "NOM_ETABA": "ثانوية الزرقطوني التأهيلية",
+    "AdresseL": "AVENUE HASSANE 2 JERADA",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE JABER IBN HAYANE",
+    "NOM_ETABA": "ثانوية جابر بن حيان التأهيلية",
+    "AdresseL": "HAY EL MASSIRA HASSI BLAL JRADA",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ALFATH QUALIFIANT",
+    "NOM_ETABA": "ثانوية الفتح التأهيلية",
+    "AdresseL": "HAY SAADA JERADA",
+    "AdresseA": "حي السعادة جرادة",
+    "COMMUNE": "Jerada",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "alhikma",
+    "NOM_ETABA": "الحكمة",
+    "AdresseL": "",
+    "AdresseA": "جرادة",
+    "COMMUNE": "Jerada ",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "intilak",
+    "NOM_ETABA": "انطلاق",
+    "AdresseL": "",
+    "AdresseA": "حي السلام قرب ثانوية الفتح",
+    "COMMUNE": "Jerada ",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IKRAE",
+    "NOM_ETABA": "اقرأ",
+    "AdresseL": "Hay Eljadid N°23 JERADA",
+    "AdresseA": "الحي الجديد رقم 23 جرادة",
+    "COMMUNE": "Jerada ",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Irfane",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "Bd. Hassan II",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Jerada ",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEEÉ COLLÈGIALE BNI MSKINE",
+    "NOM_ETABA": "الثانوية الاعدادية بني مسكين ",
+    "AdresseL": "commune El Brouj ",
+    "AdresseA": "جماعة البروج ",
+    "COMMUNE": "El Borouj",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI NACER CENTRALE",
+    "NOM_ETABA": "مدرسة سيدي ناصر",
+    "AdresseL": "QUARTIER ADMINISTRATIF",
+    "AdresseA": "الحي الاداري",
+    "COMMUNE": "El Borouj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EDDAKHLA",
+    "NOM_ETABA": "مدرسة الداخلة",
+    "AdresseL": "HAY OULAD GHAlEM",
+    "AdresseA": "حي اولاد غالم",
+    "COMMUNE": "El Borouj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI HOREIRA",
+    "NOM_ETABA": "مدرسة أبي هريرة",
+    "AdresseL": "hay ouled ghALEM",
+    "AdresseA": "حي اولاد غالم",
+    "COMMUNE": "El Borouj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI MESKINE",
+    "NOM_ETABA": "مدرسة بني مسكين",
+    "AdresseL": "douar OULED BOUCHAIr",
+    "AdresseA": "دوار اولاد بوشعير",
+    "COMMUNE": "El Borouj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALMELALIA",
+    "NOM_ETABA": "الملالية",
+    "AdresseL": "municipalite elbrouje",
+    "AdresseA": "بلدية البروج",
+    "COMMUNE": "El Borouj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEe qualfiant EL BOROUJ",
+    "NOM_ETABA": "الثانوية التأهيلية البروج",
+    "AdresseL": "HAY OULAD GHANEM COMMUNE ELBOROUJ",
+    "AdresseA": "حي اولاد غالم",
+    "COMMUNE": "El Borouj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE RAHAL MESKINI",
+    "NOM_ETABA": "الثانوية التأهيلية رحال المسكني",
+    "AdresseL": "bd MOHAMED 6",
+    "AdresseA": "شارع محمد السادس",
+    "COMMUNE": "El Borouj",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "gs shams el bourouj",
+    "NOM_ETABA": "م.م شمس البروج",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة 15 الحي الإداري البروج",
+    "COMMUNE": "El Borouj ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al jayl essayd",
+    "NOM_ETABA": "الجيل الصاعد",
+    "AdresseL": "NULL",
+    "AdresseA": "44 شارع رحال المسكيني حي اولاد",
+    "COMMUNE": "El Borouj ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL ABRAJ",
+    "NOM_ETABA": "الابراج",
+    "AdresseL": "BD MOHAMED V H. ELMALLALIA ELB",
+    "AdresseA": "حي الملالية . شارع محمد الخامس",
+    "COMMUNE": "El Borouj ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "arraid al arabi",
+    "NOM_ETABA": "الرائد العربي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي لبكاكشة",
+    "COMMUNE": "El Borouj ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

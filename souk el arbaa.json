@@ -1,0 +1,232 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BENI MALEK",
+    "NOM_ETABA": "الثانوية الاعدادية بني مالك",
+    "AdresseL": "QUARTIER OULED BENSBAA",
+    "AdresseA": "حي اولاد بن السبع",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOUAD BNOU JABAL",
+    "NOM_ETABA": "الثانوية الاعدادية معاذ بن جبل",
+    "AdresseL": "QUARTIER administratifSOUK EL ARBAA",
+    "AdresseA": "الحي الإداري سوق الار بعاء",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SALAH EDDINE EL AYOUBI",
+    "NOM_ETABA": " الثانوية الاعدادية صلاح الدين الايوبي",
+    "AdresseL": "QUARTIER INDUSTRIEL  COMMUNE souk larba du gharb",
+    "AdresseA": "الحي الصناعي جماعة سوق أربعاء الغرب ",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL GHARB",
+    "NOM_ETABA": "الثانوية الإعدادية الغرب",
+    "AdresseL": "avenue bir anzarane COMMUNE souk el arbaa du GHARB",
+    "AdresseA": "شارع بئر انزران جماعة سوق الاربعاء",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MOURABITINE",
+    "NOM_ETABA": "المرابطين",
+    "AdresseL": "HAY HIND  SOUK EL ARBAA GHARB",
+    "AdresseA": "حي هند مجموعة الأمل سوق أربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOLHAKAT SAIDA ZINEB",
+    "NOM_ETABA": "ملحقة السيدة زينب",
+    "AdresseL": "RUE MOHAMED BEN AHMED ERRACHDI SOUK ARBIAA ELGHARB",
+    "AdresseA": "زنقة محمد بن أحمد الراشدي",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HAY EL IDARI",
+    "NOM_ETABA": "الحي الإداري",
+    "AdresseL": "QUARTIER ADMINISTRATIF SOUK ARBIAA ELGHARB",
+    "AdresseA": "الحي الاداري سوق الأربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY ASSALAM  1",
+    "NOM_ETABA": "حي السلام 1",
+    "AdresseL": "groupe dakhla hay essalam  souk laarba du gharb",
+    "AdresseA": "مجموعة الداخلة حي السلام سوق اربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DRISS ALAZHAR",
+    "NOM_ETABA": "إدريس الأزهر",
+    "AdresseL": "av almadariss   SOUK ARBIAA ELGHARB",
+    "AdresseA": "شارع المدارس سوق أربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAADIYINE",
+    "NOM_ETABA": "السعديين",
+    "AdresseL": "rue des écoles  SOUK ARBIAA ELGHARB",
+    "AdresseA": "شارع المدارس سوق أربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL HAY EL JADID",
+    "NOM_ETABA": "الحي الجديد",
+    "AdresseL": "hay eljadid  SOUK ARBAA ELGHARB",
+    "AdresseA": "الحي الجديد  سوق اربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY ASSALAM 2",
+    "NOM_ETABA": "حي السلام 2",
+    "AdresseL": "HAY HIND SOUK ARBIAA ELGHARB",
+    "AdresseA": "حي هند سوق أربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BEN SBAA",
+    "NOM_ETABA": "اولاد بن السبع",
+    "AdresseL": "OULED BEN SBAA  ",
+    "AdresseA": "دوار اولادبن السبع  ",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MARINIYINE",
+    "NOM_ETABA": "المرينيين",
+    "AdresseL": "OULAD BEN SBAE SOUK EL ARBIAA ",
+    "AdresseA": "أولاد بن سبع سوق الاربعاء",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ABDELLAH CHRIF",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي عبد الله الشريف",
+    "AdresseL": "SOUK EL ARBAA",
+    "AdresseA": "سوق الاربعاء",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI AISSA",
+    "NOM_ETABA": " الثانوية التأهيلية سيدي عيسى",
+    "AdresseL": "AV ABDELMOUMEN BEN ALI  SOUK EL ARBAA",
+    "AdresseA": "شارع عبد المومن بن علي سوق اربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL AMIR MOULAY EL HASSAN",
+    "NOM_ETABA": " الثانوية التأهيلية الأمير مولاي الحسن",
+    "AdresseL": "SOUK EL ARBAA",
+    "AdresseA": "سوق أربعاء الغرب",
+    "COMMUNE": "Souk El Arbaa",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ARRAYANE",
+    "NOM_ETABA": "الريان",
+    "AdresseL": "rue chahid houcine ben ali n35",
+    "AdresseA": "زنقة الشهيد الحسين بن علي رقم ",
+    "COMMUNE": "Souk El Arbaa ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALFADAE ATTARBAOUI",
+    "NOM_ETABA": "الفضاء التربوي",
+    "AdresseL": "Rue el hassan ben ali residanc",
+    "AdresseA": "اقامة الربيع زنقة الحسين بن عل",
+    "COMMUNE": "Souk El Arbaa ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZOHOUR EL MAARIFA",
+    "NOM_ETABA": "زهور المعرفة",
+    "AdresseL": "N° 9, Hay Takadoum SOUK EL ARB",
+    "AdresseA": "رقم 9، حي التقدم سوق الاربعاء ",
+    "COMMUNE": "Souk El Arbaa ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL GHARBE",
+    "NOM_ETABA": "مجموعة مدارس الغرب",
+    "AdresseL": "LOT HIND 5 SOUK EL ARBIAA",
+    "AdresseA": "تجزئة سوريا رقم 5 حي هند سوق ا",
+    "COMMUNE": "Souk El Arbaa ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL RIANE 2",
+    "NOM_ETABA": "مؤسسة الريان 2",
+    "AdresseL": "Avenue houcine ben ali souk el",
+    "AdresseA": "شارع الحسين بن علي سوق الاربعا",
+    "COMMUNE": "Souk El Arbaa ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement tafaouk al gharb ",
+    "NOM_ETABA": "مؤسسة التفوق الغرب الخصوصية",
+    "AdresseL": "quartier industriel av allal b",
+    "AdresseA": "دار المجدوب الرسم العقاري R/45",
+    "COMMUNE": "Souk El Arbaa ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

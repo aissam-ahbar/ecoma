@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "Lycée collègial OMAR IBN AL KHATTAB",
+    "NOM_ETABA": "ثانوية عمر بن الخطاب الإعدادية",
+    "AdresseL": "COMMUNE IGHZRANE",
+    "AdresseA": "جماعة إغزران",
+    "COMMUNE": "Ighzrane",
+    "PROVINCE": "Province: Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Ss IBNOU KHALDOUN Centre",
+    "NOM_ETABA": "م/م ابن خلدون-المركز",
+    "AdresseL": "ighazrane",
+    "AdresseA": "إغزران",
+    "COMMUNE": "Ighzrane",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss ICHAMLALEN Centre",
+    "NOM_ETABA": "م/ إشملالن-المركز",
+    "AdresseL": "DOUAR ICHAMLALEN",
+    "AdresseA": "دوار إشملالن",
+    "COMMUNE": "Ighzrane",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss NAHDA Centre",
+    "NOM_ETABA": "م/م النهضة-المركز",
+    "AdresseL": "douar IFRAH ighazrane",
+    "AdresseA": "دوار إفرح إغزران",
+    "COMMUNE": "Ighzrane",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S TARIK IBN ZIAD",
+    "NOM_ETABA": "م/م  طارق بن زياد",
+    "AdresseL": "DOUAR BAB OUANDAR COMMUNE RGHIOUA TAOUNATE",
+    "AdresseA": "دوار باب وندار جماعة ارغيوة - تاونات",
+    "COMMUNE": "Rghioua",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "م/م  علال بن عبد الله",
+    "AdresseL": "DOUAR BOUAZOUNE COMMUNE RGHIOUA TAOUNATE",
+    "AdresseA": "دوار بوعزون جماعة الرغيوة - تاونات",
+    "COMMUNE": "Rghioua",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

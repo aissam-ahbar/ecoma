@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "S S SIDI KAOUKI",
+    "NOM_ETABA": "م.م.سيدي كاوكي   ",
+    "AdresseL": "DOUAR IFRAN SIDI KAOUKI",
+    "AdresseA": "دوار ايفران",
+    "COMMUNE": "Sidi Kaouki",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IBN SINA",
+    "NOM_ETABA": "م.م.ابن سينا",
+    "AdresseL": "DOUAR BOUTAZART SIDI KAOUKI",
+    "AdresseA": "دوار بوتزارت سيدي كوكي",
+    "COMMUNE": "Sidi Kaouki",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

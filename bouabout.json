@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED  V",
+    "NOM_ETABA": "الثانوية الإعدادية محمد الخامس",
+    "AdresseL": "Centre com bouabout CHICHAOUA",
+    "AdresseA": "مركز جماعة بوابوض شيشاوة",
+    "COMMUNE": "Bouabout",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "BOUABOUT",
+    "NOM_ETABA": "بوابوض",
+    "AdresseL": "DOUAR BOUABOUT COMMUNE BOUABOUT CERCLE MTOUGGA PRO",
+    "AdresseA": "دوار  بوابوض جماعة بوابوض دائرة متوكة اقليم شيشاوة",
+    "COMMUNE": "Bouabout",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ADDARBOUABOUT",
+    "NOM_ETABA": "أدار-بوابوض",
+    "AdresseL": "DOUAR ADDAR COMMUNE BOUABOUT",
+    "AdresseA": "دوار  أدار-بوابوض",
+    "COMMUNE": "Bouabout",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGMMOUT",
+    "NOM_ETABA": "تكموت",
+    "AdresseL": "DOUAR TAGMMOUT COMMUNE BOUABOUT",
+    "AdresseA": "دوار  تكموت",
+    "COMMUNE": "Bouabout",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TINELLEFT",
+    "NOM_ETABA": "تنلفت",
+    "AdresseL": "DOUAR TINELLEFT COMMUNE BOUABOUT",
+    "AdresseA": "دوار  تنلفت",
+    "COMMUNE": "Bouabout",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANZIG",
+    "NOM_ETABA": "انزيك",
+    "AdresseL": "DOUAR ANZIG COMMUNE BOUABOUT",
+    "AdresseA": "دوار انزيك",
+    "COMMUNE": "Bouabout",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AFETTAS",
+    "NOM_ETABA": "أفتاس",
+    "AdresseL": "DOUAR AFETTAS COMMUNE BOUABOUT",
+    "AdresseA": "دوار أفتاس",
+    "COMMUNE": "Bouabout",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

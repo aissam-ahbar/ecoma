@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IGUISSEL",
+    "NOM_ETABA": "الثانوية الإعدادية إكيسل",
+    "AdresseL": "DOUAR IGUISSEL CENTRE",
+    "AdresseA": "دوار اكيسل المركز",
+    "COMMUNE": "Abaynou",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S IMAM ALI BEN ABITALEB",
+    "NOM_ETABA": "م م الامام علي بن ابي طالب",
+    "AdresseL": "IGUISSEL COMMUNE ABAYNOU",
+    "AdresseA": "اكيسل جماعة اباينو",
+    "COMMUNE": "Abaynou",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TOUTLINE",
+    "NOM_ETABA": "م م توتلين",
+    "AdresseL": "TOUTLINE COMMUNE ABAYNOU",
+    "AdresseA": "توتلين ج اباينو",
+    "COMMUNE": "Abaynou",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "TAMAYOUSET",
+    "NOM_ETABA": "تمايوست",
+    "AdresseL": "DOUAR TAMAYOUSET COMMUNE AIT BEN YACOUB",
+    "AdresseA": "دوار تمايوست جماعة ايت بن يعقوب",
+    "COMMUNE": "Ait Ben Yacoub",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KHOUKHAT",
+    "NOM_ETABA": "الخوخات",
+    "AdresseL": "DOUAR EL KHOUKHAT COMMUNE AIT BEN YACOUB",
+    "AdresseA": "دوار الخوخات جماعة ايت بنيعقوب",
+    "COMMUNE": "Ait Ben Yacoub",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "AHMED EL HANSALI",
+    "NOM_ETABA": "احمد الحنصالي",
+    "AdresseL": "SFASSIF CENTRE",
+    "AdresseA": "مركز الصفاصيف",
+    "COMMUNE": "Sfassif",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT OUMNACEF",
+    "NOM_ETABA": "ايت اومناصف",
+    "AdresseL": "DOUAR AIT OUMNACEF COMMUNE SFASSIF",
+    "AdresseA": "دوار ايت اومناصف ج الصفاصيف",
+    "COMMUNE": "Sfassif",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT FAZAZ",
+    "NOM_ETABA": "ايت فزاز",
+    "AdresseL": "DOUAR AIT FAZAZ COMMUNE SFASSIF",
+    "AdresseA": "دوار ايت فزاز ج الصفاصيف",
+    "COMMUNE": "Sfassif",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

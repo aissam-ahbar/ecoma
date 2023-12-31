@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EDDAKHLA",
+    "NOM_ETABA": "الثانوية الإعدادية الداخلة",
+    "AdresseL": "EL HAY EL IDARI  NOUACEUR",
+    "AdresseA": "الحي الإداري النواصر",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAWFIK ELHAKIM",
+    "NOM_ETABA": "الثانوية الإعدادية توفيق الحكيم",
+    "AdresseL": "ZAOUIA  NOUACEUR",
+    "AdresseA": "الزاوية النواصر",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Province: Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "E AEROPORT NOUACEUR",
+    "NOM_ETABA": "م. مطار النواصر",
+    "AdresseL": " QUARTIER ADMINISTRATIF NOUACEUR",
+    "AdresseA": "الحي الإداري النواصر",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ZAOUIA",
+    "NOM_ETABA": "م.م الزاوية",
+    "AdresseL": "ROUTE MARRAKECH",
+    "AdresseA": "طريق مراكش",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E EL BOUZANIYNE",
+    "NOM_ETABA": "م. البوزانيين",
+    "AdresseL": "BOUZANIYINE NOUACEUR",
+    "AdresseA": "البوزانيين النواصر",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ELHAJ TAIBI",
+    "NOM_ETABA": "م. الحاج الطيبي ",
+    "AdresseL": "DOUAR LAMAARIF ZAOUIT NOUACER COMMUNE NOUACEUR",
+    "AdresseA": "دوار المعاريف جماعة النواصر اقلبم النواصر ",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ELMAARIF",
+    "NOM_ETABA": "م.م المعاريف",
+    "AdresseL": "DOUAR OULAD EDAKAK COMMUNE NOUACEUR",
+    "AdresseA": "دوار اولاد الدقاق",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E CHEIKH AL AIDI",
+    "NOM_ETABA": "م. الشيخ العايدي ",
+    "AdresseL": "DOUAR ESSAHABAT TAALAOUT COMMUNE NOUACER",
+    "AdresseA": " دوار السحابات تعلاوت",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ENNAKHIL",
+    "NOM_ETABA": "م. النخيل",
+    "AdresseL": "hay ennakhil nouaceur",
+    "AdresseA": "حي النخيل النواصر ",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "الثانوية التأهيلية علال بن عبد الله",
+    "AdresseL": "CITE  DE L AIR  NOUACEUR",
+    "AdresseA": "الحي الجوي النواصر",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAOUFIK ELHAKIM",
+    "NOM_ETABA": "الثانوية التأهيلية توفيق الحكيم",
+    "AdresseL": "route de marrakech",
+    "AdresseA": "طريق مراكش",
+    "COMMUNE": "Nouaceur",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "el fihria",
+    "NOM_ETABA": "الفهرية",
+    "AdresseL": "lot e17 ZONE VILLA POLE URBAIN",
+    "AdresseA": " E17 المضار الحضري النواصر",
+    "COMMUNE": "Nouaceur ",
+    "PROVINCE": "Nouaceur",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

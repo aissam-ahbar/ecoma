@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "RIBAA",
+    "NOM_ETABA": "الريبعة",
+    "AdresseL": "DOUAR AIT BOUTAYEB  COMMUNE AIT ALI OULAHCEN",
+    "AdresseA": "د آيت بوطيب ج ايت علي ولحسن",
+    "COMMUNE": "Ait Ali ou Lahcen",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MZARA",
+    "NOM_ETABA": "امزارة",
+    "AdresseL": "DOUAR AIT BEN KASSOU MZARA COMMUNE AIT ALI OULAHCE",
+    "AdresseA": "دوار ايت بنقسو امزارة جماعة ايت علي ولحسن",
+    "COMMUNE": "Ait Ali ou Lahcen",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

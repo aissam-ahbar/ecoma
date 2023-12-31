@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAMBARKIYINE",
+    "NOM_ETABA": "الثانوية الإعدادية لمباركيين",
+    "AdresseL": "commune lambarkiyine",
+    "AdresseA": "جماعة  لمباركيين",
+    "COMMUNE": "Lambarkiyine",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JAQMA LABSASLA CENTRE",
+    "NOM_ETABA": "مركزية جاقمة لبصاصلة",
+    "AdresseL": "DOUAR LABSASLA COMMUNE LAMBARKYINE",
+    "AdresseA": "دوارلبصاصلة لمباركيين",
+    "COMMUNE": "Lambarkiyine",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKADER ZEROUAL CENTRE",
+    "NOM_ETABA": "مركزية عبد القادر زروال",
+    "AdresseL": "DOUAR OULAD MOUMEN COMMUNE LEMBARKYINE",
+    "AdresseA": "دوار اولاد مومن لمباركيين",
+    "COMMUNE": "Lambarkiyine",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

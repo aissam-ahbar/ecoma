@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUIRGANE",
+    "NOM_ETABA": "الثانوية الإعدادية ويركان",
+    "AdresseL": "CENTRE DE LA COMMUNE OUIRGANE",
+    "AdresseA": "مركز جماعة وركان",
+    "COMMUNE": "Ouirgane",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUIRGANE",
+    "NOM_ETABA": "ويركان",
+    "AdresseL": "DOUAR OUIRGAN COMMUNE OUIRGANE",
+    "AdresseA": "دوار ويركان جماعة ويركان - أسني - اقليم الحوز",
+    "COMMUNE": "Ouirgane",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUROURDE",
+    "NOM_ETABA": "طرورد",
+    "AdresseL": "DOUAR TORORDE COMMUNE OUIRGANE ASNI TAHNAOUTE ",
+    "AdresseA": "دوار طرورد جماعة وركان دائرة اسني  تحناوت الحوز",
+    "COMMUNE": "Ouirgane",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI ABDALLAHOU BELAID",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي عبد الله أوبلعيد",
+    "AdresseL": "SIDI ABDALLAHOU BELAID",
+    "AdresseA": " سيدي عبد الله أوبلعيد",
+    "COMMUNE": "Sidi AbdallahOu Belaid",
+    "PROVINCE": "Province: Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BRAHIM EL ROUDANI CENTRE IDOU ALI",
+    "NOM_ETABA": "م.م ابراهيم الروداني مركزية ادوعلي",
+    "AdresseL": "DOUAR IDOU ALI",
+    "AdresseA": "دوار ادوعلي",
+    "COMMUNE": "Sidi AbdallahOu Belaid",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ADDOHA CENTRE AGNI N DZOUHOU",
+    "NOM_ETABA": "م.م الضحى مركزية اكني ندزوهو",
+    "AdresseL": "DOUAR AGNI NDZOUHOU",
+    "AdresseA": "دوار أكني ندزوهو",
+    "COMMUNE": "Sidi AbdallahOu Belaid",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL AARAR CENTRE TIOURDIOUINE",
+    "NOM_ETABA": "م.م العرعار مركزية تيورضوين",
+    "AdresseL": "DOUAR TIourdiouine",
+    "AdresseA": "دوار  تيورضوين",
+    "COMMUNE": "Sidi AbdallahOu Belaid",
+    "PROVINCE": "Sidi Ifni",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  }
+]

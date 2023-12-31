@@ -1,0 +1,472 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FEZOUANE",
+    "NOM_ETABA": "الثانوية الاعدادية فزوان",
+    "AdresseL": "Lot khaybar RUE OUARTAS",
+    "AdresseA": "تجزئة خيبر، طريق ورطاس",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HASSAN  II",
+    "NOM_ETABA": "الحسن الثاني",
+    "AdresseL": "hay riyad",
+    "AdresseA": "حي الرياض",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "COLLEGE IBN ROCHD BERKANE",
+    "AdresseA": "الحي الحسني زنقة المقاومة بركان",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALFIHRIA",
+    "NOM_ETABA": "الفهرية",
+    "AdresseL": "29 RUE AZROU HAY EL HASSANI",
+    "AdresseA": "29 زنقة أزرو حي االحسني",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TRIFA",
+    "NOM_ETABA": "تريفة",
+    "AdresseL": " HAY EL MASSIRA  BP 162",
+    "AdresseA": "شارع المسيرة الخضراء  ص ب : 162",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Province: Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SALMANE EL FARISSI",
+    "NOM_ETABA": "سلمان الفارسي",
+    "AdresseL": "RUE OUARTAS HAY PALESTINE",
+    "AdresseA": "زنقة ورطاس حي فلسطين",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELLAYMOUN",
+    "NOM_ETABA": "الليمون",
+    "AdresseL": " rue ezammouri  HAY MOQAOUAMA",
+    "AdresseA": "زنقة الزموري حي المقاومة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IDRISS 2",
+    "NOM_ETABA": "ادريس الثاني",
+    "AdresseL": "HAY AL MOKAWAMA",
+    "AdresseA": "حي المقاومة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ZAIDOUNE",
+    "NOM_ETABA": "ابن زيدون",
+    "AdresseL": "RUE DU SOUK HAY ELGHARBI",
+    "AdresseA": "طريق السوق الأسبوعي",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASMAE BINT ABI BAKR",
+    "NOM_ETABA": "أسماء بنت أبي بكر",
+    "AdresseL": "ZANKAT SOULTAN MOULAY MOHAMED N99",
+    "AdresseA": "زنقة السلطان مولاي محمد رقم 99",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN HANI ELANDALOUSSI",
+    "NOM_ETABA": "ابن هانئ الأندلسي",
+    "AdresseL": "angle BOULEVARD HASSAN II et RUE MARRAKECH",
+    "AdresseA": "ملتقى شارع الحسن الثاني و زنقة مراكش",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM ALGHAZALI",
+    "NOM_ETABA": "الإمام الغزالي",
+    "AdresseL": "170 BOULEVARD HASSAN II",
+    "AdresseA": "شارع الحسن الثاني 170",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM ALI",
+    "NOM_ETABA": "الإمام علي",
+    "AdresseL": "RUE EL MANZEL",
+    "AdresseA": "زنقة المنزل",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELKRIM AL KHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "HAY AL MOHAMMADI",
+    "AdresseA": "حي المحمدي",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KAWAKIB",
+    "NOM_ETABA": "الكواكب",
+    "AdresseL": "AL HAY AL MOHAMMADI",
+    "AdresseA": "حي المحمدي",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA AL KHADRA",
+    "NOM_ETABA": "المسيرة الخضراء",
+    "AdresseL": "2 BOULEVARD PRINCE HERITIER S MED hay el massira",
+    "AdresseA": "رقم2 شارع الامير سيدي محمد حي  الحسني",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL INBIAAT",
+    "NOM_ETABA": "الإنبعاث",
+    "AdresseL": "2 RUE CHOUHADA HAY HASSANI",
+    "AdresseA": "2 زنقة الشهداء الحي الحسني",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU BASSAM",
+    "NOM_ETABA": "ابن بسام",
+    "AdresseL": "Boulevard Kadissya HAY EL MASSIRA",
+    "AdresseA": "شارع القادسية حي المسيرة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "11-janv.",
+    "NOM_ETABA": "11 يناير",
+    "AdresseL": "HAY DAKHLA",
+    "AdresseA": "حي الداخلة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MELOUIYA",
+    "NOM_ETABA": "ملوية",
+    "AdresseL": "BP 278 HAY AL MASSIRA AL KHADRA",
+    "AdresseA": "حي المسيرة الخضراء  ",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI YAZNASSEN",
+    "NOM_ETABA": "بني يزناسن",
+    "AdresseL": "HAY AL MOUQAWAMA",
+    "AdresseA": "حي المقاومة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIGRORINE",
+    "NOM_ETABA": "تكرورين",
+    "AdresseL": "hay sidi ali ben yakhlaf ouartas",
+    "AdresseA": "حي سيدي علي بن يخلف ورطاس بركان",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "HAY elmoukaouma",
+    "AdresseA": "حي المقاومة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALIMAM ACHATIBI",
+    "NOM_ETABA": "الإمام الشاطبي",
+    "AdresseL": "BOUHDILA COMMUNE BERKANE",
+    "AdresseA": "حي الحرية تجزئة شراعة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RIYAD",
+    "NOM_ETABA": "الرياض",
+    "AdresseL": "hay riyad",
+    "AdresseA": "حي الرياض",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALKHANSAE",
+    "NOM_ETABA": "مدرسة الخنساء",
+    "AdresseL": "DOUAR JABER",
+    "AdresseA": "دوار جابر",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE 20 AOUT",
+    "NOM_ETABA": "مدرسة 20 غشت",
+    "AdresseL": "HAY EL MASSIRA",
+    "AdresseA": "شارع المسيرة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAYMOUNE",
+    "NOM_ETABA": "الليمون",
+    "AdresseL": "route oujda",
+    "AdresseA": "طريق وجدة",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABOU LKHAIR",
+    "NOM_ETABA": "أبي الخير",
+    "AdresseL": "LYCEE ABOU LKHAIR  RUE LA VICTOIRE",
+    "AdresseA": "شارع النصر",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOULOUIYA",
+    "NOM_ETABA": "ملوية",
+    "AdresseL": "HAY AL MASSIRA ALKHADRA",
+    "AdresseA": "حي المسيرة الخضراء",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ALQODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "RUE DE MARRAKECH B P180",
+    "AdresseA": "زنقة مراكش ص ب 180",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBNOU SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "HAY GHARBI",
+    "AdresseA": "الحي الغربي",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKR ARRAZI",
+    "NOM_ETABA": "أبو بكر الرازي",
+    "AdresseL": "HAY ARRAMI 3",
+    "AdresseA": "حي الرامي 3",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "JABER IBN HAYYAN",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "BERKANE",
+    "AdresseA": "بركان",
+    "COMMUNE": "Berkane",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "NOUNe",
+    "NOM_ETABA": "نون",
+    "AdresseL": "angle bd riad et rue slimania ",
+    "AdresseA": "تقاطع شارع الرياض و زنقة السلي",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL IKHAA",
+    "NOM_ETABA": "الإخاء",
+    "AdresseL": "rue366 n°28/30 hay el moukaoua",
+    "AdresseA": "زنقة 366 الرقم 28/30 حي المقاو",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Akwass",
+    "NOM_ETABA": "أقواس",
+    "AdresseL": "27 Rue Ibnou Battouta Hay El Q",
+    "AdresseA": "27 زنقة إبن بطوطة حي القدس",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Andalous",
+    "NOM_ETABA": "الأندلس",
+    "AdresseL": "N° 7, Rue Machraa Hammadi - C.",
+    "AdresseA": "رقم 7، زنقة مشرع حمادي  حي الأ",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ben Al Manara",
+    "NOM_ETABA": "بن المنارة",
+    "AdresseL": "8 rue tarik ibn ziad hay el ha",
+    "AdresseA": "زنقة طارق بن زياد، رقم 8",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sabil Oum Alqura",
+    "NOM_ETABA": "سبيل أم القرى",
+    "AdresseL": "km 1,2 route Madagh",
+    "AdresseA": "كم 1,2 طريق مداغ",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMAM MALIK",
+    "NOM_ETABA": "الامام مالك",
+    "AdresseL": "32 rue tamzirt hay el andalous",
+    "AdresseA": "زنقة تامزيرت رقم 32 حي الاندلس",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED AMINE",
+    "NOM_ETABA": "محمد أمين",
+    "AdresseL": "N° 37, Rue Zraib, Hay El Massi",
+    "AdresseA": "رقم 37، زنقة الزرايب، حي المسي",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Mounji",
+    "NOM_ETABA": "منجي",
+    "AdresseL": "N° 37, Rue Tanger, Hay ElHassa",
+    "AdresseA": "رقم 37، زنقة طنجة، الحي الحسني",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Ryad ",
+    "NOM_ETABA": " الرياض ",
+    "AdresseL": "Lotissement Laaymoune \"Karrakc",
+    "AdresseA": "تجزئة الليمون \"كراكشو\" - بركان",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL JIL EL ARBI",
+    "NOM_ETABA": "الجيل العربي الخاصة",
+    "AdresseL": "ROUTE OUJDA",
+    "AdresseA": "طريق وجدة",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "laplace",
+    "NOM_ETABA": "لبلاص",
+    "AdresseL": "",
+    "AdresseA": "زاوية طريق السنغال و سورية",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BEN EL MANARA 2",
+    "NOM_ETABA": "مجموعة مدارس بن المنارة 2",
+    "AdresseL": "43, Rue Tariq Ibn Ziad Hay Has",
+    "AdresseA": "رقم 43 زنقة طارق بن زياد، الحي",
+    "COMMUNE": "Berkane ",
+    "PROVINCE": "Berkane",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "ECOLE TLAT LOULAD",
+    "NOM_ETABA": "مدرسة ثلاث لولاد",
+    "AdresseL": "TLAT LOULAD",
+    "AdresseA": "ثلاث لولاد",
+    "COMMUNE": "Loulad",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE LAAYOUNE",
+    "NOM_ETABA": "الثانوية التأهيلية العيون",
+    "AdresseL": "CENTRE tlat  LOULAD COMMUNE LOULAD",
+    "AdresseA": "مركز ثلاتاء الأولاد",
+    "COMMUNE": "Loulad",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire achomoukh",
+    "NOM_ETABA": "مجموعة مدارس الشموخ الخاصة",
+    "AdresseL": "douar pachlik toulata loulad c",
+    "AdresseA": "دوار بشليك ثلاثاء لولاد المركز",
+    "COMMUNE": "Loulad ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "gp dar al afaq",
+    "NOM_ETABA": "مم دار الآفاق",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة شرقاوة ثلاثاء لولاد",
+    "COMMUNE": "Loulad ",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNI AHMED GHARBIA",
+    "NOM_ETABA": "الثانوية الإعدادية بني أحمد الغربية",
+    "AdresseL": "CENTRE DE LA COMMUNE BNI AHMED GHARBIA",
+    "AdresseA": "مركز جماعة بني أحمد الغربية",
+    "COMMUNE": "Bni Ahmed Gharbia",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULAD SLIMANE",
+    "NOM_ETABA": "م/م اولاد سليمان",
+    "AdresseL": "DOUAR OULAD SLIMANE CBNI AHMED GHARBIA CHEFCHAOUE",
+    "AdresseA": "اولاد سليمان جماعة بني احمد الغربية",
+    "COMMUNE": "Bni Ahmed Gharbia",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI MIZAR",
+    "NOM_ETABA": "م/م بني ميزار",
+    "AdresseL": "DOUAR BNI MIZAR C BNI AHMED GHARBIA CHEFCHAOUEN",
+    "AdresseA": "دوار بني ميزار جماعة بني أحمد الغربية",
+    "COMMUNE": "Bni Ahmed Gharbia",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAFZA",
+    "NOM_ETABA": "م/م تفزة",
+    "AdresseL": "DOUAR TAFZACBNI AHMED GHARBIACHEFCHAOUEN",
+    "AdresseA": "دوار تفزة جماعة بني أحمد الغربية",
+    "COMMUNE": "Bni Ahmed Gharbia",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

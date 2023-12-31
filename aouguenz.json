@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS AL WAHA",
+    "NOM_ETABA": "م.م الواحة",
+    "AdresseL": "CENTRE AOUGENZ ",
+    "AdresseA": "مركز ثلاثاء أوكنز",
+    "COMMUNE": "Aouguenz",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL WAHA S AGOULMIM",
+    "NOM_ETABA": "م.م الواحة ف. أكلميم ",
+    "AdresseL": "DOUAR AGULMIM AOUGENZ",
+    "AdresseA": "دوار أكلميم",
+    "COMMUNE": "Aouguenz",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALWAHDA ALMAGHARIBIA",
+    "NOM_ETABA": "م.م  الوحدة المغاربية",
+    "AdresseL": "DOUAR IMACHIOUN AOUGENZ",
+    "AdresseA": "دوار إمشيون",
+    "COMMUNE": "Aouguenz",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULBEN",
+    "NOM_ETABA": "م.م  أولبن",
+    "AdresseL": "DOUAR OULBEN AOUGENZ",
+    "AdresseA": "دوار أولبن",
+    "COMMUNE": "Aouguenz",
+    "PROVINCE": "Chtouka- Ait Ba",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

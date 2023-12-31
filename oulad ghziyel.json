@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLEGIALE ELJAHID",
+    "NOM_ETABA": "ثانوية الجاحظ الاعدادية",
+    "AdresseL": "oulad ghzyale",
+    "AdresseA": "اولاد اغزيل",
+    "COMMUNE": "Oulad Ghziyel",
+    "PROVINCE": "Province: Jerada",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OTMANE IBNOU AFFANE",
+    "NOM_ETABA": "م/م عثمان بن عفان",
+    "AdresseL": "DOUAR BOUHNAOUN COMMUNE OULED GHZIEL",
+    "AdresseA": "دوار بوهناون",
+    "COMMUNE": "Oulad Ghziyel",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S ELMASSIRA CENTRE",
+    "NOM_ETABA": "م/م المسيرة المركز",
+    "AdresseL": "DOUAR EL HOUMAR OULED GHZIEL",
+    "AdresseA": "دوار الحومر",
+    "COMMUNE": "Oulad Ghziyel",
+    "PROVINCE": "Jerada",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

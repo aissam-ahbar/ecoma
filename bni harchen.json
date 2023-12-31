@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABDELLAH IBRAHIM",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله ابراهيم",
+    "AdresseL": "CR BNI HARCHEN",
+    "AdresseA": "عبدالله ابراهيم",
+    "COMMUNE": "Bni Harchen",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BNI HARCHEN",
+    "NOM_ETABA": "م.م بني حرشان",
+    "AdresseL": "COMMUNE BNI HARCHENE CBNI HARCHENE  TETOUAN",
+    "AdresseA": "جماعة بني حرشان قيادة جبل الحبيب تطوان",
+    "COMMUNE": "Bni Harchen",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AAIN MOULATHOUM",
+    "NOM_ETABA": "م.م عين مولاتهم",
+    "AdresseL": "DOUAR AYEN MOULAThouM CBNI HARCHENE",
+    "AdresseA": "دوار عين مولاتهم جماعة بني حرشان",
+    "COMMUNE": "Bni Harchen",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL HOLIK",
+    "NOM_ETABA": "م.م العليق",
+    "AdresseL": "DOUAR AL HOLIK COMMUNE BNI HARCHENE  TETOUAN",
+    "AdresseA": "  دوار العليق جماعة بني حرشان ",
+    "COMMUNE": "Bni Harchen",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AYEN SNAD",
+    "NOM_ETABA": "م.م عين سناد",
+    "AdresseL": "MADCHAR AYN SNAD C BNI HARCHEN  TETOUAN",
+    "AdresseA": "مدشر عين أسناد جماعة بني حرشان تطوان",
+    "COMMUNE": "Bni Harchen",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS YACOUBECHE",
+    "NOM_ETABA": "م.م يعقوبش",
+    "AdresseL": "YAACOUBCH COMMUNE BNI HARCHAN",
+    "AdresseA": "يعقوبش جماعة بني حرشان",
+    "COMMUNE": "Bni Harchen",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHALID BEN EL OUALID",
+    "NOM_ETABA": "الثانوية الإعدادية خالد بن الوليد",
+    "AdresseL": " BOULEVARD OUED EDDAHAB JAMILA 5 RUE 189 N 8 SBATA",
+    "AdresseA": " شارع وادي الذهب جميلة 5 الزنقة 189 الرقم 8 اسباتة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED BELHASSANE EL OUAZZANI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بلحسن الوزاني",
+    "AdresseL": "AVENUE MOQDAD  LAHRIZI HAY KHALID",
+    "AdresseA": "شارع مقداد الحريزي حي خالد",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN EL MOATAZ",
+    "NOM_ETABA": "الثانوية الإعدادية ابن المعتز",
+    "AdresseL": "JAMILA 5 N 166 CITE DJEMAA",
+    "AdresseA": "جميلة 5 رقم 166 قرية الجماعة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI INAN",
+    "NOM_ETABA": "الثانوية الإعدادية أبي عنان",
+    "AdresseL": "AVENUE SAQIA AL HAMRA  SBATA JAMILA 4 CITE DJEMAA",
+    "AdresseA": "شارع الساقية الحمراء اسباتة جميلة 4 قرية الجماعة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY SLIMANE",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي سليمان",
+    "AdresseL": "HAY AL ANDALOUSS SALMIA 2",
+    "AdresseA": "حي الأندلس السالمية 2",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IMAM AL GHAZALI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام الغزالي",
+    "AdresseL": "HAY ENNASR 2 SALMIA 2",
+    "AdresseA": "حي النصر 2 السالمية 2   ",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN EL AMID",
+    "NOM_ETABA": "المدرسة الابتدائية ابن العميد",
+    "AdresseL": "SALMIA 2",
+    "AdresseA": "السالمية 2",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMMED EL FASSI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الفاسي",
+    "AdresseL": "SALMIA II RUE 20",
+    "AdresseA": "السالمية 2 الزنقة 20",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LA PRINCESSE LALLA AMINA",
+    "NOM_ETABA": "المدرسة الابتدائية الأميرة للا أمينة",
+    "AdresseL": " BOULEVARD SAQIA AL HAMRA JAMILA 4",
+    "AdresseA": "شارع الساقية الحمراء جميلة 4 قر ية الجماعة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FATIMA EL BOURKADI",
+    "NOM_ETABA": "المدرسة الابتدائية فاطمة البورقادي",
+    "AdresseL": "JAMILA 5 RUE 74 CITE DJEMAA",
+    "AdresseA": "جمبلة 5 الزنقة 74 جميلة 5",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN KHAFAJA",
+    "NOM_ETABA": "المدرسة الابتدائية ابن خفاجة",
+    "AdresseL": "JAMILA V RUE 74 CITE DJEMAA",
+    "AdresseA": "جميلة 5 زنقة 74 قرية الجماعة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ANOUAL",
+    "NOM_ETABA": "المدرسة الابتدائية أنوال",
+    "AdresseL": "JAMILA 5 RUE 128CITE DJEMAA",
+    "AdresseA": "جميلة 5 زنقة 128قرية الجماعة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TINMIL",
+    "NOM_ETABA": "المدرسة الابتدائية تنمل",
+    "AdresseL": "JAMILA 5 RUE 139 CITE DJEMAA",
+    "AdresseA": "جميلة 5 زنقة 139 قرية الجماعة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED EL HIBA",
+    "NOM_ETABA": "المدرسة الابتدائية أحمد الهيبة",
+    "AdresseL": "AVENUE SAQIA EL HAMRA",
+    "AdresseA": "شارع الساقية الحمراء",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  11 JANVIER",
+    "NOM_ETABA": "المدرسة الابتدائية 11 يناير",
+    "AdresseL": "HAY KHALID RUE 10  SBATA ",
+    "AdresseA": "حي خالد الزنقة 10 اسباتة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DRISS LAHRIZI",
+    "NOM_ETABA": "المدرسة الابتدائية إدريس الحريزي",
+    "AdresseL": "BOULVARD MKDADLHRIZI  ECOLE  IDRISLAHRIZI  SBATA  ",
+    "AdresseA": "رقم 133 شارع الشهيد مقداد الحريزي",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALI BEN ABI TALIB",
+    "NOM_ETABA": "المدرسة الابتدائية علي بن أبي طالب",
+    "AdresseL": "BOULEVARD SAQIA EL HAMRA",
+    "AdresseA": "شارع الساقية الحمراء",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL BOUHTOURI",
+    "NOM_ETABA": "المدرسة الابتدائية البحتري",
+    "AdresseL": "HAY ANNASR 2 ",
+    "AdresseA": "حي النصر 2 ",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "المدرسة الابتدائية أحمد المنصور الذهبي",
+    "AdresseL": "HAY KHALID RUE 11 CITE DJEMAA",
+    "AdresseA": "حي خالد  الزنقة 11 قرية الجماعة",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MOUTANABI",
+    "NOM_ETABA": "المدرسة الابتدائية المتنبي",
+    "AdresseL": "JAMILA 7 AVENUE ECHAHID ELMOQDAD LAHRIZI",
+    "AdresseA": "جميلة 7 شارع الشهيد مقداد الحريزي",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "JAMILA 5 CITE DJEMAA sbata",
+    "AdresseA": "جميلة5قرية الجماعة",
+    "COMMUNE": "Sbata ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUED EDDAHAB",
+    "NOM_ETABA": "الثانوية التأهيلية وادي الذهب",
+    "AdresseL": "AVENUE OUED EDDAHAB JAMILA 7 COMMUNE SBATA",
+    "AdresseA": "شارع وادي الدهب جميلة7 اسباتة",
+    "COMMUNE": "Sbata ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL KINDI",
+    "NOM_ETABA": "الثانوية التأهيلية الكندي",
+    "AdresseL": "AVENUE MOQDAD LAHRIZI DERB KHALID SBATA",
+    "AdresseA": "شارع مقداد لحريزي درب خالد اسباتة",
+    "COMMUNE": "Sbata ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FATIMA AL FIHRIA",
+    "NOM_ETABA": "الثانوية التأهيلية فاطمة الفهرية",
+    "AdresseL": "HAY KHALID SBATA",
+    "AdresseA": "حي خالد قرية الجماعة",
+    "COMMUNE": "Sbata ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL MOATAMID BNOU ABBAD",
+    "NOM_ETABA": "الثانوية التأهيلية المعتمد بن عباد",
+    "AdresseL": "SALMIA 1 BD MoQDAD LAHRIZI ",
+    "AdresseA": "السالمية 1  شارع مقداد لحريزي",
+    "COMMUNE": "Sbata ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAHA HOUSSEINE",
+    "NOM_ETABA": "الثانوية التأهيلية طه حسين",
+    "AdresseL": "Lycée qualifiant taha housseine HAY elhouda SBATa ",
+    "AdresseA": " الثانوية التأهيلية طه حسين - حي الهدى - اسباتة ",
+    "COMMUNE": "Sbata ",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE GHAZALA",
+    "NOM_ETABA": "مجموعة مدارس غزالة الخاصة",
+    "AdresseL": "GROUPE 3 RUE 2 SALMIA II CASAB",
+    "AdresseA": "المجموعة 3، زنقة 8 الرقم5 -الس",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GHAZALA",
+    "NOM_ETABA": "غزالة الخصوصية",
+    "AdresseL": "185 Bd EL JOUJANE SALMIA II",
+    "AdresseA": "رقم 185، شارع الجولان - السالم",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROUMOUZ EL FIKR",
+    "NOM_ETABA": "رموز الفكر الخاصة",
+    "AdresseL": "RUE 38 N 70 JAMILA 5 CASABLANC",
+    "AdresseA": "زنقة 38 رقم 70 جميلة 5 الدار ا",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL AKHIAR",
+    "NOM_ETABA": "الأخيار الخصوصية",
+    "AdresseL": "Bd DRISS EL HARTI N 348 cité d",
+    "AdresseA": "348 شارع الكمندار ادريس الحارث",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OMAR AL KHALIFA",
+    "NOM_ETABA": "عمر الخليفة الخصوصية",
+    "AdresseL": "Bd JAMAL ADDORRAH JAMILA 5 N 3",
+    "AdresseA": "شارع جمال الذرة جميلة 5 رقم 39",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FATHI",
+    "NOM_ETABA": "فتحي الخصوصية",
+    "AdresseL": "HAY LAALOU RUE 1 N 74 CASABLAN",
+    "AdresseA": "حي لعلو، زنقة 1، رقم 74، الدار",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL AHRAR III",
+    "NOM_ETABA": "الأحرار 3 الخاصة",
+    "AdresseL": "20 Bd OUED EDDAHAB CASABLANCA",
+    "AdresseA": " فرية الجماعة اسباتة 20 شارع و",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABOURABIA",
+    "NOM_ETABA": "أبو ربيع الخصوصية",
+    "AdresseL": "117 Bd MOQDAD LAHRIZI HAY LAAL",
+    "AdresseA": "شارع مقداد الحريزي رقم 117 حي ",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED AMINE",
+    "NOM_ETABA": "محمد أمين الخصوصية",
+    "AdresseL": "QUARTIER LAALOU RUE 5 N 7 CITE",
+    "AdresseA": "حي لعلو زنقة 5 رقم 7 ق,ج, الدا",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESPACE DES ANGES",
+    "NOM_ETABA": "فضاء الملائكة الخصوصية",
+    "AdresseL": "JAMILA 7 RUE 25 N 9 Et 11 CASA",
+    "AdresseA": "جميلة 7، زنقة 25، رقم 9 و11 ال",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAJDA",
+    "NOM_ETABA": "ماجدة الخصوصية",
+    "AdresseL": "JAMILA 7 RUE 8 N 57 CASABLANCA",
+    "AdresseA": "جميلة 7 الزنقة 8 الرقم 57 الدا",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "QUIMMAT AL IMTIYAZ",
+    "NOM_ETABA": "قمة الإمتياز الخصوصية",
+    "AdresseL": "437 Boulevard MekdaEd El hariz",
+    "AdresseA": "437،شارع مقداد لحريزي، حي خالد",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMAM SAHNOUNE",
+    "NOM_ETABA": "الإمام سحنون الخصوصية",
+    "AdresseL": "mosquée hay jamila 4 rue 107 c",
+    "AdresseA": "مسجد حي جميلة 4 الزنقة 107 قري",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TIFLE SAGHIR",
+    "NOM_ETABA": "الطفل الصغير الخصوصية",
+    "AdresseL": "hay el houda rue 13 residence ",
+    "AdresseA": "حي الهدى ز 13 إقامة البستان اس",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAWAHIR AL MOSTAKBALE",
+    "NOM_ETABA": "جواهر المستقبل الخصوصية",
+    "AdresseL": "567 BD MOQDAD LAHRIZI JAMILA 6",
+    "AdresseA": "567 شارع مقداد لحريزي جمياة 6 ",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT GEORGE ONEIL",
+    "NOM_ETABA": "مؤسسة جورج أونيل الخصوصية",
+    "AdresseL": "SALMIA 2 RUE 38/39 N°10",
+    "AdresseA": "السالمية 2 تجزئة 913 الزنقة 39",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOBEL JUNIOR",
+    "NOM_ETABA": "مؤسسة نوبل جينيور الخصوصية",
+    "AdresseL": "LOT BITWEN N16 SALMIA 2 SBATA",
+    "AdresseA": "تجزئة بتوين رقم 16 السالمية 2 ",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S HAFIDA SCHOOL",
+    "NOM_ETABA": "مؤسسة حافظة سكول",
+    "AdresseL": "HAY ANNASR Lot Assalhia Sebata",
+    "AdresseA": "حي النصر تجزئة الصالحية سباتة ",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ECOLES JEAN EDOUARD",
+    "NOM_ETABA": "مؤسسة جون ادوارد الخصوصية ",
+    "AdresseL": "lotissement atlanne lot n°1 qu",
+    "AdresseA": "حي النصر1 تجزئة إطلان سباتة بن",
+    "COMMUNE": "Sbata",
+    "PROVINCE": "Préf. d’Arr. Ben M’sik",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

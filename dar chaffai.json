@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL DAR CHAFII",
+    "NOM_ETABA": "الثانوية الإعدادية دار الشافعي",
+    "AdresseL": "COMMUNE DAR CHAFFAI",
+    "AdresseA": "مركز جماعة دار الشافعي",
+    "COMMUNE": "Dar Chaffai",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DAR ECHAFAI 1 CENTRE",
+    "NOM_ETABA": "مركزية دار الشافعي1",
+    "AdresseL": "DOUAR DAR ECHAFAI COMMUNE DAR CHAFAI",
+    "AdresseA": "دوار دار الشافعي",
+    "COMMUNE": "Dar Chaffai",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EJJDOUDA CENTRE",
+    "NOM_ETABA": "مركزية الجدودة",
+    "AdresseL": "DOUAR EJDOUDA COMMUNE DAR CHAFAI",
+    "AdresseA": "الجدودة دار الشافعي",
+    "COMMUNE": "Dar Chaffai",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SI MASSAOUD CENTRE",
+    "NOM_ETABA": "مركزية اولاد سي مسعود",
+    "AdresseL": "DOUAR OULAD SI MASSAOUD COMMUNE DAR CHAFAI",
+    "AdresseA": "اولاد سي مسعود دار الشافعي",
+    "COMMUNE": "Dar Chaffai",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHLIHATE DAR CHAFII 2 CENTRE",
+    "NOM_ETABA": "مركزية الشليحات دار الشافعي2",
+    "AdresseL": "DOUAR CHLIHATE COMMUNE DAR CHAFAI",
+    "AdresseA": "دوار الشليحات دار الشافعي",
+    "COMMUNE": "Dar Chaffai",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEMIMNATE",
+    "NOM_ETABA": "مدرسة لميمنات",
+    "AdresseL": "douar lemimnate dar chafai",
+    "AdresseA": "دوار لميمنات دار الشافعي",
+    "COMMUNE": "Dar Chaffai",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHAOUQI",
+    "NOM_ETABA": "ثانوية شوقي التأهيلية",
+    "AdresseL": "Commune dar chafFAi",
+    "AdresseA": "جماعة دار الشافعي",
+    "COMMUNE": "Dar Chaffai",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

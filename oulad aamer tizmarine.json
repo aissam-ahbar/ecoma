@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "OULAD AMER TIZMARINE CENTRE",
+    "NOM_ETABA": "اولاد عامر تيزمارين المركزية",
+    "AdresseL": "DOUAR OULED AMER COMMUNE OULED AMER TIZMARINE",
+    "AdresseA": "دوار اولاد عامر",
+    "COMMUNE": "Oulad Aamer Tizmarine",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZZARKTOUNI CENTRE",
+    "NOM_ETABA": "الزرقطوني المركزية",
+    "AdresseL": "DOUAR BOUHANE BOUIH COMMUNE OULED AMER TIZMARINE",
+    "AdresseA": "دوار بو هان بيه",
+    "COMMUNE": "Oulad Aamer Tizmarine",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MELLOUIA",
+    "NOM_ETABA": "ثانوية ملوية الإعدادية",
+    "AdresseL": "Boumia centre",
+    "AdresseA": "بومية المركز",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHA AMAHZOUNE BEN HMAD",
+    "NOM_ETABA": "مدرسة موحى امحزون بن احماد",
+    "AdresseL": "QUARTIER administratif aven marche verte BOUMIA",
+    "AdresseA": "شارع المسيرة الخضراء الحي الاداري بومية",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TIJANI BEN MY ELMOSTAFA",
+    "NOM_ETABA": "مدرسة التيجاني بن مولاي المصطفى",
+    "AdresseL": "QUARTIER ADMINISTRATIF COMMUNE BOUMIA",
+    "AdresseA": "الحي الاداري جماعة بومية",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGHEZDIS",
+    "NOM_ETABA": "مجموعة مدارس اغزديس",
+    "AdresseL": "DOUAR IGHEZDIS COMMUNE BOUMIA",
+    "AdresseA": "دوار اغزديس جماعة بومية",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECR BOUMIA",
+    "NOM_ETABA": "المدرسة الجماعية القروية, كم بومية",
+    "AdresseL": "BOUMIA CENTRE",
+    "AdresseA": "بومية المركز",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIT MGUIL",
+    "NOM_ETABA": "مدرسة ايت امكيل",
+    "AdresseL": "rue oum rabia commune boumia",
+    "AdresseA": "زنقة ام الربيع جماعة بومية",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOUSSA BEN NOUSSAIR",
+    "NOM_ETABA": "الثانوية التأهيلية موسى بن نصير ",
+    "AdresseL": "BOUMIA CENTRE COMMUNE BOUMIA",
+    "AdresseA": "مركز جماعة بومية",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "zahr attoufah",
+    "NOM_ETABA": "زهر التفاح",
+    "AdresseL": "ALMOU NHAMOU OULEHSSEN BOUMIA",
+    "AdresseA": "بومية المركز",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUYOUSSEF",
+    "NOM_ETABA": "مؤسسة أيوسف للتعليم الأولي و التعليم المدرسي الخصوصي ",
+    "AdresseL": "BAOUSAKARE BOUMIA CENTRE",
+    "AdresseA": "حي بوسكار  مركز بومية ",
+    "COMMUNE": "Boumia",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

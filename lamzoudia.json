@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL QODS",
+    "NOM_ETABA": "الثانوية الإعدادية القدس",
+    "AdresseL": "LAMZOUDIA CENTRE COMMUNE LAMZOUDIA",
+    "AdresseA": "مركز جماعة لمزوضية",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAMZOUDIA",
+    "NOM_ETABA": "لمزوضية",
+    "AdresseL": "CITE CIMAR COMMUNE LAMZOUDIA",
+    "AdresseA": "حي سيمار ج لمزوضية",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSAADIYNE",
+    "NOM_ETABA": "السعديين",
+    "AdresseL": "DOUAR lbatma COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار البطمة جماعة لمزوضية",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JAARNA",
+    "NOM_ETABA": "الجعارنة",
+    "AdresseL": "DOUAR JAARNA COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار  الجعارنة",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AMAL",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "DOUAR LAKNASSIS COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار لكناسيس جماعة لمزوضية اقليم شيشاوة",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI AAMARA",
+    "NOM_ETABA": "سيدي اعمارة",
+    "AdresseL": "DOUAR SIDI AAMARA COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار سيدي اعمارة",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMOUINAT",
+    "NOM_ETABA": "لمينات",
+    "AdresseL": "DOUAR LAMOUINAT COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار لمينات",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED TENSIFT",
+    "NOM_ETABA": "واد تانسيفت",
+    "AdresseL": "DOUAR MOUSSA LAAKARTA COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار  موسى لعكارطة",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEL LAHOUAL",
+    "NOM_ETABA": "بلحول",
+    "AdresseL": "DOUAR BEL LAHOUAL COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار بلحول",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RHILAT",
+    "NOM_ETABA": "الرحيلات",
+    "AdresseL": "DOUAR RHILAT COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار الرحيلات لمزوضية",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABRAJ",
+    "NOM_ETABA": "لبراج",
+    "AdresseL": "DOUAR LABRAJ COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار لبراج",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BIBOU",
+    "NOM_ETABA": "اولاد بيبو",
+    "AdresseL": "DOUAR OULED BIBOU COMMUNE LAMZOUDIA",
+    "AdresseA": "دوار  اولاد بيبو",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT LAMZOUDIA",
+    "NOM_ETABA": "الثانوية التأهيلية لمزوضية",
+    "AdresseL": "Lamzoudia",
+    "AdresseA": "لمزوضية",
+    "COMMUNE": "Lamzoudia",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

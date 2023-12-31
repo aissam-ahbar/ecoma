@@ -1,0 +1,232 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MASSIRA EL KHADRA",
+    "NOM_ETABA": "الثانوية الإعدادية المسيرة الخضراء",
+    "AdresseL": "QUARTIER AL ARZ MISSOUR CENTRE",
+    "AdresseA": "حي الأرز ميسور المركز",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 18 MAI",
+    "NOM_ETABA": "الثانوية الإعدادية 18 ماي",
+    "AdresseL": "avenue des palmiers",
+    "AdresseA": " شارع النخيل",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KADI AAYAD",
+    "NOM_ETABA": "الثانوية الإعدادية القاضي عياض",
+    "AdresseL": "QUARTIER BIR ANZARANE MISSOUR CENTRE",
+    "AdresseA": "حي بئر أنزران ميسور المركز",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "YOUSSEF BEN TACHAFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "MISSOUR CENTRE Bd  hassan 2 ",
+    "AdresseA": "شارع الحسن الثاني  ميسور  المركز",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ROCHD 1",
+    "NOM_ETABA": "ابن رشد 1",
+    "AdresseL": "AV IBN KHALDOUNE QUARTIER SIDI BOUTAYEB MISSOUR CE",
+    "AdresseA": "شارع ابن خلدون حي سيدي بوطيب ميسور المركز",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FARABI",
+    "NOM_ETABA": "الفارابي",
+    "AdresseL": "AVN HASSAN 2 MISSOUR CENTRE",
+    "AdresseA": "شارع الحسن الثاني ميسور المركز",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGLI",
+    "NOM_ETABA": "اكلي",
+    "AdresseL": "HAY IGLI COMMUNE MISSOUR",
+    "AdresseA": "حي اكلي جماعة ميسور",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL AMAL",
+    "NOM_ETABA": "الامل",
+    "AdresseL": "QUARTIER DELQODS COMMUNE MISSOUR",
+    "AdresseA": "حي القدس جماعة ميسور",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGLI AL JANOUBI",
+    "NOM_ETABA": "اكلي الجنوبي",
+    "AdresseL": "DOUAR IGLI SUD COMMUNE MISSOUR",
+    "AdresseA": "دوار اكلي الجنوبي جماعة ميسور",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNOUR",
+    "NOM_ETABA": "النور",
+    "AdresseL": "QUARTIER bir anzaran missour",
+    "AdresseA": "حي بئر انزران ميسور",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR IBN AL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "LOTISSEMENT ENNAJAH RoutedImouzzer Missour",
+    "AdresseA": "تجزئة النجاح  طريق ايموزار ميسور",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MISSOUR MIXTE",
+    "NOM_ETABA": "الثانوية التأهيلية ميسور المختلطة",
+    "AdresseL": "QUARTIER ADMINISTRATIF MISSOUR CENTRE",
+    "AdresseA": "الحي الإداري ميسور المركز",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY EL HASSANE",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي الحسن",
+    "AdresseL": "HAY NAHDA MISSOUR CENTRE",
+    "AdresseA": "حي النهضة مركز ميسور",
+    "COMMUNE": "Missour",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Elouatik ",
+    "NOM_ETABA": "الواتق",
+    "AdresseL": "Rue de la Caserne des F.A.- Qu",
+    "AdresseA": "طريق تكنة القوات المساعدة حي ا",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Espace Savoir",
+    "NOM_ETABA": "فضاء المعرفة",
+    "AdresseL": "Bd. Hassan II, Missour",
+    "AdresseA": "شارع الحسن الثاني، ميسور",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ŒUVRES SOCIALES DES TRAVAUX PUBLICS",
+    "NOM_ETABA": "الأعمال الإجتماعية",
+    "AdresseL": "BD CASERNE FORCES AUXILIAIRES",
+    "AdresseA": "طريق ثكنة القوات المساعدة حي ا",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement El Ahd El Jadid",
+    "NOM_ETABA": "مؤسسة العهد الجديد",
+    "AdresseL": "Hay Bir Anzaran - C.U. Missour",
+    "AdresseA": "حي بئر انزاران - ج.ح . ميسور",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al achraf",
+    "NOM_ETABA": "الأشراف",
+    "AdresseL": "rUE al nakhil missour",
+    "AdresseA": "شارع النخيل حي السلام",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement alkhansae de l enseignement",
+    "NOM_ETABA": "مؤسسة الخنساء للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة وجدة حي سيدي بوطيب",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL-QODS D’ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة القدس للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة دمشق - حي القدس",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALAMAL",
+    "NOM_ETABA": "مؤسسة الأمل للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي المسيرة فيلا 13 مكرر",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SELAM",
+    "NOM_ETABA": "مؤسسة سلام للتعليم الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": " زنقة تنغير حي السلام ميسور",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El AMMARI",
+    "NOM_ETABA": "مؤسسة العماري الخصوصية",
+    "AdresseL": "HAY ENNAJH MISSOUR",
+    "AdresseA": "حي النجاح ميسور",
+    "COMMUNE": "Missour ",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL LALLA MERIEM",
+    "NOM_ETABA": " الثانوية الإعدادية للامريم",
+    "AdresseL": "HAY LALLA MERIEM",
+    "AdresseA": "حي  للا مريم",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL FELLINE",
+    "NOM_ETABA": " الثانوية الإعدادية  الفلين",
+    "AdresseL": "Hay Al Felline",
+    "AdresseA": "حي الفلين",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  MOHAMMED VI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد السادس",
+    "AdresseL": "RUE SIDI ELGHAZOINI COMMUNE BEN SLIMANE",
+    "AdresseA": "زنقة سيدي الغزواني بنسليمان",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZIAD",
+    "NOM_ETABA": "الثانوية الإعدادية زياد",
+    "AdresseL": "RUE ZRAIDI GHAFFOUR COMMUNE BEN SLIMANE",
+    "AdresseA": "زنقة الزرايدي غفور جماعة بنسليمان",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF BNOU TACHFINE",
+    "NOM_ETABA": "الثانوية الإعدادية يوسف بن تاشفين",
+    "AdresseL": "RUE CASABLANCA HAY ESSALAM COMMUNE BEN SLIMANE",
+    "AdresseA": "زنقة الدار البيضاء حي السلام جماعة بنسليمان",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE IBN ZAIDOUNE",
+    "NOM_ETABA": "مدرسة ابن زيدون",
+    "AdresseL": "RUE SIDI EL GHAZOUANI",
+    "AdresseA": "زنقة سيدي الغزواني",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ERRAZI CENTRE",
+    "NOM_ETABA": "م/م الرازي المركزية",
+    "AdresseL": "RUE HOUMANE FATOIKI COMMUNE BEN SLIMANE",
+    "AdresseA": "زنقة حمان الفطواكي",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL JOULANE",
+    "NOM_ETABA": "مدرسة الجولان",
+    "AdresseL": "HAY MOHAMMADI",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL FADILA",
+    "NOM_ETABA": "مدرسة الفضيلة",
+    "AdresseL": "AVENUE HASSAN 2 COMMUNE BEN SLIMANE",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA HASSNA",
+    "NOM_ETABA": "مدرسة الأميرة للا حسناء",
+    "AdresseL": "AVENUE LALLA AICHA LES JARDINS",
+    "AdresseA": "شارع للاعائشة حي الحدائق",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL FARABI",
+    "NOM_ETABA": "مدرسة الفارابي",
+    "AdresseL": "RUE DGHAGHIA COMMUNE BEN SLIMANE",
+    "AdresseA": "زنقة الدغاغية",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL MOUSTAKBAL",
+    "NOM_ETABA": "مدرسة المستقبل",
+    "AdresseL": "HAY LALLA MARIEM",
+    "AdresseA": "حي للا مريم",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSALAM",
+    "NOM_ETABA": "مدرسة السلام",
+    "AdresseL": "RUE CASABLANCA HAY ESSALAM COMMUNE BEN SLIMANE",
+    "AdresseA": "زنقة الدار البيضاء حي السلام",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNAHDA",
+    "NOM_ETABA": "مدرسة النهضة",
+    "AdresseL": "HAY MOHAMMADI",
+    "AdresseA": "الحي المحمدي",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNAJMAT",
+    "NOM_ETABA": "مدرسة النجمة",
+    "AdresseL": "Lot  NAJMAT BENSLIMANE",
+    "AdresseA": "تجزئة نجمة بنسليمان",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "مدرسة محمد الزرقطوني",
+    "AdresseL": "LOT OASIS",
+    "AdresseA": "تجزئة الوازيس",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHARIF AL IDRISSI",
+    "NOM_ETABA": "الثانوية التأهيلية الشريف الادريسي",
+    "AdresseL": "boulevard des far benslimane ",
+    "AdresseA": "  شارع الجيش الملكي بنسليمان ",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HASSAN II",
+    "NOM_ETABA": "الثانوية التأهيلية الحسن الثاني",
+    "AdresseL": "BOULEVARD HASSAN 2 COMMUNE BEN SLIMANE",
+    "AdresseA": "شارع الحسن الثاني جماعة بنسليمان",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DES METIERS HOTELLERIE ET DU TOUR",
+    "NOM_ETABA": "الثانوية التاهيلية لمهن الفندقة والسياحة",
+    "AdresseL": "CENTRE DE QUALIFICATION PRO ",
+    "AdresseA": "مركز التاهيل المهني الفندقي والسياحي",
+    "COMMUNE": "Benslimane",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire copernic SARL",
+    "NOM_ETABA": "SARL مجموعة مدارس كوبرنيك",
+    "AdresseL": "253;bis bloc c hay lalla merie",
+    "AdresseA": "253 مكررة بلوك \"س\" حي للا مريم",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire l essor SARL",
+    "NOM_ETABA": "SARL مجموعة مدارس ليصور",
+    "AdresseL": "812 les chenes .Ben Slimane",
+    "AdresseA": "رقم812 تجزئة الفلين",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT VOLTAIRE",
+    "NOM_ETABA": "مؤسسة فولتير الخصوصية",
+    "AdresseL": "hay alqods angle rue ziaida.b.",
+    "AdresseA": "حي القدس زاوية زنقة الزيايدة و",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole anatole france bennis sarl",
+    "NOM_ETABA": "أنطول فرانس الخصوصية",
+    "AdresseL": "N° 364 LOT LES CHENES ",
+    "AdresseA": "حي الفلين رقم 364",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "institut aristo tHales D EDUCATION ET D ENSEIGNEMENT",
+    "NOM_ETABA": "  مؤسسة أرسطو طاليس للتربية والتعليم الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع بئر أنزران القدس بنسليمان",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement copernic 2",
+    "NOM_ETABA": "مؤسسة كوبرنيك 2",
+    "AdresseL": "lotissement elqods 151 extenti",
+    "AdresseA": "151  تجزئة القدس توسيع",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Madarisse lina",
+    "NOM_ETABA": "مدارس لينة ",
+    "AdresseL": "حي الفلين رقم 676 ",
+    "AdresseA": "676; quartier les chénes",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire FARADDAY SARL",
+    "NOM_ETABA": "SARL مجموعة مدارس فرداي",
+    "AdresseL": "lot \"e\"; hay essalam RUE LAAYO",
+    "AdresseA": "المجموعة  \"e\"    حي السلام زنق",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL JOUDOUR",
+    "NOM_ETABA": "مؤسسة الجذور",
+    "AdresseL": "76;\"a\" bvd hassan ii; hay lall",
+    "AdresseA": "شارع الحسن الثاني حي للا مريم ",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " GROUPE SCOLAIRE Assahoua SARL",
+    "NOM_ETABA": "SARL مجموعة مدارس الصحوة",
+    "AdresseL": "Rue Laayoune, Lot. C, Hay essa",
+    "AdresseA": "زنقة العيون، بقعة س، حي السلام",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement al madina al khadra SARL",
+    "NOM_ETABA": "SARL مؤسسة  المدينة الخضراء",
+    "AdresseL": "AV LALLA AICHA QUARTIER DES JA",
+    "AdresseA": "شارع للا عائشة حي الحدائق",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement najmate al kotb",
+    "NOM_ETABA": "مؤسسة نجمة القطب",
+    "AdresseL": "Lotissement Les Poiries N° 123",
+    "AdresseA": "تجزئة الإجاص، رقم 123 ن",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Ennor",
+    "NOM_ETABA": "مؤسسة النور الخصوصية",
+    "AdresseL": "Bd. Bir Anzarane ",
+    "AdresseA": "شارع بئر انزران ",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL LOUALOUAE ",
+    "NOM_ETABA": "اللؤلؤة الخصوصية",
+    "AdresseL": "N°200,cIte les chenes ,benslim",
+    "AdresseA": "تجزئة الفلين، رقم 200",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT Manar El Irfane",
+    "NOM_ETABA": "مؤسسة منار العرفان الخصوصية",
+    "AdresseL": "Hay Lalla Mariem Bloc A ",
+    "AdresseA": "حي للامريم، بلوك \" أ \"",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETEBLISSEMENT IBN SINA lemsallek",
+    "NOM_ETABA": " مؤسسة ابن سينا  لمسلك الخصوصية ",
+    "AdresseL": "Hay Essalam Rue Safi N° 26 ",
+    "AdresseA": "حي السلام زنقة أسفي رقم 26",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ASSANABIL",
+    "NOM_ETABA": "مؤسسة السنابل",
+    "AdresseL": "Hay EL QODS N° 40 BVD BIR INZA",
+    "AdresseA": "حي القدس رقم 40 شارع بئر انزرا",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EcoleE jean macé ",
+    "NOM_ETABA": "مؤسسة جون ماسي الخصوصية",
+    "AdresseL": "les roches de benslimane lot 2",
+    "AdresseA": "",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT GUILLAUME TELL",
+    "NOM_ETABA": "مؤسسة كيوم تال الخصوصية",
+    "AdresseL": "les roches de benslimane _G-22",
+    "AdresseA": "صخور بنسليمان  مجموعة 22  رقم ",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee riad alfath",
+    "NOM_ETABA": "مؤسسة رياض الفتح الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "خي الفتح  رقم 53 بنسليمان",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement la polyvalence",
+    "NOM_ETABA": "مؤسسة لبوليفلنس الخصوصية",
+    "AdresseL": "hay lalla meriem 234 bis bensl",
+    "AdresseA": "حي للامريم 234 مكرر بنسليمان",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANTOINE GALLAND",
+    "NOM_ETABA": "مدرسة أنطوان كالاند",
+    "AdresseL": "HAY FELLINE  N° 228 BENSLIMANE",
+    "AdresseA": "حي الفلين رقم 228 بنسليمان",
+    "COMMUNE": "Benslimane ",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

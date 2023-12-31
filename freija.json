@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FREIJA",
+    "NOM_ETABA": "الثانوية الإعدادية افريجة",
+    "AdresseL": "commune freija",
+    "AdresseA": "جماعة افريجة",
+    "COMMUNE": "Freija",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ELMORABITINE",
+    "NOM_ETABA": "م.م المرابطين",
+    "AdresseL": "DOUAR  FREIJA COUMMUNE FREIJA",
+    "AdresseA": "دوار افريجة جماعة افريجة",
+    "COMMUNE": "Freija",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULAD AHMED",
+    "NOM_ETABA": "م.م اولاد احمد",
+    "AdresseL": "DOUAR  OULAD AHMED CFREIJA",
+    "AdresseA": ".دوار اولاد احمد جماعة افريجة",
+    "COMMUNE": "Freija",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS REGGADA",
+    "NOM_ETABA": "م.م الركادة",
+    "AdresseL": "DOUAR  REGGADA CFREIJA",
+    "AdresseA": "د.ركادة جماعة افريجة",
+    "COMMUNE": "Freija",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

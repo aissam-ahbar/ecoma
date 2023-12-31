@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial HAD MSILA",
+    "NOM_ETABA": "الثانوية الإعدادية أحد امسيلة",
+    "AdresseL": "HAD MSILA CENTRE",
+    "AdresseA": "أحد امسيلة المركز",
+    "COMMUNE": "Msila",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HAD LAKDIM CENTRE",
+    "NOM_ETABA": "الأحد القديم المركز",
+    "AdresseL": "COMMUNE HAD MSILA CERCLE TAINASTE",
+    "AdresseA": "جماعة أحد امسيلة - دائرة تايناست",
+    "COMMUNE": "Msila",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAD M SILA CENTRE",
+    "NOM_ETABA": "احد امسيلة المركز",
+    "AdresseL": "COMMUNE HAD M SILA",
+    "AdresseA": "  احد امسيلة المركز",
+    "COMMUNE": "Msila",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI KHALLAD CENTRE",
+    "NOM_ETABA": "بني خلاد المركز",
+    "AdresseL": "COMMUNE MSILA",
+    "AdresseA": "دوار  بني خلاد المركز جماعة احد امسيلة",
+    "COMMUNE": "Msila",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ANNASR",
+    "NOM_ETABA": "ثانوية النصر التأهيلية",
+    "AdresseL": "had msila centre",
+    "AdresseA": "مركز حد امسلة",
+    "COMMUNE": "Msila",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Imider",
+    "NOM_ETABA": "الثانوية الإعدادية إميضر",
+    "AdresseL": "DOUAR IMIDER COMMUNE IMIDER",
+    "AdresseA": "دوار اميضر جماعة اميضر",
+    "COMMUNE": "Imider",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS IMIDER",
+    "NOM_ETABA": "م.م اميضر",
+    "AdresseL": "DOUAR IMIDER TINGHIR ",
+    "AdresseA": "دوار اميضر جماعة إميضرتنغير",
+    "COMMUNE": "Imider",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ANOUNIZM",
+    "NOM_ETABA": "م.م انو نزم",
+    "AdresseL": "IMIDER TINGHIR ",
+    "AdresseA": "اميضر تنغير",
+    "COMMUNE": "Imider",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

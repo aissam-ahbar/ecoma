@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TARIK IBNOU ZIYAD",
+    "NOM_ETABA": "الثانوية الإعدادية طارق  بن  زياد",
+    "AdresseL": "CENTRE BOULANOUARE",
+    "AdresseA": "مركز  بولنوار",
+    "COMMUNE": "Bulanouare",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOATAMID IBNOU ABBAD",
+    "NOM_ETABA": "مدرسة المعتمد بن عباد",
+    "AdresseL": "CENTRE BOULANOUAR COMMUNE BOULANOUARE",
+    "AdresseA": "مركز جماعة بولنوار",
+    "COMMUNE": "Bulanouare",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MANFALOUTI",
+    "NOM_ETABA": "مدرسة المنفلوطي",
+    "AdresseL": "RUE DES ECOLES  BOULANOUARE",
+    "AdresseA": "زنقة المدارس -بولنوار",
+    "COMMUNE": "Bulanouare",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALBAYROUNI",
+    "NOM_ETABA": "مدرسة البيروني",
+    "AdresseL": "CENTRE BOULANOUARE COMMUNE BOULANOUARE",
+    "AdresseA": "مركز  بولنوار",
+    "COMMUNE": "Bulanouare",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANNASR",
+    "NOM_ETABA": "مدرسة النصر",
+    "AdresseL": "CENTRE BOULANOUARE COMMUNE BOULANOUARE",
+    "AdresseA": "مركز  بولنوار",
+    "COMMUNE": "Bulanouare",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED BRAHIM",
+    "NOM_ETABA": "م/م أولاد إبراهيم",
+    "AdresseL": "DOUAR LAMSSADA LGAADA COMMUNE BOULANOUARE",
+    "AdresseA": "دوار  لمساعدة  الكعدة",
+    "COMMUNE": "Bulanouare",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABOU BAKR ESSIDDIK",
+    "NOM_ETABA": "الثانوية التأهيلية ابو بكر الصديق",
+    "AdresseL": "CENTRE BOULAOUARE COMMUNE BOULANOUARE",
+    "AdresseA": "مركز  بولنوار",
+    "COMMUNE": "Bulanouare",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire zaid bnou tabet",
+    "NOM_ETABA": "مجموعة مدارس زيد بن ثابث  الخصوصية",
+    "AdresseL": "70 LOT HALOUI BOULANOIR",
+    "AdresseA": "الرقم 70 تجزئة الحلوي",
+    "COMMUNE": "Bulanouare",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

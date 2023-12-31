@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 20 AOUT",
+    "NOM_ETABA": "       الثانوية الإعدادية20 غشت  ",
+    "AdresseL": "LAQSIR",
+    "AdresseA": "لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "Province: El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIFRIT",
+    "NOM_ETABA": "تيفريت",
+    "AdresseL": "TIFRIT LAQSIR",
+    "AdresseA": "تيفريت   لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI CHAFI",
+    "NOM_ETABA": "سيدي الشافي",
+    "AdresseL": "douar ait brahim ait lahcen ouchaibe  LAQSIR",
+    "AdresseA": " دوار ايت ابراهيم لحسن اوشعيب لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAQSIR",
+    "NOM_ETABA": "لقصير",
+    "AdresseL": "LAQSIR",
+    "AdresseA": "لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN ABLOUZ",
+    "NOM_ETABA": "عين ابلوز",
+    "AdresseL": "AIN ABLOUZ LAQSIR",
+    "AdresseA": "عين ابلوز لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FAJR",
+    "NOM_ETABA": "الفجر",
+    "AdresseL": "COOPERATIVE AL FAJR LAQSIR",
+    "AdresseA": "تعاونية الفجر لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AKBAT SFIA",
+    "NOM_ETABA": "عقبة صفية",
+    "AdresseL": "AKBAT SFIA LQSIR",
+    "AdresseA": "عقبة صفية  لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT AMER",
+    "NOM_ETABA": "ايت عمرو",
+    "AdresseL": "AIT AMER LAQSIR",
+    "AdresseA": "ايت عمرو  لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI M BAREK",
+    "NOM_ETABA": "سيدي امبارك",
+    "AdresseL": "SIDI M BAREK LAQSIR",
+    "AdresseA": "سيدي امبارك  لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HAMMI",
+    "NOM_ETABA": "ايت حمي",
+    "AdresseL": "AIT HAMMI LAQSIR",
+    "AdresseA": "ايت حمي لقصير",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOUAR LAKRAM",
+    "NOM_ETABA": "دوار لكرم",
+    "AdresseL": "SODEA 5010",
+    "AdresseA": "صوديا 5010",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ridouane",
+    "NOM_ETABA": "رضوان",
+    "AdresseL": "",
+    "AdresseA": "رقم 24 ايت علي أوبوهو ",
+    "COMMUNE": "Laqsir",
+    "PROVINCE": "El  Hajeb",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

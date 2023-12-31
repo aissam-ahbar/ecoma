@@ -1,0 +1,572 @@
+[
+  {
+    "NOM_ETABL": "MOULAY YOUSSEF",
+    "NOM_ETABA": "مولاي يوسف",
+    "AdresseL": "1 RUE DASCARTES  COMMUNE SIDI BELYAUT",
+    "AdresseA": "1 زنقة ديكارت جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HALIMA",
+    "NOM_ETABA": "حليمة",
+    "AdresseL": "35 RUE NICHKARA RAHAL  COMMUNE SIDI BELYOUT",
+    "AdresseA": " رقم 35 زنقة نشكرة رحال - جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUM AYMANE",
+    "NOM_ETABA": "أم ايمن",
+    "AdresseL": "2 BD DE PARIS  COMMUNE SIDI BELYOUT",
+    "AdresseA": "2 شارع باريس ساحة وادي المخازن  جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "57 RUE MED BEN BRAHIM EL MARRAKCHI COMM SI BELYOUT",
+    "AdresseA": "57 زنقة بن ابراهيم المراكشي جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL OUAFA",
+    "NOM_ETABA": "الوفاء",
+    "AdresseL": "10 RUE DINDOCHINE BD ZIRAOUI COMMUNE SIDI BELYAUT",
+    "AdresseA": "10 زنقة الهند الصينية سا الزيراوي جماعة سيدي بلوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ZERKTOUNI",
+    "NOM_ETABA": "الزرقطوني",
+    "AdresseL": "334 BD ZERKTOUNI COMMUNESIDI BELYAUT",
+    "AdresseA": "334 شارع الزرقطوني جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN BATTOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "78 BD EL HANK COMMUNE SIDI BELYAUT",
+    "AdresseA": "78 شارع العنق جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL IDRISSI",
+    "NOM_ETABA": "الإدريسي",
+    "AdresseL": "114 BD MOULAY YOUSSEF COMMUNE SIDI BELYAUT",
+    "AdresseA": "114 شارع مولاي يوسف جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "FATIMA AL FIHRYA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "41 RUE ALMOUAHIDDIN COMMUNE SIDI BELYOUT",
+    "AdresseA": "41 شارع الموحدين المدينة القديمة  جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ARROUMI",
+    "NOM_ETABA": "ابن الرومي",
+    "AdresseL": "5 RUE ESSAOUIRA ANCIENNE MEDINA COMMUNE SI BELYOUT",
+    "AdresseA": "5 زنقة الصويرة المدينة القديمة",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BEN ABDELAZIZ",
+    "NOM_ETABA": "عمر بن عبد العزيز",
+    "AdresseL": "6 PLACE DE BELGIQUE ACIENNE MEDINA COM SI BELYOUT",
+    "AdresseA": "6 زنقة بلجيكا سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MOUTANABI",
+    "NOM_ETABA": "المتنبي",
+    "AdresseL": "29 RUE NCHAKRA RAHAL C sIDI BELYOUT",
+    "AdresseA": "29 زنقة نشكرة رحال",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU CHOUAIB DOUKKALI FILLES",
+    "NOM_ETABA": "أبو شعيب الدكالي بنات",
+    "AdresseL": "135 RUE ALBYKRI C SIDI BELYOUT",
+    "AdresseA": "رقم 135 زنقة البكري سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDEL MOUMEN MIXTE",
+    "NOM_ETABA": "عبد المومن",
+    "AdresseL": "1 RUE ZAITOUN MERSSULTAN  COMMUE SIDI BELYOUT",
+    "AdresseA": "1 زنقة الزيتون مرس السلطان",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAHAT OUED ALMAKHAZIN",
+    "NOM_ETABA": "ساحة وادي المخازن",
+    "AdresseL": "1 RUE D ALGER  COM SIDI BELYOUT",
+    "AdresseA": "رقم 1 زنقة الجزائر",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ARRAHALI ALFAROUKI",
+    "NOM_ETABA": "الرحالي الفاروقي",
+    "AdresseL": "CITE DES ANGLAIS 6 RUE MOHAMED TABET COMMUNE SIDI ",
+    "AdresseA": "درب الإنجليز 6 زنقة محمد ثابت",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU INAN MIXTE",
+    "NOM_ETABA": "أبو عنان المختلطة",
+    "AdresseL": "104 RUE PICORDI BMOUSSA BNOU NOUSSAIR SIBELYOUT",
+    "AdresseA": "4 زنقة بدر السياب كوتيي",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDEL OUAHED ALMOURRAKOCHI FILLES",
+    "NOM_ETABA": "عبد الواحد المراكشي بنات",
+    "AdresseL": "BOULEVARD DRISS ELJAY  CU SIDI BELYOUT",
+    "AdresseA": "شارع ادريس الجاي",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZZERKTOUNI MIXTE",
+    "NOM_ETABA": "الزرقطوني",
+    "AdresseL": "330 BD ZERKTOUNI BOURGOGNE COM MOULAY YOUSSEF",
+    "AdresseA": "شارع الزرقطوني",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR AL KHAYAM  FILLES",
+    "NOM_ETABA": "عمر الخيام بنات",
+    "AdresseL": "RUE TAOURIRET BOURGOGNE COMMUNE sidi belyout",
+    "AdresseA": "زنقة تاوريرت شارع مولاي يوسف جماعة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN BAJJA",
+    "NOM_ETABA": "ابن باجة",
+    "AdresseL": "02 RUE AIT BAHA COMMUNE sidi belyout",
+    "AdresseA": "2 زنقة أيت باها",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL BIKRY",
+    "NOM_ETABA": "البكري",
+    "AdresseL": "RUE ASNI BD BORDEAUX  COMMUNE SIDI BELYOUT",
+    "AdresseA": "شارع بوردو زنقة أسني الدار البيضاء",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMINA BENT OUAHB",
+    "NOM_ETABA": "آمنة بنت وهب",
+    "AdresseL": "1 RUE DESCARTES BD MY YOUSSEF COMMUNE SIDI BELYOUT",
+    "AdresseA": "1 زنقة ديكارت شارع مولاي يوسف",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU HANIFA",
+    "NOM_ETABA": "أبو حنيفة",
+    "AdresseL": "BD MOULAY YOUSSEF RUE DESCARTES COMMOULAY YOUSSEF",
+    "AdresseA": "زنقة ديكارت رقم 1 شارع مولاي يوسف",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI MOHAMED BEN ABDELLAH",
+    "NOM_ETABA": "سيدي محمد بن عبد الله",
+    "AdresseL": "BD SIDI MOHAMED BEN ABDELLAH COMMOULAY YOUSSEF",
+    "AdresseA": "شارع سيدي محمد بن عبد الله",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FAKIH AZOUITEN",
+    "NOM_ETABA": "الفقيه الزويتن",
+    "AdresseL": "RUE REGRAGA DERB LOUBILA",
+    "AdresseA": "زنقة ركراكة درب لوبيلة أنفا",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JABER BNOU HAYANE",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "128 BD LA RESISTANCE  COMMUNE SIDI BELYOUT",
+    "AdresseA": "128 شارع المقاومة سيدي بليوط",
+    "COMMUNE": "Sidi Belyout ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Al Khansaa",
+    "NOM_ETABA": "الثانوية التأهيلية الخنساء ",
+    "AdresseL": "15 RUE RIAD  COMMUNE SIDI BELYOUT",
+    "AdresseA": "15 زنقة الرياض سيدي بليوط",
+    "COMMUNE": "Sidi Belyout ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "CHAWQI",
+    "NOM_ETABA": "شوقي",
+    "AdresseL": "2 BD MOHAMED ABDOUH COMMUNE SIDI BELYOUT",
+    "AdresseA": "2 شارع محمد عبده سيدي بليوط",
+    "COMMUNE": "Sidi Belyout ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN TOUMERT",
+    "NOM_ETABA": "ابن تومرت",
+    "AdresseL": "100 AVENUE HASSAN PREMIER COMMUNE SIDI BELYOUT",
+    "AdresseA": "100 شارع الحسن الأول سيدي بليوط",
+    "COMMUNE": "Sidi Belyout ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "international fields",
+    "NOM_ETABA": "انترنسيونال فيلدس",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع محمد الخامس رقم 298",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lina Farah",
+    "NOM_ETABA": "لينا فرح",
+    "AdresseL": "61 Rue Alaraar Casablanca",
+    "AdresseA": "61 زنقة العرعار",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "VERDUN",
+    "NOM_ETABA": "فردان",
+    "AdresseL": "19, rue abdellah mahassibi bd ",
+    "AdresseA": "عبد الله محاسبي رقم 15 شارع بو",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMITAK",
+    "NOM_ETABA": "الميثاق",
+    "AdresseL": "N° 1, Rue Anatole France, Bd G",
+    "AdresseA": "رقم1 زنقة أناطول فرانس، شارع ك",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Les Jumeaux",
+    "NOM_ETABA": "مجموعة مدارس التوأم",
+    "AdresseL": "N° 197, Angle Bd D Alsace et A",
+    "AdresseA": "رقم 197، زاوية شارع ألزاس ومحج",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Garderie Le Colombier",
+    "NOM_ETABA": "روض الحمام",
+    "AdresseL": "N° 25, Rue d Alger - C. Sidi B",
+    "AdresseA": "رقم 25، زنقة الجزائر - ج. سيدي",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Errabita Al Ifriquia",
+    "NOM_ETABA": "الرابطة الإفريقية",
+    "AdresseL": "N° 14, Rue Sénégal - A M",
+    "AdresseA": "زنقة السينغال ـرقم 14 المدينة ",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Nesrina",
+    "NOM_ETABA": "مدرسة نسرينة",
+    "AdresseL": "N° 39, Rue Guersif - C. Moulay",
+    "AdresseA": "رقم 39، زنقة كرسيف - ج. مولاي ",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL FARABI 2",
+    "NOM_ETABA": "الفارابي 2",
+    "AdresseL": "N° 24, Rue Guercif - C. Moulay",
+    "AdresseA": "رقم 24، زنقة كرسيف - ج. مولاي ",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Raja",
+    "NOM_ETABA": "مدرسة الرجاء",
+    "AdresseL": "N° 68, Rue Doukkala - C. Sidi ",
+    "AdresseA": "رقم 68، زنقة دكالة - ج. سيدي ب",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L Etoile Filante",
+    "NOM_ETABA": "النجم السيار",
+    "AdresseL": "N° 36, Rue Tamaarouft, Bourgog",
+    "AdresseA": "رقم 36، زنقة تمعروفت، بوركون -",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Es-sounnia",
+    "NOM_ETABA": "المدرسة السنية",
+    "AdresseL": "N° 43, Rue Dar El Miloudi - C.",
+    "AdresseA": "رقم 43، زنقة دار الميلودي - ج.",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Essalame",
+    "NOM_ETABA": "مدرسة السلام الخاصة",
+    "AdresseL": "N° 8, Place De La Belgique - C",
+    "AdresseA": "رقم 8، ساحة بلجيكا - ج. سيدي ب",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION DU BOULEVARD MOHAMED V",
+    "NOM_ETABA": "شارع محمد الخامس",
+    "AdresseL": "N° 34, Rue Ahmed Fariss - C. S",
+    "AdresseA": "رقم 34، زنقة أحمد فارس - ج. سي",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Pédagogique Mers Sultan",
+    "NOM_ETABA": "المؤسسة التربوية مرس السلطان",
+    "AdresseL": "N° 12, Rue Abou Rakrak, Quarti",
+    "AdresseA": "رقم 12، زنقة أبو رقراق، حي الح",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Jeanne D arc",
+    "NOM_ETABA": "جان دارك",
+    "AdresseL": "N°75,Boulevard My Youssef   C.",
+    "AdresseA": "رقم57 شارع مولاي يوسف ج. سيدي ",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Farabi I",
+    "NOM_ETABA": "الفارابي 1",
+    "AdresseL": "N° 3, Rue Franklin, Bd. d Anfa",
+    "AdresseA": "رقم 3، زنقة فرنكلان، شارع أنفا",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION LAHLOU",
+    "NOM_ETABA": "لحلو",
+    "AdresseL": "18 ,RUE AL KHAOUARIZMI",
+    "AdresseA": "رقم 18 زنقة الخوارزمي",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les poussinets",
+    "NOM_ETABA": "ليبوسيني",
+    "AdresseL": "N° 29, Rue Karatchi - C. Sidi ",
+    "AdresseA": "رقم 29، زنقة كراتشي - ج. سيدي ",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Mouna Pour Enfants Sourds",
+    "NOM_ETABA": "مؤسسة منى للأطفال الصم",
+    "AdresseL": "N° 4, Rue Addamir Al Kabir, An",
+    "AdresseA": "رقم 4، زنقة الضمير الكبير، زاو",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Cours Sévigne",
+    "NOM_ETABA": "دروس سيفيني",
+    "AdresseL": "N° 11, Rue El Houdhoud - Mers ",
+    "AdresseA": " مرس السلطان رقم 11، زنقة الهد",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION IBNOU ARABI",
+    "NOM_ETABA": "ابن عربي",
+    "AdresseL": "N° 33, Rue De Metz, Benjdia - ",
+    "AdresseA": "رقم 33، زنقة ميتز، بنجدية - ج.",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT MAROCAIN D ENSEIGNEMENT SECONDAIRE ET TEC",
+    "NOM_ETABA": "المعهد المغربي",
+    "AdresseL": "N° 3, Rue Al Khaouarizmi, Plac",
+    "AdresseA": "رقم 3، زنقة الخوارزمي، ساحة وا",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PYTHALES 2",
+    "NOM_ETABA": "بيتال 2 الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "14 زنقة بغداد",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jean nicolas de condorcet",
+    "NOM_ETABA": "جون نيكولا دكوندروسيت",
+    "AdresseL": "3 RUE TAYEB ABDELKRIM",
+    "AdresseA": "3 زنقة الطيب عبد الكريم 20110 ",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATLAS ANNAJAH",
+    "NOM_ETABA": "أطلس النجاح",
+    "AdresseL": "78 , quartier alsace lorraine ",
+    "AdresseA": "78 زاوية زرهون وزنقة لاموريير ",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "pythales",
+    "NOM_ETABA": "بيتال",
+    "AdresseL": "NULL",
+    "AdresseA": "18 زنقة بغداد",
+    "COMMUNE": "Sidi Belyout",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

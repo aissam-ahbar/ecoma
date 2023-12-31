@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUTERBAT",
+    "NOM_ETABA": "ثانوية اوتربات الإعدادية",
+    "AdresseL": "OUTERBAT",
+    "AdresseA": "اوتربات",
+    "COMMUNE": "Outerbat",
+    "PROVINCE": "Province: Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " S/S ALIMAME ALGHAZALI",
+    "NOM_ETABA": "م/م الامام الغزالي",
+    "AdresseL": "KSAR OUTERBATE IMILCHIL",
+    "AdresseA": "قصر اوتربات املشيل",
+    "COMMUNE": "Outerbat",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S  AL AMAL",
+    "NOM_ETABA": " م/م الامل",
+    "AdresseL": "KSAR AIT ALI OUIKOU OUTERBATE IMILCHIL",
+    "AdresseA": "ايت علي ويكو           اتربات",
+    "COMMUNE": "Outerbat",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT YAHIA OU SGHIR",
+    "NOM_ETABA": "ايت يحيى او الصغير",
+    "AdresseL": "KSAR AIT YAHIA OU SGHIR OUTERBATE IMILCHIL",
+    "AdresseA": "قصر ايت يحيى اوالصغير اوتربات",
+    "COMMUNE": "Outerbat",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT TADARTE",
+    "NOM_ETABA": "ايت تدارت - م/م 30 يوليوز",
+    "AdresseL": "KSAR ait tadarte UTERBATE IMILCHIL",
+    "AdresseA": "قصر ايت تدارت اوتربات املشيل",
+    "COMMUNE": "Outerbat",
+    "PROVINCE": "Midelt",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

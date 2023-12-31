@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "OULAD BEL GUACEM CENTRE",
+    "NOM_ETABA": "مركزية اولاد بلقاسم",
+    "AdresseL": " OULAD BEL KACEM COMMUNE OULAD FARES ELHALLA",
+    "AdresseA": "اولاد بلقاسم جماعة اولاد فارس الحلة",
+    "COMMUNE": "Oulad Fares El Halla",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELHALLA CENTRE",
+    "NOM_ETABA": "مركزية الحلة",
+    "AdresseL": "ELHALLA CENTRE COMMUNE OULAD FARES ELHALLA",
+    "AdresseA": "مركزية الحلة اولاد فارس الحلة",
+    "COMMUNE": "Oulad Fares El Halla",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

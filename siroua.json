@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": " LYCÉE COLLEGIAL HASSAN ABD ALLAH ELMAZOURI",
+    "NOM_ETABA": "الثانوية الإعدادية حسن عبد الله المزوغي",
+    "AdresseL": "DOUAR ANZAL",
+    "AdresseA": "دوار انزال",
+    "COMMUNE": "Siroua",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S ANZAL",
+    "NOM_ETABA": "م.م. انزال",
+    "AdresseL": " anzal coumune siroua kiadate Anzal OURZAZATE",
+    "AdresseA": "  دوار أنزال جماعة سيروا قيادة أنزال إقليم ورزازات",
+    "COMMUNE": "Siroua",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAMAZIRTE",
+    "NOM_ETABA": "م.م. تمازيرت",
+    "AdresseL": "TAZNAKHTE",
+    "AdresseA": "تزناخت",
+    "COMMUNE": "Siroua",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S IMAGHLAY",
+    "NOM_ETABA": "م.م. امغلاي",
+    "AdresseL": "TAZNAKHTE",
+    "AdresseA": "دوار امغلاي جماعة سيروا",
+    "COMMUNE": "Siroua",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S N KOB AIT WRGHARDA",
+    "NOM_ETABA": "م.م. النقب ايت وغرضة",
+    "AdresseL": "DOUAR NKOB AIT WAGHRDA COMMUNE SIROUA",
+    "AdresseA": "دوار النقب ايت وغرضة جماعة سيروا",
+    "COMMUNE": "Siroua",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT TIGUA",
+    "NOM_ETABA": "م.م. ايت تيكة",
+    "AdresseL": "douar ait tiGa  siroua ourzazatE",
+    "AdresseA": "دوار ايت تيكة جماعة سيروا ورزازات",
+    "COMMUNE": "Siroua",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

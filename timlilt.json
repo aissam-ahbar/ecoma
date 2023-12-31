@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "ALATAS",
+    "NOM_ETABA": "ألتاس",
+    "AdresseL": "DOUAR ALATAS COMMUNE TIMLILT",
+    "AdresseA": "دوار  ألتاس",
+    "COMMUNE": "Timlilt",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZEDRA",
+    "NOM_ETABA": "تزدرة",
+    "AdresseL": "DOUAR TAZEDRA  COMMUNE TIMLILT",
+    "AdresseA": " دوار  تزدرة جماعة تمليلت دائرة متوكة",
+    "COMMUNE": "Timlilt",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMKEDRANE",
+    "NOM_ETABA": "أمكضران",
+    "AdresseL": "DOUAR AMKEDRANE COMMUNE TIMLILT",
+    "AdresseA": "دوار  أمكضران",
+    "COMMUNE": "Timlilt",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

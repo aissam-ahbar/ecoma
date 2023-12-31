@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": " COLLEGE SMIMOU",
+    "NOM_ETABA": "الثانوية الاعدادية سميمو",
+    "AdresseL": "CENTRE SMIMOU",
+    "AdresseA": "مركز سميمو",
+    "COMMUNE": "Smimou",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI BOUZEKR",
+    "NOM_ETABA": "م سيدي بوسكري",
+    "AdresseL": "CENTRE DE SMIMOU",
+    "AdresseA": "مركز سميمو",
+    "COMMUNE": "Smimou",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SMIMOU",
+    "NOM_ETABA": "م.م. سميمو",
+    "AdresseL": "DOUAR IMAJAD SMIMOU",
+    "AdresseA": "دوار امجاض سميمو",
+    "COMMUNE": "Smimou",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALMAJD",
+    "NOM_ETABA": "الثانوية التأهيلية المجد",
+    "AdresseL": "CENTRE SMIMOU",
+    "AdresseA": "مركز سميمو",
+    "COMMUNE": "Smimou",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

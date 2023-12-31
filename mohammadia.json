@@ -1,0 +1,1122 @@
+[
+  {
+    "NOM_ETABL": "AL JOULANE",
+    "NOM_ETABA": "الجولان",
+    "AdresseL": "BD LA RESISTANCE ALIA MOHAMMEDIA",
+    "AdresseA": "شارع المقاومة العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDERRAHMANE CHENNAF",
+    "NOM_ETABA": "عبد الرحمان شناف",
+    "AdresseL": "BD AL HOURRIYA ALIA MOHAMMEDIA",
+    "AdresseA": "شارع الحرية العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN RACHIQ",
+    "NOM_ETABA": "إبن رشيق",
+    "AdresseL": "BD CHOURAFA ALIA MOHAMMEDIA",
+    "AdresseA": "شارع الشرفاء العالية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "YAAKOUB EL MANSOUR",
+    "NOM_ETABA": "يعقوب المنصور",
+    "AdresseL": "BD DE LA RESISTANCE ALIA MOHAMMEDIA",
+    "AdresseA": "شارع المقاومة العالية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL AKID AL ALLAM",
+    "NOM_ETABA": "العقيد العلام",
+    "AdresseL": "BD   MONASTIR ALIA",
+    "AdresseA": "شارع منستير العالية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOHAMMEDIA",
+    "NOM_ETABA": "المحمدية",
+    "AdresseL": "RUE DE SOUSS KASBAH MOHAMMEDIA",
+    "AdresseA": "زنقة سوس القصبة",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "PALESTINE",
+    "NOM_ETABA": "فلسطين",
+    "AdresseL": "BDDE SEBTA ALIA MOHAMMEDIA",
+    "AdresseA": "شارع سبتة  العليا",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "BDMY YOUSSEF KASBAH MOHAMMEDIA",
+    "AdresseA": "شارع مولاي يوسف القصبة المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALMAGHRIB AL ARABI",
+    "NOM_ETABA": "المغرب العربي",
+    "AdresseL": "QUARTIER LA COLLINE bd dakar",
+    "AdresseA": "شارع دكار لاكولين  المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HASSANIA",
+    "NOM_ETABA": "الحسنية",
+    "AdresseL": "QUARTIER EL WAHDA I ALIA MOHAMMEDIA",
+    "AdresseA": "حي الوحدة 1 العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELWAHED MARRAKCHI",
+    "NOM_ETABA": "عبد الواحد المراكشي",
+    "AdresseL": "BD CHORAFA ALIA MOHAMMEDIA",
+    "AdresseA": "شارع الشرفاء العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FECHTALI",
+    "NOM_ETABA": "الفشتالي",
+    "AdresseL": "BD ALMOURABITINE ALIA MOHAMMEDIA",
+    "AdresseA": "شارع المرابطين العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA ",
+    "NOM_ETABA": "   المسيرة ",
+    "AdresseL": "HAY RIAD I ALIA MOHAMMEDIA",
+    "AdresseA": "حي الرياض 1 العاليا المحمية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTABARI",
+    "NOM_ETABA": "الطبري",
+    "AdresseL": "HAY EL WAHDA 1 ALIA MOHAMMEDIA",
+    "AdresseA": "حي الوحدة 1 العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MSALLA",
+    "NOM_ETABA": "المصلى",
+    "AdresseL": "DERB CHABAB C  ALIA MOHAMMEDIA",
+    "AdresseA": "درب الشباب س العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHANSAA",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "BDMONASTIR ALIA MOHAMMEDIA",
+    "AdresseA": "شارع الموناستير العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ATTIYA",
+    "NOM_ETABA": "ابن عطية",
+    "AdresseL": "BDMONASTIR ALIA MOHAMMEDIA",
+    "AdresseA": "شارع الموناستير العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL BRADAA",
+    "NOM_ETABA": "البرادعة",
+    "AdresseL": "HAY RIYAD ASSALAM BD MOHAMED 6 MOHAMMEDIA",
+    "AdresseA": "حي رياض السلام شارع محمد السادس المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "BDALHOURRYA ALIA MOHAMMEDIA",
+    "AdresseA": "شارع الحرية العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "WALLADA",
+    "NOM_ETABA": "ولادة",
+    "AdresseL": "RUE DE SOUSS KASBAH MOHAMMEDIA",
+    "AdresseA": "زنقة سوس القصبة المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL GHAZALI",
+    "NOM_ETABA": "الغزالي",
+    "AdresseL": "RUE NADOR KASBAH MOHAMMEDIA",
+    "AdresseA": "زنقة الناضور القصبة المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN HABBOUS",
+    "NOM_ETABA": "ابن حبوس",
+    "AdresseL": "BDCADI TAZI  HASSANIA 1 ALIA MOHAMMEDIA",
+    "AdresseA": "شارع القاضي التازي الحسنية 1 العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRACHIDIA",
+    "NOM_ETABA": "الرشيدية",
+    "AdresseL": "BD CADI TAZI ALIA MOHAMMEDIA",
+    "AdresseA": "شارع القاضي التازي العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA ASMAA",
+    "NOM_ETABA": "للا أسماء",
+    "AdresseL": "AVENUE HASSAN II KASBAH MOHAMMEDIA",
+    "AdresseA": "شارع الحسن الثاني القصبة المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOULAY ABDELLAH FILLES",
+    "NOM_ETABA": "مولاي عبد الله بنات",
+    "AdresseL": "HAY HASSANIA II ALIA MOHAMMEDIA",
+    "AdresseA": "حي الحسنية 2 العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FALAH",
+    "NOM_ETABA": "الفلاح",
+    "AdresseL": "QUARTIER RACHIDIA III ALIA MOHAMMEDIA",
+    "AdresseA": "حي الراشيدية 3 العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ZAIDOUNE",
+    "NOM_ETABA": "ابن زيدون",
+    "AdresseL": "HAY CHAHAOUTA ALIA MOHAMMEDIA",
+    "AdresseA": "حي الشحاوطة العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD HAMIMOUNE",
+    "NOM_ETABA": "أولاد حميمون 1",
+    "AdresseL": "ROUTE COTIERE MOHAMMEDIA",
+    "AdresseA": "الطريق الشاطئية كلم 7",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL BAYROUNI",
+    "NOM_ETABA": "البيروني",
+    "AdresseL": "RACHIDIA III  MOHAMMEDIA",
+    "AdresseA": "الراشيدية 3 المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BELLE VUE",
+    "NOM_ETABA": "المنظر الجميل",
+    "AdresseL": "LOTISSEMENT SOLEIL  MOHAMMEDIA",
+    "AdresseA": "تجزئة شمس المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HANSALI",
+    "NOM_ETABA": "الحنصالي",
+    "AdresseL": "HAY ESSEDIK 1 EL ALIA MOHAMMEDIA",
+    "AdresseA": "حي الصديق 1 العاليا المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FARAZDAQ",
+    "NOM_ETABA": "الفرزدق",
+    "AdresseL": "ECRAN SAMIR HASSANIA 2 MOHAMMEDIA",
+    "AdresseA": "واجهة سامبر الحسنية 2 المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED HAMIMOUN  II",
+    "NOM_ETABA": "اولاد حميمون 2 ",
+    "AdresseL": "route 107 mohammedia",
+    "AdresseA": "طريق 107 عمالة المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "RIad    eSSALAM 2    MOHAMMEDIA",
+    "AdresseA": "رياض السلام 2  المحمدية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNASSIM",
+    "NOM_ETABA": "النسيم",
+    "AdresseL": "RESIDENCE ANNASSIM",
+    "AdresseA": "إقامة النسيم",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE IBN KHALDOUN",
+    "NOM_ETABA": "الثانوية التأهيلية ابن خلدون",
+    "AdresseL": "Hassania II El Alia bd ryad",
+    "AdresseA": "الحسنية 2شارع الرياض العاليا ",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Lycée Technique",
+    "NOM_ETABA": "الثانوية التقنية",
+    "AdresseL": "BD HASSAN II MOHAMMEDIA",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ALIA FILLES",
+    "NOM_ETABA": "العاليا",
+    "AdresseL": " boulevard erriad",
+    "AdresseA": "شارع الرياض",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL JOULANE",
+    "NOM_ETABA": "الثانوية التأهيلية الجولان",
+    "AdresseL": "QUARTIER CHAHAOUTA ALIA MOHAMMEDIA",
+    "AdresseA": "حي الشحاوطة العالية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN YASSINE",
+    "NOM_ETABA": "ابن ياسين",
+    "AdresseL": "RUE DU SOUSS KASBAH MOHAMMEDIA",
+    "AdresseA": "زنقة سوس",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "JABER BEN HAYANE",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "BDCADI TAZI EL ALIA MOHAMMEDIA",
+    "AdresseA": "شارع القاضي التازي",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELKRIM ALKHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "BDALHOURRIYA ALIA MOHAMMEDIA",
+    "AdresseA": "شارع الحرية العالية",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT DES METIERS DE HOTELLERIE ET DU T",
+    "NOM_ETABA": "الثانوية التأهيلية لمهن الفندقة والسياحة",
+    "AdresseL": "ROUTE DE RABAT 28806 BP155",
+    "AdresseA": "طريق الرباط 28806 ص ب 155",
+    "COMMUNE": "Mohammadia",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BAB ALMAARIFA",
+    "NOM_ETABA": "باب المعرفة الخصوصية",
+    "AdresseL": "Lotissement Riad Essalam n° D1",
+    "AdresseA": "تجزئة رياض السلام رقم د139 - ش",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUCHE AL MALAIKA",
+    "NOM_ETABA": "عش الملائكة الخصوصية",
+    "AdresseL": "OUCHE Al MALAIKA",
+    "AdresseA": "358 حي القدس",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EUCLIDE",
+    "NOM_ETABA": "أوكليد الخصوصية",
+    "AdresseL": "N°191 lot ALWAHDA",
+    "AdresseA": "191 الوحدة",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Pythagore la colline",
+    "NOM_ETABA": "بيتاغور لاكولين الخصوصية",
+    "AdresseL": "197 Avenue de la résistance(la",
+    "AdresseA": "197 شارع المقاومة رقم",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL HAIMER",
+    "NOM_ETABA": "الحيمر الخصوصية",
+    "AdresseL": " riad essalam AC 29/30 ",
+    "AdresseA": "    رياض السلام أس 29/30 ",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GALILEE",
+    "NOM_ETABA": "غاليليو الخصوصية",
+    "AdresseL": "Bd hassan II, la siesta 3 ",
+    "AdresseA": "شارع الحسن الثاني رقم 3 لاسييس",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EZZAHRA",
+    "NOM_ETABA": "الزهراء الخصوصية",
+    "AdresseL": "Hay Al Wahda, 263- Al Alia",
+    "AdresseA": "حي الوحدة رقم 263  - العالية",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FEDALA",
+    "NOM_ETABA": "فضالة الخصوصية",
+    "AdresseL": "168 bis alfajer 1",
+    "AdresseA": "حي الفجر 1        168مكرر",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PYTHAGORE ACHBAL",
+    "NOM_ETABA": "بيتاغور أشبال الخصوصية",
+    "AdresseL": "Bd Hassan II Lotis. el mehzeh ",
+    "AdresseA": "شارع الحسن الثاني تجزئة المنزه",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JULES FERRY",
+    "NOM_ETABA": "جول فيري الخصوصية",
+    "AdresseL": "quartier el fajer - el alia -m",
+    "AdresseA": "حي الفجر المحمدية",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MASSALIK AL IRFANE",
+    "NOM_ETABA": "مسالك العرفان الخصوصية",
+    "AdresseL": "lotissement massira n°89",
+    "AdresseA": "تجزئة المسيرة رقم 89",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAM AL MAARIFA",
+    "NOM_ETABA": "عالم المعرفة الخصوصية",
+    "AdresseL": "96 hay dakhla El alia",
+    "AdresseA": "حي الداخلة رقم 96 العاليا ",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "APOSTROPHE",
+    "NOM_ETABA": "أبوسطروف الخصوصية",
+    "AdresseL": "Nice N°107",
+    "AdresseA": "107 تجزئة نيس",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHARAF AL ADARISSA",
+    "NOM_ETABA": "شرف الأدارسة الخصوصية",
+    "AdresseL": "bd sebta n°7 anfa",
+    "AdresseA": "شارع سبتة رقم 7 أنفا ",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ROSES FEDALA",
+    "NOM_ETABA": "روز فضالة الخصوصية",
+    "AdresseL": "lotissement rose fedala Bd has",
+    "AdresseA": "تجزئة روز فضالة شارع الحسن 2",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANOUAL",
+    "NOM_ETABA": "أنوال الخصوصية",
+    "AdresseL": "Lot. La Colline N0 566, Avenue",
+    "AdresseA": "تجزئة لاكولين رقم 566 شارع أنو",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ADDOHA",
+    "NOM_ETABA": " الضحى الخصوصية",
+    "AdresseL": "N° 28, Hay Oued Al Makhazine ",
+    "AdresseA": "رقم 28، حي وادي المخازن",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "VIVALDI",
+    "NOM_ETABA": " فيفالدي الخصوصية",
+    "AdresseL": "Bd. Hassan II,  La Siesta N° 1",
+    "AdresseA": "شارع الحسن الثاني، لاسييسطا، ر",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INARA",
+    "NOM_ETABA": "الإنارة الخصوصية",
+    "AdresseL": "Inara  III, N° 47 - 49 - 51 - ",
+    "AdresseA": "حي الإنارة 3   الرقم 47  49  5",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PYTHAGORE",
+    "NOM_ETABA": "بيتاغور الخصوصية",
+    "AdresseL": "Bd. Hassan II, La Siesta 305",
+    "AdresseA": "شارع الحسن الثاني، لاسيسطا 305",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALOMARAA",
+    "NOM_ETABA": " الأمراء الخصوصية",
+    "AdresseL": "Bd. de Palestine",
+    "AdresseA": "شارع فلسطين",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNAHDA AL HASSNIA",
+    "NOM_ETABA": "النهضة الحسنية الخصوصية",
+    "AdresseL": "BD BIR ANZARAN",
+    "AdresseA": "شارع بئر انزران",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AZZAYTOUNE",
+    "NOM_ETABA": " الزيتون الخصوصية",
+    "AdresseL": "235 angle bd sebta et 11 janvi",
+    "AdresseA": "235  زاوية شارع سبتة و 11  ينا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAHD",
+    "NOM_ETABA": " المهد الخصوصية",
+    "AdresseL": "Bd AL HOURRIA ALIA ",
+    "AdresseA": "شارع الحرية العاليا ",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAUDELAIRE",
+    "NOM_ETABA": " بودليرالخصوصية",
+    "AdresseL": "Cité ESSAADA N° 293 ELALIA ",
+    "AdresseA": "293 حي السعادة العاليا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CANDIDE",
+    "NOM_ETABA": "كانديد الخصوصية",
+    "AdresseL": "Angle rue Brahim ROUDANI et ru",
+    "AdresseA": "زاوية زنقة ابراهيم الروداني وز",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAARIF",
+    "NOM_ETABA": "المعارف الخصوصية",
+    "AdresseL": "686 Bd 11 JANVIER",
+    "AdresseA": "686  شارع 11 يناير حي القدس",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KARAOUIYINE",
+    "NOM_ETABA": "القرويين الخصوصية",
+    "AdresseL": " 350 Bd SEBTA LOTISSEMENT ANFA",
+    "AdresseA": "350  شارع سبتة تجزئة انفا رقم",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DANIA",
+    "NOM_ETABA": "دانية الخصوصية",
+    "AdresseL": "Bd HASSAN II",
+    "AdresseA": " شارع الحسن الثاني",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MIRI ALHORRA",
+    "NOM_ETABA": "ميري الحرة الخصوصية",
+    "AdresseL": "Bd SEBTA BELLEVUE ",
+    "AdresseA": "زنقة سبتة المنظر الجميل",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "François  Mauriac",
+    "NOM_ETABA": "فرانسوا مورياك الخصوصية",
+    "AdresseL": "Bd ABDELMOUMEN B.P.: 51",
+    "AdresseA": "شارع عبد المومن ص.ب.: 51",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KADISSIA",
+    "NOM_ETABA": "القادسية الخصوصية",
+    "AdresseL": " 233 HAY ALQODS",
+    "AdresseA": " 233 حي القدس",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE NID FAMILIAL",
+    "NOM_ETABA": " مدرسة العش العائلي الخصوصية",
+    "AdresseL": "Bd SEBTA BELLEVUE ",
+    "AdresseA": "شارع سبتة المنظر الجميل",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Decroly",
+    "NOM_ETABA": "دكرولي الخصوصية",
+    "AdresseL": "Bd HASSAN II ",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AFAK 2",
+    "NOM_ETABA": "الآفاق 2 الخصوصية",
+    "AdresseL": "rue zerhoune, lotissement anfa",
+    "AdresseA": "زنقة زرهون حي انفا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MIRI",
+    "NOM_ETABA": "ميري الخصوصية",
+    "AdresseL": "Bd SEBTA LOTISSEMENT ANFA",
+    "AdresseA": "شارع سبتة تجزئة انفا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AVICENNE",
+    "NOM_ETABA": "ابن سينا الخصوصية",
+    "AdresseL": "BD ZENATA",
+    "AdresseA": "شارع زناتة",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOCRATE",
+    "NOM_ETABA": "سقراط الخصوصية",
+    "AdresseL": "imm mesk ellail",
+    "AdresseA": "إقامة مسك الليل",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SPINOZA",
+    "NOM_ETABA": "سبينوزا الخصوصية",
+    "AdresseL": "LO FADL ALLAH N°12-13",
+    "AdresseA": "تجزئة فضل الله رقم 12-13",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KARAOUIYINE IBDAE",
+    "NOM_ETABA": " القرويين إبداع الخصوصية",
+    "AdresseL": "bd sebta,lot anfa,368 la colli",
+    "AdresseA": "شارع سبتة، تجزئة انفا، 368، لا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KARAOUIYINE SECONDAIRE",
+    "NOM_ETABA": "القرويين ثانوي الخصوصية",
+    "AdresseL": "bd sebta,lot anfa,336 la colli",
+    "AdresseA": "شارع سبتة، تجزئة انفا، 336، لا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HADAIK ADEN",
+    "NOM_ETABA": " حدائق عدن الخصوصية",
+    "AdresseL": "RUE PALESTINE RESIDENCE ROUKIA",
+    "AdresseA": "شارع فلسطين إقامة رقية 2",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RODIN 2 ALMANBAA",
+    "NOM_ETABA": "رودان 2 المنبع الخصوصية",
+    "AdresseL": "Riad assalam lot C alia",
+    "AdresseA": " رياض السلام بقعة س العالية",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GASTON BACHELARD",
+    "NOM_ETABA": "جاستون باشلار الخصوصية",
+    "AdresseL": "lotissement la colline n°459",
+    "AdresseA": "تجزئة الهضبة الرقم 459 ",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KOBAE",
+    "NOM_ETABA": "قباء الخصوصية",
+    "AdresseL": "hay el wahda ",
+    "AdresseA": "حي الوحدة",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AUGUSTE RODIN",
+    "NOM_ETABA": "أوغست رودان الخصوصية",
+    "AdresseL": "RUE MOHAMEMED6 LOT ALMASSIRA",
+    "AdresseA": "شارع محمد السادس تجزئة المسيرة",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NEWTON INTERNATIONAL SCHOOL",
+    "NOM_ETABA": "نيوتن أنترناسيونال سكول الخصوصية",
+    "AdresseL": "RUE IBN KHAFAJA LOT ANFA",
+    "AdresseA": "زنقة ابن خفاجة تجزئة أنفا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNASSIM",
+    "NOM_ETABA": "النسيم الخصوصية",
+    "AdresseL": "Quartier dakhla n° 78 ",
+    "AdresseA": "حي الداخلة رقم 78",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AYAM",
+    "NOM_ETABA": "الأيام الخصوصية",
+    "AdresseL": "rue de sebta n°3 mohammadia",
+    "AdresseA": "3 شارع سبتة",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GALILEE SENIOR",
+    "NOM_ETABA": " غاليليو سينيورالخصوصية ",
+    "AdresseL": "bd hassan 2 bni amar n°1",
+    "AdresseA": "شارع الحسن الثاني بني عامر الر",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "empreinte",
+    "NOM_ETABA": "البصمة الخصوصية",
+    "AdresseL": "lotissement koudia 693 bis",
+    "AdresseA": "693 مكرر تجزئة الكدية",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MIFTAH AL MAARIFA",
+    "NOM_ETABA": "مفتاح المعرفة الخصوصية",
+    "AdresseL": "Cartier annassim blad errmilat",
+    "AdresseA": "حي النسيم بلاد الرميلات المحمد",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PYTHAGORE ACHBAL 2",
+    "NOM_ETABA": "بيتاغور أشبال 2 الخصوصية",
+    "AdresseL": "bd hassan2 n°48",
+    "AdresseA": "شارع الحسن الثاني رقم 48",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PONCEAU",
+    "NOM_ETABA": "الجسير الخصوصية",
+    "AdresseL": "residence assalam bd mohamed b",
+    "AdresseA": "إقامات السلام شارع محمد بن عبد",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "VIVALDI SHEMS",
+    "NOM_ETABA": "فيفلدي شمس الخصوصية",
+    "AdresseL": "lotissement chams",
+    "AdresseA": "تجزئة شمس",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BORDAS",
+    "NOM_ETABA": "بورداس الخصوصي",
+    "AdresseL": "quartier alwahda alia 286",
+    "AdresseA": "286 حي الوحدة العاليا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RODIN INTERNATIONAL",
+    "NOM_ETABA": "رودان أنترناسيونال الخصوصية",
+    "AdresseL": "lot almassira fb 5",
+    "AdresseA": "تجزئة المسيرة ف ب 5",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BERNAN",
+    "NOM_ETABA": "برنان الخصوصية",
+    "AdresseL": "belle vue2 n°28 alia",
+    "AdresseA": "المنظر الجميل 2 رقم 28 العاليا",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "PYTHAGORE JUNIOR 3",
+    "NOM_ETABA": "بيتاغور جينيور3 الخصوصية ",
+    "AdresseL": "lotissement almanzah n°45",
+    "AdresseA": "تجزئة المنزه الرقم 45",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MONALIZA POUR L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "موناليزا الخصوصية للتعليم الأولي",
+    "AdresseL": "riad assalam n°43",
+    "AdresseA": "رياض السلام رقم 43",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAMA AIDA POUR L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "ماما عايدة الخصوصية للتعليم الأولي",
+    "AdresseL": "bd hassan 2 lot manissmane n°8",
+    "AdresseA": "شارع الحسن الثاني تجزئة الشاطئ",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNAJD POUR L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "النجد الخصوصية للتعليم الأولي",
+    "AdresseL": "cartier annasr 22 c",
+    "AdresseA": "حي النصر 22س",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KARMEN",
+    "NOM_ETABA": "كارمن الخصوصية",
+    "AdresseL": "Lotissement jad elmahjoub N°33",
+    "AdresseA": "تجزئة جاد المحجوب رقم 33-34",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CREATEUR",
+    "NOM_ETABA": "كرياتور الخصوصية",
+    "AdresseL": "Lotissement hfsa N°15",
+    "AdresseA": "يجزئة حفصة رقم 15",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENIGMA",
+    "NOM_ETABA": "إنيكما الخصوصية",
+    "AdresseL": "r;wafa224 mohammedia",
+    "AdresseA": "حي الوفاء زنقة الجاحظ 224",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEAN MERMOZ",
+    "NOM_ETABA": "جون مرموز الخصوصية",
+    "AdresseL": "Boulevard hassan 2 la siesta N",
+    "AdresseA": "شارع الحسن الثاني لاسييسطا رقم",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAJORELLE3",
+    "NOM_ETABA": "ماجوريل 3 الخصوصية",
+    "AdresseL": "LOtissement fadl ellah bd sebt",
+    "AdresseA": "شارع سبتة تجزئة فضل الله رقم 1",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BABYLONE ACADEMY",
+    "NOM_ETABA": "بابيلون أكاديمي الخصوصية",
+    "AdresseL": "Rue Houman El Fetouaki",
+    "AdresseA": "زنقة حمان الفطواكي",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RODIN INTERNATIONNAL 2",
+    "NOM_ETABA": "رودان أنترناسيونال 2 الخصوصية",
+    "AdresseL": "Lotissement Massira F 18",
+    "AdresseA": "تجزئة المسيرة ف.ب 18",
+    "COMMUNE": "Mohammadia ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

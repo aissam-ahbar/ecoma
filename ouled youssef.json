@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OULED YOUSSEF",
+    "NOM_ETABA": "ثانوية أولاد يوسف الإعدادية",
+    "AdresseL": "ouled youssef",
+    "AdresseA": "اولاد يوسف",
+    "COMMUNE": "Ouled Youssef",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED YOUSSEF",
+    "NOM_ETABA": "م اولاد يوسف",
+    "AdresseL": "CENTRE OULED YOUSSEF COMMUNE OULED YOUSSEF",
+    "AdresseA": "جماعة  اولاد يوسف",
+    "COMMUNE": "Ouled Youssef",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED HMAMA CENTRE",
+    "NOM_ETABA": "مركزية اولاد احمامة",
+    "AdresseL": "OULED HMAMA COMMUNE OULED YOUSSEF",
+    "AdresseA": "جماعة  اولاد يوسف",
+    "COMMUNE": "Ouled Youssef",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OULAD YOUSSEF",
+    "NOM_ETABA": "ثانوية اولاد يوسف التأهيلية",
+    "AdresseL": "Douar Oulad Youssef commune Oulad Youssef",
+    "AdresseA": "دوار اولاد يوسف جماعة أولاد يوسف",
+    "COMMUNE": "Ouled Youssef",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "oum rabii",
+    "NOM_ETABA": "أم الربيع",
+    "AdresseL": "OULED BOUTATCHA, OULED YOUSSEF",
+    "AdresseA": "أولاد البوتاتشة، أولاد يوسف",
+    "COMMUNE": "Ouled Youssef",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "beni maadane",
+    "NOM_ETABA": "مؤسسة بني معدان",
+    "AdresseL": "OULED YOUSSEF",
+    "AdresseA": "مركز أولاد يوسف",
+    "COMMUNE": "Ouled Youssef",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMAL EL GHAD",
+    "NOM_ETABA": "أمل الغد الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "دوار أولاد حمامة جماعة أولاد ي",
+    "COMMUNE": "Ouled Youssef",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RISSALT AL ILM",
+    "NOM_ETABA": "رسالة العلم",
+    "AdresseL": "NULL",
+    "AdresseA": "اولاد بو تاتشة ",
+    "COMMUNE": "Ouled Youssef",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

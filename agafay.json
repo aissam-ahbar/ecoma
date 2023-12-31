@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "ss AIT CHEIKH centrale",
+    "NOM_ETABA": "مجموعة مدارس أيت الشيخ المركزية",
+    "AdresseL": "DOUAR AIT CHEIKH CAGAFAY",
+    "AdresseA": "دوار أيت الشيخ ج أكفاي",
+    "COMMUNE": "Agafay",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss AIT DAOUD centrale",
+    "NOM_ETABA": "مجموعة مدارس أيت داود المركزية",
+    "AdresseL": "DOUAR AIT DAOUD  commune d agafay",
+    "AdresseA": "دوار أيت داود جماعة أكفاي",
+    "COMMUNE": "Agafay",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss TACHRAFTE centrale",
+    "NOM_ETABA": "مجموعة مدارس تشرافت المركزية",
+    "AdresseL": "DOUAR TACHRAFTE C AGAFAY",
+    "AdresseA": "دوار تشرافت ج أكفاي",
+    "COMMUNE": "Agafay",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss RJAL HMAR centrale",
+    "NOM_ETABA": "مجموعة مدارس رجال احمر المركزية",
+    "AdresseL": "DOUAR RJAL HMAR  AGAFAYE",
+    "AdresseA": "دوار رجال احمر ج أكفاي",
+    "COMMUNE": "Agafay",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss AGAFAY centrale",
+    "NOM_ETABA": "مجموعة مدارس أكفاي المركزية",
+    "AdresseL": "DOUAR MOULAY LAMINE  CAGAFAY",
+    "AdresseA": "دوار مولاي لامين ج أكفاي",
+    "COMMUNE": "Agafay",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN KHALDOUNE",
+    "NOM_ETABA": "الثانوية التأهيلية ابن خلدون",
+    "AdresseL": "AGAFAY",
+    "AdresseA": "أكفاي",
+    "COMMUNE": "Agafay",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

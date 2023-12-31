@@ -1,0 +1,492 @@
+[
+  {
+    "NOM_ETABL": "ABDERRAHMAN BNOU AOUF",
+    "NOM_ETABA": "عبد الرحمان بن عوف",
+    "AdresseL": "BD GRANDE CEINTURE ROUTE AZEMOUR COMMUNE ANFA",
+    "AdresseA": "شارع سيدي عبد الرحمان عين الدئاب",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL BAYROUNI",
+    "NOM_ETABA": "البيروني",
+    "AdresseL": "RUE IBN JOUHAIR ELHANK   COMMUNE ANFA",
+    "AdresseA": "زنقة ابن جهير العنق جماعة أنفا",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ANFA",
+    "NOM_ETABA": "انفا",
+    "AdresseL": "RUE BIOGRA BD TMARA    COMMUNE ANFA",
+    "AdresseA": "زنقة بويكرا شارع تمارة جماعة انفا",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN HAZM FILLE",
+    "NOM_ETABA": "ابن حزم بنات",
+    "AdresseL": "HAY ELHANK COMMUNE ANFA",
+    "AdresseA": "حي العنق",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED IQBAL",
+    "NOM_ETABA": "محمد إقبال",
+    "AdresseL": "HAY ELHANK COMMUNE ANFA",
+    "AdresseA": "العنق أنفا",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IDRISSI FILLE",
+    "NOM_ETABA": "الإدريسي بنات",
+    "AdresseL": "RUE ALI BEN HARAZEM  COMMUNE ANFA",
+    "AdresseA": "زنقة علي بن حرازم بوركون",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI ABDERRAHMAN",
+    "NOM_ETABA": "سيدي عبد الرحمان",
+    "AdresseL": "SIDI ABDERRAHMAN AIN DIAB COMMUNE ANFA",
+    "AdresseA": "طريق سيدي عبد الرحمان عين الدياب",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ANNAFIS",
+    "NOM_ETABA": "ابن النفيس",
+    "AdresseL": "hay narjis route azemour ain diab commune anfa",
+    "AdresseA": "حي النرجس - طريق أزمور- عين الدئاب- جماعة أنفا ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN ALBAYTAR",
+    "NOM_ETABA": "ابن البيطار",
+    "AdresseL": "7 RUE GOLF BENGUAL AIN DIAB  COMMUNE ANFA",
+    "AdresseA": "7 زنقة خليج البنغال عين الدئاب",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU ALKHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "RUE EL MEDIEQ ANFA  COMMUNE  ANFA",
+    "AdresseA": "زنقة المضيق أنفا",
+    "COMMUNE": "Anfa ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOULAY IDRISS PREMIER",
+    "NOM_ETABA": "مولاي إدريس الأول",
+    "AdresseL": "BD ABDELLATIF BEN KADOUR   COMMUNE ANFA",
+    "AdresseA": "شارع عبد اللطيف بن قدور أنفا",
+    "COMMUNE": "Anfa ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OUALLADA",
+    "NOM_ETABA": "ولادة",
+    "AdresseL": "RUE AHMED CHERCI COMMUNE ANFA",
+    "AdresseA": "زنقة أحمد الشرسي أنفا",
+    "COMMUNE": "Anfa ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL MASJID",
+    "NOM_ETABA": "المسجد",
+    "AdresseL": "RUE IBNOU JAHIRE ALHANK  COMMUNE ANFA",
+    "AdresseA": "زنقة ابن جهير العنق أنفا",
+    "COMMUNE": "Anfa ",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ELBILIA SKOLAR ZIRAOUI",
+    "NOM_ETABA": "ثانوية إلبيليا سكولار زيراوي",
+    "AdresseL": "206 boulevard Ziraoui",
+    "AdresseA": "206 شارع الزيراوي",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "val anfa1",
+    "NOM_ETABA": "فال أنفا 1",
+    "AdresseL": "angle av. driss slaoui et rue ",
+    "AdresseA": "شارع ادريس السلاوي وزاوية ابن ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sabrine",
+    "NOM_ETABA": "صابرين",
+    "AdresseL": "37LOT OUBA ROUTE D AZMOUR",
+    "AdresseA": "تجزئة أوبا رقم 37 طريق أزمور أ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jardin d   enfants Elbilia",
+    "NOM_ETABA": "حديقة الأطفال البيليا",
+    "AdresseL": "28.RUE IBNOU HAMDIS",
+    "AdresseA": "رقم 28 زنقة ابن حمديس",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MALAKIDS",
+    "NOM_ETABA": "ملاكيدز ",
+    "AdresseL": "1, angle boulevard idriss slao",
+    "AdresseA": "1 شارع تمارة و زنقة المضيق",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Point virgule",
+    "NOM_ETABA": "النقطة الفاصلة",
+    "AdresseL": "4 BD DRISS SLAOUI LOTISSement ",
+    "AdresseA": "شارع ادريس السلاوي الرقم 4 حي ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA CITE",
+    "NOM_ETABA": "المدينة الصغيرة",
+    "AdresseL": "angle rUE N° Bd abdelhadi bout",
+    "AdresseA": "زاوية الزنقة رقم 1 و شارع عبد ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CARRE JUNIOR",
+    "NOM_ETABA": "مربع الأشبال",
+    "AdresseL": "angle rostand x gardanne",
+    "AdresseA": "",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Farandole",
+    "NOM_ETABA": "لافرندول",
+    "AdresseL": "bd abdelhadi boutaleb anfa sup",
+    "AdresseA": "شارع عبد الهادي بوطالب أنفا ال",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA BULLE",
+    "NOM_ETABA": "مجموعة مدارس لبيل الخصوصية",
+    "AdresseL": "N° 4, Rue 3, Casablizance - An",
+    "AdresseA": "رقم 4، زنقة 3 كازابليزانس - ان",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L ETOILE FILANTE  II",
+    "NOM_ETABA": "النجم السيار 2",
+    "AdresseL": "9rue moussa al ayoubi bourgogn",
+    "AdresseA": "رقم 9 زنقة موسى الايوبي بوركون",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JEANNE ROBERT",
+    "NOM_ETABA": "جان روبير",
+    "AdresseL": "1,rue imam mouslim prolongemen",
+    "AdresseA": "1 زنقة الإمام مسلم بمحدات شارع",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AU CHATEAU DES ENFANTS",
+    "NOM_ETABA": "الى قلعة الأطفال",
+    "AdresseL": "3,rue souhail ben addi.quartie",
+    "AdresseA": "رقم 3 زنقة سهيل بن عدي . حي ال",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G. S. BOURGOGNE",
+    "NOM_ETABA": "بوركون",
+    "AdresseL": "bd dc mohamed sijlmassi Casa. ",
+    "AdresseA": "شارع الدكتور محمد السجلماسي",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Fourmilière",
+    "NOM_ETABA": " لافورميليير",
+    "AdresseL": "N° 8, Angle Bd Abdelkrim Khett",
+    "AdresseA": "رقم 8، ملتقى شارع عبد الكريم ا",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HATIM 2",
+    "NOM_ETABA": "حاتم 2",
+    "AdresseL": " Av NICE.N 408.BOURGONE   ANFA",
+    "AdresseA": " محج نيس الرقم 408  بوركون أنف",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAHD ",
+    "NOM_ETABA": "المهد الخاصة",
+    "AdresseL": "lotissement el fath ,bd abdelh",
+    "AdresseA": " تجزئة الفتح شارع عبد الهادي ب",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L UNION",
+    "NOM_ETABA": "الاتحاد",
+    "AdresseL": "N° 214, Boulevard Bourgogne - ",
+    "AdresseA": "رقم 214، شارع بوركون - ج. أنفا",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Manahil elbaidaa",
+    "NOM_ETABA": "المناهل البيضاء",
+    "AdresseL": "N° 2, Boulevard De Nice, Bourg",
+    "AdresseA": "رقم 2، شارع نيس، بوركون - ج. أ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Maison d Anfa",
+    "NOM_ETABA": "مؤسسة دار أنفا",
+    "AdresseL": "17 zenket Ain Harrouda quartie",
+    "AdresseA": "زنقة عين حرودة  رقم 17 ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Ben Bachir",
+    "NOM_ETABA": "مدرسة ابن البشير",
+    "AdresseL": "N° 7, Rue Al Kaissi Bd Docteur",
+    "AdresseA": "رقم 7، زنقة القيسي شارع الدكتو",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire Bourgogne",
+    "NOM_ETABA": "مجموعة مدارس بوركون",
+    "AdresseL": "BD .Dr.mOHAMED SIJLIMASSI-CASA",
+    "AdresseA": "شارع الدكتور محمد السجلماسي ال",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Manara El Ilmya",
+    "NOM_ETABA": "مدرسة المنارة العلمية",
+    "AdresseL": "Ard El Kabir, N° 26,h Route D ",
+    "AdresseA": "أرض الكبير، رقم 26، الهادي بو ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COURS VAL DOR",
+    "NOM_ETABA": "فال دور",
+    "AdresseL": "N° 66, Rue Marrakchi, Quartier",
+    "AdresseA": "رقم 66، زنقة المراكشي، حي لوبي",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution El Ouatki  Kaoukabi",
+    "NOM_ETABA": "مؤسسة الواثقي - كوكبي",
+    "AdresseL": "Lotissement Wakanti, Rue 3, N°",
+    "AdresseA": "تجزئة وكانتي، زنقة 3، رقم 4، ط",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Institution Chniber",
+    "NOM_ETABA": "مؤسسة أشنيبر",
+    "AdresseL": "N° 69, Boulevard du Phare, Bou",
+    "AdresseA": "رقم 69، شارع المنار، بوركون - ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "       Al Ayam Essaida",
+    "NOM_ETABA": "     الأيام السعيدة",
+    "AdresseL": "     N° 160, Bd Abdelhadi Bout",
+    "AdresseA": "رقم 160،شارع عبد الهادي بوطالب",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COLLEGE LYCEE ELBILIA",
+    "NOM_ETABA": "البيليا",
+    "AdresseL": "N° 24, Avenue Ahmed Cherci ",
+    "AdresseA": "رقم   24زنقة أحمد الشرسي",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE L HORCHIDEE",
+    "NOM_ETABA": "مجموعة مدارس لوركيدي",
+    "AdresseL": "N° 3, Avenue de la Côte Emerau",
+    "AdresseA": "رقم 3، شارع ساحل الزمرد، عين ا",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Val D Anfa II",
+    "NOM_ETABA": "فال أنفا2",
+    "AdresseL": "Avenue Ibnou Hamdis, Angle Rue",
+    "AdresseA": "شارع ابن حمديس، زاوية زنقة رقم",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL BILIA",
+    "NOM_ETABA": "مؤسسة البيليا",
+    "AdresseL": "87, Bd Abdellatif Benkaddour -",
+    "AdresseA": "87 شارع عبد الطيف بن قدور أنفا",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kenzi",
+    "NOM_ETABA": "كنزي",
+    "AdresseL": "21 RUE ABBAS IBNOU AHNAF",
+    "AdresseA": "21 زنقة عباس أبو حناف",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "petit calin junior",
+    "NOM_ETABA": "ابتي كلان جينيور",
+    "AdresseL": "32  av driss slaoui anfa casab",
+    "AdresseA": "شارع ادريس السلاوي آنفا الدار ",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "najmsayar Enfant",
+    "NOM_ETABA": "النجم السيار أطفال",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم3، زنقة ابن بنة العدادي أنف",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TRILINGUE INTERNATIONALEE",
+    "NOM_ETABA": "مؤسسة تريلانك انترناسيونال الخصوصية",
+    "AdresseL": "1BV TMARA VAL ANFA 2000 CASABL",
+    "AdresseA": "1شارع تمارة فال أنفا 2000 الدا",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL IQAMA ",
+    "NOM_ETABA": "الإقامة ",
+    "AdresseL": "NULL",
+    "AdresseA": "14 شارع ادريس السلاوي",
+    "COMMUNE": "Anfa",
+    "PROVINCE": "Préf. d’Arr. Casabl",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

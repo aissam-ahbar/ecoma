@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OMAR BEN JELLOUL",
+    "NOM_ETABA": " الثانوية الإعدادية عمر بن جلون",
+    "AdresseL": "commune rurale zaouit ben hmida",
+    "AdresseA": "جماعة زاوية بن حميدة",
+    "COMMUNE": "Zaouiat Ben Hmida",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S ZAOYAT BEN HMIDA",
+    "NOM_ETABA": "م م زاوية بن حميدة",
+    "AdresseL": "ZAOYAT BEN HMIDA",
+    "AdresseA": "زاوية بن حميدة",
+    "COMMUNE": "Zaouiat Ben Hmida",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BIRKOUAT",
+    "NOM_ETABA": "م م بئر كوات",
+    "AdresseL": "CENTRE BIRKOUAT ZAouiT BEN HMIDA",
+    "AdresseA": "مركز بئر كوات زاوية بن احميدة",
+    "COMMUNE": "Zaouiat Ben Hmida",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT NAJIB MAHFOUD",
+    "NOM_ETABA": "الثانوية التأهيلية نجيب محفوظ",
+    "AdresseL": "CENTRE ZAOUIATE BEN HMAIDA",
+    "AdresseA": "مركز جماعة بن احميدة",
+    "COMMUNE": "Zaouiat Ben Hmida",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

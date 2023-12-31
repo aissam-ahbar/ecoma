@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "C AL MOSTAQBAL",
+    "NOM_ETABA": "ثإ.المستقبل",
+    "AdresseL": "DOUAR SEBT   TATTAOUT COMMUNE TATTAOUT",
+    "AdresseA": "د. سبت تتاوت",
+    "COMMUNE": "Tataoute",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " SS ALWIAAM",
+    "NOM_ETABA": "م.م الوئام",
+    "AdresseL": " SEBT TATAOUTE C TATAOUT",
+    "AdresseA": "مركز تتاوت سبت تتاوت",
+    "COMMUNE": "Tataoute",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHAOUKI",
+    "NOM_ETABA": "م.م شوقي",
+    "AdresseL": "DOUAR TZAGHLILT Commune  TATAOUTe",
+    "AdresseA": " جماعة تتاوت دوار تزاغليت",
+    "COMMUNE": "Tataoute",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

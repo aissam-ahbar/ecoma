@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "ABOU HENAIFA",
+    "NOM_ETABA": "أبو حنيفة",
+    "AdresseL": "DOUAR AIT MBAREK LWAD  COMMUNE TEKNA",
+    "AdresseA": "دوار آيت امبارك الواد",
+    "COMMUNE": "Tekna",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HSSINE",
+    "NOM_ETABA": "احصاين",
+    "AdresseL": "DOUAR HSSINE  COMMUNE TEKNA sidi kacem",
+    "AdresseA": "دوار احصاين جماعة تكنة سيي قاسم",
+    "COMMUNE": "Tekna",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

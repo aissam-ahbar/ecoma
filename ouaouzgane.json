@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED ZERKTOUNI",
+    "NOM_ETABA": "الثانوية الاعدادية أحمد الزرقطوني",
+    "AdresseL": "CENTRE DE LA COMMUNE OUAOUZGANE",
+    "AdresseA": "مركز جماعة أوزكان",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS DRISS ELMOHAMMADI AGUERCIF",
+    "NOM_ETABA": "م/م ادريس المحمدي _اكرسيف",
+    "AdresseL": "DOUAR AKERSSIFCOUAOUZGANECHEFCHAOUEN",
+    "AdresseA": "دوار أكرسيف جماعة أوزكان",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMENKOUREN",
+    "NOM_ETABA": "م/م إمنكورن",
+    "AdresseL": "DOUAR IMENKOUREN C OUAOUZGANE CHEFCHAOUEN",
+    "AdresseA": "إمنكورن جماعة ووزكان",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S TALAMZALA",
+    "NOM_ETABA": "م/م تلامزالة",
+    "AdresseL": "DOUAR TALAMZALA COU AOUZGANE CHEFCHAOUEN",
+    "AdresseA": "دوار تلامزالة جماعة أوزكان شفشاون",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AOUEZGANE",
+    "NOM_ETABA": "م/م أوزكان",
+    "AdresseL": "DOUAR AOUZGANE COU AOUZGANE CHEFCHAOUEN",
+    "AdresseA": "دوار ووزكان جماعة أوزكان",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGHBAL",
+    "NOM_ETABA": "م/م أغبال",
+    "AdresseL": "DOUAR AGHBAL AOUZGANE CHEFCHAOUEN",
+    "AdresseA": "دوار أغبال جماعة أوزكان",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS NOUIDRAT",
+    "NOM_ETABA": "م/م نودارت",
+    "AdresseL": "DOUAR NOUDARET C OUAOUZGANE CHEFCHAOUEN",
+    "AdresseA": "  دوار نوذرات جماعة ووزكان شفشاون ",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AHMED BA HNINI IJOUAOUEN",
+    "NOM_ETABA": "م/م احمد باحنيني _اجواون",
+    "AdresseL": "DOUAR IJOUAOUENCAOUZGANECHEFCHAOUEN",
+    "AdresseA": "دوار إجواون جماعة أوزكان",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUAOUZGANE",
+    "NOM_ETABA": "الثانوية التأهيلية أوزكان",
+    "AdresseL": "CENTRE DE LA COMMUNE OUAOUZGANE",
+    "AdresseA": "مركز جماعة أوزكان",
+    "COMMUNE": "Ouaouzgane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

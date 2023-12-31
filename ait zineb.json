@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLEGIAL IBN TOUMERT",
+    "NOM_ETABA": "الثانوية الإعدادية بن تومرت",
+    "AdresseL": "TIMADLINE AIT ZINEB  AMERZEGANE OUARZAZATE",
+    "AdresseA": "تيمدلين ايت زينب امرزكان ورزازات",
+    "COMMUNE": "Ait Zineb",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S TIKIRTE",
+    "NOM_ETABA": "م.م.تيكيرت",
+    "AdresseL": "AIT ZINEB AMERZEGANE OUARZAZATE",
+    "AdresseA": "ايت زينب   امرزكان  ورزازات",
+    "COMMUNE": "Ait Zineb",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT BEN HADDOU",
+    "NOM_ETABA": "م.م. ايت بن حدو",
+    "AdresseL": "AIT BEN HADDOU AMERZEGANE",
+    "AdresseA": "ايت زينب",
+    "COMMUNE": "Ait Zineb",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAZANTOUTE",
+    "NOM_ETABA": "م.م. تزنتوت",
+    "AdresseL": "Tazantoute  Ait Zineb ",
+    "AdresseA": "ورزازات",
+    "COMMUNE": "Ait Zineb",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TAMDDAKHTE",
+    "NOM_ETABA": "م.م. تمداخت",
+    "AdresseL": "AIT ZINEB OUARZAZATE",
+    "AdresseA": "أيت زينب ورزازات",
+    "COMMUNE": "Ait Zineb",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TIGUERT NAIT FARES",
+    "NOM_ETABA": "م.م.تكيرت نايت فارس",
+    "AdresseL": "AIT ZINEB",
+    "AdresseA": "ايت زينب",
+    "COMMUNE": "Ait Zineb",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIT ZINEB",
+    "NOM_ETABA": "الثانوية التأهيلية ايت زينب",
+    "AdresseL": "Centre Timadline commune rurale ait zineb ouarzaza",
+    "AdresseA": "مركز تمدلين جماعة ايت زينب ورزازات",
+    "COMMUNE": "Ait Zineb",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

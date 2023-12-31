@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "TALAT OU MADIOUNE",
+    "NOM_ETABA": "تلات اوديون",
+    "AdresseL": "DOUAR TALAT OUMADIOUNE COMMUNE MOHA OUHAMOU ZAYANI",
+    "AdresseA": "دوار تلات امديون جماعة موحى وحمو الزياني",
+    "COMMUNE": "Moha Ou Hammou Zayani",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAGHNANA",
+    "NOM_ETABA": "سغنانة",
+    "AdresseL": "AIT BOUHAMMAD COMMUNE MOHA OU HAMOU ZAYANI KHENIFR",
+    "AdresseA": " ايت بوحماد جماعة موحى وحمو الزياني خنيفرة",
+    "COMMUNE": "Moha Ou Hammou Zayani",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUIMEZDAOUENE",
+    "NOM_ETABA": "بومزضاون",
+    "AdresseL": "DOUAR AIT CHART COMMUNE MOHA OU HAMOU ZAYANI",
+    "AdresseA": "دوار بومزضاون جماعة موحى وحمو الزياني",
+    "COMMUNE": "Moha Ou Hammou Zayani",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAABIT",
+    "NOM_ETABA": "تعبيت",
+    "AdresseL": "DOUAR TAABIT COMMUNE MOHA OUHAMOU ZAYANI",
+    "AdresseA": "دوار تعبيت جماعة موحى وحمو الزياني",
+    "COMMUNE": "Moha Ou Hammou Zayani",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT NOUH",
+    "NOM_ETABA": "ايت نوح",
+    "AdresseL": "DOUAR AIT NOUH COMMUNE MOHA OUHAMOU ZAYANI",
+    "AdresseA": "دوار ايت نوح جماعة موحى وحمو الزياني",
+    "COMMUNE": "Moha Ou Hammou Zayani",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  NOUVEAU SELOUANE",
+    "NOM_ETABA": "الثانوية الإعدادية سلوان الجديدة",
+    "AdresseL": "HAY EL WIFAK",
+    "AdresseA": "حي الوفاق",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  SALOUANE",
+    "NOM_ETABA": "الثانوية الإعدادية سلوان",
+    "AdresseL": "HAY SONASID SALOUANE",
+    "AdresseA": "حي سونصيد سلوان",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  TAOURIRT BOUSSETA",
+    "NOM_ETABA": "الثانوية الإعدادية تاوريرت بوستة",
+    "AdresseL": "selouane centre",
+    "AdresseA": "سلوان المركز",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  BADR",
+    "NOM_ETABA": "الثانوية الإعدادية بدر",
+    "AdresseL": "Hay AL Omran",
+    "AdresseA": "حي العمران",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SALOUANE",
+    "NOM_ETABA": "المدرسة الابتدائية سلوان",
+    "AdresseL": "RUE TETOUAN COMMUNE SELOUANE",
+    "AdresseA": "طريق تطوان",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YOUSSEF BEN TACHFINE",
+    "NOM_ETABA": "المدرسة الابتدائية يوسف بن تاشفين",
+    "AdresseL": "RUE AL KASR AL KABIR COMMUNE SELOUANE",
+    "AdresseA": "شارع القصر الكبير",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SONASSID",
+    "NOM_ETABA": "المدرسة الابتدائية صوناصيد",
+    "AdresseL": "HAY SONASSID SELOUANE",
+    "AdresseA": "حي صوناصيد سلوان",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUED EL MAKHAZINE",
+    "NOM_ETABA": "المدرسة الابتدائية وادي المخازن",
+    "AdresseL": "RUE CHARIF AMAZZIANE  COMMUNE SELOUANE",
+    "AdresseA": "طريق الشريف امزيان",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   TAOURIRT BOUSSETA",
+    "NOM_ETABA": "المدرسة الابتدائية تاوريرت بوستة",
+    "AdresseL": "DOUAR TAOURIRT BOUSSETA COMMUNE SELOUANE",
+    "AdresseA": "دوار تاوريرت بوستة",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULAD CHAAIB 2",
+    "NOM_ETABA": "مجموعة مدارس اولاد شعيب 2",
+    "AdresseL": "DOUAR OULAD CHAIB COMMUNE SELOUANE",
+    "AdresseA": "دوار اولاد شعيب",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAJZIAT AL OMRANE",
+    "NOM_ETABA": "المدرسة الابتدائية تجزئة العمران",
+    "AdresseL": "tajziat al omrane selouane",
+    "AdresseA": "تجزئة العمران سلوان",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SONASID 2",
+    "NOM_ETABA": "المدرسة الابتدائية صوناصيد 2",
+    "AdresseL": "SELOUNE",
+    "AdresseA": "سلوان",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZONE INDUSTRIELLE",
+    "NOM_ETABA": "الثانوية التأهيلية المنطقة الصناعية",
+    "AdresseL": "AL OMRANE SELOUANE",
+    "AdresseA": "العمران سلوان",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SELOUANE EL HASSANI",
+    "NOM_ETABA": "الثانوية التأهيلية سلوان الحساني",
+    "AdresseL": "hey elmassira selouane",
+    "AdresseA": "حي المسيرة سلوان",
+    "COMMUNE": "Selouane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AURELIAN SCHOOL",
+    "NOM_ETABA": "أورليون سكول",
+    "AdresseL": "El OMRANE Tranche 4-5-6    sel",
+    "AdresseA": "تجزئة العمران  الشطر 4-5-6    ",
+    "COMMUNE": "Selouane ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESSANABIL",
+    "NOM_ETABA": "السنابل",
+    "AdresseL": "144, HAY ALWIFAQ bd lakssar la",
+    "AdresseA": "144، حي الوفاق",
+    "COMMUNE": "Selouane ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION WADI ALMAARIFA",
+    "NOM_ETABA": "مؤسسة وادي المعرفة",
+    "AdresseL": "hay alwifak / selouane",
+    "AdresseA": "حي الوفاق سلوان",
+    "COMMUNE": "Selouane ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ESSANABIL 2",
+    "NOM_ETABA": "مؤسسة السنابل 2",
+    "AdresseL": "zone nouvelle al omrane seloua",
+    "AdresseA": "المنطقة العمرانية الجديدة قطعة",
+    "COMMUNE": "Selouane ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

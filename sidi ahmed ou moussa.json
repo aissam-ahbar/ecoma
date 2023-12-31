@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS LALLA MARYAM CENTRE ZAOUIT",
+    "NOM_ETABA": "م.م للا مريم مركزية الزاويت",
+    "AdresseL": "DOUAR ZAOUIT CENTRE COMMUNE SIDI AHMED OU MOUSSA",
+    "AdresseA": "دوار الزاويت مركز جماعة سيدي احمد اوموسى",
+    "COMMUNE": "Sidi Ahmed Ou Moussa",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MLY RACHID CENTRE TOUMANAR",
+    "NOM_ETABA": "م.م مولاي رشيد مركزية تومنار",
+    "AdresseL": "DOUAR TOUMANAR",
+    "AdresseA": "دوار تومنار",
+    "COMMUNE": "Sidi Ahmed Ou Moussa",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

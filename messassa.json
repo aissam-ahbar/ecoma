@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS AIN MNAKHER",
+    "NOM_ETABA": "م/م  عين مناخر",
+    "AdresseL": "KOUDIA AL GHIRRAN COMMUNE MESSASSA TISSA",
+    "AdresseA": "جماعة امساسة --قيادة غين اكدح-- تيسة-",
+    "COMMUNE": "Messassa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S MESSASSA",
+    "NOM_ETABA": "م/م  مساسة",
+    "AdresseL": "DOUAR MESSASSA COMMUNE MESSASSA  TISSA",
+    "AdresseA": "دوار مساسة   -جماعة مساسة-  تيسة",
+    "COMMUNE": "Messassa",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

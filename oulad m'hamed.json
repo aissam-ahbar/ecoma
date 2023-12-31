@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL OULED MHAMED",
+    "NOM_ETABA": "الثانوية الاعدادية اولاد امحمد ",
+    "AdresseL": "COMMUNE OULED  MHAMED",
+    "AdresseA": "جماعة اولاد امحمد المركز",
+    "COMMUNE": "Oulad M'Hamed",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "JEMAAT OULED MHAMED CENTRE",
+    "NOM_ETABA": "مركزية جمعة اولاد محمد",
+    "AdresseL": "douar oulad boumaiza  COMMUNE OULAD M HAMMED",
+    "AdresseA": "دوار اولاد بومعيزة جماعة اولاد امحمد",
+    "COMMUNE": "Oulad M'Hamed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EZZIREG CENTRE",
+    "NOM_ETABA": "مركزية اولاد الزيرك",
+    "AdresseL": "DOUAR OULAD lahcen  COMMUNE OULAD M HAMED",
+    "AdresseA": "دوار اولاد  لحسن  جماعة اولاد امحمد",
+    "COMMUNE": "Oulad M'Hamed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SALAH CENTRE",
+    "NOM_ETABA": "مركزية اولاد صالح",
+    "AdresseL": "DOUAR OULAD SALAH COMMUNE OULAD MHAMED",
+    "AdresseA": "دوار اولاد صالح جماعة اولاد امحمد",
+    "COMMUNE": "Oulad M'Hamed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD CHAIB SIDI ISMAIL CENTRE",
+    "NOM_ETABA": "مركزية اولاد شعيب سيدي اسماعيل",
+    "AdresseL": "oulad chaib COMMUNE OULED M HAMED",
+    "AdresseA": "اولاد شعيب جماعة اولاد محمد",
+    "COMMUNE": "Oulad M'Hamed",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "CPI NZALT LAADAM",
+    "NOM_ETABA": "المركب التربوي المندمج انزالت لعظم",
+    "AdresseL": "CR Nzalt Laadam",
+    "AdresseA": "جماعة انزالت لعظم",
+    "COMMUNE": "Nzalat Laadam",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LA BASE MILITAIRE",
+    "NOM_ETABA": "الثانوية الإعدادية القاعدة العسكرية",
+    "AdresseL": "LA BASE MILITAIRE BEN GUERIR",
+    "AdresseA": "القاعدة العسكرية",
+    "COMMUNE": "Nzalat Laadam",
+    "PROVINCE": "Province: Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE LA BASE MILITAIRE",
+    "NOM_ETABA": "مدرسة القاعدة العسكرية",
+    "AdresseL": "LA BASE MILITAIRE BEN GUERIR",
+    "AdresseA": "القاعدة العسكرية",
+    "COMMUNE": "Nzalat Laadam",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "NZALT LAADEM CENTRE",
+    "NOM_ETABA": "انزات لعظم المركزية",
+    "AdresseL": "COMMUNE NZALAT LAADAM",
+    "AdresseA": "انزالت لعظم",
+    "COMMUNE": "Nzalat Laadam",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HAJ RAHEL CENTRE",
+    "NOM_ETABA": "الحاج الراحل المركزية",
+    "AdresseL": "DOUAR EL HAJ RAHEL COMMUNE NZALT LAADEM",
+    "AdresseA": "دوار الحاج الراحل",
+    "COMMUNE": "Nzalat Laadam",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GMARATE CENTRE",
+    "NOM_ETABA": "اكمارات المركزية",
+    "AdresseL": "DOUAR GMARATE COMMUNE NZALT LAADEM",
+    "AdresseA": "دوار اكمارات",
+    "COMMUNE": "Nzalat Laadam",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUIA EL MAHMOUDIA CENTRE",
+    "NOM_ETABA": "الزاوية المحمودية المركزية",
+    "AdresseL": "DOUAR ZAOUIA ELMHMOUDIA NZALT LAADAM",
+    "AdresseA": "دوار الزاوية المحمودية",
+    "COMMUNE": "Nzalat Laadam",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL IMAME EL BOUKHARI",
+    "NOM_ETABA": "الثانوية التأهيلية الامام البخاري",
+    "AdresseL": "COMMUNE NZALT LAADEM",
+    "AdresseA": "جماعة انزالت لعظم",
+    "COMMUNE": "Nzalat Laadam",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

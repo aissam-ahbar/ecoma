@@ -1,0 +1,662 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  AL MATAR",
+    "NOM_ETABA": "الثانوية الإعدادية المطار",
+    "AdresseL": "QU AL MATAR NADOR",
+    "AdresseA": "حي المطار الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ABI BAKR ARRAZI",
+    "NOM_ETABA": "الثانوية الإعدادية ابي بكر الرازي",
+    "AdresseL": "Aride",
+    "AdresseA": "عاريض",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ALKYNDI",
+    "NOM_ETABA": "الثانوية الإعدادية الكندي",
+    "AdresseL": "lycee collegial alkindy",
+    "AdresseA": "الثانوية الاعدادية الكندي",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  TARIQ IBN ZYAD",
+    "NOM_ETABA": "الثانوية الإعدادية طارق ابن زياد",
+    "AdresseL": "RUE AL FARABI  NADOR",
+    "AdresseA": "شارع الفرابي",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  AL MASSIRA",
+    "NOM_ETABA": "الثانوية الإعدادية المسيرة",
+    "AdresseL": "HAY OULAD MIMOUNE NADOR . 62000",
+    "AdresseA": "حي اولاد ميمون الناظور، الرمز البريدي 62000",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALHASSANI",
+    "NOM_ETABA": "الثانوية الإعدادية الحسني",
+    "AdresseL": "HAY IGOUNAF MUNICIPALITE NADOR",
+    "AdresseA": "حي اكوناف     الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  IBN KHALDOUN",
+    "NOM_ETABA": "الثانوية الإعدادية ابن خلدون",
+    "AdresseL": "RUE DE RESISTANCE MUNICIPALITE NADOR",
+    "AdresseA": "شارع المقاومة رقم 44   الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  EL KHAWARIZMI",
+    "NOM_ETABA": "الثانوية الإعدادية الخوارزمي",
+    "AdresseL": "HAY TIRAQAA NADOR",
+    "AdresseA": "حي ترقاع الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ISSABANENE",
+    "NOM_ETABA": "الثانوية الإعدادية اصبانن",
+    "AdresseL": "HAY ISSABANENE NADOR",
+    "AdresseA": "حي اصبانن الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  TAOUIMA",
+    "NOM_ETABA": "الثانوية الإعدادية تاويمة",
+    "AdresseL": "TAOUIMA nador",
+    "AdresseA": "بلدية الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAARI CHIKH",
+    "NOM_ETABA": "المدرسة الابتدائية لعري الشيخ",
+    "AdresseL": "HAY LAARI CHIKH MUNICIPALITE NADOR",
+    "AdresseA": "شارع مولاي علي الشريف حي لعري الشيخ  الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHRIA",
+    "NOM_ETABA": "المدرسة الابتدائية الشريعة",
+    "AdresseL": "HAY TYRAQAA MUNICIPALITE NADOR",
+    "AdresseA": "حي ترقاع - الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI ALI TIMAKART",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي علي تمكارت",
+    "AdresseL": "RUE KISSARYA MUNICIPALITE NADOR",
+    "AdresseA": "25ة شارع القيسارية       الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "المدرسة الابتدائية علال بن عبد الله",
+    "AdresseL": "HAY OULAD MIMOUN MUNICIPALITE NADOR",
+    "AdresseA": "حي اولاد  ميمون    الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FAID",
+    "NOM_ETABA": "المدرسة الابتدائية الفيض",
+    "AdresseL": "HAY OULAD LAHCEN MUNICIPALITE NADOR",
+    "AdresseA": "حي  اولاد لحسن   الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OMAR BNOU ALKHATTAB",
+    "NOM_ETABA": "المدرسة الابتدائية عمر بن الخطاب",
+    "AdresseL": "HAY AWLAD LAHSSANE MUNICIPALITE NADOR",
+    "AdresseA": "حي اولاد لحسن الناضور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU FIRAS LHAMADANI",
+    "NOM_ETABA": "المدرسة الابتدائية ابو فراس الحمداني",
+    "AdresseL": "ifarmiouène HAY BARRAQA MUNICIPALITE NADOR",
+    "AdresseA": "افرميوا حي براقة بلدية الناضور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN II",
+    "NOM_ETABA": "المدرسة الابتدائية الحسن الثاني",
+    "AdresseL": "HAY AL KHATTABI MUNICIPALITE NADOR",
+    "AdresseA": "حي الخطابي        الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL IMAM AL BOUKHARI",
+    "NOM_ETABA": "المدرسة الابتدائية الامام البخاري",
+    "AdresseL": "RUE HASSAN 1 MUNICIPALITE NADOR",
+    "AdresseA": "شارع الحسن الأول       الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU HAZME",
+    "NOM_ETABA": "المدرسة الابتدائية ابن حزم",
+    "AdresseL": "HAY LAARASSI MUNICIPALITE NADOR",
+    "AdresseA": "حي لعراصي   الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL JAHID",
+    "NOM_ETABA": "المدرسة الابتدائية الجاحظ",
+    "AdresseL": "RUE hassan 2  NADOR",
+    "AdresseA": "شارع الحسن الثاني  الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OULAD BOUTAYEB 1",
+    "NOM_ETABA": "المدرسة الابتدائية اولاد بوطيب  1",
+    "AdresseL": "HAY OULAD BOUTAYEB MUNICIPALITE NADOR",
+    "AdresseA": "حي اولاد بوطيب    الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MASSIRA EL KHADRA",
+    "NOM_ETABA": "المدرسة الابتدائية المسيرة الخضراء",
+    "AdresseL": "HAY IGOUNAF MUNICIPALITE NADOR",
+    "AdresseA": "حي اكوناف   الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN BAJJA",
+    "NOM_ETABA": "المدرسة الابتدائية ابن باجة",
+    "AdresseL": "HAY AARID3 MUNICIPALITE NADOR",
+    "AdresseA": "حي عريض مجموعة 3 الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAARASSI 1",
+    "NOM_ETABA": "المدرسة الابتدائية لعراصي 1",
+    "AdresseL": "HAY LAARASSI MUNICIPALITE NADOR",
+    "AdresseA": "حي لعراصي       الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MOUAHIDINE",
+    "NOM_ETABA": "المدرسة الابتدائية الموحدين",
+    "AdresseL": "Rue Imame Al Ghazali",
+    "AdresseA": "شارع الإمام الغزالي",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BADR",
+    "NOM_ETABA": "المدرسة الابتدائية بدر",
+    "AdresseL": "HAY BARRAKA MUNICIPALITE NADOR",
+    "AdresseA": "حي براقة الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IAAOUADANE",
+    "NOM_ETABA": "المدرسة الابتدائية اعواذن",
+    "AdresseL": "HAY IAAOUADANE MUNICIPALITE NADOR",
+    "AdresseA": "حي اعوادن    الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TIRAKKAA",
+    "NOM_ETABA": "المدرسة الابتدائية ترقاع",
+    "AdresseL": "HAY TIRAKKAA MUNICIPALITE NADOR",
+    "AdresseA": "حي ترقاع الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SAAD IBN ABI OUAQQAS",
+    "NOM_ETABA": "المدرسة الابتدائية سعد بن ابي وقاس",
+    "AdresseL": "quartier TAOUIMA nador",
+    "AdresseA": "تاويمة",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  11 JANVIER",
+    "NOM_ETABA": "المدرسة الابتدائية 11 يناير",
+    "AdresseL": "HAY LAARASSI NAANAA MUNICIPALITE NADOR",
+    "AdresseA": "حي لعراصي النعناع   الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL BOUHTOURI",
+    "NOM_ETABA": "المدرسة الابتدائية البحتري",
+    "AdresseL": "HAY IHAFTALLAYENE MUNICIPALITE NADOR",
+    "AdresseA": "حي احفطلاين    الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OULAD BOUTAYEB 2",
+    "NOM_ETABA": "المدرسة الابتدائية اولاد بوطيب 2",
+    "AdresseL": "OULAD BOUTAYEB JAMAA MUNICIPALITE NADOR",
+    "AdresseA": "حي اولاد بوطيب       الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED MAKOUAR",
+    "NOM_ETABA": "المدرسة الابتدائية أحمد مكوار",
+    "AdresseL": "DOUAR TAOUIMA nador",
+    "AdresseA": "دوار تاويمة",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAOUIMA 2",
+    "NOM_ETABA": "المدرسة الابتدائية تاويمة 2",
+    "AdresseL": "taouima nador",
+    "AdresseA": "تاويمة - الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY ELMADANI",
+    "NOM_ETABA": "المدرسة الابتدائية الحي المدني",
+    "AdresseL": "hay elmadani commune nador",
+    "AdresseA": "الحي المدني جماعة الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN KATIR",
+    "NOM_ETABA": "المدرسة الابتدائية إبن كثير",
+    "AdresseL": "IBN KATIR nador",
+    "AdresseA": "إبن كثير بلدية الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   AL MATAR",
+    "NOM_ETABA": "المدرسة الابتدائية المطار",
+    "AdresseL": "hay al matar nador",
+    "AdresseA": "حي المطار الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MARTCHIKA",
+    "NOM_ETABA": "المدرسة الابتدائية مرتشيكا",
+    "AdresseL": "HAY TIRAKKAA  NADOR",
+    "AdresseA": "حي ترقاع الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IDRISS 1",
+    "NOM_ETABA": "المدرسة الابتدائية ادريس الاول",
+    "AdresseL": "OULAD BOUTAYAB",
+    "AdresseA": "اولاد بوطيب",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELMALEK ESSAADI",
+    "NOM_ETABA": "المدرسة الابتدائية عبد المالك السعدي",
+    "AdresseL": "Nador",
+    "AdresseA": "الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  AL MATAR TECHNIQUE",
+    "NOM_ETABA": "الثانوية التأهيلية المطار التقنية",
+    "AdresseL": "HAY AL MATAR ",
+    "AdresseA": "حي المطار",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED V",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "RUE ABASS MAHMOUD AL AAQAD  NADOR",
+    "AdresseA": "شارع عباس محمود العقاد",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT HAMAN AL FATOUAKI",
+    "NOM_ETABA": "الثانوية التأهيلية حمان الفطواكي",
+    "AdresseL": "HAY LAARASSI NADOR",
+    "AdresseA": "حي لعراصي",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL FAID",
+    "NOM_ETABA": "الثانوية التأهيلية الفيض",
+    "AdresseL": "HAY oulad lahcen NADOR",
+    "AdresseA": "حي اولاد لحسن الناظور ",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELKARIM AL KHATTABI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الكريم الخطابي ",
+    "AdresseL": "71 NAHJ AL AMIR SIDI MOHAMED NADOR",
+    "AdresseA": "71- شارع الامير سيدي محمد- الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT NADOR",
+    "NOM_ETABA": "الثانوية التأهيلية الناظور",
+    "AdresseL": "HAY OULAD IBRAHIM NADOR",
+    "AdresseA": "حي أولاد ابراهيم- الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHARIF MOHAMED AMEZIANE",
+    "NOM_ETABA": "الثانوية التأهيلية الشريف محمد أمزيان",
+    "AdresseL": "RUE IDRISS 1 N8 NADOR",
+    "AdresseA": "شارع ادريس الأول رقم 8 - الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ROCHD",
+    "NOM_ETABA": "الثانوية التأهيلية ابن رشد",
+    "AdresseL": "ISSABANENE NADOR",
+    "AdresseA": "اصبانن الناظور",
+    "COMMUNE": "Nador",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ARRISSALA II",
+    "NOM_ETABA": "الرسالة 2",
+    "AdresseL": "Lot. ESSAADA - Hay al matar na",
+    "AdresseA": "تجزئة السعادة  حي المطار  النا",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "themassna",
+    "NOM_ETABA": "ثمسنا",
+    "AdresseL": "Quartier oulad lahsan  n:8 nad",
+    "AdresseA": "حي اولاد لحسن رقم 8 الناظور",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ar rissala",
+    "NOM_ETABA": "الرسالة",
+    "AdresseL": "Rue El Khartoum N° 28 Hay El K",
+    "AdresseA": "زنقة الخرطوم رقم 28 حي الكندي ",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "athourayya",
+    "NOM_ETABA": "الثريا",
+    "AdresseL": "quartier oueled lahcen",
+    "AdresseA": "حي اولاد لحسن",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "abou el ouafa",
+    "NOM_ETABA": "ابو الوفاء",
+    "AdresseL": "Douar Bouyzerzane - municipali",
+    "AdresseA": "حي بويزرزان - بلدية الناظور",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Irfane",
+    "NOM_ETABA": "العرفان",
+    "AdresseL": "N° 7, Rue Abass Mahmoud El Aqa",
+    "AdresseA": "رقم 7، زنقة عباس محمود العقاد ",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ithri",
+    "NOM_ETABA": "إثري",
+    "AdresseL": "Hay el massira  nador",
+    "AdresseA": "حي المسيرة  الناظور ",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL-INBIATH",
+    "NOM_ETABA": "مؤسسة الانبعاث",
+    "AdresseL": "Rue Tomatech - Arrid - Nador",
+    "AdresseA": "شارع طوماطيش- حي عاريض الناظور",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "el insaf",
+    "NOM_ETABA": "الإنصاف",
+    "AdresseL": "IBOUAAJAJEN LOUTA NADOR",
+    "AdresseA": "إبوعجاجن لوطاالناظور",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JAWHARAT aLILM",
+    "NOM_ETABA": "جوهرة العلم",
+    "AdresseL": "Hay laarassi ",
+    "AdresseA": "حي لعراصي",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ARROEYA ANNAMOUDAJIYA",
+    "NOM_ETABA": "الرؤية النموذجية",
+    "AdresseL": "nador",
+    "AdresseA": "حي اولاد بوطيب",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION AL HADATHA",
+    "NOM_ETABA": "مؤسسة الحداثة",
+    "AdresseL": "Bd Prince sidi mohamed n°113 n",
+    "AdresseA": "شارع الأمير سيدي محمد رقم 113 ",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR ALOLOUM",
+    "NOM_ETABA": "دار العلوم الحديثة",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة العمران حي المطار",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupement scolaire Al mada",
+    "NOM_ETABA": "مجموعة مدارس المدى الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "شارع طوماطيش، حي عاريض",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BELSSAN",
+    "NOM_ETABA": "مؤسسة بلسان للتعليم المدرسي الخصوصي",
+    "AdresseL": "QUARTIER LAARASSI, NADOR",
+    "AdresseA": "حي العراصي، الناظور",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "André Blondel",
+    "NOM_ETABA": "مؤسسة أندري بلوندل للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة حي البستان الجديد الناظو",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR OLOUM AL HAYAT",
+    "NOM_ETABA": "دار علوم الحياة",
+    "AdresseL": "Lotissement Al amane, Hay Nado",
+    "AdresseA": "تجزئة الأمان حي الناظور الجديد",
+    "COMMUNE": "Nador ",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL KINDI",
+    "NOM_ETABA": "الثانوية الإعدادية الكندي",
+    "AdresseL": "CENTRE COMMUNE KHAT AZAKANE",
+    "AdresseA": "Quartier Industriel. Sebt Gzoula",
+    "COMMUNE": "Khatazakane",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "DAWAHI ASFI",
+    "NOM_ETABA": "م/م ضواحي أسفي",
+    "AdresseL": "DOUAR LAHMIDATE COMMUNE KHAT AZAKANE",
+    "AdresseA": "دوار الحميدات",
+    "COMMUNE": "Khatazakane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD TALHA",
+    "NOM_ETABA": "م/م اولاد طلحة",
+    "AdresseL": "DOUAR OULAD TALHA COMMUNE KHAT AZAKANE",
+    "AdresseA": "دوار أولاد طلحة  جماعة خط ازكان",
+    "COMMUNE": "Khatazakane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S OULAD CHKOR",
+    "NOM_ETABA": "م/م اولاد اشكر",
+    "AdresseL": "SOUK EL KHMIS COMMUNE KHAT AZAKANE",
+    "AdresseA": "سوق الخميس جماعة خط ازكان",
+    "COMMUNE": "Khatazakane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKBABRA",
+    "NOM_ETABA": "م/م لكبابرة",
+    "AdresseL": "DOUAR LAKBABRA COMMUNE KHAT AZAKANE",
+    "AdresseA": "دوار لكبابرة  جماعة خط ازكان",
+    "COMMUNE": "Khatazakane",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

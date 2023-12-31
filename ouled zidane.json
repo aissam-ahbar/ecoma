@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OULAD ZIDANE CENTRE",
+    "NOM_ETABA": "مركزية اولاد زيدان",
+    "AdresseL": "DOUAR OULAD KACEM COMMUNE OULAD ZIDANE",
+    "AdresseA": "دوار اولاد قاسم اولاد زيدان",
+    "COMMUNE": "Ouled Zidane",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL QORRA CENTRE",
+    "NOM_ETABA": "مركزية اولاد القرة",
+    "AdresseL": "DOUAR OULAD AZZOUZ COMMUNE OULAD ZIDANE",
+    "AdresseA": "دوارأولادعزوزأولادزيدان",
+    "COMMUNE": "Ouled Zidane",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OULED ZIDANE",
+    "NOM_ETABA": "الثانوية التأهيلية  اولاد زيدان",
+    "AdresseL": "commune rurale oulad zidane el gara",
+    "AdresseA": "الجماعة القروية اولاد زيدان الكارة",
+    "COMMUNE": "Ouled Zidane",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

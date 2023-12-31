@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE BRIECHE",
+    "NOM_ETABA": "المجموعة المدرسية ابرييش",
+    "AdresseL": "DOUAR BRIECH COMMUNE AQUOUASS BRIECH",
+    "AdresseA": "دوار ابرييش جماعة أقواس ابرييش",
+    "COMMUNE": "Aquouass Briech",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL HIKMA",
+    "NOM_ETABA": "الحكمة",
+    "AdresseL": "NULL",
+    "AdresseA": "أقواس برييش",
+    "COMMUNE": "Aquouass Briech",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

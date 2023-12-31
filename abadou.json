@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ZOHR",
+    "NOM_ETABA": "الثانوية الإعدادية إبن زهر",
+    "AdresseL": "ARBIAA GHOUJDAMA COMMUNE ABADOU",
+    "AdresseA": "اربعاء غجدامة ىجماعة ابادو",
+    "COMMUNE": "Abadou",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALMOU",
+    "NOM_ETABA": "المو",
+    "AdresseL": "DOUAR AIT LAALAME COMMUNE ABADOU",
+    "AdresseA": "دوار ايت العلام جماعة ابادو",
+    "COMMUNE": "Abadou",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AMASSINE",
+    "NOM_ETABA": "مركزية اماسين",
+    "AdresseL": "DOUAR AMASSINE COMMUNE ABADOU",
+    "AdresseA": "دوار اماسين جماعة ابادو",
+    "COMMUNE": "Abadou",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGHIR GHAJDAMA",
+    "NOM_ETABA": "ايغير-غجدامة",
+    "AdresseL": "DOUAR IGHIR COMMUNE ABADOU",
+    "AdresseA": "دوار ايغير جماعة ابادو",
+    "COMMUNE": "Abadou",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT IKTEL",
+    "NOM_ETABA": "ايت اكتل",
+    "AdresseL": "DOUAR AIT KTOUL COMMUNE ABADOU",
+    "AdresseA": "دوار ايت اكتل جماعة ابادو",
+    "COMMUNE": "Abadou",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

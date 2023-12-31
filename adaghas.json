@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ABDELLAH GUENNOUN",
+    "NOM_ETABA": "  الثانوية الإعدادية عبد الله كنون",
+    "AdresseL": "Douar Artnane  commune adaghas",
+    "AdresseA": "دوار  ارتنان  جماعة  ادغاس  ",
+    "COMMUNE": "Adaghas",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S ADAGHAS",
+    "NOM_ETABA": "م.م. أدغاس",
+    "AdresseL": "SOUK TLATA ARETNAN  ADAGHAS",
+    "AdresseA": "دوار ثلاث ارتنان",
+    "COMMUNE": "Adaghas",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

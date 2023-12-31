@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL ESSALAM",
+    "NOM_ETABA": " ثانوية السلام الإعدادية   ",
+    "AdresseL": "HAD AOUNATE ",
+    "AdresseA": "أحد العونات",
+    "COMMUNE": "Metrane",
+    "PROVINCE": "Province: Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HAD EL AOUNATE",
+    "NOM_ETABA": "أحد العونات",
+    "AdresseL": "CENTRE HAD EL AOUNATE COMMUNE METRANE",
+    "AdresseA": "مركز احد العونات جماعة مطران",
+    "COMMUNE": "Metrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL JAAFARIA",
+    "NOM_ETABA": "الجعفرية",
+    "AdresseL": "DOUAR JAAFRIA COMMUNE METRANE",
+    "AdresseA": "دوار الجعفرية ج مطران",
+    "COMMUNE": "Metrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HIDAYA",
+    "NOM_ETABA": "الهداية",
+    "AdresseL": "CENTRE HAD AOUNATE COMMUNE METRANE",
+    "AdresseA": "مركز احد العونات ج مطران",
+    "COMMUNE": "Metrane",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

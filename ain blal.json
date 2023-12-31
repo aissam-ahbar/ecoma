@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AIN BLAL",
+    "NOM_ETABA": "الثانوية الاعدادية عين بلال",
+    "AdresseL": "COMMUNE AIN BLAL",
+    "AdresseA": "جماعة عين بلال",
+    "COMMUNE": "Ain Blal",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LEMGHARATE CENTRE",
+    "NOM_ETABA": "مركزية المغارات",
+    "AdresseL": "DOUAR LAMGHARATE COMMUNE AIN BLAL",
+    "AdresseA": "المغارات جماعة عين بلال",
+    "COMMUNE": "Ain Blal",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD FRAIHA2 CENTRE",
+    "NOM_ETABA": "مركزية اولاد فريحة2",
+    "AdresseL": "DOUAR OULAD SI MOHAMED COMMUNE AIN BLAL",
+    "AdresseA": "دوار اولاد سي محمد عين بلال",
+    "COMMUNE": "Ain Blal",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

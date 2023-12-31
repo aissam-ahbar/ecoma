@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COMPLEXE EDUCATIF TAHA HSIN",
+    "NOM_ETABA": "المركب التربوي طه حسين",
+    "AdresseL": "centre mejji",
+    "AdresseA": "مركز مجي",
+    "COMMUNE": "Mejji",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S  IBN ZOHR  ",
+    "NOM_ETABA": "م م ابن زهر",
+    "AdresseL": "centre MEJJI ",
+    "AdresseA": "مركز مجي",
+    "COMMUNE": "Mejji",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI AISSA ELBIR",
+    "NOM_ETABA": "م م سيدي عيسى البير",
+    "AdresseL": "DOUAR SIDI AISSA MEJJI",
+    "AdresseA": "دوار سيدي عيسى مجي",
+    "COMMUNE": "Mejji",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S KCHOULA",
+    "NOM_ETABA": "م.م. كشولة           ",
+    "AdresseL": "DOUAR CHAAYBAT MEJJI",
+    "AdresseA": "دوار شايبات",
+    "COMMUNE": "Mejji",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

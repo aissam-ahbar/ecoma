@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE ALMOKAOUAMA",
+    "NOM_ETABA": "الثانوية الإعدادية المقاومة",
+    "AdresseL": "CR AL OUAD KHAZANE LOW",
+    "AdresseA": "مركز جماعة الواد",
+    "COMMUNE": "Al Oued",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS KHAZANE LAOU",
+    "NOM_ETABA": "م.م خزان لو",
+    "AdresseL": "DOUAR KHAZANE LAOU C ALOUAD BNI HASSANE",
+    "AdresseA": "دوار خزان لو -جماعة الواد - قيادة بني حسان",
+    "COMMUNE": "Al Oued",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IHLAL",
+    "NOM_ETABA": "م.م إهلال",
+    "AdresseL": "DOUAR ihlal",
+    "AdresseA": "دوار إهلال جماعة الواد",
+    "COMMUNE": "Al Oued",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AL GHABA",
+    "NOM_ETABA": "م.م الغابة",
+    "AdresseL": "DOUAR TAGHBALOUT CAL OUED TETOUAN",
+    "AdresseA": "دوار تغبالوت جماعة الواد",
+    "COMMUNE": "Al Oued",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ASSALAM",
+    "NOM_ETABA": "م.م السلام",
+    "AdresseL": "DOUAR CHROUTA CAL OUADbeni hassan",
+    "AdresseA": "دوار اشروطة جماعة الواد قيادة بني حسان",
+    "COMMUNE": "Al Oued",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ADAYOUGH",
+    "NOM_ETABA": "م.م أذايوغ",
+    "AdresseL": "DOUAR ADAYOUGH CAL OUAD  TETOUAN",
+    "AdresseA": " أذايوغ جماعة الواد بني حسان تطوان",
+    "COMMUNE": "Al Oued",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAGHZOUTE",
+    "NOM_ETABA": "م.م تغزوت",
+    "AdresseL": "DOUAR TAGHZOUTE COMMUNE EL OUED BNI HASSAN TETOUAN",
+    "AdresseA": "دوار تغزوت جماعة الواد بني حسان تطوان",
+    "COMMUNE": "Al Oued",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IDAMAMEN SOUFLA",
+    "NOM_ETABA": "م.م إدمامن السفلى",
+    "AdresseL": "DOUAR IDMAMEN SOUFLA Commune  OUED beni hassan",
+    "AdresseA": "دوار إدمامن السفلى جماعة الواد قيادة بني حسان",
+    "COMMUNE": "Al Oued",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

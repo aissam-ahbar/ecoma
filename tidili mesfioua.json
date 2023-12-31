@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL NOUR ALATLAS",
+    "NOM_ETABA": "الثانوية الاعدادية نور الاطلس",
+    "AdresseL": "CENTRE DE LA COMMUNE TIDILI",
+    "AdresseA": "مركز جماعة تيديلي",
+    "COMMUNE": "Tidili Mesfioua",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIDILI",
+    "NOM_ETABA": "تيديلي",
+    "AdresseL": "DOUAR TIDILI COMMUNE TIDILI MESFIOUA",
+    "AdresseA": "دوار تيديلي جماعة تيديلي مسفيوة",
+    "COMMUNE": "Tidili Mesfioua",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MACHTOUN",
+    "NOM_ETABA": "مشطون",
+    "AdresseL": "DOUAR MACHTOUN COMMUNE TIDILI MESFIOUA",
+    "AdresseA": "دوار مشطون جماعة تيديلي مسفيوة",
+    "COMMUNE": "Tidili Mesfioua",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE TIKHRIBINE",
+    "NOM_ETABA": "مركزية تخربين",
+    "AdresseL": "DOUAR TOUKHRIBINE COMMUNE TIDILI MESFIOUA",
+    "AdresseA": "دوار تخربين جماعة تيديلي مسفيوة",
+    "COMMUNE": "Tidili Mesfioua",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALBANINE",
+    "NOM_ETABA": "تالبنين",
+    "AdresseL": "DOUAR TALBANINE COMMUNE TIDILI MESFIOUA",
+    "AdresseA": "دوار تالبنين جماعة تيديلي مسفيوة",
+    "COMMUNE": "Tidili Mesfioua",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGHENBOUCHTE",
+    "NOM_ETABA": "تغنبوشت",
+    "AdresseL": "DOUAR TAGHANBOUCHTE COMMUNE TIDILI MESFIOUA",
+    "AdresseA": "دوار تغنبوشت جماعة تيديلي مسفيوة",
+    "COMMUNE": "Tidili Mesfioua",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARIKHTE",
+    "NOM_ETABA": "تريخت",
+    "AdresseL": "DOUAR TARIKHTE COMMUNE TIDILI MESFIOUA",
+    "AdresseA": "دوار تريخت جماعة تيديلي مسفيوة",
+    "COMMUNE": "Tidili Mesfioua",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIZI TAHTANIA",
+    "NOM_ETABA": "تيزي التحتانية",
+    "AdresseL": "DOUAR TIZI TAHTANIA COMMUNE TIDILI MESFIOUA",
+    "AdresseA": "دوار تيزي التحتانية جماعة تدلي مسفيوة",
+    "COMMUNE": "Tidili Mesfioua",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

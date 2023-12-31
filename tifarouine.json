@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMMED AHMED EL AZZOUZI",
+    "NOM_ETABA": "ثانوية محمد أحمد العزوزي الإعدادية",
+    "AdresseL": "commune tifrouine alhociema",
+    "AdresseA": "جماعة تفروين الحسيمة",
+    "COMMUNE": "Tifarouine",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ISSOUFYENE",
+    "NOM_ETABA": "اصوفيين",
+    "AdresseL": "DOUAR ISSOUFIANE COMMUNE TIFAROUINE",
+    "AdresseA": "دوار اصوفيين جماعة تفروين",
+    "COMMUNE": "Tifarouine",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT TAA",
+    "NOM_ETABA": "ايت طاعة",
+    "AdresseL": "DOUAR AIT TAA COMMUNE TIFAROUINE",
+    "AdresseA": "دوار ايت طاعة جماعة تفروين",
+    "COMMUNE": "Tifarouine",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IRYANEN",
+    "NOM_ETABA": "اريانن",
+    "AdresseL": "DOUAR IRYANEN COMMUNE TIFAROUINE",
+    "AdresseA": "دوار اريانن جماعة تفروين",
+    "COMMUNE": "Tifarouine",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

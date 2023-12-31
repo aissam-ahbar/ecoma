@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KISSANE",
+    "NOM_ETABA": "الثانوية الإعدادية كيسان",
+    "AdresseL": "COMMUNE KISSANE",
+    "AdresseA": "جماعة كيسان",
+    "COMMUNE": "Kissane",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS KISSANE",
+    "NOM_ETABA": "م/م  كيسان",
+    "AdresseL": "DOUAR bni kissane COMMUNE KISSANE GHAFSSAI",
+    "AdresseA": "دوار  بني كيسان-جماعة كيسان-غفساي",
+    "COMMUNE": "Kissane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BLBALA ",
+    "NOM_ETABA": "م/م   بلبالة",
+    "AdresseL": "DOUAR BALBaLA COMMUNE KISSANE GHAFSSAy",
+    "AdresseA": "دوار بلبالة جماعة كيسان غفساي",
+    "COMMUNE": "Kissane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL MIZAB",
+    "NOM_ETABA": "م/م  الميزاب",
+    "AdresseL": "DOUAR TAZZART COMMUNE KISSANE GHAFSSAI",
+    "AdresseA": "دوار تزارت-جماعة كيسان- غفساي",
+    "COMMUNE": "Kissane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAZARANE",
+    "NOM_ETABA": "م/م  تزران",
+    "AdresseL": "DOUAR TAZARANE COMMUNE KISSANE GHAFSSAI",
+    "AdresseA": "دوار تزران -جماعة كيسان غفساي",
+    "COMMUNE": "Kissane",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

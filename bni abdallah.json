@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE BNI ABDELLAH ",
+    "NOM_ETABA": "اع. بني عبد الله",
+    "AdresseL": "CENTRE BNI ABDELLAH",
+    "AdresseA": "مركزبني عبد الله جماعة بني عبد الله",
+    "COMMUNE": "Bni Abdallah",
+    "PROVINCE": "Province: Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BNI ABDELLAH",
+    "NOM_ETABA": "مجموعة مدارس بني عبد الله",
+    "AdresseL": "centre COMMUNE BNI ABDELLAH",
+    "AdresseA": "مركز جماعة بني عبد الله",
+    "COMMUNE": "Bni Abdallah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUJNANE",
+    "NOM_ETABA": "بوجنان",
+    "AdresseL": "DOUAR BOUJNANE COMMUNE BNI ABDELLAH",
+    "AdresseA": "دوار بوجنان جماعة بني عبد الله",
+    "COMMUNE": "Bni Abdallah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ABOUAB",
+    "NOM_ETABA": "الأبواب",
+    "AdresseL": "DOUAR boukhlifa COMMUNE BNI ABDELLAH",
+    "AdresseA": "دوار بوخليفة جماعة بني عبد الله",
+    "COMMUNE": "Bni Abdallah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUSSALAH",
+    "NOM_ETABA": "بوصالح",
+    "AdresseL": "DOUAR BOUSSALAH COMMUNE BNI ABDELLAH",
+    "AdresseA": "دواربوصالح جماعة بني عبد الله",
+    "COMMUNE": "Bni Abdallah",
+    "PROVINCE": "Al Hoceima",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

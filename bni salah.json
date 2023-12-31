@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNI SALEH",
+    "NOM_ETABA": "الثانوية الإعدادية بني صالح",
+    "AdresseL": "commune bni salah chefchaouen",
+    "AdresseA": "جماعة بني صالح شفشاون",
+    "COMMUNE": "Bni Salah",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ESSALAM ALBARKOUK",
+    "NOM_ETABA": "م/م السلام _البرقوق",
+    "AdresseL": "DOUAR ALBARKOUK CBNI SALAH  CHEFCHAOUEN",
+    "AdresseA": "دوار البرقوق جماعة بني صالح",
+    "COMMUNE": "Bni Salah",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL FATH BOUNTAIR",
+    "NOM_ETABA": "م/م الفتح _بونتابر",
+    "AdresseL": "DOUAR BOUNTAYER C BNI SALAH CHEFCHAOUEN",
+    "AdresseA": "دوار بونتاير جماعة بني صالح",
+    "COMMUNE": "Bni Salah",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OMAR BEN KHATTAB AL MAOUDEN",
+    "NOM_ETABA": "م/م عمر بن الخطاب _المودين",
+    "AdresseL": "DOUAR AL MAOUDEN BNI SALAH CHEFCHAOUEN",
+    "AdresseA": "دوار المودين جماعة بني صالح شفشاون",
+    "COMMUNE": "Bni Salah",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

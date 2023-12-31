@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "ECOLE MOULAY YACOUB",
+    "NOM_ETABA": "مدرسة مولاي يعقوب",
+    "AdresseL": "MUNICIPALITE MOULAY YACOUB",
+    "AdresseA": "بلدية مولاي يعقوب",
+    "COMMUNE": "Moulay Yacoub",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 11 JANVIER",
+    "NOM_ETABA": "الثانوية التأهيلية 11 يناير",
+    "AdresseL": "MUNICIPALITE MOULAY YACOUB",
+    "AdresseA": "بلدية مولاي يعقوب",
+    "COMMUNE": "Moulay Yacoub",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

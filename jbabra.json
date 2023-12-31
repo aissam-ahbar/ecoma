@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL JBABRA",
+    "NOM_ETABA": "ثانوية الجبابرة الإعدادية",
+    "AdresseL": "Commune JBABRA KARIAT BA MOHAMED",
+    "AdresseA": "جماعة اجبابرة قرية با محمد",
+    "COMMUNE": "Jbabra",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS JBABRA",
+    "NOM_ETABA": "م/م  الجبابرة",
+    "AdresseL": "COMMUNE JBABRA CENTRE KARIA",
+    "AdresseA": "جماعة الجبابرة المركز القرية",
+    "COMMUNE": "Jbabra",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S  OULAD BELLEKAAB",
+    "NOM_ETABA": "م/م اولاد بلكعاب",
+    "AdresseL": "DOUAR OULAD BELLEKAAB COMMUNE JBABRA KARIA",
+    "AdresseA": " دوار أولاد بالكعاب جماعة الجبابرة القرية",
+    "COMMUNE": "Jbabra",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BTIMIA",
+    "NOM_ETABA": "م/م  البطيمية",
+    "AdresseL": "DOUAR BTIMIA COMMUNE JBABRA KARIA",
+    "AdresseA": "دوار البطيمية جماعة اجبابرة القرية المركز",
+    "COMMUNE": "Jbabra",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL ANSAR",
+    "NOM_ETABA": "م/م  العنصر",
+    "AdresseL": "DOUAR EL ANSAR COMMUNE JBABRA KARIA",
+    "AdresseA": "دوار العنصر جماعة الجبابرة القرية",
+    "COMMUNE": "Jbabra",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "RAS EL AIN CENTRE",
+    "NOM_ETABA": "راس العين المركزية",
+    "AdresseL": "COMMUNE RAS EL AIN",
+    "AdresseA": "جماعة راس العين",
+    "COMMUNE": "Ras Ain Rhamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD OUGGAD CENTRE",
+    "NOM_ETABA": "اولاد وكاد المركزية",
+    "AdresseL": "DOUAR OULED OUGGAD COMMUNE RAS EL AIN",
+    "AdresseA": "اولاد وكاد",
+    "COMMUNE": "Ras Ain Rhamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD MTAIA CENTRE",
+    "NOM_ETABA": "اولاد امطاعية المركزية",
+    "AdresseL": "DOUAR OULED MTAAIA COMMUNE RAS AIN RHAMNA",
+    "AdresseA": "دوار اولاد امطاعية",
+    "COMMUNE": "Ras Ain Rhamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ZAARIA CENTRE",
+    "NOM_ETABA": "اولاد الزعرية المركزية",
+    "AdresseL": "DOUAR OULAD ZAARIA COMMUNE RAS ELAIN",
+    "AdresseA": "دوار اولاد الزعرية",
+    "COMMUNE": "Ras Ain Rhamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT RAS ELAIN",
+    "NOM_ETABA": "الثانوية التأهيلية راس العين",
+    "AdresseL": "REHAMNA",
+    "AdresseA": "راس العين",
+    "COMMUNE": "Ras Ain Rhamna",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMOUHIT",
+    "NOM_ETABA": " الثانوية الإعدادية المحيط",
+    "AdresseL": "sale bouknadel",
+    "AdresseA": "سلا بوقنادل",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED EDDAHAB",
+    "NOM_ETABA": "الثانوية الإعدادية وادي الذهب",
+    "AdresseL": "HAY ALMONTAZAH LOTISSEMENT ALOMRAN BOUKNADEL",
+    "AdresseA": "collège oued eddahab sidi bouknadel salé",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED ZERKTOUNI",
+    "NOM_ETABA": " الثانوية الإعدادية محمد الزرقطوني",
+    "AdresseL": "COLLEGE BOUKNADEL CENTRE COMMUNE DE BOUKNADEL",
+    "AdresseA": "مركز بوقنادل",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELLAH BNOU YASSINE",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الله بن ياسين",
+    "AdresseL": "COLLEGE BOUKNADEL CENTRE COMMUNE DE BOUKNADEL",
+    "AdresseA": "بوقنادل المركز",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE BOUKNADEL",
+    "NOM_ETABA": "مدرسة بوقنادل",
+    "AdresseL": "BOUKNADEL CENTRE",
+    "AdresseA": "بوقنادل المركز",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZARDAL",
+    "NOM_ETABA": "مدرسة زردال",
+    "AdresseL": "hay ZARDAL COMMUNE DE BOUKNADEL",
+    "AdresseA": "حي زردال جماعة بوقنادل - سلا",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL HANCHA",
+    "NOM_ETABA": " مدرسة الحنشة",
+    "AdresseL": "AL HANCHA",
+    "AdresseA": "الحنشة",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JAAOUNA",
+    "NOM_ETABA": "مدرسة الجعاونة",
+    "AdresseL": "DOUAR JAAOUNA COMMUNE DE BOUKNADEL",
+    "AdresseA": "دوار الجعاونة بوقنادل",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AIN BARKA",
+    "NOM_ETABA": "مدرسة عين بركة",
+    "AdresseL": "DOUAR AIN BARKA COMMUNE DE BOUKNADEL",
+    "AdresseA": "دوار عين بركة زردال  بوقنادل",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZARDAL CHARKIA",
+    "NOM_ETABA": "مدرسة زردال الشرقية",
+    "AdresseL": "DOUAR ZERDAL municipalite bouknadel",
+    "AdresseA": "بلدية بوقنادل دوار زردال",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BOUJDOUR",
+    "NOM_ETABA": "مدرسة بوجدور",
+    "AdresseL": "commune Bouknadel",
+    "AdresseA": "جماعة بوقنادل",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMOUNTAZAH 1",
+    "NOM_ETABA": "مدرسة المنتزه 1",
+    "AdresseL": "Hay Almountazahlot AlomraneBouqnadel",
+    "AdresseA": "حي المنتزه، تجزئة العمران، بلدية بوقنادل",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALMOUNTAZAH 2",
+    "NOM_ETABA": "مدرسة المنتزه 2",
+    "AdresseL": "Hay Almountazah Lot Alomrane Bouqnadel",
+    "AdresseA": "حي المنتزه، تجزئة العمران، بلدية بوقنادل",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL HOUCINE ESSALAOUI",
+    "NOM_ETABA": " الثانوية التأهيلية الحسين السلاوي",
+    "AdresseL": "sidi bouknadel",
+    "AdresseA": "سيدي بوقنادل",
+    "COMMUNE": "Sidi Bouknadel",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL ASDIKAEE",
+    "NOM_ETABA": "مؤسسة الأصدقاء الخصوصية",
+    "AdresseL": "109-111 lot zerdal bouknadel",
+    "AdresseA": "109-111 زردال بوقنادل",
+    "COMMUNE": "Sidi Bouknadel ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL AOULAMA",
+    "NOM_ETABA": "مجموعة مدارس العولمة الخصوصية",
+    "AdresseL": "residence nassim bahr 7 route ",
+    "AdresseA": " اقامة نسيم البحر7 طريق القنيط",
+    "COMMUNE": "Sidi Bouknadel ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ATLAS DES NATIONS",
+    "NOM_ETABA": "مجموعة مدارس أطلس الأمم",
+    "AdresseL": "COMPLEXE IMMOBILIER PRESTIGIA ",
+    "AdresseA": "مجمع العقارات بريستيجا كلم 15 ",
+    "COMMUNE": "Sidi Bouknadel ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

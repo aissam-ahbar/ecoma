@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "DNASSA",
+    "NOM_ETABA": "دناسة",
+    "AdresseL": "DOUAR AMGHRAS COMMUNE AMGHRAS",
+    "AdresseA": "دوار دناسة جماعة امغراس",
+    "COMMUNE": "Amghras",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AGHBALOU",
+    "NOM_ETABA": " مركزية اغبالو",
+    "AdresseL": "DOUAR AGHBALOU COMMUNE AMGHRAS",
+    "AdresseA": "دوار اغبالو جماعة امعراس",
+    "COMMUNE": "Amghras",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

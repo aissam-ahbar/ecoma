@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSAN 1ER",
+    "NOM_ETABA": "ثانوية الحسن الأول الإعدادية",
+    "AdresseL": "ouled bouali nouaja centre",
+    "AdresseA": "مركز أولاد بوعلي النواجة",
+    "COMMUNE": "Oulad Bouali Nouaja",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUALI CENTRE",
+    "NOM_ETABA": "مركزية اولاد بوعلي",
+    "AdresseL": " OULAD BOUALI NOUAJA",
+    "AdresseA": "اولاد بوعلي النواجة",
+    "COMMUNE": "Oulad Bouali Nouaja",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUKARKOUR CENTRE",
+    "NOM_ETABA": "مركزية بوكركور",
+    "AdresseL": "DOUAR SIDI BOUKARKOUR COMMUNE OULAD BOUALI NOUAJA",
+    "AdresseA": "سيدي بوكركور اولاد بوعلي النواجة",
+    "COMMUNE": "Oulad Bouali Nouaja",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

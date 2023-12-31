@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ABDELLAH",
+    "NOM_ETABA": "ثانوية مولاي عبد الله الإعدادية",
+    "AdresseL": "feddane chapo sofla  commune bahraouyne",
+    "AdresseA": " جماعة البحراويين فدان شابو السفلى",
+    "COMMUNE": "Al Bahraoyine",
+    "PROVINCE": "Province: Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS NOUINOUICH",
+    "NOM_ETABA": "م/م أنوينويش الابتدائية",
+    "AdresseL": "VILLAGE NOUINOUICH  COMMUNE EL BAHRAOUIYINE",
+    "AdresseA": "قرية أنوينويش جماعة البحراويين",
+    "COMMUNE": "Al Bahraoyine",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole  ALMANAR",
+    "NOM_ETABA": "مدرسة المنار الابتدائية",
+    "AdresseL": "VILLAGE LEMNAR  COMMUNE BAHRAOUIYINE ",
+    "AdresseA": "دوار المنار جماعة البحراويين",
+    "COMMUNE": "Al Bahraoyine",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS FEDAN CHAPOU",
+    "NOM_ETABA": "م/م فدان شابو الابتدائية",
+    "AdresseL": "VILLAGE FEDDAN CHAPOU  COMMUNE BAHRAOUIYINE ",
+    "AdresseA": "قرية فدان شابوا جماعة البحراويين",
+    "COMMUNE": "Al Bahraoyine",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole  BNI OUASSINE",
+    "NOM_ETABA": "مدرسة بني واسين الابتدائية",
+    "AdresseL": "DOUAR BNI OUASSINE CBAHRAOYINE",
+    "AdresseA": "دوار بنى واسبن البحراويين",
+    "COMMUNE": "Al Bahraoyine",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ROCHD",
+    "NOM_ETABA": "ثانوية ابن رشد التأهيلية",
+    "AdresseL": "Commune AL BAHRAOYINE",
+    "AdresseA": "جماعة البحراويين",
+    "COMMUNE": "Al Bahraoyine",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL HAOUARI",
+    "NOM_ETABA": "مؤسسة الهواري الخصوصية",
+    "AdresseL": "BNI OUASSINE COMMUNE AL BAHRAO",
+    "AdresseA": "قرية بني واسين جماعة البحراويي",
+    "COMMUNE": "Al Bahraoyine",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

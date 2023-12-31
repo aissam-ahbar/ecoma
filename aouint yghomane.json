@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCée collégial aouint yghoman",
+    "NOM_ETABA": "الثانوية الإعدادية عوينة إيغمان",
+    "AdresseL": "aouint yghomane",
+    "AdresseA": "جماعة عوينة ايغمان ",
+    "COMMUNE": "Aouint Yghomane",
+    "PROVINCE": "Province: Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire AOUINT AITOUSSA ",
+    "NOM_ETABA": "مجموعة مدارس عوينة ايتوسى الابتدائية",
+    "AdresseL": "AOUINT YGHOMANE CENTRE",
+    "AdresseA": "عوينة ايغمان المركز",
+    "COMMUNE": "Aouint Yghomane",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "secteur scolaire AL MAJD ",
+    "NOM_ETABA": "مجموعة مدارس المجد الابتدائية",
+    "AdresseL": "Aouint Yghoumane  centre",
+    "AdresseA": "عوينة إيغمان - المركز",
+    "COMMUNE": "Aouint Yghomane",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE  qualifiant AL IRFANE",
+    "NOM_ETABA": "الثانوية التأهيلية العرفان",
+    "AdresseL": "Aouint Yghoumane Centre",
+    "AdresseA": "عوينة إيغمان المركز",
+    "COMMUNE": "Aouint Yghomane",
+    "PROVINCE": "Assa-Zag",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  }
+]

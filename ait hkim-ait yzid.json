@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALAAHDE ALJADIDE",
+    "NOM_ETABA": "الثانوية الإعدادية العهد الجديد",
+    "AdresseL": "CENTRE COMMUNE AIT HKIM",
+    "AdresseA": "مركز جماعة ايت حكيم",
+    "COMMUNE": "Ait Hkim-Ait Yzid",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " TAREQ BEN ZIAD",
+    "NOM_ETABA": "طارق بن زياد -ايت احكيم",
+    "AdresseL": "DOUAR TIGHRATINE COMMUNE AIT HKIM",
+    "AdresseA": "دوار ايت احكيم جماعة ايت حكيم",
+    "COMMUNE": "Ait Hkim-Ait Yzid",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "مركزية المختار السوسي",
+    "AdresseL": "DOUAR IZAMRAOUNE COMMUNE AIT HKIM",
+    "AdresseA": "دوار ازمراون جماعة ايت حكيم",
+    "COMMUNE": "Ait Hkim-Ait Yzid",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

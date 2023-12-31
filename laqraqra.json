@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL ADARISSA",
+    "NOM_ETABA": "ثانوية الأدارسة الإعدادية ",
+    "AdresseL": "commune laqraqra",
+    "AdresseA": "جماعة لقراقرة",
+    "COMMUNE": "Laqraqra",
+    "PROVINCE": "Province: Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LEQRAQRA ERRAGBA CENTRE",
+    "NOM_ETABA": "لقراقرة الركبةمركزية ",
+    "AdresseL": " COMMUNE LEQRAQRA",
+    "AdresseA": "جماعة لقراقرة",
+    "COMMUNE": "Laqraqra",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BIR KADOUR CENTRE ",
+    "NOM_ETABA": "مركزية بئر قدور",
+    "AdresseL": "DOUAR BIR KADOUR COMMUNE LEQRAQRA",
+    "AdresseA": "بئر قدور القراقرة",
+    "COMMUNE": "Laqraqra",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HARCHA CENTRE",
+    "NOM_ETABA": "مركزية الحرشة",
+    "AdresseL": "DOUAR EL HARCHA COMMUNE LEQRAQRA",
+    "AdresseA": "دوار الحرشة لقراقرة",
+    "COMMUNE": "Laqraqra",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

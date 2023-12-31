@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ANNAFISS",
+    "NOM_ETABA": "الثانوية الإعدادية ابن النفيس",
+    "AdresseL": "CENTRE SEBT MZOUDA COMMUNE MZOUDA",
+    "AdresseA": "مركز جماعة  امزوضة",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IGHZER IZGHAREN",
+    "NOM_ETABA": "اغزر ازكارن",
+    "AdresseL": "DOUAR IGHZER IZGHAREN COMMUNE mzouda",
+    "AdresseA": "دوار اغزر ازكارن جماعة  امزوضة ",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUIA NAHLIA",
+    "NOM_ETABA": "الزاوية النحلية",
+    "AdresseL": "DOUAR ZAOUIA ANNAHLIA COMMUNE mzoda",
+    "AdresseA": "دوار  الزاوية النحلية",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SEBT MZOUDA",
+    "NOM_ETABA": "سبت امزوضة",
+    "AdresseL": "centre  COMMUNE MZOUDA",
+    "AdresseA": "مركز جماعة امزوضة",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUZOUGA",
+    "NOM_ETABA": "بوزوكة",
+    "AdresseL": "DOUAR BOUZOUGA COMMUNE MZOUDA",
+    "AdresseA": "دوار بوزوكة",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANDOURAR",
+    "NOM_ETABA": "أندورار",
+    "AdresseL": "DOUAR ANDOURAR COMMUNE M ZOUDA",
+    "AdresseA": "دوار  أندورار",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUIAT AFENSA",
+    "NOM_ETABA": "زاوية  أفنسا",
+    "AdresseL": "DOUAR ZAOUIAT AFENSA COMMUNE M ZOUDA",
+    "AdresseA": "دوار زاوية  أفنسا",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALHAMRI",
+    "NOM_ETABA": "الحمري",
+    "AdresseL": "DOUAR ALHAMRI COMMUNE MZOUDA",
+    "AdresseA": "دوار الحمري",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT HSAINE",
+    "NOM_ETABA": "ايت احساين",
+    "AdresseL": "DOUAR AIT HSAINE COMMUNE M ZOUDA",
+    "AdresseA": "دوار ايت احساين",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MZOUDA",
+    "NOM_ETABA": "ثانوية مزوضة التأهيلية",
+    "AdresseL": "CENTRE COMMUNE MZOUDA",
+    "AdresseA": "مركز جماعة مزوضة",
+    "COMMUNE": "M'Zouda",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

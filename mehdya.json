@@ -1,0 +1,272 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KASSBA",
+    "NOM_ETABA": "الثانوية الاعدادية القصبة",
+    "AdresseL": "mahdia kasba",
+    "AdresseA": "المهدية القصبة",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL FATIMA MERNISSI",
+    "NOM_ETABA": "الثانوية الإعدادية فاطمة المرنيسي",
+    "AdresseL": "alliance mehdia",
+    "AdresseA": "اليانس المهدية",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDRISS BEN ZEKRI",
+    "NOM_ETABA": "الثانوية الاعدادية ادريس بن زكري",
+    "AdresseL": "46 RUE AHMED CHAOUKI KENITRA",
+    "AdresseA": "مهدية",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED OTHMANE BENDELLA IDRISSI",
+    "NOM_ETABA": "أحمد عثمان بندلة الإدريسي",
+    "AdresseL": "MEHDIA KESBA COM MEHDIA",
+    "AdresseA": "جماعة المهدية",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABD AL MOUMEN BEN ALI",
+    "NOM_ETABA": "عبد المومن بن علي",
+    "AdresseL": "KASBAT MEHDYA     kenitra",
+    "AdresseA": "  القنيطرة     قصبة مهدية",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOURIA SEKKAT",
+    "NOM_ETABA": "ثريا السقاط",
+    "AdresseL": "COMMUNE MEHDIA ",
+    "AdresseA": "جماعة مهدية",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MANAL",
+    "NOM_ETABA": "المنال",
+    "AdresseL": "MEHDYA",
+    "AdresseA": "مهدية",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT NAJIB MAHFOUD",
+    "NOM_ETABA": "الثانوية التاهيلية نجيب محفوظ",
+    "AdresseL": "MEHDYA",
+    "AdresseA": "مهدية",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZOULIKHA NASSIRI",
+    "NOM_ETABA": "الثانوية التأهيلية زليخة الناصري",
+    "AdresseL": "alliance mehdia",
+    "AdresseA": "اليانس المهدية",
+    "COMMUNE": "Mehdya",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AGORA SCIENCES",
+    "NOM_ETABA": "أكورا للعلوم خصوصي",
+    "AdresseL": "lotissement alliance darna 2èm",
+    "AdresseA": " تجزئة أليانس دارنا الشطر الثا",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Riyad afaq",
+    "NOM_ETABA": "رياض آفاق  الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "فيلا  127 قصبة مهدية",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al jassim school",
+    "NOM_ETABA": "الجاسم سكول الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "فيلا 386 قصبة مهدية",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "M/M muller littarbiya wa takwin wa albaht  al ilmi",
+    "NOM_ETABA": " مجموعة مدارس ملر للتربية والتكوين والبحث العلمي الخصوصية",
+    "AdresseL": "lot.143, Route de Mehdia",
+    "AdresseA": "143 تجزئة القصبة",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe  scolaire le cercle",
+    "NOM_ETABA": "    مجموعة مدارس لوسيركل الخاصة",
+    "AdresseL": "LOT E16 KASBAH MEHDIA ",
+    "AdresseA": "رقم E16  تجزئة مهدية",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Alaa arahmane",
+    "NOM_ETABA": "آلاء الرحمن",
+    "AdresseL": "NULL",
+    "AdresseA": "حي القصبة تجزئة 1112 ",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire la colline des anges alliance",
+    "NOM_ETABA": "مجموعة مدارس لا كولين دي أونج أليونس الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "الرسم العقاري 13/99460 ",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL MOHIT ATTALIMIA 2",
+    "NOM_ETABA": "مؤسسة المحيط التعليمية 2 الخصوصية",
+    "AdresseL": "n 1110 lot kasbat mahdya ",
+    "AdresseA": "رقم 1110 تجزئة قصبة مهدية ",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE HADDAD",
+    "NOM_ETABA": "مجموعة مدارس الحداد الخاصة",
+    "AdresseL": "n°2559lotissement alliance dar",
+    "AdresseA": "رقم 2559 تجزئة أليانس دارنا مه",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HORIZON ALLIANCE",
+    "NOM_ETABA": "أوريزون أليانس الخاصة",
+    "AdresseL": "Alliancedarna lot 2766mahdiya",
+    "AdresseA": "رقم 2766 تجزئة أليانس دارنا مه",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD AL ATFAL",
+    "NOM_ETABA": "رياض الاطفال ",
+    "AdresseL": "NO 115 . LOT KASBAT MEHDYA . M",
+    "AdresseA": "تجزئة قصبة مهدية .  115  بلدية",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE BASTION 2",
+    "NOM_ETABA": "لباستيون 2 ",
+    "AdresseL": "LOT 602 LOTISSEMENT KASBAH ERA",
+    "AdresseA": "رقم 602 , تجزئة قصبة مهدية -ال",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANOUAR AL MAARIFA",
+    "NOM_ETABA": "انوار المعرفة",
+    "AdresseL": " 1760 LOT alliance DARNA MEHDI",
+    "AdresseA": "1760 تجزئة اليانس دارنا مهدية",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MOHIT",
+    "NOM_ETABA": "المحيط",
+    "AdresseL": "LOTISMENT KASBAH N111 MEHDIA",
+    "AdresseA": "           تجزئة قصبة مهدية رق",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANAL AL MOSTAKBAL",
+    "NOM_ETABA": "منال المستقبل",
+    "AdresseL": "lot kasbat mahdia n 2092 mehya",
+    "AdresseA": "تجزئة قصبة مهدية رقم 2092 المه",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BEAU SOL",
+    "NOM_ETABA": "مجموعة مدارس بوصول الخصوصية ",
+    "AdresseL": "lot alliance darna 1987 1988 m",
+    "AdresseA": "تجزئة أليانس دارنا 1987 . 1988",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL OFOQ AL AZRAQ",
+    "NOM_ETABA": "الافق الازرق",
+    "AdresseL": "mehdia kasba N°553",
+    "AdresseA": "مهدية القصبة رقم 553",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALMAHMYA",
+    "NOM_ETABA": "المحمية",
+    "AdresseL": "Lotissement Kassba, N° 9 - Meh",
+    "AdresseA": "تجزئة القصبة، رقم 9 - المهدية",
+    "COMMUNE": "Mehdya ",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

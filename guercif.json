@@ -1,0 +1,412 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL IDRISSI",
+    "NOM_ETABA": "ثانوية الإدريسي الإعدادية",
+    "AdresseL": "HAY NOUGD GUERCIF",
+    "AdresseA": "حي النجد جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNOU ROCHD",
+    "NOM_ETABA": "ثانوية ابن رشد الإعدادية",
+    "AdresseL": "BOULEVARD MOHAMED 5GUERCIF",
+    "AdresseA": "شارع محمد الخامس  جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 11 JANVIER",
+    "NOM_ETABA": "ثانوية 11 يناير الإعدادية",
+    "AdresseL": "BOULEVARD MOULAY EL HASSAN GUERCIF",
+    "AdresseA": "شارع مولاي الحسن جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF IBN TACHFINE",
+    "NOM_ETABA": "ثانوية يوسف بن تاشفين الإعدادية",
+    "AdresseL": "Hay Nougd Guercif",
+    "AdresseA": "حي النجد،جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALFARABI",
+    "NOM_ETABA": "الثانوية الإعدادية الفارابي",
+    "AdresseL": "hay chouibir guercif",
+    "AdresseA": "حي الشوبير جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDRISS PREMIER",
+    "NOM_ETABA": "الثانوية الإعدادية إدريس الأول",
+    "AdresseL": "AV ABDELKRIM LHATTABI QUARTIER NOUGD ",
+    "AdresseA": " شارع عبد الكريم الخطابي حي النجد ",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU AL HAYTAM",
+    "NOM_ETABA": "ثانوية ابن الهيثم الإعدادية",
+    "AdresseL": "Quartier chuibir ",
+    "AdresseA": "حي الشويبير",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDELLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "HAY NOUGD GUERCIF",
+    "AdresseA": " شارع عبد الكريم الخطابي حي النجد جرسيف ",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU EL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "AV ABDELMOUMEN BNOU ALI GUERCIF",
+    "AdresseA": "شارع عبد المومن بن علي جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ENNAJD",
+    "NOM_ETABA": "النجد",
+    "AdresseL": "RUE ABDELKERIM AL KHATABI NOUGD  GUERCIF",
+    "AdresseA": "شارع عبد الكريم الخطابي النجد جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "BD MY YOUSSEFROUTE OUJDA GUERCIF",
+    "AdresseA": "شارع مولاي يوسف طريق وجدة جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNOU BATTOUTA",
+    "NOM_ETABA": "بن بطوطة",
+    "AdresseL": "BD IBN BATTOUTA GUERCIF",
+    "AdresseA": "شارع بن بطوطة جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MALOUYA",
+    "NOM_ETABA": "ملوية",
+    "AdresseL": "BD AL HIZAM AL KABIRGUERCIF",
+    "AdresseA": "شارع الحزام الكبير جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHOUIBIR",
+    "NOM_ETABA": "الشويبير",
+    "AdresseL": "CHOUIBIR GUERCIF",
+    "AdresseA": "الشويبير جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIBAOUIH",
+    "NOM_ETABA": "سيبويه",
+    "AdresseL": "QUARTIER NOUGD GUERCIF",
+    "AdresseA": "حي النجد جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAMRIA",
+    "NOM_ETABA": "حمرية",
+    "AdresseL": " hay HAMRIA   guercif",
+    "AdresseA": "حمرية  جرسيف ",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANOUAL",
+    "NOM_ETABA": "أنوال",
+    "AdresseL": "QUARTIER CHOUIBIR GUERCIF ",
+    "AdresseA": "حي الشويبير جرسيف   ",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUM AL BANINE",
+    "NOM_ETABA": "أم البنين",
+    "AdresseL": "HARCHAT ARrAS GUERCIF",
+    "AdresseA": "حرشة عراس جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "hay hamria guercif",
+    "AdresseA": "حي حمرية جرسيف ",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA BNOU NOUCEIR",
+    "NOM_ETABA": "موسى بن نصير",
+    "AdresseL": "AVENUE MOHAMMED VI GUERCIF",
+    "AdresseA": "شارع محمد السادس  جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ABI HANIFA",
+    "NOM_ETABA": "مدرسة ابي  حنيفة",
+    "AdresseL": "hay chouibir du nord",
+    "AdresseA": "حي الشويبر الشمالي",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL MASSIRA",
+    "NOM_ETABA": "المسيرة",
+    "AdresseL": "hay HAMRIA   guercif",
+    "AdresseA": "حمرية  جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANAS BNOU MALIK",
+    "NOM_ETABA": "أنس ابن مالك",
+    "AdresseL": "Anas Bnou Malik Hay elhouria Guercif",
+    "AdresseA": "أنس ابن مالك حي الحرية جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUAD IBNOU JABAL ",
+    "NOM_ETABA": "معاد بن جبل",
+    "AdresseL": "Ecole Mouad Ibnou Jabal Guercif",
+    "AdresseA": "مدرسة معاد بن جبل  جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAMRIA 2",
+    "NOM_ETABA": "حمرية 2",
+    "AdresseL": "Hay hamria Guercif",
+    "AdresseA": "حي حمرية، جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANNASR",
+    "NOM_ETABA": "النصر",
+    "AdresseL": "POLE URBAIN GHAYATA GUERCIF",
+    "AdresseA": "القطب الحضري غياطة، جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU SINAA",
+    "NOM_ETABA": "ثانوية ابن سينا التأهيلية",
+    "AdresseL": "HAY NOUJD GUERCIF",
+    "AdresseA": "حي النجد جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MOUSTAKBAL",
+    "NOM_ETABA": "ثانوية المستقبل التأهيلية",
+    "AdresseL": "quartier chwibir",
+    "AdresseA": "حي الشويبير",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZERAKTOUNI",
+    "NOM_ETABA": "ثانوية الزرقطوني التأهيلية",
+    "AdresseL": "HAY NOUGD GUERCIF",
+    "AdresseA": "حي النجد جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL HASSAN ADDAKHIL",
+    "NOM_ETABA": "ثانوية الحسن الداخل التأهيلية",
+    "AdresseL": "BD AL MOSTACHFA GUERCIF",
+    "AdresseA": "شارع المستشفى جرسيف",
+    "COMMUNE": "Guercif",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ADLI DE L ENSEIGNEMENT",
+    "NOM_ETABA": "مؤسسة عدلي للتعليم الخصوصي",
+    "AdresseL": "Quartier Nougdd",
+    "AdresseA": "حمزة 1 حي النجد",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE El Ferdaous",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "Lot. Bakhoucha, Rue Ahfir 39 -",
+    "AdresseA": "تجزئة بخوشة، زنقة أحفير 39 - ج",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE DENIS DUMONT",
+    "NOM_ETABA": "دينيس ديمون",
+    "AdresseL": "RUE LHIZAM LKABIR GUERCIF",
+    "AdresseA": "شارع الحزام الكبير جرسيف",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE El Filali",
+    "NOM_ETABA": "الفيلالي",
+    "AdresseL": "Av. Abdelkrim El Khatabi, Quar",
+    "AdresseA": "شارع عبد الكريم الخطابي، حي ال",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE AL JODOUR",
+    "NOM_ETABA": "الجدور",
+    "AdresseL": "QUARTIER abd lakrim lkhhatabi ",
+    "AdresseA": "شارع عبد الكريم الخطابي فيلا س",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE mON JARDIN",
+    "NOM_ETABA": "حديقتي",
+    "AdresseL": "n 142 rue moussa bno nosair",
+    "AdresseA": "رقم 142 زنقة موسى بن نصير",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE boukmakh",
+    "NOM_ETABA": "بوكماخ",
+    "AdresseL": "Rout d oujda R.Emouwahidine18",
+    "AdresseA": "شارع محمد السادس زنقة الموحدين",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire el filali 2",
+    "NOM_ETABA": "المجموعة المدرسية الفيلالي 2",
+    "AdresseL": "HARCHAT GAMBIR",
+    "AdresseA": "حرشة كامبير",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MAATAOUI",
+    "NOM_ETABA": "مجموعة مدارس المعطاوي",
+    "AdresseL": "LOT ALMAHATA",
+    "AdresseA": "تجزئة المحطة، جرسيف",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al alam aljadid",
+    "NOM_ETABA": "العالم الجديد",
+    "AdresseL": "",
+    "AdresseA": "حي النجد جرسيف",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAHAJ ALMAARIFA",
+    "NOM_ETABA": "محج المعرفة",
+    "AdresseL": "RUE Ibn elhaytam  oulad Hamous",
+    "AdresseA": "شارع ابن الهيثم، أولاد حموسة، ",
+    "COMMUNE": "Guercif ",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIVE"
+  }
+]

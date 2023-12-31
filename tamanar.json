@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE TAMANAR",
+    "NOM_ETABA": "الثانوية الإعدادية تمنار",
+    "AdresseL": "quartier sidi said",
+    "AdresseA": "حي سيدي سعيد",
+    "COMMUNE": "Tamanar",
+    "PROVINCE": "Province: Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELQODS",
+    "NOM_ETABA": "مدرسة القدس",
+    "AdresseL": "CENTRE TAMANAR",
+    "AdresseA": "مركز تمنار",
+    "COMMUNE": "Tamanar",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SIDI SAID",
+    "NOM_ETABA": "مدرسة سيدي سعيد",
+    "AdresseL": "BOULEVARD BIR INZARANE TAMANAR",
+    "AdresseA": "شارع بئر انزران تمنار",
+    "COMMUNE": "Tamanar",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ARGAN",
+    "NOM_ETABA": "     م.م. أركان",
+    "AdresseL": "DOUAR TOUZOUMT TAMANAR",
+    "AdresseA": "دوارتزومط تمنار",
+    "COMMUNE": "Tamanar",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ARGANE",
+    "NOM_ETABA": "الثانوية التأهيلية أركان",
+    "AdresseL": "CENTRE TAMANAR",
+    "AdresseA": "مركز تمنار",
+    "COMMUNE": "Tamanar",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Moustaqbal",
+    "NOM_ETABA": "المستقبل الخاصة",
+    "AdresseL": "QUARIER ALHADIQA BVD MED5 TAMA",
+    "AdresseA": "حي الحديقة، شارع محمد الخامس -",
+    "COMMUNE": "Tamanar ",
+    "PROVINCE": "Essaouira",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

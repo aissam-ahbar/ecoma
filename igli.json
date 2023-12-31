@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "C IGLI ",
+    "NOM_ETABA": "ثإ.ايكلي",
+    "AdresseL": "centre igli ouled berhile",
+    "AdresseA": "مركز اكلي اولاد برحيل",
+    "COMMUNE": "Igli",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS ENNAHDA",
+    "NOM_ETABA": "م.م النهضة",
+    "AdresseL": "DOUAR  IGLI  Cmmune IGLI ouled berhil taroudant",
+    "AdresseA": "دوار إكلي جماعة إكلي أولادبرحيل تارودانت ",
+    "COMMUNE": "Igli",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SRAHNA",
+    "NOM_ETABA": "م.م السراحنة",
+    "AdresseL": "DOUAR   SRAHNA Commune IGLI ouled berhil TAROUDANT",
+    "AdresseA": "دوار السراحنة جماعة إكلي اولاد برحيل تارودانت",
+    "COMMUNE": "Igli",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS RZAGNA",
+    "NOM_ETABA": "م.م الرزاكنة",
+    "AdresseL": "DOUAR  FOUZARA  IGLI",
+    "AdresseA": "دوار فوزارة -اكلي",
+    "COMMUNE": "Igli",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

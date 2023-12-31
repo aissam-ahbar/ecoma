@@ -1,0 +1,142 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL EL FASSI",
+    "NOM_ETABA": "ثانوية علال الفاسي الاعدادية",
+    "AdresseL": "MUNICIPALITE BIR JDID",
+    "AdresseA": "بلدية البئر الجديد",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LAAYOUNE",
+    "NOM_ETABA": "ثانوية العيون الاعدادية",
+    "AdresseL": "MUNICIPALITE BIR JDID",
+    "AdresseA": "بلدية البئر الجديد",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ESSAHEL",
+    "NOM_ETABA": "ثانوية الساحل الاعدادية",
+    "AdresseL": "CENTRE BIR JDID ",
+    "AdresseA": "بلدية البئر الجديد",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUAD EL MAKHAZINE",
+    "NOM_ETABA": "مدرسة وادي المخازن",
+    "AdresseL": "RUE EL IMAM EL BOUKHARI ",
+    "AdresseA": "شارع الإمام البخاري",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EDDAKHLA",
+    "NOM_ETABA": "مدرسة الداخلة",
+    "AdresseL": "QUARTIER ADMINISTRATIF RUE LIBAN",
+    "AdresseA": "زنقة لبنان الحي الإداري",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ESSANABIL",
+    "NOM_ETABA": "مدرسة السنابل",
+    "AdresseL": "Bd mohammed zerktouni ",
+    "AdresseA": "شارع محمد الزرقطوني",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL FATH",
+    "NOM_ETABA": "مدرسة الفتح",
+    "AdresseL": "MUNICIPALITE BIR JDID",
+    "AdresseA": " بلدية البئرالجديد",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ETTAHDIBE",
+    "NOM_ETABA": "مدرسة التهديب",
+    "AdresseL": "MUNICIPALITE BIR JDID",
+    "AdresseA": "بلدية البئر الجديد",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IMAM EL BOUKHARI",
+    "NOM_ETABA": "ثانوية الإمام البخاري التأهيلية",
+    "AdresseL": "mun bir jdid",
+    "AdresseA": "بلدية البئر الجديد",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OQBA IBNOU NAFIE",
+    "NOM_ETABA": "ثانوية عقبة بن نافع التأهيلية",
+    "AdresseL": "mun bir jdid",
+    "AdresseA": "بلدية البئر الجديد",
+    "COMMUNE": "Lbir Jdid",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MIFTAH ENOUR",
+    "NOM_ETABA": "مفتاح النور  ",
+    "AdresseL": "Bd J lotissement ennour ",
+    "AdresseA": "شارع ج تجزئة النور",
+    "COMMUNE": "Lbir Jdid ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SMALL GARDEN SCHOOL",
+    "NOM_ETABA": "مؤسسة سمول غاردن سكول",
+    "AdresseL": "lot lafhal 2 n°32",
+    "AdresseA": "تجزئة لفحل 2 الرقم 32",
+    "COMMUNE": "Lbir Jdid ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTAKADDOUM",
+    "NOM_ETABA": "التقدم",
+    "AdresseL": "122 LOTISSEMENT SABILI ",
+    "AdresseA": "122 تجزئة السبيلي",
+    "COMMUNE": "Lbir Jdid ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole El Irfane",
+    "NOM_ETABA": "العرفان الخاصة",
+    "AdresseL": " LOTISSEMENT SABILI EL JADIDA ",
+    "AdresseA": " تجزئة السابلي الجديدة",
+    "COMMUNE": "Lbir Jdid ",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

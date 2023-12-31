@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU ROCHD",
+    "NOM_ETABA": "الثانوية الإعدادية ابن رشد",
+    "AdresseL": "CENTRE BOUGUEDRA",
+    "AdresseA": "مركز بوكدرة",
+    "COMMUNE": "Bouguedra",
+    "PROVINCE": "Province: Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOHAMED BELKHADIR",
+    "NOM_ETABA": "مدرسة محمد بلخضير",
+    "AdresseL": "BOUGADRA COMMUNE BOUGADRA",
+    "AdresseA": "مركز بوكدرة جماعة بوكدرة",
+    "COMMUNE": "Bouguedra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JRADATE",
+    "NOM_ETABA": "م/م الجرادات",
+    "AdresseL": "DOUAR JRADATE COMMUNE BOUGUEDRA",
+    "AdresseA": "دوار الجرادات  جماعة بوكدرة",
+    "COMMUNE": "Bouguedra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SAADA",
+    "NOM_ETABA": "م/م اولاد سعادة",
+    "AdresseL": "DOUAR OULAD SAADACOMMUNE BOUGADRA",
+    "AdresseA": "دوار اولاد سعادة جماعة بوكدرة",
+    "COMMUNE": "Bouguedra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AHMED",
+    "NOM_ETABA": "م/م اولاد احمد",
+    "AdresseL": "DOUAR OULAD AHMED COMMUNE BOUGADRA",
+    "AdresseA": " دوار اولاد احمد جماعة بوكدرة اقليم أسفي",
+    "COMMUNE": "Bouguedra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RGARGA",
+    "NOM_ETABA": "م/م الركاركة",
+    "AdresseL": "DOUAR RGARGACOMMUNE BOUGADRA",
+    "AdresseA": "دوار الركاركة جماعة بوكدرة",
+    "COMMUNE": "Bouguedra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALMOUTANABI",
+    "NOM_ETABA": "الثانوية التأهيلية المتنبي",
+    "AdresseL": "CENTRE BOUGUEDRA",
+    "AdresseA": "مركز بوكدرة",
+    "COMMUNE": "Bouguedra",
+    "PROVINCE": "Safi",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "NOM_ETABL": "LYEE COLLEGIAL PRINCE HERITIER MOULAY EL HASSAN",
+    "NOM_ETABA": "الثانوية الإعدادية ولي العهد مولاي الحسن ",
+    "AdresseL": "HAY AL QODS",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLEGIAL AL MASSIRA ALKHADRA",
+    "NOM_ETABA": "الثانوية الإعدادية المسيرة الخضراء",
+    "AdresseL": "QUARTIER ADMINISTRATIF TANTAN",
+    "AdresseA": "الحي الإداري طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALLAL BEN ABDALLAH",
+    "NOM_ETABA": "الثانوية الاعدادية علال بن عبد الله",
+    "AdresseL": "HAY ELMASSIRA",
+    "AdresseA": "حي المسيرة",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLEGIAL ASSALAM",
+    "NOM_ETABA": "الثانوية الإعدادية السلام",
+    "AdresseL": "HAY CHEIKH ABDATI TANTAN",
+    "AdresseA": "حي الشيخ عبداتي",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLEGIAL EL MANSOUR EDDAHBI",
+    "NOM_ETABA": " الثانوية الإعدادية المنصور الذهبي",
+    "AdresseL": "HAY EL MASSIRA  TANTAN",
+    "AdresseA": "حي المسيرة  طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLEGIAL ENNAHDA",
+    "NOM_ETABA": "الثانوية الإعدادية النهضة",
+    "AdresseL": "HAY EL JADID TANTAN",
+    "AdresseA": "الحي الجديد طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLEGIAL EL FATH",
+    "NOM_ETABA": "الثانوية الإعدادية الفتح",
+    "AdresseL": "AIN ERRAHMA TANTAN",
+    "AdresseA": "عين الرحمة طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Province: Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL WAHDA",
+    "NOM_ETABA": "المدرسة الإبتدائية الوحدة",
+    "AdresseL": "HAY ALMASJID LEKBIR ESSOUK LEKDIM TAN TAN",
+    "AdresseA": "حي المسجد الكبير السوق القديم طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL OUBOUR",
+    "NOM_ETABA": "المدرسة الإبتدائية العبور",
+    "AdresseL": "HAY CHEIKH ABDATI TANTAN",
+    "AdresseA": "حي الشيخ عبداتي طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN II",
+    "NOM_ETABA": "المدرسة الإبتدائية الحسن الثاني",
+    "AdresseL": "BD HASSAN 2 TANTAN",
+    "AdresseA": "شارع الحسن الثاني طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAFSA BENT OMAR",
+    "NOM_ETABA": "المدرسة الإبتدائية حفصة بنت عمر",
+    "AdresseL": "BD ECHABAB TANTAN",
+    "AdresseA": "شارع الشباب طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHALID IBN ALWILID",
+    "NOM_ETABA": "المدرسة الإبتدائية خالد بن الوليد",
+    "AdresseL": "quattier sokna o taamir",
+    "AdresseA": "حي السكنى والتعمير",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YOUSSEF BEN TACHAFINE",
+    "NOM_ETABA": "المدرسة الإبتدائية يوسف بن تاشفين",
+    "AdresseL": "BD 20 AOUT HAY CHEIKH ABDATI TANTAN",
+    "AdresseA": "شارع 20 غشت حي الشيخ عبداتي طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BIR ANZARANE",
+    "NOM_ETABA": "المدرسة الابتدائية بئر أنزران",
+    "AdresseL": "Boulevard essalam HAY ELJADID BIR ANZARANE",
+    "AdresseA": "شارع السلام الحي الجديد بئر أنزران",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KADI AYAD",
+    "NOM_ETABA": "المدرسة الإبتدائية القاضي عياض",
+    "AdresseL": "BD ECHABAB TANTAN",
+    "AdresseA": "شارع الشباب طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARAKAT ANOUAL",
+    "NOM_ETABA": "المدرسة الإبتدائية معركة أنوال",
+    "AdresseL": "HAY ain ERRAHMA TANTAN",
+    "AdresseA": "حي عين الرحمة طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL INBIAAT",
+    "NOM_ETABA": "المدرسة الابتدائية الإنبعاث",
+    "AdresseL": "QUARTIER ADMINISTRATIF TANTAN",
+    "AdresseA": "الحي الإداري  طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AMIR MOULAY ABDALLAH",
+    "NOM_ETABA": " المدرسة الإبتدائية الأمير مولاي عبد الله ",
+    "AdresseL": "HAY ESSAHRA TANTAN",
+    "AdresseA": "حي الصحراء طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AL MOKHTAR ESSOUSSI",
+    "NOM_ETABA": "المدرسة الابتدائة المختار السوسي",
+    "AdresseL": "HAY ELMASSIRA TANTAN",
+    "AdresseA": "حي المسيرة طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN SINAA",
+    "NOM_ETABA": "المدرسة الإبتدائية ابن سينا",
+    "AdresseL": "HAY EL JADID TANTAN",
+    "AdresseA": "الحي الجديد طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOWAHIDINE",
+    "NOM_ETABA": "المدرسة الإبتدائية الموحدين",
+    "AdresseL": "HAY AL QODS TANTAN",
+    "AdresseA": "حي القدس طلنطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MOURABITINE",
+    "NOM_ETABA": "المدرسة الإبتدائية المرابطين",
+    "AdresseL": "HAY EL JADID av ennasser",
+    "AdresseA": "الحي الجديد شارع النصر",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AHD AL JADID",
+    "NOM_ETABA": "المدرسة الإبتدائية العهد الجديد",
+    "AdresseL": "HAY ENNAHDA",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole  ABOU BAKER ESSADIK",
+    "NOM_ETABA": "المدرسة الابتدائية ابو بكر الصديق",
+    "AdresseL": "BOULEVARD BIRANZARANE TANTAN",
+    "AdresseA": "شارع بئر انزران طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  RIAD ESSALAM",
+    "NOM_ETABA": "المدرسة الابتدائية رياض السلام",
+    "AdresseL": "HAY ESSAHRA",
+    "AdresseA": "حي الصحراء",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT 20 AOUT",
+    "NOM_ETABA": "الثانوية التأهيلية 20 غشت",
+    "AdresseL": "Quartier sahara",
+    "AdresseA": "حي الصحراء",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد",
+    "AdresseL": "TAN TAN",
+    "AdresseA": "طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHEIKH MOHAMED LAGHDAF",
+    "NOM_ETABA": "الثانوية التأهيلية الشيخ محمد الأغظف",
+    "AdresseL": "HAY CHEIKH ABDATI TANTAN",
+    "AdresseA": "حي الشيخ عبداتي",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED V",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "HAY AL JADID TANTAN",
+    "AdresseA": "الحي الجديد طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL QODS",
+    "NOM_ETABA": "الثانوية التأهيلية القدس",
+    "AdresseL": "HAY AL QODS TANTAN",
+    "AdresseA": "حي القدس طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT CHAHID MOHAMED ZARKTOUNI",
+    "NOM_ETABA": "الثانوية التأهيلية الشهيد محمد  الزرقطوني",
+    "AdresseL": "HAY AL JADID TANTAN",
+    "AdresseA": "الحي الجديد طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN BATOUTA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن بطوطة",
+    "AdresseL": "EL MASSIRA EL KHADRA B P 12 TANTAN",
+    "AdresseA": "حي المسيرة الخضراء ص ب 12 طانطان",
+    "COMMUNE": "Tan Tan",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ELKALAM DE L ENSIGNEMENT",
+    "NOM_ETABA": "مؤسسة القلم للتعليم المدرسي الخصوصي",
+    "AdresseL": "boulevard hassan 2",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AMINA BINT WAHB DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسسة  آمنة بنت وهب للتعليم المدرسي الخصوصي",
+    "AdresseL": "BD MOHAMED V RUE AOULAD BOUAIT",
+    "AdresseA": "شارع محمد الخامس زنقة أولاد بو",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  AL  JAIL AL OUAID DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الجيل الواعد للتعليم المدرسي الخصوصي",
+    "AdresseL": "bloc 3 hay al massira",
+    "AdresseA": "بلوك 03 حي المسيرة",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  EVIREST DE L ENS SCOLAIRE",
+    "NOM_ETABA": "اايفرست للتعليم المدرسي الخصوصي",
+    "AdresseL": "122 av 20aout ",
+    "AdresseA": "122 شارع 20 غشت",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  EL IMAM EL GHAZALI DE L ENS SCOLAIRE AN",
+    "NOM_ETABA": "مؤسسة الإمام الغزالي للتعليم المدرسي الخصوصي ملحقة 1",
+    "AdresseL": "HAY EL MASSIRA PRES DE LYCEE I",
+    "AdresseA": "حي المسيرة قرب ثانوية ابن بطوط",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  AL MANAR DE L ENS PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة المنار للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "الزنقة 01 رقم 29 الحي الجديد",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  ASSABIL DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة السبيل للتعليم المدرسي الخصوصي",
+    "AdresseL": "Lot.farrahi.hay el jadid ",
+    "AdresseA": "تجزئة فراحي الحي الجديد",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  ETTOUMOUH DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الطموح للتعليم المدرسي الخصوصي ",
+    "AdresseL": "AVD 20 aout Tantan",
+    "AdresseA": "        شارع 20 غشت طانطان",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  ALJAOUZA DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الجوزاء للتعليم المدرسي الخصوصي",
+    "AdresseL": "PRES LYCEE MED V",
+    "AdresseA": "قرب ثانوية محمد الخامس التأهيل",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  AJYALOUNA DE L ENS PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أجيالنا للتعليم الأولي الخصوصي",
+    "AdresseL": "bloc  k  n° 13 hay sahara tant",
+    "AdresseA": "بلوك   ك   رقم 13  حي الصحراء",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT GROUPE SCOLAIRE DERB SOLTANE DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مجموعة مدارس درب السلطان للتعليم المدرسي الخصوصي",
+    "AdresseL": " HAY SAHARA, 2",
+    "AdresseA": "2 حي الصحراء",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  AL MAJD DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة المجد للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 25, Hay El Massira - C. Tan",
+    "AdresseA": "رقم 25  حي المسيرة - ج. طانطان",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  EL IMAM ELGHAZALI DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الإمام الغزالي للتعليم المدرسي الخصوصي",
+    "AdresseL": " QUARTIER MASSIRA BLOC1 N°1",
+    "AdresseA": "حي المسيرة بلوك1 رقم52",
+    "COMMUNE": "Tan Tan ",
+    "PROVINCE": "Tan-Tan",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  }
+]

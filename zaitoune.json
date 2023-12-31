@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE MOULAY AHMED AL MENJRA",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي أحمد المنجرة",
+    "AdresseL": "bouanan",
+    "AdresseA": "بوعنان",
+    "COMMUNE": "Zaitoune",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE AHRIK",
+    "NOM_ETABA": "مدرسة أحريق",
+    "AdresseL": "DOUAR AHRIK CZAYTOUNE  TETOUAN",
+    "AdresseA": "دوار أحريق . جماعة الزيتون . دائرة تطوان",
+    "COMMUNE": "Zaitoune",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KITANE",
+    "NOM_ETABA": "م.م كيتان",
+    "AdresseL": "DOUAR KITANE CZAYTOUNE  AZLA",
+    "AdresseA": "دوار كيتان جماعة الزيتون قيادة أزلا",
+    "COMMUNE": "Zaitoune",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR AL GHAZI",
+    "NOM_ETABA": "م.م دار الغازي",
+    "AdresseL": "DOUAR DAR AL GHAZI C ZAYTOUNE  CERCLE TETOUAN",
+    "AdresseA": "دوار دار الغازي . جماعة الزيتون",
+    "COMMUNE": "Zaitoune",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LALLA AICHA",
+    "NOM_ETABA": "مدرسة للاعائشة",
+    "AdresseL": "COMMUNE ZAITOUNE",
+    "AdresseA": "جماعة الزيتون",
+    "COMMUNE": "Zaitoune",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OTMAN BNO AFFANE",
+    "NOM_ETABA": "الثانوية التأهيلية عثمان بن عفان",
+    "AdresseL": "COMMUNE ZAITOUNE",
+    "AdresseA": "جماعة الزيتون",
+    "COMMUNE": "Zaitoune",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

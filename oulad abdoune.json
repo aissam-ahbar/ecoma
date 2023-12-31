@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SAKIA EL HAMRA",
+    "NOM_ETABA": "الثانوية الاعدادية الساقية الحمراء",
+    "AdresseL": "CENTRE COMMUNE OULED ABDOUNE COMMUNE OULED ABDOUNE",
+    "AdresseA": "مركز  اولاد  عبدون",
+    "COMMUNE": "Oulad Abdoune",
+    "PROVINCE": "Province: Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OULED ABDOUNE",
+    "NOM_ETABA": "م/م أولاد عبدون",
+    "AdresseL": "DOUAR LARLALCHA COMMUNE OULED ABDOUNE",
+    "AdresseA": "دوار لعلالشة جماعة اولاد عبدون",
+    "COMMUNE": "Oulad Abdoune",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAMRAHNA",
+    "NOM_ETABA": "م/م المراهنة",
+    "AdresseL": "DOUAR LAMRAHNA COMMUNE OULED ABDOUNE",
+    "AdresseA": "دوار  المراهنة",
+    "COMMUNE": "Oulad Abdoune",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS CHEIKH ALI",
+    "NOM_ETABA": "م/م الشيخ علي",
+    "AdresseL": "DOUAR CHEIKH ALI COMMUNE OULED ABDOUNE",
+    "AdresseA": "دوار  الشيخ  علي",
+    "COMMUNE": "Oulad Abdoune",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ZIRI IBNOU ATYA",
+    "NOM_ETABA": "مدرسة زيري بن عطية",
+    "AdresseL": "CENTRE COMMUNE OULED ABDOUNE COMMUNE OD ABDOUNE",
+    "AdresseA": "مركز جماعة اولاد عبدون",
+    "COMMUNE": "Oulad Abdoune",
+    "PROVINCE": "Khouribga",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

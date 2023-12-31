@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS GAADA HAMRA",
+    "NOM_ETABA": "م/م  الكعدة الحمراء",
+    "AdresseL": "DOUAR KAADA HAMERA COMMUNE MOULAY ABDELKRIM KARIA",
+    "AdresseA": "دوار الكعدة الحمرة جماعة مولاي عبد الكريم القرية",
+    "COMMUNE": "Moulay Abdelkrim",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIABRA",
+    "NOM_ETABA": "م/م  الصيابـرة",
+    "AdresseL": "DOUAR SIABRA COMMUNE MOULAY ABDELKRIM KARIA",
+    "AdresseA": "دوار الصيابرة جماعة مولاي عبد الكريم القرية",
+    "COMMUNE": "Moulay Abdelkrim",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

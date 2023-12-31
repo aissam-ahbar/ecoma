@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  BENI CHIKER",
+    "NOM_ETABA": "الثانوية الإعدادية بني شيكر",
+    "AdresseL": "DOUAR SOUK EL HAD COMMUNE BENI CHIKER",
+    "AdresseA": "دوار سوق الحد جماعة بني شيكر",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE BNI CHIKER",
+    "NOM_ETABA": "مجموعة مدارس بني شيكر",
+    "AdresseL": "souk alhad BENI CHIKER",
+    "AdresseA": "سوق الأحد بني شيكر المركز",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ERRAZI",
+    "NOM_ETABA": "مجموعة مدارس الرازي",
+    "AdresseL": "DOUAR IN ALLA COMMUNE BNI CHIKER",
+    "AdresseA": "دوار انعلا",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TAOURIRT",
+    "NOM_ETABA": "مجموعة مدارس تاوريرت",
+    "AdresseL": "DOUAR TAOURIRT COMMUNE BNI CHIKER",
+    "AdresseA": "دوارتاوريرت",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE TRARA",
+    "NOM_ETABA": "مجموعة مدارس اطرارة",
+    "AdresseL": "DOUAR RAHOUANA COMMUNE BNI CHIKER",
+    "AdresseA": "دوار رهوانة بني شيكر",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ABDERRAHMAN EDDAKHIL",
+    "NOM_ETABA": "مجموعة مدارس عبدالرحمان الداخل",
+    "AdresseL": "DOUAR OULAD LAHCEN COMMUNE BENI CHIKER",
+    "AdresseA": "دوار اولاد لحسن بني شيكر",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ELMAHDI BNOU TOUMART",
+    "NOM_ETABA": "مجموعة مدارس المهدي بن تومرت",
+    "AdresseL": "DOUAR TIZZA COMMUNE BNI CHIKER",
+    "AdresseA": "دوار تيزة",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  COM BENI CHIKER",
+    "NOM_ETABA": "المدرسة الابتدائية  كوم بني شيكر",
+    "AdresseL": "douar jahlioua beni chiker ",
+    "AdresseA": "دوار جهليوة بني شيكر",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BENI CHIKER",
+    "NOM_ETABA": "الثانوية التأهيلية بني شيكر",
+    "AdresseL": "BENI CHIKER CENTRE",
+    "AdresseA": "بني شيكر المركز",
+    "COMMUNE": "Bni Chiker",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

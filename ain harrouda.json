@@ -1,0 +1,232 @@
+[
+  {
+    "NOM_ETABL": "AIN HARROUDA",
+    "NOM_ETABA": "عين حرودة",
+    "AdresseL": " AIN HARROUDA",
+    "AdresseA": "جماعة عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUAD EL MAKHAZINE",
+    "NOM_ETABA": "وادي المخازن",
+    "AdresseL": "PK 17 MUNICIPALITE AIN HARROUDA",
+    "AdresseA": "جماعة عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HALIMA SAADIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": "AIN HARROUDA",
+    "AdresseA": "عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIN HARROUDA 1",
+    "NOM_ETABA": "عين حرودة 1",
+    "AdresseL": "PK 17 AIN HARROUDA  CASA",
+    "AdresseA": "  km17 عين حرودة البيضاء",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN HARROUDA 2",
+    "NOM_ETABA": "عين حرودة 2",
+    "AdresseL": "PK 17 AIN HARROUDA  CASA",
+    "AdresseA": "ن ك 17 عين حرودة البيضاء",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIHAM 2",
+    "NOM_ETABA": "سهام 2",
+    "AdresseL": "DOUAR BIKI PK 15 MUNICIPALITE AIN HAROUDA",
+    "AdresseA": "دوار بيكي ن ك 15 عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIHAM 1",
+    "NOM_ETABA": "سهام 1",
+    "AdresseL": "DOUAR BIKI PK 15 MUNCIPALITE AIN HARROUDA CASA",
+    "AdresseA": "دوار بيكي ن ك 15 عين حرودة المحمدية",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL JARRAOUI",
+    "NOM_ETABA": "الجراوي",
+    "AdresseL": "PK 15 MUNICIPALITE AIN HARROUDA CASA",
+    "AdresseA": "ن ك 15 عين حرودة البيضاء",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY AL MASJID",
+    "NOM_ETABA": "حي المسجد",
+    "AdresseL": "PK 17 MUNICIPALITE AIN HAROUDA",
+    "AdresseA": "ن ك 17 عين حرودة البيضاء",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GHAZOUANE",
+    "NOM_ETABA": "غزوان",
+    "AdresseL": "DOUAR GHAZOUANE ROUTE COTIERE KM 13  AIN HARROUDA",
+    "AdresseA": "دوار غزوان الطريق الساحلية كلم 13 جماعة عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA KHADIJA",
+    "NOM_ETABA": "للاخديجة",
+    "AdresseL": "diyar mansour   ain harrouda                   ",
+    "AdresseA": "ديار المنصور عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LISSANE EDDINE IBN ALKHATIB",
+    "NOM_ETABA": "لسان الدين ابن الخطيب",
+    "AdresseL": "ain harouda",
+    "AdresseA": "عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL FARABI",
+    "NOM_ETABA": "الفارابي",
+    "AdresseL": "ain harrouda",
+    "AdresseA": "عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AMJAD",
+    "NOM_ETABA": "أمجاد",
+    "AdresseL": "AIN HARROUDA",
+    "AdresseA": "عين جرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTANMYA",
+    "NOM_ETABA": "التنمية",
+    "AdresseL": "AIN HARROUDA",
+    "AdresseA": "عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AIN HARROUDA",
+    "NOM_ETABA": "الثانوية التاهيلية عين حرودة",
+    "AdresseL": "Bd MOUKHTAR SOUSSI citee al falah ain harrouda",
+    "AdresseA": "شارع المختار السوسي  حي الفلاح  كلم 17 عين حرودة",
+    "COMMUNE": "Ain Harrouda",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MFadel kamal",
+    "NOM_ETABA": "مفضل كمال الخصوصية",
+    "AdresseL": "residence blir",
+    "AdresseA": "إقامة بلير",
+    "COMMUNE": "Ain Harrouda ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD ALMALAIKA",
+    "NOM_ETABA": "رياض الملائكة الخصوصية",
+    "AdresseL": "AIN HARROUDA",
+    "AdresseA": "عين حرودة",
+    "COMMUNE": "Ain Harrouda ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR ZENATA",
+    "NOM_ETABA": "نور زناتة الخصوصية",
+    "AdresseL": "AIN HARROUDA POINT KILOMETRIQU",
+    "AdresseA": "عين حرودة النقطة الكلومترية 17",
+    "COMMUNE": "Ain Harrouda ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBNO SYRINE",
+    "NOM_ETABA": "ابن سيرين الخصوصية",
+    "AdresseL": "lot Nassadihi n°44 ain harroud",
+    "AdresseA": "تجزئة تسديهي رقم 44 عين حرودة",
+    "COMMUNE": "Ain Harrouda ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GHAFIR",
+    "NOM_ETABA": " غفير الخصوصية",
+    "AdresseL": "km 17 ain harrouda",
+    "AdresseA": "النقطة الكيلومترية 17 عين حرود",
+    "COMMUNE": "Ain Harrouda ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNASSIM ASSAID",
+    "NOM_ETABA": "النسيم الصاعد الخصوصية",
+    "AdresseL": "Hay El Amal 2 N° 15 Ain Harrou",
+    "AdresseA": "حي الأمل 2 رقم 15 عين حرودة",
+    "COMMUNE": "Ain Harrouda ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZENATA",
+    "NOM_ETABA": "زناتة الخصوصية",
+    "AdresseL": "Km 16,5, Résidence Ayoub - C.U",
+    "AdresseA": "كلم 16.5 إقامة أيوب - ج. ح عين",
+    "COMMUNE": "Ain Harrouda ",
+    "PROVINCE": "Mohammadia",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

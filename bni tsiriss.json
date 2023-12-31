@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LMOUDNINE",
+    "NOM_ETABA": "المودنين",
+    "AdresseL": "DOUAR OULED ALI BELAARBI ",
+    "AdresseA": "دوار اولاد علي بن العربي ",
+    "COMMUNE": "Bni Tsiriss",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAABABSA",
+    "NOM_ETABA": "العبابسة",
+    "AdresseL": "DOUAR LAABABSSA ",
+    "AdresseA": "دوار العبابسة ",
+    "COMMUNE": "Bni Tsiriss",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KAID MOUSSA",
+    "NOM_ETABA": "القايد موسى",
+    "AdresseL": "DOUAR LAFRAIJAT ",
+    "AdresseA": "دوار لفريجات",
+    "COMMUNE": "Bni Tsiriss",
+    "PROVINCE": "Sidi Bennour",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

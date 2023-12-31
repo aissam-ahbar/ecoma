@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS EL KLAYAA",
+    "NOM_ETABA": "م/م  القلايع",
+    "AdresseL": "DOUAR EL KLAYAA COMMUNE OUDKA GHAFSSAI",
+    "AdresseA": "دوار القلايع - جماعة اللوكدة - غفساي",
+    "COMMUNE": "Oudka",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS NOUKLA",
+    "NOM_ETABA": "م/م  النـقــلة",
+    "AdresseL": "DOUAR NOUKLA COMMUNE OUDKA GHAFSSAI",
+    "AdresseA": "دوار النقلة - جماعة ودكة - غفساي",
+    "COMMUNE": "Oudka",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

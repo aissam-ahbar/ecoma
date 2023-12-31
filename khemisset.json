@@ -1,0 +1,632 @@
+[
+  {
+    "NOM_ETABL": "AL MAGHRIB AL ARABI",
+    "NOM_ETABA": "المغرب العربي",
+    "AdresseL": "HAY ZAHRA",
+    "AdresseA": "حي الزهراء",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOULAY ISMAIL",
+    "NOM_ETABA": "مولاي اسماعيل",
+    "AdresseL": "HAY ASSALAM MUNICIPALITE KHEMISSET",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MANSOUR DAHBI",
+    "NOM_ETABA": "المنصور الدهبي",
+    "AdresseL": "HAY MAAMOURA KHEMISSET",
+    "AdresseA": "حي المعمورة",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMAM MALEK",
+    "NOM_ETABA": "الامام مالك",
+    "AdresseL": "  avenue sidi hrazem HAY lalla mimouna  MUNICIPALI",
+    "AdresseA": "  شارع سيدي حرازم حي للا ميمونة",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MASSIRA",
+    "NOM_ETABA": "المسيرة",
+    "AdresseL": "RUE ALARZ MUNICIPALITE KHEMISSET",
+    "AdresseA": "شارع الارز",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AZZAYTOUNE",
+    "NOM_ETABA": "الزيتون",
+    "AdresseL": "HAY SIDI GHRIB MUNICIPALITE KHEMISSET",
+    "AdresseA": "حي سيدي غريب",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "NAHDA",
+    "NOM_ETABA": "النهضة",
+    "AdresseL": "ROUTE ABIRAKRAK  MUNICIPALITE KHEMISSET",
+    "AdresseA": "شارع أبي رقراق حي الزهراء",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KHEMISSET",
+    "NOM_ETABA": "الخميسات",
+    "AdresseL": "LOT CDG",
+    "AdresseA": "تجزئة صندوق الإيداع والتدبير",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAARBI BEN OMAR",
+    "NOM_ETABA": "العربي بن عمر",
+    "AdresseL": "rue oued ALYARMOUK  hay ezzahra khemisset",
+    "AdresseA": "زنقة  واد اليرموك حى الزهراء الخميسات",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHOUHADA",
+    "NOM_ETABA": "الشهداء",
+    "AdresseL": "rue abiy ragrag hay saada KHEMISSET",
+    "AdresseA": "شارع ابي رقراق حي السعادة بلدية الخميسات ",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHARIF IDRISSI",
+    "NOM_ETABA": "الشريف الادريسي",
+    "AdresseL": "RUE QADI AYAD",
+    "AdresseA": "زنقة القاضي عياض",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "QADI AYAD",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "RUE moubarak elbakkay",
+    "AdresseA": "شارع مبارك البكاي",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RABIA ADAOUIA",
+    "NOM_ETABA": "رابعة العدوية",
+    "AdresseL": "quartier takkaddoum RUE MARRACKECH  khemisset",
+    "AdresseA": "حي التقدم شارع مراكش الخميسات",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN BATTOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "AVENUE IBN SINA",
+    "AdresseA": "شارع ابن سينا",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN SINA",
+    "NOM_ETABA": "ابن سينا",
+    "AdresseL": "AVENUE IBN SINA",
+    "AdresseA": "شارع ابن سينا",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAHID LHARTI",
+    "NOM_ETABA": "الشهيد الحارتي",
+    "AdresseL": "HAY HAKAMATE",
+    "AdresseA": "حي حكمات",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED BELMILOUDI",
+    "NOM_ETABA": "محمد بلميلودي",
+    "AdresseL": "HAY Irataha",
+    "AdresseA": "حي الرتاحة",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OTHMAN BEN AFFAN",
+    "NOM_ETABA": "عثمان بن عفان",
+    "AdresseL": "HAY MAAMORA SAGOU BP 1527",
+    "AdresseA": "حي ساكو ص,ب 1527 معمورة",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED ZERKTOUNI",
+    "NOM_ETABA": "محمد الزرقطوني",
+    "AdresseL": "ZANKAT IBN ROCHD AVENUE MOHAMMED ZERKTOUNI",
+    "AdresseA": "زنقة ابن رشد شارع محمد الورقطوني",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALI BEN ABI TALEB",
+    "NOM_ETABA": "علي بن ابي طالب",
+    "AdresseL": "HAY ASSAADA2",
+    "AdresseA": "حي السعادة 2",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMMED ABDOU",
+    "NOM_ETABA": "محمد عبده",
+    "AdresseL": "HAY ALYASMINE 1",
+    "AdresseA": "حي الياسمين 01",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH RAHMANI",
+    "NOM_ETABA": "عبد الله الرحماني",
+    "AdresseL": "avenu taoufik el hakim N 14  hay elwahda",
+    "AdresseA": "شارع توفيق الحكيم رقم 14 حي الوحدة",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU BASSAM",
+    "NOM_ETABA": "ابن بسام",
+    "AdresseL": "MAAMORA",
+    "AdresseA": "المعمورة",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAOUKI",
+    "NOM_ETABA": "شوقي",
+    "AdresseL": "Widadiyate Assalam quartier Essaada municipalité K",
+    "AdresseA": "ودادية السلام حي السعادة بلدية الخميسات ",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MARIAM AL AADRAE",
+    "NOM_ETABA": "مريم العذراء",
+    "AdresseL": "rue oued alyarmok HAY AZZAHRAA COMMUNE KHEMISSET",
+    "AdresseA": "   زنقة وادي اليرموك حي الزهراءالخميسات",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHANSAA",
+    "NOM_ETABA": "الخنساء",
+    "AdresseL": "KHEMISSET",
+    "AdresseA": "الخميسات",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZZOUBIR BNOU AL AOUAM",
+    "NOM_ETABA": "الزبير بن العوام",
+    "AdresseL": "hay riad yasmine 2 ",
+    "AdresseA": "حي الرياض   باسمين 2 ",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SAAD BNOU ABI OUAKKASSE",
+    "NOM_ETABA": "سعد بن أبي وقاص",
+    "AdresseL": "QUARTIER ENNAHDA",
+    "AdresseA": "حي النهضة",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LOTISSEMENT BELMILOUDI",
+    "NOM_ETABA": "تجزئة بلميلودي",
+    "AdresseL": "RUE BARRAGE ELMOKHTAR ASSOUSSI LOTISSEMENT BELMILO",
+    "AdresseA": " زنقة سد المختار السوسي تجزئة بلميلودي الخميسات",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE DOUAR CHEIKH",
+    "NOM_ETABA": "مدرسة دوار الشيخ",
+    "AdresseL": "DOUAR CHEIKH",
+    "AdresseA": "دوار الشيخ",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALMOUAHIDINE",
+    "NOM_ETABA": "الموحدين",
+    "AdresseL": "Quartier AL KARAMA 1",
+    "AdresseA": "حي الكرامة1 ",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED BELHASSAN EL OUAZZANI",
+    "NOM_ETABA": "محمد بلحسن الوزاني",
+    "AdresseL": "LOTISSEMENT YASSMINE II MUNICIPALITE KHEMISSET",
+    "AdresseA": "حي الياسمين 2  ص.ب 46 الخميسات ",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH GUENNOUN",
+    "NOM_ETABA": "عبد الله كنون",
+    "AdresseL": "HAY ASSAADA MUNICIPALITE KHEMISSET",
+    "AdresseA": "حي السعادة شارع ابن سينا",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA BNOU NOUSSAIR",
+    "NOM_ETABA": "موسى بن نصير",
+    "AdresseL": "AVENUE YOUSSEF IBN TACHFINE MUNICIPALITE KHEMISSET",
+    "AdresseA": "شارع يوسف بن تاشفين",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "YASMINE",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "AVENUE IBNSINA MUNICIPALITE KHEMISSET",
+    "AdresseA": "شارع ابن سينا",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "EL FATH",
+    "NOM_ETABA": "الفتح",
+    "AdresseL": "ROUTE ABIRAKRAK  MUNICIPALITE KHEMISSET",
+    "AdresseA": "شارع ابي رقراق حي الزهراء",
+    "COMMUNE": "Khémisset",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "SALMA EL BIKR",
+    "NOM_ETABA": "سلمى البكر",
+    "AdresseL": "455 lotissement belmiloudi",
+    "AdresseA": "455 تجزئة بلميلودي",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire almaarif alkobra",
+    "NOM_ETABA": "مؤسسة المعارف الكبرى للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 101 حي الياسمين 1",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire ibn khaldoune",
+    "NOM_ETABA": "مؤسسة ابن خلدون للتعليم الأولي",
+    "AdresseL": "Lotissement Loubna N° 24 Khémi",
+    "AdresseA": "رقم 24 تجزئة لبنى",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire jaouharat achbal lghad",
+    "NOM_ETABA": "جوهرة أشبال الغد للتعليم الأولي",
+    "AdresseL": "angle rue oued el makhazine et",
+    "AdresseA": "زاوية زنقة وادي الكل وزنقة واد",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire yasmina",
+    "NOM_ETABA": "مؤسسة ياسمينة الخصوصية للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة الياسمين 1الطابق الارضي1",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire salam el omouma",
+    "NOM_ETABA": "مؤسسة سلام الأمومة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "145 زنقة عبد الله الشفشاوني  ح",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement  prescolaire toyour al janaa",
+    "NOM_ETABA": "طيور الجنة للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 54 زنقة أبي بكر الصديق ",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire chealat al manal",
+    "NOM_ETABA": "مؤسسة شعلة المنال للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 179 شارع محمد الخامس",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire al woroud",
+    "NOM_ETABA": "مؤسسة الورود للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 604 زنقة رقم 2 حي المنى",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT NOUR ALHOUDA",
+    "NOM_ETABA": "مؤسسة نور الهدى الخصوصية",
+    "AdresseL": "JARDINS ZEMMOUR 1 yasmin 4",
+    "AdresseA": "حدائق زمور  1 الياسمين 4",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AFAK",
+    "NOM_ETABA": "الآفاق الخصوصية",
+    "AdresseL": "RES AL MANSOUR - KHEMISSET",
+    "AdresseA": "تجزئة المنصور 1، الخميسات",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "spring-bee school",
+    "NOM_ETABA": "مؤسسة نحلة الربيع الخصوصية",
+    "AdresseL": "Lot assaLAM N°82 RUE ARRAID AB",
+    "AdresseA": " تجزئة السلام رقم 82  زنقة الر",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement manar al hoda",
+    "NOM_ETABA": "مؤسسة منار الهدى الخصوصية",
+    "AdresseL": "lot annajah n° 08 rue mimousa ",
+    "AdresseA": "تجزئة النجاح رقم 08 زنقة ميموز",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire andalousia 5",
+    "NOM_ETABA": "مجموعة مدارس الأندلسية 5 ",
+    "AdresseL": "247,lotissement El Kods",
+    "AdresseA": "247 تجزئة القدس",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee dolto francoise",
+    "NOM_ETABA": "المدرسة الخاصة دولتو فرانسواز",
+    "AdresseL": "n° 19 ZANAKAT MIMOUSA HAY NAJA",
+    "AdresseA": "رقم 19 زنقة ميموزا حي النجاح",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KAFAA",
+    "NOM_ETABA": "كفاءة خصوصي",
+    "AdresseL": "",
+    "AdresseA": "زنقة بوبيا رقم 11 حي السلام ",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "wahat a salam",
+    "NOM_ETABA": "واحة السلام",
+    "AdresseL": "RUE  AHMED BOUBIA N 15 HAY ESS",
+    "AdresseA": "شارع احمد  بوبيا رقم 15 حي الس",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire el yazidi",
+    "NOM_ETABA": "مجموعة مدارس اليزيدي الخصوصية",
+    "AdresseL": "bd. mohammed v route de rabat",
+    "AdresseA": "شارع محمد الخامس ، طريق الرباط",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ryad al maarifa",
+    "NOM_ETABA": "رياض المعرفة",
+    "AdresseL": "RUE TAWFIK EL HAKIM ",
+    "AdresseA": "شارع توفيق الحكيم",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JAOUHARAT ABTAL LGHAD",
+    "NOM_ETABA": "مؤسسة جوهرة ابطال الغد الخصوصية",
+    "AdresseL": "rue mimouza Lotisement ennajah",
+    "AdresseA": "رقم 29،زنقة ميموزة ، تجزئة الن",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Firdaous",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "N° 1, Rue Ahmed Boubya Hay Ess",
+    "AdresseA": "رقم 1، زنقة أحمد بوبيا حي السل",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Manarat Al Firdaous",
+    "NOM_ETABA": "منارة الفردوس",
+    "AdresseL": "AVENUE Cadi Ayad",
+    "AdresseA": "شارع القاضي عياض",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHOUALAT TAHA",
+    "NOM_ETABA": "شعلة طه ",
+    "AdresseL": "Boulevard Abdellah Chefchaouni",
+    "AdresseA": "شارع عبد الله الشفشاوني حي الس",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ennajah Gad",
+    "NOM_ETABA": "النجاح غد ",
+    "AdresseL": "N° 48, Rue El Hilali Laarbi",
+    "AdresseA": "رقم 48، زنقة الهلالي العربي",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Wahda",
+    "NOM_ETABA": "الوحدة",
+    "AdresseL": "N° 117, Boulevard Mohamed V - ",
+    "AdresseA": " رقم 117، شارع محمد الخامس - ا",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "wahat a salam (Annexe)",
+    "NOM_ETABA": "واحة السلام الملحقة",
+    "AdresseL": "villa num 35 rue mimoza quarti",
+    "AdresseA": "فيلا رقم 35، زنقة ميموزا حي ال",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KAFAA ( ANNEXE)",
+    "NOM_ETABA": "مؤسسة كفاءة الخصوصية (ملحقة)",
+    "AdresseL": "N 13. RUE AHMED BOUBIA . HAY S",
+    "AdresseA": "زنقة احمد بوبية رقم13  حي السل",
+    "COMMUNE": "Khémisset ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

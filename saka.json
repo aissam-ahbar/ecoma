@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL JAHID",
+    "NOM_ETABA": "الثانوية الجاحظ الإعدادية",
+    "AdresseL": "SAKA CENTRE",
+    "AdresseA": "صاكة المركز",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI LAFDIL CENTRE",
+    "NOM_ETABA": "سيدي لفضيل المركز",
+    "AdresseL": "SIDI LAFDIL COMMUNE SAKA",
+    "AdresseA": "دوار سيدي لفضيل جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TASTFACHTE CENTRE",
+    "NOM_ETABA": "تسطفاشت المركز",
+    "AdresseL": "TASATFACHT COMMUNE SAKA",
+    "AdresseA": "دوار تاسطفاشت جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIZI N TASSA CENTRE",
+    "NOM_ETABA": "تيزي نتاسا المركز",
+    "AdresseL": "DOUAR TISI N ATSSA COMMUNE SAKA",
+    "AdresseA": "دوار تيزي نتاسا جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL KHAT CENTRE",
+    "NOM_ETABA": "الخط المركز",
+    "AdresseL": "KHAT COMMUNE SAKA",
+    "AdresseA": "دوار الخط جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " OULED BEN SALEM CENTRE",
+    "NOM_ETABA": " اولاد بن سالم المركز",
+    "AdresseL": "DOUAR OULED BEN SALEM COMMUNE SAKA",
+    "AdresseA": "دوار اولاد بن سالم جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED KHLOUF CENTRE",
+    "NOM_ETABA": "اولاد اخلوف المركز",
+    "AdresseL": "OULAD KHLOUF COMMUNE SAKA",
+    "AdresseA": "دوار اولاد خلوف جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SANGAL CENTRE",
+    "NOM_ETABA": "صانكال المركز",
+    "AdresseL": "SANKAL COMMUNE SAKA",
+    "AdresseA": "دوار إبرحوتن جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TIZI TISDNANE",
+    "NOM_ETABA": "تيزي نتسدنان",
+    "AdresseL": "DOUAR TIZI TISDNANE COMMUNE SAKA",
+    "AdresseA": "دوار تيزي نتسدنان  جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED OUTMANE CENTRE",
+    "NOM_ETABA": "اولاد عثمان المركز",
+    "AdresseL": "DOUAR OULED OUTMANE COMMUNE SAKA",
+    "AdresseA": "دوار اولاد عثمان  جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUMYAT CENTRE",
+    "NOM_ETABA": "التوميات",
+    "AdresseL": "DOUAR TOUMYAT COMMUNE SAKA",
+    "AdresseA": "دوار التوميات جماعة صاكة ",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNO TOFAIL",
+    "NOM_ETABA": "الثانوية التأهيلية ابن طفيل",
+    "AdresseL": "SAKA",
+    "AdresseA": "صاكة",
+    "COMMUNE": "Saka",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBNOU SINA",
+    "NOM_ETABA": "ثانوية ابن سينا الإعدادية",
+    "AdresseL": "KSBAT SIDI ABELLAH BEN MBAREK",
+    "AdresseA": "قصبة سيدي عبد الله بن مبارك",
+    "COMMUNE": "Kasbat Sidi Abdellah Ben M'Bar",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S SIDI ABDALLAH BEN M BAREK",
+    "NOM_ETABA": "م/م سيدي عبد الله بن مبارك",
+    "AdresseL": "DOUAR TAOURIRT AKKA  TATA",
+    "AdresseA": "دوار.توريرت اقا طاطا",
+    "COMMUNE": "Kasbat Sidi Abdellah Ben M'Bar",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S TAMDOULTE",
+    "NOM_ETABA": "م/م تمدولت",
+    "AdresseL": "DOUAR  KASBA  AKKA   TATA",
+    "AdresseA": "دوارالقصبة اقا طاطا",
+    "COMMUNE": "Kasbat Sidi Abdellah Ben M'Bar",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI ABDELLAH BEN MBAREK",
+    "NOM_ETABA": "ثانوية سيدي عبد الله بن مبارك التأهيلية",
+    "AdresseL": "KSBAT SIDI ABELLAH BEN MBAREK",
+    "AdresseA": "قصبة سيدي عبد الله بن مبارك",
+    "COMMUNE": "Kasbat Sidi Abdellah Ben M'Bar",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

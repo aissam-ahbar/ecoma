@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BADR",
+    "NOM_ETABA": "ثانوية بدر الإعدادية ",
+    "AdresseL": "DOUAR FOUM TLIT",
+    "AdresseA": "دوار فم تليت",
+    "COMMUNE": "Tlite",
+    "PROVINCE": "Province: Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S/S TLITE",
+    "NOM_ETABA": "م/م تليت",
+    "AdresseL": "DOUAR TLITE FOUM ZGUID  TATA",
+    "AdresseA": "دوار تليت فم زكيد طاطا",
+    "COMMUNE": "Tlite",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S AMTZGUINE",
+    "NOM_ETABA": "م/م امتزكين",
+    "AdresseL": "DOUAR AMTZGUINE  FOUM ZGUID  TATA",
+    "AdresseA": "امتزكين فم زكيد",
+    "COMMUNE": "Tlite",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S NSOULA",
+    "NOM_ETABA": "م/م انسولة",
+    "AdresseL": "dOUAR NSOULA FOUM ZGUID  TATA",
+    "AdresseA": "دوار انسولة فم زكيد طاطا",
+    "COMMUNE": "Tlite",
+    "PROVINCE": "Tata",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

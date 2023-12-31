@@ -1,0 +1,2272 @@
+[
+  {
+    "NOM_ETABL": "ABOU DAR ALGHIFARI",
+    "NOM_ETABA": "أبو ذر الغفاري",
+    "AdresseL": "HAY HASSANI",
+    "AdresseA": "الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH BNOU MASSOUD",
+    "NOM_ETABA": "عبد الله بن مسعود",
+    "AdresseL": "LOT RIAD SOFIA LISSASFA",
+    "AdresseA": "تجزئة رياض صوفيا ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL IMAM ALGHAZALI",
+    "NOM_ETABA": "الإمام الغزالي",
+    "AdresseL": "charaf 2 oulfa hay hassani",
+    "AdresseA": "الشرف 2 الألفة الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELAZIZ MEZINE BELFQUIH",
+    "NOM_ETABA": "عبد العزيز مزيان بلفقيه",
+    "AdresseL": "HAY HASSANI",
+    "AdresseA": " الحي الحسني حي السلام 1 الصفاء الألفة ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OUSSEF IBN TACHFINE",
+    "NOM_ETABA": "يوسف بن تاشفين",
+    "AdresseL": "LISSASFA3  KM9 HAY HASSANI",
+    "AdresseA": "ليساسفة 3 كلم 9 الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ESSALAM",
+    "NOM_ETABA": "السلام",
+    "AdresseL": "HAY farah ESSALAM HAY HASSANI",
+    "AdresseA": "حي السلام فرح الألفة الدار البيضاء",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "REHMA ESSAMI",
+    "NOM_ETABA": "رحمة السامي",
+    "AdresseL": "CHARAF 2 RIAD OULFA HAY HASSANI CASABLANCA",
+    "AdresseA": "الشرف 2 رياض الولفة الحي الحسني الدار البيضاء",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "KHALID BNOU ALWALID",
+    "NOM_ETABA": "خالد بن الوليد",
+    "AdresseL": "KASBAT AL AMINE2 HAY HASSANI",
+    "AdresseA": "قصبة الأمين2 الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL MOUKHTAR ESSOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "Complexe riad el oulfa ",
+    "AdresseA": "المجمع  السكني رياض الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ABED EL JABIRI",
+    "NOM_ETABA": "محمد عابد الجابري",
+    "AdresseL": "DOUAR OULED AZOUZJNANE LOUZ",
+    "AdresseA": "جنان اللوز اولاد عزوز عمالة مقاطعة الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL FARABI",
+    "NOM_ETABA": "الفرابي",
+    "AdresseL": "Hay el azhar oulfa ",
+    "AdresseA": "حي الأزهر- الالفة ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IMAM EL JAZOULI",
+    "NOM_ETABA": "الإمام الجزولي",
+    "AdresseL": "28 BD WAD TASSAOUT  OULFA",
+    "AdresseA": "شارع واد تاساوت الألفة الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU HICHAM",
+    "NOM_ETABA": "ابن هشام",
+    "AdresseL": "RUE 7 DERB CHADIA   HAY HASSANI",
+    "AdresseA": "زنقة 7 درب شادية الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL IDRISSI",
+    "NOM_ETABA": "الإدريسي",
+    "AdresseL": "BD BNOU EL HAITAM  HAY HASSANI",
+    "AdresseA": "الحي الحسني ،شارع بن الهيتم",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN EL MOUAKIT",
+    "NOM_ETABA": "ابن المؤقت",
+    "AdresseL": "2 RUE NESRINE HAY ERRAHA",
+    "AdresseA": "زنقة النسرين  رقم2 حي الراحة البيضاء",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL HANAA",
+    "NOM_ETABA": "الهناء",
+    "AdresseL": "32 RUE EL KOUTOUBIA HAY EL HANA",
+    "AdresseA": "   32   زنقة      الكتبية  حي  الهناء",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH GUENNOUNE",
+    "NOM_ETABA": "عبد الله كنون",
+    "AdresseL": "HAY MAZOULA RUE 4n4 hay hassani casablanca",
+    "AdresseA": " رقم 4زنقة 4 مازولا الحي الحسني البيضاء",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "MALOUIA",
+    "NOM_ETABA": "ملوية",
+    "AdresseL": " rue 64 EL WIFAK 2  OULFA",
+    "AdresseA": " الزنقة 64 الوفاق 2  الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN ABBAD",
+    "NOM_ETABA": "ابن عباد",
+    "AdresseL": "EL AZHARI  OULFA",
+    "AdresseA": "الأزهري الولفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ABOU KACEM EZZAYANI 1",
+    "NOM_ETABA": "ابو القاسم الزياني",
+    "AdresseL": " bd toubkal LISSASFA alaoulia EL OULFA",
+    "AdresseA": "شارع توبقال لساسفة ا العليا الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN NADIM",
+    "NOM_ETABA": "ابن النديم",
+    "AdresseL": "RUE 15 HAJ FATEH OULFA ",
+    "AdresseA": "الزنقة 15  الحاج  فاتح الألفة ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU EL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "hay laymoune lissasfa",
+    "AdresseA": "حي الليمون ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ANAS IBN MALIK",
+    "NOM_ETABA": "أنس بن مالك",
+    "AdresseL": "HAY SALAM OULFA",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN ZOHR",
+    "NOM_ETABA": "ابن زهر",
+    "AdresseL": "HAY ENNASSIM  LISSASFA",
+    "AdresseA": "حي النسيم لساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL AMAL",
+    "NOM_ETABA": "الأمل",
+    "AdresseL": "BD MALWIA HAY OULFA",
+    "AdresseA": "شارع ملوية حي الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TABARI",
+    "NOM_ETABA": "الطبرى",
+    "AdresseL": "HAY NASSSIM",
+    "AdresseA": "حي النسيم",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "EL FARABI",
+    "NOM_ETABA": "الفرابي",
+    "AdresseL": "RUE LIKOLIBERY  HAY ERRAHA",
+    "AdresseA": "زنقة ليكلبيري حي الراحة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUSSAMA BNOU ZAID",
+    "NOM_ETABA": "اسامة بن زيد",
+    "AdresseL": "HAY ERRAHA RUE MIMOUZA",
+    "AdresseA": "حي الراحة زنقة ميموزا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GHANDI",
+    "NOM_ETABA": "غاندي",
+    "AdresseL": "RUE TAGHZOUTE HAY ESSALAM GHANDI",
+    "AdresseA": "زنقة تغازوت حي السلام",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH BNOU YASSIN",
+    "NOM_ETABA": "عبد الله ابن ياسين",
+    "AdresseL": "HAY MAZOULA N3",
+    "AdresseA": "زنقة 3 حي مازولا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HAMDISS GARCONS",
+    "NOM_ETABA": "ابن حمديس",
+    "AdresseL": "HAY EL HOURIA BLOC 222 HAY HASSANI",
+    "AdresseA": "درب الحرية بلوك 222 الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUHOUD",
+    "NOM_ETABA": "أحد",
+    "AdresseL": "HAY EL HOURIA BLOC 222 HAY HASSANI",
+    "AdresseA": "حي الحرية بلوك 222 الحي  الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AKHTAL GARCONS",
+    "NOM_ETABA": "الأخطل بنين",
+    "AdresseL": "RUE 11 BD AFGANISTAN",
+    "AdresseA": "زنقة 11 شارع أفغانستان",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AKHTAL FILLES",
+    "NOM_ETABA": "الأخطل بنات",
+    "AdresseL": "RUE 11 BD AFGANISTAN",
+    "AdresseA": "زنقة 11 شارع أفغانستان الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAHID IDRISS LAHRIZY",
+    "NOM_ETABA": "الشهيد ادريس الحريزي",
+    "AdresseL": "TARIK SIDI EL KHADIR",
+    "AdresseA": "طريق سيدي الخدير",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ATTAAOUN",
+    "NOM_ETABA": "التعاون",
+    "AdresseL": "BD MY BOUCHAIB ERREDAD HAY HASSANI",
+    "AdresseA": "شارع مولاي بوشعيب الردادة الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAHID LAARBI BENAY",
+    "NOM_ETABA": "الشهيد العربي البناي",
+    "AdresseL": "BD WAD TANSIFT  OULFA",
+    "AdresseA": "شارع واد تانسيفت الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AKENSSOUS",
+    "NOM_ETABA": "أكنسوس",
+    "AdresseL": "BD WAD TASSAOUT HAY OULFA",
+    "AdresseA": "شارع وادي تاساوت حي الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL QODS",
+    "NOM_ETABA": "القدس",
+    "AdresseL": "BD WAD SABOU  OULFA HAY HASSANI",
+    "AdresseA": "شارع وادي سبو حي الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUM RABIA",
+    "NOM_ETABA": "أم الربيع",
+    "AdresseL": "BD WAD WARGHA  OULFA HAY HASSANI",
+    "AdresseA": "شارع وادي ورغة الألفة الحي الحسني الوفاق 1",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "WADI EL MAKHAZINE",
+    "NOM_ETABA": "واد المخازن",
+    "AdresseL": "EL WIFAK 2 OULFA HAY HASSANI",
+    "AdresseA": "الوفاق 2 الألفة الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BADRE",
+    "NOM_ETABA": "بدر",
+    "AdresseL": "BD AFGANISTAN HAY HASSANI",
+    "AdresseA": "شارع أفغانستان  الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL WIFAK",
+    "NOM_ETABA": "الوفاق",
+    "AdresseL": "BD WAD MALWIA HAY OULFA",
+    "AdresseA": "شارع وادي ملوية  حي الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ETTAKADOUM",
+    "NOM_ETABA": "التقدم",
+    "AdresseL": "391 BD OUED DAOURA OULFA HAY HASSANI",
+    "AdresseA": "شارع وادي الدورة رقم 391  الالفة الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED ZERKTOUNI",
+    "NOM_ETABA": "محمد الزرقطوني",
+    "AdresseL": "KM 9 ROUTE DEL JADIDA  LISSASFA 3",
+    "AdresseA": "كلم 9 طريق الجديدة ليساسفة 3",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL INBIAT",
+    "NOM_ETABA": "الإنبعاث",
+    "AdresseL": "KM 9 ROUTE D EL JADIDA LISSASFA EL OULIA",
+    "AdresseA": "كلم 9 طريق الجديدة ليساسفة العليا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ANOUAL",
+    "NOM_ETABA": "أنوال",
+    "AdresseL": "LISSASFA OULIA HAYHASSANY",
+    "AdresseA": "ليساسفة العليا - الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FALAH",
+    "NOM_ETABA": "الفلاح",
+    "AdresseL": "BLOC C HAY LISSASFA 3",
+    "AdresseA": "بلوك س  حي ليساسفة 3",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAJ KACEM",
+    "NOM_ETABA": "الحاج قاسم",
+    "AdresseL": "CENTRE AGRICOLE ROUTE AZEMOUR",
+    "AdresseA": "المركز الفلاحي  طريق ازموركلم5",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUAD BNOU JABAL",
+    "NOM_ETABA": "معاد ابن جبل",
+    "AdresseL": "HAY HASSANI SIDI ELKHADIR",
+    "AdresseA": "سيدي الخديرالحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL WIAM",
+    "NOM_ETABA": "الوئام",
+    "AdresseL": "WIFAQ 3 EL OULFA HAY HASSANI",
+    "AdresseA": "الوفاق 3 الألفة الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU EL ABBAS ESSABTI",
+    "NOM_ETABA": "أبو العباس السبتي",
+    "AdresseL": "SAAD EL KHEIR OULFA",
+    "AdresseA": "سعد الخير الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU TOUMERTE",
+    "NOM_ETABA": "ابن تومرت",
+    "AdresseL": " HAY ENNASIM  LISSASFA",
+    "AdresseA": "الحي الحسني ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IMAM ALI",
+    "NOM_ETABA": "الإمام علي",
+    "AdresseL": "LOTISSEMENT HADJ  FATEH COMMUNE LISSASFA",
+    "AdresseA": "تجزئة الحاج فاتح ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOUBKAL",
+    "NOM_ETABA": "توبقال",
+    "AdresseL": "HAY ENNASSIM LISSASFA",
+    "AdresseA": "حي النسيم ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SMAIL",
+    "NOM_ETABA": "اولاد اسماعيل",
+    "AdresseL": "route moulay thami",
+    "AdresseA": "طريق مولاي التهامي",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL HADAIK",
+    "NOM_ETABA": "الحدائق",
+    "AdresseL": "OUM RABII 1 HAY HASSANI",
+    "AdresseA": "حديقة أم الربيع 1 مازولا الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "RIAD  AL OULFA",
+    "NOM_ETABA": "رياض الألفة",
+    "AdresseL": "riad al oulfa",
+    "AdresseA": "رياض الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KASBAT AL AMINE",
+    "NOM_ETABA": "قصبة الأمين",
+    "AdresseL": "LISSASFA  HAY HASSANI",
+    "AdresseA": "ليساسفة   الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SALAH EDDINE EL AYOUBI",
+    "NOM_ETABA": "صلاح الدين الأيوبي",
+    "AdresseL": "complexe  D Habitation Riad Oulfa",
+    "AdresseA": "المجمع السكني رياض الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ESSALAM 1",
+    "NOM_ETABA": "السلام1",
+    "AdresseL": "CITE ESSALAM OULFA",
+    "AdresseA": "حي دار السلام الألفـة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FARAH1",
+    "NOM_ETABA": "الفرح 1",
+    "AdresseL": "HAY FARAH HAY HASSANI",
+    "AdresseA": "حي الفرح الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "YASSAMINE",
+    "NOM_ETABA": "الياسمين",
+    "AdresseL": "HAY YASSAMINEYOUSSER",
+    "AdresseA": "حي الياسمين-اليسر الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOHRA EL HADDAOUI",
+    "NOM_ETABA": "الزوهرة الحداوي",
+    "AdresseL": "ROUTE MOULAY THAMI",
+    "AdresseA": "طريق مولاي التهامي",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TOURIA ECHAOUI",
+    "NOM_ETABA": "ثريا الشاوي",
+    "AdresseL": "KESBAT AL AMINE2ZOUBIRHAY HASSANI",
+    "AdresseA": "شرف 2 رياض الحي الحسني- الزوبير- الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH IBRAHIM",
+    "NOM_ETABA": "عبد الله إبراهيم",
+    "AdresseL": "KESBAT EL AMINE2 HAY HASSANI",
+    "AdresseA": "قصبة الأمين2 الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKR ASSIDIK",
+    "NOM_ETABA": "أبو بكر الصديق",
+    "AdresseL": "LOTISSEMENT FARAH HAY HASSANI",
+    "AdresseA": "حي فرح السرور ــ الألفة - الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALI BNOU ABITALIB",
+    "NOM_ETABA": "علي بن أبي طالب",
+    "AdresseL": "LOT RIAD SOFIA LISSASFA ",
+    "AdresseA": "تجزئة رياض صوفيا ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OTHMANE BNOU AFFANE",
+    "NOM_ETABA": "عثمان بن عفان",
+    "AdresseL": "LOT KASBAT EL AMINE II HAY HASSANI ",
+    "AdresseA": "تجزئة قصبة الأمين 2 -الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZINEB NAFZAOUIA",
+    "NOM_ETABA": "زينب النفزاوية",
+    "AdresseL": "riad hay hassani",
+    "AdresseA": "رياض الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ABDERRAHIME EL HAROUCHI",
+    "NOM_ETABA": "عبد الرحيم الهروشي",
+    "AdresseL": "charaf 2 oulfa hay hassani",
+    "AdresseA": "الشرف 2 الألفة الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA EL FIHRIA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "quartier salam",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ALLAL BEN ABDALLAH",
+    "NOM_ETABA": "علال بن عبد الله",
+    "AdresseL": "quartier salam farah",
+    "AdresseA": "حي السلام فرح",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOUSSA IBNOU NOUSSAIR",
+    "NOM_ETABA": "موسى بن نصير",
+    "AdresseL": "quartier salam farah",
+    "AdresseA": "حي السلام فرح",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZOULIKHA NASRI",
+    "NOM_ETABA": "زليخة نصري",
+    "AdresseL": "LOT  Ouroud saada",
+    "AdresseA": "الورود السعادة  الزوبير",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MALIKA  AL FASSI",
+    "NOM_ETABA": "مليكة الفاسي",
+    "AdresseL": "EXTENTION 2 GROUPE11RIAD OULFA HAY HASSANI",
+    "AdresseA": "التوسيع2 مجموعة11 رياض الألفة الحي الحسنني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ERRAZI",
+    "NOM_ETABA": "الرازي",
+    "AdresseL": "HAY SALAM FARAH HHASSANI CASABLANCA",
+    "AdresseA": "حي السلام الفرح الحي الحسني الدارالبيضاء",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL KENDI",
+    "NOM_ETABA": "الكندي",
+    "AdresseL": "POLE CASA ANFA",
+    "AdresseA": "قطب الدار البيضاء أنفا",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBRAHIM ROUDANI",
+    "NOM_ETABA": "إبراهيم الروداني",
+    "AdresseL": "RIAD OULFA HAY HASSANI",
+    "AdresseA": "رياض الألفة الحي الحسني",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN EL HAYTAM",
+    "NOM_ETABA": "ابن ا لهيثم",
+    "AdresseL": "BD IBN EL HAITAM  HAY HASSANI",
+    "AdresseA": "زنقة ابن الهيثم زاوية شارع ابن سينا الحي الحسني",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN AL YASSAMINE",
+    "NOM_ETABA": "ابن الياسمين",
+    "AdresseL": "HAY MAZOULA RUE  N4 ",
+    "AdresseA": " حي مازولا زنقة رقم 4",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDEL AZIZ ELFACHTALI",
+    "NOM_ETABA": "عبد العزيز الفشتالي",
+    "AdresseL": "BD WADI LOUKOUS HAY OULFA",
+    "AdresseA": "شارع وادي اللوكوس الألفة",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "BADR",
+    "NOM_ETABA": "بــدر",
+    "AdresseL": "BD afghanistane hay hassani",
+    "AdresseA": "  شارع أفغانستان",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "Lissassfa Al aoulya",
+    "AdresseA": "ليساسفة العليا",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBNOU AL BNAA ALMOURAKOCHI",
+    "NOM_ETABA": "إبن البناء المراكشي",
+    "AdresseL": "HAY LAYMOUNE LISSASSFA",
+    "AdresseA": "حي الليمونة لساسفة",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OMAR AL KHAIAM",
+    "NOM_ETABA": "عمر الخيام",
+    "AdresseL": "EL OULFA HAY HASSANI",
+    "AdresseA": "حي الليمون-الولفة -عمالة الحي الحسني",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBNOU HAZM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "Charaf2 hay hassani",
+    "AdresseA": "الشرف2 الحي الحسني",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBNOU BATOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "hay azhar ",
+    "AdresseA": "حي الأزهر ",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "HOUMANE FATWAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "quartier salam farah",
+    "AdresseA": "حي السلام فرح",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ALMANSSOUR EDDEHBI",
+    "NOM_ETABA": "المنصور الذهبي",
+    "AdresseL": "quartier lissasfa",
+    "AdresseA": "حي ليساسفة",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AMR IBN AL AASS",
+    "NOM_ETABA": "عمرو بن العاص",
+    "AdresseL": "HAJ FATEH  ELOULFA",
+    "AdresseA": "الحاج فاتح الألفة",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBN AL KHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "hay nassim lissasfa",
+    "AdresseA": "حي النسيم  لساسفة",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IBNOU ROCHD",
+    "NOM_ETABA": "ابن رشد",
+    "AdresseL": "LISSASFA OULIA  EL OULFA",
+    "AdresseA": "ليساسفة العليا الألفة",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "TAREK IBN ZIAD",
+    "NOM_ETABA": "طارق ابن زياد",
+    "AdresseL": "HAY  OULFA",
+    "AdresseA": "حي الألفة",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "EL KADI AYAD",
+    "NOM_ETABA": "القاضي عياض",
+    "AdresseL": "LOTISS NASSIM LISSASFA CASA",
+    "AdresseA": "تجزئة النسيم ليساسفة البيضاء",
+    "COMMUNE": "Hay-Hassani ",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GS CHARLES BOUVARD",
+    "NOM_ETABA": "م.م شارل بوفار",
+    "AdresseL": "LOT 28 ZONE INDUSTRIEL DE WIFA",
+    "AdresseA": "الوفاق رقم 28 الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE LOUVREE ",
+    "NOM_ETABA": "اللوفر الخاصة ",
+    "AdresseL": "N°1 Rue 49 Groupe U oulfa - Ca",
+    "AdresseA": "الحي الحسني  u حي الألفة رقم 1",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " madison academy junior ",
+    "NOM_ETABA": "مؤسسة ماديسون أكاديمي جينيور",
+    "AdresseL": "NULL",
+    "AdresseA": "شلرع شرف بساتين الالفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire diyaa al majd",
+    "NOM_ETABA": "ضياء المجد",
+    "AdresseL": "41,Rue 12 lotissement Zoubir; ",
+    "AdresseA": "رقم 41، زنقة 12 إقامة الزوبير،",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELBILIA SKOLAR LISSASFA ",
+    "NOM_ETABA": "إلبيليا سكولار ليساسفة",
+    "AdresseL": "Angle rue Jabal Bouarfa / rue ",
+    "AdresseA": "تقاطع زنقة جبل بوعرفة و جبل زل",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g s la presence 2",
+    "NOM_ETABA": "لبريزونس 2",
+    "AdresseL": "",
+    "AdresseA": "رياض صوفيا ش2-199 ليساسفة الحي",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EDMOND ROSTAND",
+    "NOM_ETABA": "ادموند روستوند",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة رياض صوفيا 30-31",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Montessori",
+    "NOM_ETABA": "مونتيسوري",
+    "AdresseL": "NULL",
+    "AdresseA": "58زنقة افران حي السلام الحي ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S JULES FERRY OULFA",
+    "NOM_ETABA": "جول فيري الألفة",
+    "AdresseL": "rue 7, numero : 6/8, hay al ou",
+    "AdresseA": "الزنقة 7 الرقم 6/8 حي الألفة ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S LA RUCHE 3",
+    "NOM_ETABA": "لاغيش 3",
+    "AdresseL": "103 BASATIN AL OULFA HAY HASSA",
+    "AdresseA": "103 تجزئة بساتين الألفة الحي ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "didasko",
+    "NOM_ETABA": "ديداسكو",
+    "AdresseL": "riyad soufia numero 29 lissass",
+    "AdresseA": "تجزئة رياض صوفيا الرقم 29 ليسا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Louis Pergaud ",
+    "NOM_ETABA": "لويس برغو",
+    "AdresseL": "azhar riyad 2 hay hassani",
+    "AdresseA": "أزهار الرياض 2 الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " El Manal",
+    "NOM_ETABA": " المنال",
+    "AdresseL": "N° 13, Rue Oualidia, Bd. Ghand",
+    "AdresseA": "  شارع غاندي زنقة الواليدية   ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Chniber II",
+    "NOM_ETABA": " اشنيبر2  ",
+    "AdresseL": "LOT SAFARI N4  ELHANA  HAY HAS",
+    "AdresseA": "تجزئة SAFARI، رقم 4، حي الهناء",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Ajial",
+    "NOM_ETABA": " الأجيال",
+    "AdresseL": "N° 358, 360, Bd. Oued Oum Rabi",
+    "AdresseA": "رقم 360 - 358، شارع واد أم الر",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Mostakbal",
+    "NOM_ETABA": " المستقبل",
+    "AdresseL": "Hay El Oulfa, groupe \"L\" Rue 1",
+    "AdresseA": "حي الألفة مجموعة \"ل\" زنقة 159 ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " El Ibrahimi",
+    "NOM_ETABA": "الإبراهيمي",
+    "AdresseL": "24/26 BD MELOUIA  ELOULFA",
+    "AdresseA": "رقم 24-26/ شارع وادي ملوية، ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Victor Hugo",
+    "NOM_ETABA": "فيكتور هيجو",
+    "AdresseL": "gourpe 4, n°20 Rue IBN KHATIB ",
+    "AdresseA": "حي التعاون ،مجموعة 4 زنقة ابن ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lycée Abou Chihab",
+    "NOM_ETABA": "ثانوية أبو شهاب الخاصة",
+    "AdresseL": "Hay Saâda, Rue 4, N° 53 - C/ H",
+    "AdresseA": "حي السعادة، زنقة 4، رقم 53 - ج",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Sanaâ",
+    "NOM_ETABA": "سناء",
+    "AdresseL": "N° 362-364, Bd. Oum ERRABIA",
+    "AdresseA": "362/364 شارع ام الربيع",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Saint Dominique",
+    "NOM_ETABA": " سان دومينيك",
+    "AdresseL": "N° 31, Rue Ras Al Ma, Hay Essa",
+    "AdresseA": "زنقةراس الماءرقم31السلام  ج . ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Azhar Arriad 1",
+    "NOM_ETABA": "أزهار الرياض 1",
+    "AdresseL": "N° 219, Bd. ABIRegreg, Al Oulf",
+    "AdresseA": "شارع ابي رقراق رقم219 الالفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Mamma Habiba",
+    "NOM_ETABA": " ماما حبيبة",
+    "AdresseL": "N° 12, Rue Des Mouettes BEAUSE",
+    "AdresseA": "رقم 12، زنقة طائر الفردوس، بوس",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Abdou",
+    "NOM_ETABA": " عبدو",
+    "AdresseL": "N° 54, Avenue Oued Darâa - C/ ",
+    "AdresseA": "رقم 54، شارع وادي درعة - ج. ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Nacirie",
+    "NOM_ETABA": "ناصري الخاصة",
+    "AdresseL": "N° 207, Bd. Oued Ziz, El Oulfa",
+    "AdresseA": "رقم 207، شارع وادي زيز، الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ghazala ",
+    "NOM_ETABA": "غزالة الخاصة",
+    "AdresseL": "N° 80, Rue El Woroud, Beau Sej",
+    "AdresseA": "رقم 80، زنقة الورود، بوسجور - ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Ibn Sinae",
+    "NOM_ETABA": " ابن سينا الحرة",
+    "AdresseL": "ESSALAM RUE AIN ELLOUH  N 24 ",
+    "AdresseA": " السلام زنقة عين اللوحرقم24",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Al Kawtar 1",
+    "NOM_ETABA": "مجموعة مدارس الكوثر 1",
+    "AdresseL": "Bd. Abi Raq Raq, Rue 1, N° 70,",
+    "AdresseA": "شارع أبي رقراق، زنقة 1، رقم  7",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Oulfa",
+    "NOM_ETABA": "مجموعة مدارس الألفة",
+    "AdresseL": "Lot. Azhari, Rue 62, N1, El Ou",
+    "AdresseA": "تجزئة الأزهري، زنقة 62، رقم 1 ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire Reddani",
+    "NOM_ETABA": "مجموعة مدارس الرداني الخاصوصية",
+    "AdresseL": "N° 32, Rue Ennesrine, Hay Erra",
+    "AdresseA": "رقم 30-32، زنقة النسرين، حي ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Faouze",
+    "NOM_ETABA": "الفوز الخاصة",
+    "AdresseL": "Bd. Afghanistane, Widad 502, N",
+    "AdresseA": "شارع أفغانستان، الوداد 502، رق",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Misbah",
+    "NOM_ETABA": "مجموعة مدارس مصباح",
+    "AdresseL": "N° 97-98, Bd. Sidi Abderrahman",
+    "AdresseA": "رقم 97-98، شارع سيدي عبد الرحم",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " MESSEK",
+    "NOM_ETABA": "مسك للتربية والتعليم",
+    "AdresseL": "N° 271-273, Bd. Sidi Abderrahm",
+    "AdresseA": " 271-273 شارع سيدي عبدالرحمان ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " La Petite Maison",
+    "NOM_ETABA": " المنزل الصغير",
+    "AdresseL": "N° 59, Rue 3, Groupe W, Cité E",
+    "AdresseA": "رقم   59  زنقة 3  مجموعة  و ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Baraka",
+    "NOM_ETABA": "البركة",
+    "AdresseL": "Rue 101, Bd. Oued Beht, N° 7, ",
+    "AdresseA": "زنقة 101، شارع وادي بهت، رقم 7",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " NOUR Al Irfane",
+    "NOM_ETABA": "نور  العرفان",
+    "AdresseL": "N° 27, Rue Oued Laou, El Oulfa",
+    "AdresseA": "رقم 27، زنقة وادي لو، الألفة -",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Manbat AL ANSSARI ",
+    "NOM_ETABA": "المنبت الأنصاري",
+    "AdresseL": "N° 253, Bd. Oum Rabia, El Oulf",
+    "AdresseA": "رقم 253، شارع أم الربيع، الألف",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Alma",
+    "NOM_ETABA": " ألما",
+    "AdresseL": "N° 153, Rue Hassan, Hay Hana -",
+    "AdresseA": "رقم 153، زنقة حسان، حي الهناء ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Dar Tazi",
+    "NOM_ETABA": " دار التازي",
+    "AdresseL": "Rue 7, N° 6/8, Quartier El Oul",
+    "AdresseA": "زنقة 7، رقم 8/6، حي الألفة  - ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " La Prairie",
+    "NOM_ETABA": " لابريري",
+    "AdresseL": "Angle Bd. Ibnou Sina et Rue de",
+    "AdresseA": " ملتقى شارع ابن سينا و زنقة ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Ariam",
+    "NOM_ETABA": "الأريام",
+    "AdresseL": "N° 38, Bd. Oued Sebou, El Oulf",
+    "AdresseA": "  رقم  38   شارع وادي سبو",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S HENRI MATISSE",
+    "NOM_ETABA": "مجموعة مدارس هنري ماتيس",
+    "AdresseL": "Bd. Oum Rabia, El Oulfa - C. H",
+    "AdresseA": "شارع أم الربيع، الألفة - ج. ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "El Amani",
+    "NOM_ETABA": "الأماني",
+    "AdresseL": "N° 7, Rue Ain Khazouza (C.I.L.",
+    "AdresseA": "  ؤنقة خازوزة رقم 7 حي السلام ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Ghafiri ",
+    "NOM_ETABA": " غفيري الخاصة",
+    "AdresseL": "N° 250, Bd. Oued Oum Rabii, El",
+    "AdresseA": "الالفة   رقم  250   شارع ام ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sabri",
+    "NOM_ETABA": "صبري",
+    "AdresseL": "Groupe CD, Rue 78, N° 23, El O",
+    "AdresseA": " مجموعة س د  زنقة78رقم23الالفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " L Excellence",
+    "NOM_ETABA": " التفوق",
+    "AdresseL": "N° 63, Cité Raha, Bd. Abderrah",
+    "AdresseA": "رقم 63، حي الراحة، شارع عبد ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecoles Camelia",
+    "NOM_ETABA": "مدارس كاميليا",
+    "AdresseL": "Lotis. Allaimoune, Lot 208, Ro",
+    "AdresseA": "تجزئة الليمون، بقعة 208، طريق ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Sabil Al Houda",
+    "NOM_ETABA": " سبيل الهدى",
+    "AdresseL": "N° 385, Bd. Oued Sebou, Cité E",
+    "AdresseA": "رقم 385، شارع وادي سبو، حي الأ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Azhar Erriad II",
+    "NOM_ETABA": "أزهار الرياض 2",
+    "AdresseL": "Lotissement Laymoune, Lot 138,",
+    "AdresseA": "تجزئة الليمون، بقعة 138، طريق ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Al Kawtar II",
+    "NOM_ETABA": "مجموعة مدارس الكوثر",
+    "AdresseL": "Lotissement Mehdi, N° 16 - C. ",
+    "AdresseA": "تجزئة المهدي، رقم 16 - ج. ليسل",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " LEMINENCEE",
+    "NOM_ETABA": " النبوغ الخاصة",
+    "AdresseL": "N° 103, Lotissement Allaymoune",
+    "AdresseA": "رقم 103، تجزئة الليمون - ج. لي",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lamalif",
+    "NOM_ETABA": "لامليف",
+    "AdresseL": " LOT ZOUBEIR N 29 A",
+    "AdresseA": "تجزئة الزبير رقم 29  زنقة 13 ل",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA VALLEE 2",
+    "NOM_ETABA": "الوادي  2 الخصوصية",
+    "AdresseL": "Lot. E9,47Opération Lissasfa -",
+    "AdresseA": "تجزئة عملية لساسفة E7/49",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Sanaa 2",
+    "NOM_ETABA": " مؤسسة سناء 2",
+    "AdresseL": "El Oulfa N° 10  RUE 50 GROUPE ",
+    "AdresseA": " حي الألفة، رقم البقعة \"U\"  - ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S El Amjad ",
+    "NOM_ETABA": " مجموعة مدارس الأمجاد الخصوصية",
+    "AdresseL": "Lotissement Al Khawarizmi - C.",
+    "AdresseA": " تجزئة الخوارزمي - ج. ح. لسياس",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AZHAR ERRIAD INTERNATIONAL SCHOOL",
+    "NOM_ETABA": "أزهار الرياض انترناسيونال سكول",
+    "AdresseL": " 93 Hay ALlaImounE   Lissasfa ",
+    "AdresseA": "حي الليمون 93- ج. ح . ليساسفة ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " El Kannouni",
+    "NOM_ETABA": "الكانوني الخصوصية",
+    "AdresseL": "Lotissement Ennasim, N° 412 - ",
+    "AdresseA": " تجزئة النسيم، رقم 412 - ج. ح.",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Afak almostakbal",
+    "NOM_ETABA": "  آفاق المستقبل  الخصوصية",
+    "AdresseL": "N° 68, Lotissement Essafa, El ",
+    "AdresseA": " رقم 68، تجزئة الصفا، الألفة  ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "COURS SUBRINI OULFA 2",
+    "NOM_ETABA": "سيبريني الألفة 2",
+    "AdresseL": "Rue 19, N° 26, Hay Missimi, El",
+    "AdresseA": " زنقة 19، رقم 26، حي ميسيمي، ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ghafiri 2 ",
+    "NOM_ETABA": " غفيري 2 الخصوصية",
+    "AdresseL": "Bd.OUED Moulouya, N° 82 , El O",
+    "AdresseA": " شارع وادي ملوية، رقم 82، حي ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Jawhara",
+    "NOM_ETABA": "الجوهرة",
+    "AdresseL": "Bd Oued Laou, N° 50 et 52 - Ou",
+    "AdresseA": "شارع واد لو ، رقم 50 و 52 - ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Cours Subrini Oulfa",
+    "NOM_ETABA": "سوبريني الألفة",
+    "AdresseL": "N° 213, Bd. Abou Regreg Hay El",
+    "AdresseA": "رقم 213 شارع ابو رقراق، حي الأ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Islane",
+    "NOM_ETABA": "أسلان",
+    "AdresseL": "Lot. Islane, N° 164 - Lassasfa",
+    "AdresseA": "تجزئة أسلان، رقم 164 - ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Ayoub",
+    "NOM_ETABA": "مجموعة مدارس أيوب",
+    "AdresseL": "Lot. Zoubir, N°98 -99  \"I\"El O",
+    "AdresseA": "تجزئة الزوبير، رقم ا98 - 99ا  ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANOUAR ARRIAD",
+    "NOM_ETABA": "أنوار الرياض",
+    "AdresseL": "LOTISSEMENT ILHAM RUE 09 N° 33",
+    "AdresseA": "تجـــزئـــة إلهـــام الــــزنق",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE ELOUARDI",
+    "NOM_ETABA": "مجموعة مدارس الوردي",
+    "AdresseL": "26 lotissement nassim isslane ",
+    "AdresseA": "تجزئة النسيم إسلان رقم 26 لساس",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " LES DUNES",
+    "NOM_ETABA": " الكتبان",
+    "AdresseL": "74, Opération Lissasfa- Rue 13",
+    "AdresseA": "عملية ليسا سفة -  ز نـقـة 13 -",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAB ESSALAM",
+    "NOM_ETABA": "باب السلام",
+    "AdresseL": "47 bd oud oum erabii hay el it",
+    "AdresseA": "شارع وادي أم الربيع رقم 47 حي ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL IBRAHIMI 2",
+    "NOM_ETABA": "الإبراهيمي 2",
+    "AdresseL": "N°30-32 BD.MELOUIA OULFA",
+    "AdresseA": "الرقم 30-32 شارع ملوية الألفة ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S LAMARTINE",
+    "NOM_ETABA": "مجموعة مدارس لامارتين",
+    "AdresseL": "107 BD.MY.THAMI QUARTIER EL ME",
+    "AdresseA": "107 شارع مولاي التهامي حي المر",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S LA PETITE MAISON",
+    "NOM_ETABA": "مجموعة مدارس المنزل الصغير",
+    "AdresseL": "N°59,  RUE 3, groupe w, HAY Ou",
+    "AdresseA": "رقم 59 ، زنقة 3 ، مجموعة \" و\" ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SANAA  3",
+    "NOM_ETABA": "سناء  3",
+    "AdresseL": "LOT N0 231 GROUPE4 N0 27",
+    "AdresseA": "بقعة 231 مجموعة 4 الرقم 65 الز",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CARRE EVEIL",
+    "NOM_ETABA": "كاري ايفاي",
+    "AdresseL": "364 HAY NASSIM  LOTISSEMENT NA",
+    "AdresseA": "حي النسيم رقم 164 تجزئة النسيم",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KABBAJ",
+    "NOM_ETABA": "القباج",
+    "AdresseL": "OULFA GROUPE U RUE 27 N° 57",
+    "AdresseA": "الألفة مجموعة\"ي\"  الزنقة 27 رق",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA ROSEE",
+    "NOM_ETABA": "لاروزي",
+    "AdresseL": "LOTISSEMENT AL KODS2 N0 32 HAY",
+    "AdresseA": "تجزئة القدس 2 رقم 32 الحي الحس",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BARAIM eNNOUR",
+    "NOM_ETABA": "براعم النور",
+    "AdresseL": "LOTISSEMENT ENNOUR  RUE 7  N 2",
+    "AdresseA": "تجزئة النور الـزنـقـة 7 الـرقـ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHBALS YASSINE",
+    "NOM_ETABA": "اشبال ياسين",
+    "AdresseL": "LOTISSEMENT YASSINE N°38 LISSA",
+    "AdresseA": "تجزئة ياسين رقم 38 ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NASSIM",
+    "NOM_ETABA": "النسيم",
+    "AdresseL": "LOTISSEMENT ISSLANE NASSIM II ",
+    "AdresseA": "تجزئة  إسلان نسيم  الرقم 89 لي",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES NATIONS",
+    "NOM_ETABA": "الأمم",
+    "AdresseL": "N0 562 LOTISSEMENT NASSIM 2 IS",
+    "AdresseA": "رقم 562 تجزئة نسيم إسلان",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES ORANGERS",
+    "NOM_ETABA": "الليمون",
+    "AdresseL": "LOTISSEMENT AL QODS 2 N° 1 BD ",
+    "AdresseA": "تجزئة القدس 2 البقعة رقم1 شارع",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Kordoba",
+    "NOM_ETABA": " قرطبة",
+    "AdresseL": "OULFA ,GRoupe U, RUE 25 N° 67 ",
+    "AdresseA": "مجموعة U الزنقة 25 الرقم 67 ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Imane Wifak",
+    "NOM_ETABA": "مجموعة مدارس إيمان وفاق",
+    "AdresseL": "ZONE INDUSTRUELLE WIFAK LOT 52",
+    "AdresseA": "المنطقة الصناعية الوفاق بقعة ر",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S Ponts de l Avenir",
+    "NOM_ETABA": "مجموعة مدارس جسور المستقبل",
+    "AdresseL": "VOIE \"HH\" N° 47 HAY ALLAIMOUN-",
+    "AdresseA": " رقم 47 الحي الحسني  \"HH\" حي ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Fajr",
+    "NOM_ETABA": " الفجر",
+    "AdresseL": "RUE 19 N° 1 MISSIMI HAY HASSAN",
+    "AdresseA": "زنقة 19 رقم 1 حي ميسيمي الحي ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Al Firdaous",
+    "NOM_ETABA": "الفردوس",
+    "AdresseL": "N° 31, Rue 15, Lot. Saad El Kh",
+    "AdresseA": "رقم 31، زنقة 15، تجزئة سعد الخ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "anoar el misbah",
+    "NOM_ETABA": "أنوار المصباح",
+    "AdresseL": "N° 40, Rue 19, Hay Missimi , O",
+    "AdresseA": "رقم 40، زنقة 19 ، حي ميسيمي ، ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " BadRie",
+    "NOM_ETABA": " بدري الخصوصية",
+    "AdresseL": "N° 132, Nassim Islan, Lissasfa",
+    "AdresseA": "رقم 132، نسيم اسلان، ليساسفة -",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "CHEMIN DE L EXELLENCE",
+    "NOM_ETABA": "نهج التفوق",
+    "AdresseL": "RUE 6 N°13 QUARTIER OULFA",
+    "AdresseA": "زنقة 6 رقم 13 الالفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " AL ANWAR 1E",
+    "NOM_ETABA": " الأنوار1 الخصوصية",
+    "AdresseL": "hay ennassim 342 lissasfa",
+    "AdresseA": "حي النسيم الرقم 342 ليساسفة ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES PARENTS",
+    "NOM_ETABA": "لي بارون",
+    "AdresseL": "49/50 I oPERATION LISSASFA RUE",
+    "AdresseA": "عملية ليساسفة الرقم 49/50 الدا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g s farah",
+    "NOM_ETABA": "مجموعة مدارس فرح",
+    "AdresseL": "SKILIA 2 RUE 64 N°479 HAY HASS",
+    "AdresseA": "الصقيلية 2 زنقة 64 رقم 479 الح",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " hachad ",
+    "NOM_ETABA": " حشاد الخاصة",
+    "AdresseL": "113;LOTISSEMENT NASSIM1;HAY HA",
+    "AdresseA": "113 تجزئة النسيم1 الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "TAJANI",
+    "NOM_ETABA": "التجانــي",
+    "AdresseL": "ZAHR 3.N 28_29 ZOUBEIR",
+    "AdresseA": "الزهر3 الرقم 28_29 الزبير",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAAMIRA",
+    "NOM_ETABA": "العامرة الخصوصية",
+    "AdresseL": " 146BD oued loukous eloulfa ",
+    "AdresseA": " الرقم 146شارع وادي  اللكوس ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA VALLEE 1",
+    "NOM_ETABA": "الـــوادي 1",
+    "AdresseL": "operation lissasfa E/7 49",
+    "AdresseA": "الرقـم49e7 تجزئة عملية ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S BAB EL FERDAOUSSE",
+    "NOM_ETABA": "مجموعة مدارس باب الفردوس",
+    "AdresseL": "Residence Elferdaousse Bd Oum ",
+    "AdresseA": "إقامة الفردوس شارع أم الربيع،ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "  ennour 2",
+    "NOM_ETABA": " النور 2 الخصوصية",
+    "AdresseL": "65 boulevard yacoub el mansour",
+    "AdresseA": "65 شارع يعقوب المنصور",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al massalik",
+    "NOM_ETABA": "المسالك",
+    "AdresseL": "Boulevard IBNOU SINA 143-141",
+    "AdresseA": "141-143شارع إبن سينا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAMARELLE ILHAM",
+    "NOM_ETABA": "لاماريل إلهام",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة السمارة زنقة11 ر54 الألف",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTIBYANE",
+    "NOM_ETABA": "التبيان الخصوصية",
+    "AdresseL": "lot Mestouna Rue 27 n°40 HH Ou",
+    "AdresseA": "زنقة27 رقم40 تجزئة مستونة الحي",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G/S BELKADI",
+    "NOM_ETABA": "مجموعة مدارس بلقاضي",
+    "AdresseL": "EQ - E lot al azhar hay hassan",
+    "AdresseA": "تجزئة أزهر -EQ-Eالحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G/S ALPHA",
+    "NOM_ETABA": "مجموعة مدارس ألفا ",
+    "AdresseL": "Lotissement Rachad khouzama n°",
+    "AdresseA": "تجزئة الرشاد الخزامة بقعة1-2 ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G/S FATH EL BARI",
+    "NOM_ETABA": "مجموعة مدارس فتح الباري",
+    "AdresseL": "lot farah essalam eq oulfa cas",
+    "AdresseA": "تجزئة فرح مجموعة 22 الألفة  ال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G/S AJIAL MERIEM",
+    "NOM_ETABA": "مجموعة مدارس أجيال مريم",
+    "AdresseL": "charaf 2 ryad hay hassani",
+    "AdresseA": "شرف2 رياض الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA PRESENCE SCHOOL",
+    "NOM_ETABA": "لبريزونس سكول",
+    "AdresseL": "lot khouzama n °33 hay hassani",
+    "AdresseA": "تجزئة الخزامى رقم33 الحي الحسن",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tajani 2",
+    "NOM_ETABA": "التجاني 2",
+    "AdresseL": "Lot : ZAHAR 3N°30 lissasfa",
+    "AdresseA": "تجزئة زهر3-رقم30-ليساسفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al imran",
+    "NOM_ETABA": "آل عمران",
+    "AdresseL": "zone indus al wifak1 n°22 al o",
+    "AdresseA": "الحي الصناعي-الوفاق1-رقم22-الأ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBNOU EL KHATIB",
+    "NOM_ETABA": "ابن الخطيب",
+    "AdresseL": "N°41- RUE 4-CITE DE L'UNION",
+    "AdresseA": "رقم41-زنقة4 - حي الإتحاد",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sanaa 5",
+    "NOM_ETABA": "سناء5",
+    "AdresseL": "rue27-n°63- groupe y- oulfa",
+    "AdresseA": "زنقة27-رقم63-مجموعة   -الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g s la joconde",
+    "NOM_ETABA": "مجموعة الجوكندا",
+    "AdresseL": "lot lissasfa, assafae I4, hay ",
+    "AdresseA": "تجزئة ليساسفة الصفا14 الحي الح",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "RIAD AZAITOUNE",
+    "NOM_ETABA": "رياض الزيتون",
+    "AdresseL": "lot khouzama n°2 HAY HASSANI ",
+    "AdresseA": "الخزامى رقم  2 الحي الحسني",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LOUIS BERTRAND JUNIOR",
+    "NOM_ETABA": "لوي برطران جونيور",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم3 زنقة جبل تدغين سيال",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g s adara",
+    "NOM_ETABA": "مجموعة مدارس الذرة",
+    "AdresseL": "LOT Operation  LISASFA E Q9",
+    "AdresseA": "         EQ9 تجزئة عملية ليساس",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g s sabor",
+    "NOM_ETABA": "مجموعة مدارس صابور",
+    "AdresseL": "n 27 rue wifak-oulfa",
+    "AdresseA": "رقم27-الوفاق-الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g s errahma",
+    "NOM_ETABA": "مجموعة مدارس الرحمة",
+    "AdresseL": "N36 BD OUED OUARGHA  WIFAK1 OU",
+    "AdresseA": "رقم36 شارع واد ورغة الوفاق1",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nokhbate alghad",
+    "NOM_ETABA": "نخبة الغد",
+    "AdresseL": "lotissement essaada,bd des fac",
+    "AdresseA": "تجزئة السعادة شارع الكليات رقم",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S OUMLIL",
+    "NOM_ETABA": "مجموعة مدارس اومليل",
+    "AdresseL": "lotissement oumlil 143 h.h 10 ",
+    "AdresseA": "تجزئة اومليل 143 ه ه 10 الحي ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole kenz",
+    "NOM_ETABA": "مدرسة كنز",
+    "AdresseL": "LOTISSEMENT SAFA, 72 ZOUBIR , ",
+    "AdresseA": "رقم72 الصفا الزوبير",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G S ABI RAQRAQ",
+    "NOM_ETABA": "م م أبي رقراق",
+    "AdresseL": "251 boulevard abiraqraq el oul",
+    "AdresseA": "251 شارع ابي رقراق",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "g s dar el fikr",
+    "NOM_ETABA": "مجموعة مدارس دار الفكر",
+    "AdresseL": "51 RUE M hamed Boucetta LOT WI",
+    "AdresseA": "رقم 51 شارع محمد بوستة تجزئة ا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBTISSAMA",
+    "NOM_ETABA": "ابتسامة",
+    "AdresseL": "Hay NASSIM ISLANe 2 P1",
+    "AdresseA": "P1حي النسيم اسلان2- رقم",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MATIN BONHEUR",
+    "NOM_ETABA": "ماتان بونور",
+    "AdresseL": "hay el oulfa rue 151 N72 GL",
+    "AdresseA": "حي الألفة-زنقة151- رقم129",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G/S JEUNES POUSSES",
+    "NOM_ETABA": "م/م جون بوس",
+    "AdresseL": "N° 6 RIAD SOFIA ",
+    "AdresseA": "رقم6-7-رياض صوفيا",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOUTALAT EL ACHBAL",
+    "NOM_ETABA": "مثلث الأشبال",
+    "AdresseL": "NULL",
+    "AdresseA": "فرح1-عمارة38-حي الليمون",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GEORGES VANIER",
+    "NOM_ETABA": "جورج فانيي",
+    "AdresseL": "BOULEVARD  El Farah, N°202, co",
+    "AdresseA": "شارع الفرح-رقم202 المجمع السكن",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MONTAIGNE",
+    "NOM_ETABA": "مونتين",
+    "AdresseL": "16, BD Oued melouya, oulfa",
+    "AdresseA": "رقم16-شارع ملؤية- الألفة",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "kenz oulfa",
+    "NOM_ETABA": "كنز الألفة",
+    "AdresseL": "23-25 Rue 100 groupe t oulfa",
+    "AdresseA": "23-25 زنقة 100 المجموعة ت الأل",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DENNIS RITCHIE",
+    "NOM_ETABA": "دونيس ريتشي ",
+    "AdresseL": "Operation Lissasfa I4/90",
+    "AdresseA": "تجزئة الوكالة الحضرية ليساسفة ",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G/S CANDY",
+    "NOM_ETABA": "م/م كاندي",
+    "AdresseL": "GH CHAMA 1 ROUTE MY THAMI N 10",
+    "AdresseA": "مجموعة شيماء1-طريق مولاي التها",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MARIE VICTORIN",
+    "NOM_ETABA": "مؤسسة ماري فيكتوران الخصوصية",
+    "AdresseL": "292 boulevard yacoub el mansou",
+    "AdresseA": "شارع يعقوب المنصور292",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AFFAK22",
+    "NOM_ETABA": "آفاق22",
+    "AdresseL": "Résidence Al Manar farah essal",
+    "AdresseA": "إقامة المنار فرح السلام الزوبي",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MICHEL DE MONTAIGNE",
+    "NOM_ETABA": "ميشال ذي مونتين",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم9 زنقة ريستينكا حي السلام",
+    "COMMUNE": "Hay-Hassani",
+    "PROVINCE": "Préf. d’Arr.  Hay Hassani",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

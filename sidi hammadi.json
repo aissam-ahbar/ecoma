@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "College EL OUAHDA ",
+    "NOM_ETABA": "ثانوية الوحدة الإعدادية",
+    "AdresseL": "SIDI HAMMADI",
+    "AdresseA": "سيدي حمادي",
+    "COMMUNE": "Sidi Hammadi",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZZAHRAOUI",
+    "NOM_ETABA": "ثانوية الزهراوي الإعدادية",
+    "AdresseL": "DOUAR OULED HAMMOU ",
+    "AdresseA": "دوار أولاد حمو",
+    "COMMUNE": "Sidi Hammadi",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED ATTOU",
+    "NOM_ETABA": "م أولاد عطو",
+    "AdresseL": "OULED ATTOU COMMUNE SIDI HAMMADI",
+    "AdresseA": "اولاد عطو جماعة سيدي حمادي ",
+    "COMMUNE": "Sidi Hammadi",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KRAZZA CENTRE",
+    "NOM_ETABA": "مركزية الكرازة",
+    "AdresseL": "KRAZZA COMMUNE SIDI HAMMADI",
+    "AdresseA": "جماعة سيدي حمادي",
+    "COMMUNE": "Sidi Hammadi",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SAID CENTRE",
+    "NOM_ETABA": "مركزية أولاد سعيد",
+    "AdresseL": "OULED SAID COMMUNE SIDI HAMMADI",
+    "AdresseA": "أولاد سعيد الكرازة جماعة سيدي حمادي",
+    "COMMUNE": "Sidi Hammadi",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHBABIS CENTRE",
+    "NOM_ETABA": "مركزية لحبابيس",
+    "AdresseL": "LAHBABIS COMMUNE SIDI HAMMADI",
+    "AdresseA": "جماعة سيدي حمادي",
+    "COMMUNE": "Sidi Hammadi",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAGHREB EL ARABI",
+    "NOM_ETABA": "مركزية  المغرب العربي",
+    "AdresseL": "SIDI KHRISS COMMUNE SIDI HAMMADI",
+    "AdresseA": "سيدي اخريص سيدي حمادي",
+    "COMMUNE": "Sidi Hammadi",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

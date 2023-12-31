@@ -1,0 +1,812 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELKARIM EL KHATABI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الكريم الخطابي",
+    "AdresseL": "QUARTIER ADMINISTRATIF GUELMIM",
+    "AdresseA": "الحي الاداري كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL WAHDA",
+    "NOM_ETABA": "الثانوية الإعدادية الوحدة",
+    "AdresseL": "AVENUE HASSAN 2 GUELMIM",
+    "AdresseA": "شارع الحسن الثاني كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED BEN ELHASSAN ELHADRAMI",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بن الحسن الحضرمي",
+    "AdresseL": "QUARTIER ADMINISTRATIF GUELMIM",
+    "AdresseA": "الحي الاداري كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HAY EL FILAHA",
+    "NOM_ETABA": "الثانوية الإعدادية حي الفلاحة",
+    "AdresseL": "lycee colegial HAY EL FILAHA RUE MOKHTAR SOUSSI GU",
+    "AdresseA": "الثانوية الإعدادية حي الفلاحة شارع المختار السوسي ",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TAKNA",
+    "NOM_ETABA": "الثانوية الإعدادية تكنا",
+    "AdresseL": "QUARTIER EL M SALLA",
+    "AdresseA": "حي المصلى",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR BNOU EL KHATTAB",
+    "NOM_ETABA": "الثانوية الإعدادية عمر بن الخطاب",
+    "AdresseL": "LYCEE COLLEGIAL OMAR BNOU EL KHATTAB",
+    "AdresseA": "الثانوية الإعدادية عمر بن الخطاب",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL WAD NOUN",
+    "NOM_ETABA": "الثانوية الإعدادية وادنون",
+    "AdresseL": "quartier el qods Avenue ALMOKAWAMA",
+    "AdresseA": " شارع المقاومة حي القدس ",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AMHAIRICH",
+    "NOM_ETABA": "الثانوية الإعدادية امحيريش",
+    "AdresseL": "HAY ARRAHMA",
+    "AdresseA": "حى الرحمة",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL JADIDA ",
+    "NOM_ETABA": "الثانوية الإعدادية الجديدة",
+    "AdresseL": "HAY LYCEE",
+    "AdresseA": "حي الليسي",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABOU BAKER ERRAZI",
+    "NOM_ETABA": "الثانوية الإعدادية أبو بكر الرازي",
+    "AdresseL": "HAY ARAHMA",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED EL-KHOURCHI",
+    "NOM_ETABA": " الثانوية الإعدادية محمد الخرشي",
+    "AdresseL": "AV IBN SINA HAY TAYERT",
+    "AdresseA": "شارع ابن سينا حي تيرت",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Province: Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDALLAH BEN YASSIN",
+    "NOM_ETABA": "المدرسة الابتدائية عبدالله بن ياسين",
+    "AdresseL": "AVENUE Des princes  GUELMIM",
+    "AdresseA": " شارع الامراء",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MASSIRA EL KHADRA",
+    "NOM_ETABA": "المدرسة الابتدائية المسيرةالخضراء",
+    "AdresseL": "AVENUE awzae hay massira",
+    "AdresseA": "شارع الأوزعي حي المسيرة ",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAMTOUNA",
+    "NOM_ETABA": "المدرسة الابتدائية لمتونة",
+    "AdresseL": "AVENUE DES FAR  GUELMIM",
+    "AdresseA": "شارع الجيش الملكي",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DAKHLA",
+    "NOM_ETABA": "المدرسة الابتدائية الداخلة",
+    "AdresseL": "AVENUE MOHAMED 5 GUELMIM",
+    "AdresseA": "شارع محمد السادس - كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAMMANE EL FATOUAKI",
+    "NOM_ETABA": "المدرسة الابتدائية حمان الفطواكي",
+    "AdresseL": "cite AMHERICHE GUELMIM",
+    "AdresseA": "حي امحيريش- كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  3 MARS",
+    "NOM_ETABA": "المدرسة الابتدائية 3 مارس",
+    "AdresseL": "av mokhtar soussi",
+    "AdresseA": "شارع المختار السوسي",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZERKTOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية الزرقطوني",
+    "AdresseL": "HAY Adarissa 1  GUELMIM",
+    "AdresseA": "حي الادارسة-1  كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LALLA HASNA",
+    "NOM_ETABA": "المدرسة الابتدائية للاحسناء",
+    "AdresseL": "RUE MAISON DE BIENFAISANCE",
+    "AdresseA": "زنقة دار الاطفال كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  YOUSSEF BEN TACHAFINE",
+    "NOM_ETABA": "المدرسة الابتدائية يوسف بن تاشفين",
+    "AdresseL": "HAY AL KODS GUELMIM",
+    "AdresseA": "حي القدس- كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL KODS",
+    "NOM_ETABA": "المدرسة الابتدائية القدس",
+    "AdresseL": "AVENUE MEHDI BEN TOUMERT GUELMIM",
+    "AdresseA": "شارع المهدي بن تومرت- كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LALLA AICHA",
+    "NOM_ETABA": "المدرسة الابتدائية للاعائشة",
+    "AdresseL": "DOUAR LOUH GUELMIM",
+    "AdresseA": "دوار اللوح - كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  RABOUAT ESSAHRIJE",
+    "NOM_ETABA": "المدرسة الابتدائية ربوة الصهريج",
+    "AdresseL": " Rue Al Aouzai hay oued noun Guelmim",
+    "AdresseA": "زنقة الأوزاعي حي واد نون كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY RJAH FELLAH",
+    "NOM_ETABA": "المدرسة الابتدائية حي الرجاء في الله",
+    "AdresseL": "HAY RJAH FELLAH  GUELMIM",
+    "AdresseA": "حي الرجاء في الله  كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MASSIRA 2",
+    "NOM_ETABA": "المدرسة الابتدائية المسيرة 2",
+    "AdresseL": "HAY RAHMA GUELMIM",
+    "AdresseA": "حي الرحمة  كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL HOUDA",
+    "NOM_ETABA": "المدرسة الابتدائية الهدى",
+    "AdresseL": "AV ELHOUDA HAY LYCEE",
+    "AdresseA": "شارع الهدى حي الليسي  بلدية كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ENNACHIAA",
+    "NOM_ETABA": "المدرسة الابتدائية الناشئة",
+    "AdresseL": "GUELMIM CENTRE",
+    "AdresseA": "كلميم المركز",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED EL HANSALI",
+    "NOM_ETABA": "المدرسة الابتدائية احمد الحنصالي",
+    "AdresseL": "hay tiyirt guelmim",
+    "AdresseA": "حي تييرت كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ELMOUAHIDINE",
+    "NOM_ETABA": "المدرسة الابتدائية الموحدون",
+    "AdresseL": "HAY ALMOUAHIDINE 2",
+    "AdresseA": "حي الموحدين 2",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ELWAHA",
+    "NOM_ETABA": "المدرسة الابتدائية الواحة",
+    "AdresseL": "HAY ZAYTOUNE GUELMIM",
+    "AdresseA": "حي الزيتون، كلميم",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL FATH",
+    "NOM_ETABA": "المدرسة الابتدائية الفتح",
+    "AdresseL": "QUARTIER AL FATH",
+    "AdresseA": "حي الفتح",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAY CHOUHADA",
+    "NOM_ETABA": "المدرسة الإبتدائية حي الشهداء",
+    "AdresseL": "QUARTIER EL MESALLA",
+    "AdresseA": "حي المصلى",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY RACHID",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي رشيد",
+    "AdresseL": "HAY EL QODS",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED VI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس",
+    "AdresseL": "hay zaytoun rue jaber Ibnou hayane MUNICIPALITE DE",
+    "AdresseA": "حي الزيتون زنقة جابر ابن حيان",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BAB ESSAHRA",
+    "NOM_ETABA": "الثانوية التأهيلية باب الصحراء",
+    "AdresseL": "angle boulevard MOHAMED 6 avenue hom ftwaki",
+    "AdresseA": "  ركن محج محمد 6 شارع حمان الفطواكي",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT LALLA MERIEM",
+    "NOM_ETABA": "الثانوية التأهيلية للا مريم",
+    "AdresseL": "Av. Al-MOUKHTAR ASSOUSSI BP 442  GUELMIM  81000",
+    "AdresseA": "شارع المختار السوسي صندوق البريد 442",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN SINA",
+    "NOM_ETABA": "الثانوية التأهيلية ابن سينا",
+    "AdresseL": "hay miri",
+    "AdresseA": "حي ميري",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ESSADAKA",
+    "NOM_ETABA": "الثانوية التأهيلية الصداقة",
+    "AdresseL": "QUARTIER DOBBAT",
+    "AdresseA": "حي الضباط",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL KHAWARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "QUARTIER QODS",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE",
+    "NOM_ETABA": "الثانوية التأهيلية التقنية",
+    "AdresseL": "HAY AMHAIRICH",
+    "AdresseA": "حي أمحيريش",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED V",
+    "NOM_ETABA": "الثانوية التأهيلية محمد الخامس",
+    "AdresseL": "hay tayert",
+    "AdresseA": "حي تيرت ",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL ASSIL",
+    "NOM_ETABA": " الثانوية التأهيلية الأصيل",
+    "AdresseL": "avenue el massira",
+    "AdresseA": "شارع المسيرة",
+    "COMMUNE": "Guelmim",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ALHOR LITAFAWOQ",
+    "NOM_ETABA": "مؤسسة الحر للتفوق للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الفتح رقم 223",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CHAMS ALOULOUM DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة شمس العلوم للتعليم المدرسي الخصوصي",
+    "AdresseL": "avenue ibn sina cite tayert n ",
+    "AdresseA": "كلميم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT OUM ELMOUMININE DE L ENS SCOLAIRE",
+    "NOM_ETABA": "مؤسسة أم المؤمنين للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay el mouahidine 1 rue 4 N17",
+    "AdresseA": "حي  الموحدين 1 شارع ويسي أبو ز",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DAR ELMAALI 2 DE L ENSIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة دار المعالي للتعليم المدرسي الخصوصي الملحقة 2",
+    "AdresseL": "AV IBN BATTOUTA N°2 GUELMIM",
+    "AdresseA": "شارع ابن بطوطة رقم 2 كلميم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BILADI DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة بلادي للتعليم المدرسي الخصوصي",
+    "AdresseL": "N°5rue El malaab guelmim",
+    "AdresseA": "رقم 05 زنقة الملعب كلميم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT BASMA DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة بسمة للتعليم المدرسي الخصوصي",
+    "AdresseL": "AV.ELMOQAWAMA RUE 6 N°9 ",
+    "AdresseA": "شارع المقاومة كلميم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DAR ELMAALI DE L E.S  ANNEXE 3",
+    "NOM_ETABA": "مؤسسة دار المعالي للتعليم المدرسي الخصوصي ملحقة 3",
+    "AdresseL": "av mehdi ibn toumert",
+    "AdresseA": "شارع المهدي بن تومرت",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALKALAM DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الكلام للتعليم المدرسي الخصوصي",
+    "AdresseL": "rue ibn sina n26 hay tayert",
+    "AdresseA": "شارع ابن سينا رقم 26 حي تيرت",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL IMAM LGHAZALI DE L E.S ANNEXE1",
+    "NOM_ETABA": "مؤسسة الإمام الغزالي للتعليم المدرسي الخصوصي ملحقة1",
+    "AdresseL": "AVENUE 18 NOVEMBRE N° 42",
+    "AdresseA": "شارع 18 نونبر رقم 42 كلميم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ATAALLAM 2 DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة أتعلم 2 للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay ibn rochd n°43",
+    "AdresseA": "43حي ابن رشد رقم ",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT DAR EL MAALI DE L  E.S.PRIVE",
+    "NOM_ETABA": "مؤسسة دار المعالي للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay mokawama;av ibn batouta;n°",
+    "AdresseA": "حي المقاومة شارع ابن بطوطة رقم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  DAR ALMAALI DE L  E.S ANNEXE 01",
+    "NOM_ETABA": "مؤسسة دار المعالي للتعليم المدرسي الخصوصي ملحقة 01",
+    "AdresseL": "HAY ALMOUAHIDYNE BLOC A RUE 6 ",
+    "AdresseA": "حي الموحدين  بلوك ا  زنقة 06 ر",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT IMAM ALGHAZALI DE L E.S Annexe 3",
+    "NOM_ETABA": "مؤسسة الامام الغزالي للتعليم المدرسي الخصوصي ملحقة 3     ",
+    "AdresseL": "HAY BAB SAHRA BLOC B RUE 13 N°",
+    "AdresseA": "حي باب الصحراء بلوك ب زنقة 13 ",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALBASSATINE DE L E.S annexe 01",
+    "NOM_ETABA": "مؤسسة البساتين للتعليم المدرسي الخصوصي ملحقة رقم 01",
+    "AdresseL": "HAY ESSAADIENNE 1 RUE10 GUELMI",
+    "AdresseA": "حي السعديين 1 زنقة 10 الرقم 02",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "bakouane",
+    "NOM_ETABA": "بكوان",
+    "AdresseL": "av 18 novembre rue2 bloc e ",
+    "AdresseA": "شارع 18 نونبر زنقة2",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FADAA AL MAARIFA DE L ENS PRESCO",
+    "NOM_ETABA": "مؤسسة فضاء المعرفة للتعليم الأولي الخصوصي",
+    "AdresseL": "av mokhtar ssoussi n°92",
+    "AdresseA": "شارع المختار السوسي رقم 92 كلم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT CHARIF DE L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة شريف للتعليم الأولي الخصوصي",
+    "AdresseL": "av ibn sina hay tairt",
+    "AdresseA": "شارع ابن سينا حي تيرت",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ANNOUR DE L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة النور للتعليم الأولي الخصوصي",
+    "AdresseL": "av el massira rue6 n°19",
+    "AdresseA": "شارع المسيرة زنقة 6 الرقم19  ",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ATAALLAM DE ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة أتعلم للتعليم الأولي",
+    "AdresseL": "rue 4 n°23 hay el massira2",
+    "AdresseA": "زنقة 4 رقم 23 حي المسيرة 2",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALIMAM ALGHAZALI DE L E.S",
+    "NOM_ETABA": "مؤسسة الامام الغزالي للتعليم المدرسي الخصوصي",
+    "AdresseL": "HAY AL QODS ,N° 702",
+    "AdresseA": "حي القدس وقم 702",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALMOUSTAKBAL DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة المستقبل للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay hamane elfatouaki",
+    "AdresseA": "حي حمان الفطواكي",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALBASSATINE DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة البساتين للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay essaadiyine 1 rue 2",
+    "AdresseA": "حي السعديين 1، الزنقة 2",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL ADARISSA DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": " مؤسسة الأدارسة للتعليم المدرسي الخصوصي",
+    "AdresseL": "HAY AL QODS ,N°1286-129",
+    "AdresseA": "حي القدس رقم 128-129",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL HAFID DE L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الحافظ للتعليم لأولي الخصوصي",
+    "AdresseL": "av charif idrissi 175",
+    "AdresseA": "175شارع الشريف الإدريسي",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT SIJILMASSA DE L ENSEIGNENMENT SCOLAIRE ",
+    "NOM_ETABA": "مؤسسة سجلماسة للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay taert  rue 09 bloc a n 06 ",
+    "AdresseA": "حي تيرت العليا زنقة 09 بلوك ا ",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL HODA DE L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسةالهدى   للتعليم الأولي الخصوصي",
+    "AdresseL": "cite elqods n341 guelmim",
+    "AdresseA": "حي القدس الرقم 341 كلميم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALAAHD ALJADID DE L ENS PRESCo",
+    "NOM_ETABA": "مؤسسة العهد الجديد للتعليم الأولي الخصوصي",
+    "AdresseL": "hay bab sahara bloc b rue 2 gu",
+    "AdresseA": "حي باب الصحراء بلوك ب زنقة 2 ك",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  AL HIDAYA DE L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الهداية للتعليم الأولي الخصوصي",
+    "AdresseL": "av.18 novembre-rue 11-n°71",
+    "AdresseA": "شارع 18 نونبر -زنقة 11 رقم: 71",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL BASMA DE L ENSEIGNEMENT PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة البسمة للتعليم الأولي الخصوصي",
+    "AdresseL": "HAY TAYERTE",
+    "AdresseA": "حي تيرت",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALMASSIRA AL JADIDA DE L ENS PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة المسيرة الجديدة للتعليم الأولي الخصوصي",
+    "AdresseL": "rue bnou battouta  guelmim",
+    "AdresseA": "شارع ابن  بطوطة  كلميم 81000",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT WAD NOUN AL JADIDA DE L ENS PRESCO",
+    "NOM_ETABA": "مؤسسة واد نون الجديدة للتعليم الأولي الخصوصي",
+    "AdresseL": "rue ahl najem n°15- ALMLAAB",
+    "AdresseA": "زنقة اهل الناجم رقم 19 الملعب",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL ACHBAL DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الأشبال للتعليم المدرسي الخصوصي",
+    "AdresseL": "hay el qods n 650 guelmim",
+    "AdresseA": "حي القدس الرقم 650 كلميم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL MANAR SAHRA DE L E. S",
+    "NOM_ETABA": "مؤسسة المنار صحراء للتعليم المدرسي الخصوصي",
+    "AdresseL": "Boulevard Hommane El Fatwaki -",
+    "AdresseA": "شارع حمان الفطواكي - كلميم",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT IQRAA de l   E.S",
+    "NOM_ETABA": "مؤسسة إقرأ للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 149, Hay El Qods rue alaqsa",
+    "AdresseA": "  شارع الأقصى رقم 149، حي القد",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT G.S ALKIMMA DE L  E.S",
+    "NOM_ETABA": "مؤسسة م م القمة للتعليم المدرسي الخصوصي",
+    "AdresseL": "N° 58, Avenue My Rachid",
+    "AdresseA": "رقم 58، شارع مولاي رشيد",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT QITAR ALMAARIFA DE L'ENSEIGNEMENT PRESCOLAIRE ",
+    "NOM_ETABA": "مؤسسة قطار المعرفة للتعليم الأولي الخصوصي",
+    "AdresseL": "AV IBN SINA TAYERT ALOULYA BLO",
+    "AdresseA": "شارع ابن سينا حي تيرت العليا ب",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AL AILMO NOUR DE L ENS PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة العلم نور للتعليم الأولي الخصوصي",
+    "AdresseL": "",
+    "AdresseA": "زنقة العلويين، شارع إيكيسل، حي",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT  ACHATER DE L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "مؤسسة الشاطرللتعليم المدرسي الخصوصي",
+    "AdresseL": "Avenu abidine n° 10 kasba guel",
+    "AdresseA": "شارغ عابدين حي القصبة الرقم 10",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT ALACHARIKA DE L ENS. PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة الاشارقة  للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "تيرت العليا بلوك أ شارع عمر ين",
+    "COMMUNE": "Guelmim ",
+    "PROVINCE": "Guelmim",
+    "REGION": "Guelmim-Oued Noun",
+    "TYPE": "PRIVE"
+  }
+]

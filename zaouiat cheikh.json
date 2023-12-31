@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "IBN BATTOUTA",
+    "NOM_ETABA": "م ابن بطوطة",
+    "AdresseL": "ZAOUIAT CHEIKH",
+    "AdresseA": "حي بويمجان ، بلدية زاوية الشيخ",
+    "COMMUNE": "Zaouiat Cheikh",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL JADIDA ZAOUIAT CHEIKH",
+    "NOM_ETABA": "م الجديدة زاوية شيخ",
+    "AdresseL": "RUE TAMDA ZAOUIAT CHEIKH",
+    "AdresseA": "بلدية  زاوية الشيخ",
+    "COMMUNE": "Zaouiat Cheikh",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZAOUIAT CHEKH CENTRE",
+    "NOM_ETABA": "مركزية زاوية الشيخ",
+    "AdresseL": " quartier TADAOUT ",
+    "AdresseA": "                  حي تداوت   ",
+    "COMMUNE": "Zaouiat Cheikh",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE OUM ROUMMANE",
+    "NOM_ETABA": "ثانوية أم الرمان التأهيلية",
+    "AdresseL": "HAY BOUYMAJANE ROUTE DE KHENIFRA",
+    "AdresseA": "حي بويمجان الطريق الوطنية رقم 8 زاوية الشيخ",
+    "COMMUNE": "Zaouiat Cheikh",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL ATLAS",
+    "NOM_ETABA": "ثانوية الأطلس الـتأهيلية ",
+    "AdresseL": "CENTRE ZAOUYAT CHEIKH",
+    "AdresseA": "مركز زاوية الشيخ",
+    "COMMUNE": "Zaouiat Cheikh",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ECOLE NACIRIA ",
+    "NOM_ETABA": "المدرسة الناصرية",
+    "AdresseL": "quartier zaouia lakdima n° 520",
+    "AdresseA": "حي الزاوية القديمة رقم 520 زاو",
+    "COMMUNE": "Zaouiat Cheikh ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DESCARTES 4",
+    "NOM_ETABA": "ديكارت 4",
+    "AdresseL": "QUARTIER BOUHABOU 1 N° 12 Rési",
+    "AdresseA": "حي بوحابو 1 رقم 12 تجزئة السعد",
+    "COMMUNE": "Zaouiat Cheikh ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "L BADER 2",
+    "NOM_ETABA": "بدر 2 ",
+    "AdresseL": "Quartier ikour n 2",
+    "AdresseA": "حي ايقور 2 الزنقة 3  زاوية الش",
+    "COMMUNE": "Zaouiat Cheikh ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DESCARTE",
+    "NOM_ETABA": "ديكارت",
+    "AdresseL": "N° 303 QUARTIER TASLAFT ZAOUIT",
+    "AdresseA": "الرقم 303 حي تاسلافت زاوية الش",
+    "COMMUNE": "Zaouiat Cheikh ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DECARTES 2",
+    "NOM_ETABA": "ديكارت 2",
+    "AdresseL": "Quartier tassellaft",
+    "AdresseA": "زاوية الشيخ",
+    "COMMUNE": "Zaouiat Cheikh ",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

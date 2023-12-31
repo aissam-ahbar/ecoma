@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY EL HASSAN",
+    "NOM_ETABA": "الثانوية الإعدادية مولاي الحسن",
+    "AdresseL": "beni koulal  Commune  Ahl Oued Za",
+    "AdresseA": " بني كولال  جماعة أهل واد زا",
+    "COMMUNE": "Ahl Oued Za",
+    "PROVINCE": "Province: Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LAKRARMA NAKHLA",
+    "NOM_ETABA": "لكرارمة النخلة",
+    "AdresseL": "LAKRARMA NAKHLA COMMUNE AHL OUED ZA",
+    "AdresseA": "لكرارمة النخلة جماعة اهل وادي زا",
+    "COMMUNE": "Ahl Oued Za",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD RAMDANE",
+    "NOM_ETABA": "اولاد رمضان",
+    "AdresseL": "COMMUNE AHL OUED ZA",
+    "AdresseA": "جماعة اهل وادي زا",
+    "COMMUNE": "Ahl Oued Za",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI KOULAL",
+    "NOM_ETABA": "بني كولال",
+    "AdresseL": "douar ouled yachou belak hal",
+    "AdresseA": "دوار أولاد يشو بلكحل.",
+    "COMMUNE": "Ahl Oued Za",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BNI YACHBEL",
+    "NOM_ETABA": "بني يشبل",
+    "AdresseL": "BNI YACHBEL TAOURIRT",
+    "AdresseA": "بني يشبل تاوريرت",
+    "COMMUNE": "Ahl Oued Za",
+    "PROVINCE": "Taourirt",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

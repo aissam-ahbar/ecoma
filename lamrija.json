@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MOUTANABI",
+    "NOM_ETABA": "ثانوية المتنبي الإعدادية",
+    "AdresseL": "LAMRIJA CENTRE",
+    "AdresseA": "لمريجة المركز",
+    "COMMUNE": "Lamrija",
+    "PROVINCE": "Province: Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AHMED LAHBIB YAAKOUBI CENTRE",
+    "NOM_ETABA": "احمد الحبيب اليعقوبي المركز",
+    "AdresseL": "AHMED LAHBIB YAAKOUBI CENTRE COMMUNE LAMRIJA",
+    "AdresseA": "   احمد الحبيب اليعقوبي دوار ارشيدة جماعة لمريجة",
+    "COMMUNE": "Lamrija",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMRIJA CENTRE",
+    "NOM_ETABA": "المريجة المركز",
+    "AdresseL": "LAMRIJA COMMUNE LAMRIJA",
+    "AdresseA": "دوار المريجة جماعة لمريجة",
+    "COMMUNE": "Lamrija",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED HMID CENTRE",
+    "NOM_ETABA": "اولاد احميد المركز",
+    "AdresseL": "OULAD HMID COMMUNE LAMRIJA ",
+    "AdresseA": "دوار اولاد احميد جماعة لمريجة",
+    "COMMUNE": "Lamrija",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LGATTARA",
+    "NOM_ETABA": "الكطارة",
+    "AdresseL": "lamrija",
+    "AdresseA": "المريجة",
+    "COMMUNE": "Lamrija",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED MAAROUF CENTRE",
+    "NOM_ETABA": "واد معروف المركز",
+    "AdresseL": "DOUAR OUED MAAROUF COMMUNE LAMRIJA",
+    "AdresseA": "دوار واد معروف جماعة لمريجة",
+    "COMMUNE": "Lamrija",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT JABIR IBN HAYYAN",
+    "NOM_ETABA": "الثانوية التأهيلية جابر بن حيان",
+    "AdresseL": "Lamrija Centre Guercif",
+    "AdresseA": "مركز جماعة لمريجة، جرسيف",
+    "COMMUNE": "Lamrija",
+    "PROVINCE": "Guercif",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

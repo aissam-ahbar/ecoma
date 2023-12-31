@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  ABILHASSAN ALMARINI",
+    "NOM_ETABA": " الثانوية الاعدادية أبي الحسن المريني",
+    "AdresseL": "Coopérative dakhla SIDI ALLAL TAZI",
+    "AdresseA": "تعاونية الداخلة، سيدي علال التازي",
+    "COMMUNE": "Sidi Allal Tazi",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL  AL AMAL",
+    "NOM_ETABA": "الثانوية الاعدادية الأمل",
+    "AdresseL": "ALLAL TAZI CENTRE",
+    "AdresseA": "علال التازي المركز",
+    "COMMUNE": "Sidi Allal Tazi",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI  ALLAL TAZI",
+    "NOM_ETABA": "سيدي علال التازي",
+    "AdresseL": "SIDI ALLAL TAZI",
+    "AdresseA": "سيدي علال التازي",
+    "COMMUNE": "Sidi Allal Tazi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHKAKFA",
+    "NOM_ETABA": "الشقاقفة",
+    "AdresseL": "CHKAKFA CENTRE  COMMUNE ALLAL TAZI",
+    "AdresseA": "الشقاقفة  المركز جماعة علال التازي",
+    "COMMUNE": "Sidi Allal Tazi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " CHTIKAT",
+    "NOM_ETABA": "الشتيكات",
+    "AdresseL": "DOUAR CHTIKAT COMMUNE ALLAL TAZI",
+    "AdresseA": "دوار الشتيكات ج/ علال التازي",
+    "COMMUNE": "Sidi Allal Tazi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOKNASSAT",
+    "NOM_ETABA": "مكناسات",
+    "AdresseL": "TAAOUNIATE LKHAMS  sidi allal tazi",
+    "AdresseA": " التعاونيات الخمس سيدي علال التازي",
+    "COMMUNE": "Sidi Allal Tazi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT SIDI ALLAL TAZI",
+    "NOM_ETABA": "  الثانوية التأهيلية سيدي علال التازي ",
+    "AdresseL": "Rue agricole sidi allal tazi",
+    "AdresseA": "شارع المركز الفلاحي سيدي علال التازي",
+    "COMMUNE": "Sidi Allal Tazi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "FATIMA AZZAHRAE",
+    "NOM_ETABA": "فاطمة الزهراء",
+    "AdresseL": " 211,lot.al houda  /Sidi Allal",
+    "AdresseA": "تجزئة الهدى رقم 211",
+    "COMMUNE": "Sidi Allal Tazi",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

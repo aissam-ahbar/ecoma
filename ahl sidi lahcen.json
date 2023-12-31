@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Ss SIDI LAHCEN Centre",
+    "NOM_ETABA": "م/م سيدي لحسن-المركز",
+    "AdresseL": "DOUAR SIDI LAHCEN",
+    "AdresseA": "دوار سيدي لحسن",
+    "COMMUNE": "Ahl Sidi Lahcen",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss ZRAA Centre",
+    "NOM_ETABA": "م/م ازرع-المركز",
+    "AdresseL": "DOUAR ZRAA",
+    "AdresseA": "دوالر ازرع",
+    "COMMUNE": "Ahl Sidi Lahcen",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ss ZGANE Centre",
+    "NOM_ETABA": "م/م ازكان-المركز",
+    "AdresseL": "DOUAR ZGAN",
+    "AdresseA": "دوار ازكان",
+    "COMMUNE": "Ahl Sidi Lahcen",
+    "PROVINCE": "Sefrou",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

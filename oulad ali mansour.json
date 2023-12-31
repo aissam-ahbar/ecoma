@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AMHAMED BENABOUD",
+    "NOM_ETABA": "الثانوية الإعدادية امحمد بن عبود",
+    "AdresseL": "COMMUNE OULAD ALI MANSOUR",
+    "AdresseA": "جماعة أولاد علي منصور",
+    "COMMUNE": "Oulad Ali Mansour",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS AOULAD ALI AL MANSOUR",
+    "NOM_ETABA": "م.م اولاد علي المنصور",
+    "AdresseL": "CENTRE COMMUNE AOULADALI MANSOUR  TETOUAN",
+    "AdresseA": "ج اولاد علي المنصور",
+    "COMMUNE": "Oulad Ali Mansour",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAMALOUT",
+    "NOM_ETABA": "م.م تاملوت",
+    "AdresseL": "douar tamatout c ouled ali mansour",
+    "AdresseA": "دوار تمالوت جماعة اولاد علي منصور",
+    "COMMUNE": "Oulad Ali Mansour",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IFARTEN  TOUGHNATEN",
+    "NOM_ETABA": "م.م  إفرطن - توغناتن",
+    "AdresseL": "douar ifarten oulad ali mansour",
+    "AdresseA": "مدشر إفرطن جماعة اولاد علي منصور",
+    "COMMUNE": "Oulad Ali Mansour",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  }
+]

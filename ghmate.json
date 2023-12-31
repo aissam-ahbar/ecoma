@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL JAMAL EDDINE  AL AFGHANI",
+    "NOM_ETABA": "الثانوية الاعدادية جمال الدين الافغاني",
+    "AdresseL": "CENTRE GHMAT COMMUNE GHMATE",
+    "AdresseA": "مركز اغمات جماعة غمات",
+    "COMMUNE": "Ghmate",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " MOUATAMID IBNOU AABAD",
+    "NOM_ETABA": "المعتمد ابن عباد",
+    "AdresseL": "CENTRE GHMAT COMMUNE GHMAT",
+    "AdresseA": "مركز غمات جماعة اغمات",
+    "COMMUNE": "Ghmate",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIT KADDOUR",
+    "NOM_ETABA": "ايت قدور",
+    "AdresseL": "DOUAR AIT KADOUR COMMUNE GHMATE",
+    "AdresseA": "دوار ايت قدور جماعة اغمات",
+    "COMMUNE": "Ghmate",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TALAT NSAL",
+    "NOM_ETABA": "ثلاث نسال",
+    "AdresseL": "DOUAR TILITE COMMUNE GHMATE",
+    "AdresseA": "دوار تليث جماعة اغمات",
+    "COMMUNE": "Ghmate",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT BELHAJ",
+    "NOM_ETABA": "مركزية ايت بلحاج",
+    "AdresseL": "DOUAR TAMSOULTE COMMUNE GHMATE",
+    "AdresseA": "دوار تمسولت جماعة اغمات",
+    "COMMUNE": "Ghmate",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LABRIZA",
+    "NOM_ETABA": "البريزة",
+    "AdresseL": "DOUAR IBA LABRIZA COMMUNE GHMATE",
+    "AdresseA": "دوار ابا البريزة جماعة اغمات",
+    "COMMUNE": "Ghmate",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUHADDOU",
+    "NOM_ETABA": "بوحدو",
+    "AdresseL": "DOUAR BOUHADDOU COMMUNE GHMATE",
+    "AdresseA": "دوار بوحدو جماعة اغمات",
+    "COMMUNE": "Ghmate",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ZINNEB ENNAFZAOUIA",
+    "NOM_ETABA": "الثانوية التأهيلية زينب النفزاوية",
+    "AdresseL": "GHMATE",
+    "AdresseA": "غمـــــــــات",
+    "COMMUNE": "Ghmate",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

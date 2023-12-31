@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collègial AIN ORMA",
+    "NOM_ETABA": "الثانوية الإعدادية عين عرمة",
+    "AdresseL": "DOUAR AIN ORMA COMMUNE AIN ORMA",
+    "AdresseA": "عين عرمة",
+    "COMMUNE": "Ain Orma",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIN ORMA CENTRE",
+    "NOM_ETABA": "عين عرمة المركز",
+    "AdresseL": "AIN ORMA  COMMUNE AIN ORMA",
+    "AdresseA": "عين عرمة",
+    "COMMUNE": "Ain Orma",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAJJA CENTRE",
+    "NOM_ETABA": "حاجة المركز",
+    "AdresseL": "DOUAR HAJJA COMMUNE AIN ORMA",
+    "AdresseA": "دوار حاجة جماعة عين عرمة مكناس",
+    "COMMUNE": "Ain Orma",
+    "PROVINCE": "Meknès",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

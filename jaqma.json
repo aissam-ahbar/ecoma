@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "BIR ETTOUR CENTRE",
+    "NOM_ETABA": "مركزية بئر الثور",
+    "AdresseL": "DOUAR BIR ETOUR COMMUNE JAQMA cercle el gara",
+    "AdresseA": "دوار بئر الثور جماعة جاقمة دائرة الكارة",
+    "COMMUNE": "Jaqma",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LARBAA EJDIDA CENTRE",
+    "NOM_ETABA": " مركزية الأربعاء الجديدة",
+    "AdresseL": "DOUAR KRAIZ ABBARA COMMUNE JAQMA",
+    "AdresseA": "دوار كريز عبارة جاقمة",
+    "COMMUNE": "Jaqma",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SAID MHAMED CENTRE",
+    "NOM_ETABA": " مركزية اولاد اسعيد امحمد ",
+    "AdresseL": " DOUAR OULED SAID MHAMED COMMUNE JAQMA            ",
+    "AdresseA": " دوار اولاد اسعيد امحمد  جماعة جاقمة  دائرة الكارة",
+    "COMMUNE": "Jaqma",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL 20 AOUT",
+    "NOM_ETABA": "الثانوية الإعدادية  20 غشت",
+    "AdresseL": "HAD OULED ZIANE COMMUNE MOUALINE EL OUED",
+    "AdresseA": "أحد اولاد زيان جماعة موالين الواد",
+    "COMMUNE": "Moualine El Oued",
+    "PROVINCE": "Province: Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS HAD OULAD ZIANE CENTRE",
+    "NOM_ETABA": "م/م أحد أولاد زيان  المركزية",
+    "AdresseL": "HAD OULED ZIANE COMMUNE MOUALINE EL OUED",
+    "AdresseA": "احد اولاد زيان جماعة موالين الواد",
+    "COMMUNE": "Moualine El Oued",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS OULED MOUMEN CENTRE",
+    "NOM_ETABA": "م/م اولاد مومن المركزية",
+    "AdresseL": "DOUAR OULED MOUMEN COMMUNE MOUALINE EL OUED",
+    "AdresseA": "دوار اولاد مومن جماعة موالين الواد",
+    "COMMUNE": "Moualine El Oued",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SIDI AHMED EL MAJDOUB CENTRE",
+    "NOM_ETABA": "م/م سيدي احمد المجدوب المركزية",
+    "AdresseL": "SAHMED MAJDOUB COMMUNE MOUALINE EL OUED",
+    "AdresseA": "سيدي احمد المجدوب جماعة موالين الواد",
+    "COMMUNE": "Moualine El Oued",
+    "PROVINCE": "Benslimane",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

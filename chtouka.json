@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL OUARD",
+    "NOM_ETABA": "ثانوية الورد الاعدادية",
+    "AdresseL": "CENTRE COMMUNE TNINE CHTOUKA",
+    "AdresseA": "  مركزاثنين هشتوكة",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S TNINE HACHTOUKA",
+    "NOM_ETABA": "م/م اثنين هشتوكة",
+    "AdresseL": "CENTRE CHTOUKA ",
+    "AdresseA": "مركز هشتوكة ",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SABIR EL FATMI",
+    "NOM_ETABA": "م/م صبير الفاطمي",
+    "AdresseL": "DOUAR SIDI ALI MHAMED ",
+    "AdresseA": "دوار سيدي علي محمد ",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL OUALJA",
+    "NOM_ETABA": "م/م الولجة",
+    "AdresseL": "DOUAR NJOUM LOUALJA SAHEL ",
+    "AdresseA": "دوار النجوم",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI BOUNAIM",
+    "NOM_ETABA": "م/م سيدي بونعايم",
+    "AdresseL": "DOUAR SIDI BOUNAIM",
+    "AdresseA": "دوار سيدي بونعايم ",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SIDI M HAMED MOUSSA",
+    "NOM_ETABA": "م/م سيدي امحمد موسى",
+    "AdresseL": "DOUAR LMKHATRA EDAR ",
+    "AdresseA": "دوار لمخاطرة ادار ",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT HAM",
+    "NOM_ETABA": "م/م آيت حام",
+    "AdresseL": "DOUAR AIT HAM",
+    "AdresseA": "دوار آيت حام ",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LABLALATE",
+    "NOM_ETABA": "م/م البلالات",
+    "AdresseL": "DOUAR LABLALATE ",
+    "AdresseA": "دوار البلالات",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN EL BANNAE EL MORRAKOCHI",
+    "NOM_ETABA": "ثانوية إبن البناء المراكشي التأهيلية",
+    "AdresseL": "centre CHTOUKA",
+    "AdresseA": " مركز شتوكة",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "al kiane",
+    "NOM_ETABA": "الكيان",
+    "AdresseL": "douar ait rkha",
+    "AdresseA": "دوار ايت الرخاء",
+    "COMMUNE": "Chtouka",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

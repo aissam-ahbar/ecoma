@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "EL ALAOUIYINE",
+    "NOM_ETABA": "العلويين",
+    "AdresseL": "KSAR OUELAD EL HAJ CHORFA MDAGHRA ERRACHIDIA",
+    "AdresseA": "قصر اولاد الحاج شرفاء مدغرة",
+    "COMMUNE": "Chorfa M'Daghra",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAKSIBA",
+    "NOM_ETABA": "لقصيبة",
+    "AdresseL": "KSAR LAKSIBA CHORAFA MDAGHRA",
+    "AdresseA": "قصر لقصيبة شرفاء مدغرة",
+    "COMMUNE": "Chorfa M'Daghra",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAZNAKET",
+    "NOM_ETABA": "تازناقت",
+    "AdresseL": "KSAR TAZNAKET CHORAFA M DAGHRA",
+    "AdresseA": "قصر تازناقت شرفاء مدغرة",
+    "COMMUNE": "Chorfa M'Daghra",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOU ABDILLAH",
+    "NOM_ETABA": "سيدي بوعبد الله",
+    "AdresseL": "KSAR SIDI BOU ABDELLAH CHORAFA M DAGHRA",
+    "AdresseA": "قصر سيدي بوعبد الله  مدغرة",
+    "COMMUNE": "Chorfa M'Daghra",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MESKI",
+    "NOM_ETABA": "مسكي",
+    "AdresseL": "KSAR MESKI CHORAFA M DAGHRA",
+    "AdresseA": "قصر مسكي شرفاء مدغرة",
+    "COMMUNE": "Chorfa M'Daghra",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE COM1",
+    "NOM_ETABA": " مدرسة كم 1",
+    "AdresseL": "MDAGHRA",
+    "AdresseA": "مدرسة كم 1  مدغرة",
+    "COMMUNE": "Chorfa M'Daghra",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU HAZM",
+    "NOM_ETABA": "الثانوية التأهيلية ابن حزم",
+    "AdresseL": "MDAGHRA",
+    "AdresseA": "مدغرة",
+    "COMMUNE": "Chorfa M'Daghra",
+    "PROVINCE": "Errachidia",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

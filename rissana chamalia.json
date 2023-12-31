@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MAJD",
+    "NOM_ETABA": "الثانوية الإعدادية المجد ",
+    "AdresseL": "TLAT RISSANA COMMUNE RISSANA DU NORD",
+    "AdresseA": "ريصانة الشمالية",
+    "COMMUNE": "Rissana Chamalia",
+    "PROVINCE": "Province: Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALLAL EL FASSI RAISSANA CENTRE   ",
+    "NOM_ETABA": "م/م علال الفاسي  ريصانة المركزية  ",
+    "AdresseL": "TLATA RISSANA CENTRE COMMUNE RISSANA CHAMALIA",
+    "AdresseA": "ثلاثة ريصانة المركز جماعة ريصانة الشمالية",
+    "COMMUNE": "Rissana Chamalia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SOULTANE CENTRE",
+    "NOM_ETABA": "م/م  أولاد سلطان  المركزية",
+    "AdresseL": "DOUAR OULED SOULTANE COMMUNE RISSANA CHAMALIA",
+    "AdresseA": "دوار اولاد سلطان جماعة ريصانة الشمالية",
+    "COMMUNE": "Rissana Chamalia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "KHRACHFA CENTRE",
+    "NOM_ETABA": "الخراشفة المركز",
+    "AdresseL": "DOUAR KHRACHFA COMMUNE RISSANA CHAMALIA",
+    "AdresseA": "دوار الخراشفة جماعة ريصانة الشمالية",
+    "COMMUNE": "Rissana Chamalia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ELKHRACHFA 2 AMER AIN HENNA CENTRE",
+    "NOM_ETABA": "م/م الخراشفة 2 المركزية  عامرعين الحنة",
+    "AdresseL": "DOUAR AMER AIN HENNA COMMUNE RISSANA CHAMALIA",
+    "AdresseA": "دوار عامر عين الحنة المركز جماعة ريصانة الشمالية",
+    "COMMUNE": "Rissana Chamalia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT RAISSANA",
+    "NOM_ETABA": "الثانوية التأهيلية ريصانة",
+    "AdresseL": "CENTRE COMMUNAL RAISSANA CHAMALIA",
+    "AdresseA": "مركز جماعة ريصانة الشمالية",
+    "COMMUNE": "Rissana Chamalia",
+    "PROVINCE": "Larache",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

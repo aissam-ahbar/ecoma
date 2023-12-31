@@ -1,0 +1,112 @@
+[
+  {
+    "NOM_ETABL": "SS KSAR SGHIR",
+    "NOM_ETABA": "م/م القصر الصغير الابتدائية",
+    "AdresseL": "KSAR SEGHIR COMMUNE KSAR SGHIR  ",
+    "AdresseA": "دوار فرسيوة- جماعة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS HASSANA",
+    "NOM_ETABA": "م/م حسانة الابتدائية",
+    "AdresseL": "VILLAGE HASSANA  COMMUNE KSAR SGHIR ",
+    "AdresseA": "حسانة  جماعة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LCHEHBA",
+    "NOM_ETABA": "م/م لشهبة الابتدائية",
+    "AdresseL": "DOUAR LECHBACOMMUNE KSAR SGHIR ",
+    "AdresseA": "دوار لشهبة جماعة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMLIECH",
+    "NOM_ETABA": "م/م امليش الابتدائية ",
+    "AdresseL": "VILLAGE AMLIECH  COMMUNE KSAR SGHIR ",
+    "AdresseA": "أمليش جماعة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KHANDAK ZRARAE",
+    "NOM_ETABA": "م/م خندق الزرارع الابتدائية",
+    "AdresseL": "DOUAR KHANDAK ZRARAe COMMUNE KSAR SGHIR ",
+    "AdresseA": "خندق ازرارع جماعة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AGUENOUANE",
+    "NOM_ETABA": "م/م اكنوان الابتدائية ",
+    "AdresseL": "DOUAR AGuENOUANE COMMUNE KSAR SGHIR",
+    "AdresseA": "أكنوان جماعة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE KSAR SGHIR",
+    "NOM_ETABA": "الثانوية التقنية القصر الصغير",
+    "AdresseL": "commune ksar sghir",
+    "AdresseA": "جماعة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KSAR SGHIR",
+    "NOM_ETABA": "ثانوية القصر الصغير التأهيلية",
+    "AdresseL": "FERSIOUA KSAR SGHIR",
+    "AdresseA": "فرسيوة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT AMJAD",
+    "NOM_ETABA": "مؤسسة أمجاد الخصوصية",
+    "AdresseL": "ETABLISSEMENT AMJAD",
+    "AdresseA": "مدشر فرسيوة شارع الملاح القصر ",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement  PRESCOLAIRE BOUHAFS",
+    "NOM_ETABA": "مؤسسة بوحفص الخصوصية للتعليم الأولي",
+    "AdresseL": "mLIECH COMMUNE KSAR SGHIR",
+    "AdresseA": "امليش السفلى جماعة القصر الصغي",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT JIL KASR SAGHIR",
+    "NOM_ETABA": "مؤسسة جيل القصر الصغير الخصوصية",
+    "AdresseL": "FERSIOUA COMMUNE KSAR SGHIR",
+    "AdresseA": "مدشر فرسيوة جماعة القصر الصغير",
+    "COMMUNE": "Ksar Sghir",
+    "PROVINCE": "Fahs-Anjra     ",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

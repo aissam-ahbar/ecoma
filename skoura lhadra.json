@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "OULED LAHCEN CENTRE",
+    "NOM_ETABA": "اولاد  لحسن المركزية",
+    "AdresseL": "DOUAR OULAD LAHSEN COMMUNE SKOURA LHADRA",
+    "AdresseA": "دوار اولاد لحسن",
+    "COMMUNE": "Skoura Lhadra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JBABRA CENTRE",
+    "NOM_ETABA": "الجبابر ة المركزية",
+    "AdresseL": "DOUAR LEKOUASMA JBABRA COMMUNE SKOURA EL HADRA",
+    "AdresseA": "دوار الجبابرة",
+    "COMMUNE": "Skoura Lhadra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ABDELLAH EL HASSARA CENTRE",
+    "NOM_ETABA": "اولاد عبد الله الحصارة المركزية",
+    "AdresseL": "DOUAR OULAD ABDELLAH EL HASSARA  COMMUNE SKOURAELH",
+    "AdresseA": "دوار اولاد عبد الله الحصارة",
+    "COMMUNE": "Skoura Lhadra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DHOUR CENTRE",
+    "NOM_ETABA": "الظهور المركزية",
+    "AdresseL": "DOUAR echrarda dhour commune SKOURA ELHADRA",
+    "AdresseA": "دوار الشراردة الظهور جماعة سكورة الحدرة",
+    "COMMUNE": "Skoura Lhadra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SKOURA CENTRE",
+    "NOM_ETABA": "سكورة المركزية",
+    "AdresseL": "DOUAR SKOURA      commune SKOURA  ELHADRA ",
+    "AdresseA": "دوار سكورة",
+    "COMMUNE": "Skoura Lhadra",
+    "PROVINCE": "Rehamna",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

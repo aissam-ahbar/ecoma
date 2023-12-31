@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "college 3 MARS",
+    "NOM_ETABA": "الثانوية الإعدادية 3 مارس",
+    "AdresseL": "AVENUE MOLAY ABDELLAH OUAD LAOU TETOUAN",
+    "AdresseA": "شارع مولاي عبد الله  وادي لو",
+    "COMMUNE": "Oued Laou",
+    "PROVINCE": "Province: Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ecole AL MOUKHTAR ASSOUSSI",
+    "NOM_ETABA": "مدرسة المختار السوسي",
+    "AdresseL": "OUAD LAOUTETOUAN",
+    "AdresseA": "بلدية وادي لو",
+    "COMMUNE": "Oued Laou",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss EREKADEN",
+    "NOM_ETABA": "م.م ارقادن",
+    "AdresseL": "QUARTIER EREKADEN  OUEDLAOU",
+    "AdresseA": "حي إرقادن وادي لو",
+    "COMMUNE": "Oued Laou",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss DCHAR LAHMAR",
+    "NOM_ETABA": "م.م الدشر لحمر",
+    "AdresseL": "quartier AGHNOURI  OUAD LAOU TETOUAN",
+    "AdresseA": "حي أغنوري. وادي لو",
+    "COMMUNE": "Oued Laou",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss ABOU AL KACIM ACHABI",
+    "NOM_ETABA": "م.م أبو القاسم الشابي",
+    "AdresseL": "CU OUED LAOU",
+    "AdresseA": "بلدية وادي لو",
+    "COMMUNE": "Oued Laou",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycee OMAR IBN AL KHATTAB",
+    "NOM_ETABA": "الثانوية التأهيلية عمر بن الخطاب",
+    "AdresseL": "CU OUED LAOU",
+    "AdresseA": "الجماعة الحضرية  لوادي لو  ",
+    "COMMUNE": "Oued Laou",
+    "PROVINCE": "Tétouan",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

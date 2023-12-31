@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "OUIZEGHT",
+    "NOM_ETABA": "ويزغت",
+    "AdresseL": "DOUAR OUIZEGHT COMMUNE OUIZEGHT",
+    "AdresseA": "دوار أولاد عبو جماعة ويزغت",
+    "COMMUNE": "Ouizeght",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MAGDOUL OULAD YOUSSEF",
+    "NOM_ETABA": "مكدول اولاد يوسف",
+    "AdresseL": "DOUAR MAGDOUL OULAD YOUSSEF COMMUNE OUIZEGHT",
+    "AdresseA": "دوار مكدول اولاد يوسف جماعة ويزغت",
+    "COMMUNE": "Ouizeght",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAGOURAST",
+    "NOM_ETABA": "تاكوراست",
+    "AdresseL": "DOUAR TAGOURAST COMMUNE OUIZEGHT",
+    "AdresseA": "دوار تاكوراست جماعة ويزغت",
+    "COMMUNE": "Ouizeght",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

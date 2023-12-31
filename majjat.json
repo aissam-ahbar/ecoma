@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANAS BNOU MALIK",
+    "NOM_ETABA": "الثانوية الإعدادية أنس بن مالك",
+    "AdresseL": "CENTRE HAD MAJJAT COMMUNE MAJJAT",
+    "AdresseA": "مركز جماعة مجاط",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Province: Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MOUAHHIDINE",
+    "NOM_ETABA": "الموحدين",
+    "AdresseL": "CENTRE COMMUNE MAJJAT",
+    "AdresseA": "مركز جماعة مجاط",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAHRARCHA",
+    "NOM_ETABA": "لحرارشة",
+    "AdresseL": "DOUAR LAHRARCHA COMMUNE MAJJAT",
+    "AdresseA": "دوار لحرارشة",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEN DOUKKALI",
+    "NOM_ETABA": "بن الدكالي",
+    "AdresseL": "DOUAR BEN DOUKKALI COMMUNE MAJJAT",
+    "AdresseA": "دوار بن الدكالي",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LARAOUIYNE",
+    "NOM_ETABA": "لارويين",
+    "AdresseL": "DOUAR LARAOUIYNE COMMUNE MAJJAT",
+    "AdresseA": "دوار لارويين",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FILALA",
+    "NOM_ETABA": "فيلالة",
+    "AdresseL": "DOUAR Elissawi COMMUNE MAJJAT",
+    "AdresseA": "دوار العيساوي جماعة مجاط",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ZKARA LIBL",
+    "NOM_ETABA": "زكارة ليبل",
+    "AdresseL": "DOUAR ZKARA LIBL COMMUNE MAJJAT",
+    "AdresseA": "دوار  زكارة ليبل",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LAMAAISRA",
+    "NOM_ETABA": "لمعيصرة",
+    "AdresseL": "DOUAR LAMAAISRA COMMUNE MAJJAT",
+    "AdresseA": "دوار لمعيصرة",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL KHAWARIZMI",
+    "NOM_ETABA": "الثانوية التأهيلية الخوارزمي",
+    "AdresseL": "CENTRE COM MEJJAT",
+    "AdresseA": "مركز  جماعة مجاط",
+    "COMMUNE": "Majjat",
+    "PROVINCE": "Chichaoua",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

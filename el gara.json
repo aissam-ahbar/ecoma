@@ -1,0 +1,132 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SAKIA AL HAMRA",
+    "NOM_ETABA": "الثانوية الإعدادية الساقية الحمراء",
+    "AdresseL": "BOULEVARD MOHAMED V COMMUNE EL GARA",
+    "AdresseA": "شارع محمد الخامس الكارة",
+    "COMMUNE": "El Gara",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN EL KHATIB",
+    "NOM_ETABA": "الثانوية الإعدادية ابن الخطيب",
+    "AdresseL": "BOULEVARD ZERKTOUNI EL GARA",
+    "AdresseA": "شارع الزرقطوني بلدية الكارة",
+    "COMMUNE": "El Gara",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HALIMA ESSAADIA",
+    "NOM_ETABA": "المدرسة الابتدائية حليمة السعدية",
+    "AdresseL": "quartier administratif",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "El Gara",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SAKINA BENT ELHOUSSINE",
+    "NOM_ETABA": "المدرسة الابتدائية سكينة بنت الحسين",
+    "AdresseL": "rue ibrahim roudani",
+    "AdresseA": "زنقة ابراهيم الروداني",
+    "COMMUNE": "El Gara",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELWAHED ELMORRAKCHI",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الواحد المراكشي",
+    "AdresseL": "BD MOHAMED V hay el fath",
+    "AdresseA": "شارع محمد الخامس حي الفتح",
+    "COMMUNE": "El Gara",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN KHALDOUN",
+    "NOM_ETABA": "المدرسة الابتدائية ابن خلدون",
+    "AdresseL": "BOULEVARD ZERKTOUNI COMMUNE EL GARA",
+    "AdresseA": "شارع الزرقطوني",
+    "COMMUNE": "El Gara",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OTMANE BEN AFFANE",
+    "NOM_ETABA": "الثانوية التأهيلية عثمان بن عفان",
+    "AdresseL": "RUE el KYALA COMMUNE ELGARA",
+    "AdresseA": "زنقة الكيالة",
+    "COMMUNE": "El Gara",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ABDELOUAHED",
+    "NOM_ETABA": "مجموعة مدارس عبد الواحد الخصوصية",
+    "AdresseL": "av hassan 2 n 119-121",
+    "AdresseA": "شارع الحسن الثاني 119 121",
+    "COMMUNE": "El Gara ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "riad el gara",
+    "NOM_ETABA": "رياض الكارة الخصوصية",
+    "AdresseL": "lot sidi hmida hay Enassim n 6",
+    "AdresseA": "تجزئة سيدي حميدة حي النسيم رقم",
+    "COMMUNE": "El Gara ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ENNOUSSOUR 2",
+    "NOM_ETABA": "النسور 2 الخصوصية",
+    "AdresseL": "137mohamed dora hay lalla mery",
+    "AdresseA": "137 شارع محمد درة حي لالة مريم",
+    "COMMUNE": "El Gara ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Boustane Al Marrifa",
+    "NOM_ETABA": "مؤسسة بستان المعرفة الخصوصية",
+    "AdresseL": "Lotissement Amicale El Faraj",
+    "AdresseA": " تجزئة الفرج",
+    "COMMUNE": "El Gara ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " harachi",
+    "NOM_ETABA": "حراشي الخصوصية",
+    "AdresseL": "BD IMAM ABDOU",
+    "AdresseA": "شارع الإمام عبده",
+    "COMMUNE": "El Gara ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DINA JUNIORS",
+    "NOM_ETABA": "دينا جينيور الخصوصية",
+    "AdresseL": "lotissement al alia n 2-3",
+    "AdresseA": "تجزئة الغالية رقم 3-2 الكارة",
+    "COMMUNE": "El Gara ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

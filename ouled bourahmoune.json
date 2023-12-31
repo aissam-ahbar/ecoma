@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE HOMMANE EL FATOUAKI",
+    "NOM_ETABA": "ثانوية حمان الفطواكي الإعدادية",
+    "AdresseL": "OULED BOURAHMOUNE COMMUNE OULED BOURAHMOUNE",
+    "AdresseA": "اولاد بورحمون  جماعة اولاد بورحمون",
+    "COMMUNE": "Ouled Bourahmoune",
+    "PROVINCE": "Province: Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OULED BOUAZZA CENTRE",
+    "NOM_ETABA": "مركزية اولاد بوعزة",
+    "AdresseL": "OULED BOUAZZA COMMUNE OULED BOURAHMOUNE",
+    "AdresseA": "جماعة اولاد بورحمون",
+    "COMMUNE": "Ouled Bourahmoune",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ROUAJEH CENTRE",
+    "NOM_ETABA": "مركزية الرواجح",
+    "AdresseL": "ROUAJEH COMMUNE OULED BOURAHMOUNE",
+    "AdresseA": "دوار الرواجح جماعة اولاد بورحمون الفقيه بن صالح",
+    "COMMUNE": "Ouled Bourahmoune",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED BOURAHMOUNE CENTRE",
+    "NOM_ETABA": "مركزية أولاد بورحمون",
+    "AdresseL": "COMMUNE OULED BOURAHMOUNE",
+    "AdresseA": "جماعة اولاد بورحمون",
+    "COMMUNE": "Ouled Bourahmoune",
+    "PROVINCE": "Fquih Ben Salah",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

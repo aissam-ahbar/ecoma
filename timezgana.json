@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TIMEZGANA",
+    "NOM_ETABA": "الثانوية الإعدادية تمزكانة",
+    "AdresseL": "COMMUNE TIMEZGANA",
+    "AdresseA": "جماعة تمزكانة",
+    "COMMUNE": "Timezgana",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S AHMED EL HAJJAMI",
+    "NOM_ETABA": "م م احمد الحجامي",
+    "AdresseL": "DOUAR HAMDANE COMMUNE TIMEZGANA GHAFSSAI",
+    "AdresseA": "دوار حمدان -جماعة تمزكانة- غفساي",
+    "COMMUNE": "Timezgana",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KALAA BNI KACEM",
+    "NOM_ETABA": "م/م  قلعة بني قاسم",
+    "AdresseL": "DOUAR EL KALAA COMMUNE TIMEZGANA GHAFSSAI",
+    "AdresseA": "دوار القلعة جماعة تمزكانة غفساي",
+    "COMMUNE": "Timezgana",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL FERRICHA",
+    "NOM_ETABA": "م/م  الفريشة",
+    "AdresseL": "DOUAR ARGUILA COMMUNE TIMEZGANA GHAFSSAI",
+    "AdresseA": "دوار اركيلة-جماعة تمزكانة- غفساي",
+    "COMMUNE": "Timezgana",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HAJRAT ENNHAL",
+    "NOM_ETABA": "الثانوية الإعدادية حجرة النحل",
+    "AdresseL": "CHRAKA COMMUNE HAJRAT ENNHAL",
+    "AdresseA": "الشراقة جماعة حجرة النحل",
+    "COMMUNE": "HJAR ENNHAL",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE HAJRAT NHAL",
+    "NOM_ETABA": "المجموعة المدرسية حجرة النحل",
+    "AdresseL": "DOUAR Hjar nhal commune hjar nhal",
+    "AdresseA": "جماعة حجر النحل ",
+    "COMMUNE": "HJAR ENNHAL",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE DAIDAT",
+    "NOM_ETABA": "المجموعة المدرسية الدعيدعات",
+    "AdresseL": "DOUAR DAIDAT COMMUNE BOUKHALEF",
+    "AdresseA": "دوار الدعيدعات جماعة حجرالنحل ",
+    "COMMUNE": "HJAR ENNHAL",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BOUGDOUR",
+    "NOM_ETABA": "مدرسة بوكدور الابتدائية",
+    "AdresseL": "madchar bougdour commune hajrat nhal",
+    "AdresseA": "مدشر بوكدور جماعة حجرة النحل",
+    "COMMUNE": "HJAR ENNHAL",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE CHRAKA SOUFLA",
+    "NOM_ETABA": "المجموعة المدرسية اشراقة السفلى",
+    "AdresseL": "DOUAR CHRAKA COMMUNE hjar ennahl",
+    "AdresseA": "اشراقة السفلى جماعة حجر النحل",
+    "COMMUNE": "HJAR ENNHAL",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JIL NASSIM",
+    "NOM_ETABA": "جيل النسيم",
+    "AdresseL": "MADCHAR BOUGDOUR",
+    "AdresseA": "مدشر بكدور",
+    "COMMUNE": "HJAR ENNHAL",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOURSIN",
+    "NOM_ETABA": "نورسين",
+    "AdresseL": "NULL",
+    "AdresseA": "مدشر الدعيدعات جماعة حجر النحل",
+    "COMMUNE": "HJAR ENNHAL",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

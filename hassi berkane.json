@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HASSI BERKANE",
+    "NOM_ETABA": "الثانوية الإعدادية حاسي بركان",
+    "AdresseL": "HASSI BERKANE",
+    "AdresseA": "حاسي بركان المركز",
+    "COMMUNE": "Hassi Berkane",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE IBARKANENE",
+    "NOM_ETABA": "مجموعة مدارس إبركانن",
+    "AdresseL": "DOUAR IBARKANENE COMMUNE HASSI BERKANE",
+    "AdresseA": "دوار إبركانن جماعة حاسي بركان",
+    "COMMUNE": "Hassi Berkane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE EMOUSSATEN",
+    "NOM_ETABA": "مجموعة مدارس إيموساتن",
+    "AdresseL": "emoussaten hassi berkane",
+    "AdresseA": "ايموساتن حاسي بركان",
+    "COMMUNE": "Hassi Berkane",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

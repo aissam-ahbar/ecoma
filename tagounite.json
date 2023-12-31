@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÉGIAL  NASSRATE",
+    "NOM_ETABA": "الثانوية الإعدادية نصراط",
+    "AdresseL": "DOUAR NASsRATe C TAGOUNITE ",
+    "AdresseA": "دوار نصراط تكونيت",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TAGOUNITE",
+    "NOM_ETABA": "م.م تكونيت  ",
+    "AdresseL": "TAGOUNITE CENTRE CTAGOUNITE",
+    "AdresseA": "تكونيت",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BENI S BIH",
+    "NOM_ETABA": "م.م بني صبيح",
+    "AdresseL": "DOUAR BNI SBIH CTAGOUNITE",
+    "AdresseA": "بني صبيح",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS NASSRATE",
+    "NOM_ETABA": "م.م نصراط",
+    "AdresseL": "DOUAR NASsRATe CTAGOUNITE",
+    "AdresseA": "قصر نصراط تاكونيت ",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AZAGHAR",
+    "NOM_ETABA": "م.م أزغار",
+    "AdresseL": "kasr KNAZTA TAGOUNITE",
+    "AdresseA": "قصر الكنازطة ",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALAT EL AMAL",
+    "NOM_ETABA": "م.م ثلاث الأمل",
+    "AdresseL": "DOUAR TALAT COMMUNE TAGOUNITE",
+    "AdresseA": "دوار ثلاث.جماعة تاگونيت",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY EL MEHDI SALHI",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي المهدي الصالحي",
+    "AdresseL": "ZAOuYAT SIDI SALAH TAGOUNITE",
+    "AdresseA": "زاوية سيدي صالح",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OTHMANE BEN AFFAN",
+    "NOM_ETABA": "الثانوية التأهيلية عثمان بن عفان",
+    "AdresseL": "TAGOUNITE CENTRE CTAGOUNITE",
+    "AdresseA": "تكونيت",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SIDI SALEH",
+    "NOM_ETABA": "الثانوية التأهيلية سيدي صالح",
+    "AdresseL": "TAGOUNITE CENTRE ",
+    "AdresseA": "مركز تاكونيت",
+    "COMMUNE": "Tagounite",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  }
+]

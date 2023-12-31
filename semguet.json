@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE SEMGUET",
+    "NOM_ETABA": "ثانوية سمكث الإعدادية ",
+    "AdresseL": "Commune semguet ",
+    "AdresseA": "جماعة سمكت ",
+    "COMMUNE": "Semguet",
+    "PROVINCE": "Province: Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT ROUADI CENTRE",
+    "NOM_ETABA": "مركزية  ايت الرواضي",
+    "AdresseL": "AIT ROUADI COMMUNE SEMGUET",
+    "AdresseA": "جماعة  سمكت",
+    "COMMUNE": "Semguet",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT DAOUD OMOUSSA",
+    "NOM_ETABA": "مركزية ايت داود اوموسى",
+    "AdresseL": "AIT DAOUD OMOUSSA COMMUNE SEMGUET",
+    "AdresseA": "جماعة  سمكت",
+    "COMMUNE": "Semguet",
+    "PROVINCE": "Béni Mellal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  }
+]

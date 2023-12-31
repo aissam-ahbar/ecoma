@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE OULAD NOUAL",
+    "NOM_ETABA": "إعدادية أولاد نوال",
+    "AdresseL": "oulad noual",
+    "AdresseA": "اولاد نوال",
+    "COMMUNE": "Oulad Nouel",
+    "PROVINCE": "Province: Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AMROU IBN ALASS",
+    "NOM_ETABA": "عمرو بن العاص",
+    "AdresseL": "DOUAR OULAD ABDELOUAHED COMMUNE OULAD NOUAL",
+    "AdresseA": "دوار اولاد عبدالواحد جماعة اولاد انوال",
+    "COMMUNE": "Oulad Nouel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOKHTAR SOUSSI",
+    "NOM_ETABA": "المختار السوسي",
+    "AdresseL": "DOUAR KARIAT DOUADI COMMUNE OULAD NOUAL",
+    "AdresseA": "دوار قرية الداودي جماعة أولادنوال دائرة ورغة",
+    "COMMUNE": "Oulad Nouel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BILAL BNOU RABAH",
+    "NOM_ETABA": "بلال بن رباح",
+    "AdresseL": "DOUAR OULAD BOUABANE  COMMUNE OULAD NOUAL",
+    "AdresseA": "دوار أولاد بوعبان جماعة اولاد نوال دائرة ورغة",
+    "COMMUNE": "Oulad Nouel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULED SIDI AMER",
+    "NOM_ETABA": "أولاد سيدي اعمر",
+    "AdresseL": "douar OULED SIDI AMER",
+    "AdresseA": "دوار أولاد سيدي اعمر",
+    "COMMUNE": "Oulad Nouel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL WAHDA",
+    "NOM_ETABA": "ثانوية الوحدة",
+    "AdresseL": "COMMUNE OULED NOUAL",
+    "AdresseA": "أولاد نوال",
+    "COMMUNE": "Oulad Nouel",
+    "PROVINCE": "Sidi Kacem",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  }
+]

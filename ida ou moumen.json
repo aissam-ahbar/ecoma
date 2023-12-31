@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "SS ABDELMOUMEN",
+    "NOM_ETABA": "م.م عبد المومن",
+    "AdresseL": "DOUAR  TAHANDORTE COMMUNE IDAOMOUMEN",
+    "AdresseA": "دوار تحنضورت جماعة اداومومن",
+    "COMMUNE": "Ida Ou Moumen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAAOUISSATE",
+    "NOM_ETABA": "م.م العويسات",
+    "AdresseL": "DOUAR  LAAOUISSATE CIDA OU MOUMEN",
+    "AdresseA": "دوار العويسات جماعة اد او مومن تا رودانت ",
+    "COMMUNE": "Ida Ou Moumen",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

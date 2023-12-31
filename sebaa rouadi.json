@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE AIN ALLAH",
+    "NOM_ETABA": "الثانوية الاعدادية عين الله",
+    "AdresseL": "KM10 DOUYATE ROUTE MEKNES MOULAY YACOUB",
+    "AdresseA": "كلم 10 الضويات طريق مكناس مولاي يعقوب",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Province: Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SBAA ROUADI CENTRE",
+    "NOM_ETABA": "سبع رواضي المركز",
+    "AdresseL": "DOUAR OULAD AYAD COMMUNE SBAA ROUADI",
+    "AdresseA": "دوار اولاد عايد ، جماعة سبع رواضي      ",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD HLAL CENTRE",
+    "NOM_ETABA": "اولاد اهلال المركز",
+    "AdresseL": "DOUAR OULAD HLAL COMMUNE SBAA ROUADI",
+    "AdresseA": "دوار اولاد اهلال سبع ارواضي",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DOUYATE CENTRE",
+    "NOM_ETABA": "الضويات المركز",
+    "AdresseL": "KM10 ROUTE DE MEKNES  DOUYATE SBAA ROUADI",
+    "AdresseA": "كلم 10 طريق مكناس الضويات سبع ارواضي",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TLAHA CENTRE",
+    "NOM_ETABA": "طلاحة المركز",
+    "AdresseL": "DOUAR TLAHA  COMMUNE SBAA ROUADI",
+    "AdresseA": "دوار طلاحة سبع ارواضي",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MACHRAA KRIME CENTRE",
+    "NOM_ETABA": "مشرع كريم المركز",
+    "AdresseL": "DOUAR MACHRAA KRIME COMMUNE SBAA ROUADI",
+    "AdresseA": "دوار مشرع كريم سبع ارواضي",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "COOPERATIVE SALAME CENTRE",
+    "NOM_ETABA": "تعاونية السلام المركز",
+    "AdresseL": "COOPERATIVE AL ISLAHE COMMUNE SBAA ROUADI",
+    "AdresseA": "دوار تعاونية الاصلاح سبع ارواضي",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL FERFARA CENTRE",
+    "NOM_ETABA": "الفرفارة المركز",
+    "AdresseL": "DOUAR EL FARFARA COMMUNE SBAA ROUADI",
+    "AdresseA": "دوار الفرفارة سبع ارواضي",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABBAS AL AMRANI",
+    "NOM_ETABA": "الثانوية التأهيلية عباس العمراني",
+    "AdresseL": "KM 10 ROUTE DE MEKNES douiet",
+    "AdresseA": "كلم 10 طريق مكناس الضويات",
+    "COMMUNE": "Sebaa Rouadi",
+    "PROVINCE": "Moulay Yacoub",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  }
+]

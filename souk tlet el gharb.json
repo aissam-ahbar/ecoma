@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED HAJJI",
+    "NOM_ETABA": "الثانوية الاعدادية محمد حجي",
+    "AdresseL": "COMMUNE SOUK TLET EL GHARB",
+    "AdresseA": "جماعة سوق ثلاثاء الغرب",
+    "COMMUNE": "Souk Tlet El Gharb",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SABOU",
+    "NOM_ETABA": "الثانوية الاعدادية سبو",
+    "AdresseL": "COMMUNE SOUK TLET ELGHARB CENTRE",
+    "AdresseA": "جماعة سوق ثلاثاء الغرب المركز",
+    "COMMUNE": "Souk Tlet El Gharb",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ALMANFALOUTI",
+    "NOM_ETABA": "المنفلوطي",
+    "AdresseL": "COMMUNE SOUK TLET EL GHARB",
+    "AdresseA": "جماعة سوق ثلاثاء الغرب",
+    "COMMUNE": "Souk Tlet El Gharb",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAMAADGA",
+    "NOM_ETABA": "م/م المعادكة",
+    "AdresseL": "DOUAR LAMAADGA COMMUNE SK TLET GHARB",
+    "AdresseA": "دوار المعادكة جماعة سوق ثلاثاء الغرب",
+    "COMMUNE": "Souk Tlet El Gharb",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " OULED ABDELLAH",
+    "NOM_ETABA": "اولاد عبدالله",
+    "AdresseL": "DOUAR OULED ABDELLAH COMSK TLET GHARB",
+    "AdresseA": "دوار اولاد عبدالله  ج/ سوق ثلاثاء الغرب",
+    "COMMUNE": "Souk Tlet El Gharb",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI AISSA KHACHN",
+    "NOM_ETABA": "سيدي عيسى خشان",
+    "AdresseL": "DOUAR HRED COMMUNE SOUK TLET du gharb",
+    "AdresseA": "دوار احريض جماعة سوق الثلاثاءالغرب",
+    "COMMUNE": "Souk Tlet El Gharb",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " ENNJAJAA",
+    "NOM_ETABA": "النجاجعة",
+    "AdresseL": "  SOUK TLET  DU GHARB",
+    "AdresseA": "سوق الثلاثاء الغرب",
+    "COMMUNE": "Souk Tlet El Gharb",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

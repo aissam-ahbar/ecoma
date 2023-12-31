@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY ISSA BEN IDRISS ",
+    "NOM_ETABA": "ثانوية مولاي عيسى بن ادريس الإعدادية",
+    "AdresseL": "AIT ATTAB CENTRE",
+    "AdresseA": "مركز أيت اعتاب",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT ATABE",
+    "NOM_ETABA": "مركزية آيت اعتاب",
+    "AdresseL": "ANCIENNE CITE ADMINISTRATIVE",
+    "AdresseA": "الحي الإداري القديم",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE SOUK LARBAA ",
+    "NOM_ETABA": "مركزية سوق الأربعاء",
+    "AdresseL": "CENTRE AIT ATTAB",
+    "AdresseA": "مركز ايت اعتاب",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT WASTER",
+    "NOM_ETABA": "مركزية آيت واستر",
+    "AdresseL": "DOUAR AIT WASTER AIT AATAB  ",
+    "AdresseA": "دوار ايت واستر ايت اعتاب",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE AIT IDIR NOUAMSA",
+    "NOM_ETABA": "مركزية آيت ايدير نوامسا",
+    "AdresseL": "DOUAR AIT IDIR NOUAMSA  ",
+    "AdresseA": "دوار ايت ايدير نوامسا",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KADI AYAAD ",
+    "NOM_ETABA": "تانوية القاضي عياض التأهيلية",
+    "AdresseL": "AIT AATAB CENTRE",
+    "AdresseA": "مركز ايت اعتاب ",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OM YASSMINA",
+    "NOM_ETABA": "ام ياسمينة",
+    "AdresseL": "quartier asroutou bp 8  ait at",
+    "AdresseA": "حي اسروتو صب رقم8  ايت اعتاب",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARGANA",
+    "NOM_ETABA": "أركانة",
+    "AdresseL": "حي السدات جماعة مولاي عيسى بن ",
+    "AdresseA": "Quartier SADDAT,commune mouay ",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BOUSTANE AL MAARIFA",
+    "NOM_ETABA": "بستان المعرفة ",
+    "AdresseL": "quartier ABADOU moulay issa be",
+    "AdresseA": "حي  ابادو  مولاي عيسى بن ادريس",
+    "COMMUNE": "Moulay Aissa Ben Driss",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

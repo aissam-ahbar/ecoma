@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "EZZOUKCH CENTRE",
+    "NOM_ETABA": "مركزية  الزوكش",
+    "AdresseL": "EZZOUKCH COMMUNE MZAMZA SUD",
+    "AdresseA": "الزوكش مزامزة الجنوبية",
+    "COMMUNE": "Mzamza Janoubia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ASSIA EL OUADII CENTRE",
+    "NOM_ETABA": "مركزية آسية الوديع",
+    "AdresseL": " ALI MOUMEN COMMUNE MZAMZA JANOUBIA",
+    "AdresseA": "علي مومن عين نزاغ الحي الاداري ",
+    "COMMUNE": "Mzamza Janoubia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD AZOUZ CENTRE",
+    "NOM_ETABA": "مركزية اولاد عزوز",
+    "AdresseL": "DOUAR OULAD AZZOUZ COMMUNE AIN NEZZAGH mzamza",
+    "AdresseA": "دوار اولاد عزوز جماعة عين نزاغ المزامزة",
+    "COMMUNE": "Mzamza Janoubia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD YAHIA CENTRE",
+    "NOM_ETABA": "مركزية اولاد يحيى",
+    "AdresseL": "DOUAR OULAD YAHIA MZAMZA EL JANOUBIA",
+    "AdresseA": "   دوار أولاد يحيى ـ جماعة مزامزة الجنوبية",
+    "COMMUNE": "Mzamza Janoubia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL LEBNA MOUALINE LOUAD CENTRE",
+    "NOM_ETABA": "مركزية اللبنة موالين موالين الواد",
+    "AdresseL": "DOUAR EL LEBNA COMMUNE mzamza sud",
+    "AdresseA": "دوار اللبنة جماعة المزامزة الجنوبية",
+    "COMMUNE": "Mzamza Janoubia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD EL MAAROUFI CENTRE",
+    "NOM_ETABA": "مركزيةاولاد المعروفي",
+    "AdresseL": "DOUAR OULAD EL MAAROUFI COMMUNE mzamza janoubia",
+    "AdresseA": " دوار اولاد المعروفي المحطة جماعة امزامزة الجنوبية",
+    "COMMUNE": "Mzamza Janoubia",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

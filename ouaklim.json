@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Ouaklim",
+    "NOM_ETABA": "الثانوية الإعدادية واكليم",
+    "AdresseL": "COMMUNE OUAKLIM",
+    "AdresseA": "جماعة واكليم",
+    "COMMUNE": "Ouaklim",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "Lycée Collégial Ibn rochd",
+    "NOM_ETABA": " الثانوية الاعدادية  ابن رشد",
+    "AdresseL": "OUAKLIM",
+    "AdresseA": "واكليم",
+    "COMMUNE": "Ouaklim",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS OUAKLIM",
+    "NOM_ETABA": "م.م واكليم",
+    "AdresseL": "TINGHIR",
+    "AdresseA": "tinghir",
+    "COMMUNE": "Ouaklim",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AMANIKIDAR",
+    "NOM_ETABA": "م.م امانقيدار",
+    "AdresseL": "AMANHKIDAR OUAKLIM tinghir",
+    "AdresseA": " امانقيدار واكليم تنغير",
+    "COMMUNE": "Ouaklim",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TIMADROUINE",
+    "NOM_ETABA": "م.م تمضروين",
+    "AdresseL": "TINGHIR ",
+    "AdresseA": "تنغير",
+    "COMMUNE": "Ouaklim",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ARGUE SIDI ALI OUBORK",
+    "NOM_ETABA": "م.م ارك سيدي علي ابورك",
+    "AdresseL": "TINGHIR ",
+    "AdresseA": "تنغير ",
+    "COMMUNE": "Ouaklim",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

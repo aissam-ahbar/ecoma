@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "SS OULAD AMGHAR",
+    "NOM_ETABA": "م م اولاد امغار",
+    "AdresseL": "COMMUNE OULAD AMGHAR CENTRE",
+    "AdresseA": "جماعة اولاد امغار",
+    "COMMUNE": "Oulad Amghar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT ABDALLAH",
+    "NOM_ETABA": "م.م ايت عبدالله",
+    "AdresseL": "DOUAR AIT ABDELLAH COMMUNE OULAD AMGHAR",
+    "AdresseA": "دوار ايت عبد الله جماعة اولاد امغار",
+    "COMMUNE": "Oulad Amghar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS LAAZIB SIDI CHAIB",
+    "NOM_ETABA": "م م لعزيب سيدي شعايب",
+    "AdresseL": "DOUAR LAAZIB SIDI CHAIB COMMUNE OULAD AMGHAR",
+    "AdresseA": "لعزيب اولاد امغار",
+    "COMMUNE": "Oulad Amghar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OULED AMGHAR",
+    "NOM_ETABA": "ثانوية أولاد أمغار التأهيلية",
+    "AdresseL": "COMMUNE OULED AMGHAR",
+    "AdresseA": "جماعة اولاد امغار",
+    "COMMUNE": "Oulad Amghar",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LYCEE"
+  }
+]

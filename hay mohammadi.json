@@ -1,0 +1,482 @@
+[
+  {
+    "NOM_ETABL": "SALAHEDDINE AL AYOUBI",
+    "NOM_ETABA": "صلاح الدين الأيوبي",
+    "AdresseL": "BD AVIATEUR  VITALIS LAVILLETE HAY MOHAMMADI",
+    "AdresseA": "زنقة الطيار قيطاليس لافيليث الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AL MOUSTAKBAL",
+    "NOM_ETABA": "المستقبل",
+    "AdresseL": "66 BD LA GRANDE CEINTURE HAY MOHAMMADI",
+    "AdresseA": "رقم 66 شارع الحزام الكبير الحي المحمدي ",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ESSAKIA ALHAMRA",
+    "NOM_ETABA": "الساقية الحمراء",
+    "AdresseL": "BD LA GRANDE CEINTURE HAY MOHAMMADI",
+    "AdresseA": "شارع الحزام الكبير الحي المحمدي الدار البيضاء",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU ABDOUNE",
+    "NOM_ETABA": "ابن عبدون",
+    "AdresseL": "BD LA GRANDE CEINTURE HAY MOHAMMADI",
+    "AdresseA": "شارع الحزام الكبير الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "HOUMANE AL FATOUAKI",
+    "NOM_ETABA": "حمان الفطواكي",
+    "AdresseL": "BD LA GRANDE CEINTURE rue karanfal  HAY MOHAMMADI",
+    "AdresseA": "شارع الحزام الكبير زنقة القرنفل الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CHABI",
+    "NOM_ETABA": "الشابي",
+    "AdresseL": "RUE ABOUBAKR OUAHRANI  LAVILLETE HAY MOHAMMADI",
+    "AdresseA": "زنقة ابوبكر الوهراني لافيلات الحي المحمدي البيضاء",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ZIRI BNOU ATIA",
+    "NOM_ETABA": "زيري بن عطية",
+    "AdresseL": "BD MOULAY ISMAEL  HAY MOHAMMADI",
+    "AdresseA": "شارع مولاي اسماعيل الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "OMAR BNOU EL KHATTAB",
+    "NOM_ETABA": "عمر بن الخطاب",
+    "AdresseL": "RUE 6 BLOC22     HAY MOHAMMADI",
+    "AdresseA": "بلوك :22،الزنقة: 6 . الحي المحمدي.الدار البيضاء",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABDELLAH AL HADDAOUI",
+    "NOM_ETABA": "عبد الله الحداوي",
+    "AdresseL": "RUE 6   en face du bloc 22 HAY MOHAMMADI",
+    "AdresseA": "زنقة 6  مقابل بلوك   22الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU BASSAM ",
+    "NOM_ETABA": "ابن بسام ",
+    "AdresseL": "RUE IBNOU BITTAR derb my Cherif  HAY MOHAMMADI",
+    "AdresseA": "زنقة ابن البيطار درب مولاي الشريف الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TARIK BNOU ZIAD",
+    "NOM_ETABA": "طارق بن زياد",
+    "AdresseL": "RUE IBNOU BITTAR DERB MY CHREIF HAY MOHAMMADI",
+    "AdresseA": "زنقة ابن البيطار درب مولاي الشريف الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU ALI ELKALI",
+    "NOM_ETABA": "أبو علي القالي",
+    "AdresseL": "RUE IBNOU BITTAR DERB MY CHREIF HAY MOHAMMADI",
+    "AdresseA": "زنقة ابن البيطار درب مولاي الشريف الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL AYACHI",
+    "NOM_ETABA": "العياشي",
+    "AdresseL": "BD BOURAkDAM LAVILLETE HAY MOHAMMADI",
+    "AdresseA": "شارع بوركدام لافيليث الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL KHALIL BNOU AHMED",
+    "NOM_ETABA": "الخليل بن أحمد",
+    "AdresseL": "RUE IBNOU HAZEM LAVILLETE HAY MOHAMMADI",
+    "AdresseA": "زنقة ابن حزم لافيليث الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL JAHID",
+    "NOM_ETABA": "الجاحظ",
+    "AdresseL": "12RUE ALKOUDIA HAY MOHAMMADI",
+    "AdresseA": "12 زنقة الكدية الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA ALYAKOUT",
+    "NOM_ETABA": "للا الياقوت",
+    "AdresseL": "12RUE ALKOUDIA HAY MOHAMMADI",
+    "AdresseA": "12 زنقة الكدية الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU BAKRE ESSADIK",
+    "NOM_ETABA": "أبوبكر الصديق",
+    "AdresseL": "HAY AL MADRASSA  HAY MOHAMMADI",
+    "AdresseA": "حي المدرسة الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHAWKI JILALI",
+    "NOM_ETABA": "شوقي الجيلالي",
+    "AdresseL": "HAY ALMADRASSA  HAY MOHAMMADI",
+    "AdresseA": "حي المدرسة الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL HASSAN EL YOUSSI",
+    "NOM_ETABA": "الحسن اليوسي",
+    "AdresseL": "bd GRANDE CEINTURE HAY MOHAMMADI",
+    "AdresseA": "شارع الحزام الكبير الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL IMAM MOUSLIM",
+    "NOM_ETABA": "الإمام مسلم",
+    "AdresseL": "bd GRANDE CEINTURE HAY MOHAMMADI",
+    "AdresseA": "شارع الحزام الكبير الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBNOU KOUTAIBA",
+    "NOM_ETABA": "ابن قتيبة",
+    "AdresseL": "AL ANTARIA1 RUE2 HAY MOHAMMADI",
+    "AdresseA": "العنترية 1 الزنقة 2 الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE DE QUAL DES ENFANTS HANDICAPES",
+    "NOM_ETABA": "مركز تأهيل المعاقين",
+    "AdresseL": "6 RUE ABNAA ACHOUHADA BP 5542",
+    "AdresseA": "6 زنقة أبناء الشهداء ص ب 5542",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "MOSTAFA LAMAANI",
+    "NOM_ETABA": "مصطفى المعاني",
+    "AdresseL": "LAVILLETE HAY MOHAMMADI",
+    "AdresseA": "لافيليث الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL HOUSSAIN IBN ALI",
+    "NOM_ETABA": "الحسين بن علي",
+    "AdresseL": "BOULEVARD LA GRANDE CEINTURE HAY MOHAMMADI",
+    "AdresseA": "شارع الحزام الكبير الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL BOUHTOURI",
+    "NOM_ETABA": "البحتري",
+    "AdresseL": "RUE IBNOU HAZEM LAVILLETE  HAY MOHAMMADI",
+    "AdresseA": "زنقة ابن حزم لافيليث الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "AL FARABI",
+    "NOM_ETABA": "الفارابي",
+    "AdresseL": "PROJET HASSAN 2 HAY MOHAMMADI",
+    "AdresseA": "مشروع الحسن الثاني الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABD LAKRIM AL KHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "BD LA GRANDE CEINTURE HAY MOHAMMEDi",
+    "AdresseA": "شارع الحزام الكبير الحي المحمدي الدار البيضاء",
+    "COMMUNE": "Hay Mohammadi ",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "Ittihad Hay Al Mohammadi",
+    "NOM_ETABA": "اتحاد الحي المحمدي",
+    "AdresseL": "Bloc Riyad Rue 29 Hay Mohammad",
+    "AdresseA": "بلوك الرياض زنقة 29 الحي المحم",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHBAL EL AMAL",
+    "NOM_ETABA": "أشبال الآمل",
+    "AdresseL": "N° 266, Boulevard Grande ceint",
+    "AdresseA": "رقم 266، شارع الحزام الكبير ال",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ahmed Chawki",
+    "NOM_ETABA": "أحمد شوقي",
+    "AdresseL": "Lotissement Nadia N° 67 Grande",
+    "AdresseA": "تجزئة نادية رقم 67، الحزام الك",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Malek Bnou Anas",
+    "NOM_ETABA": "مالك بن أنس",
+    "AdresseL": "N° 120, Boulevard Chafii Najem",
+    "AdresseA": "رقم 120، شارع الشافعي درب مولا",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Molière",
+    "NOM_ETABA": "موليير",
+    "AdresseL": "30 Rue 12 Metre La villette Ha",
+    "AdresseA": "رقم 30زنقة 12 متر لافيليت الحي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Balabil Essalam",
+    "NOM_ETABA": "بلابل السلام",
+    "AdresseL": "N° 150 Boulevard Grande Ceintu",
+    "AdresseA": "رقم 150 شارع الحزام الكبير الح",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHBAL TAKADDOUME",
+    "NOM_ETABA": "أشبال التقدم الخصوصية",
+    "AdresseL": "Rue 9, N° 8 Berb Amal Hay Moha",
+    "AdresseA": "زنقة 9 رقم 8 درب الأمل الحي ال",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESSALAM",
+    "NOM_ETABA": "معهد السلام المحمدي",
+    "AdresseL": "N° 265 Boulevard Grande Ceintu",
+    "AdresseA": "رقم 265 شارع الحزام الكبير الح",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "afifi ",
+    "NOM_ETABA": " العفيفي ",
+    "AdresseL": "173, Avennue Okba Bnou Nafii H",
+    "AdresseA": "رقم 173 شارع عقبة بن نافع الحي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Faddia",
+    "NOM_ETABA": " الفضية",
+    "AdresseL": " 193-195, rue des termes , Lav",
+    "AdresseA": " 193-195، زنقة ديترم، لافيلات،",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La Belle Vue",
+    "NOM_ETABA": "المنظر الجميل",
+    "AdresseL": "N° 379, Bd. La Grande Centure ",
+    "AdresseA": "رقم 379، شارع الحزام الكبير - ",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ryad Al Madina",
+    "NOM_ETABA": " رياض المدينة",
+    "AdresseL": "N° 4-2, Rue Hassan Bnou Tabit,",
+    "AdresseA": "رقم 4و2 زنقة حسان بن ثابت،الصخ",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "moliere 2",
+    "NOM_ETABA": "موليير 2",
+    "AdresseL": "Angle rue bertrandon et rue ib",
+    "AdresseA": "زاوية زنقة ابن عمار وزنقة برتر",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al marwa",
+    "NOM_ETABA": "المروى",
+    "AdresseL": "RUE 14 HASSAN BEN TABIT LAVILE",
+    "AdresseA": "زنقة 14 حسان بن ثابت لافليت ",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "moliere 3",
+    "NOM_ETABA": "موليير 3",
+    "AdresseL": "angle rue ibnou ammar et rue b",
+    "AdresseA": "زاوية زنقة ديفوت و زنقة بيرترا",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ben allal",
+    "NOM_ETABA": "بن علال",
+    "AdresseL": "BD FOUARATE RUE 12 N° 63",
+    "AdresseA": "شارع الفوارات الزنقة 12 الرقم ",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "espace d avenir",
+    "NOM_ETABA": "فضاء المستقبل",
+    "AdresseL": "lot azeddine allee a n7 hay mo",
+    "AdresseA": "تجزئة عزالدين ممر أ رقم 7 الحي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "la villette",
+    "NOM_ETABA": "لافيليت",
+    "AdresseL": "Rue  bani  ammar  hay  el moha",
+    "AdresseA": "38زنقة بني عمار لافيليت الحي ا",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Marcel arnaud",
+    "NOM_ETABA": "مارسيل أرنو",
+    "AdresseL": "246 Boulevard fouarate hay moh",
+    "AdresseA": "246شارع الفوارات الحي المحمدي",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rayad",
+    "NOM_ETABA": "رياض",
+    "AdresseL": "khalil 3 rue 15 lavillette n°4",
+    "AdresseA": "42 شارع الخليل زنقة 15 رقم",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "claparede",
+    "NOM_ETABA": "كلاباريد",
+    "AdresseL": "BD FOUARAT N°10 HAY MOHAMADI",
+    "AdresseA": " رقم10 شارع الفوارات الحي المح",
+    "COMMUNE": "Hay Mohammadi",
+    "PROVINCE": "Préf. d’Arr. Aïn Sebaa",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

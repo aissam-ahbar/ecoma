@@ -1,0 +1,842 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIALE CHAHID ELMEKKI",
+    "NOM_ETABA": "الثانوية الإعدادية الشهيد المكي",
+    "AdresseL": "Bd My Ismail",
+    "AdresseA": "شارع مولاي اسماعيل",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZINEB ENNAFZAOUIA",
+    "NOM_ETABA": "الثانوية الإعدادية زينب النفزاوية",
+    "AdresseL": " 190 BD MY ISMAIL ",
+    "AdresseA": "شارع مولاي إسماعيل 190 ",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LALLA MARIEM",
+    "NOM_ETABA": "الثانوية الإعدادية للامريم",
+    "AdresseL": "km 5 route sayarni ",
+    "AdresseA": "كلم 5 طريق سيرني",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN KHALDOUN",
+    "NOM_ETABA": "الثانوية الإعدادية بن خلدون",
+    "AdresseL": "Bd abderrahim bouabid tissir 2 berrechid",
+    "AdresseA": "شارع عبد الرحيم بوعبيد التيسير2",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EZZARKTOUNI",
+    "NOM_ETABA": "الثانوية الإعدادية الزرقطوني",
+    "AdresseL": "hay yasmina berrechid",
+    "AdresseA": "حي ياسمينة برشيد",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DRISS  LAHRIZI",
+    "NOM_ETABA": "المدرسة الابتدائية ادريس الحريزي",
+    "AdresseL": "RUE EZZARQTOUNI  quartier administratif",
+    "AdresseA": "زنقة الزرقطوني الحي الإداري",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AICHA ETTIMOURIA",
+    "NOM_ETABA": "المدرسة الابتدائية عائشة التيمورية",
+    "AdresseL": "RUE DAMAS cite administratif  berrechid",
+    "AdresseA": "الحي الاداري زنقة دمشق   ",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MUSTAPHA EL MAANI",
+    "NOM_ETABA": "مدرسة مصطفى المعاني الابتدائية",
+    "AdresseL": "bloc HAY EL HASSANI",
+    "AdresseA": "شارع إدريس الحريزي بلوك الحي الحسني",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ESSALAM 1",
+    "NOM_ETABA": "المدرسة الابتدائية السلام 1",
+    "AdresseL": "ecole essalam 1   BERRCHID",
+    "AdresseA": "مدرسة السلام 1 برشيد",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ALMADRASSA ALJADIDA",
+    "NOM_ETABA": "المدرسة الابتدائية الجديدة",
+    "AdresseL": "HAY tissir 2  BD MOHAMED SMIHA N 82 BERRECHID",
+    "AdresseA": "حي التيسير2 شارع محمد سميحة الرقم 82",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDERRAHIM BOUABID",
+    "NOM_ETABA": "المدرسة الابتدائية عبد الرحيم بوعبيد",
+    "AdresseL": "LOTISSEMENT BEN MASAOUD HAY ERRAHA",
+    "AdresseA": "تجزئة بن مسعود حي الراحة ",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAHA HOUSSEINE",
+    "NOM_ETABA": "المدرسة الابتدائية طه حسين",
+    "AdresseL": "HAY EL qods",
+    "AdresseA": "حي القدس",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL AMAL",
+    "NOM_ETABA": "المدرسة الابتدائية الأمل",
+    "AdresseL": "Rue halab hay attissir 1",
+    "AdresseA": "زنقة حلب حي التيسير 1",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "Ecole  Tarek Fikri",
+    "NOM_ETABA": "المدرسة الابتدائية طارق فكري",
+    "AdresseL": "HAY ettissir 2",
+    "AdresseA": "حي التيسير 2",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED BEN HAMOU KAMLI",
+    "NOM_ETABA": "مدرسة محمد بن حمو الكملي الابتدائية",
+    "AdresseL": "lotissement ben massoud hay erraha",
+    "AdresseA": "تجزئة بنمسعود حي الراحة",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN AL HAYTAM",
+    "NOM_ETABA": "المدرسة الابتدائية ابن الهيثم",
+    "AdresseL": "HAY DOHA",
+    "AdresseA": "حي الضحى",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  GHAZZA",
+    "NOM_ETABA": "المدرسة الابتدائية غزة",
+    "AdresseL": "Boulevard mouzdalifa quartier ERRABIAA",
+    "AdresseA": "شارع المزدلفة حي الربيع",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED MANSOUR",
+    "NOM_ETABA": "الثانوية التأهيلية  محمد منصور",
+    "AdresseL": "Hay tissir 2 AV Mohamed Samiha",
+    "AdresseA": "حي التيسير 2 شارع محمد سميحة",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OMAR EL KHIAM",
+    "NOM_ETABA": "الثانوية التأهيلية عمر الخيام",
+    "AdresseL": "lotissement jabrane",
+    "AdresseA": "تجزئة جبران",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE TECHNIQUE IMAM MALEK",
+    "NOM_ETABA": "الثانوية التقنية الإمام مالك",
+    "AdresseL": "lotissement zoubida hay riad berchid",
+    "AdresseA": "تجزئة زبيدة حي الرياض برشيد",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT OULAD HRIZ",
+    "NOM_ETABA": "الثانوية التأهيلية أولاد حريز",
+    "AdresseL": "lotissment  EZZAHRA   bp7",
+    "AdresseA": "تجزئة الزهراء",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT IBN ROCHD",
+    "NOM_ETABA": "الثانوية التأهيلية إبن رشد",
+    "AdresseL": "avenue  MOULAY ELHASSAN",
+    "AdresseA": "نهج مولاي الحسن",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL GENERAL EL KETTANI",
+    "NOM_ETABA": "الثانوية التأهيلية الجنرال الكتاني",
+    "AdresseL": "AVENUE MOULAY ISMAIL",
+    "AdresseA": "شارع مولاي اسماعيل",
+    "COMMUNE": "Berrechid",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "palette",
+    "NOM_ETABA": "باليط الخصوصية",
+    "AdresseL": "LOT AL KORONFAL N 49 LAKRIMAT",
+    "AdresseA": "تجزئة القرنفل رقم 49 الكريمات",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annexe groupe scolaire arrahmane",
+    "NOM_ETABA": "ملحقة مجموعة مدارس الرحمن الخصوصية",
+    "AdresseL": "Lot. CHAOUIA 4",
+    "AdresseA": "4 تعاونية الشاوية",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee almouhajir",
+    "NOM_ETABA": "المهاجر الخصوصية",
+    "AdresseL": "lot errabiaa 496",
+    "AdresseA": "496 تجزئة الربيع",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAUSANNE",
+    "NOM_ETABA": "لوزان الخصوصية",
+    "AdresseL": "TISSIR II LOT 222",
+    "AdresseA": "التيسير 2 البقعة 222",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "les iris",
+    "NOM_ETABA": "الإيريس الخصوصية",
+    "AdresseL": "lotissement al yousr , rue al ",
+    "AdresseA": "تجزئة اليسر زنقة المسجد الرقم ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE E ALAM AL HOUDA",
+    "NOM_ETABA": "مؤسسة علم الهدى الخصوصية",
+    "AdresseL": "LOT BENSSI AV GHANDI N 80",
+    "AdresseA": "تجزئة بنسي شارع غاندي رقم 80 ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AMANA ARABIA",
+    "NOM_ETABA": "الأمانة العربية الخصوصية",
+    "AdresseL": "blad ELKHAIR",
+    "AdresseA": "بلاد الخير ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL INAYA ",
+    "NOM_ETABA": "العناية الخصوصية",
+    "AdresseL": "angle blv mohamed 5 rue oukba ",
+    "AdresseA": "زاوية شارع محمد 5 زنقة عقبة اب",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ASSIRAJ ALMOUNIR",
+    "NOM_ETABA": "السراج المنير الخصوصية",
+    "AdresseL": "N 42 AV HASSAN II LOT ALAMRI",
+    "AdresseA": "رقم 42 شارع الحسن الثاني تجزئة",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "tarik ennour",
+    "NOM_ETABA": "طريق النور الخصوصية",
+    "AdresseL": "N 122 AV BIR INZARAN LOT BOU R",
+    "AdresseA": "رقم 122 شارع بئر إنزران تجزئة ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "primavera ",
+    "NOM_ETABA": "بريمافيرا الخصوصية",
+    "AdresseL": "lot saad n 136-137",
+    "AdresseA": "تجزئة سعد 136 137",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le mediateur",
+    "NOM_ETABA": "لو ميدياتور الخصوصية",
+    "AdresseL": "1 rue sad al ouahda lotissemen",
+    "AdresseA": " زنقة سد الوحدة تجزئة ركراكة ل",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "le bon choix",
+    "NOM_ETABA": "بون شوا الخصوصية",
+    "AdresseL": "24BD DES FAR EL WAHDA BERRECHI",
+    "AdresseA": "24 شارع الجيش الملكي الوحدة",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "azzaitouna",
+    "NOM_ETABA": "الزيتونة الخصوصية",
+    "AdresseL": "av mohamed vi, al wafae",
+    "AdresseA": " ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANBAT 2",
+    "NOM_ETABA": "المنبت 2 الخصوصية",
+    "AdresseL": "53. zENKAT IBN ROCHD ",
+    "AdresseA": "53 زنقة ابن رشد",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL AL MADINA",
+    "NOM_ETABA": "أجيال المدينة الخصوصية",
+    "AdresseL": "LOT AL IZDIHAR HAY EL HOUDA RU",
+    "AdresseA": "تجزئة الإزدهار حي الهدي الزنقة",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al wahda",
+    "NOM_ETABA": "الوحدة الخصوصية",
+    "AdresseL": "N 45 RUE KHNATA BEN BAKKAR HAY",
+    "AdresseA": "رقم 45 زنقة خناثة بنت بكار حي ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE IBN EL KHALIL",
+    "NOM_ETABA": "مجموعة مدارس ابن الخليل الخصوصية",
+    "AdresseL": "88 lotissement naima 2",
+    "AdresseA": "88 تجزئة نعيمة 2",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NIBRASSE EL OULOUME",
+    "NOM_ETABA": "مجموعة مدارس نبراس العلوم الخصوصية",
+    "AdresseL": "LOT BeRkOR 1",
+    "AdresseA": "تجزئة بيركور 1",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE AL MADAHIB",
+    "NOM_ETABA": "مدرسة المذاهب الخصوصية",
+    "AdresseL": "LAYALI II n°2",
+    "AdresseA": "ليالي 2 رقم 2",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE 11 JANVIER",
+    "NOM_ETABA": "مجموعة مدارس 11 يناير الخصوصية",
+    "AdresseL": "N 5 HAY hassani bloc e ",
+    "AdresseA": "بلوك E رقم 5 الحي الحسني",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole La petite rivière ",
+    "NOM_ETABA": "مؤسسة الوادي الصغير الخصوصية ",
+    "AdresseL": "Jawharat BERRECHID hay al houd",
+    "AdresseA": "جوهرة برشيد حي الهدى ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole toyor al janna pour le prescolaire",
+    "NOM_ETABA": "مؤسسة طيور الجنة للتعليم الأولي",
+    "AdresseL": "",
+    "AdresseA": " 127 ممر أبو ساطع الحصري حي يا",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AKLAME ADDAHABIA 1",
+    "NOM_ETABA": "الاقلام الذهبية 1 الخصوصية",
+    "AdresseL": "N 18  LT CHAOUIA",
+    "AdresseA": "الرقم 18 تجزئة الشاوية",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALAKLAM ADDAHABIA",
+    "NOM_ETABA": "الأقلام الذهبية الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "شارع الحسن الثاني  الرقم 248",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE RACINE",
+    "NOM_ETABA": "مؤسسة راسين الخصوصية",
+    "AdresseL": "184 lot chama",
+    "AdresseA": " رقم 184, تجزئة شامة",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE MIRaNDA",
+    "NOM_ETABA": "مؤسسة ميراندا الخصوصية",
+    "AdresseL": "LOT SAAD BERRECHID",
+    "AdresseA": "تجزئة سعد",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ezzohour ALJADIDA",
+    "NOM_ETABA": "الزهور الجديدة الخصوصية",
+    "AdresseL": "1 RUE AL MANAMA LOT AL IRAKIA",
+    "AdresseA": "1 زنقة المنامة تجزئة العراقية",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MAAHAD Wafik",
+    "NOM_ETABA": "معهد وفيق الخصوصي",
+    "AdresseL": "lotissement wafik",
+    "AdresseA": "تجزئة وفيق ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Wifak",
+    "NOM_ETABA": "الوفاق الخصوصية",
+    "AdresseL": "n:171 angle rue  Allal ben abd",
+    "AdresseA": "الرقم 171 زاوية زنقة علال بن ع",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Lalla Mariem",
+    "NOM_ETABA": "للامريم الخصوصية",
+    "AdresseL": "quartier tissir ",
+    "AdresseA": "حي التسيير ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZOUHAIR",
+    "NOM_ETABA": "زهير الخصوصية",
+    "AdresseL": "n 318 rue kaab bn zouhair berr",
+    "AdresseA": "رقم 318 زنقة كعب بن زهير حي ال",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Fadila",
+    "NOM_ETABA": "الفضيلة الخصوصية  ",
+    "AdresseL": "lotissement samira ",
+    "AdresseA": "تجزئة سميرة ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "La pépinière",
+    "NOM_ETABA": " المنبت الخصوصية",
+    "AdresseL": "Route Secondaire 103, AIN SAIE",
+    "AdresseA": "عين سيرني 103 الطريق الثانوية ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe Scolaire ARRAHMANE",
+    "NOM_ETABA": "مجموعة مدارس الرحمن الخصوصية",
+    "AdresseL": "N° 183 hay mOULAy rchid",
+    "AdresseA": "الرقم 183  حي مولاي رشيد",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ecole Rissala pour l Education & la Formation",
+    "NOM_ETABA": "مدرسة الرسالة للتربية والتكوين الخصوصية",
+    "AdresseL": "Lotissement Zahraa65 rue khadi",
+    "AdresseA": "تجزئة الزهراء 65زنقة خديجة بنت",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Yassin",
+    "NOM_ETABA": "يس الخصوصية",
+    "AdresseL": "N°66, Rue Mahmoud Taymour, Hay",
+    "AdresseA": "رقم 66، زنقة تيمور محمود، حي ا",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Abrar",
+    "NOM_ETABA": "الأبرار الخصوصية",
+    "AdresseL": "      17 Av. Alhouria Tissir1",
+    "AdresseA": " الرقم17 شارع الحرية تيسير1",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Gisr",
+    "NOM_ETABA": "الجسر الخصوصية",
+    "AdresseL": " KM 1 Route Ain Sayarni",
+    "AdresseA": "كلم 1 طريق عين سيرني",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LAHBIBA",
+    "NOM_ETABA": "لحبيبة الخصوصية",
+    "AdresseL": "lotissement Zoubida hay Ryad ",
+    "AdresseA": "تجزئة زبيدة",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE César",
+    "NOM_ETABA": "مدرسة سيزار الخصوصية",
+    "AdresseL": "km 1.5 rout ain sayrni",
+    "AdresseA": "طريق عين سيرني كلم 1,5",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SAFA EL MARWA",
+    "NOM_ETABA": "الصفا والمروة الخصوصية",
+    "AdresseL": "Lotissement Al-Fath Quartier R",
+    "AdresseA": "تجزئة الفتح حي الرياض برشيد",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ikram",
+    "NOM_ETABA": "إكرام الخصوصية",
+    "AdresseL": "N° 489 Hay Wafiq",
+    "AdresseA": "الرقم 489 حي وفيق",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE scolaire sanabil el yousr",
+    "NOM_ETABA": "مجموعة مدارس سنابل اليسر الخصوصية",
+    "AdresseL": "hay el yousr rue al masjid",
+    "AdresseA": "حي اليسر زنقة المسجد",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ENNOUSSOUR",
+    "NOM_ETABA": "مدرسة النسور الخصوصية",
+    "AdresseL": "186 BD CHARIF RADI BERRECHID. ",
+    "AdresseA": "شارع الشريف الراضي حي القدس بر",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Errahma",
+    "NOM_ETABA": "الرحمة الخصوصية",
+    "AdresseL": "56, rue ibn zaidoune",
+    "AdresseA": "56, زنقة ابن زيدون",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANBAA ACHALLAL",
+    "NOM_ETABA": "منبع الشلال الخصوصية",
+    "AdresseL": "N° 74 bVD bIR aLI LTS RABIAA",
+    "AdresseA": "رقم  65شارع بئر علي  تجزئة الر",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE FREUD JUNIOR",
+    "NOM_ETABA": "مؤسسة فرويد جينيور الخصوصية",
+    "AdresseL": "N° 448, Lot. Rabie",
+    "AdresseA": "رقم 448  تجزئة الربيع",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE YASSAMINE BERRECHID",
+    "NOM_ETABA": "مدرسة الياسمين برشيد الخصوصية",
+    "AdresseL": "hay ryad rue bouskoura ",
+    "AdresseA": "حي الرياض طريق بوسكورة ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALKARAM",
+    "NOM_ETABA": "مجموعة مدارس الكرم الخصوصية",
+    "AdresseL": "125 loti samira hay Elhoda",
+    "AdresseA": "125 تجزئة سميرة برشيد",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "jalal",
+    "NOM_ETABA": "جلال الخصوصية",
+    "AdresseL": "bouleverd salama moussa lot al",
+    "AdresseA": "شارع سلامة موسى المدنية",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ste rouh madressat albaraim",
+    "NOM_ETABA": "شركة روح مدرسة البراعم الخصوصية",
+    "AdresseL": "78 ragraga berrechid",
+    "AdresseA": "78 تجزئة ركراكة",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "mustapha jabrane",
+    "NOM_ETABA": "مجموعة مدارس مصطفى جبران الخصوصية",
+    "AdresseL": "82 bv abdellah chefchaouni hay",
+    "AdresseA": "الرقم 82 شارع عبد الله الشفشاو",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE SUPERNOVA",
+    "NOM_ETABA": "مؤسسة سوبرنوفا الخصوصية",
+    "AdresseL": "LOTISSEMENT AL FATH",
+    "AdresseA": "تجزئة الفتح",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RYAD AL BAYANEE",
+    "NOM_ETABA": "مؤسسة رياض البيان الخصوصية",
+    "AdresseL": "LOTISSEMENT AL YOUSR 2",
+    "AdresseA": "تجزئة اليسر 2",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIREE DREAM SCHOOL BERRECHID",
+    "NOM_ETABA": "مؤسسة دريم سكول برشيد الخصوصية",
+    "AdresseL": "LOTISSEMENT WAIFIQ N 535",
+    "AdresseA": "تجزئة وفيق رقم 535",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE FIRST CLASS",
+    "NOM_ETABA": "مؤسسة فيرست كلاس الخصوصية",
+    "AdresseL": "10 A LOTISSEMENT SIDI AL HASSA",
+    "AdresseA": "10 أ تجزئة سيدي الحسن 2",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LA CANADIENNE",
+    "NOM_ETABA": "مجموعة مدارس لا كناديين الخصوصية",
+    "AdresseL": "ROUTE EL GARA",
+    "AdresseA": "طريق الكارة",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE MARSAM POUR LE PRESCOLAIRE",
+    "NOM_ETABA": "مؤسسة مرسم الخصوصية للتعليم الأولي",
+    "AdresseL": "COLLECTIVITEE 9 JUILLET N 15 R",
+    "AdresseA": "تعاونية 9 يوليوز رقم 15 زنقة أ",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLEE PIERRE COUBERTIN ACADEMIE",
+    "NOM_ETABA": "مؤسسة بيير كوبرتان أكاديمي الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "تجزئة المنبت",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LES FLEURONS DE L EXCELLENCE",
+    "NOM_ETABA": "مؤسسة لافلورون دو ليكسيلونس الخصوصية",
+    "AdresseL": "av moulay al hassan",
+    "AdresseA": "شارع مولاي الحسن",
+    "COMMUNE": "Berrechid ",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "COLLEGE IFARNI",
+    "NOM_ETABA": "اعدادية افرني",
+    "AdresseL": "COMMUNE IFARNI",
+    "AdresseA": "جماعة افرني",
+    "COMMUNE": "Iferni",
+    "PROVINCE": "Province: Driouch",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BOUGHAZI",
+    "NOM_ETABA": "م.م بوغازي",
+    "AdresseL": "COMMUNE IFERNI CENTRE",
+    "AdresseA": "جماعة افرني",
+    "COMMUNE": "Iferni",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS KHALID IBNOU ALOUALID",
+    "NOM_ETABA": "م م خالد ابن الوليد",
+    "AdresseL": "DOUAR MIDAR ALTO COMMUNE IFERNI",
+    "AdresseA": "دوار ميضار الاعلى جماعة افرني",
+    "COMMUNE": "Iferni",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 20 AOUT",
+    "NOM_ETABA": "م م 20 غشت",
+    "AdresseL": "COMMUNE IFERNI CENTRE",
+    "AdresseA": "جماعة افرني",
+    "COMMUNE": "Iferni",
+    "PROVINCE": "Driouch",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

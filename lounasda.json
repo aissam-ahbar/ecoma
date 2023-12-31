@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "LOUNASDA CENTRE",
+    "NOM_ETABA": "لوناسدة المركزية",
+    "AdresseL": "DOUAR OULED GHANEM LOUNASDA",
+    "AdresseA": "دوار اولاد غانم",
+    "COMMUNE": "Lounasda",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MASJID CENTRE",
+    "NOM_ETABA": "المسجد المركزية",
+    "AdresseL": "DOUAR SEBT COMMUNE LOUNASDA",
+    "AdresseA": "دوار السبت",
+    "COMMUNE": "Lounasda",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT LOUNASDA",
+    "NOM_ETABA": "ثانوية لوناسدة التأهيلية",
+    "AdresseL": "COMMUNE LOUNASDA",
+    "AdresseA": "جماعة لوناسدة",
+    "COMMUNE": "Lounasda",
+    "PROVINCE": "El Kelâa des  S",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

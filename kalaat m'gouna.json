@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "Lycée Collégial Ahnsal",
+    "NOM_ETABA": "الثانوية الإعدادية أحنصال",
+    "AdresseL": "centre kelaa mgouna",
+    "AdresseA": "قلعة امكونة المركز",
+    "COMMUNE": "Kalaat M'Gouna",
+    "PROVINCE": "Province: Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE KALAAT MGOUNA",
+    "NOM_ETABA": "مدرسة قلعة مكونة",
+    "AdresseL": "MUNICIPALITE KALAAT MGOUNA TINGHIR",
+    "AdresseA": "بلدىة قلعة امكونة",
+    "COMMUNE": "Kalaat M'Gouna",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AIT BAAMRANE",
+    "NOM_ETABA": "مدرسة ايت بعمران",
+    "AdresseL": "MUNICIPALITE KALAAT MGOUNA",
+    "AdresseA": "بلدية قلعة مكونة",
+    "COMMUNE": "Kalaat M'Gouna",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS.ELWARDA",
+    "NOM_ETABA": "م.م الوردة",
+    "AdresseL": "MUNICIPALITE KALAAT MGOUNA OUARZZATE",
+    "AdresseA": "قلعة مكونة",
+    "COMMUNE": "Kalaat M'Gouna",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS.ELHARA",
+    "NOM_ETABA": "م.م الحارة",
+    "AdresseL": "MUNICIPALITE KALAAT MGOUNA",
+    "AdresseA": "بلدية قلعة مكونة",
+    "COMMUNE": "Kalaat M'Gouna",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL AMALE",
+    "NOM_ETABA": "مدرسة الأمل",
+    "AdresseL": "kelaa m gouna",
+    "AdresseA": "قلعة مكونة",
+    "COMMUNE": "Kalaat M'Gouna",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT EL OUROUD",
+    "NOM_ETABA": "الثانوية التأهيلية الورود",
+    "AdresseL": "KALAAT MGOUNA TINGHIR",
+    "AdresseA": "قلعة مكونة تنغير",
+    "COMMUNE": "Kalaat M'Gouna",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT  MOULAY BA AMRANE",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي باعمران",
+    "AdresseL": "MUNICIPALITE KELAAT M GOUNA ",
+    "AdresseA": "بلدية قلعة امكونة",
+    "COMMUNE": "Kalaat M'Gouna",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "kalaat mgouna",
+    "NOM_ETABA": "قلعة مكونة",
+    "AdresseL": "",
+    "AdresseA": "حي الوردة",
+    "COMMUNE": "Kalaat M'Gouna ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Etablissement annajah",
+    "NOM_ETABA": "مؤسسة النجاح",
+    "AdresseL": "hay ennahda N°2 KELAAT M GOUNA",
+    "AdresseA": "حي النهضة رقم 2 قلعة مكونة",
+    "COMMUNE": "Kalaat M'Gouna ",
+    "PROVINCE": "Tinghir",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIVE"
+  }
+]

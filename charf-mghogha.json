@@ -1,0 +1,1202 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN TOUMART",
+    "NOM_ETABA": "الثانوية الاعدادية ابن تومرت",
+    "AdresseL": "GRANDE MGHOUAGHA COMMUNE CHARF",
+    "AdresseA": "حي مغوغة طريق تطوان",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SAKIA LHAMRA",
+    "NOM_ETABA": "الثانوية الاعدادية الساقية الحمراء",
+    "AdresseL": "HAY TANJAH BALIA rue 50 COMMUNE CHARF",
+    "AdresseA": "زنقة 50طنجة البالية جماعة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ATLAS ",
+    "NOM_ETABA": "الثانوية الاعدادية الأطلس",
+    "AdresseL": "ROUTE EL AOUAMA COMMUNE CHARF mroura",
+    "AdresseA": "عشوبة 3 طنجة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL AKKAD",
+    "NOM_ETABA": "الثانوية الاعدادية العقاد",
+    "AdresseL": "ROUTE EL AOUAMA COMMUNE CHARF",
+    "AdresseA": "شارع القدس طريق العوامة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHALIJ TANJAH",
+    "NOM_ETABA": "الثانوية الاعدادية خليج طنجة",
+    "AdresseL": "RUE SANTANDER HAY ALI BAY BP706 COMMUNE CHARF",
+    "AdresseA": "شارع سانطاندير علي باي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ZAMAKHCHARI",
+    "NOM_ETABA": "الثانوية الاعدادية الزمخشري",
+    "AdresseL": "RUE ABDELKHALEK TORRES BOUHOUT COMMUNE CHARF MGHOU",
+    "AdresseA": "  شارع عبد الخالق الطريس حي بوحوت طنجة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDRISS II",
+    "NOM_ETABA": "الثانوية الاعدادية إدريس الثاني",
+    "AdresseL": "QUARTIER BELLE VUE RTE DE TETOUAN COMMUNE CHARF",
+    "AdresseA": "حي المنظر الجميل طريق تطوان ص.ب 117",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OMAR ELKHAYYAM",
+    "NOM_ETABA": "الثانوية الإعدادية عمر الخيام",
+    "AdresseL": "mghogha sghira",
+    "AdresseA": "مغوغة الصغيرة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABOU KACEM AL CHABBI",
+    "NOM_ETABA": "الثانوية الاعدادية أبو القاسم الشابي",
+    "AdresseL": "TANJAH BALIA",
+    "AdresseA": "طنجة البالية",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCCE COLLEGIAL MALEK FAHD IBN ABDELAZIZ",
+    "NOM_ETABA": "ثانوية الملك فهد ابن عبد العزيز الاعدادية",
+    "AdresseL": "COLLINE CHARF COMMUNE CHARF",
+    "AdresseA": "شارع يعقوب المنصور هضبة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LALLA KHADIJA",
+    "NOM_ETABA": "الثانوية الاعدادية لالة خديجة",
+    "AdresseL": "lot al ikhlasse route de tetouan",
+    "AdresseA": "تجزئة الاخلاص طريق تطوان ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDERRAHMANE ELYOUSFI",
+    "NOM_ETABA": "الثانوية الاعدادية عبد الرحمان اليوسفي",
+    "AdresseL": "mghogha Kebira route de tetouan tanger",
+    "AdresseA": " مغوغة الكبيرة طريق تطوان طنجة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ASSANIA",
+    "NOM_ETABA": "الثانوية الاعدادية السانية",
+    "AdresseL": "Quartier Assania",
+    "AdresseA": "حي السانية",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUSSA BEN NOUSSAIR",
+    "NOM_ETABA": "مدرسة موسى بن نصير الابتدائية",
+    "AdresseL": "HAY ANDALOUS COMMUNE CHARF",
+    "AdresseA": "حي الاندلس شارع عمرالمختار الادريسية 1",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHADIJA OUM MOUMININE",
+    "NOM_ETABA": "مدرسة خديجة أم المؤمنين الابتدائية",
+    "AdresseL": "AVENUE MOULAY SLIMAN COMMUNE CHARF",
+    "AdresseA": "شارع مولاي سليمان بني مكادة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUELADA",
+    "NOM_ETABA": "مدرسة ولادة الابتدائية",
+    "AdresseL": "PLACE TAFILALT R OUIDA COMMUNE CHARF",
+    "AdresseA": "ساحة تافيلالت بني مكادة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIJILMASSA",
+    "NOM_ETABA": "مدرسة سجلماسة الابتدائية",
+    "AdresseL": "AVENUE MOULAY SLIMAN HAY RODA COMMUNE CHARF",
+    "AdresseA": "شارع مولاي سليمان حي الروضة جماعة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBNOU HAZM",
+    "NOM_ETABA": "مدرسة ابن حزم الابتدائية",
+    "AdresseL": "HAY BOUHOUT COMMUNE CHARF",
+    "AdresseA": "حي بوحوت",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL ADARISSA",
+    "NOM_ETABA": " مدرسة الأدارسة الابتدائية",
+    "AdresseL": "BOUHOUT rue masoudi  COMMUNE CHARF",
+    "AdresseA": "بوحوت زنقة المسعودي جماعة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KACEM BEN IDRISS",
+    "NOM_ETABA": "مدرسة قاسم بن إدريس الابتدائية",
+    "AdresseL": "QUARTIER IDRISSIA 2 COMMUNE CHARF",
+    "AdresseA": "حي البختي الإدريسية 2",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM EL GHAZALI",
+    "NOM_ETABA": "مدرسة الإمام الغزالي الابتدائية",
+    "AdresseL": " BELLE VUE RUE SAIDENA HAMZA COMMUNE MGHOGHA TANGE",
+    "AdresseA": "المنظر الجميل زنقة سيدنا حمزة  جماعة الشرف ـ امغوغ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IDRISS PREMIER",
+    "NOM_ETABA": "مدرسة إدريس الأول الابتدائية",
+    "AdresseL": "HAY TANJAH BALIA COMMUNE CHARF",
+    "AdresseA": "طنجة البالية جماعة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAHID MOHAMED ZERKTOUNI",
+    "NOM_ETABA": " مدرسة الشهيد محمد الزرقطوني الابتدائية",
+    "AdresseL": "PLACA DE TORRO COMMUNE CHARF",
+    "AdresseA": "ساحة الثيران طريق العوامة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI AHMED BEN AJIBA",
+    "NOM_ETABA": "مدرسة سيدي أحمد بن عجيبة الابتدائية",
+    "AdresseL": "GRANDE MGHOUGHA COMMUNE CHARF mghougha",
+    "AdresseA": "طريق  تطوان كلم 7 مغوغة الكبيرة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHRIF MOHAMED AMEZIANE",
+    "NOM_ETABA": "مدرسة الشريف محمد امزيان الابتدائية",
+    "AdresseL": "SANIA JADIDA COMMUNE CHARF",
+    "AdresseA": "السانية الجديدة مغوغة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MEHDI IBN TOUMERT",
+    "NOM_ETABA": "مدرسة المهدي بن تومرت الابتدائية",
+    "AdresseL": "avenue abou chama LOTISSEMENT DAOULA Beni makada",
+    "AdresseA": "شارع أبو شامة أرض الدولة بني مكادة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SALAH EDDINE AYOUBI",
+    "NOM_ETABA": "مدرسة صلاح الدين الأيوبي الابتدائية",
+    "AdresseL": "HAY BENKIRANE COMMUNE CHARF",
+    "AdresseA": "حي بنكيران  جماعة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL WAHA",
+    "NOM_ETABA": "مدرسة الواحة الابتدائية",
+    "AdresseL": "M GHOUGHA SGHIRA COMMUNE CHARF",
+    "AdresseA": "مغوغة الصغيرة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL IRCHAD",
+    "NOM_ETABA": "مدرسة الإرشاد الابتدائية",
+    "AdresseL": "RUE FEKIH KERDOUDI HAY BENKIRANE COMMUNE CHARF",
+    "AdresseA": "حي بنكيران شارع الكردودي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  KHALID MECHBAL",
+    "NOM_ETABA": "مدرسة خالد مشبال الابتدائية",
+    "AdresseL": "DOUAR AZIB ABAKKIOU  COMMUNE charf mghougha",
+    "AdresseA": "دوار العزيب ابقيو",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAAYOUNE",
+    "NOM_ETABA": " مدرسة العيون الابتدائية",
+    "AdresseL": "HAY BENKIRANE COMMUNE CHARF",
+    "AdresseA": "تجزئة الضحى 2 حي بنكيران",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BADR",
+    "NOM_ETABA": " مدرسة بدر الابتدائية",
+    "AdresseL": "ROUTE EL AOUAMA COMMUNE CHARF",
+    "AdresseA": "تجزئة المهدي زنقة الشهيدة عائشة البرني",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZALAKA",
+    "NOM_ETABA": "مدرسة الزلاقة الابتدائية",
+    "AdresseL": "LOTISSEMENT NAHDA COMMUNE CHARF",
+    "AdresseA": "تجزئة النهضة جماعة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHAKIB ARSALANE",
+    "NOM_ETABA": " مدرسة شكيب أرسلان الابتدائية",
+    "AdresseL": "COLLINE CHARF COMMUNE CHARF",
+    "AdresseA": "الزنقة5 حي الشرف ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM ALI",
+    "NOM_ETABA": "مدرسة الإمام علي الابتدائية",
+    "AdresseL": " M GHOUGHA ljadida COMMUNE CHARF",
+    "AdresseA": "حي مغوغة الجديدة جماعة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  JAHID",
+    "NOM_ETABA": "مدرسة الجاحظ الابتدائية",
+    "AdresseL": "HAY TANJAH BALIA COMMUNE CHARF",
+    "AdresseA": " طنجة البالية جماعة الشرف  - مغوغة ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL IMAM ACHATIBI",
+    "NOM_ETABA": "مجموعة مدارس الامام الشاطبي",
+    "AdresseL": "HAY KHREB COM CHARFMGHOGHA",
+    "AdresseA": "حي الخرب مقاطعة الشرف مغوغة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL IKHLASSE",
+    "NOM_ETABA": "  مدرسة الاخلاص الابتدائية",
+    "AdresseL": " lot al ikhlasse route de tetouan MGHOUGHA",
+    "AdresseA": "تجزئة الاخلاص طريق تطوان",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU BAKR ASSADIK",
+    "NOM_ETABA": " مدرسة ابو بكر الصديق الابتدائية",
+    "AdresseL": "lot kanouni mghogha",
+    "AdresseA": "تجزئة كانوني مغوغة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OTTMANE IBN AFFANE",
+    "NOM_ETABA": "مدرسة عثمان بن عفان الابتدائية",
+    "AdresseL": "Quartier Zaidiyine",
+    "AdresseA": "حي الزيديين",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IMAM CHADILI",
+    "NOM_ETABA": "مدرسة الإمام الشاذلي الابتدائية",
+    "AdresseL": "tanja balia sania wikaya",
+    "AdresseA": " السانية وقاية طنجة البالية",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAKADDOUM",
+    "NOM_ETABA": "مدرسة التقدم الابتدائية",
+    "AdresseL": "TANJAH BALIA",
+    "AdresseA": "طنجة البالية",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MAARIFA",
+    "NOM_ETABA": "مدرسة المعرفة الابتدائية",
+    "AdresseL": "MGHOGHA KEBIRA",
+    "AdresseA": "مغوغة الكبيرة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBN ZOHR",
+    "NOM_ETABA": "الثانوية التاهيلية ابن زهر",
+    "AdresseL": "TANJAH BALIA",
+    "AdresseA": "طنجة البالية",
+    "COMMUNE": "Charf-Mghogha ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOULAY ALI CHRIF",
+    "NOM_ETABA": "الثانوية التأهيلية مولاي علي الشريف",
+    "AdresseL": "MGHOGHA KEBIRA",
+    "AdresseA": "مغوغة الكبيرة",
+    "COMMUNE": "Charf-Mghogha ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDELMOUMEN EL MOUAHIDI",
+    "NOM_ETABA": "الثانوية التأهيلية عبد المومن الموحدي",
+    "AdresseL": "Rue tetouan Hay amal3",
+    "AdresseA": "طريق تطوان حي الامل3",
+    "COMMUNE": "Charf-Mghogha ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ROI FAHD IBN ABDELLAZIZ",
+    "NOM_ETABA": "الثانوية التأهيلية الملك فهد بن عبد العزيز",
+    "AdresseL": "COLLINE CHARF COMMUNE CHARF",
+    "AdresseA": "شارع يعقوب المنصور هضبة الشرف",
+    "COMMUNE": "Charf-Mghogha ",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "JIL ATTAHADI",
+    "NOM_ETABA": "جيل التحدي",
+    "AdresseL": "rue ahmed skerdj n 22 sourienn",
+    "AdresseA": "رقم 22 زنقةأحمد السكيرج ، السو",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire alfadlII",
+    "NOM_ETABA": "المجموعة المدرسية الفضل 2",
+    "AdresseL": "",
+    "AdresseA": "زنقة حطين رقم 12 الادريسبة 2",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GENERATION CULTURE",
+    "NOM_ETABA": "جينيراسيون كولتور",
+    "AdresseL": "COMPLEXE HAMZA MGHOUGHA TANGER",
+    "AdresseA": "مجمع حمزة  مغوغة  طنجة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "esafa",
+    "NOM_ETABA": "الصفا",
+    "AdresseL": "av al alia. rue ibn al kadi n°",
+    "AdresseA": "حي العالية، زنقة ابن القاضي رق",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LE PHARE",
+    "NOM_ETABA": "المجموعة المدرسية لوفار",
+    "AdresseL": "tanga balia,lotissement Ennakh",
+    "AdresseA": "تجزئة النخيل طنجة البالية طنجة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE al azhar",
+    "NOM_ETABA": "المجموعة المدرسية الأزهار",
+    "AdresseL": "rue ibn jaroum nzaha,villa sal",
+    "AdresseA": "زنقة ابن جروم تجزة النزتهة فيل",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL NAWABIGH",
+    "NOM_ETABA": "النوابغ",
+    "AdresseL": "lot las colinas n°40",
+    "AdresseA": "40 تجزئة لاس كوليناس طنجة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "JANAT SIGHAR",
+    "NOM_ETABA": "جنة الصغار",
+    "AdresseL": "LOTS EL ANDALOUS LOT NO 193 TA",
+    "AdresseA": "تجزئة الأندلس قطعة 193",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "group scolaire HAFSA .sarl",
+    "NOM_ETABA": "مجموعة مدارس حفصة الخصوصية",
+    "AdresseL": "n°12 avenue allal elfasi . bel",
+    "AdresseA": "رقم 12 شارع علال الفاسي  المنظ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KOUNOUZ AL MAARIFA",
+    "NOM_ETABA": "كنوز المعرفة",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 69 الزنقة 36 حي للا مسعودة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT VOILIER",
+    "NOM_ETABA": "لو بوتي فواليي",
+    "AdresseL": "17, rue Ibn Sebbagh. Las Colli",
+    "AdresseA": "رقم 17 زنقة ابن الصياغ السوريي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL FOLK",
+    "NOM_ETABA": "الفلك",
+    "AdresseL": "n° 19 route la batoire charf",
+    "AdresseA": "رقم 19 طريق المجزرة  الشرف ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA BONNE VOIE",
+    "NOM_ETABA": "لابون فوا",
+    "AdresseL": "17 N-8 FATIMA ZOHRA",
+    "AdresseA": "رقم 8 الزنقة 17 حي فاطمة الزهر",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FELLAJI",
+    "NOM_ETABA": "الفلاجي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 30 شارع أحمد سكيرج السوريي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MOUNJID",
+    "NOM_ETABA": "مجموعة مدارس المنجد",
+    "AdresseL": "rico costa tanja balia",
+    "AdresseA": "ريكوكوسطا طنجة البالبة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANARAT AL HOUDA",
+    "NOM_ETABA": "منارة الهدى",
+    "AdresseL": "lOT.Mediteranée-lot767",
+    "AdresseA": "تجزئة البحر الأبيض المتوسط. رق",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ALTAFATOH",
+    "NOM_ETABA": "التفتح",
+    "AdresseL": "n° 1 a doha al ikhlass immeubl",
+    "AdresseA": "رقم 1 الضحى الإخلاص عمارة 47 ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE EL HAYAT",
+    "NOM_ETABA": "مجموعة مدارس الحياة",
+    "AdresseL": "LOT KORBOU TANJA BALIA 7",
+    "AdresseA": "تجزئة كوربو طنجة البالية 7",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "rissalat essalam",
+    "NOM_ETABA": "رسالة السلام",
+    "AdresseL": "Quartier nezaha rue ibn atiya ",
+    "AdresseA": "النزاهة، زنقة إبن عطية رقم 2أ ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "dounia al ajial",
+    "NOM_ETABA": "دنيا الأجيال",
+    "AdresseL": "AV Chikh maoulay el arbi el al",
+    "AdresseA": "شارع الشيخ مولاي العربي العلوي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "zahrae cordoba",
+    "NOM_ETABA": "زهراء قرطبة",
+    "AdresseL": "quartier syrienne rue Moulay e",
+    "AdresseA": "حي السوريين زنقة   مولاي العرب",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "makarim",
+    "NOM_ETABA": "مكارم",
+    "AdresseL": "route de tetouan copl.ibn btto",
+    "AdresseA": "طريق تطوان ،مركب إبن بطوطة،بلو",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al mabarra",
+    "NOM_ETABA": "المبرة",
+    "AdresseL": "Rue ahmed skirej num 27 souriy",
+    "AdresseA": "شارع أحمد سكيرج حي السوريين رق",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire Al fadle",
+    "NOM_ETABA": "المجموعة المدرسية الفضل",
+    "AdresseL": "av.allal el fasi. belle vue n°",
+    "AdresseA": "شارع علال الفاسي، المنظر الجمي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "malabata hill school",
+    "NOM_ETABA": "مالاباطا هيل سكول",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة ميرامار رقم 9",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole Amiral",
+    "NOM_ETABA": "مدرسة اميرال الخصوصية",
+    "AdresseL": "lot.méditerrannée n°76 tanja b",
+    "AdresseA": "تجزئة البحر الابيض المتوسط رقم",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HAKL AL MAARIFA",
+    "NOM_ETABA": "حقل المعرفة الخصوصية",
+    "AdresseL": "tanja balia mghogha",
+    "AdresseA": "طنجة البالية مقاطعة امغوغة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ZAHRAE AL ANDALOUSSE",
+    "NOM_ETABA": "زهراء الأندلس",
+    "AdresseL": "NULL",
+    "AdresseA": "زنقة شاطئ تاركة .تجزئة البحر ا",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BORJ AL OULOUM",
+    "NOM_ETABA": "مجموعة مدارس برج العلوم الخصوصية",
+    "AdresseL": "lot jamila rue hassan el youss",
+    "AdresseA": "تجزئة جميل زنقة الحسن اليوسي ر",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ibn safwane ",
+    "NOM_ETABA": "ابن صفوان الخصوصية",
+    "AdresseL": "",
+    "AdresseA": "زنقة خناتة المغفري رقم 26",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE SCIENTIFIQUE AL FADL III",
+    "NOM_ETABA": "الثانوية العلمية الفضل III الخصوصية",
+    "AdresseL": "N0  1  route de tetouan  belle",
+    "AdresseA": "زنقة 29 رقم 1 طريق تطوان ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole des competences",
+    "NOM_ETABA": "كومبيتونص",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 19 زنقة ابي القاسم التادلي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT EUGENE DELACROIX",
+    "NOM_ETABA": "معهد أوجين دولاكروا الخصوصية",
+    "AdresseL": "14 rue ahmed tadili Tanger",
+    "AdresseA": "رقم 14 زنقة أحمد التادلي،السور",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL YOUNOUSSY ",
+    "NOM_ETABA": "الينوسي الخصوصية",
+    "AdresseL": "QUARTIER NAZAHA RUE IBNO HANIN",
+    "AdresseA": "3 زنقة ابن حنين،حي النزاهة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HENRI WALLON",
+    "NOM_ETABA": "هنري  فالون",
+    "AdresseL": "n°20 avenue principale bellavi",
+    "AdresseA": "الشارع الرئيسي فيلا فيسطا رقم ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE RISSALAT AL AMALE",
+    "NOM_ETABA": "مؤسسة رسالة الأمل الخاصة",
+    "AdresseL": "NULL",
+    "AdresseA": "طنجة البالية حي الشاط زنقة 10 ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "HENRI WALLON 2",
+    "NOM_ETABA": "هنري فالون 2",
+    "AdresseL": "N°9, Rue 11, Bellavista , TANG",
+    "AdresseA": "فيلا فيسطا فيلا رقم 11",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYTEX",
+    "NOM_ETABA": "ليتكس الخصوصية",
+    "AdresseL": "Rue moulay larbi laalaoui N°1 ",
+    "AdresseA": "زنقة الشيخ مولاي العربي العلوي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE SAMUEL BECKETT",
+    "NOM_ETABA": "مدرسة سامويل بيكيت",
+    "AdresseL": "NULL",
+    "AdresseA": "تجزئة طنجيس رقم 4 طنجة البالية",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MANDARINE",
+    "NOM_ETABA": "مدرسة ماندرين",
+    "AdresseL": "4 Rue Ahmed El Mokri Drissia",
+    "AdresseA": " حي الادريسية زنقة احمد المقري",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA RAISON",
+    "NOM_ETABA": "لا غيزون الخصوصية",
+    "AdresseL": "N°6, Rue 15, bella vista, mala",
+    "AdresseA": "شارع 14  رقم 6 بيلا فيستا ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE JIL ATTAHADI",
+    "NOM_ETABA": "المجموعة المدرسية جيل التحدي الخصوصية",
+    "AdresseL": " charf rue yaakob mansor n 38 ",
+    "AdresseA": "حي الشرف شارع يعقوب المنصور رق",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Al Oula",
+    "NOM_ETABA": "العـلا",
+    "AdresseL": "N° 86, Hay Nzaha, Souriyine - ",
+    "AdresseA": "حي النزاهة السوريين، رقم 86",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Avenir salame",
+    "NOM_ETABA": "مستقبل السلام",
+    "AdresseL": "N° 33, Boulevard Ahmed Tadili,",
+    "AdresseA": "رقم 33، شارع أحمد التادلي، الس",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Ibn Tofail",
+    "NOM_ETABA": "ابن طفيل",
+    "AdresseL": "N° 7, Rue Ahmed Tadli - QUARTI",
+    "AdresseA": "رقم 7، زنقة أحمد التادلي، حي ا",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SocratE",
+    "NOM_ETABA": "سقـراط",
+    "AdresseL": "KM 1 ROUTE DE TETOUAN N°32 TAN",
+    "AdresseA": "كلم 1، طريق تطوان رقم 32 طنجة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL BAYROUNI",
+    "NOM_ETABA": "البيروني",
+    "AdresseL": "Rue Tak Eddine Hilali N° 16, H",
+    "AdresseA": "زنقة تقي الدين الهيلالي، رقم 1",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Henri Poincaré",
+    "NOM_ETABA": "هنري بـوانكري",
+    "AdresseL": "Boulevard Allal Fassi, N° 16 -",
+    "AdresseA": "شارع علال الفاسي، رقم 16 - ج.ح",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES SCIENCES",
+    "NOM_ETABA": "مجموعة مدارس العلوم",
+    "AdresseL": " Rue ghazouat Bani Lmostalek, ",
+    "AdresseA": "شارع غزوة بني المصطلق، الإدريس",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LA NOUVELLE ERE",
+    "NOM_ETABA": "لا نوفيل ايغ الخصوصية",
+    "AdresseL": "Lotissement 26 KhAlij Tanjah R",
+    "AdresseA": "تجزئة  26 خليج طنجة الطريق الر",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Nour Al-Imane",
+    "NOM_ETABA": "نور الايمان",
+    "AdresseL": "Rue Ibn Attia, N° 2 Charf",
+    "AdresseA": "زنقة ابن عطية، رقم 2، الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Riad Al Maarifa",
+    "NOM_ETABA": "رياض المعرفة",
+    "AdresseL": "N° 28, Rue Ibn Aachir, Manzeh ",
+    "AdresseA": "رقم28، زنقة ابن عاشر، منزه الم",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": " Jil Najah",
+    "NOM_ETABA": "جيل النجاح",
+    "AdresseL": "Bd. Yacoub El Mansour, Rue Cha",
+    "AdresseA": "شارع يعقوب المنصور، زنقة الشرف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "aliskandaria ",
+    "NOM_ETABA": "مؤسسة الاسكندرية",
+    "AdresseL": "N° 114, Bd. Tarik Ibn Ziad, Id",
+    "AdresseA": "رقم 114، شارع طارق بن زياد، ال",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Hassad 1",
+    "NOM_ETABA": "الحصاد 1",
+    "AdresseL": "Boulevard Provence, N° 6 Beni ",
+    "AdresseA": "شارع بروفنس رقم 6، بني مكادة -",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANOUAL",
+    "NOM_ETABA": "أنوال الخصوصية",
+    "AdresseL": "N° 2, Boulevard Allal Fassi - ",
+    "AdresseA": "رقم 2، شارع علال الفاسي - ج, ح",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MAHD",
+    "NOM_ETABA": "المهد",
+    "AdresseL": "30,Rue Mallorca,Villa Alba,Hay",
+    "AdresseA": "30 ، شارع مايوركا، فيلا ألبا، ",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "FLEMING SCHOOL M.B.T",
+    "NOM_ETABA": "فليمين سكول م.ب.ت",
+    "AdresseL": "Lot. Menzah El Mokri, Route de",
+    "AdresseA": "تجزئة منزه المقري، طريق تطوان،",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Konouz",
+    "NOM_ETABA": "كنوز",
+    "AdresseL": "Route Malabat, N° 14",
+    "AdresseA": "طريق مالاباطا، رقم 14",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IBN TOFAIL 2",
+    "NOM_ETABA": "ابن طفيل 2 الخصوصية",
+    "AdresseL": "n°5 RUE AHMED SKIREJ",
+    "AdresseA": "رقم 5 زنقة أحمد سكيرج",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR AL IMANE ANNEXE",
+    "NOM_ETABA": "نور الإيمان الملحقة",
+    "AdresseL": "Rue Ibn Khateb N°4",
+    "AdresseA": "شارع ابن الخطيب رقم 4",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ATTARIK",
+    "NOM_ETABA": "الطريق",
+    "AdresseL": "rue takieddine hilali n°18 nza",
+    "AdresseA": "شارع تقي الدين الهلال رقم 18 ح",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE NILUFER",
+    "NOM_ETABA": "المجموعة المدرسية نيلوفر الخصوصية",
+    "AdresseL": "33, Rue Cheikh meyyara, nzaha,",
+    "AdresseA": "شارع الشيخ ميارة، 33، النزاهة،",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT MOSTAKBAL ASSALAM 2",
+    "NOM_ETABA": "مؤسسة مستقبل السلام 2 الخصوصية",
+    "AdresseL": "N°2 RUE AHMAD ATTADILI -SOURII",
+    "AdresseA": "رقم2 زنقة أحمد التادلي السوريي",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "al miza",
+    "NOM_ETABA": "الميزة",
+    "AdresseL": "hay nahda num 132 dar tounsi",
+    "AdresseA": "تجزئة النهضة رقم 132 دار التون",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL-MADARISS AL-MAGHRIBIYA",
+    "NOM_ETABA": "مجموعة المدارس المغربية الخاصة",
+    "AdresseL": "LOT ENEZAHA RUE TAQEY EDDIN EL",
+    "AdresseA": "حي النزاهة زنقة تقي الدين الهل",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE MME MARIA TANGER",
+    "NOM_ETABA": "مدرسة مدام مرية طنجة",
+    "AdresseL": "RUE IBN NACER EDDAREI",
+    "AdresseA": "زنقة ابن ناصر الدرعي حي السوري",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE DOUAE LAHLOU",
+    "NOM_ETABA": "مجموعة مدارس دعاء الحلو",
+    "AdresseL": "N° 25 rue Ahmed skirej, Route ",
+    "AdresseA": "طريق تطوان زنقة احمد السكيرج ف",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL ANFALE",
+    "NOM_ETABA": "الانفال الخصوصية",
+    "AdresseL": "106 RUE YACOUB EL MANSOUR LOT ",
+    "AdresseA": "106 زنقة يعقوب المنصور تجزئة ب",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE TALAEIE AL MOSTAKBAL",
+    "NOM_ETABA": "مؤسسة طلائع المستقبل",
+    "AdresseL": "NULL",
+    "AdresseA": "طنجة",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAYT AL ATFAAL MONTESSORI",
+    "NOM_ETABA": "بيت الأطفال مونتيسوري",
+    "AdresseL": "NULL",
+    "AdresseA": "علي باي زنقة طاراغونا 19",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KIDZ SPOT",
+    "NOM_ETABA": "كيدز سبوت",
+    "AdresseL": "RUE AHMED SKIREJ LOT. GARDEN C",
+    "AdresseA": "زنقة أحمد سكيرج تجزئة جاردن كو",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ESSOR",
+    "NOM_ETABA": "المجموعة المدرسية إصور",
+    "AdresseL": "RUE 16 LABAY TANGER LOT.88",
+    "AdresseA": "زنقة 16 لاباي طنجة تجزئة 88",
+    "COMMUNE": "Charf-Mghogha",
+    "PROVINCE": "Tanger-Assila",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIVE"
+  }
+]

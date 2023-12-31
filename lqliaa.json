@@ -1,0 +1,382 @@
+[
+  {
+    "NOM_ETABL": "LYCEE AL KHAWARIZMI COLLEGIAL",
+    "NOM_ETABA": "ثانوية الخوارزمي الإعدادية",
+    "AdresseL": "LQLIAA CENTRE        LQLIAA",
+    "AdresseA": "مركز القليعة      القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE ALAOUINE COLLEGIAL",
+    "NOM_ETABA": " ثانوية العلويين الإعدادية",
+    "AdresseL": "LQLIAA CENTRE",
+    "AdresseA": "القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE ALMANFLOTI COLLEGIAL",
+    "NOM_ETABA": "ثانوية المنفلوطي الإعدادية",
+    "AdresseL": "Cité talaint",
+    "AdresseA": "حي تلعينت القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABD EL MOUMENE COLLEGIAL ",
+    "NOM_ETABA": "ثانوية عبد المومن الإعدادية",
+    "AdresseL": "HAY LAAZIB;LQLIAA",
+    "AdresseA": "حي العزيب، القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE BNOU SINA COLLEGIAL",
+    "NOM_ETABA": "ثانوية ابن سينا الإعدادية",
+    "AdresseL": "lqliaa",
+    "AdresseA": "القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "C EL HANSALI",
+    "NOM_ETABA": "ثانوية الحنصالي الإعدادية",
+    "AdresseL": "DOUAR JNANE LQLIAA",
+    "AdresseA": "دوار الجنان القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL BAYROUNI COLLEGIAL ",
+    "NOM_ETABA": "ثانوية البيروني الإعدادية",
+    "AdresseL": "DOUAR JNANE LQLIAA",
+    "AdresseA": "دوار الجنان القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE ACHARIF ALIDRISSI",
+    "NOM_ETABA": "مدرسة الشريف الادريسي",
+    "AdresseL": "DOUAR LOQLIAA LQLIAA",
+    "AdresseA": "دوار القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALHIKMAH",
+    "NOM_ETABA": "مدرسة الحكمة",
+    "AdresseL": "DOUAR LAAZIBE  LQLIAA",
+    "AdresseA": "دوار العزيب",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE LAAOUINA",
+    "NOM_ETABA": "مدرسة العوينة",
+    "AdresseL": "DOUAR LAKHMAISSE   LAQLIAA",
+    "AdresseA": "دوار الخمايس",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ALIZDIHAR",
+    "NOM_ETABA": "مدرسة الازدهار",
+    "AdresseL": "DOUAR BEN ANFARE LQLIAA",
+    "AdresseA": "دوار بنعنفر",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ELMANAR",
+    "NOM_ETABA": "مدرسة المنار",
+    "AdresseL": "DOUAR BEN ANFAR  COMMUNE LQLIAA",
+    "AdresseA": "دوار بنعنفر",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JIHAD",
+    "NOM_ETABA": "مدرسة الجهاد",
+    "AdresseL": "DOUAR  benaafere  LQLIAA",
+    "AdresseA": "حي الجهاد - دوار بنعنفر - القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE WIFAQ",
+    "NOM_ETABA": "مدرسة الوفاق",
+    "AdresseL": "LQLIAA fokania LQLIAA",
+    "AdresseA": "القليعة الفوقانية",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUAD EL MAKHAZINE",
+    "NOM_ETABA": "مدرسة وادي المخازن",
+    "AdresseL": "DOUAR BENAANFAR  LQLIAA",
+    "AdresseA": "دوار بنعنفر",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E ABI BAKKR ESSEDIK",
+    "NOM_ETABA": "مدرسة أبي بكر الصديق",
+    "AdresseL": "lqlaiaa centre",
+    "AdresseA": "القليعة المركز",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E AMINA BINTOU OUAHB",
+    "NOM_ETABA": "مدرسة امنة بنت وهب",
+    "AdresseL": "lqliaa",
+    "AdresseA": "القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "E IBN ERROMI",
+    "NOM_ETABA": "مدرسة ابن الرومي",
+    "AdresseL": "SAHEL ELKHMAISS",
+    "AdresseA": "ساحل الخمايس",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ATTAKADOM",
+    "NOM_ETABA": "مدرسة التقدم",
+    "AdresseL": "Cité talaint Lqliaa",
+    "AdresseA": "حي تلعينت1القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE ANWAL",
+    "NOM_ETABA": "مدرسة أنوال",
+    "AdresseL": "CENTRE LQLIAA",
+    "AdresseA": "مركز القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABOU MOUSSA AL-ACHARI QUALIFIANT ",
+    "NOM_ETABA": "ثانوية أبو موسى الأشعري التأهيلية",
+    "AdresseL": "LQLIAA Hay jnane",
+    "AdresseA": " حي الجنان القليعة الفوقانية",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE ABDELLAH GUENNOUN QUALIFIANT ",
+    "NOM_ETABA": "ثانوية عبد الله گنون التأهيلية",
+    "AdresseL": "HAY EL AINE ;LQLIAA",
+    "AdresseA": "حي العين القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE AL FATH QUALIFIANT",
+    "NOM_ETABA": "ثانوية الفتح التأهيلية",
+    "AdresseL": "TALIINT LQLIAA",
+    "AdresseA": "تالعينت القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE EL MAARI QUALIFIANT",
+    "NOM_ETABA": "ثانوية المعري التأهيلية",
+    "AdresseL": "LQLIAA",
+    "AdresseA": "القليعة",
+    "COMMUNE": "Lqliaa",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "IQRA 2",
+    "NOM_ETABA": "إقرأ 2 الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "الطريق الرئيسية القليعة",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT OUDAOUD",
+    "NOM_ETABA": "مؤسسة أوداود الخصوصية",
+    "AdresseL": "NULL",
+    "AdresseA": "حي عريبات، جماعة القليعة.",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT EL BARHOUMI PRESCOLAIRE ",
+    "NOM_ETABA": "مؤسسة البرهومي للتعليم الأولي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "حي موريس القليعة ",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION ACADEMIE DU SAVOIR",
+    "NOM_ETABA": "مؤسسة أكاديمية المعرفة الخصوصية",
+    "AdresseL": "N°224; QUARTIER MILK LKHIR; LQ",
+    "AdresseA": "رقم 224،  حي ملك الخير، القليع",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOULAY SAID",
+    "NOM_ETABA": "مولاي سعيد الخصوصية",
+    "AdresseL": "LQLIAA LFOQANIA RUE principale",
+    "AdresseA": "القليعة الفوقانية طريق الرئيسي",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IHSsANE",
+    "NOM_ETABA": "إحسان للتعليم الخصوصي",
+    "AdresseL": "37 LoTissement elhana qleaa 80",
+    "AdresseA": " 37 تجزئة الهناء",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ACHAHROUR",
+    "NOM_ETABA": " أشحرور الخصوصية",
+    "AdresseL": "hay boutare laâine ",
+    "AdresseA": "حي بوتار العين",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJYAL SOUSS",
+    "NOM_ETABA": "  أجيال سوس الخصوصية",
+    "AdresseL": "lot. al ouahda.hay al azrak lq",
+    "AdresseA": "    تجزئة الوحدة حي الازرق الق",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SOuSS ALALIMA",
+    "NOM_ETABA": "سوس العالمة الخاصة",
+    "AdresseL": "souss alalima route de biogra ",
+    "AdresseA": "طريق بيوكرى الرئيسية   القليعة",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "fada  almaarifa",
+    "NOM_ETABA": "فضاء المعرفة الخصوصية ",
+    "AdresseL": "lqliaa ait melloul inezgane",
+    "AdresseA": "القليعة أيت ملول انزكان",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SABIL AL HIDAYAE",
+    "NOM_ETABA": "سبيل الهداية",
+    "AdresseL": "HAYLAAZIB",
+    "AdresseA": "حي لعزيب",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "nesma",
+    "NOM_ETABA": "نســـــمة الخاصة",
+    "AdresseL": "",
+    "AdresseA": "تجزئة نايت سي ",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "oumayma",
+    "NOM_ETABA": "أميمة الخاصة",
+    "AdresseL": "A côte de la commune",
+    "AdresseA": "حي الجماعة",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "perle du succes",
+    "NOM_ETABA": "لؤلؤة النجاح",
+    "AdresseL": "CITE NEJMA; LQLIAA",
+    "AdresseA": "حي النجمة، القليعة",
+    "COMMUNE": "Lqliaa ",
+    "PROVINCE": "Inezgane- Ait",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIVE"
+  }
+]

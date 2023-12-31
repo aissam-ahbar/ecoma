@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABI ALALAA ELMAARI",
+    "NOM_ETABA": "الثانوية الاعدادية ابي العلاء المعري",
+    "AdresseL": "COMMUNE SIDI BOUBKER EL HAJ CENTRE",
+    "AdresseA": "جماعة سيدي بوبكر الحاج  المركز",
+    "COMMUNE": "Sidi Boubker El Haj",
+    "PROVINCE": "Province: Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S SALMANE EL FARISSI ",
+    "NOM_ETABA": "م/م سلمان الفارسي",
+    "AdresseL": "SIDI BOUBKER HAJ CENTRE",
+    "AdresseA": "ج/ سيدي بوبكر الحاج",
+    "COMMUNE": "Sidi Boubker El Haj",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LALLA GHANNOU",
+    "NOM_ETABA": "للا غنو",
+    "AdresseL": "ouled mohamed com sidiboubker haj",
+    "AdresseA": "دوار  اولاد محمد سيدي بوبكر الحاج",
+    "COMMUNE": "Sidi Boubker El Haj",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CHOGRANE",
+    "NOM_ETABA": "شكران",
+    "AdresseL": "DOUAR CHOGRANE COM SIDI BOUBKER HAJ",
+    "AdresseA": "دوار شكران  ج/ سيدي بوبكر الحاج",
+    "COMMUNE": "Sidi Boubker El Haj",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S/S LEMNADRA",
+    "NOM_ETABA": "م/م لمناضرة",
+    "AdresseL": "Douar lemnadra",
+    "AdresseA": "دوار المناضرة",
+    "COMMUNE": "Sidi Boubker El Haj",
+    "PROVINCE": "Kénitra",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

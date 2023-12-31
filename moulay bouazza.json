@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "OUED EDDAHAB",
+    "NOM_ETABA": "وادي الدهب",
+    "AdresseL": "MOULAY BOUAZZA CENTRE COMMUNE MOULAY BOUAZZA",
+    "AdresseA": "مركز جماعة مولاي بوعزة",
+    "COMMUNE": "Moulay Bouazza",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EZZALAKA",
+    "NOM_ETABA": "الزلاقة",
+    "AdresseL": "MOULAY BOUAZZA CENTRE COMMUNE MOULAY BOUAZZA",
+    "AdresseA": "مركز جماعة مولاي بوعزة",
+    "COMMUNE": "Moulay Bouazza",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOUKHLALA",
+    "NOM_ETABA": "بوخلالة",
+    "AdresseL": "DOUAR AIT BRAHIM OUADI COMMUNE MOULAY BOUAZA",
+    "AdresseA": "دوار بوخلالة جماعة مولاي بوعزة",
+    "COMMUNE": "Moulay Bouazza",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MANSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية التأهيلية المنصور الدهبي",
+    "AdresseL": "MOULAY BOUAZZA CENTRE COMMUNE MOULAY BOUAZZA",
+    "AdresseA": "مركز جماعة مولاي بوعزة",
+    "COMMUNE": "Moulay Bouazza",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

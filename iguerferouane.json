@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OTMANE BEN AAFANE",
+    "NOM_ETABA": "الثانوية الإعدادية عثمان بن عفان",
+    "AdresseL": "CENTRE COMMUNE IGUERFEROUANE",
+    "AdresseA": "مركز جماعة اكرفروان",
+    "COMMUNE": "Iguerferouane",
+    "PROVINCE": "Province: Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IGUERFEROUANE",
+    "NOM_ETABA": "اكرفروان",
+    "AdresseL": "DOUAR TAMAZAGHARTE COMMUNE IGUERFEROUANE",
+    "AdresseA": "دوار تمزاغرت جماعة اكرفروان",
+    "COMMUNE": "Iguerferouane",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SEBT IGUERFEROUANE",
+    "NOM_ETABA": "سبت اكرفروان",
+    "AdresseL": "DOUAR IMARINE COMMUNE IGUERFEROUANE",
+    "AdresseA": "دوار امارين جماعة اكرفروان",
+    "COMMUNE": "Iguerferouane",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMAKOUSTE",
+    "NOM_ETABA": "تمكوست",
+    "AdresseL": "DOUAR TAMAKOUSTE COMMUNE IGUERFEROUANE",
+    "AdresseA": "دوار تمكوست جماعة اكرفروان",
+    "COMMUNE": "Iguerferouane",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIT AABED",
+    "NOM_ETABA": "م م آيت عابد",
+    "AdresseL": "DOUAR aslyoum COMMUNE IGUERFEROUANE",
+    "AdresseA": "دوار أسليوم جماعة اكرفروان",
+    "COMMUNE": "Iguerferouane",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IGROUKA",
+    "NOM_ETABA": "اكروكا",
+    "AdresseL": "DOUAR IGROUKA COMMUNE IGUERFEROUANE",
+    "AdresseA": "دوار اكروكا جماعة اكرفروان",
+    "COMMUNE": "Iguerferouane",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

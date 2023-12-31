@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "SOUK TNIN JDID CENTRE",
+    "NOM_ETABA": "مركزية سوق الاثنين الجديد",
+    "AdresseL": "secteur scolaire SOUK TNIN JDID COMMUNE BNI KHLOUG",
+    "AdresseA": "م/م سوق الاثنين الجديد",
+    "COMMUNE": "Bni Khloug",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LEHBACHA BNI KHLOUG CENTRE",
+    "NOM_ETABA": "مركزية لحباشة بني خلوك",
+    "AdresseL": "DOUAR OULAD ESSOUBH COMMUNE BNI KHLOUG",
+    "AdresseA": "دوار اولاد الصبح بني خلوك",
+    "COMMUNE": "Bni Khloug",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": " OULED SALEM CENTRE",
+    "NOM_ETABA": "مركزية اولاد سالم",
+    "AdresseL": " OULAD SALEM COMMUNE BNI KHLOUG",
+    "AdresseA": "اولاد سالم بني خلوك",
+    "COMMUNE": "Bni Khloug",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD ATTOU CENTRE",
+    "NOM_ETABA": "مركزية اولاد عتو",
+    "AdresseL": "DOUAR OULAD ATTOU COMMUNE BNI KHLOUG",
+    "AdresseA": "اولاد عتو بني خلوك",
+    "COMMUNE": "Bni Khloug",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BNI KHLOUG",
+    "NOM_ETABA": "الثانوية التأهيلية بني خلوك",
+    "AdresseL": "COMMUNE BNI KHLOUG",
+    "AdresseA": "مركز بني خلوك",
+    "COMMUNE": "Bni Khloug",
+    "PROVINCE": "Settat",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LYCEE"
+  }
+]

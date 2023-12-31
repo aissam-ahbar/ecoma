@@ -1,0 +1,102 @@
+[
+  {
+    "NOM_ETABL": "lycee collegial OTHMANE BNOU AFFANE",
+    "NOM_ETABA": "الثانوية الاعدادية عثمان بن عفان",
+    "AdresseL": "LOUDAYA",
+    "AdresseA": "الوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HOUMMANE EL FETOUAKI",
+    "NOM_ETABA": "الثانوية الاعدادية حمان الفطواكي",
+    "AdresseL": "douar ahmar loudaya",
+    "AdresseA": "دوار احمر الوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ss ABI SIBAA centrale",
+    "NOM_ETABA": "مجموعة مدارس أبي السباع المركزية",
+    "AdresseL": "ABI SIBAA  CLOUDAYA",
+    "AdresseA": "دوار أبي السباع ج الوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss OULAD ALLOUCH centrale",
+    "NOM_ETABA": "مجموعة مدارس اولاد علوش المركزية",
+    "AdresseL": "DOUAR OULAD ALLOUCH CLOUDAYA",
+    "AdresseA": "دوار اولاد علوش ج الوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss LAKHOUADRA centrale",
+    "NOM_ETABA": "مجموعة مدارس لخوادرة المركزية",
+    "AdresseL": "DOUAR LAKHOUADRA LOUDAYA",
+    "AdresseA": "دوار الخوادرة ج الوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss OULED AAGUIL centrale",
+    "NOM_ETABA": "مجموعة مدارس أولاد عكيل المركزية",
+    "AdresseL": "DOUAR OULED AAGUIL CLOUDAYA",
+    "AdresseA": "دوار أولاد عكيل ج الأوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IBN BATTOUTA CENTRALE",
+    "NOM_ETABA": "مجموعة مدارس ابن بطوطة المركزية",
+    "AdresseL": "DOUAR H MAR CoMMUNE LOUDAYA",
+    "AdresseA": "دوار احمر جماعة  الأوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ss OULED OUTMAN centrale",
+    "NOM_ETABA": "مجموعة مدارس اولاد عثمان المركزية",
+    "AdresseL": "DOUAR OULED OUTMAN LOUDAYA ",
+    "AdresseA": "دوار اولاد عثمان ج الوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBNOU ALMOUATAZ",
+    "NOM_ETABA": "الثانوية التأهيلية ابن المعتز",
+    "AdresseL": "CENTRE LOUDAYA",
+    "AdresseA": "الاوداية",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FAYEZ LOUDAYA ENS SCOE",
+    "NOM_ETABA": "مؤسسة فايز الاوداية للتعليم المدرسي الخصوصي",
+    "AdresseL": "NULL",
+    "AdresseA": "دوار اولاد بن السباع قيادة الا",
+    "COMMUNE": "Loudaya",
+    "PROVINCE": "Marrakech",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIVE"
+  }
+]

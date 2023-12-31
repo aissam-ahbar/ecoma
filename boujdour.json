@@ -1,0 +1,362 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BABY",
+    "NOM_ETABA": " الثانوية الإعدادية بابي",
+    "AdresseL": "HAY ETTANMIYA",
+    "AdresseA": "حي التنمية",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Province: Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL HAFSA BENT OMAR",
+    "NOM_ETABA": " الثانوية الإعدادية حفصة بنت عمر",
+    "AdresseL": "ZONE ENNAHDA",
+    "AdresseA": "منطقة النهضة - أنشطة",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Province: Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOUHAMED BEN MHAMED ARRIJOUL",
+    "NOM_ETABA": "الثانوية الإعدادية محمد بن محمد الريجول",
+    "AdresseL": "HAY ENNOUR 2 BOUJDOUR",
+    "AdresseA": "حي النور 2 بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Province: Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL  ALQODS",
+    "NOM_ETABA": "الثانوية الإعدادية القدس",
+    "AdresseL": " avennue al madariss quartier ennour 2",
+    "AdresseA": "شارع المدارس حي النور 2",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Province: Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL EL WAHDA",
+    "NOM_ETABA": "الثانوية الاعدادية الوحدة",
+    "AdresseL": "CAMP EL WAHDA N1",
+    "AdresseA": "حي لالة مريم",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Province: Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL IBN TOUFAIL",
+    "NOM_ETABA": "الثانوية الاعدادية ابن طفيل",
+    "AdresseL": "Hay al aouda Route  adakhla Ville de Boujdour",
+    "AdresseA": "حي العودة- طريق الداخلة-مدينة بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Province: Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLGIAL TAHA HSSINE ",
+    "NOM_ETABA": "الثانوية الاعدادية طه حسين ",
+    "AdresseL": "lotissement ALAMANE 1",
+    "AdresseA": "تجزئة الأمان 1",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Province: Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL OMAR BN AL KHATAB",
+    "NOM_ETABA": "الثانوية الاعدادية عمر بن الخطاب ",
+    "AdresseL": "avenue naiymia hay al inbiath  BOUJDOUR",
+    "AdresseA": "شارع  النعيمية حي الإنبعاث  بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Province: Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE   HASSAN II",
+    "NOM_ETABA": "المدرسة الابتدائية الحسن الثاني",
+    "AdresseL": "CITE LALLA MERYEM COMMUNE BOUJDOUR",
+    "AdresseA": "حي للا مريم بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALINBIAATE",
+    "NOM_ETABA": " المدرسة الابتدائية لانبعاث",
+    "AdresseL": "Boulevard elmarhoum baby COMMUNE BOUJDOUR",
+    "AdresseA": "شارع المرحوم بابي",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ELMASSIRA EL KHADRA",
+    "NOM_ETABA": "المدرسة الابتدائية المسيرة الخضراء",
+    "AdresseL": "AV  ELMARHOUM BABI  COMMUNE BOUJDOUR",
+    "AdresseA": "شارع المرحوم بابي بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELAZIZ KHAYA",
+    "NOM_ETABA": "المدرسة الابتدائية عبد العزيز خيا",
+    "AdresseL": "HAY  LALLA MARIEM COMMUNE BOUJDOUR",
+    "AdresseA": "حي للا مريم بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY RACHID",
+    "NOM_ETABA": "المدرسة  الابتدائية مولاي رشيد",
+    "AdresseL": "HAY moulay rachid  BOUJDour",
+    "AdresseA": "حي مولاي رشيد بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED  ZREKTOUNI",
+    "NOM_ETABA": "المدرسة الابتدائية محمد الزرقطوني",
+    "AdresseL": "CENTRE  DE BOUJDOUR",
+    "AdresseA": "مركز بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   ENNAHDA",
+    "NOM_ETABA": "المدرسة الابتدائية النهضة",
+    "AdresseL": "ECOLE  ENNAHDA    BOUJDOUR",
+    "AdresseA": "مدرسة النهضة بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   COM WAHDA 2",
+    "NOM_ETABA": "المدرسة الابتدائية كم الوحدة 2",
+    "AdresseL": "CAMP   EL WAHDA 2  BOUJDOUR",
+    "AdresseA": "مخيم الوحدة 2   بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN AL HAITAM",
+    "NOM_ETABA": " المدرسة الابتدائية ابن الهيثم",
+    "AdresseL": "lotissement atanmya",
+    "AdresseA": "تجزئة التنمية",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI AHMED ADABADA",
+    "NOM_ETABA": "المدرسة الابتدائية سيدي احمد ادبدا",
+    "AdresseL": "lotissement ALAMNE 1",
+    "AdresseA": "تجزئة الأمان 1",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN KHALDOUN",
+    "NOM_ETABA": "المدرسة الابتدائية  ابن خلدون",
+    "AdresseL": "LOTISSEMENT LALLA SOUKAINA BOUJDOUR",
+    "AdresseA": "تجزئة لالة سكينة",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE   AL KHAWARIZMI",
+    "NOM_ETABA": "المدرسة الابتدائية  الخوارزمي",
+    "AdresseL": "Alkotb Alhadari Qurtier Alman 2",
+    "AdresseA": "القطب الحضري حي الأمان رقم 2",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TARIK BEN ZIAD",
+    "NOM_ETABA": "المدرسة الابتدائية طارق ابن زياد",
+    "AdresseL": "HAY TANMIYA BOUJDOUR",
+    "AdresseA": "حي التنمية  بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT ENNACER",
+    "NOM_ETABA": " الثانوية التاهيلية النصر ",
+    "AdresseL": "HAY EL WAHDA  COMMUNE BOUJDOUR",
+    "AdresseA": "حي الوحدة بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT AL BAKALI ",
+    "NOM_ETABA": "الثانوية التاهيلية البقالي ",
+    "AdresseL": "QUARTIER ATANMIYA BP 85 boujdour",
+    "AdresseA": "حي التنمية ص.ب:85-بوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT JABER IBN HAYAN",
+    "NOM_ETABA": "الثانوية التاهيلية جابر ابن حيان ",
+    "AdresseL": "Quartier AL AMANE 1 POLE URBAIN",
+    "AdresseA": "حي الأمان 1 القطب الحضري",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCÉE QUALIFIANT AHMED BEN MOHAMED ERRACHDI",
+    "NOM_ETABA": " الثانوية التاهيلية احمد بن محمد الراشدي ",
+    "AdresseL": "CITE ADMINISTRATIVE  BOUJDOUR",
+    "AdresseA": "الحي الاداري يوجدور",
+    "COMMUNE": "Boujdour",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "elhousna",
+    "NOM_ETABA": "مؤسسة الحسنى",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الانبعاث رقم 01",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELYASSAMINE",
+    "NOM_ETABA": "مؤسسة الياسمين",
+    "AdresseL": "NULL",
+    "AdresseA": "حي الوحدة زنقة بئر كندوز",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELMANZIL ESSAGHIR",
+    "NOM_ETABA": "المنزل الصغير",
+    "AdresseL": "NULL",
+    "AdresseA": "حي لالة مريم رقم 82",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELOUAHDA ETTORABIA",
+    "NOM_ETABA": "الوحدة الترابية",
+    "AdresseL": "",
+    "AdresseA": "الحي الاداري بلوك 25 رقم 02",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sabil al tamayoze",
+    "NOM_ETABA": "سبيل التميز",
+    "AdresseL": "HAY ALLAL BEN ABDELLAH 1 N°98",
+    "AdresseA": "حي علال بن عبدالله 1 رقم 98",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "OUM EL KOURA",
+    "NOM_ETABA": "أم القرى",
+    "AdresseL": "HAY EL HASSAN BEN MEHDI BOULEV",
+    "AdresseA": "حي الحسن بن المهدي شارع القاضي",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "annajah alkhair",
+    "NOM_ETABA": "النجاح  الخير ",
+    "AdresseL": "",
+    "AdresseA": "تجزئة الخير 3 رقم 204 ",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MANAR EL HIDAYA",
+    "NOM_ETABA": "منار الهداية",
+    "AdresseL": "HAY LALA MARIAM  N° 170 Bis  B",
+    "AdresseA": "حي للا مريم  رقم 170  مكرر  بو",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETAB.AJIAL EL AAHD ELJADID",
+    "NOM_ETABA": "مؤسسة أجيال العهد الجديد",
+    "AdresseL": "HAY ALOUAHDA  BOUJDOUR",
+    "AdresseA": "حي الوحدة رقم 512 بوجدور",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL MANHL aljadid",
+    "NOM_ETABA": "   المنهل الجديد الخاصة ",
+    "AdresseL": "lot:prince sidi mohamed avenue",
+    "AdresseA": "تجزئة الامير سيدي محمد شارع ال",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AJIAL BOUJDOUR",
+    "NOM_ETABA": "أجيال بوجدور",
+    "AdresseL": "",
+    "AdresseA": "حي معطى الله رقم 35/36 بوجدور",
+    "COMMUNE": "Boujdour ",
+    "PROVINCE": "Boujdour",
+    "REGION": "Laayoune-Sakia El Hamra",
+    "TYPE": "PRIVE"
+  }
+]

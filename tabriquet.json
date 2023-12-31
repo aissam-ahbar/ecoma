@@ -1,0 +1,752 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELMALEK ESSAADI",
+    "NOM_ETABA": " الثانوية الإعدادية عبد المالك  السعدي",
+    "AdresseL": "QUARTIER  TABRIQUET  SALA",
+    "AdresseA": "حي تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IDRISS BEN ZEKRI",
+    "NOM_ETABA": "الثانوية الإعدادية إدريس بنزكري",
+    "AdresseL": "HAY ERRAHMA",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KHAWARIZMI",
+    "NOM_ETABA": "الثانوية الإعدادية الخوارزمي",
+    "AdresseL": "QUARTIER LINBIAAT . TABRIQUET SALA",
+    "AdresseA": "  حي الانبعاث. تابريكت سلا.",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED ENNASSIRI",
+    "NOM_ETABA": "الثانوية الإعدادية أحمد الناصري",
+    "AdresseL": "AV MY YOUSSEF COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع م, يوسف تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL WAHDA",
+    "NOM_ETABA": " الثانوية الإعدادية الوحدة",
+    "AdresseL": "AV MOHAMED V COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع محمد الخامس تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL YOUSSEF IBN TACHAFINE",
+    "NOM_ETABA": "الثانوية الإعدادية يوسف بن تاشفين",
+    "AdresseL": "HAY AL MAZRAA COMMUNE DE TABRIQUET",
+    "AdresseA": "المزرعة تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": " LYCEE COLLEGIAL MOUAD IBNOU JABAL",
+    "NOM_ETABA": "  الثانوية الإعدادية معاد بن جبل",
+    "AdresseL": "HAY ALMAZRAA COMMUNE DE TABRIQUET",
+    "AdresseA": "حي المزرعة تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OUED EL MAKHAZINE",
+    "NOM_ETABA": " الثانوية الاعدادية وادي المخازن",
+    "AdresseL": "AV MOHAMED V COMMUNE DE TABRIQUET",
+    "AdresseA": "حي كريمة تابريكت  سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED BALAFRIJ",
+    "NOM_ETABA": " الثانوية الإعدادية أحمد بلافريج",
+    "AdresseL": "HAY CHIKHEMFADEL COMMUNE DE TABRIQUET",
+    "AdresseA": "حي الشيخ المفضل جماعة تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHAHID HOCINE BNOU ALI",
+    "NOM_ETABA": "الثانوية الإعدادية الشهيد الحسين بن علي",
+    "AdresseL": "HAY ALINBIAAT COMMUNE DE TABRIQUET",
+    "AdresseA": "حي الإنبعاث تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ESSMARA",
+    "NOM_ETABA": "الثانوية الإعدادية السمارة",
+    "AdresseL": "DAR ELHAMRA COMMUNE DE TABRIQUET",
+    "AdresseA": "الدار الحمراء  تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ESSAYEDA  ALHORRA",
+    "NOM_ETABA": "الثانوية الإعدادية السيدة الحرة",
+    "AdresseL": "HAY ARRAHMA SECT A COMMUNE DE TABRIQUET sale",
+    "AdresseA": "تابريكت حي الرحمة سكتور أ سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ELANDALOS",
+    "NOM_ETABA": " الثانوية الإعدادية الأندلس",
+    "AdresseL": "sale tabriket",
+    "AdresseA": "سلا تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOHAMED ZEFZAF",
+    "NOM_ETABA": " الثانوية الإعدادية محمد الزفزاف",
+    "AdresseL": "sale tabriket",
+    "AdresseA": "سلا تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ALMAJD",
+    "NOM_ETABA": " الثانوية الإعدادية المجد",
+    "AdresseL": "tabriket",
+    "AdresseA": "تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  OUED EDDAHAB",
+    "NOM_ETABA": "مدرسة واد الذهب",
+    "AdresseL": "AV MY YOUSSEF COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع م,يوسف  تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI ALHASSAN ALKABISSI",
+    "NOM_ETABA": "مدرسة ابو الحسن القابسي",
+    "AdresseL": "AV ABDELKHALeK toRRISS COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع عبد الخالق الطريس تابريكت سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED ERRIHANI",
+    "NOM_ETABA": "مدرسة محمد الريحاني",
+    "AdresseL": "01RUE AIN  LOUH PEPINIERE   TABRIQUET",
+    "AdresseA": "01 , زنقة عين اللوح  حي المزرعة تابريكت - سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOUSSA BNOU NOUSSAIR",
+    "NOM_ETABA": "مدرسة موسى بن نصير",
+    "AdresseL": "AV MY YOUSSEF COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع مولاي يويف تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AMIRA LALLA MERYEM",
+    "NOM_ETABA": "مدرسة الاميرة للامريم",
+    "AdresseL": "AVENUE LALLA MERYEM PRES MOSQUEE HIHI TABRIQUETE",
+    "AdresseA": "شارع الاميرة للامريم قرب مسجد الحيحي تابريكت - سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  RABIA AL ADAOUIA",
+    "NOM_ETABA": "مدرسة رابعة العدوية",
+    "AdresseL": "RUE ALFARISSIA COMMUNE DE TABRIQUET",
+    "AdresseA": "زنقة الفارسية شارع المرابطين - تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AYACHI",
+    "NOM_ETABA": "مدرسة العياشي",
+    "AdresseL": "AV ALJAZIRA AL ARABIA COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع الجزيرة العربية  تابريكت - سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BILAL BNOU RABAH",
+    "NOM_ETABA": "مدرسة بلال بن رباح",
+    "AdresseL": "HAY INBIAAT RUE SHELLA N 91 TABRIQUET SALE",
+    "AdresseA": "زنقة شالة  رقم 91 حي الانبعاث - سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALLAMA ABDERRAHMAN EL KETTANI",
+    "NOM_ETABA": "مدرسة العلامة عبد الرحمان الكتاني",
+    "AdresseL": "boulvard abed errahim bouabid COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع عبد الرحيم بوعبيد حي الانبعاث - سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED HASSAR",
+    "NOM_ETABA": "مدرسة محمد حصار",
+    "AdresseL": "AV BOUKRAA HAY LAFROUGUI COMMUNE DE TABRIQUET",
+    "AdresseA": "حي لفروكي شارع بوكراع تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  EL MOKHTAR SOUSSI",
+    "NOM_ETABA": "مدرسة المختار السوسي",
+    "AdresseL": "RUE SAQIA EL HAMRA BLED BENDAOUD COMMUNE DE TABRIQ",
+    "AdresseA": "زنقة الساقية الحمراء بلاد بن داود تابريكت سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN AL MOUKAFFAA",
+    "NOM_ETABA": "مدرسة ابن المقـفع",
+    "AdresseL": "RUE  IBN AL MOUKAFFAA  HAY KARIMA 1 COMMUNE DE TAB",
+    "AdresseA": "شارع ابن المقفع حي كريمة  تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED BEN RADI SLAOUI",
+    "NOM_ETABA": " مدرسة محمد بن الراضي السلاوي",
+    "AdresseL": "HAY KARIMA LOTIS ALAHBAS COMMUNE DE TABRIQUET",
+    "AdresseA": "تابركت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FAKIH ABDESSALAM EZZAHRAOUI",
+    "NOM_ETABA": "مدرسة الفقيه عبد السلام الزهراوي",
+    "AdresseL": "AVALI BEN ABITALIB HAY RAHMA COMMUNE DE TABRIQUET",
+    "AdresseA": "حي الرحمة",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI INAN ALMARINI",
+    "NOM_ETABA": "مدرسة ابي عنان المريني",
+    "AdresseL": "HAY RAHMA COMMUNE DE TABRIQUET",
+    "AdresseA": "حي الرحمة  تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED ESSALMI",
+    "NOM_ETABA": "مدرسة احمد السالمي",
+    "AdresseL": "Hay rahma secteur E Tabriquet",
+    "AdresseA": "حي الرحمة قطاع \"واو\" تابريكت ",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED OULD ALI MEKNASSI",
+    "NOM_ETABA": "مدرسة محمد ولد علي المكناسي",
+    "AdresseL": "HAY ALINBIAAT COMMUNE DE TABRIQUET",
+    "AdresseA": "حي الإنبعاث زنقة  بوجنيبة سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED BELKBIR",
+    "NOM_ETABA": "مدرسة محمد بلكبير",
+    "AdresseL": "HAY RAHMA COMMUNE DE TABRIQUET",
+    "AdresseA": "حي الرحمة  تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ZAKOR",
+    "NOM_ETABA": "مدرسة إبن زاكور",
+    "AdresseL": "HAY  CHEICK LMFADDEL TABRIQUT",
+    "AdresseA": "حي الشيخ المفضل تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SAAD BNOU ABI OIKKAS",
+    "NOM_ETABA": "مدرسة سعد بن أبي وقاص",
+    "AdresseL": "SANIAT BELKBIR COMMUNE DE TABRIQUET",
+    "AdresseA": "مدرسة سعد بن أبي وقاص / سانية بلكبير - تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  BADRE",
+    "NOM_ETABA": "مدرسة بدر",
+    "AdresseL": "LOT LEFROUGUI  HAY KARIMA TABRIQUTE",
+    "AdresseA": "تجزئة لفروكي - حي كريمة تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL AHD AL JADID",
+    "NOM_ETABA": "مدرسة العهد الجديد",
+    "AdresseL": "HAY ALINBIAAT COMMUNE DE TABRIQUET",
+    "AdresseA": "حي الانبعاث - تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL MARINYINE",
+    "NOM_ETABA": " مدرسة المرينيين",
+    "AdresseL": "RTE BASE AERIENNE HAY INBIAAT TABREQUET 1100 ",
+    "AdresseA": "شارع القاعدة الجوية حي الانبعات تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HASSAN BNOU TABIT",
+    "NOM_ETABA": "مدرسة حسان بن ثابت",
+    "AdresseL": "HAY ARRAHMA  TABRIQUET",
+    "AdresseA": "حي الرحمة - تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  RAHHAL  ELMESKINI",
+    "NOM_ETABA": "مدرسة رحال المسكيني",
+    "AdresseL": "RUE LIBIA HAY RAHMA COMMUNE DE TABRIQUET",
+    "AdresseA": "زنقة ليبيا حي الرحمة تابريكت - سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  DRISS AL AZHAR",
+    "NOM_ETABA": "مدرسة إدريس الأزهر",
+    "AdresseL": "HAY ERRAHMA SECTEUR  A  COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع محمد الخامس - قطاع \"أ\"حي الرحمة سلا تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  TAHA H SINE",
+    "NOM_ETABA": "مدرسة طه حسين",
+    "AdresseL": "RUE AHFIR HAY RAHMA TABRIQUET  SALE",
+    "AdresseA": "زنقة احفير حي الرحمة تابريكت - سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MALIKA ALFASSI",
+    "NOM_ETABA": "مدرسة مالكة الفاسي",
+    "AdresseL": "HAY INBIAT SALE MEDINA",
+    "AdresseA": "حي الانبعاث",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABI DAR AL GHAFFARI",
+    "NOM_ETABA": " مدرسة أبي ذر الغفاري",
+    "AdresseL": "BOULVARD BOUKAA TABRIQUET SALE",
+    "AdresseA": "شارع بوكراع تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY ALI CHRIF",
+    "NOM_ETABA": "مدرسة مولاي علي الشريف",
+    "AdresseL": "RUE AIN SBAA  HAY ALILBIAT  TABRRQUET",
+    "AdresseA": "زنقة عين السبع - حي الانبعاث - تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  IBN ROUMI",
+    "NOM_ETABA": "مدرسة ابن الرومي",
+    "AdresseL": "HAY ERAHMA SECTEUR A rue elyassamine",
+    "AdresseA": "حي الرحمة قطاع ألف زنقة الياسمبن",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZELLAKA",
+    "NOM_ETABA": " مدرسة الزلاقة",
+    "AdresseL": "SECTEUR A HAY ERAHMA  TABRIQUET",
+    "AdresseA": "قطاع أ  حي الرحمة تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELMOUMEN EL MOWAHIDI",
+    "NOM_ETABA": "مدرسة عبد المومن الموحدي",
+    "AdresseL": "HAY KARIMA TABRIQUET  SALé",
+    "AdresseA": "حي كريمة تابريكت - سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABBAS MAHMOUD AL AKKAD",
+    "NOM_ETABA": "الثانوية التأهيلية عباس محمود العقاد",
+    "AdresseL": "TABRIQUET",
+    "AdresseA": "تابريكت",
+    "COMMUNE": "Tabriquet ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABESSALAM AMER",
+    "NOM_ETABA": "الثانوية التأهيلية عبد السلام عامر",
+    "AdresseL": "souk essalihin hay karima tabriket",
+    "AdresseA": "سوق الصالحين حي كريمة تابريكت",
+    "COMMUNE": "Tabriquet ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT IBRAHIM ELMOUSSILI",
+    "NOM_ETABA": " الثانوية التأهيلية ابراهيم الموصلي",
+    "AdresseL": "sale tabriket",
+    "AdresseA": "سلا تابريكت",
+    "COMMUNE": "Tabriquet ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL ABBAS MIFTAH",
+    "NOM_ETABA": " الثانوية التأهيلية العباس مفتاح",
+    "AdresseL": "RUE LIBERTE AV LALLA AMINA COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع للا امنة تابريكت",
+    "COMMUNE": "Tabriquet ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": " LYCEE QUALIFIANT LISSANE EDDENE IBN EL KHATIB",
+    "NOM_ETABA": "الثانوية التأهيلية لسان الدين إبن الخطيب",
+    "AdresseL": "AV MOHAMED V COMMUNE DE TABRIQUET",
+    "AdresseA": "شارع محمد الخامس تابريكت",
+    "COMMUNE": "Tabriquet ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ALLAMA MOHAMED SBIHI",
+    "NOM_ETABA": "الثانوية التأهيلية العلامة محمد الصبيحي",
+    "AdresseL": "HAY ALINBIAAT AV BOUKRAA",
+    "AdresseA": "حي الإنبعاث شارع بوكراع ",
+    "COMMUNE": "Tabriquet ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT FAKIH MOHAMMED ELHAMDAOUI",
+    "NOM_ETABA": "الثانوية التأهيلية الفقيه محمد الحمداوي",
+    "AdresseL": "HAY ERRAHMA COMMUNE DE TABRIQUET",
+    "AdresseA": "حي الرحمة تابريكت",
+    "COMMUNE": "Tabriquet ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "RAOUD ALHIKMA",
+    "NOM_ETABA": "روض الحكمة",
+    "AdresseL": "n 428 hay errahma",
+    "AdresseA": "رقم 428 حي الرحمة",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUVELLE GENERATION PRO",
+    "NOM_ETABA": "الجيل الجديد (الأولي)",
+    "AdresseL": "IMM ASSAFE AV MOHAMED 5 IMM 30",
+    "AdresseA": "إقامة الصفاء شارع محمد الخامس ",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BELBARAKA JUNIORSE",
+    "NOM_ETABA": "بلبركة جينيور الخاصة",
+    "AdresseL": "RUE BASSINE N 15 TABRIQUET",
+    "AdresseA": "زنقة البساتين رقم 15 تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sanabil alaksae",
+    "NOM_ETABA": "سنابل الأقصى الخصوصية",
+    "AdresseL": "lot fatiha 28 31 av boukrae ta",
+    "AdresseA": "تجزئة فتيحة28-31 شارع بوكراع ت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE BAB AL ILME",
+    "NOM_ETABA": "مجموعة مدارس باب العلم",
+    "AdresseL": "av 6 novembre tabriquet salé",
+    "AdresseA": "شارع 6 نونبر تابريكت سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES PALMIERS2",
+    "NOM_ETABA": "مجموعة النخيل2",
+    "AdresseL": "zankat echarika avenue moulay ",
+    "AdresseA": "زنقة الشارقة شارع مولاي يوسف ت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT BARAAIM BISSANE",
+    "NOM_ETABA": "معهد براعم بيسان",
+    "AdresseL": "lot oued dahab tabriquet salé",
+    "AdresseA": "تجزئة واد الذهب تابريكت سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT DIWANE",
+    "NOM_ETABA": "معهد ديوان",
+    "AdresseL": "rue lala amina imm super entre",
+    "AdresseA": "Eمدخل  إقامة سوبير شارع للا أم",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL YAKADA CENTRE",
+    "NOM_ETABA": "اليقظة مركز",
+    "AdresseL": "N° 10 Cité  Lotissement Roni T",
+    "AdresseA": "رقم 10  تجزئة روني تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL YAKADA ANNEXE",
+    "NOM_ETABA": "اليقظة فرع",
+    "AdresseL": "Boulevard Mohamed V - Tabrique",
+    "AdresseA": "شارع محمد الخامس - تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AKSA CENTRE",
+    "NOM_ETABA": "الأقصى مركز",
+    "AdresseL": "N° 266 Rue Sidi Abdellah Hay I",
+    "AdresseA": "رقم 266 زنقة سيدي عبد اللة حي ",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARD ESSALAM",
+    "NOM_ETABA": "أرض السلام",
+    "AdresseL": "Lotissement Karima Boulevard M",
+    "AdresseA": "حي كريمة زنقة احصين تابريكت سل",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MOHAMED BEN ABDELLAH",
+    "NOM_ETABA": "محمد بن عبد الله",
+    "AdresseL": "Lotissement Bendahman Boulevar",
+    "AdresseA": "تجزئة بندحمان شارع محمد الخامس",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "DAR AL HIKMA",
+    "NOM_ETABA": "دار الحكمة",
+    "AdresseL": "N° 73, Lotissement Omar 2 - Ta",
+    "AdresseA": "رقم 73، تجزئة عمر 2 - تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "IMAM GHAZALI",
+    "NOM_ETABA": "الإمام الغزالي",
+    "AdresseL": "Lotissement Kenza Slaoui, Rout",
+    "AdresseA": "تجزئة كنزة السلاوي، طريق مكناس",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "BAB SEBTA",
+    "NOM_ETABA": "باب سبتة",
+    "AdresseL": "N° 56 Boulevard Mohamed V - Ta",
+    "AdresseA": "رقم 56 شارع محمد الخامس - تابر",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LYCEE PAUL SABATIER",
+    "NOM_ETABA": "ثانوية بول سباتيي الخصوصية",
+    "AdresseL": "N° 124 Boulevard Lalla Asmaa -",
+    "AdresseA": "رقم 124 شارع للا أسماء - تابري",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT BELBARAKA",
+    "NOM_ETABA": "بلبركة الخصوصية",
+    "AdresseL": "avenue moulay youssef tabrique",
+    "AdresseA": "شارع مولاي يوسف تابريكت سلا",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE NOUVELLE GENERATION",
+    "NOM_ETABA": "ملحقة الجيل الجديد",
+    "AdresseL": "AV  OUAD ERROMMANE   N287  TAB",
+    "AdresseA": "شارع واد الرمان  287  تابريكت",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LES FRAMBOISES",
+    "NOM_ETABA": "لي فرومبواز",
+    "AdresseL": "imm 03 habouss sidi belaabbas ",
+    "AdresseA": "عمارة 03 حبوس سيدي بلعباس تابر",
+    "COMMUNE": "Tabriquet",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

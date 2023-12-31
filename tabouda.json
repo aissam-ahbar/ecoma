@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCÉE COLLÈGIAL TABOUDA",
+    "NOM_ETABA": "ثانوية  تبودة  الإعدادية",
+    "AdresseL": "COMMUNE TABOUDA CeNTRE GHAFSSAI",
+    "AdresseA": "   جماعة تبودة -غفساي",
+    "COMMUNE": "Tabouda",
+    "PROVINCE": "Province: Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS TNINE TABOUDA",
+    "NOM_ETABA": "م/م  اثنين تبودة",
+    "AdresseL": "DOUAR LAAMARnA COMMUNE TABOUDA GHAFSSAI",
+    "AdresseA": "دوار لعمارنة-جماعة تبودة غفساي",
+    "COMMUNE": "Tabouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN BIADA",
+    "NOM_ETABA": "م/م  عين بياضة",
+    "AdresseL": "DOUAR AIN BIADA COMMUNE TABOUDA GHAFSSAI",
+    "AdresseA": "دوار عين بياضة -جماعة تبودة غفساي",
+    "COMMUNE": "Tabouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS BNI ABDELLAH",
+    "NOM_ETABA": "م/م بني عبد الله ",
+    "AdresseL": "DOUAR BNI ABDELLAH COMMUNE TABOUDA GHAFSSAIT",
+    "AdresseA": "دوار بني عبد الله -جماعة تبودة غفساي",
+    "COMMUNE": "Tabouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S EL BABA",
+    "NOM_ETABA": "م/م  البابة",
+    "AdresseL": "DOUAR EL BABA COMMUNE TNIN TABOUDA GHAFSSAI",
+    "AdresseA": "دوار  البابة -جماعة تبودة غفساي",
+    "COMMUNE": "Tabouda",
+    "PROVINCE": "Taounate",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]

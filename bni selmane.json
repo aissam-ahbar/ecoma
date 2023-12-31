@@ -1,0 +1,122 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BNI SELMANE",
+    "NOM_ETABA": "الثانوية الإعدادية بني سلمان",
+    "AdresseL": "CENTRE DE LA COMMUNE BNI SELMANE",
+    "AdresseA": "مركز الجماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Province: Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS IBN EL KHATIB BNI BOUHLOU",
+    "NOM_ETABA": "م/م ايبن الخطيب _بني بوحلو",
+    "AdresseL": "DOUAR BNI BOUHLOUCBNI SELMANECHEFCHAOUEN",
+    "AdresseA": "دوار بني بوحلو جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MATAA",
+    "NOM_ETABA": "م/م متاع",
+    "AdresseL": "DOUAR MATAACBNI SELMANCHEFCHAOUEN",
+    "AdresseA": "دوار متاع جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ALWADIYINE",
+    "NOM_ETABA": "م/م الواديين",
+    "AdresseL": "DOUAR AL WADIYINE C BNI SALMANE CHEFCHAOUEN",
+    "AdresseA": "دوار الواديين جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS SALAH DIN AYOUBI SEBT ASSIFAN",
+    "NOM_ETABA": "م/م صلاح الدين الايوبي _سبت أسيفان",
+    "AdresseL": "SEBT ASSIFAnCbNI SELMANECHEFCHAOUEN",
+    "AdresseA": "سبت أسيفان جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABI ALA EL MAARI AMTIL",
+    "NOM_ETABA": "م/م ابي العلاء المعري _أمطيل",
+    "AdresseL": "DOUAR AMTIL C BNI SALMANE CHEFCHAOUEn",
+    "AdresseA": "دوار أمطيل جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TALATFRAT",
+    "NOM_ETABA": "م/م تلاتفراط",
+    "AdresseL": "DOUAR TALATFRATCBNI SALMANECHEFCHAOUEN",
+    "AdresseA": "دوار تلاتفراط جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS NAIMA",
+    "NOM_ETABA": "م/م النعيمة",
+    "AdresseL": "DOUAR NAIMA  C BNI SALMANE CHEFCHAOUEN",
+    "AdresseA": "دوار النعيمة جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS IMOULA",
+    "NOM_ETABA": "م/م أ مولا",
+    "AdresseL": "DOUAR IMOULA C BNI SALMANE  ",
+    "AdresseA": "دوار إيمولا جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS DAR MNATE",
+    "NOM_ETABA": "م/م دار منات",
+    "AdresseL": "DOUAR DARMNATE C BNI SALMANE CHEFCHAOUEN",
+    "AdresseA": "دوار دار منات جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAZAKHTE",
+    "NOM_ETABA": "م/م تازخت",
+    "AdresseL": "DOUAR TAZAKHTECBNI SELMANECHEFCHAOUEN",
+    "AdresseA": "دوار تازخت جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT KHEMIS MDIAQ",
+    "NOM_ETABA": "الثانوية التأهيلية خميس المضيق",
+    "AdresseL": "CENTRE DE LA COMMUNE BNI SELMANE",
+    "AdresseA": "مركز جماعة بني سلمان",
+    "COMMUNE": "Bni Selmane",
+    "PROVINCE": "Chefchaouen",
+    "REGION": "Tanger-Tetouan-Al Hoceima",
+    "TYPE": "LYCEE"
+  }
+]

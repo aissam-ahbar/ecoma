@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "IBEN BATOUTA",
+    "NOM_ETABA": "ابن بطوطة",
+    "AdresseL": "QUARTIER ADMINISTRATIF COMMUNE EL KBAB",
+    "AdresseA": "الحي الاداري جماعة القباب",
+    "COMMUNE": "El Kbab",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LANDA",
+    "NOM_ETABA": "لاندة",
+    "AdresseL": "DOUAR LANDA COMMUNE EL KBAB",
+    "AdresseA": "دوار لاندة جماعة القباب",
+    "COMMUNE": "El Kbab",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BOULLAFT",
+    "NOM_ETABA": "بواللفت",
+    "AdresseL": "DOUAR BOULLAFT COMMUNE EL KBAB",
+    "AdresseA": "دوار بواللفت جماعة القباب",
+    "COMMUNE": "El Kbab",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "TAMHARERT",
+    "NOM_ETABA": "تامحررت",
+    "AdresseL": "DOUAR TAMHARART CPMMUNE EL KBAB",
+    "AdresseA": "دوار تامحررت جماعة القباب",
+    "COMMUNE": "El Kbab",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGHBALOU NTGHARIINE",
+    "NOM_ETABA": "اغبالو نتغريين",
+    "AdresseL": "DOUAR AGHBALOU NTGHARIENE COMMUNE EL KBAB",
+    "AdresseA": "دوار اغبالو نتغريين جماعة القباب",
+    "COMMUNE": "El Kbab",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TAZIZAOUTE",
+    "NOM_ETABA": "الثانوية التأهيلية تازيزاوت",
+    "AdresseL": "EL KBAB CENTRE COMMUNE EL KBAB",
+    "AdresseA": "مركز جماعة الفباب",
+    "COMMUNE": "El Kbab",
+    "PROVINCE": "Khénifra",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  }
+]

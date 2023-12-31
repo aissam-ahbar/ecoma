@@ -1,0 +1,82 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL MANSOUR EDDAHBI",
+    "NOM_ETABA": "الثانوية الإعدادية المنصور الذهبي",
+    "AdresseL": "DOUAR BOUHRAWA",
+    "AdresseA": "دوار بوهراوة",
+    "COMMUNE": "Bouarg",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL BOUARG",
+    "NOM_ETABA": "الثانوية الإعدادية بوعرك",
+    "AdresseL": "BOUARG",
+    "AdresseA": "بوعرك",
+    "COMMUNE": "Bouarg",
+    "PROVINCE": "Province: Nador",
+    "REGION": "Oriental",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULAD CHAAIB",
+    "NOM_ETABA": "مجموعة مدارس اولاد شعيب",
+    "AdresseL": "DOUAR OULAD CHAIB COMMUNE bouarg",
+    "AdresseA": "دوار اولاد شعيب",
+    "COMMUNE": "Bouarg",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE  BOUARG",
+    "NOM_ETABA": "مجموعة مدارس بوعرك",
+    "AdresseL": "COMMUNE BOUARG CENTRE",
+    "AdresseA": "جماعة بوعرك",
+    "COMMUNE": "Bouarg",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE OULAD BOUATIYA",
+    "NOM_ETABA": "مجموعة مدارس اولاد بوعطية",
+    "AdresseL": "oulad bouattyya",
+    "AdresseA": "اولاد بوعطية",
+    "COMMUNE": "Bouarg",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE AL IMAM TABARI",
+    "NOM_ETABA": "مجموعة مدارس الإمام الطبري",
+    "AdresseL": "secteur scolaire imam tabari bouarg",
+    "AdresseA": "مجموعة مدارس الإمام الطبري ببوعرك",
+    "COMMUNE": "Bouarg",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE ALJAZIRA",
+    "NOM_ETABA": "مجموعة مدارس الجزيرة",
+    "AdresseL": "SECT ZAAJ BLOC46   BOUARG NADOR",
+    "AdresseA": "سكتور زعاج بلوك 46 بوعرك الناظور",
+    "COMMUNE": "Bouarg",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SECTEUR SCOLAIRE HARCHA",
+    "NOM_ETABA": "مجموعة مدارس الحرشة",
+    "AdresseL": "DOUAR HARCHA COMMUNE bouarg",
+    "AdresseA": "دوار الحرشة",
+    "COMMUNE": "Bouarg",
+    "PROVINCE": "Nador",
+    "REGION": "Oriental",
+    "TYPE": "PRIMAIRE"
+  }
+]

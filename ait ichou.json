@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "DAKHLA",
+    "NOM_ETABA": "الداخلة",
+    "AdresseL": "DOUAR TILIWINE COMMUNE AIT ICHOU",
+    "AdresseA": "د تيليوين ج ايت يشو",
+    "COMMUNE": "Ait Ichou",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ILAGHMAN AIN JAMAA",
+    "NOM_ETABA": "عين الجمعة",
+    "AdresseL": "DOUAR ILAGHMAN AIN JAMAA COMMUNE AIT ICHOU",
+    "AdresseA": "عين الجمعة ج ايت يشو",
+    "COMMUNE": "Ait Ichou",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

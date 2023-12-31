@@ -1,0 +1,72 @@
+[
+  {
+    "NOM_ETABL": "lycée Collégial OUED AMLIL",
+    "NOM_ETABA": "الثانوية الإعدادية وادي أمليل",
+    "AdresseL": "OUED AMLIL CENTRE",
+    "AdresseA": "وادي أمليل المركز",
+    "COMMUNE": "Oued Amlil",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN AL BANAA ALMORAKECHI",
+    "NOM_ETABA": "الثانوية الإعدادية ابن البناء المراكشي",
+    "AdresseL": "OUED AMLIL CENTRE",
+    "AdresseA": "وادي امليل المركز",
+    "COMMUNE": "Oued Amlil",
+    "PROVINCE": "Province: Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "école OUED AMLIL",
+    "NOM_ETABA": "مدرسة وادي أمليل",
+    "AdresseL": "OUED AMLIL CENTRE",
+    "AdresseA": "وادي أمليل المركز",
+    "COMMUNE": "Oued Amlil",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "EL MAHATTA -OUED AMLIL-",
+    "NOM_ETABA": "المحطة - وادي أمليل -",
+    "AdresseL": "OUED AMLIL CENTRE",
+    "AdresseA": "وادي أمليل المركز",
+    "COMMUNE": "Oued Amlil",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "lycée qualifiant AL WAHDA",
+    "NOM_ETABA": "الثانوية التأهيلية الوحدة ",
+    "AdresseL": "OUED AMLIL CENTRE",
+    "AdresseA": "وادي أمليل المركز",
+    "COMMUNE": "Oued Amlil",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "agla",
+    "NOM_ETABA": "أكلا",
+    "AdresseL": "hay agla",
+    "AdresseA": "حي أكلا",
+    "COMMUNE": "Oued Amlil ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire ain touda",
+    "NOM_ETABA": "مجموعة مدارس عين تودة",
+    "AdresseL": "hay agla oued amlil taza",
+    "AdresseA": "حي أكلا وادي امليل تازةا",
+    "COMMUNE": "Oued Amlil ",
+    "PROVINCE": "Taza",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIVE"
+  }
+]

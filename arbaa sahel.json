@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "SS JABIR IBN HAYAN CENTRE BOUZERZ",
+    "NOM_ETABA": "م.م جابر بن حيان مركزية بوزرز",
+    "AdresseL": "DOUAR bouzerz",
+    "AdresseA": " دوار بوزرز",
+    "COMMUNE": "Arbaa Sahel",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ABDELKARIM ELKHATABI CENTRE BOUZGUER",
+    "NOM_ETABA": "م.م عبدالكريم الخطابي مركزية بوزكر",
+    "AdresseL": "DOUAR BOUZGUER ARBAA SAHEL",
+    "AdresseA": "دوار بوزكر",
+    "COMMUNE": "Arbaa Sahel",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS 11 JANVIER CENTRE KRAIMA",
+    "NOM_ETABA": "م.م 11 يناير مركزية الكريمة ",
+    "AdresseL": "DOUAR KRAIMA",
+    "AdresseA": "دوار الكريمة",
+    "COMMUNE": "Arbaa Sahel",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOHAMED BEN EL HACHEMI CENTRE ICHAFODN",
+    "NOM_ETABA": "م.م محمد بن الهاشمي مركزية اشافوطن",
+    "AdresseL": "DOUAR ICHAFODN",
+    "AdresseA": "دوار اشافوضن",
+    "COMMUNE": "Arbaa Sahel",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS TAHER ESSAMLALI CENTRE YOUGUITE",
+    "NOM_ETABA": "م.م الطاهر السملالي مركزية يوكيت ",
+    "AdresseL": "DOUAR YOUGUITE",
+    "AdresseA": "دوار يوكيت",
+    "COMMUNE": "Arbaa Sahel",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT BRAHIM OUAKHZANE",
+    "NOM_ETABA": "الثانوية التأهيلية ابراهيم وخزان",
+    "AdresseL": " centre COMMUNE ARBAA SAHEL",
+    "AdresseA": "مركز جماعة اربعاء الساحل",
+    "COMMUNE": "Arbaa Sahel",
+    "PROVINCE": "Tiznit",
+    "REGION": "Souss-Massa",
+    "TYPE": "LYCEE"
+  }
+]

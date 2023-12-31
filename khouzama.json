@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL KHOUZAMA",
+    "NOM_ETABA": "الثانوية الإعدادية خزامة",
+    "AdresseL": "DOUAR TACHAKCHTE COMMUNE KHOUZAMA",
+    "AdresseA": "دوار تشاكشت جماعة خزامة",
+    "COMMUNE": "Khouzama",
+    "PROVINCE": "Province: Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S KHZAMA",
+    "NOM_ETABA": "م.م. خزامة",
+    "AdresseL": " DOUAR TACHAKCHTE COMMUNE KHZAMA",
+    "AdresseA": "دوار تشاكشت جماعة خزامة",
+    "COMMUNE": "Khouzama",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S TOURTITE",
+    "NOM_ETABA": "م/م تورتيت",
+    "AdresseL": "DOUAR TOURTITE KHOUZAMA TAZNAKHTE",
+    "AdresseA": " دوار تورتيت خزامة تزناخت",
+    "COMMUNE": "Khouzama",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ANMID",
+    "NOM_ETABA": "م.م. انميد",
+    "AdresseL": "douar anmid ait maghlif KHZAMA",
+    "AdresseA": "دوار أنميد أيت مغليف خزامـة",
+    "COMMUNE": "Khouzama",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S AIT KALLA",
+    "NOM_ETABA": "م.م. ايت قالة",
+    "AdresseL": "DOUAR AIT KALLA KHOUZAMA OUARZAZATE",
+    "AdresseA": "دوار أيت قالة  جماعة خزامة ",
+    "COMMUNE": "Khouzama",
+    "PROVINCE": "Ouarzazate",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

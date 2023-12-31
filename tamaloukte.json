@@ -1,0 +1,22 @@
+[
+  {
+    "NOM_ETABL": "C ENNOUR",
+    "NOM_ETABA": " ثإ.النور ",
+    "AdresseL": "centre commune tamaloukte",
+    "AdresseA": "مركز جماعة تمالوكت",
+    "COMMUNE": "Tamaloukte",
+    "PROVINCE": "Province: Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS WAHDA ELMAGHARIBIA",
+    "NOM_ETABA": "م.م الوحدة المغاربية",
+    "AdresseL": "DOUAR  AIT TALEB CTAMALOUKTE",
+    "AdresseA": "د. ايت الطالب",
+    "COMMUNE": "Tamaloukte",
+    "PROVINCE": "Taroudannt",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

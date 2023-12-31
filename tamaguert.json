@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": " TAMAGUERTE CENTRALE",
+    "NOM_ETABA": " مركزية تمكرت",
+    "AdresseL": "DOUAR TAGARTE COMMUNE TAMAGUERT",
+    "AdresseA": "دوار تكارط جماعة تمكرت        ",
+    "COMMUNE": "Tamaguert",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AZMIME",
+    "NOM_ETABA": "ازميم",
+    "AdresseL": "DOUAR AZMIM COMMUNE TAMAGUERT",
+    "AdresseA": "دوار  ازميم جماعة تمكرت قيادة التوامة",
+    "COMMUNE": "Tamaguert",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AGOUJGALE",
+    "NOM_ETABA": "اكجكال",
+    "AdresseL": "DOUAR AGOUJGAL COMMUNE TAMAGUERT",
+    "AdresseA": "دوار اكجكال جماعة تمكرت",
+    "COMMUNE": "Tamaguert",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AIN ERROUMMANE",
+    "NOM_ETABA": "عين الرمان",
+    "AdresseL": "DOUAR AIN ERROUMMANE COMMUNE TAMAGUERT",
+    "AdresseA": "دوار عين الرمان جماعة تمكرت قيادة التوامة",
+    "COMMUNE": "Tamaguert",
+    "PROVINCE": "Al  Haouz",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  }
+]

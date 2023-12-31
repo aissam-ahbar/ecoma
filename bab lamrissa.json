@@ -1,0 +1,652 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ANOUAL",
+    "NOM_ETABA": "الثانوية الإعدادية أنوال",
+    "AdresseL": "lotissement said hajji lmrissa salé",
+    "AdresseA": "تجزئة سعيد حجي لمريسة سلا",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL MOUQAWAMA",
+    "NOM_ETABA": "الثانوية الإعدادية المقاومة",
+    "AdresseL": "Lot Said Hajji Lamrissa",
+    "AdresseA": "تجزئة سعيد حجي المريسسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AL KOUTOUBIA",
+    "NOM_ETABA": "الثانوية الإعدادية الكتبية",
+    "AdresseL": "Route de Kénitra salé",
+    "AdresseA": "طريق القنيطرة  خارج الأقواس  سلا",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IMAM CHATIBI",
+    "NOM_ETABA": "الثانوية الإعدادية الإمام الشاطبي",
+    "AdresseL": "HAY EL AMAL LAMRISSA",
+    "AdresseA": "حي الأمل المريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL CHALLAH",
+    "NOM_ETABA": "الثانوية الإعدادية شالة",
+    "AdresseL": "HAY AMAL COMMUNE BAB LAMRISSA",
+    "AdresseA": "حي الأمل جماعة باب المريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LALLA HASNA",
+    "NOM_ETABA": " الثانوية الإعدادية للا حسناء",
+    "AdresseL": "AV LALLA HASNA COMMUNE BAB LAMRISSA",
+    "AdresseA": "شارع للا حسناء باب سبتة  المريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDELAZIZ BEN CHAKROUN",
+    "NOM_ETABA": "الثانوية الإعدادية عبد العزيز بن شقرون",
+    "AdresseL": "SIDI YEDDER COMMUNE BAB LAMRISSA",
+    "AdresseA": "سيدي يدر المريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ABBAD",
+    "NOM_ETABA": "الثانوية الإعدادية إبن عباد",
+    "AdresseL": "AV 2 MARS COMMUNE bab LAMRISSA",
+    "AdresseA": "شارع 2مارس باب الخميس لمريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ABDERRAHMAN HAJJI",
+    "NOM_ETABA": "الثانوية الإعدادية عبد الرحمان حجي",
+    "AdresseL": "SIDI MOUSSA COMMUNE BAB LAMRISSA",
+    "AdresseA": "سيدي موسى المريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL OKBA IBN NAFIE",
+    "NOM_ETABA": "الثانوية الإعدادية عقبة بن نافع",
+    "AdresseL": "SANIAT HAMMANI SIDI MOUSSA COMMUNE BAB LAMRISSA",
+    "AdresseA": "سانية حماني سيدي موسى باب لمريسة ",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOULAY MEKKI ALAOUI",
+    "NOM_ETABA": "مدرسة مولاي المكي العلوي",
+    "AdresseL": "AV MY ALI CHRIF COMMUNE BAB LAMRISSA",
+    "AdresseA": "شارع مولاي علي الشريف  لمريسة - سلا",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  FATIMA EL FIHRIA",
+    "NOM_ETABA": "مدرسة فاطمة الفهرية",
+    "AdresseL": "AV 2 MARS COMMUNE BAB LAMRISSA",
+    "AdresseA": "شارع 2 مارس باب الخميس سلا المدينة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  HAMMAN ELFATOUAKI",
+    "NOM_ETABA": "مدرسة حمان الفطواكي",
+    "AdresseL": "BAB SEBTA COMMUNE BAB LAMRISSA",
+    "AdresseA": "باب سبتة لمريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZINE EL ABIDINE BENABOUD",
+    "NOM_ETABA": "مدرسة زين العابدين بن عبود",
+    "AdresseL": "SIDI MOUSSA COMMUNE BAB LAMRISSA",
+    "AdresseA": "سيدي موسى",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  SIDI MOUSSA DOUKKALI",
+    "NOM_ETABA": "مدرسة سيدي موسى الدكالي",
+    "AdresseL": "BAB CHAAFA COMMUNE BAB LAMRISSA",
+    "AdresseA": "خارج باب شعفة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ALLAMA ALI AOUAD",
+    "NOM_ETABA": "مدرسة العلامة علي عواد",
+    "AdresseL": "LOTISSEMENT 2 ROUTE KENITRA COMMUNE BAB LAMRISSA",
+    "AdresseA": "سيدي موسى العلامة علي عواد طريق القنيطرة سلا",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ZOUBEIR BNOU EL OUAM",
+    "NOM_ETABA": "مدرسة الزوبير بن العوام",
+    "AdresseL": "SANIAT SALIMA SIDI MOUSSA",
+    "AdresseA": "سيدي موسى",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED EL JARIRI",
+    "NOM_ETABA": "مدرسة أحمد الجريري",
+    "AdresseL": "AV ENASIR SIDI MOUSSA",
+    "AdresseA": "شارع النصر سيدي موسى",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ASSAKIA EL HAMRA",
+    "NOM_ETABA": "مدرسة الساقية الحمراء",
+    "AdresseL": "HAY CHMAOU RKENITRA COMMUNE BAB LAMRISSA",
+    "AdresseA": "حي اشماعو",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  LAFKIH BRITEL",
+    "NOM_ETABA": "مدرسة الفقيه محمد بريطل",
+    "AdresseL": "LOTISSEMENT RACHID DOUIBI ROUTE KENITRA SALE",
+    "AdresseA": "تجزئة رشيد الدويبي طريق القنيطرة - سلا",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  CHOUHADA",
+    "NOM_ETABA": " مدرسة الشهداء",
+    "AdresseL": "HAY CHMAOU COMMUNE COMMUNE BAB LAMRISSA",
+    "AdresseA": "حي اشماعو",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  MOHAMED BEN ABDELKRIM EL KHATTABI",
+    "NOM_ETABA": "مدرسة محمد بن عبد الكريم الخطابي",
+    "AdresseL": "AVENUUE PHILISTINE  HAY LAMKINSIA",
+    "AdresseA": "شارع فلسطين حي المكينسية",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABOU AL KACEM ACHCHABI",
+    "NOM_ETABA": "مدرسة أبي القاسم الشابي",
+    "AdresseL": "rot de kenitra km3",
+    "AdresseA": "طريف الفنيطرة زنقة أكاسيا كلم 3",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AL ATLAS",
+    "NOM_ETABA": "مدرسة الاطلس",
+    "AdresseL": "LOTISSEMENT  SAID  HAJJI",
+    "AdresseA": "باب لمريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  AHMED BOUKMAKH",
+    "NOM_ETABA": "مدرسة أحمد بوكماخ",
+    "AdresseL": "lot said hajji",
+    "AdresseA": "تجزئة سعيد حجي",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE  ABDELOUAHED ALMORRAKOCHI",
+    "NOM_ETABA": "مدرسة عبد الواحد المراكشي",
+    "AdresseL": " zankat hanoune sidi moussa",
+    "AdresseA": "سيدي موسى زنقة حانون",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMED JAMAL ADOURRA",
+    "NOM_ETABA": "الثانوية التأهيلية محمد جمال الدرة",
+    "AdresseL": "lot said hajji",
+    "AdresseA": "سعيد حجي",
+    "COMMUNE": "Bab Lamrissa ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ELBATOUL SBIHI",
+    "NOM_ETABA": "الثانوية التأهيلية الباتول الصبيحي",
+    "AdresseL": "HORS BAB SEBTA LAMRISSA",
+    "AdresseA": "خارج باب سبتة المريسة",
+    "COMMUNE": "Bab Lamrissa ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABI BAKR ELKADIRI",
+    "NOM_ETABA": "الثانوية التأهيلية ابي بكر القادري",
+    "AdresseL": "lamrissa",
+    "AdresseA": "المريسة",
+    "COMMUNE": "Bab Lamrissa ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ABDERRAHIM BOUABID",
+    "NOM_ETABA": "الثانوية التأهيلية عبد الرحيم بوعبيد",
+    "AdresseL": "lotissment Said HAJJI route de mehdia ",
+    "AdresseA": "تجزئة سعيد حجي طريق مهدية ",
+    "COMMUNE": "Bab Lamrissa ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT ANNAHDA",
+    "NOM_ETABA": "الثانوية التأهيلية النهضة",
+    "AdresseL": "BAB CHAAFA COMMUNE BAB LAMRISSA",
+    "AdresseA": "باب شعفة  جماعة المريسة",
+    "COMMUNE": "Bab Lamrissa ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT SALAH EDDINE EL AYOUBI",
+    "NOM_ETABA": "الثانوية التأهيلية صلاح الدين الأيوبي",
+    "AdresseL": "BAB SEBTA COMMUNE BAB LAMRISSA",
+    "AdresseA": "باب سبتة  جماعة المريسة",
+    "COMMUNE": "Bab Lamrissa ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE ALFARABI",
+    "NOM_ETABA": " الثانوية التأهيلية الفارابي  التقنية",
+    "AdresseL": "HAY AL MKINSSIA  COMMUNE BAB LAMRISSA",
+    "AdresseA": "حي المكينسية  جماعة المريسة",
+    "COMMUNE": "Bab Lamrissa ",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "OUM EL BANINE",
+    "NOM_ETABA": "ام البنين",
+    "AdresseL": "67 Rue errazi lamkinssia sale",
+    "AdresseA": "67 زنقة الرازي المكينسية سلا",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MAARIF ( ANNEXE)",
+    "NOM_ETABA": "ملحقة مجموعة مدارس المعارف",
+    "AdresseL": "44 Lot Merzouka de KENITRA",
+    "AdresseA": "44 إقامة مرزوقة طرقيق القنيطرة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL HORRA MAGHREB TARBIYA",
+    "NOM_ETABA": "الحرة مغرب التربية",
+    "AdresseL": "1 AV  SALAH EDDIN  RESIDENCE  ",
+    "AdresseA": "1 ش  صلاح الدين إقامة الأندلس ",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SALSABIL",
+    "NOM_ETABA": "سلسبيل",
+    "AdresseL": "Hay Said Hajji, ROUTE Kenitra",
+    "AdresseA": "حي سعيد حجي طريق القنيطرة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT AL YAKADA II",
+    "NOM_ETABA": "معهد اليقظة 2",
+    "AdresseL": "lot koutoubia i route de kenit",
+    "AdresseA": "تجزئة  الكتبية 1 طريق القنيطرة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARRISSALA ATTARBAOUIA",
+    "NOM_ETABA": "الرسالة التربوية",
+    "AdresseL": "lot Al youssra et Azzarka hay ",
+    "AdresseA": "تجزئة اليسرى والزرقاء حي اشماع",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ALMAARIF2",
+    "NOM_ETABA": "مجموعة مدارس المعارف 2",
+    "AdresseL": "rue kenitra hay bouchouk km 6",
+    "AdresseA": "طريق القنيطرة حي بوشوك كلم 6",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KACEM AMINE",
+    "NOM_ETABA": "قاسم أمين",
+    "AdresseL": "Avenue Oujada, Sidi Moussa",
+    "AdresseA": "شارع وجادة، سيدي موسى",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT EL MOHAMMADIA",
+    "NOM_ETABA": "المؤسسة المحمدية",
+    "AdresseL": "A côté du mausolée Sidi Abdell",
+    "AdresseA": "قرب ضريح سيدي عبد الله بن حسون",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MAARIF",
+    "NOM_ETABA": "مجموعة مدارس المعارف",
+    "AdresseL": "44 Lotissement Marzouka Route ",
+    "AdresseA": "تجزئة مرزوقة طريق القنيطرة سلا",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ECOLE JOURI CHERKAOUIE",
+    "NOM_ETABA": "جوري الشرقاوي ",
+    "AdresseL": "44,Lotissement Cherkaoui Bab S",
+    "AdresseA": "تجزئة الشرقاوي باب سبتة لمريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE SALSABIL",
+    "NOM_ETABA": "ملحقة سلسبيل",
+    "AdresseL": "lot said haji n 90 ",
+    "AdresseA": "تجزئة سعيد حجي رقم 90",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT YAKADA POUR L ENSEIGNEMENT SCOLAIRE",
+    "NOM_ETABA": "معهد اليقظة للتعليم المدرسي الخصوصي",
+    "AdresseL": "Avenu Docteur Abd Elkrim Khati",
+    "AdresseA": "شارع الدكتور عبد الكريم الخطيب",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE QIABI POUR L ENSEIGNEMENT",
+    "NOM_ETABA": "مجموعة مدارس قيابي للتعليم الخاص",
+    "AdresseL": "Modulec 1-1 km 3 route kénitra",
+    "AdresseA": "موديلك 1-1 كلم 3 طريق القنيطرة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LES PALMIERS 1",
+    "NOM_ETABA": "مجموعة مدارس النخيل 1",
+    "AdresseL": "said haji block 38 bab lmrissa",
+    "AdresseA": "سعيد حجي بلوك 38 باب لمريسة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ABIDE",
+    "NOM_ETABA": "مجموعة مدارس عابد الخصوصية",
+    "AdresseL": "av med said el alaoui sidi mou",
+    "AdresseA": "شارع محمد السعيد العلوي سيدي م",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE LAMZIBRI ",
+    "NOM_ETABA": "مجموعة مدارس لمزيبري الخصوصية",
+    "AdresseL": "av aljazerra tariq mehdiya ",
+    "AdresseA": "شارع الجزيرة طريق مهدية باب لم",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT SHAMS SALE",
+    "NOM_ETABA": "شمس سلا للتربية والتعليم الأولي",
+    "AdresseL": "LOT CHAMS ROUTE MEHDIYA SISDI ",
+    "AdresseA": "تجزئة شمس طريق المهدية سيدي مو",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "KATAKIT AL HOUDA",
+    "NOM_ETABA": "كتاكيت الهدى",
+    "AdresseL": "lot said hajji n 66 rue sour",
+    "AdresseA": "تجزئة سعيد حجي رقم 66 زنقة صور",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE ARRESSALA TARBAOUIYA PRESCOLAIRE",
+    "NOM_ETABA": "ملحقة الرسالة التربوية للتعليم الأولي",
+    "AdresseL": "residence yousra et zarkae vil",
+    "AdresseA": "تجزئة اليسرى والزرقاء فيلا30 ح",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AB EDUCATION",
+    "NOM_ETABA": "اب إديكاسيون",
+    "AdresseL": "SAID HAJI RED BOUSTANE 4 IMM 2",
+    "AdresseA": "سعيد حجي إقامة البستان 4 عمارة",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "sandrella",
+    "NOM_ETABA": "ساندريلا",
+    "AdresseL": "N 33 lot dada route mahdiya lm",
+    "AdresseA": "رقم 33 تجزئة دادة الطابق السفل",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "EL MAAROUFI",
+    "NOM_ETABA": "المعروفي",
+    "AdresseL": "n 483 rue el hayaniya 2 sisdi ",
+    "AdresseA": "رقم 483 زنقة الحيانية2 سيدي مو",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE KACEM IBRAHIM",
+    "NOM_ETABA": "مجموعة مدارس قاسم إبراهيم الخصوصية",
+    "AdresseL": "el mahdi zankat ouajada sanya ",
+    "AdresseA": "المهدي زنقة وجادة سانية البغدا",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUTION NEJJARE",
+    "NOM_ETABA": "مؤسسة النجار الخصوصية",
+    "AdresseL": "avenue mohamed arradi asslaoui",
+    "AdresseA": "شارع محمد الراضي السلاوي رقم03",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOBLE SCHOOL",
+    "NOM_ETABA": "نوبل سكول",
+    "AdresseL": "SANYAT GHRABLIYA AV MOULAY HAF",
+    "AdresseA": "سانية الغرابلية شارع مولاي حفي",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOBLE SCHOOL2",
+    "NOM_ETABA": "نوبل سكول2",
+    "AdresseL": "LOT LALLA MERIEM N 156 HAY CHM",
+    "AdresseA": "تجزئة للا مريم رقم 156 حي اشما",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ARD ESSALAM 2",
+    "NOM_ETABA": "أرض السلام 2",
+    "AdresseL": "hay sidi moussa-BD ENNASSER.",
+    "AdresseA": "حي سيدي موسى- شارع النصر",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ANNEXE ARESSALA TARBAWIYA PRIMAIRE",
+    "NOM_ETABA": "ملحقة الرسالة التربوية التعليم الابتدائي",
+    "AdresseL": "lot yousra et zarkae n b19 hay",
+    "AdresseA": "تجزئة اليسرى والزرقاء رقم ب19 ",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE ECOLE SHAMS AL ASSILE",
+    "NOM_ETABA": "مجموعة مدارس شمس الأصيل الخصوصية",
+    "AdresseL": "lotissement FADl Allah, 34, la",
+    "AdresseA": "تجزئة فضل الله رقم 34 المريسة ",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT NAJAH DE L AVENIR",
+    "NOM_ETABA": "مؤسسة نجاح المستقبل",
+    "AdresseL": "n 523 hay chmaou",
+    "AdresseA": "رقم 523 حي اشماعو",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE AL MAAMOUN",
+    "NOM_ETABA": "مجموعة مدارس المامون الخصوصية",
+    "AdresseL": "LOTISSEMENT ZAITOUN 4 ème TRAN",
+    "AdresseA": "تجزئة الزيتون الشطر الرابع رقم",
+    "COMMUNE": "Bab Lamrissa",
+    "PROVINCE": "Salé",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NOM_ETABL": "AIT SIBERNE",
+    "NOM_ETABA": "أيت سيبرن",
+    "AdresseL": "CENTRE AIT SIBERNE COMMUNE AIT SIBERNE",
+    "AdresseA": "مركز أيت سيبرن",
+    "COMMUNE": "Ait Siberne",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "AIT SIBERNE",
+    "NOM_ETABA": "ايت سيبرن",
+    "AdresseL": "village AIT SIBERNE COMMUNE AIT SIBERNE",
+    "AdresseA": "قرية وادي بهت جماعة ايت سيبرن",
+    "COMMUNE": "Ait Siberne",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUTARGA",
+    "NOM_ETABA": "سيدي بوطركة",
+    "AdresseL": "DOUAR SIDI BOUTARGA COMMUNE AIT SIBERNE",
+    "AdresseA": "د سيدي بوطركة  ج ايت سيبرن",
+    "COMMUNE": "Ait Siberne",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  }
+]

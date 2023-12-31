@@ -1,0 +1,492 @@
+[
+  {
+    "NOM_ETABL": "03-mars",
+    "NOM_ETABA": " مارس3",
+    "AdresseL": "HAY ALANDALOUS MUNICIPALITE TIFLET",
+    "AdresseA": "  حي الاندلس تيفلت",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN AJERROUM",
+    "NOM_ETABA": "ابن اجروم",
+    "AdresseL": "RUE asila MUNICIPALITE TIFLET",
+    "AdresseA": "زنقة اصيلا",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ZINEB ENNAFZAOUIA",
+    "NOM_ETABA": "زينب النفزوية",
+    "AdresseL": "hay assalam TIFLET CENTRE",
+    "AdresseA": "حي السلام 2 تيفلت",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBNOU HAZM",
+    "NOM_ETABA": "ابن حزم",
+    "AdresseL": "TIFeLT",
+    "AdresseA": "تيفلت",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "TIFELT",
+    "NOM_ETABA": "تيفلت",
+    "AdresseL": "quartier errachad",
+    "AdresseA": "حي الرشاد",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Province: Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "IBN ZEYDOUNE",
+    "NOM_ETABA": "ابن زيدون",
+    "AdresseL": "AVENUE MY ABDELLAH",
+    "AdresseA": "شارع مولاي عبد الله",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "IBN KHALDOUNE",
+    "NOM_ETABA": "ابن خلدون",
+    "AdresseL": "HAY ALAMAL TIFLET",
+    "AdresseA": "حي الامل",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "FATIMA FIHRIA",
+    "NOM_ETABA": "فاطمة الفهرية",
+    "AdresseL": "HAY ALFARAH",
+    "AdresseA": "حي الفرح",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOULKACEM CHABI",
+    "NOM_ETABA": "ابو القاسم الشابي",
+    "AdresseL": "AVENUE MASSIRA",
+    "AdresseA": "شارع المسيرة",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAFSA BENT OMAR",
+    "NOM_ETABA": "حفصة بنت عمر",
+    "AdresseL": "ROUTE DE RABAT Avenue M 5",
+    "AdresseA": " شارع محمد الخامس .طريق الرباط",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BANI AMROU",
+    "NOM_ETABA": "بنو عمرو",
+    "AdresseL": " quartier takaddoume ROUTE DE RABAT",
+    "AdresseA": "  حي التقدم طريق الرباط",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "JABER IBN HAYANE",
+    "NOM_ETABA": "جابر بن حيان",
+    "AdresseL": "HAY AL ANDALOUS",
+    "AdresseA": "حي الاندلس",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HAY AL JADID",
+    "NOM_ETABA": "حي الجديد",
+    "AdresseL": "HAY AL JADID MUNICIPALITE TIFLET",
+    "AdresseA": "حي الجديد",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HASSANE IBN TABITE",
+    "NOM_ETABA": "حسان بن ثابث",
+    "AdresseL": "HAY ERRACHAD MUNICIPALITE TIFLET",
+    "AdresseA": "حي الرشاد",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "HALIMA ASSAADIA",
+    "NOM_ETABA": "حليمة السعدية",
+    "AdresseL": "HAY ENNAHDA MUNICIPALITE TIFLET",
+    "AdresseA": "حي النهضة  بلدية   تيفلت     ",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "AL ANDALOUSS",
+    "NOM_ETABA": "الاندلس",
+    "AdresseL": "HAY AL ANDALOUS TIFLET",
+    "AdresseA": "حي الاندلس",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ABOU HANIFA",
+    "NOM_ETABA": "ابو حنيفة",
+    "AdresseL": "hay essalam TIFLET CENTRE",
+    "AdresseA": "حي السلام",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SALAH BELARBI",
+    "NOM_ETABA": "صلاح بالعربي",
+    "AdresseL": "Tiflet centre",
+    "AdresseA": "تيفلت المركز",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "DALIA",
+    "NOM_ETABA": "الدالية",
+    "AdresseL": "Quartier DALIA",
+    "AdresseA": "حي الدالية",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUED EDDAHAB",
+    "NOM_ETABA": "واد الدهب",
+    "AdresseL": "AVENUE MASSIRA MUNICIPALITE KHEMISSET",
+    "AdresseA": "شارع المسيرة",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "ABDELKARIM KHATTABI",
+    "NOM_ETABA": "عبد الكريم الخطابي",
+    "AdresseL": "CENTRE TIFLET COMMUNE TIFLET",
+    "AdresseA": "تيفلت المركز",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "DRISS BENZEKRI",
+    "NOM_ETABA": "ادريس بنزكري",
+    "AdresseL": "Tiflet centre",
+    "AdresseA": "تيفلت المركز",
+    "COMMUNE": "Tiflet",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "cousteau school ",
+    "NOM_ETABA": "كوسطو سكوول الخاصة",
+    "AdresseL": "lotissement nawal ",
+    "AdresseA": "تجزئة نوال",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPEMENT SCOLAIRE SAFWAT ROSTOM 2",
+    "NOM_ETABA": "مجموعة مدارس صفوة رستم 2 ",
+    "AdresseL": "NULL",
+    "AdresseA": "فيلا رقم 62 حي الاندلس",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "G.S PANDA",
+    "NOM_ETABA": "المجموعة المدرسية  باندا الخصوصية ",
+    "AdresseL": "LOTISSEMENT ELKARAM 2",
+    "AdresseA": "تجزئة الكرم 2",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ETABLISSEMENT FUTURE GENERATION",
+    "NOM_ETABA": "مؤسسة جيل الغد الخصوصية",
+    "AdresseL": "Villa N° 189/190, Hay Al Andal",
+    "AdresseA": "فيلا رقم 189/190، حي الأندلس -",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Zemmour",
+    "NOM_ETABA": "زمور",
+    "AdresseL": "Quartier Administratif - Commu",
+    "AdresseA": "الحي الإداري - جماعة تفيلت",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Annour",
+    "NOM_ETABA": "النور",
+    "AdresseL": "N° 51, Cité Al Andalous - C. T",
+    "AdresseA": "رقم 51، حي الأندلس - ج. تيفلت",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "maamoura",
+    "NOM_ETABA": "معمورة",
+    "AdresseL": "398 Lotissement Dalia",
+    "AdresseA": "398 تجزئة الدالية تيفلت",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL AZHAR",
+    "NOM_ETABA": "الأزهر",
+    "AdresseL": "VILLA 162 HAY ANDALOUS TIFLET",
+    "AdresseA": "رقم 162 حي الآندلس تيفلت",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ROSTOM",
+    "NOM_ETABA": "مجموعة مدارس رستم الخصوصية",
+    "AdresseL": " Avenue monaliza N 19 quartier",
+    "AdresseA": "شارع موناليزا رقم 19 الحي الإد",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "LE PETIT NAVIRE",
+    "NOM_ETABA": "المركب الصغير",
+    "AdresseL": "Villa 211 Hay Alandalous ",
+    "AdresseA": "فيلا 211 حي الأندلس ",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ESPACE FUTURE GENERATION",
+    "NOM_ETABA": "فضاء جيل الغد",
+    "AdresseL": "HAY AL ANDALOUS SUD BVD mohame",
+    "AdresseA": "حي الأندلس الجنوبية شارع محمد ",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GS Jasmine kids",
+    "NOM_ETABA": "م.م. ياسمين",
+    "AdresseL": "lot halima",
+    "AdresseA": "تجزئة حليمة",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecolee le petit navire -annexe",
+    "NOM_ETABA": "مؤسسة المركب الصغير - الملحقة",
+    "AdresseL": "villa n 205 hay alandalous ",
+    "AdresseA": "فيلا رقم 205 حي الأندلس",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire benlahbib",
+    "NOM_ETABA": "مجموعة مدارس بنلحبيب",
+    "AdresseL": "n13 lot eddalia ",
+    "AdresseA": "رقم 13 تجزئة  الدالية",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole freres hajjaj",
+    "NOM_ETABA": "مدرسة الإخوة حجاج الخاصة",
+    "AdresseL": "lot ennabaouia 3 ",
+    "AdresseA": "تجزئة النبوية3 تيفلت",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "INSTITUT HABBANI",
+    "NOM_ETABA": "مؤسسة حباني الخصوصية",
+    "AdresseL": "d46 alandalous",
+    "AdresseA": "رقم 46 DF حي الاندلس ",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "SARA LAHLOU SCHOOL",
+    "NOM_ETABA": "سارة لحلو سكول الخصوصية",
+    "AdresseL": "Quartier adminitratif",
+    "AdresseA": "الحي الاداري",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ecole simba",
+    "NOM_ETABA": "مؤسسة سيمبا الخصوصية ",
+    "AdresseL": "lot.monaliza n°22 quartie admi",
+    "AdresseA": "تجزئة موناليزا رقم  22 الحي ال",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire dar al ailm",
+    "NOM_ETABA": "المجموعة المدرسية دار العلم الخصوصية",
+    "AdresseL": "lot. atakatouf,av.bir anzarane",
+    "AdresseA": "تجزئة التكاثف شارع بئر انزران ",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "groupe scolaire zghari 2",
+    "NOM_ETABA": "GROUPE SCOLAIRE ZGHARI 2",
+    "AdresseL": "HAY ELANDLOUS N 154",
+    "AdresseA": "حي الأندلس رقم 154",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire nour el fadila",
+    "NOM_ETABA": "مؤسسة نور الفضيلة للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 62 حي الاندلس الجنوبس",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire albatros",
+    "NOM_ETABA": "مؤسسة البطرس للتعليم الاولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 248 الحي الجديد بلوك 6",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire safwat zemmour",
+    "NOM_ETABA": "مؤسسة صفوة زمور للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 175 حي الأندلس",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement kidsclub sarl",
+    "NOM_ETABA": "مؤسسة كيدس كلوب للتعليم الاولي ش م م",
+    "AdresseL": "HAY EL ANDALOUS N D 26 ",
+    "AdresseA": "d26 حي الاندلس",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "etablissement prescolaire firdaous dalia",
+    "NOM_ETABA": "مؤسسة فردوس الدالية للتعليم الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "رقم 963 حي الدالية",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "Groupe scolaire  MASSARAT ALIRFANE",
+    "NOM_ETABA": "م.م مسارات العرفان",
+    "AdresseL": "villa 7 hay alandallous ljanou",
+    "AdresseA": "حي الأندلس الجنوبي رقم7 تيفلت",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "MASSARAT ALIRFANE - PRESCOLAIRE",
+    "NOM_ETABA": "مسارات العرفان الخصوصية - الأولي",
+    "AdresseL": "NULL",
+    "AdresseA": "1959, حي الدالية، تيفلت",
+    "COMMUNE": "Tiflet ",
+    "PROVINCE": "Khémisset",
+    "REGION": "Rabat-Salé-Kénitra",
+    "TYPE": "PRIVE"
+  }
+]

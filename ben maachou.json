@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL ATTAHADI",
+    "NOM_ETABA": "ثانوية التحدي الإعدادية",
+    "AdresseL": "douar rouissat",
+    "AdresseA": "دوار الرويسات",
+    "COMMUNE": "Ben Maachou",
+    "PROVINCE": "Province: Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ELMOUCHMA CENTRE",
+    "NOM_ETABA": "مركزية الموشمة",
+    "AdresseL": "DOUAR LAMOUCHMA COMMUNE BEN MAACHOU",
+    "AdresseA": " دوار الموشمة جماعة بن معاشو",
+    "COMMUNE": "Ben Maachou",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "BEN MAACHOU 1 CENTRE",
+    "NOM_ETABA": "مركزية بن معاشو 1",
+    "AdresseL": "DOUAR LEQOUASSMA COMMUNE BEN MAACHOU",
+    "AdresseA": "دوار القواسمة جماعة ابن معاشو",
+    "COMMUNE": "Ben Maachou",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OUM ERRABIA CENTRE",
+    "NOM_ETABA": "مركزية أم الربيع",
+    "AdresseL": "DOUAR LISSASFA COMMUNE BEN MAACHOU",
+    "AdresseA": "دوار ليساسفة جماعة بن معاشو 2",
+    "COMMUNE": "Ben Maachou",
+    "PROVINCE": "Berrechid",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

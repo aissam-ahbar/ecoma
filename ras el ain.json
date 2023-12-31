@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL EL IMAM GHAZALI",
+    "NOM_ETABA": " الثانوية الإعدادية الامام الغزالي",
+    "AdresseL": "CENTRE DE LA COMMUNE RAS EL AIN",
+    "AdresseA": "مركز جماعة  راس العين",
+    "COMMUNE": "Ras El Ain",
+    "PROVINCE": "Province: Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "CENTRE RAS EL EIN",
+    "NOM_ETABA": "مركزية راس العين",
+    "AdresseL": "DOUAR RASS EL AIN COMMUNE RASS EL AIN",
+    "AdresseA": "دوار راس العين جماعة راس العين",
+    "COMMUNE": "Ras El Ain",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE LAKAAMA",
+    "NOM_ETABA": "مركزية الكعاعمة",
+    "AdresseL": "DOUAR LAKAAAMA COMMUNE RASS EL AIN",
+    "AdresseA": "دوار الكعاعمة جماعة رأس العين",
+    "COMMUNE": "Ras El Ain",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE EL BDADGHA",
+    "NOM_ETABA": "مركزية البدادغة",
+    "AdresseL": "DOUAR LABDADGHA COMMUNE RASS EL AIN",
+    "AdresseA": "دوار لبدادغة جماعة رأس العين",
+    "COMMUNE": "Ras El Ain",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "CENTRE ARBIAA LAHRICHA",
+    "NOM_ETABA": "مركزية أربعاء الحريشة",
+    "AdresseL": "DOUAR ARBIAA LAHRICHA COMMUNE RAS EL AIN",
+    "AdresseA": "دوار أربعاء الحريشة جماعة رأس العين",
+    "COMMUNE": "Ras El Ain",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT MOHAMMED VI",
+    "NOM_ETABA": "الثانوية التأهيلية محمد السادس",
+    "AdresseL": "Centre commune RAS EL AIN",
+    "AdresseA": "مركز جماعة راس العين",
+    "COMMUNE": "Ras El Ain",
+    "PROVINCE": "Youssoufia",
+    "REGION": "Marrakech-Safi",
+    "TYPE": "LYCEE"
+  }
+]

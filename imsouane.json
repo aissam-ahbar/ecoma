@@ -1,0 +1,52 @@
+[
+  {
+    "NOM_ETABL": "LC RIYAD",
+    "NOM_ETABA": "ثانوية الرياض الإعدادية",
+    "AdresseL": "ASAKA COMMUNE IMSOUANE",
+    "AdresseA": "اساكا جماعة امسوان ",
+    "COMMUNE": "Imsouane",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS CHAHID AL HOUSSAIN BEN ALI SIDI BELKACEM",
+    "NOM_ETABA": "م.م الشهيد الحسين بن علي-سيدي بلقاسم",
+    "AdresseL": "DOUAR  SIDI BELKACEM COMMUNE  IMSOUANE",
+    "AdresseA": "دوار سيدي بلقاسم جماعة إمسوان",
+    "COMMUNE": "Imsouane",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS AIN AFRA AIN AFRA",
+    "NOM_ETABA": "م.م عين أفرى-عين أفرى",
+    "AdresseL": "DOUAR  AIN AFRA             COMMUNE  IMSOUANE",
+    "AdresseA": "دوار أفرى جماعة إمسوان",
+    "COMMUNE": "Imsouane",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS MOULAY ZIDANE ID BOUABBA",
+    "NOM_ETABA": "م.م مولاي زيدان-اد بوعبا",
+    "AdresseL": "DOUAR  ID BOUABBA           COMMUNE  IMSOUANE",
+    "AdresseA": "دوار اد بوعبا جماعة إمسوان",
+    "COMMUNE": "Imsouane",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ID BENSAG ID BENSAG",
+    "NOM_ETABA": "م.م اد بنصاك-اد بنصاك",
+    "AdresseL": "DOUAR  TILLILT        COMMUNE  IMSOUANE",
+    "AdresseA": "دوار تيليت اد بنصاك جماعة إمسوان",
+    "COMMUNE": "Imsouane",
+    "PROVINCE": "Agadir-Ida -O",
+    "REGION": "Souss-Massa",
+    "TYPE": "PRIMAIRE"
+  }
+]

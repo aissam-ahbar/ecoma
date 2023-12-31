@@ -1,0 +1,92 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL MOULAY AL HASSANE",
+    "NOM_ETABA": "ثانوية مولاي الحسن الإعدادية  ",
+    "AdresseL": "Centre oULeD RAHMOUNE",
+    "AdresseA": "مركز أولاد رحمون",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "Province: El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "S S HAOUZIA",
+    "NOM_ETABA": "م/م الحوزية",
+    "AdresseL": "SOUK JAMAA EL HAOUZIA ",
+    "AdresseA": "سوق جمعة الحوزية ",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ABDERRAHMANE EDDAKHIL",
+    "NOM_ETABA": "م/م عبد الرحمان الداخل",
+    "AdresseL": "DOUAR LAGRITATE ",
+    "AdresseA": "دوار لكريطات ",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S ESSLAMNA",
+    "NOM_ETABA": "م/م السلامنة",
+    "AdresseL": "DOUAR OULED AAMIRA ESSLAMNA",
+    "AdresseA": "دوار أولاد عميرة السلامنة ",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S SLAMNA DAKHLA",
+    "NOM_ETABA": "م/م سلامنة : الدخلة",
+    "AdresseL": "DOUAR DAKHLA",
+    "AdresseA": "دوار الدخلة  ",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S KHAMLICHE",
+    "NOM_ETABA": "م/م خمليش",
+    "AdresseL": "DOUAR KHAMLICHE ",
+    "AdresseA": "دوار خمليش",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S LAGRITATE  LAMADGUA",
+    "NOM_ETABA": "م/م الكريطات: المعادكة",
+    "AdresseL": "DOUAR LAMAADGA ",
+    "AdresseA": "دوار لمعادكة ",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S MHIOULA",
+    "NOM_ETABA": "م/م امهيولة",
+    "AdresseL": "DOUAR MHIOULA",
+    "AdresseA": "دوار امهيولة",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "S S BOUSSADRA",
+    "NOM_ETABA": "م/م بوسدرة",
+    "AdresseL": "DOUAR BOUSSADRA",
+    "AdresseA": "دوار بوسدرة",
+    "COMMUNE": "Oulad Rahmoune",
+    "PROVINCE": "El Jadida",
+    "REGION": "Grand Casablanca-Settat",
+    "TYPE": "PRIMAIRE"
+  }
+]

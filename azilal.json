@@ -1,0 +1,222 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL PRINCE HERITIER",
+    "NOM_ETABA": "ثانوية ولي العهد الاعدادية",
+    "AdresseL": "QUARTIER OULBACHIR",
+    "AdresseA": "حي ألبشير ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL JABER BNOU HAYANE",
+    "NOM_ETABA": "ثانوية جابر بن حيان الإعدادية",
+    "AdresseL": "BD HASSAN II ",
+    "AdresseA": "شارع الحسن الثاني ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL AHMED EL HANSSALI ",
+    "NOM_ETABA": "ثانوية أحمد الحنصالي الإعدادية",
+    "AdresseL": "AZILAL CENTRE",
+    "AdresseA": "مركز أزيلال",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL IBN ALMOQUAFAA",
+    "NOM_ETABA": "ثانوية ابن المقفع الإعدادية",
+    "AdresseL": "CITE ADMINISTRATIVE ",
+    "AdresseA": "الحي الإداري ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL TICHIBITE",
+    "NOM_ETABA": "ثانوية تشيبيت الإعدادية",
+    "AdresseL": "HAY TICHIBIT ",
+    "AdresseA": "حي تشيبيت",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL LE NOUVEAU ",
+    "NOM_ETABA": "الثانوية الإعدادية الجديدة",
+    "AdresseL": "hay tanoute",
+    "AdresseA": "حي تانوت",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Province: Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "ECOLE OUAD EDDAHAB",
+    "NOM_ETABA": "مدرسة وادي الذهب",
+    "AdresseL": "Route de marrakech cité oued Eddahabe",
+    "AdresseA": "طريق مراكش حي وادي الدهب",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL WAHDA",
+    "NOM_ETABA": "مدرسة الوحدة",
+    "AdresseL": "HAY TALBOURJT",
+    "AdresseA": "حي تالبرجت ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE CENTRALE AZILAL",
+    "NOM_ETABA": "المدرسة المركزية أزيلال",
+    "AdresseL": "QUARTIER ADMINISTRATIF  ",
+    "AdresseA": "الحي الإداري ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE AZOURKI",
+    "NOM_ETABA": "مدرسة أزوركي",
+    "AdresseL": "HAY EL MASSIRA ",
+    "AdresseA": "حي المسيرة ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE BIR ANZARANE",
+    "NOM_ETABA": "مدرسة بئر انزران",
+    "AdresseL": "ECOLE BIRANARANE",
+    "AdresseA": "مدرسة بئر انزران ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE EL QUODS",
+    "NOM_ETABA": "مدرسة القدس",
+    "AdresseL": "quartier zaouiya ",
+    "AdresseA": " حي الزاوبة",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "ECOLE IZLAFEN",
+    "NOM_ETABA": "مدرسة إزلافن",
+    "AdresseL": "DOUAR IZLAFEN ",
+    "AdresseA": "دوار إزلافن ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT TECHNIQUE MOHAMED VI ",
+    "NOM_ETABA": "ثانوية محمد السادس التأهيلية التقنية",
+    "AdresseL": "QUARTIER TANOUT",
+    "AdresseA": "حي تانوت ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT OUZOUD",
+    "NOM_ETABA": "ثانوية أزود التأهيلية",
+    "AdresseL": " AVENUE HASSAN II ",
+    "AdresseA": "شارع الحسن الثاني",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "LYCEE QUALIFIANT AL MASSIRA ",
+    "NOM_ETABA": "ثانوية المسيرة التأهيلية",
+    "AdresseL": "ROUTE DE MARRAKECH ",
+    "AdresseA": "طريق مراكش ",
+    "COMMUNE": "Azilal",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "LYCEE"
+  },
+  {
+    "NOM_ETABL": "PEPINIERE DES CADRE AZILAL",
+    "NOM_ETABA": "مشتل أطر أزيلال",
+    "AdresseL": "NULL",
+    "AdresseA": "حي تانوت ازيلال",
+    "COMMUNE": "Azilal ",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "NOUR EL IRFANE ",
+    "NOM_ETABA": "نور العرفان",
+    "AdresseL": "QUARTIER TALBERJT azilal",
+    "AdresseA": "حي تالبرجت",
+    "COMMUNE": "Azilal ",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "GROUPE SCOLAIRE ECHARIF EL IDRISSI",
+    "NOM_ETABA": "مجموعة مدارس الشريف الادريسي",
+    "AdresseL": "hay talbarjt",
+    "AdresseA": "حي تالبرجت",
+    "COMMUNE": "Azilal ",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ELMOFID",
+    "NOM_ETABA": "المفيد",
+    "AdresseL": "Quartier El Farah, Rue 4 N° 15",
+    "AdresseA": "حي الفرح، زنقة 4 رقم 15",
+    "COMMUNE": "Azilal ",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "AL KHALIA SAGHIRA",
+    "NOM_ETABA": "الخلية الصغيرة",
+    "AdresseL": "Quartier Administratif ",
+    "AdresseA": "الحي الإداري",
+    "COMMUNE": "Azilal ",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  },
+  {
+    "NOM_ETABL": "ABOUADNANE ",
+    "NOM_ETABA": "ابو عدنان",
+    "AdresseL": "QUARTIER ENNASIME ZAOUYA AZILA",
+    "AdresseA": "حي النسيم الزاوية ازيلال",
+    "COMMUNE": "Azilal ",
+    "PROVINCE": "Azilal",
+    "REGION": "Béni Mellal-Khénifra",
+    "TYPE": "PRIVE"
+  }
+]

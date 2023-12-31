@@ -1,0 +1,42 @@
+[
+  {
+    "NOM_ETABL": "LYCE COLLGIAL  BLEIDA ",
+    "NOM_ETABA": "الثانوية الإعدادية بليدة",
+    "AdresseL": "BLEIDA ZAGORA",
+    "AdresseA": "بليدة-زاكورة",
+    "COMMUNE": "Bleida",
+    "PROVINCE": "Province: Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SS BOUAZARE",
+    "NOM_ETABA": "   م.م بوازار ",
+    "AdresseL": "BLEIDA CENTRE BLEIDA",
+    "AdresseA": "لبليدة بوازار",
+    "COMMUNE": "Bleida",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS ESMARA",
+    "NOM_ETABA": "م.م اسمارة ",
+    "AdresseL": "DOUAR ESMARA BLEIDA",
+    "AdresseA": "دوار السمارة جماعة البليدة",
+    "COMMUNE": "Bleida",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "SS EL MARJA ",
+    "NOM_ETABA": "م.م المرجة",
+    "AdresseL": "DOUAR EDAOUDYAT  ELMARJA   C   BLEIDA",
+    "AdresseA": "دوار دوديات المرجة جماعة البليدة",
+    "COMMUNE": "Bleida",
+    "PROVINCE": "Zagora",
+    "REGION": "Drâa-Tafilalet",
+    "TYPE": "PRIMAIRE"
+  }
+]

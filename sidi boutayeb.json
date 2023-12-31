@@ -1,0 +1,62 @@
+[
+  {
+    "NOM_ETABL": "LYCEE COLLEGIAL SIDI BOUTAYEB",
+    "NOM_ETABA": "الثانوية الإعدادية سيدي بوطيب",
+    "AdresseL": "DOUAR OULAD BOUZAZIA COMMUNE SIDI BOUTAYEB",
+    "AdresseA": "دوار اولاد بوزازية جماعة سيدي بوطيب",
+    "COMMUNE": "Sidi Boutayeb",
+    "PROVINCE": "Province: Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "LC"
+  },
+  {
+    "NOM_ETABL": "SIDI BOUTAYEB",
+    "NOM_ETABA": "سيدي بوطيب",
+    "AdresseL": "DOUAR SIDI BOUTAYEB COMMUNE SIDI BOUTAYEB",
+    "AdresseA": "دوار سيدي بوطيب جماعة سيدي بوطيب",
+    "COMMUNE": "Sidi Boutayeb",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD SGUIR",
+    "NOM_ETABA": "اولاد  اسكير",
+    "AdresseL": "DOUAR OULAD SGUIR COMMUNE SIDI BOUTAYEB",
+    "AdresseA": "دوار اولاد اسكير جماعة سيدي بوطيب",
+    "COMMUNE": "Sidi Boutayeb",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUZAZIA",
+    "NOM_ETABA": "اولاد بوزازية",
+    "AdresseL": "DOUAR OULAD BOUZAZIA COMMUNE SIDI BOUTAYEB",
+    "AdresseA": "دوار اولاد بوزازية جماعة سيدي بوطيب",
+    "COMMUNE": "Sidi Boutayeb",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "OULAD BOUKHALFA",
+    "NOM_ETABA": "اولاد بوخالفة",
+    "AdresseL": "DOUAR OULAD BOUKHALFA COMMUNE SIDI BOUTAYEB",
+    "AdresseA": "دوار اولاد بوخالفة جماعة سيدي بوطيب",
+    "COMMUNE": "Sidi Boutayeb",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  },
+  {
+    "NOM_ETABL": "GAA JABER",
+    "NOM_ETABA": "كاع جابر",
+    "AdresseL": "DOUAR GAA JABER COMMUNE SIDI BOUTAYEB MISSOUR",
+    "AdresseA": " ،دوار كاع جابر جماعة سيدي بوطيب ميسور",
+    "COMMUNE": "Sidi Boutayeb",
+    "PROVINCE": "Boulemane",
+    "REGION": "Fès-Meknès",
+    "TYPE": "PRIMAIRE"
+  }
+]
